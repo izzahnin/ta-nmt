@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "White_Eyed_Vireo_0001_159237.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird with a yellow and grey crown, grey throat and breast, yellow belly and back with green-grey wings and tail and white wingbars.",
+          "indo": "burung kecil dengan mahkota kuning dan abu-abu, tenggorokan dan dada abu-abu, perut dan punggung kuning dengan sayap dan ekor hijau-abu-abu dan garis sayap putih."
+        },
+        {
+          "english": "a small bird with a yellow belly, and a grey crown, and a small bill",
+          "indo": "seekor burung kecil dengan perut kuning, mahkota abu-abu, dan paruh kecil"
+        },
+        {
+          "english": "small green bird with a light grey head and long feathers with white wingbars and grey secondaries.",
+          "indo": "burung kecil berwarna hijau dengan kepala abu-abu muda dan bulu panjang dengan garis sayap putih dan sayap bulu sekunder berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow underbelly and a gray beak.",
+          "indo": "seekor burung kecil dengan perut kuning dan paruh abu-abu."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a gray wing with white wingbars.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna kuning dengan sayap berwarna abu-abu dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is green with grey and has a very short beak.",
+          "indo": "burung ini berwarna hijau abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is gray, yellow, and white in color, with a small beak.",
+          "indo": "burung ini berwarna abu-abu, kuning, dan putih, dengan paruh kecil."
+        },
+        {
+          "english": "this bird is yellow, gray, black and white in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, abu-abu, hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a black bill, with a yellow flank, and black legs.",
+          "indo": "burung ini mempunyai paruh berwarna hitam, sayap berwarna kuning, dan kaki berwarna hitam."
+        },
+        {
+          "english": "this small bird has a gray head, yellow sides and back, black wings with white wingbars and a pointed beak.",
+          "indo": "burung kecil ini mempunyai kepala berwarna abu-abu, bagian samping dan punggung berwarna kuning, sayap berwarna hitam dengan garis sayap berwarna putih dan paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0002_159180.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small yet plump bird has a yellow body with darker wingbars separated by a dirty grey nape and a tiny beak.",
+          "indo": "seekor burung kecil namun gempal memiliki tubuh berwarna kuning dengan garis sayap lebih gelap yang dipisahkan oleh tengkuk abu-abu kotor dan paruh kecil."
+        },
+        {
+          "english": "this bird has a yellow belly, a short bill, and a gray crown.",
+          "indo": "burung ini memiliki perut berwarna kuning, paruh pendek, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "a small gray bird with pale yellow sides and a slender black beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sisi kuning pucat dan paruh hitam ramping."
+        },
+        {
+          "english": "this small yellow and gray bird has black accents on it's wings.",
+          "indo": "burung kecil berwarna kuning dan abu-abu ini memiliki aksen hitam pada sayapnya."
+        },
+        {
+          "english": "this is a small, grey bird with yellow on the breast and sides.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan warna kuning di dada dan samping."
+        },
+        {
+          "english": "this bird has a short stumpy head with a pointed black bill and white breast, with grey coverts and yellow secondaries.",
+          "indo": "Burung ini mempunyai kepala pendek kekar dengan paruh runcing berwarna hitam dan dada berwarna putih, dengan bulu berwarna abu-abu dan bulu sekunder berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a gray belly and breasts and black secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu serta bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow with black patches",
+          "indo": "Burung ini mempunyai perut yang berwarna kuning dengan bercak hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a grey crown with a small black bill and yellow sides.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh kecil berwarna hitam dan sisi berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0009_158830.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "small roundish bird with yellow undersided body, white breast and chin, white neck stripe, black secondaries with one white wingbar, black eyes, pale gray bil and feet.",
+          "indo": "burung kecil bulat dengan bagian bawah tubuh kuning, dada dan dagu putih, garis leher putih, bulu sekunder hitam dengan satu garis sayap putih, mata hitam, paruh dan kaki abu-abu pucat."
+        },
+        {
+          "english": "this bird has a small straight bill, a white throat, and a yellow belly.",
+          "indo": "burung ini memiliki paruh kecil lurus, tenggorokan berwarna putih, dan perut berwarna kuning."
+        },
+        {
+          "english": "this is a short, fat bird with a small bill. the belly is yellow and the wings are green with white wingbars.",
+          "indo": "ini adalah burung pendek gemuk dengan paruh kecil. perutnya berwarna kuning dan sayapnya berwarna hijau dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "short and fat in both beak and bod, this bird has striking yellows on its belly, abdomen, and eyering.",
+          "indo": "pendek dan gemuk pada paruh dan badannya, burung ini memiliki warna kuning mencolok pada bagian perut, perut, dan matanya."
+        },
+        {
+          "english": "a small plump bird with a bright belly tummy, gray crown and a yellow tail.",
+          "indo": "seekor burung kecil gempal dengan perut buncit cerah, mahkota abu-abu dan ekor kuning."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, yellow wings with two white wingbars, and black tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap kuning dengan dua garis sayap berwarna putih, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "i see a bright yellow bird, small, with a short flat bill and a white breast.",
+          "indo": "saya melihat seekor burung berwarna kuning cerah, kecil, dengan paruh pendek dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang bulat"
+        },
+        {
+          "english": "this smallish bird has a yellow belly and under-tail and yellow eye stripe with olive wings with a prominent white wing bar.",
+          "indo": "Burung bertubuh kecil ini memiliki perut dan ekor bawah berwarna kuning serta garis mata berwarna kuning dengan sayap berwarna zaitun dengan garis sayap berwarna putih yang menonjol."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0012_159495.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small yellow and grey bird with bright yellow eyes and white wingbars.",
+          "indo": "seekor burung kecil berwarna kuning dan abu-abu dengan mata kuning cerah dan sayap putih."
+        },
+        {
+          "english": "this little bird has a yellow eyebrow and a white belly",
+          "indo": "burung kecil ini memiliki alis berwarna kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning dan paruh runcing."
+        },
+        {
+          "english": "this is a bird with a white belly, black and grey wing, grey head and a yellow eyebrow.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam abu-abu, kepala abu-abu dan alis kuning."
+        },
+        {
+          "english": "this is a small, tan bird with yellow near the bill and on the sides.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan warna kuning di dekat paruh dan di sisinya."
+        },
+        {
+          "english": "this particular bird has a white belly and gray breasts and a yellow crown",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna abu-abu serta mahkota berwarna kuning"
+        },
+        {
+          "english": "small grey yellow and white bird with long tarsus and a medium length blue beak.",
+          "indo": "burung kecil berwarna abu-abu kuning dan putih dengan tarsus panjang dan paruh biru panjang sedang."
+        },
+        {
+          "english": "a dirty yellow bird, there are some white and black wingbars and a white abdomen and a short, thin bill.",
+          "indo": "burung berwarna kuning kotor, terdapat beberapa garis sayap berwarna putih dan hitam serta bagian perut berwarna putih dan paruh pendek tipis."
+        },
+        {
+          "english": "this bird is yellow and white with hints of black in its wings and tail feather it has white legs",
+          "indo": "burung ini berwarna kuning putih dengan sedikit warna hitam pada sayapnya dan bulu ekornya, kakinya berwarna putih"
+        },
+        {
+          "english": "this bird has a yellow superciliary, a greyish brown body and white wing bars with black in between. the beak is short and pointed.",
+          "indo": "burung ini mempunyai superciliary berwarna kuning, badan berwarna coklat keabu-abuan, dan garis sayap berwarna putih dengan warna hitam di antaranya. paruhnya pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0015_159081.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a small eyering ass well as a small bill that is black.",
+          "indo": "burung itu mempunyai pantat kecil dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow, black, and grey in color with a short black beak and white eye rings.",
+          "indo": "burung ini berwarna kuning, hitam, dan abu-abu dengan paruh pendek berwarna hitam dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a very striking white iris surrounded by yellow feathers in a grey capped head, with specks of yellow on the back feathers.",
+          "indo": "burung ini mempunyai iris mata berwarna putih yang sangat mencolok dikelilingi bulu berwarna kuning di bagian kepala tertutup berwarna abu-abu, dengan bintik kuning pada bulu punggung."
+        },
+        {
+          "english": "this small bird features magnificent white-blue eyes and unique shades of black and yellow along its plumage.",
+          "indo": "burung kecil ini memiliki mata biru-putih yang indah dan corak hitam dan kuning yang unik di sepanjang bulunya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown with a yellow head",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan kepala berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a yellow and white head. and a yellow and black body.",
+          "indo": "seekor burung kecil dengan kepala berwarna kuning dan putih. dan tubuh kuning dan hitam."
+        },
+        {
+          "english": "this small bird has a grey bill and crown with a white throat and belly.",
+          "indo": "burung kecil ini memiliki paruh dan mahkota berwarna abu-abu dengan tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "this bird as small legs with yellow around its eye patch and yellow on the body with black, white and gray around the rest of the body.",
+          "indo": "burung ini berkaki kecil dengan warna kuning di sekitar penutup matanya dan kuning pada badannya dengan warna hitam, putih dan abu-abu di sekeliling badan lainnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0016_158978.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "small roundish bird with a yellow abdomen and belly, mostly light gray head, with a yellow spot peri-eye, black secondaries with one white wingbar.",
+          "indo": "burung kecil bulat dengan perut dan perut kuning, kepala sebagian besar berwarna abu-abu muda, dengan bintik kuning di sekitar mata, bulu sekunder berwarna hitam dengan satu garis sayap putih."
+        },
+        {
+          "english": "a bird with yellow and black neck, throat, black wings with yellow wingbars and the bill is short and pointed",
+          "indo": "burung dengan leher kuning dan hitam, tenggorokan, sayap hitam dengan garis sayap kuning dan paruh pendek dan runcing"
+        },
+        {
+          "english": "the bird has a white eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is grey and yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dan kuning serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a white eyering and a green belly.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan perut berwarna hijau."
+        },
+        {
+          "english": "a small colorful bird with a white eye ring, yellow vent and wing bars, and grey along its coverts.",
+          "indo": "seekor burung kecil berwarna-warni dengan cincin mata putih, lubang kuning dan garis sayap, serta abu-abu di sepanjang bulunya."
+        },
+        {
+          "english": "this yellow bird has very large eyes and a small beak with very crooked feet.",
+          "indo": "burung kuning ini mempunyai mata yang sangat besar dan paruh yang kecil dengan kaki yang sangat bengkok."
+        },
+        {
+          "english": "the bird has a puffy green belly, striped wingbar and small bill.",
+          "indo": "burung ini memiliki perut buncit berwarna hijau, garis sayap bergaris, dan paruh kecil."
+        },
+        {
+          "english": "a small bird, mostly bright yellow, with large white eyes.",
+          "indo": "seekor burung kecil, sebagian besar berwarna kuning cerah, dengan mata putih besar."
+        },
+        {
+          "english": "this bird has a yellow body with a grey neck and white chin, its eyes are white with black pupils.",
+          "indo": "burung ini berbadan kuning dengan leher berwarna abu-abu dan dagu berwarna putih, matanya berwarna putih dengan pupil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0018_159450.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a distinctive blue eye; its toes are arranged with three in front and one in back; tip of tail splits slightly in two; face is gray with yellow marking.",
+          "indo": "burung ini memiliki mata biru yang khas; jari-jari kakinya tersusun dengan tiga di depan dan satu di belakang; ujung ekor terbelah dua; wajah berwarna abu-abu dengan tanda kuning."
+        },
+        {
+          "english": "this bird has a yellow crown, a white belly and a black bill.",
+          "indo": "burung ini memiliki mahkota berwarna kuning, perut berwarna putih, dan paruh berwarna hitam."
+        },
+        {
+          "english": "a small gray bird with yellow markings and light eyes.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan tanda kuning dan mata terang."
+        },
+        {
+          "english": "this bird has a white belly and breast with a yellow and gray crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna kuning dan abu-abu."
+        },
+        {
+          "english": "a yellowing eyering and sides, this foul has a salt and pepper look: grey head and chest with black and white coverts and secondaries.",
+          "indo": "cincin mata dan bagian samping menguning, busuk ini memiliki tampilan garam dan merica: kepala dan dada berwarna abu-abu dengan bulu hitam dan putih serta bulu sekunder."
+        },
+        {
+          "english": "this bird has a bright yellow eye ring and superciliary with a lighter yellow side.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning cerah dan superciliary dengan sisi kuning muda."
+        },
+        {
+          "english": "the small bird is white in color with a yellow eyebrow and a black beak.",
+          "indo": "burung kecil berwarna putih dengan alis kuning dan paruh hitam."
+        },
+        {
+          "english": "the bird has a crown that is yellow in color and white eyes.",
+          "indo": "burung tersebut memiliki mahkota yang berwarna kuning dan mata berwarna putih."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a black beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is gray and yellow in color, and has a curved black beak.",
+          "indo": "burung ini berwarna abu-abu dan kuning, serta memiliki paruh berwarna hitam melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0019_159095.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has black beak, gray tarsus and feet, white throat, breast, belly and abdomen.",
+          "indo": "burung ini mempunyai paruh berwarna hitam, tarsus dan kaki berwarna abu-abu, tenggorokan, dada, perut dan perut berwarna putih."
+        },
+        {
+          "english": "a small colorful bird with a white eye ring, white throat and breast, yellow sides, brown and green secondaries, and brown coverts with white wing bars.",
+          "indo": "burung kecil berwarna-warni dengan cincin mata putih, tenggorokan dan dada putih, sisi kuning, bulu sekunder berwarna coklat dan hijau, dan bulu coklat dengan garis sayap putih."
+        },
+        {
+          "english": "an average sized bird with a yellow under belly, brown and yellow wing feathers, and a short flat black bill.",
+          "indo": "burung berukuran sedang dengan perut bagian bawah berwarna kuning, bulu sayap berwarna coklat dan kuning, serta paruh pendek berwarna hitam rata."
+        },
+        {
+          "english": "the bird has a white eyering and a white throat and breast.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan tenggorokan serta dada berwarna putih."
+        },
+        {
+          "english": "this little bird has a white belly and breast, yellow crown, and little blunt bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, mahkota berwarna kuning, dan paruh kecil yang tumpul."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, black and yellow wings with two white wingbars, and black tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna hitam kuning dengan dua garis sayap berwarna putih, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird is white brown and yellow in color, with a stubby beak.",
+          "indo": "burung ini berwarna putih coklat kuning, dengan paruh yang gemuk."
+        },
+        {
+          "english": "the bird has a long tail with a yellow face.",
+          "indo": "burung itu memiliki ekor yang panjang dengan muka berwarna kuning."
+        },
+        {
+          "english": "this bird has a small white belly, yellow on its sides and head, and brown wings.",
+          "indo": "burung ini memiliki perut kecil berwarna putih, bagian samping dan kepala berwarna kuning, serta sayap berwarna coklat."
+        },
+        {
+          "english": "this little yellow bird has white eyes and a black bill.",
+          "indo": "burung kecil berwarna kuning ini bermata putih dan paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0022_159037.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a large crown as well as a tiny bill that is black.",
+          "indo": "burung ini memiliki mahkota yang besar serta paruh kecil yang berwarna hitam."
+        },
+        {
+          "english": "the small bird has a round head and white chest with white wingbars.",
+          "indo": "burung kecil ini memiliki kepala bulat dan dada berwarna putih dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is white and yellow in color, with a short black beak and a yellow eye ring.",
+          "indo": "burung ini berwarna putih kuning, dengan paruh pendek berwarna hitam dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this small, plump white bird has yellow accents beneath it's wings, and yellow tints on it's head and face.",
+          "indo": "burung kecil berwarna putih gempal ini memiliki aksen kuning di bawah sayapnya, dan semburat kuning di kepala dan wajahnya."
+        },
+        {
+          "english": "this is a small, yellow bird with black on the wingbars.",
+          "indo": "ini adalah burung kecil berwarna kuning dengan garis sayap hitam."
+        },
+        {
+          "english": "this bird is white with yellow and has a very short beak.",
+          "indo": "burung ini berwarna putih kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white and yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna putih dan kuning"
+        },
+        {
+          "english": "this bird has yellowish green primaries, a yellowish green crown, and a white belly.",
+          "indo": "burung ini memiliki ciri utama berwarna hijau kekuningan, mahkota berwarna hijau kekuningan, dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a white belly and white breast with a short round beak.",
+          "indo": "seekor burung kecil dengan perut putih dan dada putih dengan paruh bulat pendek."
+        },
+        {
+          "english": "this bird has a yellow band around it's eyes, and a puffy white belly.",
+          "indo": "burung ini memiliki pita kuning di sekitar matanya, dan perut buncit berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0024_159193.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bright little bird has exceptional white, wingbars that separate its coverts, primaries and secondaries, its eyering is visibly yellow and bright compared to its more darker green tones of the back and tail.",
+          "indo": "burung kecil yang cerah ini mempunyai garis sayap berwarna putih yang luar biasa yang memisahkan bulunya, bulu primer dan sekundernya, matanya terlihat kuning dan cerah dibandingkan dengan warna hijau tua di punggung dan ekornya."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feathers and black beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna putih dan paruh berwarna hitam"
+        },
+        {
+          "english": "small greenish yellow bird with yellow sides, white belly, eyering, and white wingbars",
+          "indo": "burung kecil berwarna kuning kehijauan dengan sisi kuning, perut putih, cincin mata, dan garis sayap putih"
+        },
+        {
+          "english": "a bird with white wingbar, small poitned bill, and yellow superciliary.",
+          "indo": "burung dengan garis sayap berwarna putih, paruh runcing kecil, dan superciliary berwarna kuning."
+        },
+        {
+          "english": "this bird is black and yellow in color with a sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam kuning dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small green and yellow bird with a tiny beak.",
+          "indo": "seekor burung kecil berwarna hijau dan kuning dengan paruh kecil."
+        },
+        {
+          "english": "this bird is white, black and brown in color, with a sharp black beak.",
+          "indo": "burung ini berwarna putih, hitam dan coklat, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a striped wing, a small head, a short tail, long legs, and a downward curved beak.",
+          "indo": "burung kecil dengan sayap bergaris, kepala kecil, ekor pendek, kaki panjang, dan paruh melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0026_158963.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this small bird is all a dark grey except for its light grey belly.",
+          "indo": "burung kecil ini semuanya berwarna abu-abu tua kecuali perutnya yang berwarna abu-abu muda."
+        },
+        {
+          "english": "the bird has a white belly and green tinted wings and head.",
+          "indo": "burung itu memiliki perut berwarna putih dan sayap serta kepala berwarna hijau."
+        },
+        {
+          "english": "this bird is green with black on its back and has a very short beak.",
+          "indo": "burung ini berwarna hijau dengan punggung berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is small and has colors that blend in like green and brown, with a sharp bill",
+          "indo": "burung ini berukuran kecil dan memiliki warna yang menyatu seperti hijau dan coklat, dengan paruh yang runcing"
+        },
+        {
+          "english": "this green bird has a single white wingbar and a pointed black bill.",
+          "indo": "burung berwarna hijau ini memiliki satu garis sayap berwarna putih dan paruh berwarna hitam yang runcing."
+        },
+        {
+          "english": "this bird is black with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is green and yellow",
+          "indo": "burung ini memiliki perut yang berwarna hijau dan kuning"
+        },
+        {
+          "english": "this is a green colored bird with a large black bill",
+          "indo": "ini adalah burung berwarna hijau dengan paruh hitam besar"
+        },
+        {
+          "english": "this bird is white and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna putih coklat, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this small green bird has a long cylindrical beak and white eyerings.",
+          "indo": "burung kecil berwarna hijau ini memiliki paruh silindris panjang dan cincin mata berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0029_159334.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a bird with black foot, white belly, yellow chest, white throat, black bill, and brown crown.",
+          "indo": "burung berkaki hitam, perut putih, dada kuning, tenggorokan putih, paruh hitam, dan mahkota coklat."
+        },
+        {
+          "english": "this is a bird with a yellow belly and head and a grey breast.",
+          "indo": "ini adalah burung dengan perut dan kepala berwarna kuning serta dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird is golden-brown, with a short black bill, white eyes, and a golden eyering.",
+          "indo": "burung ini berwarna coklat keemasan, dengan paruh pendek berwarna hitam, mata berwarna putih, dan cincin mata berwarna emas."
+        },
+        {
+          "english": "this bird has a yellow eyering, a tan breast, and a yellow underbelly",
+          "indo": "burung ini memiliki cincin mata berwarna kuning, dada berwarna coklat, dan perut bagian bawah berwarna kuning"
+        },
+        {
+          "english": "bird with brown crownand nape, tarsus and feet, and dark brown beak, and light brown throat",
+          "indo": "burung dengan mahkota dan tengkuk berwarna coklat, tarsus dan kaki, serta paruh berwarna coklat tua, dan tenggorokan berwarna coklat muda"
+        },
+        {
+          "english": "this small bird is gray with a yellow eyering and yellow belly.",
+          "indo": "burung kecil ini berwarna abu-abu dengan cincin mata kuning dan perut kuning."
+        },
+        {
+          "english": "thisis a mostly brown and yellow bird with brown on wings and tail and some yellow on the head.",
+          "indo": "ini adalah burung yang sebagian besar berwarna coklat dan kuning dengan sayap dan ekor berwarna coklat dan beberapa kuning di kepala."
+        },
+        {
+          "english": "this bird has striking white eyes, a creamy yellow throatpatch and breast, and black to dark brown wings.",
+          "indo": "burung ini memiliki mata berwarna putih mencolok, penutup tenggorokan dan dada berwarna kuning krem, serta sayap berwarna hitam hingga coklat tua."
+        },
+        {
+          "english": "a yellow bird with black head and black small bill.",
+          "indo": "seekor burung kuning dengan kepala hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna kuning kecokelatan, serta mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0030_159265.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird grey bird with yellow lining the sides of its white belly.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan lapisan kuning di sisi perut putihnya."
+        },
+        {
+          "english": "a small bird with a grey body, white throat and eye ring, and a yellow side.",
+          "indo": "burung kecil berbadan abu-abu, tenggorokan dan cincin mata berwarna putih, serta sisi berwarna kuning."
+        },
+        {
+          "english": "this bird is black, yellow, and white in color with a small black and white beak.",
+          "indo": "burung ini berwarna hitam, kuning, dan putih dengan paruh kecil berwarna hitam putih."
+        },
+        {
+          "english": "a small smooth bird with a whitish gray chest, a yellowish gray upper body, and a small grayish black beak",
+          "indo": "burung kecil halus dengan dada abu-abu keputihan, tubuh bagian atas abu-abu kekuningan, dan paruh kecil berwarna hitam keabu-abuan"
+        },
+        {
+          "english": "this small bird has a straight bill, and yellow breast.",
+          "indo": "burung kecil ini memiliki paruh lurus, dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird has feathers that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam kuning dan perutnya berwarna putih"
+        },
+        {
+          "english": "small bird with a white belly that has a black bill, black secondaries, and white wingbars.",
+          "indo": "burung kecil dengan perut berwarna putih yang memiliki paruh berwarna hitam, bulu sekunder berwarna hitam, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is white, yellow, and black in color, with a multi colored beak.",
+          "indo": "burung ini berwarna putih, kuning, dan hitam, dengan paruh beraneka warna."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small bird, with a yellow flank, and white eyerings.",
+          "indo": "seekor burung kecil, dengan sayap kuning, dan cincin mata berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0032_159145.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a yellow belly and breast as well as a black eyering.",
+          "indo": "burung itu memiliki perut dan dada berwarna kuning serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is small,greenish and has fluffy looking feathers",
+          "indo": "burung ini berukuran kecil, berwarna kehijauan dan bulunya tampak halus"
+        },
+        {
+          "english": "a seal bird containing yellow wingbars, a grey nape and throat, and a light yellow belly.",
+          "indo": "burung anjing laut dengan garis sayap berwarna kuning, tengkuk dan tenggorokan berwarna abu-abu, serta perut berwarna kuning muda."
+        },
+        {
+          "english": "this small bird has big black eyes, a tiny, hooked beak, and dull yellow coloring throughout its body along with dark secondary feathers.",
+          "indo": "burung kecil ini mempunyai mata hitam besar, paruh kecil bengkok, dan warna kuning kusam di sekujur tubuhnya serta bulu sekunder berwarna gelap."
+        },
+        {
+          "english": "small to medium grey green brown and black bird with medium tarsus and short beak",
+          "indo": "burung kecil sampai sedang abu-abu hijau coklat dan hitam dengan tarsus sedang dan paruh pendek"
+        },
+        {
+          "english": "this beautiful bird is full of different shades of yellow with two beautiful wingbars, a small head, and a pointed bill.",
+          "indo": "burung cantik ini penuh dengan corak warna kuning yang berbeda-beda dengan dua garis sayap yang indah, kepala kecil, dan paruh runcing."
+        },
+        {
+          "english": "this bird has a green crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hijau dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has yellow wing guards with a white belly and a greenish crown.",
+          "indo": "burung ini memiliki pelindung sayap berwarna kuning dengan perut berwarna putih dan mahkota berwarna kehijauan."
+        },
+        {
+          "english": "this bird is a light green with a white belly and striped black and white wings",
+          "indo": "burung ini berwarna hijau muda dengan perut berwarna putih dan sayap bergaris hitam putih"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0033_159079.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a yellow belly, white throat and grey crown.",
+          "indo": "burung ini memiliki perut berwarna kuning, tenggorokan berwarna putih, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "lemon yellow and muted green are the colors that dominate on this little bird.",
+          "indo": "kuning lemon dan hijau kalem menjadi warna yang mendominasi pada burung kecil ini."
+        },
+        {
+          "english": "very small bird with small grey beak with yellowish head with yellow belly with white throat with brown larsus.",
+          "indo": "burung sangat kecil dengan paruh kecil berwarna abu-abu dengan kepala kekuningan, perut kuning, tenggorokan putih, dan larsus coklat."
+        },
+        {
+          "english": "this bird is yellow and white in color with a skinny beak, and yellow eye rings.",
+          "indo": "burung ini berwarna kuning putih dengan paruh kurus, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this primarily yellow bird is small in stature with a short tail.",
+          "indo": "burung yang terutama berwarna kuning ini bertubuh kecil dengan ekor pendek."
+        },
+        {
+          "english": "a small bird with a flat bill,and black eyes",
+          "indo": "seekor burung kecil dengan paruh rata, dan mata hitam"
+        },
+        {
+          "english": "this bird has wings that are yellow and black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan hitam serta mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "a yellow and white bird with black wingbars and wing feathers.",
+          "indo": "burung berwarna kuning putih dengan garis sayap dan bulu sayap hitam."
+        },
+        {
+          "english": "this bird has yellow and black feathers with white wingbars, and a yellow cheekpatch and belly.",
+          "indo": "burung ini memiliki bulu berwarna kuning kehitaman dengan garis sayap berwarna putih, serta penutup pipi dan perut berwarna kuning."
+        },
+        {
+          "english": "this is a small black, green and white bird with long black legs, a long downward curved beak, a small tail, and striped wings.",
+          "indo": "ini adalah burung kecil berwarna hitam, hijau dan putih dengan kaki hitam panjang, paruh panjang melengkung ke bawah, ekor kecil, dan sayap bergaris."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0040_159101.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this small bird has a yellow belly and breast, with a green crown and white wingbars.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna kuning, dengan mahkota berwarna hijau dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a bird with a yellow belly, black wings and a yellow eyebrow.",
+          "indo": "ini adalah burung dengan perut kuning, sayap hitam dan alis kuning."
+        },
+        {
+          "english": "the bird has yellow breast, abdomen and side, with a brownish yellow crown.",
+          "indo": "burung ini memiliki dada, perut dan samping berwarna kuning, dengan mahkota berwarna kuning kecoklatan."
+        },
+        {
+          "english": "this small bird is predominately ellie with accents of black on it's feathers and a gray tinge to its head.",
+          "indo": "Burung kecil ini didominasi warna ellie dengan aksen warna hitam pada bulunya dan semburat abu-abu pada kepalanya."
+        },
+        {
+          "english": "this is a small bird with yellow on the breast and black and yellow on the wingbars.",
+          "indo": "ini adalah burung kecil dengan warna kuning di dada dan hitam kuning di sayap."
+        },
+        {
+          "english": "this little yellow and black bird has a very small and short beak.",
+          "indo": "burung kecil berwarna kuning dan hitam ini memiliki paruh yang sangat kecil dan pendek."
+        },
+        {
+          "english": "the eye rings and belly are yellow on the bird with thin tarsus",
+          "indo": "cincin mata dan perut berwarna kuning pada burung dengan tarsus tipis"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow, black and white in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a lime green chest, black and white wings, and a black head and neck.",
+          "indo": "burung kecil ini memiliki dada berwarna hijau limau, sayap hitam putih, serta kepala dan leher berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0041_159032.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a green crown and back, with yellow sides and eye rings.",
+          "indo": "burung ini memiliki mahkota dan punggung berwarna hijau, dengan sisi samping dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this little bird is yellow, black, and green, and has a big head for its body.",
+          "indo": "Burung kecil ini berwarna kuning, hitam, dan hijau, serta memiliki kepala yang besar untuk tubuhnya."
+        },
+        {
+          "english": "this small bird has a yellow belly and a straight, black beak.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning dan paruh lurus berwarna hitam."
+        },
+        {
+          "english": "the small grey bird has a yellow underbelly and pointed beak.",
+          "indo": "burung kecil berwarna abu-abu memiliki perut bagian bawah berwarna kuning dan paruh runcing."
+        },
+        {
+          "english": "a small bird that is mostly green/yellow in color, with a small, pointed beak and a bright yellow eyering.",
+          "indo": "burung kecil yang sebagian besar berwarna hijau/kuning, dengan paruh kecil runcing dan cincin mata berwarna kuning cerah."
+        },
+        {
+          "english": "this bird is green, yellow and black with a small beak and eyes.",
+          "indo": "burung ini berwarna hijau, kuning dan hitam dengan paruh dan mata kecil."
+        },
+        {
+          "english": "this bird has wings that are grey and white and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu putih dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this is a grey and white bodied bird with a yellow breast and spot on head.",
+          "indo": "ini adalah burung bertubuh abu-abu dan putih dengan dada kuning dan bintik di kepala."
+        },
+        {
+          "english": "this bird has a long narrow black beak with a yellow flank and a yellow eyering.",
+          "indo": "burung ini mempunyai paruh panjang, sempit, berwarna hitam dengan sayap berwarna kuning dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this small green bird has a yellow flank and eyering and black tarsus.",
+          "indo": "burung kecil berwarna hijau ini memiliki sayap berwarna kuning dan cincin mata serta tarsus berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0042_159012.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird with a short bill and a yellowish crown",
+          "indo": "seekor burung kecil dengan paruh pendek dan mahkota berwarna kekuningan"
+        },
+        {
+          "english": "a small bird with a green crown, white belly, and black secondaries.",
+          "indo": "seekor burung kecil dengan mahkota hijau, perut putih, dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "a small bird with blue eyes, a yellow head, side, white throat, belly and tarsus, and green feathers with black and white wingbars.",
+          "indo": "burung kecil bermata biru, kepala kuning, samping, tenggorokan putih, perut dan tarsus, serta bulu hijau dengan garis sayap hitam putih."
+        },
+        {
+          "english": "this bird has a white abdomen, belly and body with the rest of it's body in grey and yellow.",
+          "indo": "burung ini mempunyai perut, perut dan badan berwarna putih dengan selebihnya berwarna abu-abu dan kuning."
+        },
+        {
+          "english": "this bird is white, black, and yellow in color with a black beak, and white eye rings.",
+          "indo": "burung ini berwarna putih, hitam, dan kuning dengan paruh berwarna hitam, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has an off white belly with yellow tints on its side, and a yellow tinted crown.",
+          "indo": "burung ini memiliki perut berwarna putih pucat dengan semburat kuning di sisinya, dan mahkota berwarna kuning."
+        },
+        {
+          "english": "this bird has a white belly and breast and a yellow wing and head.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta sayap dan kepala berwarna kuning."
+        },
+        {
+          "english": "this bird is white with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih hijau dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a black beak, gray body, yellow crown and yellow beneath his wings.",
+          "indo": "burung ini memiliki paruh berwarna hitam, badan berwarna abu-abu, mahkota berwarna kuning, dan bagian bawah sayapnya berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0045_159232.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a grey and yellow head and wings, a short black beak, and a yellow belly.",
+          "indo": "burung ini memiliki kepala dan sayap berwarna abu-abu kuning, paruh pendek berwarna hitam, dan perut berwarna kuning."
+        },
+        {
+          "english": "a small bird wit ha yellow and white breast, throat and belly, and a dark green crown.",
+          "indo": "seekor burung kecil dengan dada, tenggorokan dan perut berwarna kuning dan putih, serta mahkota berwarna hijau tua."
+        },
+        {
+          "english": "a small bird with a yellow breast, and green wings and a small bill",
+          "indo": "seekor burung kecil dengan dada kuning, sayap hijau, dan paruh kecil"
+        },
+        {
+          "english": "a small plump bird with spiky looking feathers, and a yellow belly.",
+          "indo": "seekor burung kecil gempal dengan bulu tampak runcing, dan perut berwarna kuning."
+        },
+        {
+          "english": "yellow belly small bird with brownish-green crown and back.",
+          "indo": "burung kecil perut kuning dengan mahkota dan punggung berwarna hijau kecoklatan."
+        },
+        {
+          "english": "this small bird has a yellow breast, belly and abdomen and green head, back, wings and tail.",
+          "indo": "burung kecil ini memiliki dada, perut dan perut berwarna kuning serta kepala, punggung, sayap dan ekor berwarna hijau."
+        },
+        {
+          "english": "the small bird is round in shape with a yellow chest.",
+          "indo": "burung kecil berbentuk bulat dengan dada berwarna kuning."
+        },
+        {
+          "english": "a bird that has a fluffy appearance and has a neon belly.",
+          "indo": "burung yang berpenampilan berbulu halus dan perut berwarna neon."
+        },
+        {
+          "english": "this is a rounded green bird with a yellow breast and belly and a small pointed beak,",
+          "indo": "ini adalah burung hijau bulat dengan dada dan perut kuning serta paruh kecil runcing,"
+        },
+        {
+          "english": "this bird has a black pointed bill, with a yellow breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, dengan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0046_158849.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird with green hues and a black beak.",
+          "indo": "seekor burung kecil dengan corak hijau dan paruh hitam."
+        },
+        {
+          "english": "this bird has a white breast, yellow belly, grey wing and a yellow eye ring.",
+          "indo": "burung ini memiliki dada berwarna putih, perut berwarna kuning, sayap berwarna abu-abu, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow, white, and brown in color with a black beak and white eye ring.",
+          "indo": "burung ini berwarna kuning, putih, dan coklat dengan paruh berwarna hitam dan cincin mata berwarna putih."
+        },
+        {
+          "english": "small yellow and black bird with black feet and a pointed beak.",
+          "indo": "burung kecil berwarna kuning dan hitam dengan kaki hitam dan paruh runcing."
+        },
+        {
+          "english": "small yellow bird with thick bill, grayish wings, white throat and white eye.",
+          "indo": "burung kecil berwarna kuning dengan paruh tebal, sayap keabu-abuan, tenggorokan putih, dan mata putih."
+        },
+        {
+          "english": "the bird has a black bill, a yellow crown and a yellow breast.",
+          "indo": "burung itu mempunyai paruh berwarna hitam, mahkota berwarna kuning, dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a short, pointed beak and black feet.",
+          "indo": "seekor burung kecil dengan paruh pendek runcing dan kaki hitam."
+        },
+        {
+          "english": "a yellow, brown, and white bird with blue tarsus and feet. yellow eyes and a black beak.",
+          "indo": "burung berwarna kuning, coklat, dan putih dengan tarsus dan kaki berwarna biru. mata kuning dan paruh hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0049_158835.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a light-eyed bird with a slender beak, with two white stripes on its wings.",
+          "indo": "burung bermata cerah dengan paruh ramping, dengan dua garis putih di sayapnya."
+        },
+        {
+          "english": "small bird with yellow wings and white wingbars, green tail and small black beak.",
+          "indo": "burung kecil bersayap kuning dan garis sayap putih, ekor hijau dan paruh kecil hitam."
+        },
+        {
+          "english": "this is a very small, thin bird, with bright colors on his back, and long thin legs.",
+          "indo": "ini adalah burung yang sangat kecil dan kurus, dengan warna-warna cerah di punggungnya, dan kaki yang panjang dan kurus."
+        },
+        {
+          "english": "this small gray and green bird has two-tone light and dark green wings with two white wing bands.",
+          "indo": "burung kecil berwarna abu-abu dan hijau ini memiliki sayap dua warna hijau terang dan hijau tua dengan dua pita sayap berwarna putih."
+        },
+        {
+          "english": "this little bird has a gray body, green wing, and white wingbars.",
+          "indo": "burung kecil ini memiliki tubuh berwarna abu-abu, sayap berwarna hijau, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "it's head, which has a yellow stripe from the bill across the eye, is the same size as it's body.",
+          "indo": "Kepalanya yang memiliki garis kuning mulai dari paruh hingga matanya, ukurannya sama dengan tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are grey and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan kuning serta memiliki perut berwarna putih"
+        },
+        {
+          "english": "a very small bird with gray color and yellow color mingled in.",
+          "indo": "seekor burung yang sangat kecil dengan warna abu-abu dan warna kuning bercampur."
+        },
+        {
+          "english": "a small bird with yellow to green wings with some white wingbars and a grey head.",
+          "indo": "seekor burung kecil dengan sayap berwarna kuning hingga hijau dengan beberapa garis sayap berwarna putih dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a short, pointed beak and grey head.",
+          "indo": "seekor burung kecil dengan paruh pendek runcing dan kepala berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0050_158829.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a mixture of green, yellow, and black on its back and has black claws.",
+          "indo": "burung ini mempunyai warna campuran hijau, kuning, dan hitam pada punggungnya serta mempunyai cakar berwarna hitam."
+        },
+        {
+          "english": "this mainly green and yellow perching bird has two light wing bars and dark coverts.",
+          "indo": "burung bertengger yang sebagian besar berwarna hijau dan kuning ini memiliki dua garis sayap terang dan bulu gelap."
+        },
+        {
+          "english": "this bird is mostly green; the head is grey with green eye patches, the beak and feet are grey, the belly is white, the secondaries are black with white bars and the primaries are green.",
+          "indo": "burung ini sebagian besar berwarna hijau; kepala berwarna abu-abu dengan penutup mata berwarna hijau, paruh dan kaki berwarna abu-abu, perut berwarna putih, bagian bulu sekunder berwarna hitam bergaris putih, dan bagian bulu primer berwarna hijau."
+        },
+        {
+          "english": "this small, colorful bird has a grey head with a yellow patch with white wingbars on grey and green secondaries.",
+          "indo": "Burung kecil berwarna-warni ini memiliki kepala berwarna abu-abu dengan bercak kuning dengan garis sayap putih pada bagian bulu sekunder berwarna abu-abu dan hijau."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small green bird that has black in its wings and a black beak.",
+          "indo": "burung kecil berwarna hijau yang sayapnya berwarna hitam dan paruhnya berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow with green and has a very short beak.",
+          "indo": "burung ini berwarna kuning hijau dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow and green",
+          "indo": "burung ini memiliki perut yang berwarna putih, kuning, dan hijau"
+        },
+        {
+          "english": "this bird has yellow eyerings with green coverts and yellow sides.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning dengan bulu berwarna hijau dan sisi berwarna kuning."
+        },
+        {
+          "english": "a small green bird with a striped wing, a long tail, small head, and a short pointy beak.",
+          "indo": "burung kecil berwarna hijau dengan sayap bergaris, ekor panjang, kepala kecil, dan paruh pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0051_159033.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird is yellow with a light grey body and grey tail.",
+          "indo": "burung itu berwarna kuning dengan tubuh abu-abu muda dan ekor abu-abu."
+        },
+        {
+          "english": "this bird has a white belly, small feet, and a yellow wing",
+          "indo": "burung ini memiliki perut berwarna putih, kaki kecil, dan sayap berwarna kuning"
+        },
+        {
+          "english": "a small sized bird that has a cream belly with tones of yellow all over",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna krem ​​​​dengan semburat kuning di sekujur tubuhnya"
+        },
+        {
+          "english": "grey bird with yellow superciliary, and a lemon and yellow body.",
+          "indo": "burung abu-abu dengan superciliary kuning, dan tubuh lemon dan kuning."
+        },
+        {
+          "english": "this bird is white and has many different shades of green.",
+          "indo": "burung ini berwarna putih dan memiliki banyak corak hijau yang berbeda-beda."
+        },
+        {
+          "english": "the small bird is yellow and tan in color and has a short black beak.",
+          "indo": "burung kecil berwarna kuning kecokelatan serta memiliki paruh pendek berwarna hitam."
+        },
+        {
+          "english": "the little bird is yellow in color and has a black beak.",
+          "indo": "burung kecil itu berwarna kuning dan paruhnya berwarna hitam."
+        },
+        {
+          "english": "this tiny little bird has a yellow and beige body, a long brown tail, a yellow crown, and small black bill.",
+          "indo": "Burung kecil mungil ini memiliki tubuh berwarna kuning dan krem, ekor panjang berwarna coklat, mahkota berwarna kuning, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small yellow, black and white bird with a long tail, striped wings, wide head, and a short pointy beak.",
+          "indo": "burung kecil berwarna kuning, hitam dan putih dengan ekor panjang, sayap bergaris, kepala lebar, dan paruh pendek runcing."
+        },
+        {
+          "english": "darker brown crown and nape; lighter brown throat, breast and abdomen; short bill, short tarsus",
+          "indo": "mahkota dan tengkuk berwarna coklat tua; tenggorokan, dada, dan perut berwarna coklat muda; paruh pendek, tarsus pendek"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0059_159225.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a mostly yellow bird with brown feathers in its wings and head.",
+          "indo": "burung yang sebagian besar berwarna kuning dengan bulu coklat di sayap dan kepalanya."
+        },
+        {
+          "english": "this bird has a short curved bill, gray tarsus and feet, and a yellow eyering.",
+          "indo": "burung ini memiliki paruh pendek melengkung, tarsus dan kaki berwarna abu-abu, serta cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow with brown on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan punggung berwarna coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a grey and yellow bird with a long tarsus and gold eyes.",
+          "indo": "burung abu-abu dan kuning dengan tarsus panjang dan mata emas."
+        },
+        {
+          "english": "this is a very small bird with olive green and yellow feathers, the legs are very skinny and the beak is small.",
+          "indo": "ini adalah burung yang sangat kecil dengan bulu berwarna hijau zaitun dan kuning, kakinya sangat kurus dan paruhnya kecil."
+        },
+        {
+          "english": "the yellow and white bird had muted yellow and white feathers, gray feet and wings, a gray head and beak with muted yellow on the head as well.",
+          "indo": "burung kuning dan putih memiliki bulu kuning dan putih kalem, kaki dan sayap abu-abu, kepala dan paruh abu-abu dengan warna kuning kalem di kepala juga."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and gray",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan abu-abu"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird is white, and yellow in color, with a beak.",
+          "indo": "burung ini berwarna putih, dan berwarna kuning, dengan paruh."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0061_159042.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this small bird is covered head to tail with faint yellow feathers on it's breast, head, and undertail coverts; all leading forward to a black pointed bill.",
+          "indo": "burung kecil ini ditutupi dari kepala hingga ekor dengan bulu kuning samar di bagian dada, kepala, dan bulu ekor; semuanya mengarah ke paruh runcing hitam."
+        },
+        {
+          "english": "a small bird with a black and yellow face with a dark yellow throat and belly, and black wings with white wing bars.",
+          "indo": "burung kecil berwajah hitam kuning dengan tenggorokan dan perut kuning tua, serta sayap hitam dengan garis sayap putih."
+        },
+        {
+          "english": "a small bird that is yellow-green and gray with a short bill.",
+          "indo": "burung kecil berwarna kuning kehijauan dan abu-abu dengan paruh pendek."
+        },
+        {
+          "english": "the under belly is an almost neon yellow color, the wing is a dark brownish color with a white wing bar and eye has a bright yellow eye ring.",
+          "indo": "perut bagian bawah berwarna hampir kuning neon, sayap berwarna kecoklatan tua dengan garis sayap berwarna putih dan mata memiliki cincin mata berwarna kuning cerah."
+        },
+        {
+          "english": "this bird is white, yellow, and black in color with a small sharp beak, and light eye rings.",
+          "indo": "burung ini berwarna putih, kuning, dan hitam dengan paruh kecil yang tajam, dan cincin mata yang terang."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow crown as well as a white breast",
+          "indo": "burung ini memiliki mahkota berwarna kuning dan dada berwarna putih"
+        },
+        {
+          "english": "this small bird has a yellow chest with pointy black beak.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow with brown patches",
+          "indo": "Burung ini mempunyai perut yang berwarna kuning dengan bercak coklat"
+        },
+        {
+          "english": "a small yellow bird with black wings and a short black pointed beak.",
+          "indo": "seekor burung kuning kecil dengan sayap hitam dan paruh pendek runcing hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0064_159286.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird is neon yellow at the bottom and nearing the top it has black fur",
+          "indo": "burung tersebut berwarna kuning neon di bagian bawah dan mendekati bagian atas memiliki bulu berwarna hitam"
+        },
+        {
+          "english": "this bird has green eyes and black beak and black feet and tarsus with a yellow underbelly and white wingbars on light-brown wings with yellow primaries.",
+          "indo": "burung ini mempunyai mata berwarna hijau dan paruh berwarna hitam serta kaki dan tarsus berwarna hitam dengan perut bagian bawah berwarna kuning dan garis sayap berwarna putih pada sayap berwarna coklat muda dengan bulu primer berwarna kuning."
+        },
+        {
+          "english": "this bird has a small short bill, a yellow eyebrow, and a white throat.",
+          "indo": "burung ini mempunyai paruh pendek kecil, alis berwarna kuning, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this small, round, green and yellow, bird has a small head relative to its body with a short, pointed beak, bright yellow eyering and light gray throat.",
+          "indo": "Burung kecil, bulat, hijau dan kuning ini memiliki kepala yang lebih kecil dibandingkan tubuhnya dengan paruh pendek runcing, cincin mata kuning cerah, dan tenggorokan abu-abu muda."
+        },
+        {
+          "english": "this bird has two yellow wingbars, a yellow belly & breast, and a bright yellow superciliary.",
+          "indo": "burung ini memiliki dua garis sayap berwarna kuning, perut & dada berwarna kuning, dan superciliary berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small, yellow bird with light eyes, a small head, a medium, pointed beak, and a darker, grey-yellow color on its back and wings.",
+          "indo": "burung kecil berwarna kuning dengan mata terang, kepala kecil, paruh sedang runcing, dan warna abu-abu kuning lebih gelap di punggung dan sayapnya."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a small off yellow belly, a very small head and bill, and small wings.",
+          "indo": "burung ini memiliki perut kecil berwarna kuning, kepala dan paruh yang sangat kecil, serta sayap yang kecil."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0066_159477.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small yellow bird with a black stripe on the wings.",
+          "indo": "seekor burung kuning kecil dengan garis hitam di sayapnya."
+        },
+        {
+          "english": "this is a yellow bird with grey wings and a pointy black beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh hitam runcing."
+        },
+        {
+          "english": "the bird has a short bill and yellow colored belly, breast and abdomen.",
+          "indo": "burung ini memiliki paruh pendek dan perut, dada, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a yellow head, belly, and breast with a white throat, small bill, and 2 white wing bars.",
+          "indo": "burung ini memiliki kepala, perut, dan dada berwarna kuning dengan tenggorokan berwarna putih, paruh kecil, dan 2 garis sayap berwarna putih."
+        },
+        {
+          "english": "this small, yellow bird has light wingbars and a short, black bill.",
+          "indo": "burung kecil berwarna kuning ini memiliki garis sayap tipis dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this small bird has a greenish yellow body with a shiny black beak, and white wingbars.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna kuning kehijauan dengan paruh berwarna hitam mengkilat, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a bird with a lime green chest, and darker green wings and tail.",
+          "indo": "seekor burung dengan dada berwarna hijau limau, dan sayap serta ekor berwarna hijau tua."
+        },
+        {
+          "english": "this bird is yellow in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0071_159072.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a yellow crown and a white eyering.",
+          "indo": "burung itu memiliki mahkota kuning dan cincin mata putih."
+        },
+        {
+          "english": "this bird is white and grey in color with a short black beak and black eye rings.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh pendek berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has a white eyering and black bill that is straight.",
+          "indo": "Burung ini memiliki paruh berwarna putih dan paruh berwarna hitam yang lurus."
+        },
+        {
+          "english": "this small gray bird has yellow accents around it's face and a white throat, breast, and abdomen.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki aksen kuning di sekitar wajahnya dan tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a yellow superciliary, tan breast, white wing bars and gray covering the rest of its body.",
+          "indo": "burung ini memiliki superciliary berwarna kuning, dada berwarna coklat, garis sayap berwarna putih dan abu-abu menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and yellow face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan muka berwarna kuning"
+        },
+        {
+          "english": "a very short billed bird that has a yellow eyebrow and prominent eyering.",
+          "indo": "burung berparuh sangat pendek yang memiliki alis kuning dan cincin mata menonjol."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and yellow face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan muka berwarna kuning"
+        },
+        {
+          "english": "this bird has yellow around its eyes and its wings are mixed with colors of white yellow and black",
+          "indo": "burung ini mempunyai warna kuning di sekitar matanya dan sayapnya bercampur dengan warna putih kuning dan hitam"
+        },
+        {
+          "english": "this bird has a grey crown with yellow superciliary and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan superciliary berwarna kuning dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0074_159279.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "small, roundish bird with off white breast and belly, light brown crown, brown and black colored wings.",
+          "indo": "burung kecil bulat dengan dada dan perut putih pucat, mahkota coklat muda, sayap berwarna coklat dan hitam."
+        },
+        {
+          "english": "this is a smaller round bird with a yellow belly and appears to have darker colors along its back.",
+          "indo": "ini adalah burung bulat kecil dengan perut kuning dan tampak memiliki warna lebih gelap di sepanjang punggungnya."
+        },
+        {
+          "english": "a small yellow bird with yellow and brown and a short beak.",
+          "indo": "seekor burung kecil berwarna kuning dengan warna kuning dan coklat serta paruh pendek."
+        },
+        {
+          "english": "this small bird has a white breast with a small black bill.",
+          "indo": "burung kecil ini memiliki dada berwarna putih dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "small bird with a notched tail, brown legs, yellow breast and sides of the abdomen, small, dark bill, brown back and head and yellow eyes.",
+          "indo": "burung kecil dengan ekor berlekuk, kaki berwarna coklat, dada dan samping perut berwarna kuning, paruh kecil berwarna gelap, punggung dan kepala berwarna coklat, serta mata kuning."
+        },
+        {
+          "english": "this small bird has a small, straight bill and yellowish white breast.",
+          "indo": "burung kecil ini memiliki paruh kecil lurus dan dada berwarna putih kekuningan."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this yellow bird has a brown crown and cheeks, white wing bars, and a short, straight black bill.",
+          "indo": "burung berwarna kuning ini memiliki mahkota dan pipi berwarna coklat, garis sayap berwarna putih, dan paruh pendek berwarna hitam lurus."
+        },
+        {
+          "english": "this bird is yellow with white and has a very short beak.",
+          "indo": "burung ini berwarna kuning putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a very small bird with a white belly and a black beak.",
+          "indo": "seekor burung yang sangat kecil dengan perut putih dan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0078_159382.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has grayish white throat and belly and gray breast and nape with black tarsus and feet.",
+          "indo": "burung ini memiliki tenggorokan dan perut berwarna putih keabu-abuan, serta dada dan tengkuk berwarna abu-abu dengan tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow wings and a yellow head.",
+          "indo": "ini adalah burung dengan perut putih, sayap kuning dan kepala kuning."
+        },
+        {
+          "english": "yellow wings with white sidebars with the covert between them being black, a white belly and the bird being small in size.",
+          "indo": "sayap kuning dengan sidebar putih dengan bulu penutup di antara mereka berwarna hitam, perut putih dan burung berukuran kecil."
+        },
+        {
+          "english": "a grey and yellow bird with yellow on the tail, wings, and around eyes.",
+          "indo": "burung berwarna abu-abu dan kuning dengan warna kuning pada bagian ekor, sayap, dan sekitar mata."
+        },
+        {
+          "english": "the tiny yellow bird has a brown body with a yellow back and head.",
+          "indo": "burung kecil berwarna kuning memiliki tubuh berwarna coklat dengan punggung dan kepala berwarna kuning."
+        },
+        {
+          "english": "this pale blue eyed bird has yellow eyebrows, light grey head and neck and yellow, black, and white striped wings.",
+          "indo": "Burung bermata biru pucat ini memiliki alis berwarna kuning, kepala dan leher berwarna abu-abu muda, serta sayap bergaris kuning, hitam, dan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih, kuning, dan abu-abu"
+        },
+        {
+          "english": "this bird is grey with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a grey bird with white abdomen, yellow wings, yellow crown, blue eye and black bill.",
+          "indo": "ini adalah burung abu-abu dengan perut putih, sayap kuning, mahkota kuning, mata biru dan paruh hitam."
+        },
+        {
+          "english": "this bird has a yellow body with a grey neck, it has yellow streaks over its silver eyes.",
+          "indo": "burung ini berbadan kuning dengan leher berwarna abu-abu, terdapat guratan kuning pada mata keperakannya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0080_159087.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a small flat beak and a small head compared to the rest of the body.",
+          "indo": "burung ini memiliki paruh kecil yang rata dan kepala yang kecil dibandingkan bagian tubuh lainnya."
+        },
+        {
+          "english": "a small bird with a yellow eye ring, and a bill that curves downwards",
+          "indo": "burung kecil dengan cincin mata kuning, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "the bird has bright orange eyerings, gray wings, and a gray crown.",
+          "indo": "burung itu memiliki cincin mata berwarna oranye terang, sayap abu-abu, dan mahkota abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow belly and white breast, with a grey nape.",
+          "indo": "burung kecil dengan perut kuning dan dada putih, dengan tengkuk abu-abu."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a gray crown and white wingbars.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey with a yellow and white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna kuning dan putih"
+        },
+        {
+          "english": "this bird is white, yellow, and black in color, with a very small beak.",
+          "indo": "burung ini berwarna putih, kuning, dan hitam, dengan paruh yang sangat kecil."
+        },
+        {
+          "english": "a small bird with a gray neck and a black beak.",
+          "indo": "seekor burung kecil dengan leher abu-abu dan paruh hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "this dainty bird is colored by pretty pastel yellow and baby blue colors.",
+          "indo": "burung mungil ini diwarnai dengan warna kuning pastel dan biru muda yang cantik."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0082_159186.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a white and black eye and yellow and black feathers.",
+          "indo": "burung ini memiliki mata berwarna putih dan hitam serta bulu berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird is grey with a yellow head and a yellow wing segment.",
+          "indo": "burung ini berwarna abu-abu dengan kepala berwarna kuning dan ruas sayap berwarna kuning."
+        },
+        {
+          "english": "a small yellow and white bird with a black and white pointed beak.",
+          "indo": "burung kecil berwarna kuning putih dengan paruh runcing hitam putih."
+        },
+        {
+          "english": "this light-yellow bird has a stern disposition and features a small, slightly curved beak.",
+          "indo": "burung berwarna kuning muda ini memiliki watak yang tegas dan memiliki paruh yang kecil dan agak melengkung."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a white wingbar, and little pointy bill.",
+          "indo": "Burung kecil ini mempunyai perut dan dada berwarna abu-abu dengan garis sayap berwarna putih, dan paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird had a grey body with yellow markings and a yellow mask around it's eye, with a short grey beak and grey legs.",
+          "indo": "burung itu memiliki tubuh abu-abu dengan tanda kuning dan topeng kuning di sekitar matanya, dengan paruh pendek berwarna abu-abu dan kaki abu-abu."
+        },
+        {
+          "english": "this bird has yellow, browns and grays all over its body.",
+          "indo": "burung ini memiliki warna kuning, coklat dan abu-abu di sekujur tubuhnya."
+        },
+        {
+          "english": "a small grey bird with some yellow on its side and superciliary.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sedikit warna kuning di sisinya dan superciliary."
+        },
+        {
+          "english": "this bird is white, brown and yellow in color, with a gray beak.",
+          "indo": "burung ini berwarna putih, coklat dan kuning, dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0083_159203.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has yellowish wingbars, throat, breast and belly while its wings and larger head are brown in color.",
+          "indo": "burung ini memiliki garis sayap, tenggorokan, dada dan perut berwarna kekuningan, sedangkan sayap dan kepalanya yang lebih besar berwarna coklat."
+        },
+        {
+          "english": "this small bird has a yellow breast and black feathers with yellow wingbars.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning dan bulu berwarna hitam dengan garis sayap berwarna kuning."
+        },
+        {
+          "english": "a small green bird with a brown stripe on its wing and a darker hue of green on the head and back.",
+          "indo": "burung kecil berwarna hijau dengan garis coklat di sayapnya dan warna hijau tua di kepala dan punggung."
+        },
+        {
+          "english": "this bird is yellow and brown in color with a small black beak, and black eye rings.",
+          "indo": "burung ini berwarna kuning kecokelatan dengan paruh kecil berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a white wingbar and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna kuning dengan garis sayap berwarna putih dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this particular bird has a yellow belly and breasts and a brown bill",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning serta paruh berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a brown crown and yellow belly with brown feet.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna kuning dengan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird is green with brown and has a very short beak.",
+          "indo": "burung ini berwarna hijau kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0085_159119.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this little bird has a yellow mixed with gray crown and eyebrow. the wings are yellow and black with white wingbars. the tarsus is a steel gray.",
+          "indo": "Burung kecil ini mempunyai mahkota dan alis berwarna kuning bercampur abu-abu. sayapnya berwarna kuning dan hitam dengan garis sayap berwarna putih. tarsusnya berwarna abu-abu baja."
+        },
+        {
+          "english": "this is a dark green and a light green bird that has blue feet",
+          "indo": "ini adalah burung berwarna hijau tua dan hijau muda yang memiliki kaki berwarna biru"
+        },
+        {
+          "english": "the bird feathers are green on the wings and body and the beak is thin",
+          "indo": "bulu burung berwarna hijau pada sayap dan badan serta paruhnya tipis"
+        },
+        {
+          "english": "this small bird has a light yellowish green and black wings and a light eye ring around black eyes.",
+          "indo": "burung kecil ini memiliki sayap berwarna hijau kekuningan dan hitam muda serta lingkaran mata tipis di sekitar mata hitam."
+        },
+        {
+          "english": "this bird is yellow and white in color with a sharp pointy beak, and white eye rings.",
+          "indo": "burung ini berwarna kuning putih dengan paruh runcing runcing, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "a small colorful bird with white wing bars, yellow and black secondaries, and green and grey coverts.",
+          "indo": "seekor burung kecil berwarna-warni dengan garis sayap putih, bulu sekunder berwarna kuning dan hitam, serta bulu berwarna hijau dan abu-abu."
+        },
+        {
+          "english": "this bird has wings that are gray and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        },
+        {
+          "english": "the bird has a green belly and wingbars that are striped.",
+          "indo": "burung ini memiliki perut berwarna hijau dan garis sayap yang bergaris."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0086_159202.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has long, grey tarsus and bill, an off-white belly and side, and light grey wings.",
+          "indo": "burung ini memiliki tarsus dan paruh panjang berwarna abu-abu, perut dan samping berwarna putih pucat, serta sayap berwarna abu-abu muda."
+        },
+        {
+          "english": "a small colorful bird with a yellow forehead, light blue eye ring, grey head and nape, and light green and white covering its belly, vent and rump.",
+          "indo": "burung kecil berwarna-warni dengan dahi kuning, cincin mata biru muda, kepala dan tengkuk abu-abu, dan hijau muda dan putih menutupi perut, lubang kloaka, dan pantatnya."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp black beak and white eye ring.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh hitam runcing dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small white grey brown and yellow bird with long black tarsus and medium black beak",
+          "indo": "burung kecil berwarna putih abu-abu coklat dan kuning dengan tarsus hitam panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "a small grey and yellow bird with yellow eye ring, grey to white throat and light yellow abdomen.",
+          "indo": "burung kecil berwarna abu-abu dan kuning dengan cincin mata kuning, tenggorokan abu-abu hingga putih, dan perut kuning muda."
+        },
+        {
+          "english": "this small bird has a white underside, a grey wings, a yellow superciliary, and a short black beak",
+          "indo": "burung kecil ini memiliki bagian bawah berwarna putih, sayap berwarna abu-abu, superciliary berwarna kuning, dan paruh pendek berwarna hitam"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white belly and a white ring around its eye.",
+          "indo": "burung ini memiliki perut berwarna putih dan lingkaran putih di sekitar matanya."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0088_159084.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird is mostly grey with black feathers coming out of white wingbars, however its eyebrow is yellow and its sides are brushed yellow.",
+          "indo": "Burung ini sebagian besar berwarna abu-abu dengan bulu hitam keluar dari garis sayap berwarna putih, namun alisnya berwarna kuning dan sisi-sisinya diberi guratan kuning."
+        },
+        {
+          "english": "the small grey,brown and white bird has white wingbars and a yellow eyebrow.",
+          "indo": "burung kecil berwarna abu-abu, coklat dan putih memiliki garis sayap putih dan alis kuning."
+        },
+        {
+          "english": "the bird has a light colored belly and breast with yellow superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna terang dengan superciliary kuning."
+        },
+        {
+          "english": "this is a small yellow bird with black wings and tail",
+          "indo": "ini adalah burung kuning kecil dengan sayap dan ekor hitam"
+        },
+        {
+          "english": "bird with gray beak, throat, breast, tarsus and feet, and grayish white belly and abdomen,",
+          "indo": "burung dengan paruh, tenggorokan, dada, tarsus dan kaki berwarna abu-abu, serta perut dan perut berwarna putih keabu-abuan,"
+        },
+        {
+          "english": "a small grey bird with black and white wings and a yellow eyebrow.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sayap hitam putih dan alis kuning."
+        },
+        {
+          "english": "the bird has two brown wing bars, and a white breast.",
+          "indo": "burung itu memiliki dua garis sayap berwarna coklat, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a grey breast and a white belly with a short black beak.",
+          "indo": "seekor burung kecil dengan dada abu-abu dan perut putih dengan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0090_158958.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a light yellow belly and breast, with white and black wingbars.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning muda, dengan garis sayap berwarna putih dan hitam."
+        },
+        {
+          "english": "a small yellow and gray bird with a black beak.",
+          "indo": "seekor burung kecil berwarna kuning dan abu-abu dengan paruh hitam."
+        },
+        {
+          "english": "this is a yellow bird with a grey throat and a small black beak.",
+          "indo": "ini adalah burung kuning dengan tenggorokan abu-abu dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "the bird is bigger and it has yellow and grey feathers, the bill is medium or larger.",
+          "indo": "burungnya lebih besar dan bulunya berwarna kuning dan abu-abu, paruhnya sedang atau lebih besar."
+        },
+        {
+          "english": "this bird is yellow, and white in color with a black beak, and white eye rings.",
+          "indo": "burung ini berwarna kuning, berwarna putih dengan paruh berwarna hitam, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown with a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a white throat",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan tenggorokannya berwarna putih"
+        },
+        {
+          "english": "a small bird with a green belly and white breast along with a short, black beak.",
+          "indo": "seekor burung kecil dengan perut hijau dan dada putih serta paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and gray",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0091_159045.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this is a bird with a white breast and yellow circle around its eye.",
+          "indo": "ini adalah burung dengan dada berwarna putih dan lingkaran kuning di sekeliling matanya."
+        },
+        {
+          "english": "a small bird with a grey crown, light yellow covering its belly and vent, and grey and black wings with two white wingbars.",
+          "indo": "burung kecil dengan mahkota berwarna abu-abu, kuning muda menutupi perut dan lubang kloaka, serta sayap berwarna abu-abu dan hitam dengan dua garis sayap berwarna putih."
+        },
+        {
+          "english": "medium sized yellow bird with a grey head and small black beak with feathers that have white wingbars.",
+          "indo": "burung kuning berukuran sedang dengan kepala berwarna abu-abu dan paruh kecil berwarna hitam dengan bulu yang memiliki garis sayap berwarna putih."
+        },
+        {
+          "english": "this small bird has a white belly, grey head, black wings, with yellow around its eyes and wings.",
+          "indo": "Burung kecil ini memiliki perut berwarna putih, kepala berwarna abu-abu, sayap berwarna hitam, dengan warna kuning di sekitar mata dan sayapnya."
+        },
+        {
+          "english": "a small bird with a grey nape and a yellow patch, with a yellow flank.",
+          "indo": "seekor burung kecil dengan tengkuk abu-abu dan bercak kuning, dengan sayap kuning."
+        },
+        {
+          "english": "this very small sharp beaked bird features a black eye rimmed in white and surrounded by yellow feathers, a gray head, an off-white breast area, and brown wings that feature white, black and yellow stripes.",
+          "indo": "burung berparuh tajam yang sangat kecil ini memiliki mata hitam berbingkai putih dan dikelilingi bulu kuning, kepala abu-abu, area dada berwarna putih pucat, dan sayap coklat dengan garis-garis putih, hitam dan kuning."
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a yellow eyering with a white chest and gray tailfeathers.",
+          "indo": "burung kecil ini memiliki cincin mata berwarna kuning dengan dada berwarna putih dan bulu ekor berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey crown as well as a yellow eyering",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dan cincin mata berwarna kuning"
+        },
+        {
+          "english": "the bird has a white eyering and a yellow torso.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan badan berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0094_158894.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird is mostly mustard yellow with shades of brown in the wing",
+          "indo": "burung ini sebagian besar berwarna kuning sawi dengan corak coklat pada bagian sayapnya"
+        },
+        {
+          "english": "this bird is mostly yellow with brown wings and a stubby beak",
+          "indo": "burung ini sebagian besar berwarna kuning dengan sayap berwarna coklat dan paruh yang gemuk"
+        },
+        {
+          "english": "small brownish orange bird with white wing bars, orange superciliary, small rounded black beak, and orange breast.",
+          "indo": "burung kecil berwarna jingga kecoklatan dengan garis sayap berwarna putih, superciliary berwarna jingga, paruh kecil berwarna hitam bulat, dan dada berwarna jingga."
+        },
+        {
+          "english": "this is a small bird in shades of reddish brown with white stripes on the wings.",
+          "indo": "Ini adalah burung kecil bernuansa coklat kemerahan dengan garis-garis putih di sayapnya."
+        },
+        {
+          "english": "this bird is yellow and brown in color with a dull beak, and black eye rings.",
+          "indo": "burung ini berwarna kuning kecokelatan dengan paruh kusam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and yellow and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan kuning serta mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this yellow bird has long, slender legs and big blue eyes.",
+          "indo": "burung kuning ini memiliki kaki yang panjang dan ramping serta mata biru yang besar."
+        },
+        {
+          "english": "this bird is orange with grey and has a very short beak.",
+          "indo": "burung ini berwarna oranye dengan warna abu-abu dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0095_158886.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has gray throat, beak, breast, tarsus and feet, it has brown wings and sharp pointy beak.",
+          "indo": "burung ini memiliki tenggorokan, paruh, dada, tarsus dan kaki berwarna abu-abu, sayap berwarna coklat dan paruh runcing tajam."
+        },
+        {
+          "english": "the small bird has a yellow crown and a grey neck with a grey beak.",
+          "indo": "burung kecil memiliki mahkota kuning dan leher abu-abu dengan paruh abu-abu."
+        },
+        {
+          "english": "this bird is soft and fuzzy with gray, white and yellow fluffy feathers and bright round eyes.",
+          "indo": "burung ini lembut dan berbulu halus dengan bulu halus berwarna abu-abu, putih dan kuning serta mata bulat cerah."
+        },
+        {
+          "english": "mostly white and yellow with a grey nape, and black wings that are highlighted with yellow.",
+          "indo": "sebagian besar berwarna putih dan kuning dengan tengkuk abu-abu, dan sayap hitam yang diberi sentuhan warna kuning."
+        },
+        {
+          "english": "this odd-looking bird features yellow and light brown plumage with gray-colored eyes and a modest beak.",
+          "indo": "burung yang tampak aneh ini memiliki bulu berwarna kuning dan coklat muda dengan mata berwarna abu-abu dan paruh yang sederhana."
+        },
+        {
+          "english": "a yellow,brown and white bird with a short pointed beak and round eyes",
+          "indo": "burung berwarna kuning, coklat dan putih dengan paruh pendek runcing dan mata bulat"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "this bird is green in color, small, and has darker greens on its primaries.",
+          "indo": "burung ini berwarna hijau, kecil, dan warna primernya berwarna hijau tua."
+        },
+        {
+          "english": "the bird has a small head and and a neck that is grey in color with accents that are yellow.",
+          "indo": "Burung ini mempunyai kepala dan leher yang kecil berwarna abu-abu dengan aksen kuning."
+        },
+        {
+          "english": "this small white bird has a grey throat and yellow side.",
+          "indo": "burung kecil berwarna putih ini memiliki tenggorokan berwarna abu-abu dan sisi kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0099_158933.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this smaller bird has a yellow and white belly and neck with a gray crest and wing.",
+          "indo": "burung yang lebih kecil ini memiliki perut dan leher berwarna kuning dan putih dengan jambul dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a small bird of brown and white with yellow above the beak, around the eyes and down both sides of the bird.",
+          "indo": "burung kecil berwarna coklat putih dengan warna kuning di atas paruh, di sekitar mata dan di kedua sisi burung."
+        },
+        {
+          "english": "this bird has yellow on its head and sides, a white body, and a small flat bill.",
+          "indo": "burung ini memiliki warna kuning pada kepala dan sisinya, badan berwarna putih, dan paruh kecil pipih."
+        },
+        {
+          "english": "this small bird has a yellow superciliary and a white breast.",
+          "indo": "burung kecil ini memiliki superciliary berwarna kuning dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is green with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna hijau dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small pale bird has light grey tarsus and feet, grey and white breast with a yellow flank and grey wings and pale blue eyes on it's small head.",
+          "indo": "burung kecil pucat ini memiliki tarsus dan kaki berwarna abu-abu muda, dada berwarna abu-abu putih dengan sayap kuning dan sayap abu-abu serta mata biru pucat di kepala kecilnya."
+        },
+        {
+          "english": "this bird is white with yellow and has a very short beak.",
+          "indo": "burung ini berwarna putih kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown, yellow and black in color, with a sharp black beak.",
+          "indo": "burung ini berwarna coklat, kuning dan hitam, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "this bird has a brown body with darker wings and tail, its eyes are beady silver with black pupils.",
+          "indo": "burung ini berbadan coklat dengan sayap dan ekor berwarna lebih gelap, matanya berwarna perak dengan pupil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0102_159420.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the head of the bird is grey, it has yellow around the eye and around the small black beak, the wings are grey and yellow and the belly is yellow.",
+          "indo": "Kepala burung berwarna abu-abu, sekeliling mata berwarna kuning dan sekeliling paruh kecil berwarna hitam, sayap berwarna abu-abu kuning, dan perut berwarna kuning."
+        },
+        {
+          "english": "a small multicolored bird with a yellow body and a blue-gray head with a yellow face.",
+          "indo": "burung kecil beraneka warna dengan tubuh kuning dan kepala biru abu-abu dengan wajah kuning."
+        },
+        {
+          "english": "this bird is yellow and black in color with a small beak and black eye rings.",
+          "indo": "burung ini berwarna kuning kehitaman dengan paruh kecil dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has a grey crown and a yellow breast and belly.",
+          "indo": "burung itu memiliki mahkota berwarna abu-abu dan dada serta perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a yellow side, belly and abdomen with the rest of it's body in grey color.",
+          "indo": "burung ini memiliki sisi, perut dan perut berwarna kuning dengan sisa tubuh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a grey crown, brown primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna coklat, dan perut berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0110_158947.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird with a head that is large relative to its body with a yellow eyering.",
+          "indo": "seekor burung kecil dengan kepala yang relatif besar dibandingkan tubuhnya dengan cincin mata berwarna kuning."
+        },
+        {
+          "english": "a petite bird win a light green under belly, a yellow nape, and black and yellow striped tail feathers.",
+          "indo": "Burung mungil mempunyai perut bagian bawah berwarna hijau muda, tengkuk berwarna kuning, dan bulu ekor bergaris hitam kuning."
+        },
+        {
+          "english": "this bird had a white throat and belly, yellow sides, a grey head with a yellow superciliary, and grey wings with white wingbars.",
+          "indo": "burung ini memiliki tenggorokan dan perut berwarna putih, sisi tubuh berwarna kuning, kepala berwarna abu-abu dengan superciliary berwarna kuning, dan sayap berwarna abu-abu dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "yellow and brown bird with a sharp beak and blue eyes.",
+          "indo": "burung berwarna kuning dan coklat dengan paruh runcing dan mata biru."
+        },
+        {
+          "english": "the bird has a white eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a large head compared to its small body with a yellow eye ring and superciliary.",
+          "indo": "burung ini memiliki kepala yang besar dibandingkan dengan tubuhnya yang kecil dengan cincin mata berwarna kuning dan superciliary."
+        },
+        {
+          "english": "this bird has a brown crown as well as a yellow eyering",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan cincin mata berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow and tan",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning serta kecokelatan"
+        },
+        {
+          "english": "this bird has white eyerings, white wingbars and a pointed brown beak.",
+          "indo": "burung ini memiliki superciliary berwarna putih, garis sayap berwarna putih, dan paruh runcing berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0111_158864.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a gray belly and breast, with a yellow crown and white wingbars.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu, dengan mahkota kuning dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this small gray bird has yellow sides and yellow eyebrows.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki sisi kuning dan alis kuning."
+        },
+        {
+          "english": "this small yellow and gray bird has long tail feathers and a small black beak.",
+          "indo": "burung kecil berwarna kuning dan abu-abu ini memiliki bulu ekor panjang dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this small yellow bird has a gray head and throat, and dark gray accents on it's tail feathers.",
+          "indo": "burung kecil berwarna kuning ini memiliki kepala dan tenggorokan berwarna abu-abu, serta aksen abu-abu tua pada bulu ekornya."
+        },
+        {
+          "english": "this bird is yellow, grey, white and green, with prominent white wing bars and a yellow eye patch which surrounds a small green mark that extends from the front of the eye to the top of the beak.",
+          "indo": "burung ini berwarna kuning, abu-abu, putih dan hijau, dengan garis sayap putih yang menonjol dan penutup mata berwarna kuning yang mengelilingi tanda hijau kecil yang memanjang dari depan mata hingga bagian atas paruh."
+        },
+        {
+          "english": "the yellow and gray bird, has a crown that is primarily gray colored as well.",
+          "indo": "burung berwarna kuning dan abu-abu, memiliki mahkota yang sebagian besar berwarna abu-abu juga."
+        },
+        {
+          "english": "this bird is white and yellow in color, with a light gray beak.",
+          "indo": "burung ini berwarna putih kuning, dengan paruh berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a yellow belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam putih dan memiliki perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow face",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mukanya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a grey and yellow body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna abu-abu dan kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0112_159147.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a yellow bellied bird with white wingbars, a yellow superciliary with a short silver bill.",
+          "indo": "burung perut kuning dengan sayap putih, superciliary kuning dengan paruh perak pendek."
+        },
+        {
+          "english": "this is a green and yellow bird with a small green bill",
+          "indo": "ini adalah burung berwarna hijau dan kuning dengan paruh kecil berwarna hijau"
+        },
+        {
+          "english": "the bird has a tan and yellow body with black and white wingbars.",
+          "indo": "burung ini memiliki tubuh berwarna coklat kecokelatan dengan garis sayap berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a yellow breast, a gray and yellow head, a skinny bill, and its head looks large compared to its body.",
+          "indo": "burung ini memiliki dada berwarna kuning, kepala berwarna abu-abu kuning, paruh kurus, dan kepalanya terlihat besar dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird has a bright yellow belly, light green crown and back and black and white striped primaries.",
+          "indo": "burung ini memiliki perut berwarna kuning cerah, mahkota dan punggung berwarna hijau muda, serta bulu primer bergaris hitam putih."
+        },
+        {
+          "english": "this small green bird has a yellow bely and abdomen and yellow eyerings and eyebrows.",
+          "indo": "burung kecil berwarna hijau ini memiliki perut dan perut berwarna kuning serta cincin mata dan alis berwarna kuning."
+        },
+        {
+          "english": "a small, colorful bird with mostly yellow adorning it's body, with some black here and there.",
+          "indo": "burung kecil berwarna-warni dengan sebagian besar warna kuning menghiasi tubuhnya, ada juga yang berwarna hitam di sana-sini."
+        },
+        {
+          "english": "this bird is yellow with black and has a very short beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are yellow and hasa yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang berwarna kuning"
+        },
+        {
+          "english": "a mostly green bird with a yellow spot on its face and belly.",
+          "indo": "burung yang sebagian besar berwarna hijau dengan bintik kuning di wajah dan perutnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0114_159206.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a green belly and breast with a white neck and yellow crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna hijau dengan leher berwarna putih dan mahkota berwarna kuning."
+        },
+        {
+          "english": "a small bird has a yellow cheek patch and white breast with a black bill opened.",
+          "indo": "seekor burung kecil memiliki bercak kuning di pipi dan dada berwarna putih dengan paruh hitam terbuka."
+        },
+        {
+          "english": "this is a bird with a grey belly, yellow eye ring and a black beak.",
+          "indo": "ini adalah burung dengan perut abu-abu, cincin mata kuning dan paruh hitam."
+        },
+        {
+          "english": "this medium brown bird has a yellow patch around its eyes.",
+          "indo": "burung berwarna coklat sedang ini memiliki bercak kuning di sekitar matanya."
+        },
+        {
+          "english": "this perky bird has yellow on the top of its head and covering its eye, as well as green belly plumage.",
+          "indo": "burung gagah ini memiliki warna kuning di bagian atas kepala dan menutupi matanya, serta bulu perut berwarna hijau."
+        },
+        {
+          "english": "this bird has feathers that are black and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "the bird has a white eyering, grey breast and yellow crown.",
+          "indo": "burung ini memiliki cincin mata berwarna putih, dada berwarna abu-abu, dan mahkota berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are green and has a silver head",
+          "indo": "burung ini memiliki sayap yang berwarna hijau dan memiliki kepala berwarna perak"
+        },
+        {
+          "english": "this bird has a yellow crown and a white throat, breast, and belly.",
+          "indo": "burung ini memiliki mahkota berwarna kuning dan tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this small plump bird has a white breast and accents of gray and brown on its wings.",
+          "indo": "burung kecil gempal ini memiliki dada berwarna putih dan aksen abu-abu dan coklat pada sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0115_158932.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a gray head with yellow-green feathers around the eye; the beak is thin and pointed; the breast and wings are yellow-green in color.",
+          "indo": "burung itu memiliki kepala berwarna abu-abu dengan bulu kuning kehijauan di sekitar matanya; paruhnya tipis dan runcing; dada dan sayap berwarna kuning kehijauan."
+        },
+        {
+          "english": "the small bird has a round yellow breast and yellow cheek patch with a dark yellow wing with white stripes.",
+          "indo": "Burung kecil ini memiliki dada bulat berwarna kuning dan bercak kuning di pipi dengan sayap berwarna kuning tua bergaris putih."
+        },
+        {
+          "english": "the bird has a white eyering and a large bill for its size.",
+          "indo": "burung ini memiliki cincin mata berwarna putih dan paruh yang besar untuk ukurannya."
+        },
+        {
+          "english": "the superciliary on this bird is yellow and its body is yellow green with a short narrow beak.",
+          "indo": "superciliary pada burung ini berwarna kuning dan tubuhnya berwarna kuning hijau dengan paruh pendek dan sempit."
+        },
+        {
+          "english": "a small yellowish green bird, with gray throat and nape, yellow eye patch, long gray beak, and short tail.",
+          "indo": "burung kecil berwarna hijau kekuningan, tenggorokan dan tengkuk berwarna abu-abu, penutup mata berwarna kuning, paruh panjang berwarna abu-abu, dan ekor pendek."
+        },
+        {
+          "english": "this bird is yellow with grey and has a very short beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a mostly yellow bird with brown wings and a yellow and white face.",
+          "indo": "ini adalah burung yang sebagian besar berwarna kuning dengan sayap coklat dan wajah kuning dan putih."
+        },
+        {
+          "english": "a bird with a long, small beak, white eyes, yellow head with small wings.",
+          "indo": "burung dengan paruh panjang kecil, mata putih, kepala kuning dengan sayap kecil."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and white",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "this is a yellow and a white bird with a darker green set of wings.",
+          "indo": "ini adalah burung berwarna kuning dan putih dengan sepasang sayap berwarna hijau tua."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0116_159028.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a white and black eye and white, green, and yellow feathers.",
+          "indo": "burung ini memiliki mata berwarna putih dan hitam serta bulu berwarna putih, hijau, dan kuning."
+        },
+        {
+          "english": "this bird has a short black bill, black feet, and a yellow eyering.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, kaki berwarna hitam, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this small bird with white eyes and a small flat bill, and a multicolored bill.",
+          "indo": "burung kecil ini bermata putih dan paruh kecil pipih, serta paruh beraneka warna."
+        },
+        {
+          "english": "this is a yellow and grey bird with yellow cheek patches and black on the wingbars.",
+          "indo": "ini adalah burung berwarna kuning dan abu-abu dengan bercak kuning di pipi dan hitam di garis sayap."
+        },
+        {
+          "english": "this green bird has a short beak, a gray nape and feet with green and black wings and white wingbars.",
+          "indo": "Burung berwarna hijau ini memiliki paruh yang pendek, tengkuk dan kaki berwarna abu-abu dengan sayap berwarna hijau dan hitam serta garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a small multicolored bird, with light green eyerings, white belly, and darker green wings.",
+          "indo": "ini adalah burung kecil beraneka warna, dengan cincin mata berwarna hijau muda, perut putih, dan sayap hijau tua."
+        },
+        {
+          "english": "this bird is gray yellow and black in color, with a gray beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan hitam, dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird is gray and yellow in color, with a gray beak.",
+          "indo": "burung ini berwarna abu-abu kuning, dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        },
+        {
+          "english": "a small gray bird, with yellow eyering and a small gray beak.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan cincin mata kuning dan paruh kecil berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0118_159036.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the head the bird is yellow and there a white wingbars on the wings.",
+          "indo": "kepala burung berwarna kuning dan terdapat garis sayap berwarna putih pada sayapnya."
+        },
+        {
+          "english": "a smaller bird with a faint yellow hue on its under belly, a yellow nape, and grey wingbars.",
+          "indo": "burung yang lebih kecil dengan rona kuning samar di perut bagian bawah, tengkuk kuning, dan garis sayap abu-abu."
+        },
+        {
+          "english": "a small yellow and gray bird with a short tail and a small bill.",
+          "indo": "burung kecil berwarna kuning dan abu-abu dengan ekor pendek dan paruh kecil."
+        },
+        {
+          "english": "small grey green and yellow bird with long grey tarsus and medium grey beak",
+          "indo": "burung kecil berwarna abu-abu hijau dan kuning dengan tarsus abu-abu panjang dan paruh abu-abu sedang"
+        },
+        {
+          "english": "this small bird has a gray bill, a yellow eyering, gray tarsus & feet, and a yellow & white breast.",
+          "indo": "Burung kecil ini mempunyai paruh berwarna abu-abu, cincin mata berwarna kuning, tarsus & kaki berwarna abu-abu, serta dada berwarna kuning & putih."
+        },
+        {
+          "english": "this particular bird has a white belly and yellow breast with brown secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna kuning dengan bagian bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "this bird is white, yellow, and brown in color, with a black beak.",
+          "indo": "burung ini berwarna putih, kuning, dan coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow, gray and brown in color, with a gray beak.",
+          "indo": "burung ini berwarna kuning, abu-abu dan coklat, dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "a small green bird, with 2 pale wingbars, and a yellow eyering.",
+          "indo": "seekor burung kecil berwarna hijau, dengan 2 garis sayap pucat, dan seekor burung bermata kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0120_158991.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the bird has a puffy breast that is white and a yellow belly.",
+          "indo": "burung itu memiliki dada menggembung berwarna putih dan perut kuning."
+        },
+        {
+          "english": "a bird with white throat,belly and breast, black tarsus and feet and the head is small compare to its body",
+          "indo": "burung dengan tenggorokan, perut dan dada berwarna putih, tarsus dan kaki berwarna hitam, serta kepala kecil dibandingkan badannya"
+        },
+        {
+          "english": "a small bird with a yellow brown and a white breast",
+          "indo": "seekor burung kecil dengan warna kuning coklat dan dada putih"
+        },
+        {
+          "english": "this small bird has a short brown pointed bill and a light white eye, the crown is yellow and the throat is light yellow white.",
+          "indo": "Burung kecil ini mempunyai paruh pendek berwarna coklat, runcing, mata berwarna putih muda, mahkota berwarna kuning, dan tenggorokan berwarna putih kuning muda."
+        },
+        {
+          "english": "this bird has a grey throat that fades into a muddy yellow on the sides, its wings feature two white wingbars and it has bright white eye rings.",
+          "indo": "burung ini memiliki tenggorokan berwarna abu-abu yang memudar menjadi kuning keruh di bagian sisinya, sayapnya memiliki dua garis sayap berwarna putih dan memiliki cincin mata berwarna putih cerah."
+        },
+        {
+          "english": "this bird has wings that are black whit a rotund body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam sedikit pun dan badannya bulat"
+        },
+        {
+          "english": "a small sparrow-like bird that has brown crown wings and tail, and has white throat and pale yellow breast and belly.",
+          "indo": "burung kecil mirip burung pipit yang memiliki sayap dan ekor mahkota berwarna coklat, tenggorokan berwarna putih, serta dada dan perut berwarna kuning pucat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "the bird has a white throat, yellow belly and brown back.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih, perut kuning, dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0122_159284.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this is a small bird with a short, pointy beak and yellow colorations around the head and breast.",
+          "indo": "ini adalah burung kecil dengan paruh pendek runcing dan warna kuning di sekitar kepala dan dada."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a gray bird with white wingbars and a green superciliary.",
+          "indo": "seekor burung abu-abu dengan sayap putih dan superciliary hijau."
+        },
+        {
+          "english": "grey and green bird with white wingbar and black primaries.",
+          "indo": "burung abu-abu dan hijau dengan sayap putih dan bulu primer hitam."
+        },
+        {
+          "english": "this is a grey bird with a black and yellow wing with a white eye.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan kuning dengan mata putih."
+        },
+        {
+          "english": "this gray bird has a yellow eyebrow and a light gray breast and belly.",
+          "indo": "burung abu-abu ini memiliki alis kuning serta dada dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "a tall bodied bird that is mainly dark gray in color.",
+          "indo": "burung bertubuh tinggi yang sebagian besar berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird is gray, yellow and black in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu, kuning dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "this bird has large tarsus and feet with a whitish belly, the wingbars are striped with blacks and whites, there is a patch of green around the superciliary.",
+          "indo": "burung ini mempunyai tarsus dan kaki yang besar dengan perut berwarna keputihan, garis sayap bergaris hitam putih, terdapat bercak hijau disekitar superciliary."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0125_159078.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a light green color, with a light grey tarsus, foot, and bill.",
+          "indo": "burung ini mempunyai warna hijau muda, dengan tarsus, kaki, dan paruh berwarna abu-abu muda."
+        },
+        {
+          "english": "a small yellow bird with black and white in its wings.",
+          "indo": "seekor burung kecil berwarna kuning dengan sayap berwarna hitam dan putih."
+        },
+        {
+          "english": "a small bird with a grey throat, blue eye ring, and black coverts with two white wing bars.",
+          "indo": "seekor burung kecil dengan tenggorokan abu-abu, cincin mata biru, dan bulu hitam dengan dua garis sayap putih."
+        },
+        {
+          "english": "a small bird with a small black bill, white belly with yellow side, and gray crown and back.",
+          "indo": "burung kecil dengan paruh kecil berwarna hitam, perut putih dengan sisi kuning, dan mahkota serta punggung berwarna abu-abu."
+        },
+        {
+          "english": "this is a very small bird with yellow sides, white belly, and dark grey to black wings with white wingbars.",
+          "indo": "ini adalah burung yang sangat kecil dengan sisi kuning, perut putih, dan sayap abu-abu tua hingga hitam dengan garis sayap putih."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this small bird has dark gray over his crown, throat, and back, with a white and pale green belly and black and white wingbars.",
+          "indo": "burung kecil ini memiliki warna abu-abu tua di bagian ubun-ubun, tenggorokan, dan punggungnya, dengan perut berwarna putih dan hijau pucat serta garis sayap hitam putih."
+        },
+        {
+          "english": "green and yellow body, yellow and white chest, with green and yellow and black wings, yellow markings around the eyes.",
+          "indo": "badan hijau dan kuning, dada kuning dan putih, dengan sayap hijau dan kuning dan hitam, tanda kuning di sekitar mata."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang berwarna kuning dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0126_159341.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this little yellow guy has white wingbars and a gray crest.",
+          "indo": "makhluk kuning kecil ini memiliki sayap putih dan jambul abu-abu."
+        },
+        {
+          "english": "this colorful bird has greenish-yellow and gray plumage with white bars on its wings, and a small, sharp, black beak.",
+          "indo": "burung berwarna-warni ini memiliki bulu berwarna kuning kehijauan dan abu-abu dengan garis putih di sayapnya, dan paruh kecil, tajam, berwarna hitam."
+        },
+        {
+          "english": "this little bird has a white belly and breast, gray head, and white wingbars.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, kepala berwarna abu-abu, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow wing, grey head and a yellow eye ring.",
+          "indo": "ini adalah burung dengan perut putih, sayap kuning, kepala abu-abu dan cincin mata kuning."
+        },
+        {
+          "english": "this bird has a small round body, and yellow sides and flank.",
+          "indo": "burung ini memiliki tubuh bulat kecil, dan sisi serta panggul berwarna kuning."
+        },
+        {
+          "english": "this small bird has olive wings with white wingbars, a yellow side and gray nape.",
+          "indo": "burung kecil ini mempunyai sayap berwarna zaitun dengan garis sayap berwarna putih, bagian samping berwarna kuning, dan tengkuk berwarna abu-abu."
+        },
+        {
+          "english": "this bird is yellow and white in color, with a multi colored beak.",
+          "indo": "burung ini berwarna kuning putih, dengan paruh beraneka warna."
+        },
+        {
+          "english": "this bird is brown and yellow in color, with a black beak.",
+          "indo": "burung ini berwarna coklat kuning, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a small dark green bird with yellow abdomen, gray head, small black bill.",
+          "indo": "burung kecil berwarna hijau tua dengan perut kuning, kepala abu-abu, paruh hitam kecil."
+        },
+        {
+          "english": "a small green bird with stripes on its wings, a small head, short black legs, and a pointy beak.",
+          "indo": "burung kecil berwarna hijau dengan garis-garis di sayapnya, kepala kecil, kaki hitam pendek, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0128_158993.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a small bird with a yellow and white belly, with light brown wingbars.",
+          "indo": "burung kecil dengan perut berwarna kuning dan putih, dengan garis sayap berwarna coklat muda."
+        },
+        {
+          "english": "a small bird with yellow coloring to the top of his head and a lime green tail.",
+          "indo": "burung kecil dengan warna kuning di bagian atas kepalanya dan ekor berwarna hijau limau."
+        },
+        {
+          "english": "a small bird with yellow crown and white-sh yellow throat, breast, and abdomen.",
+          "indo": "burung kecil dengan mahkota kuning dan tenggorokan, dada, dan perut berwarna kuning keputihan."
+        },
+        {
+          "english": "small beak and head, but it's in proportion to the small body. colors are white, gray and yellow",
+          "indo": "paruh dan kepalanya kecil, namun sebanding dengan tubuhnya yang kecil. warnanya putih, abu-abu dan kuning"
+        },
+        {
+          "english": "this bird is white and yellow, and appears to be eating a green worm.",
+          "indo": "burung ini berwarna putih kuning, dan tampak sedang memakan cacing berwarna hijau."
+        },
+        {
+          "english": "there are shades of yellow on its head and belly and its beak is small and gray.",
+          "indo": "terdapat corak kuning pada kepala dan perutnya serta paruhnya kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird is white with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a grey head and a yellow eyebrow.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu dan alis berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow and white with short rectrices and a yellow crown",
+          "indo": "burung ini berwarna kuning putih dengan rectrices yang pendek dan mahkota berwarna kuning"
+        },
+        {
+          "english": "this bird has a creme collared belly with a yellow stripe running through it.",
+          "indo": "burung ini memiliki perut berkerah krem ​​​​dengan garis kuning melewatinya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0129_158823.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "yellow eye ring around a black eye and beak is rather straight",
+          "indo": "lingkaran mata kuning di sekitar mata hitam dan paruh agak lurus"
+        },
+        {
+          "english": "this bird has a large eyering that is colored yellow with blue feathers on the top part of its body.",
+          "indo": "Burung ini mempunyai cincin mata besar yang berwarna kuning dengan bulu berwarna biru di bagian atas tubuhnya."
+        },
+        {
+          "english": "a small bird wi yellow eye rings, a light green under belly, and long tail feathers.",
+          "indo": "burung kecil dengan cincin mata kuning, perut bagian bawah berwarna hijau muda, dan bulu ekor panjang."
+        },
+        {
+          "english": "small whith bird with gray hood, black wings with white wingbars, and white eye.",
+          "indo": "burung kecil dengan tudung abu-abu, sayap hitam dengan garis sayap putih, dan mata putih."
+        },
+        {
+          "english": "the birds has a grey crown and nape area with it's breast, throat and belly in white color.",
+          "indo": "Burung ini mempunyai ubun-ubun dan daerah tengkuk berwarna abu-abu dengan bagian dada, tenggorokan dan perutnya berwarna putih."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small light-green bird has a yellowish tint around its medium sized beak.",
+          "indo": "burung kecil berwarna hijau muda ini memiliki warna kekuningan di sekitar paruhnya yang berukuran sedang."
+        },
+        {
+          "english": "this particular bird has a belly that is white and tan",
+          "indo": "burung ini memiliki perut yang berwarna putih kecokelatan"
+        },
+        {
+          "english": "a small bird with a white belly and breast and grey head along with yellow eyerings.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna putih dan kepala berwarna abu-abu dengan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has a white and yellow belly, with yellow on the eyering, and two white wingbars.",
+          "indo": "burung ini memiliki perut berwarna putih dan kuning, dengan cincin mata berwarna kuning, dan dua garis sayap berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0130_159075.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "the camo colored bird with green and browns has yellow around its eye towards its beak.",
+          "indo": "burung berwarna camo dengan warna hijau dan coklat memiliki warna kuning di sekitar mata hingga paruhnya."
+        },
+        {
+          "english": "this small bird is a greyish color with yellow around its eyes, yellow wingbars, and a short, straight beak.",
+          "indo": "Burung kecil ini berwarna keabu-abuan dengan sekeliling mata berwarna kuning, garis sayap berwarna kuning, dan paruh pendek lurus."
+        },
+        {
+          "english": "this bird is small with a grayish green back and blacks wing tips and a flat black bill",
+          "indo": "burung ini berukuran kecil dengan punggung berwarna hijau keabu-abuan dan ujung sayap berwarna hitam serta paruh berwarna hitam rata"
+        },
+        {
+          "english": "a small gray and brown bird with yellow markings near the face.",
+          "indo": "seekor burung kecil berwarna abu-abu dan coklat dengan tanda kuning di dekat wajahnya."
+        },
+        {
+          "english": "a small bird with yellow around it's eyes, back and tail, with brown and white on it's wings.",
+          "indo": "burung kecil dengan warna kuning di sekitar mata, punggung dan ekornya, dengan warna coklat dan putih di sayapnya."
+        },
+        {
+          "english": "this bird is black with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kehijauan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a white eyering, long outer rectrices, and a green back.",
+          "indo": "burung ini memiliki cincin mata berwarna putih, outer rectrices, dan punggung berwarna hijau."
+        },
+        {
+          "english": "the small bird has an olive color body with yellow feathers near his face.",
+          "indo": "burung kecil ini memiliki tubuh berwarna zaitun dengan bulu kuning di dekat wajahnya."
+        },
+        {
+          "english": "this bird is grey with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna hijau dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small green bird, with dark primaries, yellow eyering, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna hijau, dengan warna bulu primer gelap, cincin mata kuning, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0132_158908.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a bird with a small triangular bill, yellow superciliary, white wingbars, and fluffy yellow breast.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, superciliary berwarna kuning, garis sayap berwarna putih, dan dada berwarna kuning berbulu halus."
+        },
+        {
+          "english": "a small sparrow-like bird with brown wings, tail, and white wingbars has a white throat and yellow breast and belly.",
+          "indo": "burung kecil mirip burung pipit dengan sayap, ekor, dan garis sayap berwarna coklat, tenggorokannya berwarna putih, serta dada dan perutnya berwarna kuning."
+        },
+        {
+          "english": "a small brown and yellow bird with a short beak.",
+          "indo": "seekor burung kecil berwarna coklat dan kuning dengan paruh pendek."
+        },
+        {
+          "english": "a bird with white wingbars, small triangular bill, small head, and tan breast.",
+          "indo": "burung dengan sayap berwarna putih, paruh berbentuk segitiga kecil, kepala kecil, dan dada berwarna coklat."
+        },
+        {
+          "english": "this small bird has two white wing bars and pale yellow belly and sides.",
+          "indo": "burung kecil ini memiliki dua garis sayap berwarna putih serta perut dan samping berwarna kuning pucat."
+        },
+        {
+          "english": "this bird has feathers that are black and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this is a mostly grey and yellow bird with some white and grey on its wings and yellow around the eyes.",
+          "indo": "ini adalah burung yang sebagian besar berwarna abu-abu dan kuning dengan beberapa warna putih dan abu-abu di sayapnya dan kuning di sekitar matanya."
+        },
+        {
+          "english": "a small bird with yellow sides, white belly but wings that are gray with black and white wing bars.",
+          "indo": "burung kecil dengan sisi kuning, perut putih tetapi sayap berwarna abu-abu dengan garis sayap hitam putih."
+        },
+        {
+          "english": "this small bird has a pale yellow belly, darker wings with white and black wing bars, and a white eye.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning pucat, sayap lebih gelap dengan garis sayap putih dan hitam, serta mata berwarna putih."
+        },
+        {
+          "english": "a small green bird, with dark green primaries, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna hijau, dengan warna bulu primer hijau tua, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0134_158889.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a white belly with yellow and black wings.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna kuning dan hitam."
+        },
+        {
+          "english": "a yellow bird that has a white throat and abdomen and black coverts with white wingbars and gray secondaries and dark, thin bill.",
+          "indo": "seekor burung berwarna kuning yang memiliki tenggorokan dan perut berwarna putih serta bulu berwarna hitam dengan garis sayap berwarna putih dan sayap bulu sekunder berwarna abu-abu serta paruh berwarna gelap dan tipis."
+        },
+        {
+          "english": "the bird has a white abdomen and yellow side as well as black and white coverts.",
+          "indo": "burung ini memiliki perut berwarna putih dan sisi kuning serta bulu berwarna hitam dan putih."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow and black wings, yellow eyebrow and white throat.",
+          "indo": "ini adalah burung dengan perut putih, sayap kuning dan hitam, alis kuning, dan tenggorokan putih."
+        },
+        {
+          "english": "the yellow and black bird sports large, yellow eyes and a short, slightly thick black beak.",
+          "indo": "burung kuning dan hitam memiliki mata kuning besar dan paruh hitam pendek agak tebal."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a white throat and green crown.",
+          "indo": "seekor burung kecil dengan tenggorokan putih dan mahkota hijau."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and the body is yellow.",
+          "indo": "burungnya kecil, paruhnya runcing, dan badannya berwarna kuning."
+        },
+        {
+          "english": "this bird has yellow and white feathers on its back and chest, black, white and yellow striped patterned wings, yellow and black head, and black short bills.",
+          "indo": "burung ini mempunyai bulu berwarna kuning dan putih pada punggung dan dada, sayap bermotif loreng hitam, putih dan kuning, kepala berwarna kuning dan hitam, serta paruh pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0135_158955.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "a bird has a short black bill, a tan belly, and small black feet.",
+          "indo": "seekor burung memiliki paruh hitam pendek, perut berwarna coklat, dan kaki kecil berwarna hitam."
+        },
+        {
+          "english": "this small bird has a yellow belly, a small bill and brown rectrices.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning, paruh kecil dan rectrices  berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and yellow in color with a sharp black beak and brown eye ring.",
+          "indo": "burung ini berwarna coklat kuning dengan paruh berwarna hitam runcing dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a green and gray bird with a black bill",
+          "indo": "ini adalah burung berwarna hijau dan abu-abu dengan paruh hitam"
+        },
+        {
+          "english": "average sized bird, with an averaged size beak and head. colors are variations of green.",
+          "indo": "burung berukuran rata-rata, dengan ukuran paruh dan kepala rata-rata. warna adalah variasi hijau."
+        },
+        {
+          "english": "this particular bird has a yellow belly and breast and black wings",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning serta sayap berwarna hitam"
+        },
+        {
+          "english": "a bird with a grey and yellow head, black beak and yellow body.",
+          "indo": "burung berkepala abu-abu kuning, paruh hitam, dan badan kuning."
+        },
+        {
+          "english": "this bird is white and has a very short beak.",
+          "indo": "burung ini berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a small black bill, yellow torso and grey belly.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam, badan berwarna kuning, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a pointed black beak, a yellow belly, and two white wingbars on each wing.",
+          "indo": "seekor burung kecil dengan paruh hitam runcing, perut kuning, dan dua garis sayap putih di setiap sayap."
+        }
+      ]
+    },
+    {
+      "filename": "White_Eyed_Vireo_0136_156418.jpg",
+      "class_id": 155,
+      "captions": [
+        {
+          "english": "this bird has a short flat beak and black eyes.",
+          "indo": "burung ini memiliki paruh pendek yang rata dan mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a small head, a long pointed beak, and a white belly",
+          "indo": "burung ini memiliki kepala kecil, paruh panjang runcing, dan perut berwarna putih"
+        },
+        {
+          "english": "the small grey bird has a white bellow and white wingbars with thick tarsus.",
+          "indo": "burung kecil berwarna abu-abu memiliki bagian bawah berwarna putih dan garis sayap berwarna putih dengan tarsus yang tebal."
+        },
+        {
+          "english": "a bird with a yellow eyebrow, white wingbars, and gray throat.",
+          "indo": "seekor burung dengan alis kuning, garis sayap putih, dan tenggorokan abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow belly and yellow superciliary, a grey breast, with white side bars, with two white wing bars, on grey and black wings.",
+          "indo": "burung kecil dengan perut kuning dan superciliary kuning, dada abu-abu, dengan garis samping putih, dengan dua garis sayap putih, pada sayap abu-abu dan hitam."
+        },
+        {
+          "english": "a long tall bird with a gray and yellow coloration.",
+          "indo": "burung tinggi panjang dengan warna abu-abu dan kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has two white wingbars and a yellow superciliary and a yellow belly.",
+          "indo": "burung ini memiliki dua sayap berwarna putih dan superciliary berwarna kuning serta perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a brown crown as well as a yellow cheek patch",
+          "indo": "burung ini memiliki mahkota berwarna coklat serta bercak kuning di pipi"
+        },
+        {
+          "english": "this is a gray bird with black wings and white wingbars, light yellow sides and yellow eyebrows.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan garis sayap putih, sisi kuning muda dan alis kuning."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2580 @@
+{
+  "dataset": [
+    {
+      "filename": "Swainson_Warbler_0001_794869.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with light brown on the breast and belly, dark brown on the wings, back, rump and crown.",
+          "indo": "burung berwarna coklat muda pada bagian dada dan perut, coklat tua pada sayap, punggung, pantat dan ubun-ubun."
+        },
+        {
+          "english": "this is a small brown bird with a white breast and a pointy beak",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada putih dan paruh runcing"
+        },
+        {
+          "english": "a small yet plump bird that is tan in color.",
+          "indo": "seekor burung kecil namun gempal yang berwarna cokelat."
+        },
+        {
+          "english": "this bird has thin tarsus for the size of its body and a remarkably thin pointed bill",
+          "indo": "burung ini mempunyai tarsus tipis untuk ukuran tubuhnya dan paruh runcing yang sangat tipis"
+        },
+        {
+          "english": "this little bird has a grey belly and breast with a brown crown, back, and wing.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota, punggung, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small brown gray bird has a small head compared to its body and a longer beak.",
+          "indo": "burung kecil berwarna coklat abu-abu ini memiliki kepala yang kecil dibandingkan tubuhnya dan paruh yang lebih panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0002_174683.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has brown beak and feet, with yellow throat, white breast and yellowish white belly.",
+          "indo": "Burung ini memiliki paruh dan kaki berwarna coklat, tenggorokan berwarna kuning, dada berwarna putih, dan perut berwarna putih kekuningan."
+        },
+        {
+          "english": "this dull colored bird has a large, puffy body, with a small head.",
+          "indo": "burung berwarna kusam ini memiliki tubuh besar, gembung, dan kepala kecil."
+        },
+        {
+          "english": "yellow and gray bird with a tan flat bill and a puffy back",
+          "indo": "burung berwarna kuning dan abu-abu dengan paruh rata berwarna cokelat dan punggung menggembung"
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a medium sized pointed bill",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing berukuran sedang"
+        },
+        {
+          "english": "a small grey and yellow bird with a yellow belly and grey sides.",
+          "indo": "seekor burung kecil berwarna abu-abu dan kuning dengan perut kuning dan sisi abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey with a yellow rotund belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut bulat berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a rotund yellow body",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan badannya bulat berwarna kuning"
+        },
+        {
+          "english": "this bird is gray and yellow in color, with a light brown beak.",
+          "indo": "burung ini berwarna abu-abu kuning, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this bird hasa brown crown with yellow throat and narrow light brown bill.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat dengan tenggorokan berwarna kuning dan paruh sempit berwarna coklat muda."
+        },
+        {
+          "english": "this small fat bird has yellow on its throat and belly and a pointed beak.",
+          "indo": "burung kecil gemuk ini memiliki warna kuning di tenggorokan dan perutnya serta paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0003_794866.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird has a small beak and its body is mostly yellow",
+          "indo": "burung ini mempunyai paruh yang kecil dan tubuhnya sebagian besar berwarna kuning"
+        },
+        {
+          "english": "a small bird with a dark eye and brownish colored bill, with light colored breast and belly.",
+          "indo": "burung kecil bermata gelap dan paruh berwarna kecoklatan, dada dan perut berwarna terang."
+        },
+        {
+          "english": "this white superciliaries of this bird sit below the brown crown, which match the birds wings in color.",
+          "indo": "superciliary putih burung ini berada di bawah mahkota coklat, yang cocok dengan warna sayap burung."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with brown beak, crown and superciliary, and gray throat, breast, belly and abdomen",
+          "indo": "burung dengan paruh berwarna coklat, mahkota dan superciliary, dan tenggorokan, dada, perut dan perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown with a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna kuning"
+        },
+        {
+          "english": "this small bird has a yellow throat, light brown crown, and yellow eyebrows.",
+          "indo": "burung kecil ini memiliki tenggorokan berwarna kuning, mahkota berwarna coklat muda, dan alis berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow with patches of gray",
+          "indo": "burung ini memiliki perut yang berwarna kuning dengan bercak abu-abu"
+        },
+        {
+          "english": "this bird has a brown bill and crown and a white breast and belly.",
+          "indo": "burung ini memiliki paruh dan mahkota berwarna coklat serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "the small bird has a brown beak, a brown crown, white superciliary, a speckled brown and white cheek patch, a white breast and belly, and brown wings.",
+          "indo": "Burung kecil ini memiliki paruh berwarna coklat, mahkota berwarna coklat, superciliary berwarna putih, pipi berwarna coklat dan putih berbintik-bintik, dada dan perut berwarna putih, serta sayap berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0004_794874.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the small bird is brown and grey with a medium sized pointed bill.",
+          "indo": "burung kecil berwarna coklat abu-abu dengan paruh runcing berukuran sedang."
+        },
+        {
+          "english": "the bird has a yellowish, brown crown, wings, and rectrices and a lighter, yellow-brown belly and abdomen.",
+          "indo": "burung ini memiliki mahkota, sayap, dan rectrices berwarna coklat kekuningan, serta perut dan perut berwarna kuning kecokelatan."
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown crown and back.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan punggung berwarna coklat."
+        },
+        {
+          "english": "this tiny golden brown bird has a sharp pointed beak with long feat.",
+          "indo": "burung mungil berwarna coklat keemasan ini memiliki paruh runcing tajam dengan bulu yang panjang."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small dull colored bird with a brown body and a sort of purplish orange beak",
+          "indo": "burung kecil berwarna kusam dengan tubuh berwarna coklat dan semacam paruh berwarna jingga keunguan"
+        },
+        {
+          "english": "a tiny light brown bird with a long sharp beak",
+          "indo": "seekor burung kecil berwarna coklat muda dengan paruh panjang dan tajam"
+        },
+        {
+          "english": "a small bird with brown colored wings with long pointy beak and beige colored belly.",
+          "indo": "seekor burung kecil bersayap berwarna coklat dengan paruh panjang runcing dan perut berwarna krem."
+        },
+        {
+          "english": "this small brown bird has a pointy beak and white belly.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh runcing dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0005_794888.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird is nearly all gray with a darker crown and nape.",
+          "indo": "burung ini hampir seluruhnya berwarna abu-abu dengan mahkota dan tengkuk yang lebih gelap."
+        },
+        {
+          "english": "the bird has a small black eyering and a pointy bill.",
+          "indo": "burung itu memiliki cincin mata kecil berwarna hitam dan paruh yang runcing."
+        },
+        {
+          "english": "a small bird with thin and sharp beak has pale yellow throat and its body is brown all over.",
+          "indo": "seekor burung kecil dengan paruh tipis dan tajam, tenggorokannya berwarna kuning pucat dan seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "a small gray and brown bird with a small sharp beak",
+          "indo": "seekor burung kecil berwarna abu-abu dan coklat dengan paruh kecil yang tajam"
+        },
+        {
+          "english": "the bird has a dark, sandy brown plumage, with a lighter belly and breast, and a thin beak.",
+          "indo": "burung ini memiliki bulu berwarna coklat tua berpasir, dengan perut dan dada lebih terang, serta paruh tipis."
+        },
+        {
+          "english": "this bird has a very pointed bill, light brown crown with white eyebrow, dark brown white side and belly.",
+          "indo": "burung ini mempunyai paruh yang sangat runcing, mahkota berwarna coklat muda dengan alis berwarna putih, bagian samping dan perut berwarna putih coklat tua."
+        },
+        {
+          "english": "this is a small gray bird that has a white throat and a pointed beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu yang memiliki tenggorokan putih dan paruh runcing."
+        },
+        {
+          "english": "a small dark grey bird with brown wings and a thin sharp bill.",
+          "indo": "seekor burung kecil berwarna abu-abu tua dengan sayap coklat dan paruh tipis yang tajam."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird has a brown body a white chin and a sharp bill.",
+          "indo": "burung ini memiliki tubuh berwarna coklat, dagu berwarna putih dan paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0006_794857.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has brown crown, nape, wings, rectrices and beak, and pink tarsus and feet, it has sharp and pointy beak.",
+          "indo": "burung ini memiliki mahkota, tengkuk, sayap, rectrices  dan paruh berwarna coklat, serta tarsus dan kaki berwarna merah muda, paruhnya runcing dan runcing."
+        },
+        {
+          "english": "a brown and white bird with a long, sharp beak and flesh colored feet sits on a tree limb.",
+          "indo": "seekor burung berwarna coklat putih dengan paruh panjang tajam dan kaki berwarna daging duduk di dahan pohon."
+        },
+        {
+          "english": "this is a bird with a white belly and a brown back and head.",
+          "indo": "ini adalah burung dengan perut putih dan punggung serta kepala berwarna coklat."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a brown crown and wing.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota dan sayap berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with a brown crown and light taupe superciliary, breast and belly.",
+          "indo": "seekor burung kecil berwarna coklat dengan mahkota coklat dan superciliary kelabu tua, dada dan perut."
+        },
+        {
+          "english": "a small bird with a brown crown, and a flat bill",
+          "indo": "seekor burung kecil dengan mahkota coklat, dan paruh rata"
+        },
+        {
+          "english": "a small bird with brown crown, cream eye brow, and brown coverts.",
+          "indo": "seekor burung kecil dengan mahkota berwarna coklat, superciliary mata berwarna krem, dan bulu berwarna coklat."
+        },
+        {
+          "english": "this tiny bird has thin, pink tarsus, and brown crown and back.",
+          "indo": "burung mungil ini memiliki tarsus tipis berwarna merah muda, serta mahkota dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has a large, thin beak, with cream eyebrows and underside.",
+          "indo": "burung ini memiliki paruh yang besar dan tipis, dengan alis berwarna krem ​​​​dan bagian bawah."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0007_174745.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with a fluffy white breast, gray head and cream colored, short bill.",
+          "indo": "burung dengan dada berbulu putih, kepala abu-abu dan berwarna krem, paruh pendek."
+        },
+        {
+          "english": "a small bird with a brown and gray back, lighter belly and breast and a straight beak.",
+          "indo": "seekor burung kecil dengan punggung berwarna coklat dan abu-abu, perut dan dada lebih terang, serta paruh lurus."
+        },
+        {
+          "english": "the small bird has a brown head with a white chest and sharp pointed beak.",
+          "indo": "Burung kecil ini memiliki kepala berwarna coklat dengan dada berwarna putih dan paruh runcing runcing."
+        },
+        {
+          "english": "small to medium white grey and brown bird with medium tarsus and medium brown beak",
+          "indo": "burung kecil hingga sedang berwarna putih abu-abu dan coklat dengan tarsus sedang dan paruh coklat sedang"
+        },
+        {
+          "english": "this is a green and white bird with a white belly and a brown crown",
+          "indo": "ini adalah burung berwarna hijau dan putih dengan perut putih dan mahkota coklat"
+        },
+        {
+          "english": "a small bird with white and grey breast and belly, this bird also has brown coverts with black wing bars.",
+          "indo": "burung kecil dengan dada dan perut berwarna putih abu-abu, burung ini juga memiliki bulu berwarna coklat dengan garis sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with a white chest he has a small pointed beak",
+          "indo": "burung ini berwarna coklat dengan dada berwarna putih, ia mempunyai paruh kecil yang runcing"
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a white breast and a small pointed beak.",
+          "indo": "burung kecil ini memiliki dada berwarna putih dan paruh kecil yang runcing."
+        },
+        {
+          "english": "a little white breasted bird with a pointed bill and little round black eyes",
+          "indo": "seekor burung kecil berdada putih dengan paruh runcing dan mata hitam bulat kecil"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0008_794886.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a puffy bird with a beige underbelly and dark beak.",
+          "indo": "seekor burung menggembung dengan perut berwarna krem ​​​​dan paruh berwarna gelap."
+        },
+        {
+          "english": "this stout bird has a broad, white breast, gray primaries and rectrices and a short, pointed bill.",
+          "indo": "burung gagah ini memiliki dada lebar berwarna putih, warna bulu primer dan rectrices berwarna abu-abu, serta paruh pendek dan runcing."
+        },
+        {
+          "english": "small bird with white breast standing on a branch with small orange feet.",
+          "indo": "burung kecil dengan dada putih berdiri di dahan dengan kaki kecil berwarna oranye."
+        },
+        {
+          "english": "bird with sharp and pointed beak that is brown, grayish white throat, breast, abdomen and belly",
+          "indo": "burung dengan paruh runcing dan runcing berwarna coklat, tenggorokan, dada, perut dan perut berwarna putih keabu-abuan"
+        },
+        {
+          "english": "this bird has a rounded white belly, a short sharp beak, and a brown wing",
+          "indo": "burung ini memiliki perut bulat berwarna putih, paruh pendek runcing, dan sayap berwarna coklat"
+        },
+        {
+          "english": "this bird is grey with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bulbously shaped white with brownish red wings and crown",
+          "indo": "berbentuk bulat berwarna putih dengan sayap dan mahkota berwarna merah kecoklatan"
+        },
+        {
+          "english": "a white bellied bird with a tan back and orange crown, with a long, narrow bill.",
+          "indo": "burung berperut putih dengan punggung cokelat dan mahkota oranye, dengan paruh panjang dan sempit."
+        },
+        {
+          "english": "this small bird has a sharp bill and a light green belly.",
+          "indo": "burung kecil ini memiliki paruh yang runcing dan perut berwarna hijau muda."
+        },
+        {
+          "english": "this bird has a small brown beak with a white belly and tan feet.",
+          "indo": "burung ini memiliki paruh kecil berwarna coklat dengan perut berwarna putih dan kaki berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0009_174746.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird has dark grey feathers on it's back.",
+          "indo": "burung ini memiliki bulu berwarna abu-abu tua di punggungnya."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown and superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "the bird is small with a dark back and white belly and breast.",
+          "indo": "burung itu kecil dengan punggung berwarna gelap dan perut serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, a white breast, and a short bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berwarna putih, dan paruh pendek"
+        },
+        {
+          "english": "this tiny bird has a long neck, dark brown cheek patches, and long white tarsus.",
+          "indo": "burung mungil ini memiliki leher panjang, bercak pipi berwarna coklat tua, dan tarsus putih panjang."
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "a dark brown and khaki bird with an unproportional body compared to the head and has a small sharp bill.",
+          "indo": "burung berwarna coklat tua dan khaki dengan tubuh tidak proporsional dibandingkan kepala dan memiliki paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird is white and brown in color, with a small brown beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "this bird has a light colored belly with darker colors on its back",
+          "indo": "burung ini memiliki perut berwarna terang dengan warna lebih gelap di punggungnya"
+        },
+        {
+          "english": "the bird is small with a white breast and striped color head.",
+          "indo": "burungnya berukuran kecil dengan dada berwarna putih dan kepala berwarna belang."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0010_174724.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this handsome fellow is mostly white with light brown crown, superciliaries, wings, and tail.",
+          "indo": "pria tampan ini sebagian besar berkulit putih dengan mahkota, superciliary, sayap, dan ekor berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a gray belly and brown wings.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan sayap berwarna coklat."
+        },
+        {
+          "english": "the bird has light green colored abdomen and breast with a white colored throat and brown crown.",
+          "indo": "Burung ini memiliki perut dan dada berwarna hijau muda dengan tenggorokan berwarna putih dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is gray and white with a small head and pointy beak.",
+          "indo": "burung ini berwarna abu-abu putih dengan kepala kecil dan paruh runcing."
+        },
+        {
+          "english": "a brownish grey bellied bird with brown secondary winds, brown stripe on face and pointed bill.",
+          "indo": "burung berperut abu-abu kecoklatan dengan angin bulu sekunder berwarna coklat, garis coklat di muka dan paruh runcing."
+        },
+        {
+          "english": "this bird is brown with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and brown in color, with a sharp brown beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh berwarna coklat runcing."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown beak with a white belly and brown wings.",
+          "indo": "burung ini memiliki paruh berwarna coklat dengan perut berwarna putih dan sayap berwarna coklat."
+        },
+        {
+          "english": "vthis bird has wings that are brown and has a white belly",
+          "indo": "vburung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0011_174680.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "there is a small bird with a white belly, brown wings, and a sharp black beak.",
+          "indo": "ada seekor burung kecil dengan perut berwarna putih, sayap berwarna coklat, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird is brown with a cream-colored breast, pink feet and a long pointed beak.",
+          "indo": "burung ini berwarna coklat dengan dada berwarna krem, kaki berwarna merah muda dan paruh runcing panjang."
+        },
+        {
+          "english": "a small bird with golden brown crown, white superciliary, brown coverts and wingbars.",
+          "indo": "seekor burung kecil dengan mahkota berwarna coklat keemasan, superciliary berwarna putih, bulu dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly, brown wing and a pointy black beak.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna coklat dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird is brown and white in color with a skinny sharp beak, and light eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh tipis dan tajam, serta cincin mata berwarna terang."
+        },
+        {
+          "english": "this bird has a straight, sharp beak, a brown and white stripped head, brown wings, and a white belly.",
+          "indo": "burung ini mempunyai paruh yang lurus dan runcing, kepala yang bergaris coklat putih, sayap berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a white belly, brown wingbars and curved bill.",
+          "indo": "burung ini memiliki perut berwarna putih, garis sayap berwarna coklat, dan paruh melengkung."
+        },
+        {
+          "english": "this bird is brown and white in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird is white brown in color, and has a brown beak.",
+          "indo": "burung ini berwarna putih coklat, dan mempunyai paruh berwarna coklat."
+        },
+        {
+          "english": "this bird as a white belly and breast, and brown crown and wings.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, serta mahkota dan sayap berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0012_174739.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "small roundish bird with an off white underside, brown topside with white secondaries, peach bil and feet, black eyes.",
+          "indo": "burung kecil bulat dengan bagian bawah berwarna putih pucat, bagian atas berwarna coklat dengan bagian bulu sekunder berwarna putih, bagian bawah dan kaki berwarna persik, mata berwarna hitam."
+        },
+        {
+          "english": "a small brown bird with a white breast, belly and abdomen.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada, perut dan perut berwarna putih."
+        },
+        {
+          "english": "this is a brown bird with a long pointy brown beak.",
+          "indo": "ini adalah burung berwarna coklat dengan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "green and brown backed bird with white belly and throat.",
+          "indo": "burung berpunggung hijau dan coklat dengan perut dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "a small grey puffy bird with a white belly, short wings, and a long bill.",
+          "indo": "seekor burung kecil berwarna abu-abu menggembung dengan perut putih, sayap pendek, dan paruh panjang."
+        },
+        {
+          "english": "this small bird has a rather rounded belly, as well as a pointed beak that's ever so slightly curved downward.",
+          "indo": "Burung kecil ini mempunyai perut agak membulat, serta paruh runcing yang agak melengkung ke bawah."
+        },
+        {
+          "english": "a small brown bird with a light brown/white belly, it has short wings and a medium beak which is open.",
+          "indo": "burung kecil berwarna coklat dengan perut coklat muda/putih, sayap pendek dan paruh sedang terbuka."
+        },
+        {
+          "english": "this bird has a white breast and brown plumage, along with a slightly downward-curved bill",
+          "indo": "burung ini memiliki dada berwarna putih dan bulu berwarna coklat, serta paruh agak melengkung ke bawah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0013_794892.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with a pointed triangular bill, yellow eyebrow, and brown plumage across its body.",
+          "indo": "burung dengan paruh runcing berbentuk segitiga, alis berwarna kuning, dan bulu berwarna coklat di sekujur tubuhnya."
+        },
+        {
+          "english": "a small light brown bird with white eyebrows and black eyes.",
+          "indo": "seekor burung kecil berwarna coklat muda dengan alis putih dan mata hitam."
+        },
+        {
+          "english": "sharp billed small bird with uniform brown body and fanned rectrices.",
+          "indo": "burung kecil berparuh tajam dengan tubuh coklat seragam dan rectrices mengipasi."
+        },
+        {
+          "english": "this small brown bird has a long, skinny beak and light markings on its face.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh yang panjang dan kurus serta corak tipis di wajahnya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has a long beak and pure brown feathers.",
+          "indo": "burung kecil ini memiliki paruh panjang dan bulu berwarna coklat murni."
+        },
+        {
+          "english": "the small bird has a brown back, large black eyering and sharp brown bill.",
+          "indo": "burung kecil memiliki punggung berwarna coklat, cincin mata hitam besar dan paruh coklat tajam."
+        },
+        {
+          "english": "this bird is grey with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna hijau dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small brown bird which is somewhat uniform in color and has a long thin sharp bill.",
+          "indo": "seekor burung kecil berwarna coklat yang warnanya agak seragam dan mempunyai paruh panjang, tipis, dan tajam."
+        },
+        {
+          "english": "this bird is a soft brown with green undertones, and creamy white eyebrows and throat.",
+          "indo": "burung ini berwarna coklat lembut dengan warna dasar hijau, serta alis dan tenggorokan berwarna putih krem."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0014_794858.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the small bird has white eyebrows and a brown crown.",
+          "indo": "burung kecil itu memiliki alis berwarna putih dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a large light brown bill, a white eyebrow, and a medium brown crown.",
+          "indo": "burung ini memiliki paruh besar berwarna coklat muda, alis berwarna putih, dan mahkota berwarna coklat sedang."
+        },
+        {
+          "english": "this small bird is brown all over, even it's longish beak and fan styled tail.",
+          "indo": "burung kecil ini seluruhnya berwarna coklat, bahkan paruhnya agak gondrong dan ekornya berbentuk kipas."
+        },
+        {
+          "english": "this bird has a sleek brown body, a narrow head and a long tapered beak.",
+          "indo": "burung ini memiliki tubuh ramping berwarna coklat, kepala sempit dan paruh panjang meruncing."
+        },
+        {
+          "english": "this small, dark tan bird has a small head and long pointed straight beak.",
+          "indo": "burung kecil berwarna coklat tua ini memiliki kepala kecil dan paruh lurus panjang dan runcing."
+        },
+        {
+          "english": "a small bird that is covered in brown feathers this bird also contains a light cream colored stripe along its cheek.",
+          "indo": "burung kecil yang ditutupi bulu berwarna coklat burung ini juga memiliki garis berwarna krem ​​​​muda di sepanjang pipinya."
+        },
+        {
+          "english": "this bird has wings that are brow and has a long bill",
+          "indo": "burung ini mempunyai sayap yang superciliary dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this tiny bird is about the length of your finger and is all brown from head to toe.",
+          "indo": "burung kecil ini panjangnya kira-kira sebesar jari tangan Anda dan semuanya berwarna coklat dari ujung kepala sampai ujung kaki."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan"
+        },
+        {
+          "english": "this bird has a pointed brown bill, with a brown breast.",
+          "indo": "burung ini memiliki paruh runcing berwarna coklat, dengan dada berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0015_794891.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this smaller bird has a white belly and breast with brown crown and superciliary.",
+          "indo": "burung yang lebih kecil ini memiliki perut dan dada berwarna putih dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "a very small bird, primarily brown with yellow and white breast feathers, which has a large bill compared to it's body size.",
+          "indo": "burung yang sangat kecil, umumnya berwarna coklat dengan bulu dada berwarna kuning dan putih, yang memiliki paruh yang besar dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "this is a bird with a white and yellow belly and grey wings.",
+          "indo": "ini adalah burung dengan perut berwarna putih dan kuning serta sayap abu-abu."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "tiny brown and white bird with a long brown beak",
+          "indo": "burung kecil berwarna coklat dan putih dengan paruh panjang berwarna coklat"
+        },
+        {
+          "english": "this bird has feathers that are brown and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a long sharp bill, a brown head with a white stripe running the length of the head and above the eye, a dark eye, light tan throat and belly, brown back and wings, and pink feet.",
+          "indo": "Burung ini mempunyai paruh yang panjang dan runcing, kepala berwarna coklat dengan garis putih sepanjang kepala dan di atas mata, mata berwarna gelap, tenggorokan dan perut berwarna coklat muda, punggung dan sayap berwarna coklat, serta kaki berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0016_174705.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a singing bird with a yellow breast, a white neck, and a black superciliary.",
+          "indo": "burung berkicau dengan dada kuning, leher putih, dan superciliary hitam."
+        },
+        {
+          "english": "the bird has a yellow throat, breast, belly and abdomen, with the rest of it's body in brown color.",
+          "indo": "burung ini memiliki tenggorokan, dada, perut dan perut berwarna kuning, sedangkan seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "the small brown birds are yellow and brown with his mouth open",
+          "indo": "burung kecil berwarna coklat berwarna kuning dan coklat dengan mulut terbuka"
+        },
+        {
+          "english": "this bird has a yellow belly, a white breast and a brown wing.",
+          "indo": "burung ini memiliki perut berwarna kuning, dada berwarna putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this small bird has a yellow belly, a brown malar stripe, and a head that is tiny compared to its body.",
+          "indo": "Burung kecil ini memiliki perut berwarna kuning, garis malar berwarna coklat, dan kepala yang kecil dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this particular bird has a yellow belly and white breasts and brown eyebrows",
+          "indo": "burung ini memiliki perut kuning, dada putih, dan alis coklat"
+        },
+        {
+          "english": "this particular bird has a yellow belly and white brasts and an orange bill",
+          "indo": "burung ini memiliki perut kuning, dada putih, dan paruh oranye"
+        },
+        {
+          "english": "this is a yellow bird with gray wings and tail and white throat.",
+          "indo": "ini adalah burung kuning dengan sayap dan ekor abu-abu serta tenggorokan putih."
+        },
+        {
+          "english": "this small bird has yellow belly, and green colored wings.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning, dan sayap berwarna hijau."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0017_174685.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the crown and superciliary feather colors contrast distinctly from the edge of the bill all the way to the nape.",
+          "indo": "warna mahkota dan superciliary sangat kontras dari tepi paruh hingga ke tengkuk."
+        },
+        {
+          "english": "a light brown bird with a sharp beak and light brown breast.",
+          "indo": "burung berwarna coklat muda dengan paruh runcing dan dada berwarna coklat muda."
+        },
+        {
+          "english": "this is a brown bird with a large pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan paruh runcing besar."
+        },
+        {
+          "english": "this is a small, brown and white bird with a short beak.",
+          "indo": "ini adalah burung kecil berwarna coklat dan putih dengan paruh pendek."
+        },
+        {
+          "english": "this bird has dark gray wings and lighter gray belly and head.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu tua serta perut dan kepala berwarna abu-abu terang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this sleek bird has a greyish head two toned and a darker wing with a lighter belly.",
+          "indo": "burung ramping ini memiliki kepala berwarna keabu-abuan dan sayap lebih gelap dengan perut lebih terang."
+        },
+        {
+          "english": "this bird is brown in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this sleek brown bird has a lighter belly, eye stripe, and throat.",
+          "indo": "burung coklat ramping ini memiliki perut, garis mata, dan tenggorokan yang lebih terang."
+        },
+        {
+          "english": "this bird has a brown body with a white throat and white belly.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan tenggorokan berwarna putih dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0018_174715.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a large bill that is black and shiny.",
+          "indo": "burung tersebut memiliki paruh besar yang berwarna hitam dan mengkilat."
+        },
+        {
+          "english": "a small gray bird with brown feathers and a gray beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bulu coklat dan paruh abu-abu."
+        },
+        {
+          "english": "this is a grey bird with brown wings and a long pointy beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown and white in color with a black beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh berwarna hitam, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "small bird with a mixture of brown and tan feathers",
+          "indo": "burung kecil dengan campuran bulu berwarna coklat dan coklat"
+        },
+        {
+          "english": "small bird with a brown head, wings and back. white breast. light brown eye marking.",
+          "indo": "burung kecil dengan kepala, sayap, dan punggung berwarna coklat. dada putih. tanda mata berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown in color, with a sharp brown beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh berwarna coklat yang runcing."
+        },
+        {
+          "english": "a small bird that has dull green and gray feathers with a silver beak.",
+          "indo": "burung kecil yang memiliki bulu berwarna hijau kusam dan abu-abu dengan paruh berwarna perak."
+        },
+        {
+          "english": "this bird is grey on its belly and breast, but a dark green on its head and wings.",
+          "indo": "burung ini berwarna abu-abu pada bagian perut dan dadanya, namun berwarna hijau tua pada kepala dan sayapnya."
+        },
+        {
+          "english": "this bird has a brown crown with white eyebrows and brown secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan alis berwarna putih dan bulu sekunder berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0019_174692.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this is a serene looking bird who blends into his environment with a dusky yellow belly and abdomen and his brown and gray feathers on his topside.",
+          "indo": "ini adalah burung yang tampak tenang yang menyatu dengan lingkungannya dengan perut dan perut berwarna kuning kehitaman serta bulu berwarna coklat dan abu-abu di bagian atas."
+        },
+        {
+          "english": "this small bird has a white turning to yellow belly, brown wings, brown beak and beige head with a dark brown crown and dark brown stripe through the eye.",
+          "indo": "Burung kecil ini memiliki perut berwarna putih berubah menjadi kuning, sayap berwarna coklat, paruh berwarna coklat dan kepala berwarna krem ​​​​dengan mahkota berwarna coklat tua dan garis coklat tua pada matanya."
+        },
+        {
+          "english": "a brown and yellow bird with light yellow superciliary, throat and belly.",
+          "indo": "burung berwarna coklat dan kuning dengan superciliary, tenggorokan dan perut berwarna kuning muda."
+        },
+        {
+          "english": "a small bird with a yellow and white belly, and a light yellow eyebrow.",
+          "indo": "seekor burung kecil dengan perut kuning dan putih, dan alis kuning muda."
+        },
+        {
+          "english": "this is a small yellow and brown bird with a black swipe over his eyes and a flat and pointy black beak.",
+          "indo": "ini adalah burung kecil berwarna kuning dan coklat dengan guratan hitam di atas matanya dan paruh hitam rata dan runcing."
+        },
+        {
+          "english": "a medium sized bird with a long bill, and green wings",
+          "indo": "seekor burung berukuran sedang dengan paruh panjang, dan sayap berwarna hijau"
+        },
+        {
+          "english": "this is a gray bird with a yellow eyebrow and a yellow abdomen.",
+          "indo": "ini adalah burung abu-abu dengan alis kuning dan perut kuning."
+        },
+        {
+          "english": "this bird has a pointed beak and varying shades of yellow throughout its body.",
+          "indo": "burung ini memiliki paruh yang runcing dan corak warna kuning yang bervariasi di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and white",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0020_794863.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the brown wings have black wingbars, the bill is short and pointed, and the head is small compared to the body",
+          "indo": "sayap berwarna coklat memiliki garis sayap berwarna hitam, paruh pendek dan runcing, serta kepala lebih kecil dibandingkan badan"
+        },
+        {
+          "english": "this little bird has a white belly and breast, black superciliary, and brown crown.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, superciliary berwarna hitam, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "a small bird with a tan colored head, cream, yellow and grey breast and belly, with tan and grey covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala berwarna cokelat, krem, dada dan perut berwarna kuning dan abu-abu, dengan warna cokelat dan abu-abu menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small brown bird with light yellow and white chest and short pointed brown beak.",
+          "indo": "burung kecil berwarna coklat dengan dada kuning muda dan putih serta paruh pendek berwarna coklat."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a brown crown and white eyebrow.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "a little bird with a long sharp looking bill and white throat, breast and belly.",
+          "indo": "seekor burung kecil dengan paruh panjang dan tajam serta tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this colorful bird has a yellow belly, a brown crown, and orange feet.",
+          "indo": "burung berwarna-warni ini memiliki perut kuning, mahkota coklat, dan kaki oranye."
+        },
+        {
+          "english": "this small bird has a sharp bill, coffee colored belly, with small feet.",
+          "indo": "burung kecil ini mempunyai paruh runcing, perut berwarna kopi, dan kaki kecil."
+        },
+        {
+          "english": "a small white bird with yellow abdomen and brown nape.",
+          "indo": "seekor burung kecil berwarna putih dengan perut kuning dan tengkuk coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0021_794898.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a white breasted bird with black superciliary, brown primaries, and a short pointed bill.",
+          "indo": "burung berdada putih dengan superciliary hitam, bulu primer coklat, dan paruh runcing pendek."
+        },
+        {
+          "english": "a light tan color on the breast, light brown wings with a thick neck and slim bill.",
+          "indo": "warna coklat muda di bagian dada, sayap coklat muda dengan leher tebal dan paruh ramping."
+        },
+        {
+          "english": "a small bird that is lighter brown on the belly and a darker brown body has a brown pointy beak.",
+          "indo": "burung kecil yang perutnya berwarna coklat muda dan badannya coklat tua, mempunyai paruh runcing berwarna coklat."
+        },
+        {
+          "english": "this light brown and yellow bird features a dark brown disposition on its wings and has a narrow, straight beak.",
+          "indo": "burung berwarna coklat muda dan kuning ini memiliki ciri sayap berwarna coklat tua dan paruh yang sempit dan lurus."
+        },
+        {
+          "english": "this brown small bird has a long and narrow bill.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh yang panjang dan sempit."
+        },
+        {
+          "english": "this small gray bird has a yellow throat and eyebrow and a light gray and yellow belly.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki tenggorokan dan alis berwarna kuning serta perut berwarna abu-abu muda dan kuning."
+        },
+        {
+          "english": "this bird has olive green and pale yellow breast and side with brown secondaries.",
+          "indo": "burung ini memiliki dada berwarna hijau zaitun dan kuning pucat serta bagian samping berwarna coklat."
+        },
+        {
+          "english": "this is a small gray bird with light yellow throat and eyebrows.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan tenggorokan dan alis berwarna kuning muda."
+        },
+        {
+          "english": "a small bird, light brown in color with sharp pointed beak, white nape, dark brown cheek patch, foot is orange in color and thin.",
+          "indo": "Burung berukuran kecil, berwarna coklat muda dengan paruh runcing runcing, tengkuk berwarna putih, pipi berwarna coklat tua, kaki berwarna jingga dan kurus."
+        },
+        {
+          "english": "the bird has a white belly and a black eyering.",
+          "indo": "burung itu memiliki perut berwarna putih dan cincin mata berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0022_794868.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this little bird is mostly light brown with a black superciliary.",
+          "indo": "burung kecil ini sebagian besar berwarna coklat muda dengan superciliary berwarna hitam."
+        },
+        {
+          "english": "a brown bird with a slightly lighter color breast and orange coverts and feet.",
+          "indo": "seekor burung berwarna coklat dengan warna dada sedikit lebih terang dan bulu serta kaki berwarna oranye."
+        },
+        {
+          "english": "light brown small bird with whitish throat and belly and light black beak",
+          "indo": "burung kecil berwarna coklat muda dengan tenggorokan dan perut berwarna keputihan serta paruh berwarna hitam muda"
+        },
+        {
+          "english": "grey bird with white belly and breast with medium length pointed bill and orange feet.",
+          "indo": "burung berwarna abu-abu dengan perut dan dada berwarna putih, paruh runcing panjang sedang, dan kaki berwarna jingga."
+        },
+        {
+          "english": "the bird is small with brown feathers on its back and a white breast and belly.",
+          "indo": "burung itu berukuran kecil dengan bulu berwarna coklat di punggungnya serta dada dan perutnya berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has orange feet",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai kaki berwarna orange"
+        },
+        {
+          "english": "a small brown bird with a taupe throat, breast and belly.",
+          "indo": "seekor burung kecil berwarna coklat dengan tenggorokan, dada dan perut berwarna kelabu tua."
+        },
+        {
+          "english": "a brown bird with a black eye showing and black beak that encompasses a bird that blends in nicely with the leaves behind it.",
+          "indo": "burung berwarna coklat dengan mata terlihat hitam dan paruh hitam melingkari burung yang menyatu apik dengan dedaunan di belakangnya."
+        },
+        {
+          "english": "this is a gray bird with a pointed beak and pink tarsus and feet.",
+          "indo": "ini adalah burung abu-abu dengan paruh runcing dan tarsus serta kaki berwarna merah muda."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0023_174717.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a tiny bird that is brown and white that has a tiny, but long beak, and dark stripe through his eye.",
+          "indo": "seekor burung kecil berwarna coklat dan putih yang memiliki paruh kecil namun panjang, dan garis gelap di matanya."
+        },
+        {
+          "english": "a small brown bird with a cream colored underbelly and brown beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut berwarna krem ​​​​dan paruh coklat."
+        },
+        {
+          "english": "a small bird with a long flat bill and a yellow breast",
+          "indo": "seekor burung kecil dengan paruh panjang dan pipih serta dada berwarna kuning"
+        },
+        {
+          "english": "this small bird has a long beak, a reddish belly, dark wings and orange tarsus and feet.",
+          "indo": "burung kecil ini memiliki paruh yang panjang, perut berwarna kemerahan, sayap berwarna gelap, serta tarsus dan kaki berwarna jingga."
+        },
+        {
+          "english": "a small bird with a wide and long bill, a light colored belly, and dark colored wings.",
+          "indo": "burung kecil dengan paruh lebar dan panjang, perut berwarna terang, dan sayap berwarna gelap."
+        },
+        {
+          "english": "this particular bird has a yellow belly and breast and a brown cheek patch",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning serta bercak pipi berwarna coklat"
+        },
+        {
+          "english": "the bird is crowing and it has a white breast and tan feathers.",
+          "indo": "burung itu berkokok dan mempunyai dada berwarna putih dan bulu berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and white in color, with a sharp brown beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh berwarna coklat runcing."
+        },
+        {
+          "english": "this bird has a long pointed orange bill, with a white breast and belly.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye, runcing, dengan dada dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with brown wings, white belly, and a small black beak.",
+          "indo": "seekor burung kecil dengan sayap coklat, perut putih, dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0024_794885.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly and green wings.",
+          "indo": "ini adalah burung dengan perut putih dan sayap hijau."
+        },
+        {
+          "english": "this is a small bird with a very light gray fluffy belly, breast and undertail and darker gray crown, wings and tail.",
+          "indo": "ini adalah burung kecil dengan perut, dada, dan ekor berbulu halus berwarna abu-abu terang serta mahkota, sayap, dan ekor berwarna abu-abu gelap."
+        },
+        {
+          "english": "bird has green feathers on the body and white breast feather and thin beak",
+          "indo": "Burung ini memiliki bulu berwarna hijau pada badannya dan bulu dada berwarna putih serta paruh tipis"
+        },
+        {
+          "english": "this is a bird with a white belly, brown wing and a white eyebrow.",
+          "indo": "ini adalah burung dengan perut putih, sayap coklat dan alis putih."
+        },
+        {
+          "english": "this bird has a white breast, belly, abdomen and vent.",
+          "indo": "burung ini mempunyai dada, perut, perut dan lubang kloaka berwarna putih."
+        },
+        {
+          "english": "the small bird with a white belly and breast and the brown wingbars and the bill is pointed",
+          "indo": "burung kecil dengan perut dan dada berwarna putih serta garis sayap berwarna coklat dan paruh runcing"
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and gray secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna abu-abu"
+        },
+        {
+          "english": "this bird is white and brown in color, with a very small beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh yang sangat kecil."
+        },
+        {
+          "english": "a small white bellied bird with a white breast and a long sharp beak.",
+          "indo": "seekor burung kecil berperut putih dengan dada putih dan paruh panjang dan tajam."
+        },
+        {
+          "english": "a small brown bird with a white belly a white stripe above its eye.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut putih dan garis putih di atas matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0025_794881.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast with brown crown and superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "the bird has a white belly and brown striped wings and face.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap serta wajah bergaris coklat."
+        },
+        {
+          "english": "a small bord with a white belly and a brown top with black eyes.",
+          "indo": "pinggiran kecil dengan perut putih dan atasan coklat dengan mata hitam."
+        },
+        {
+          "english": "lime belly, throat, and superciliary with brown cheek patched, primary and secondary colored bird.",
+          "indo": "perut kapur, tenggorokan, dan superciliary dengan bercak coklat di pipi, burung berwarna bulu primer dan bulu sekunder."
+        },
+        {
+          "english": "a small bird with a cream chest and belly, brown wings, and long bill.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna krem, sayap coklat, dan paruh panjang."
+        },
+        {
+          "english": "this bird has a small flat beak.",
+          "indo": "burung ini memiliki paruh kecil yang pipih."
+        },
+        {
+          "english": "this is a grey bird with a brown wing and a brown eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan alis coklat."
+        },
+        {
+          "english": "a bird with a long pointed bill, a black eye, yellow eyebrow, throat, breast, and belly, and a brown crown and wings.",
+          "indo": "burung dengan paruh panjang runcing, mata hitam, alis kuning, tenggorokan, dada, dan perut, serta mahkota dan sayap berwarna coklat."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has darker wings with a lighter body, has striping on its head and the body is yellow.",
+          "indo": "Burung ini berukuran kecil dengan paruh runcing, mempunyai sayap berwarna lebih gelap dengan badan lebih terang, mempunyai garis-garis di kepala dan badan berwarna kuning."
+        },
+        {
+          "english": "this bird has a brown crown with beige eyebrows and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan alis berwarna krem ​​​​dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0026_794884.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with a pointed bill, brown eyebrow, darker brown crown, and brown and white breast.",
+          "indo": "burung dengan paruh runcing, alis berwarna coklat, mahkota berwarna coklat tua, dan dada berwarna coklat dan putih."
+        },
+        {
+          "english": "a brown bird with a tan belly and breast with a sharp black bill.",
+          "indo": "seekor burung berwarna coklat dengan perut dan dada berwarna coklat dengan paruh hitam yang tajam."
+        },
+        {
+          "english": "this bird has a short curved bill, a white eyebrow, and a light brown crown.",
+          "indo": "burung ini memiliki paruh pendek melengkung, alis berwarna putih, dan mahkota berwarna coklat muda."
+        },
+        {
+          "english": "medium brown and green bird with long orange tarsus and medium brown beak",
+          "indo": "burung berwarna coklat dan hijau sedang dengan tarsus oranye panjang dan paruh coklat sedang"
+        },
+        {
+          "english": "a bird with a long pointed bill, flat head, white eyebrow and red crown.",
+          "indo": "burung dengan paruh panjang runcing, kepala rata, alis putih, dan mahkota merah."
+        },
+        {
+          "english": "this bird is grey with brown and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is grey with brown and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "small bird with dark brown wings, short pointy beak, long peach colored legs and feet.",
+          "indo": "burung kecil bersayap coklat tua, paruh pendek runcing, tungkai dan kaki panjang berwarna persik."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0027_794877.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this is a bird with a white breast and dark brown wings.",
+          "indo": "ini adalah burung dengan dada putih dan sayap coklat tua."
+        },
+        {
+          "english": "this bird is brown with a sharp, long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan paruh yang tajam, panjang, dan runcing."
+        },
+        {
+          "english": "this is a green and white bird with pink feet a white belly",
+          "indo": "ini adalah burung berwarna hijau dan putih dengan kaki berwarna merah muda dan perut berwarna putih"
+        },
+        {
+          "english": "bird with brown beak and black eye, pink tarsus and feet, green wings, and gray breast, belly and abdomen",
+          "indo": "burung dengan paruh berwarna coklat dan mata hitam, tarsus dan kaki berwarna merah muda, sayap berwarna hijau, serta dada, perut dan perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a grey belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a small brown bird with a short tail, medium length bill, and a light colored belly.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan ekor pendek, paruh sedang, dan perut berwarna terang."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is brown in color and short in stature with short legs.",
+          "indo": "burung itu berwarna coklat dan bertubuh pendek dengan kaki yang pendek."
+        },
+        {
+          "english": "this bird is mixed brown in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat campur, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "a small bird with a rounded belly and chest in an ivory color, with brownish gold crown and secondaries.",
+          "indo": "burung kecil dengan perut dan dada membulat berwarna gading, dengan mahkota emas kecoklatan dan bulu sekunder."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0028_794896.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this little bird has a white belly and breast, with brown crown and sueperciliary.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "the bird has a a white breast, throat, belly and abdomen with the rest of it's body in brown.",
+          "indo": "burung ini memiliki dada, tenggorokan, perut dan perut berwarna putih dengan seluruh tubuh berwarna coklat."
+        },
+        {
+          "english": "a greenish-brown and white colored bird with a pointed beak.",
+          "indo": "burung berwarna coklat kehijauan dan putih dengan paruh runcing."
+        },
+        {
+          "english": "this is a small bird with a long flat bill and white belly with dark green wings.",
+          "indo": "ini adalah burung kecil dengan paruh panjang rata dan perut putih dengan sayap hijau tua."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a tan bill with a white belly and beige feet",
+          "indo": "burung kecil ini memiliki paruh berwarna coklat dengan perut berwarna putih dan kaki berwarna krem"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a pale yellow belly greenish brown coverts and wing bars pointed sharp beak",
+          "indo": "perut berwarna kuning pucat, bulu berwarna coklat kehijauan dan garis sayap paruh runcing"
+        },
+        {
+          "english": "a small bird with a white belly and green wings.",
+          "indo": "seekor burung kecil dengan perut putih dan sayap hijau."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0029_794883.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird has a white breast, grey face and a long pointy beak.",
+          "indo": "burung ini mempunyai dada berwarna putih, muka berwarna abu-abu dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and grey in color with a long pointy beak and black eye ring.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh panjang runcing dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large bird with a light grey under belly, black eye rings, and a long flat bill.",
+          "indo": "seekor burung besar dengan perut bagian bawah berwarna abu-abu muda, cincin mata hitam, dan paruh rata yang panjang."
+        },
+        {
+          "english": "a medium sized bird with a light gray breast and dark gray wings.",
+          "indo": "burung berukuran sedang dengan dada abu-abu muda dan sayap abu-abu tua."
+        },
+        {
+          "english": "this is a white bird with a grey wing, a white eyebrow and a pointy beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, alis putih dan paruh runcing."
+        },
+        {
+          "english": "this bird is grey with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and brown in color, with a brown beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird is white and brown in color, with a brown beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0030_794864.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast, brown crown and wings, and a white eyebrow and cheek patch.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, mahkota dan sayap berwarna coklat, serta alis dan pipi berwarna putih."
+        },
+        {
+          "english": "this small bird has a cream colored throat, breast and belly, a narrow pointed small bill, and a light coral colored crown with brown covering the rest of its body.",
+          "indo": "Burung kecil ini memiliki tenggorokan, dada dan perut berwarna krem, paruh kecil runcing sempit, dan mahkota berwarna koral muda dengan warna coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this small bird has a white belly, a brown crown and wings, and a sharply pointed beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, mahkota dan sayap berwarna coklat, serta paruh yang runcing."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small white grey and brown bird with medium tarsus and medium brown beak",
+          "indo": "burung kecil berwarna putih abu-abu coklat dengan tarsus sedang dan paruh coklat sedang"
+        },
+        {
+          "english": "this particular bird has a white body and tan wings",
+          "indo": "burung ini memiliki tubuh berwarna putih dan sayap berwarna coklat"
+        },
+        {
+          "english": "a very small bird with a light brown upper body and a white belly.",
+          "indo": "seekor burung yang sangat kecil dengan tubuh bagian atas berwarna coklat muda dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a white breast and short pointed beak.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dan paruh runcing pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0031_174696.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a small sized bird that has a yellow belly and brown wings",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna kuning dan sayap berwarna coklat"
+        },
+        {
+          "english": "the bird has a light yellow abdomen and side with dark brown coverts and crown.",
+          "indo": "burung ini memiliki perut dan samping berwarna kuning muda dengan bulu dan mahkota berwarna coklat tua."
+        },
+        {
+          "english": "small yellow bird with brown wings, yellow and brown head, medium brown beak",
+          "indo": "burung kuning kecil dengan sayap coklat, kepala kuning dan coklat, paruh coklat sedang"
+        },
+        {
+          "english": "the yellow bird has a gray crown, gray wings, back and tail.",
+          "indo": "burung kuning memiliki mahkota berwarna abu-abu, sayap abu-abu, punggung dan ekor."
+        },
+        {
+          "english": "this tiny bird has a brown tail and a small bill.",
+          "indo": "burung mungil ini memiliki ekor berwarna coklat dan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a belly that is yellow and brown wings",
+          "indo": "burung ini mempunyai perut yang berwarna kuning dan sayap berwarna coklat"
+        },
+        {
+          "english": "the bird has a small black bill, yellow belly and brown wingbars.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam, perut kuning, dan garis sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a light colored belly and dark brown wings as well as a small beak.",
+          "indo": "burung ini mempunyai perut berwarna terang dan sayap berwarna coklat tua serta paruh yang kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0032_174728.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "green bird green body, green abdomen and black tail green head",
+          "indo": "burung hijau badan hijau, perut hijau dan kepala hijau ekor hitam"
+        },
+        {
+          "english": "small black bird with very sharp pointy beak and peach tarsus.",
+          "indo": "burung hitam kecil dengan paruh runcing sangat tajam dan tarsus buah persik."
+        },
+        {
+          "english": "small brown bird with medium length tail and tiny curved bill.",
+          "indo": "burung kecil berwarna coklat dengan ekor sedang dan paruh kecil melengkung."
+        },
+        {
+          "english": "this bird is completely brown with a short pointy bill.",
+          "indo": "burung ini berwarna coklat seluruhnya dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with brown beak that is sharp and pointed, and gray throat, breast, belly, abdomen, inner and outer rectrices",
+          "indo": "burung dengan paruh berwarna coklat yang runcing dan runcing, serta tenggorokan, dada, perut, perut, inner dan outer rectrices berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are grey and has a orange bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird is brown in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "a small bird with a green belly and long, pointed beak.",
+          "indo": "seekor burung kecil dengan perut berwarna hijau dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thin bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tipis"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0033_794856.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a tiny bird, with a small head, pink pointy bill, white eyebrows, brown wings, white from throat to belly.",
+          "indo": "burung kecil, berkepala kecil, paruh runcing berwarna merah muda, alis putih, sayap coklat, putih dari tenggorokan sampai perut."
+        },
+        {
+          "english": "this is a yellow bird with brown coverts and a long pointed bill.",
+          "indo": "ini adalah burung kuning dengan bulu coklat dan paruh runcing panjang."
+        },
+        {
+          "english": "a small bird with brown line on cheek, brown wings and white belly.",
+          "indo": "burung kecil dengan garis coklat di pipi, sayap coklat dan perut putih."
+        },
+        {
+          "english": "the bird has a white belly, neck, and head, with brown striped wings and tail.",
+          "indo": "burung ini memiliki perut, leher, dan kepala berwarna putih, dengan sayap dan ekor bergaris coklat."
+        },
+        {
+          "english": "this bird has a white breast and belly with a brown wing and white eyebrow.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan sayap berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "a small bird with a white breast and belly, with pink feet and beak, and brown covering the rest of its body.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna putih, dengan kaki dan paruh berwarna merah muda, dan seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a cream belly and thin pink tarsus.",
+          "indo": "burung ini memiliki perut berwarna krem ​​​​dan tarsus tipis berwarna merah muda."
+        },
+        {
+          "english": "this is a light gray bird with brown wings and a brown eyestripe.",
+          "indo": "ini adalah burung abu-abu muda dengan sayap coklat dan garis mata coklat."
+        },
+        {
+          "english": "this bird has a orange pointed bill, with a white breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna oranye, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0034_794890.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a small eyering as well as a small bill.",
+          "indo": "burung itu mempunyai cincin mata kecil dan paruh kecil."
+        },
+        {
+          "english": "the bird has a black eyering and a black bill that is medium sized.",
+          "indo": "burung tersebut memiliki cincin mata berwarna hitam dan paruh berwarna hitam berukuran sedang."
+        },
+        {
+          "english": "a small bird with a olive green crown and a dark brown nape and pointy bill",
+          "indo": "seekor burung kecil dengan mahkota berwarna hijau zaitun dan tengkuk berwarna coklat tua serta paruh runcing"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "head of a brown bird with black eyes and white eyebrows, and a strong big beak.",
+          "indo": "kepala burung berwarna coklat dengan mata hitam dan alis putih, serta paruh besar yang kuat."
+        },
+        {
+          "english": "this bird has large round eyes and a long red bill",
+          "indo": "burung ini memiliki mata bulat besar dan paruh panjang berwarna merah"
+        },
+        {
+          "english": "the small bird has a long black bill, black eyering and brown crown.",
+          "indo": "burung kecil memiliki paruh hitam panjang, cincin mata hitam, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a dark brown bill, and a brown head.",
+          "indo": "burung ini memiliki paruh berwarna coklat tua, dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has white eyerings and a long pointed black beak.",
+          "indo": "burung ini mempunyai cincin mata berwarna putih dan paruh hitam yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0035_174741.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a tarsus that is orange as well as a black eyering.",
+          "indo": "burung tersebut memiliki tarsus berwarna oranye dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a tan belly, brown wings and a pointy beak.",
+          "indo": "ini adalah burung dengan perut berwarna coklat, sayap coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird is primarily brown with a lighter belly and a long thin black bill.",
+          "indo": "burung ini pada dasarnya berwarna coklat dengan perut lebih terang dan paruh hitam tipis panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with brown beak, crown, nape, white superciliary, reddish brown, tarsus and feet, light brown belly and abdomen",
+          "indo": "burung dengan paruh berwarna coklat, mahkota, tengkuk, superciliary berwarna putih, coklat kemerahan, tarsus dan kaki, perut dan perut berwarna coklat muda"
+        },
+        {
+          "english": "this bird has wings that are brown and has round black eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mata bulat berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has brown wings, with a light brown breast, and grey face, with a black beak and orange feet.",
+          "indo": "burung ini memiliki sayap berwarna coklat, dengan dada berwarna coklat muda, dan wajah abu-abu, dengan paruh hitam dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a small head, brown spotted wings, a long tail, pink narrow legs, and a long downward curved beak.",
+          "indo": "burung ini mempunyai kepala kecil, sayap berbintik coklat, ekor panjang, kaki sempit berwarna merah muda, dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0036_174699.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a grey body and a light colored belly.",
+          "indo": "burung itu memiliki tubuh abu-abu dan perut berwarna terang."
+        },
+        {
+          "english": "this bird has a green tint to its white breast/belly feathers as well as its brown back feathers",
+          "indo": "burung ini memiliki warna hijau pada bulu dada/perutnya yang berwarna putih serta bulu punggungnya yang berwarna coklat"
+        },
+        {
+          "english": "a small bird with with a olive green belly and a grey back and the bill is short and pointed",
+          "indo": "seekor burung kecil dengan perut berwarna hijau zaitun dan punggung berwarna abu-abu serta paruhnya pendek dan runcing"
+        },
+        {
+          "english": "this small bird, with its flat head and long beak, seems to reflect the surrounding green in its feathers.",
+          "indo": "Burung kecil ini, dengan kepala datar dan paruh panjang, tampak memantulkan warna hijau di sekitar bulunya."
+        },
+        {
+          "english": "this is a small brown bird with a white breast and orange bill.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada putih dan paruh oranye."
+        },
+        {
+          "english": "this small bird has a sharp bill and a stripe on his crown that is light brown.",
+          "indo": "Burung berukuran kecil ini mempunyai paruh yang tajam dan garis pada mahkotanya yang berwarna coklat muda."
+        },
+        {
+          "english": "a plain but graceful bird of gray-tan coloring on its back and head and a lighter tan on its belly; its beak is short and a light-tan stripe above its each eye.",
+          "indo": "seekor burung yang polos namun anggun dengan warna abu-abu kecokelatan di punggung dan kepalanya serta warna kecokelatan di perutnya; paruhnya pendek dan garis coklat muda di atas setiap matanya."
+        },
+        {
+          "english": "this bird has brown primaries, a brown crown, and a brown breast.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat, mahkota berwarna coklat, dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown as well as a tan bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0037_174691.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a very small bird with a head that is relatively small to it's body, with a light brown beak and crown, with a pale yellow breast.",
+          "indo": "burung yang sangat kecil dengan kepala yang relatif kecil dibandingkan badannya, dengan paruh dan mahkota berwarna coklat muda, dengan dada berwarna kuning pucat."
+        },
+        {
+          "english": "this is a bird with a white breast, brown back and a small pointy beak.",
+          "indo": "ini adalah burung dengan dada berwarna putih, punggung berwarna coklat dan paruh kecil yang runcing."
+        },
+        {
+          "english": "a round bird with a small head and a yellow chest.",
+          "indo": "burung berbentuk bulat dengan kepala kecil dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a cream colored breast and throat, with a short brown bill and a brown crown and a white eyebrow",
+          "indo": "seekor burung kecil dengan dada dan tenggorokan berwarna krem, dengan paruh pendek berwarna coklat dan mahkota berwarna coklat serta alis berwarna putih"
+        },
+        {
+          "english": "the small bird is round and brown in color with sharp claws.",
+          "indo": "burung kecil berbentuk bulat berwarna coklat dengan cakar yang tajam."
+        },
+        {
+          "english": "this small brown bird has a triangular shaped beak and white highlights around the bright black eyes and featuring a brown and white mottled breast that gives the bird a degree of camouflage.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh berbentuk segitiga dan sentuhan warna putih di sekitar mata hitam cerah dan menampilkan dada berbintik-bintik coklat dan putih yang memberikan tingkat kamuflase pada burung tersebut."
+        },
+        {
+          "english": "the small bird has a a small bill, brown feet, and black eyes.",
+          "indo": "burung kecil itu mempunyai paruh kecil, kaki berwarna coklat, dan mata hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has pointed black bill, with a yellow breast and belly.",
+          "indo": "burung ini memiliki paruh runcing berwarna hitam, dengan dada dan perut berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0038_794882.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a small bird with has a white breast with black eyering.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dengan mata berwarna hitam."
+        },
+        {
+          "english": "the bird has grey colored side and breast with a covert that's black in color and an eyebrow that's yellow in color.",
+          "indo": "Burung ini memiliki bagian samping dan dada berwarna abu-abu dengan bulu penutup berwarna hitam dan alis berwarna kuning."
+        },
+        {
+          "english": "this bird has a large, fan-like tail, dark grey wings, and a long sharp beak.",
+          "indo": "burung ini mempunyai ekor yang besar seperti kipas, sayap berwarna abu-abu tua, dan paruh yang panjang dan tajam."
+        },
+        {
+          "english": "this olive green colored bird also has a white belly and the head is small compared to the rest of the size of the bird.",
+          "indo": "Burung berwarna hijau zaitun ini juga memiliki perut berwarna putih dan kepala yang kecil dibandingkan dengan ukuran burung lainnya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "the superciliary of this bird is yellow, the rest of it's body is grey, and it's bill is narrow.",
+          "indo": "superciliary burung ini berwarna kuning, seluruh badannya berwarna abu-abu, dan paruhnya sempit."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has brown coverts and inner and outer rectrices and a light yellow and grey chest.",
+          "indo": "burung ini memiliki bulu berwarna coklat dan rectrices dalam dan outer rectrices serta dada berwarna kuning muda dan abu-abu."
+        },
+        {
+          "english": "the bill of the bird is black, and pointed, with a slight curve at the tip.",
+          "indo": "paruh burung berwarna hitam, runcing, dengan sedikit lengkungan di ujungnya."
+        },
+        {
+          "english": "a white chested bird with a black beak and a proportional size head compared to the body",
+          "indo": "burung berdada putih dengan paruh berwarna hitam dan ukuran kepala proporsional dibandingkan dengan badan"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0039_794859.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird is a light brown with darker shades on the crown and wings.",
+          "indo": "burung itu berwarna coklat muda dengan corak lebih gelap pada mahkota dan sayap."
+        },
+        {
+          "english": "an olive green bird with a thin, slender beak and large black eye.",
+          "indo": "seekor burung berwarna hijau zaitun dengan paruh tipis dan ramping serta mata hitam besar."
+        },
+        {
+          "english": "the bird has a light tan colored belly and breast with wings that are a darker tan in color.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda dengan sayap berwarna coklat gelap."
+        },
+        {
+          "english": "this bird has a grey breast, brown wing and a long pointy beak.",
+          "indo": "burung ini memiliki dada berwarna abu-abu, sayap berwarna coklat dan paruh panjang dan runcing."
+        },
+        {
+          "english": "the bird has a cream belly, the bill is long and pointed, with brown and cream covering the rest of its body.",
+          "indo": "burung ini memiliki perut berwarna krem, paruhnya panjang dan runcing, dengan warna coklat dan krem ​​​​menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "the colors on this bird are mostly the same except for the wings are a slightly darker and its head is really small compared to its body.",
+          "indo": "warna pada burung ini sebagian besar sama kecuali sayapnya sedikit lebih gelap dan kepalanya sangat kecil dibandingkan tubuhnya."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a small brown bird with white belly and throat, brown crown and red feet.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan perut dan tenggorokan berwarna putih, mahkota berwarna coklat dan kaki merah."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0040_794860.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with a pointed, thin bill, white eyebrow, white breast, and black primaries.",
+          "indo": "burung dengan paruh runcing dan tipis, alis putih, dada putih, dan bulu primer hitam."
+        },
+        {
+          "english": "a small bird with a grey and cream colored breast, belly and throat, brown secondaries and coverts, and a brown stripe around its eye.",
+          "indo": "seekor burung kecil dengan dada, perut dan tenggorokan berwarna abu-abu dan krem, bulu dan bulu sekunder berwarna coklat, dan garis coklat di sekitar matanya."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a brown crown and superciliary.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna coklat dan superciliary."
+        },
+        {
+          "english": "this is a bird with a grey breast and eyebrow and a brown head and back.",
+          "indo": "ini adalah burung dengan dada dan alis berwarna abu-abu serta kepala dan punggung berwarna coklat."
+        },
+        {
+          "english": "this small bird has a tan breast, brown wings,a brown crown with tan superciliary,and a short brown beak.",
+          "indo": "burung kecil ini memiliki dada berwarna coklat, sayap berwarna coklat, mahkota berwarna coklat dengan superciliary berwarna coklat, dan paruh pendek berwarna coklat."
+        },
+        {
+          "english": "this colorful bird has a light brown belly and breast, brown bill, and pink tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna coklat muda, paruh berwarna coklat, serta tarsus dan kaki berwarna merah muda."
+        },
+        {
+          "english": "the brown bird has a small head with black beady eyes.",
+          "indo": "burung coklat memiliki kepala kecil dengan mata manik-manik hitam."
+        },
+        {
+          "english": "a small brown bird with a lighter breast and belly and a pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada dan perut lebih ringan serta paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white and brown breast with a brown nape",
+          "indo": "burung ini memiliki dada berwarna putih kecokelatan dengan tengkuk berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0041_794893.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this monochromatic bird is mostly brown with slight layering of colors on the wings.",
+          "indo": "burung monokromatik ini sebagian besar berwarna coklat dengan sedikit lapisan warna pada sayapnya."
+        },
+        {
+          "english": "a small bird with a pointed bill, brown head with yellowish nape, and yellow and brown covering the rest of its body.",
+          "indo": "burung kecil dengan paruh runcing, kepala berwarna coklat dengan tengkuk kekuningan, dan seluruh tubuhnya berwarna kuning dan coklat."
+        },
+        {
+          "english": "a hand-sized brown bird with smaller, sharp triangular beak and a lighter brown eyebrow.",
+          "indo": "burung coklat seukuran tangan dengan paruh segitiga tajam yang lebih kecil dan alis coklat muda."
+        },
+        {
+          "english": "this bird is mostly brown with a light eyebrow and cheek patch.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan alis dan pipi tipis."
+        },
+        {
+          "english": "a small brown bird with light taupe superciliary and a small sharp bill.",
+          "indo": "seekor burung kecil berwarna coklat dengan superciliary kelabu tua dan paruh kecil yang tajam."
+        },
+        {
+          "english": "bird has a very pointed black bill, brown crown and long white eyebrow.",
+          "indo": "Burung ini memiliki paruh berwarna hitam sangat runcing, mahkota berwarna coklat, dan alis berwarna putih panjang."
+        },
+        {
+          "english": "this is a small mostly brown bird with a long beak and a yellowish tinge on his back.",
+          "indo": "ini adalah burung kecil yang sebagian besar berwarna coklat dengan paruh panjang dan semburat kekuningan di punggungnya."
+        },
+        {
+          "english": "this bird has a pointy black beak with brown a black feathers.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam dengan bulu berwarna coklat kehitaman."
+        },
+        {
+          "english": "this little bird has a very sharp pointed bill with a brown crown.",
+          "indo": "burung kecil ini memiliki paruh yang sangat runcing dan runcing dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "a small light brown bird with a dark crown and light superciliary.",
+          "indo": "seekor burung kecil berwarna coklat muda dengan mahkota gelap dan superciliary terang."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0042_794895.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this small bird has an iridescent quality to its white belly and has orange/brown legs with green/brown wings.",
+          "indo": "Burung kecil ini memiliki kualitas warna-warni pada perutnya yang berwarna putih dan memiliki kaki berwarna jingga/coklat dengan sayap berwarna hijau/coklat."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a short pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing pendek"
+        },
+        {
+          "english": "the bird has a white body with a small beak and orange tarsus.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan paruh kecil dan tarsus berwarna oranye."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is white and brown in color with a pointy beak, and black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this small bird has a white breast and throat with a pointed beak.",
+          "indo": "burung kecil ini memiliki dada dan tenggorokan berwarna putih dengan paruh yang runcing."
+        },
+        {
+          "english": "a light brown bird with a white belly and throat with a thin, long, brown bill.",
+          "indo": "burung berwarna coklat muda dengan perut dan tenggorokan berwarna putih dengan paruh tipis, panjang, berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly, white breast, and a pointed bill.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berwarna putih, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0043_794865.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a grey breast and belly, and a medium sized head and bill",
+          "indo": "burung ini memiliki dada dan perut berwarna abu-abu, serta kepala dan paruh berukuran sedang"
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown, superciliary, and nape.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota, superciliary, dan tengkuk berwarna coklat."
+        },
+        {
+          "english": "the bird has a small black eyering and a small bill.",
+          "indo": "burung itu memiliki cincin mata hitam kecil dan paruh kecil."
+        },
+        {
+          "english": "a green belly along with brownish greenish secondaries. short legs and a pinkish larsus. brown secondaries and wing bars",
+          "indo": "perut hijau bersama dengan bulu sekunder kecoklatan kehijauan. kaki pendek dan larsus berwarna merah muda. bulu sekunder berwarna coklat dan garis sayap"
+        },
+        {
+          "english": "this small brown bird has a relatively large beak for its size and stripes around its head.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh yang relatif besar untuk ukurannya dan garis-garis di sekitar kepalanya."
+        },
+        {
+          "english": "this small bird is two toned brown and grey, with a grey belly, and brown on its crown and cheek patch.",
+          "indo": "Burung kecil ini berwarna coklat dan abu-abu dua warna, dengan perut abu-abu, dan coklat pada ubun-ubun dan pipinya."
+        },
+        {
+          "english": "a small bird that has a white belly, brown wings and black wingbars.",
+          "indo": "burung kecil yang mempunyai perut berwarna putih, sayap berwarna coklat dan garis sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brow crown with a grey cheek patch and a grey belly.",
+          "indo": "burung ini memiliki mahkota superciliary dengan bercak pipi berwarna abu-abu dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0044_794894.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a bird with pink feet and beak, white from throat to abdomen and tan from crown down the nape to the tip of the tail.",
+          "indo": "burung dengan kaki dan paruh berwarna merah muda, berwarna putih dari tenggorokan hingga perut dan berwarna cokelat mulai dari ubun-ubun hingga tengkuk hingga ujung ekor."
+        },
+        {
+          "english": "small grey bird with brown wings and head, long tarsus and medium beak",
+          "indo": "burung kecil berwarna abu-abu dengan sayap dan kepala berwarna coklat, tarsus panjang dan paruh sedang"
+        },
+        {
+          "english": "pudgy brown bird with long brown tail and a white stomach and pointy beak.",
+          "indo": "burung berwarna coklat gemuk dengan ekor panjang berwarna coklat dan perut berwarna putih serta paruh runcing."
+        },
+        {
+          "english": "this white and grey bellied bird has a long pointed bill.",
+          "indo": "burung berperut putih abu-abu ini memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this beautiful little bird has a large white chest with light brown feathers on back and little pink claws.",
+          "indo": "burung kecil cantik ini memiliki dada besar berwarna putih dengan bulu coklat muda di punggung dan cakar kecil berwarna merah muda."
+        },
+        {
+          "english": "this bird has a medium size pointed beak and a brownish nape with a silver chest and belly.",
+          "indo": "burung ini memiliki paruh runcing berukuran sedang dan tengkuk berwarna kecoklatan dengan dada dan perut berwarna perak."
+        },
+        {
+          "english": "a small bird with a white eye brow, tan crown, and grey and white feathered chest.",
+          "indo": "seekor burung kecil dengan superciliary mata berwarna putih, mahkota berwarna coklat, dan bulu dada berwarna abu-abu putih."
+        },
+        {
+          "english": "the bird has a brown eyering and crown with darker brown primary feathers. its throat and belly are white.",
+          "indo": "burung ini memiliki cincin mata dan mahkota berwarna coklat dengan bulu utama berwarna coklat tua. tenggorokan dan perutnya berwarna putih."
+        },
+        {
+          "english": "a smaller bird with a lavender bill, feet, and tarsus; white breast and side; and brown coverts and secondaries.",
+          "indo": "seekor burung yang lebih kecil dengan paruh, kaki, dan tarsus lavender; dada dan samping berwarna putih; dan bulu coklat dan bulu sekunder."
+        },
+        {
+          "english": "a small green bird, with a pale belly, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna hijau, dengan perut pucat, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0045_794876.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a long black bill and a black eyering.",
+          "indo": "burung itu mempunyai paruh hitam panjang dan cincin mata hitam."
+        },
+        {
+          "english": "a gray and off-white colored bird with a long black beak that is long compare to the size of the bird.",
+          "indo": "burung berwarna abu-abu putih dengan paruh hitam panjang yang sebanding dengan ukuran burung."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a gray crown and long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota berwarna abu-abu dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this brown bird has a white superciliary and a long, pointed bill.",
+          "indo": "burung berwarna coklat ini memiliki superciliary berwarna putih dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black bill, a grayish brown crown, a white throat with the breast and side being a light gray.",
+          "indo": "burung ini mempunyai paruh berwarna hitam, mahkota berwarna coklat keabu-abuan, tenggorokan berwarna putih dengan dada dan samping berwarna abu-abu muda."
+        },
+        {
+          "english": "a small, taupe bird with paler coloring around the cheek and a long, sharp bill.",
+          "indo": "burung kecil berwarna kelabu tua dengan warna pucat di sekitar pipi dan paruh panjang dan tajam."
+        },
+        {
+          "english": "a small grey bird with a brown crown, nape an black eyering.",
+          "indo": "burung kecil berwarna abu-abu dengan mahkota berwarna coklat, tengkuk dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with a pointed, black bill and a light grey belly with a slightly darker grey back.",
+          "indo": "seekor burung kecil dengan paruh runcing berwarna hitam dan perut berwarna abu-abu muda dengan punggung berwarna abu-abu agak gelap."
+        },
+        {
+          "english": "a tiny brown and grey bird with a pointy black beak and eye",
+          "indo": "seekor burung kecil berwarna coklat dan abu-abu dengan paruh dan mata hitam runcing"
+        },
+        {
+          "english": "this bird has a very large black beak",
+          "indo": "burung ini mempunyai paruh berwarna hitam yang sangat besar"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0046_794872.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "small bird with a light brown head, breast and belly, with a brown nape, back, and wings.",
+          "indo": "burung kecil dengan kepala, dada dan perut berwarna coklat muda, dengan tengkuk, punggung, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a thin straight bill, a white eyebrow, and a medium brown crown.",
+          "indo": "burung ini memiliki paruh tipis lurus, alis berwarna putih, dan mahkota berwarna coklat sedang."
+        },
+        {
+          "english": "this little bird has black beady eyes, a tan belly and an oak brown backside.",
+          "indo": "burung kecil ini memiliki mata hitam seperti manik-manik, perut berwarna coklat, dan punggung berwarna coklat oak."
+        },
+        {
+          "english": "a small yet plump bird with white and brown body.",
+          "indo": "seekor burung kecil namun gempal dengan tubuh berwarna putih dan coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this particular bird has a tan belly and breast and brown secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat serta bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small brown bird with tan belly and a light tan superciliary and some light patches in the wings and crown.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut berwarna coklat dan superciliary berwarna coklat muda dan beberapa bercak tipis di sayap dan mahkota."
+        },
+        {
+          "english": "a small bird iwth green wings and a grey belly.",
+          "indo": "seekor burung kecil dengan sayap hijau dan perut abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0047_794870.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a small, plain looking tan bird with a long bill.",
+          "indo": "seekor burung kecil berwarna coklat kecokelatan dengan paruh yang panjang."
+        },
+        {
+          "english": "this is a small grey bird with a long pointy beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan paruh panjang dan runcing."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with brown crown and back.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird is white and brown in color with a sharp black beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh hitam runcing, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly, breast and abdomen and brown crown.",
+          "indo": "burung ini memiliki perut, dada dan perut berwarna putih serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small brown bird with a slightly green hue to it, with its breast and belly being a noticeably lighter shade than the rest.",
+          "indo": "seekor burung kecil berwarna coklat dengan rona agak hijau, dengan dada dan perutnya terlihat lebih terang daripada burung lainnya."
+        },
+        {
+          "english": "this bird has a very small head compared to the rest of it's body and the length of its beak.",
+          "indo": "burung ini mempunyai kepala yang sangat kecil dibandingkan dengan bagian tubuh lainnya dan panjang paruhnya."
+        },
+        {
+          "english": "this bird has a narrow head, black eye, black-pointed beak, and a mixture of gray and white on its breast and belly.",
+          "indo": "burung ini memiliki kepala sipit, mata berwarna hitam, paruh runcing hitam, serta campuran warna abu-abu dan putih pada bagian dada dan perutnya."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0048_794887.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a white eyebrow, white breast, and brown plumage atop its crown, wings, and back",
+          "indo": "burung ini memiliki alis berwarna putih, dada berwarna putih, dan bulu berwarna coklat di bagian atas, sayap, dan punggungnya"
+        },
+        {
+          "english": "this is a white and brown bird with a large pink mouth and pink feet",
+          "indo": "ini adalah burung berwarna putih dan coklat dengan mulut besar berwarna merah muda dan kaki berwarna merah muda"
+        },
+        {
+          "english": "this is a bird with a white belly and breast, brown wings and a large pointed beak.",
+          "indo": "ini adalah burung dengan perut dan dada berwarna putih, sayap coklat dan paruh runcing besar."
+        },
+        {
+          "english": "a large bird with bill open white breast and brown crown and nape.",
+          "indo": "seekor burung besar dengan paruh terbuka di dada berwarna putih dan mahkota serta tengkuk berwarna coklat."
+        },
+        {
+          "english": "this is a white bird with brown wings and crown and a large pointy beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap dan mahkota berwarna coklat serta paruh besar yang runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a small bird with a white breast that has some brown tint,and rather large eyes for a small brown head,and elongated beak .",
+          "indo": "ini adalah burung kecil dengan dada berwarna putih dengan sedikit warna coklat, dan mata agak besar untuk kepala kecil berwarna coklat, dan paruh memanjang."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "a black eyed bird with white cheeks and underbelly and a long thin beak.",
+          "indo": "burung bermata hitam dengan pipi dan perut putih serta paruh panjang dan tipis."
+        },
+        {
+          "english": "a bird with a brown crown above a white superciliary, the white continuing down the throat and breast.",
+          "indo": "seekor burung dengan mahkota berwarna coklat di atas superciliary berwarna putih, warna putih berlanjut hingga ke tenggorokan dan dada."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0049_794880.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird is light tan with a small bill and round black eye.",
+          "indo": "burung itu berwarna coklat muda dengan paruh kecil dan mata hitam bulat."
+        },
+        {
+          "english": "the bird has a black eyering and short brown bill.",
+          "indo": "burung itu mempunyai cincin mata hitam dan paruh pendek berwarna coklat."
+        },
+        {
+          "english": "this small bird has brown feathers, black eyes, orange beak, orange feet and tarsus, and a light brown belly and abdomen.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat, mata hitam, paruh berwarna oranye, kaki dan tarsus berwarna oranye, serta perut dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a brown crown, a brown back, and a brown tail",
+          "indo": "burung ini memiliki mahkota berwarna coklat, punggung berwarna coklat, dan ekor berwarna coklat"
+        },
+        {
+          "english": "this is a brown bird with a gray breast and a black eyebrow.",
+          "indo": "ini adalah burung berwarna coklat dengan dada abu-abu dan alis hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a small black eyering and a brown outer rectrices.",
+          "indo": "burung itu memiliki cincin mata hitam kecil dan outer rectrices berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a light brown body and a black stripe over each eye.",
+          "indo": "burung ini memiliki tubuh berwarna coklat muda dan garis hitam di setiap matanya."
+        },
+        {
+          "english": "a bird with brown belly, breast, wings and rectrices and the bill is short and pointed",
+          "indo": "seekor burung dengan perut, dada, sayap dan rectrices berwarna coklat, serta paruhnya pendek dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0050_794861.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "very small bird that is very light beige on its breast and underside, lighter brown wings and top of head, sharp dark beak.",
+          "indo": "burung yang sangat kecil dengan warna krem ​​​​sangat terang di dada dan bagian bawahnya, sayap dan bagian atas kepala berwarna coklat muda, paruh gelap yang tajam."
+        },
+        {
+          "english": "this bird is a small bird with an elongated, pointed bill, a cream stripe above it's eye and brown feathers on it's wings.",
+          "indo": "Burung ini merupakan burung kecil dengan paruh memanjang dan runcing, garis krem ​​​​di atas matanya, dan bulu berwarna coklat di sayapnya."
+        },
+        {
+          "english": "this bird has a large dark brown bill, a white eyebrow, and a light brown crown.",
+          "indo": "burung ini memiliki paruh besar berwarna coklat tua, alis berwarna putih, dan mahkota berwarna coklat muda."
+        },
+        {
+          "english": "a very small bird, with a brown crown and primary and secondary feathers, and a large, pointed beak relative to its body size.",
+          "indo": "seekor burung yang sangat kecil, dengan mahkota berwarna coklat dan bulu primer dan bulu sekunder, serta paruh yang besar dan runcing dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and white and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan putih serta mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellowbelly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0051_794900.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a small bird has a dark black eye, a light white superciliary, and a gray side.",
+          "indo": "seekor burung kecil memiliki mata hitam gelap, superciliary putih terang, dan sisi abu-abu."
+        },
+        {
+          "english": "a brown warbler that is 0ff-white on ite ventral side and brown all over its dorsal side.",
+          "indo": "burung pengicau coklat yang berwarna putih pucat di sisi perutnya dan coklat di seluruh sisi punggungnya."
+        },
+        {
+          "english": "this bird is small, light brown in color with a slender, pointed bill, a light colored superciliary, and brown wings.",
+          "indo": "burung ini berukuran kecil, berwarna coklat muda dengan paruh ramping dan runcing, superciliary berwarna terang, dan sayap berwarna coklat."
+        },
+        {
+          "english": "grey bird with a white belly and breast with a pointed black bill.",
+          "indo": "burung berwarna abu-abu dengan perut dan dada berwarna putih dengan paruh hitam runcing."
+        },
+        {
+          "english": "this bird has a rounded white belly, long brown feet, and a short brown wing.",
+          "indo": "burung ini memiliki perut bulat berwarna putih, kaki panjang berwarna coklat, dan sayap pendek berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with a white belly and a narrow sharp beak",
+          "indo": "seekor burung kecil berwarna coklat dengan perut putih dan paruh sempit dan tajam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a tiny white bellied bird with a light brown back and crown which has a bit of white around the eyes.",
+          "indo": "burung kecil berperut putih dengan punggung dan mahkota berwarna coklat muda dengan sedikit warna putih di sekitar matanya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly, brown primaries, secondaries, and rectrices, a brown cheek patch, and a long beak.",
+          "indo": "burung ini memiliki perut berwarna putih, burung bulu primer, bulu sekunder, dan rectrices  berwarna coklat, bercak di pipi berwarna coklat, dan paruh yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0052_794875.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "a small brown bird with a very small head and beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan kepala dan paruh yang sangat kecil."
+        },
+        {
+          "english": "this gray bird has a large white belly, and sharp bill.",
+          "indo": "burung berwarna abu-abu ini memiliki perut besar berwarna putih, dan paruh runcing."
+        },
+        {
+          "english": "this brown bird has a very pointy beak, a black eye, and tan feet.",
+          "indo": "burung berwarna coklat ini memiliki paruh yang sangat runcing, mata berwarna hitam, dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird has a tan crown, a short bill, and long feet",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh pendek, dan kaki panjang"
+        },
+        {
+          "english": "the bird has a light grey colored breast, throat and belly.",
+          "indo": "burung ini memiliki dada, tenggorokan, dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a white bil",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan mempunyai paruh berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is grey with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "small bird with brown wingbands, white belly, and very thing bill.",
+          "indo": "burung kecil dengan pita sayap berwarna coklat, perut berwarna putih, dan paruh yang sangat indah."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0053_174678.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this is a mostly brown bird with a short, sharp bill.",
+          "indo": "ini adalah burung yang sebagian besar berwarna coklat dengan paruh pendek dan tajam."
+        },
+        {
+          "english": "this is a black bird with a stripe by its eye and a pointed beak.",
+          "indo": "ini adalah burung hitam dengan garis di matanya dan paruh runcing."
+        },
+        {
+          "english": "this bird has medium sized eyes and a beak that is high up its head",
+          "indo": "burung ini mempunyai mata berukuran sedang dan paruh yang tinggi hingga ke kepala"
+        },
+        {
+          "english": "this bird has a brown crown, belly, rectrices and coverts area.",
+          "indo": "burung ini memiliki mahkota, perut, rectrices dan area bulu penutup berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, a sharp bill, and a brown superciliary",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh runcing, dan superciliary berwarna coklat"
+        },
+        {
+          "english": "this small sized bird has a short, sharp pointed beak and is colored to provide it camouflage when resting in trees or bushes.",
+          "indo": "Burung berukuran kecil ini memiliki paruh pendek, runcing, dan diberi warna untuk berkamuflase saat beristirahat di pepohonan atau semak-semak."
+        },
+        {
+          "english": "a small bird of a dark color with light coloring on its eyebrow and throat.",
+          "indo": "burung kecil berwarna gelap dengan warna terang pada alis dan tenggorokannya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this small rounded bird has a short pointed beak and a yellow neck.",
+          "indo": "burung bulat kecil ini memiliki paruh pendek runcing dan leher berwarna kuning."
+        },
+        {
+          "english": "the bird has a small bill and a striped brown back.",
+          "indo": "burung itu mempunyai paruh kecil dan punggung berwarna coklat bergaris."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0054_174689.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "tiny light colored bird with tan and white stripes on the head and long thighs.",
+          "indo": "burung kecil berwarna terang dengan garis-garis cokelat dan putih di kepala dan paha panjang."
+        },
+        {
+          "english": "the yellow and brown markings of this bird make it blend in to the ground.",
+          "indo": "corak kuning dan coklat pada burung ini membuatnya menyatu dengan tanah."
+        },
+        {
+          "english": "this is a yellow bird with a brown wing and a small beak.",
+          "indo": "ini adalah burung kuning dengan sayap coklat dan paruh kecil."
+        },
+        {
+          "english": "small brown and white bird with a small beak and black eyes",
+          "indo": "burung kecil berwarna coklat dan putih dengan paruh kecil dan mata hitam"
+        },
+        {
+          "english": "the bird has yellow belly with a striped head and wings.",
+          "indo": "burung itu memiliki perut berwarna kuning dengan kepala dan sayap bergaris."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird is mottled colors of brown and yellow with a dark cheek patch.",
+          "indo": "Burung kecil ini berbintik-bintik warna coklat dan kuning dengan bercak pipi berwarna gelap."
+        },
+        {
+          "english": "the bird is green, yellow and small.",
+          "indo": "burung itu berwarna hijau, kuning dan kecil."
+        },
+        {
+          "english": "the bird has a yellow belly, brown back and striped crown.",
+          "indo": "burung ini memiliki perut berwarna kuning, punggung berwarna coklat, dan mahkota bergaris."
+        },
+        {
+          "english": "this is a small light gray bird with light brown wings and a brown eyestrip.",
+          "indo": "ini adalah burung kecil berwarna abu-abu muda dengan sayap coklat muda dan garis mata coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0055_794899.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and a pink bill that is long.",
+          "indo": "burung ini memiliki cincin mata berwarna hitam dan paruh berwarna merah muda yang panjang."
+        },
+        {
+          "english": "a small bird that is brown with an open mouth.",
+          "indo": "seekor burung kecil berwarna coklat dengan mulut terbuka."
+        },
+        {
+          "english": "this bird has a super narrow bill and brown feathers.",
+          "indo": "burung ini memiliki paruh yang sangat sempit dan bulu berwarna coklat."
+        },
+        {
+          "english": "the beak of the bird is needle-like appearing to be silver, very thin and of medium length compared to the body.",
+          "indo": "paruh burung ini berbentuk seperti jarum, tampak berwarna perak, sangat tipis dan panjangnya sedang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird is brown and white in color with a skinny sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh tipis dan runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a long bill with brown crown and white superciliary, light brown wings and white belly.",
+          "indo": "Burung kecil ini mempunyai paruh yang panjang dengan mahkota berwarna coklat dan superciliary berwarna putih, sayap berwarna coklat muda dan perut berwarna putih."
+        },
+        {
+          "english": "this small bird can be indentified by the maler stripe on the throut and the eyebrow stripe and two wing bars.",
+          "indo": "Burung kecil ini dapat dikenali dari garis jantan di bagian tenggorokan dan garis alis serta dua garis sayap."
+        },
+        {
+          "english": "the bird has a light cream belly, breast, and throat with medium brown feathers, eyespot, and crown.",
+          "indo": "burung ini memiliki perut, dada, dan tenggorokan berwarna krem ​​​​muda dengan bulu berwarna coklat sedang, bintik mata, dan mahkota."
+        }
+      ]
+    },
+    {
+      "filename": "Swainson_Warbler_0056_794871.jpg",
+      "class_id": 177,
+      "captions": [
+        {
+          "english": "this small yellow bird has an open mouth and red feet.",
+          "indo": "burung kecil berwarna kuning ini memiliki mulut terbuka dan kaki berwarna merah."
+        },
+        {
+          "english": "this small bird has short, thin tarsi and a white breast",
+          "indo": "burung kecil ini memiliki tarsi pendek, tipis, dan dada berwarna putih"
+        },
+        {
+          "english": "this little yellow bird has orange legs, brown wings, a long pointed black beak, and brown and yellow stripes on its head.",
+          "indo": "burung kecil berwarna kuning ini memiliki kaki berwarna jingga, sayap berwarna coklat, paruh hitam panjang runcing, dan garis-garis coklat kuning di kepalanya."
+        },
+        {
+          "english": "the bird has a white belly and chest with brown wings and orange talons",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna coklat dan cakar berwarna oranye"
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a gray wing and white wingbar.",
+          "indo": "Burung kecil ini mempunyai perut dan dada berwarna kuning dengan sayap berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this small bird has a pale yellow breast, brownish yellow wings, and a very pointed bill.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning pucat, sayap berwarna kuning kecoklatan, dan paruh yang sangat runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "a little yellow bird with a long sharp beak and round black eyes and orangish feet",
+          "indo": "seekor burung kecil berwarna kuning dengan paruh panjang tajam dan mata hitam bulat serta kaki jingga"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a rounded yellow green body, with darker wings, and small sharp brown beak.",
+          "indo": "burung ini memiliki tubuh bulat berwarna kuning hijau, sayap lebih gelap, dan paruh kecil berwarna coklat runcing."
+        }
+      ]
+    }
+  ]
+}

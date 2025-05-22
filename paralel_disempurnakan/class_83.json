@@ -1,0 +1,2442 @@
+{
+  "dataset": [
+    {
+      "filename": "Red_Legged_Kittiwake_0001_795394.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "birds head is white beek yellow and wings are grey feet are orange and short.",
+          "indo": "kepala burung berwarna putih paruh kuning dan sayap berwarna abu-abu, kaki berwarna oranye dan pendek."
+        },
+        {
+          "english": "this is a white bird with grey wings and orange feet.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kaki oranye."
+        },
+        {
+          "english": "this large white bird has gray wings, yellow bill and red tarsus and feet.",
+          "indo": "burung putih besar ini memiliki sayap abu-abu, paruh kuning, dan tarsus serta kaki berwarna merah."
+        },
+        {
+          "english": "this bird has a white head, nape, breast and belly, with gray wings, the underside of which are black-tipped.",
+          "indo": "burung ini memiliki kepala, tengkuk, dada dan perut berwarna putih, dengan sayap berwarna abu-abu, bagian bawahnya berujung hitam."
+        },
+        {
+          "english": "this bird has a white breast and belly, red tarsus and feet, yellow bill, and wings that are varying shades of gray.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, tarsus dan kaki berwarna merah, paruh berwarna kuning, serta sayap dengan corak abu-abu yang bervariasi."
+        },
+        {
+          "english": "this particular bird has a yellow bill with orange legs and feet",
+          "indo": "burung ini memiliki paruh berwarna kuning dengan tungkai dan kaki berwarna oranye"
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray wings",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna putih"
+        },
+        {
+          "english": "this bird has a white breast and crown with red feet and grey wings.",
+          "indo": "burung ini memiliki dada dan mahkota berwarna putih dengan kaki berwarna merah dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0002_73788.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird has a yellow bill gray primaries and a white breast and body.",
+          "indo": "Burung ini mempunyai paruh kuning, paruh abu-abu, dan dada serta badan berwarna putih."
+        },
+        {
+          "english": "a large white bird with gray wings and black eyes.",
+          "indo": "seekor burung putih besar dengan sayap abu-abu dan mata hitam."
+        },
+        {
+          "english": "the bird has a long bill that is curved and is yellow.",
+          "indo": "burung ini mempunyai paruh panjang yang melengkung dan berwarna kuning."
+        },
+        {
+          "english": "this smooth white and grey bird has a small short curve beak.",
+          "indo": "burung halus berwarna putih abu-abu ini memiliki paruh kecil yang melengkung pendek."
+        },
+        {
+          "english": "this bird has a rounded white breast, gray primaries and secondaries and a yellow bill.",
+          "indo": "burung ini memiliki dada bulat berwarna putih, bulu primer dan bulu sekunder berwarna abu-abu, serta paruh berwarna kuning."
+        },
+        {
+          "english": "stark gray wings and mantle contrast with the white belly and the black on the wingtips.",
+          "indo": "sayap dan mantel abu-abu mencolok kontras dengan perut putih dan hitam di ujung sayap."
+        },
+        {
+          "english": "this is a large mostly white bird with grey wings and a grey tail.",
+          "indo": "ini adalah burung besar yang sebagian besar berwarna putih dengan sayap abu-abu dan ekor abu-abu."
+        },
+        {
+          "english": "this medium-sized bird has white crown, white belly, and grey colored wings.",
+          "indo": "Burung berukuran sedang ini memiliki mahkota berwarna putih, perut berwarna putih, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this is a fat and sturdy bird with large eyerings, a moderately sized bill with gray coverts and a white head, side and belly.",
+          "indo": "ini adalah burung yang gemuk dan kokoh dengan cincin mata besar, paruh berukuran sedang dengan bulu abu-abu dan kepala, samping dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0003_795389.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a medium sized white bird, with black tipped wings and narrow yellow beak",
+          "indo": "seekor burung putih berukuran sedang, dengan sayap berujung hitam dan paruh kuning sempit"
+        },
+        {
+          "english": "this is a medium sized white bird that has a yellow beak and long wings that have black feathers on the tips.",
+          "indo": "Ini adalah burung putih berukuran sedang yang memiliki paruh kuning dan sayap panjang yang memiliki bulu hitam di ujungnya."
+        },
+        {
+          "english": "this larger bird is all white in color and has a thick, stout body and a tiny yellow beak.",
+          "indo": "burung yang lebih besar ini semuanya berwarna putih dan memiliki tubuh yang tebal dan kokoh serta paruh kecil berwarna kuning."
+        },
+        {
+          "english": "this elegant bird is almost all white except for a bit of black on its wing tips and a sharp yellow bill.",
+          "indo": "burung anggun ini hampir seluruhnya berwarna putih kecuali sedikit warna hitam di ujung sayapnya dan paruh kuning tajam."
+        },
+        {
+          "english": "this bird is black and white in color with a yellow beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna kuning, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this curve beaked bird is all white with black feathers at the tips of its wings.",
+          "indo": "Burung berparuh melengkung ini semuanya berwarna putih dengan bulu berwarna hitam di ujung sayapnya."
+        },
+        {
+          "english": "this bird has a yellow beak as well as a white belly",
+          "indo": "burung ini memiliki paruh berwarna kuning dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a yellow bill that is curved and two large wingbars.",
+          "indo": "burung ini mempunyai paruh berwarna kuning yang melengkung dan dua garis sayap yang besar."
+        },
+        {
+          "english": "a short white bird with a short yellow bill and black tips on its wings.",
+          "indo": "burung pendek berwarna putih dengan paruh pendek berwarna kuning dan ujung sayap berwarna hitam."
+        },
+        {
+          "english": "a white bird with black tipped wings and a yellow beak.",
+          "indo": "seekor burung putih dengan sayap berujung hitam dan paruh kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0004_73811.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has a white head and a red eyering with a yellow curved beak.",
+          "indo": "Burung ini memiliki kepala berwarna putih dan cincin mata berwarna merah dengan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird has a white crown, a small yellow bill, and dark black eyes",
+          "indo": "burung ini mempunyai mahkota berwarna putih, paruh kecil berwarna kuning, dan mata berwarna hitam pekat"
+        },
+        {
+          "english": "the head of the bird is white with a black eye and a curved yellow beak.",
+          "indo": "kepala burung berwarna putih dengan mata hitam dan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird has a bold yellow bill and a brown crow also.",
+          "indo": "burung ini memiliki paruh berwarna kuning tebal dan juga burung gagak berwarna coklat."
+        },
+        {
+          "english": "a white crowned bird with a yellow hooked bill and a red eye ring around a black eye.",
+          "indo": "burung bermahkota putih dengan paruh bengkok kuning dan cincin mata merah di sekeliling mata hitam."
+        },
+        {
+          "english": "this bird has deep burgundy eye ring a small yellow bill and is covered in pure white feathers.",
+          "indo": "burung ini memiliki cincin mata berwarna merah anggur tua, paruh kecil berwarna kuning dan ditutupi bulu putih bersih."
+        },
+        {
+          "english": "this bird has wings that are white and red eye rings",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan cincin mata berwarna merah"
+        },
+        {
+          "english": "this bird has a curved, pointed yellow bill, and a white crown without any cheek patches or eyebrows.",
+          "indo": "burung ini memiliki paruh melengkung berwarna kuning, runcing, dan mahkota berwarna putih tanpa ada penutup pipi atau alis."
+        },
+        {
+          "english": "this medium-sized bird has a white face with a yellow bill.",
+          "indo": "Burung berukuran sedang ini mempunyai muka berwarna putih dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has red eye rings, yellow curved bill, and a white crown.",
+          "indo": "Burung ini memiliki cincin mata berwarna merah, paruh melengkung berwarna kuning, dan mahkota berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0006_795436.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this large headed white bird had a yellow beak and orange feet.",
+          "indo": "burung putih berkepala besar ini memiliki paruh berwarna kuning dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast with long hooked bill and bright orange feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh bengkok panjang dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "this bird is white and black in color with a curved orange beak and white eye ring.",
+          "indo": "burung ini berwarna putih hitam dengan paruh melengkung berwarna jingga dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this white bird has light gray wing feathers and a bright orange beak and feet.",
+          "indo": "burung berwarna putih ini memiliki bulu sayap berwarna abu-abu muda serta paruh dan kaki berwarna jingga cerah."
+        },
+        {
+          "english": "short bird with a small body and a large white head & neck with a yellow beak.",
+          "indo": "burung pendek berbadan kecil dan kepala & leher besar berwarna putih dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray wings",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a white head and gray and white wings.",
+          "indo": "burung ini memiliki kepala berwarna putih dan sayap berwarna abu-abu putih."
+        },
+        {
+          "english": "this bird has a yellow beck, with white for body and black mixed in also has orange feet.",
+          "indo": "burung ini memiliki burung beck kuning, dengan tubuh berwarna putih dan bercampur hitam juga memiliki kaki berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0007_795402.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this is a white bird with grey wings and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "the bird has a yellow bill that is large and curved.",
+          "indo": "burung ini memiliki paruh berwarna kuning yang besar dan melengkung."
+        },
+        {
+          "english": "this is a white bird with a grey wing and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "a large bird that is stumpy in appearance, and has a white body.",
+          "indo": "seekor burung besar yang berpenampilan kekar, dan berbadan putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a gray wing and long hooked bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna abu-abu dan paruh bengkok panjang."
+        },
+        {
+          "english": "the is colorful bird has a yellow beak with orange legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh berwarna kuning dengan kaki berwarna oranye"
+        },
+        {
+          "english": "this bird is white and gray in color, with a curved yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are grey and has red feet",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan kaki berwarna merah"
+        },
+        {
+          "english": "a grey and white bird with a yellow turned down sharp beak and red feet",
+          "indo": "seekor burung berwarna abu-abu dan putih dengan paruh runcing berwarna kuning dan kaki berwarna merah"
+        },
+        {
+          "english": "this bird has a sleek, white crown, neck and breast, a yellow bill and bright orange feet.",
+          "indo": "burung ini memiliki mahkota, leher dan dada yang ramping, berwarna putih, paruh berwarna kuning, dan kaki berwarna oranye cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0009_795459.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has a white head and tail, gray wings, and red tarsus and feet.",
+          "indo": "burung ini memiliki kepala dan ekor berwarna putih, sayap abu-abu, serta tarsus dan kaki berwarna merah."
+        },
+        {
+          "english": "this white bird has a yellow beak, black tipped wings, and pink feet.",
+          "indo": "burung berwarna putih ini memiliki paruh berwarna kuning, sayap berujung hitam, dan kaki berwarna merah muda."
+        },
+        {
+          "english": "this bird is white with red claws and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan cakar berwarna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has yellow bill that is somewhat curved and small.",
+          "indo": "burung ini mempunyai paruh berwarna kuning yang agak melengkung dan kecil."
+        },
+        {
+          "english": "this bird is mostly white with a long hooked bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "a medium bird with bright orange feet, gray wings, and a white face.",
+          "indo": "burung berukuran sedang dengan kaki oranye terang, sayap abu-abu, dan wajah putih."
+        },
+        {
+          "english": "this is a white bird with gray wings and red feet, the beak is light yellow.",
+          "indo": "ini burung berwarna putih dengan sayap abu-abu dan kaki merah, paruhnya berwarna kuning muda."
+        },
+        {
+          "english": "this bird has a white crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna putih dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has red feet",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan kaki berwarna merah"
+        },
+        {
+          "english": "a large bird with a white body, a tail that is short, large pink feet, large gray and white striped wings, and a wide pointy beak.",
+          "indo": "burung besar berbadan putih, ekor pendek, kaki besar berwarna merah muda, sayap besar bergaris abu-abu putih, dan paruh lebar runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0010_73789.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this young bird is white and fuzzy with a black beak.",
+          "indo": "burung muda ini berwarna putih berbulu halus dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with a black bill and a \"fuzzy\" white crown, nape, throat, and breast.",
+          "indo": "seekor burung kecil dengan paruh hitam dan mahkota, tengkuk, tenggorokan, dan dada berwarna putih \"fuzzy\"."
+        },
+        {
+          "english": "this bird is covered with downy white feathers, and has a black hooked bill.",
+          "indo": "burung ini ditutupi bulu berbulu halus berwarna putih, dan paruh bengkok berwarna hitam."
+        },
+        {
+          "english": "this bird has a slightly curving black bill with a pure white, sparse crown.",
+          "indo": "burung ini memiliki paruh berwarna hitam agak melengkung dengan mahkota berwarna putih bersih dan jarang."
+        },
+        {
+          "english": "an all white bird with a dark black eye ring and pointy dark black bill.",
+          "indo": "seekor burung yang serba putih dengan cincin mata hitam gelap dan paruh runcing hitam gelap."
+        },
+        {
+          "english": "this particular bird has a white body with black bill and black eyes",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan paruh berwarna hitam dan mata berwarna hitam"
+        },
+        {
+          "english": "a small bird with white fuzzy hair, it beak is small, dark, and pointed slightly downwards.",
+          "indo": "burung kecil dengan bulu putih berbulu halus, paruhnya kecil, berwarna gelap, dan agak runcing ke bawah."
+        },
+        {
+          "english": "a small bird with a white head and breast area with a short, pointed, black beek.",
+          "indo": "seekor burung kecil dengan kepala dan dada berwarna putih dengan paruh pendek, runcing, dan berwarna hitam."
+        },
+        {
+          "english": "this fluffy bird has a black bill and a white crown and throat and breast.",
+          "indo": "burung berbulu halus ini memiliki paruh berwarna hitam dan mahkota serta tenggorokan dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a white crown with a black beak and white breast.",
+          "indo": "burung ini memiliki mahkota berwarna putih dengan paruh berwarna hitam dan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0013_795413.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this white bird has gray wings, a pointed yellow beak, and bright red webbed feet.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu, paruh kuning runcing, dan kaki berselaput berwarna merah cerah."
+        },
+        {
+          "english": "medium sized white bird with grey wings, orange tarsus and webbed feet",
+          "indo": "burung putih berukuran sedang dengan sayap abu-abu, tarsus oranye dan kaki berselaput"
+        },
+        {
+          "english": "this is a very small bird that has an extremely tiny beak, head, and feet in comparison with its body. this bird is all white, with the exception of its wings and feet. this bird has grey wings and red feet and a yellow, small but pointed beak.",
+          "indo": "ini adalah burung yang sangat kecil yang memiliki paruh, kepala, dan kaki yang sangat kecil dibandingkan dengan tubuhnya. burung ini semuanya berwarna putih, kecuali sayap dan kakinya. burung ini memiliki sayap berwarna abu-abu dan kaki berwarna merah serta paruh berwarna kuning, kecil namun runcing."
+        },
+        {
+          "english": "this small bird has bright red feel and a yellow bill.",
+          "indo": "burung kecil ini memiliki corak merah cerah dan paruh kuning."
+        },
+        {
+          "english": "a small white bird with gray wings, a small curved bill, and a brilliant red tarsus and feet.",
+          "indo": "seekor burung putih kecil dengan sayap abu-abu, paruh kecil melengkung, dan tarsus serta kaki berwarna merah cemerlang."
+        },
+        {
+          "english": "this bird has feathers that are grey and has a white belly with red feet",
+          "indo": "burung ini memiliki bulu yang berwarna abu-abu dan memiliki perut berwarna putih dengan kaki berwarna merah"
+        },
+        {
+          "english": "white body and gray wings with red feet",
+          "indo": "tubuh putih dan sayap abu-abu dengan kaki merah"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a white body, a yellow beak, and orange feet.",
+          "indo": "seekor burung besar dengan tubuh putih, paruh kuning, dan kaki oranye."
+        },
+        {
+          "english": "a mostly white bird with grey wings and vibrant red feet.",
+          "indo": "burung yang sebagian besar berwarna putih dengan sayap abu-abu dan kaki merah cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0014_795432.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird is medium sized, has black and white colors, and a thick yellow beak that curves downward.",
+          "indo": "burung ini berukuran sedang, berwarna hitam putih, dan paruh tebal berwarna kuning melengkung ke bawah."
+        },
+        {
+          "english": "this is a white bird with a black wing and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap hitam dan paruh kuning."
+        },
+        {
+          "english": "this bird is white with black on its wings and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan sayapnya berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white body, black wing and tail, and bright orange tarsus and feet.",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap dan ekor berwarna hitam, serta tarsus dan kaki berwarna jingga cerah."
+        },
+        {
+          "english": "this bird with red webbed feet has a white body and black wings.",
+          "indo": "Burung dengan kaki berselaput merah ini memiliki tubuh berwarna putih dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has bright pink feet, a white body, and dark blue feathers.",
+          "indo": "burung ini memiliki kaki berwarna merah muda cerah, badan berwarna putih, dan bulu berwarna biru tua."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white belly, white breast, and a white crown with a yellow bill.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna putih, dan mahkota berwarna putih dengan paruh berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0015_73792.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has a white breast and belly as well as tiny eyering.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta cincin mata kecil."
+        },
+        {
+          "english": "this bird has a short straight bill, red feet, and a gray cheek patch.",
+          "indo": "burung ini memiliki paruh pendek lurus, kaki berwarna merah, dan bercak pipi berwarna abu-abu."
+        },
+        {
+          "english": "a white bird with dark gray wings with black tips and a yellow beak.",
+          "indo": "burung berwarna putih dengan sayap abu-abu tua dengan ujung hitam dan paruh kuning."
+        },
+        {
+          "english": "this bird is white with black eyes and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih, bermata hitam, dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this white breasted and dark grey winged bird has a short, dull bill in a yellow color.",
+          "indo": "Burung berdada putih dan bersayap abu-abu tua ini mempunyai paruh pendek kusam berwarna kuning."
+        },
+        {
+          "english": "this bird is white with dark gray wings.",
+          "indo": "burung ini berwarna putih dengan sayap berwarna abu-abu tua."
+        },
+        {
+          "english": "large bird with long wingspan and pure white belly,neck and head.",
+          "indo": "burung besar dengan rentang sayap panjang dan perut, leher, dan kepala berwarna putih bersih."
+        },
+        {
+          "english": "this white bird has black tipped wings as well as orange feet and a yellow bill.",
+          "indo": "burung berwarna putih ini memiliki sayap berujung hitam, kaki berwarna oranye, dan paruh berwarna kuning."
+        },
+        {
+          "english": "this mostly white bird has some black on it's wings, orange feet and a pointed yellow bill.",
+          "indo": "burung yang sebagian besar berwarna putih ini memiliki sedikit warna hitam di sayapnya, kaki oranye, dan paruh kuning runcing."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0016_795460.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "these birds have really long wings with bright orange feet.",
+          "indo": "burung ini memiliki sayap yang sangat panjang dengan kaki berwarna oranye terang."
+        },
+        {
+          "english": "this bird has a white belly and breast, with gray wings and orange feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan sayap berwarna abu-abu dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has black wings, a white belly, and orange feet.",
+          "indo": "burung ini memiliki sayap berwarna hitam, perut berwarna putih, dan kaki berwarna oranye."
+        },
+        {
+          "english": "two bird with white breast one has wing and wingbar spreaded.",
+          "indo": "dua ekor burung berdada putih, yang satu mempunyai sayap dan garis sayap terbentang."
+        },
+        {
+          "english": "two medium sized sea birds with white bodies and gray wings.",
+          "indo": "dua burung laut berukuran sedang dengan tubuh putih dan sayap abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has orange feet",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai kaki berwarna jingga"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this white colored bird has bright orange feet and a hint of orange in its beak.",
+          "indo": "burung berwarna putih ini memiliki kaki berwarna jingga cerah dan sedikit warna jingga pada paruhnya."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a curved yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird has a yellow long bill, with dark orange feet.",
+          "indo": "burung ini mempunyai paruh panjang berwarna kuning, dengan kaki berwarna jingga tua."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0017_795451.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird's body is pure white, and it's wings are soft gray with white primaries.",
+          "indo": "badan burung ini berwarna putih bersih, sayapnya berwarna abu-abu lembut dengan bulu primer berwarna putih."
+        },
+        {
+          "english": "this is a white bird with a grey wing and a small beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kecil."
+        },
+        {
+          "english": "a large bird with a white body, and gray wings, and a smooth round crown.",
+          "indo": "seekor burung besar dengan tubuh putih, sayap abu-abu, dan mahkota bulat halus."
+        },
+        {
+          "english": "this bird is mostly white, with grey wings, black rectrices, a yellow beak and red legs and feet.",
+          "indo": "burung ini sebagian besar berwarna putih, dengan sayap abu-abu, rectrices  hitam, paruh kuning, serta tungkai dan kaki berwarna merah."
+        },
+        {
+          "english": "a medium size white and gray bird with a small yellow beak.",
+          "indo": "burung berukuran sedang berwarna putih abu-abu dengan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird appears to have grey coverts, wingbars and secondaries, a white crown, nape and belly, orange tarsus and feet, and a yellow beak.",
+          "indo": "burung ini tampak memiliki bulu berwarna abu-abu, garis sayap dan sayap bulu sekunder, mahkota putih, tengkuk dan perut, tarsus dan kaki berwarna oranye, serta paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a white head and gray wings with an orange beak.",
+          "indo": "burung ini memiliki kepala berwarna putih dan sayap berwarna abu-abu dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has a white belly, nape and head, with gray wings, red legs and feet and a curved yellow beak.",
+          "indo": "burung ini mempunyai perut, tengkuk dan kepala berwarna putih, sayap berwarna abu-abu, tungkai dan kaki berwarna merah serta paruh berwarna kuning melengkung."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0019_795398.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "with a yellow beak, this white-bodied bird has gray primaries and secondaries.",
+          "indo": "dengan paruh berwarna kuning, burung berbadan putih ini memiliki warna bulu primer dan bulu sekunder berwarna abu-abu."
+        },
+        {
+          "english": "a medium sized white bird that has a short pointed bill",
+          "indo": "burung berwarna putih berukuran sedang dengan paruh runcing pendek"
+        },
+        {
+          "english": "this is a white bird with grey wings and a small beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kecil."
+        },
+        {
+          "english": "this bird is white and grey in color with a yellow beak, and white eye rings.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh kuning, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a white wing, a light yellow bill, and a black eye",
+          "indo": "burung ini mempunyai sayap berwarna putih, paruh berwarna kuning muda, dan mata berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are white and black and has a yellow beak",
+          "indo": "burung ini mempunyai sayap berwarna putih dan hitam serta mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a white bird with a yellow bill.",
+          "indo": "seekor burung putih dengan paruh kuning."
+        },
+        {
+          "english": "this bird has a short, yellow, blunt bill, orange feet, and is white with black wing tips.",
+          "indo": "burung ini mempunyai paruh pendek berwarna kuning tumpul, kaki berwarna jingga, dan berwarna putih dengan ujung sayap berwarna hitam."
+        },
+        {
+          "english": "this small sea bird is pudgy with broad gray wings and is white throughout the rest of its body with a splash of red near its vent.",
+          "indo": "burung laut kecil ini berbadan gempal dengan sayap lebar berwarna abu-abu dan seluruh tubuhnya berwarna putih dengan cipratan warna merah di dekat lubang anginnya."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0020_795439.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird has black eyes, a white crown and orange tarsus and feet.",
+          "indo": "burung ini mempunyai mata berwarna hitam, mahkota berwarna putih, serta tarsus dan kaki berwarna jingga."
+        },
+        {
+          "english": "bird with small body and white long neck and head, white chest, belly and grey wings with yellow turned down beak.",
+          "indo": "burung berbadan kecil, leher dan kepala panjang berwarna putih, dada putih, perut dan sayap abu-abu dengan paruh mengecil berwarna kuning."
+        },
+        {
+          "english": "the bird is white with a yellow hooked beak and orange webbed feet.",
+          "indo": "burung itu berwarna putih dengan paruh bengkok berwarna kuning dan kaki berselaput oranye."
+        },
+        {
+          "english": "this bird has red feet, a yellow feet, the body is all white with dark gray wings.",
+          "indo": "burung ini mempunyai kaki berwarna merah, kaki berwarna kuning, badannya serba putih dengan sayap berwarna abu-abu tua."
+        },
+        {
+          "english": "a large primarily white bird with a brownish black tail and a yellow beak",
+          "indo": "seekor burung besar berwarna putih dengan ekor hitam kecoklatan dan paruh kuning"
+        },
+        {
+          "english": "this is a bird with a curved yellow beak, a white head, throat, belly and back, grey feathers with black feathers mixed in on it's wings and tail feathers.",
+          "indo": "Ini adalah burung dengan paruh kuning melengkung, kepala, tenggorokan, perut dan punggung berwarna putih, bulu berwarna abu-abu dengan bulu hitam bercampur pada sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has brown primaries, a white crown, and a white breast.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat, mahkota berwarna putih, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is mostly white with black wings, a white crown and a yellow beak.",
+          "indo": "burung ini sebagian besar berwarna putih dengan sayap hitam, mahkota putih dan paruh kuning."
+        },
+        {
+          "english": "a white bird with black wings and a yellow beak.",
+          "indo": "seekor burung putih dengan sayap hitam dan paruh kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0021_73808.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this is a white bird with grey wings that have black tips.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu yang ujungnya berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black on the tips of his wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam pada ujung sayapnya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a grey bird with black wings and an orange beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan paruh oranye."
+        },
+        {
+          "english": "this large bird has a white body, and black wing tips.",
+          "indo": "burung besar ini memiliki tubuh berwarna putih, dan ujung sayap berwarna hitam."
+        },
+        {
+          "english": "the white seabird features black-tipped wings and a yellow beak.",
+          "indo": "burung laut putih memiliki sayap berujung hitam dan paruh kuning."
+        },
+        {
+          "english": "this bird has black wingtips on its white wings which are attached to its white body.",
+          "indo": "burung ini mempunyai ujung sayap berwarna hitam pada sayapnya yang berwarna putih yang menempel pada badannya yang berwarna putih."
+        },
+        {
+          "english": "this bird has a yellow bill with white crown and white belly.",
+          "indo": "burung ini mempunyai paruh berwarna kuning dengan mahkota berwarna putih dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is white with black wing tips and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan ujung sayap berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a white bird with gray wings and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "bird has white body and wings with black tips on the wings and black tarsus and feet.",
+          "indo": "burung mempunyai badan dan sayap berwarna putih dengan ujung sayap berwarna hitam serta tarsus dan kaki berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0022_795418.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has head and beak proportional to its body, it has yellow beak and red feet and white body.",
+          "indo": "burung tersebut memiliki kepala dan paruh yang proporsional dengan tubuhnya, paruhnya berwarna kuning, kakinya berwarna merah, dan tubuhnya berwarna putih."
+        },
+        {
+          "english": "a white bird with grey wings and a yellow bill.",
+          "indo": "seekor burung putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "this shorebird's head and body are all white, its wings are grey with dark grey tips, its beak is yellow and feet are dark orange.",
+          "indo": "Kepala dan badan burung pantai ini semuanya berwarna putih, sayapnya berwarna abu-abu dengan ujung berwarna abu-abu tua, paruhnya berwarna kuning, dan kakinya berwarna jingga tua."
+        },
+        {
+          "english": "a medium bird with a white body and face, gray wings and a short orange bill.",
+          "indo": "burung berukuran sedang dengan tubuh dan wajah berwarna putih, sayap abu-abu, dan paruh pendek berwarna oranye."
+        },
+        {
+          "english": "this large bird is mostly white with a long hooked bill and flat webbed foot.",
+          "indo": "burung besar ini sebagian besar berwarna putih dengan paruh bengkok panjang dan kaki berselaput rata."
+        },
+        {
+          "english": "this medium sized white bird has black tipped wings and a short yellow beak.",
+          "indo": "burung putih berukuran sedang ini memiliki sayap berujung hitam dan paruh pendek berwarna kuning."
+        },
+        {
+          "english": "this white sea bird has wide grey wings and orange feet.",
+          "indo": "burung laut putih ini memiliki sayap lebar berwarna abu-abu dan kaki berwarna oranye."
+        },
+        {
+          "english": "a medium sized white bird, with grey wings, and a short yellow bill.",
+          "indo": "burung putih berukuran sedang, sayap abu-abu, dan paruh pendek berwarna kuning."
+        },
+        {
+          "english": "this bird has a long bright yellow beak, orange feet, a white underside and a grey on the top of his wings.",
+          "indo": "Burung ini mempunyai paruh panjang berwarna kuning cerah, kaki berwarna oranye, bagian bawah berwarna putih, dan bagian atas sayapnya berwarna abu-abu."
+        },
+        {
+          "english": "a big white bird with a yellow bill and orange feet.",
+          "indo": "seekor burung putih besar dengan paruh kuning dan kaki oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0024_795441.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a bird with small rounded bill, black primaries, and white body",
+          "indo": "burung dengan paruh kecil membulat, warna bulu primer hitam, dan badan putih"
+        },
+        {
+          "english": "the white and grey bird has a red back marking and long spanned wings.",
+          "indo": "burung berwarna putih dan abu-abu memiliki tanda punggung berwarna merah dan sayap yang panjang."
+        },
+        {
+          "english": "white and gray feathers on the bird with wide wingspan",
+          "indo": "bulu putih dan abu-abu pada burung dengan rentang sayap lebar"
+        },
+        {
+          "english": "a bird with a small rounded bill white body and gray wings.",
+          "indo": "burung dengan paruh kecil berbentuk bulat, badan berwarna putih dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird is white and black in color with a white beak, and white eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh berwarna putih, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, grey wings with black wingbars, and orange tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap abu-abu dengan garis sayap hitam, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "white bird with feathers that are tipped in black.",
+          "indo": "burung berwarna putih dengan bulu berujung hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a white beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0027_795454.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a white large bird with orange legs and gray secondaries and primaries, and a short yellow bill.",
+          "indo": "seekor burung besar berwarna putih dengan kaki oranye dan bulu sekunder dan bulu primer berwarna abu-abu, dan paruh kuning pendek."
+        },
+        {
+          "english": "bird with a triangular yellow bill, white on its body, and gray on its wings.",
+          "indo": "burung dengan paruh berbentuk segitiga berwarna kuning, badannya berwarna putih, dan sayapnya berwarna abu-abu."
+        },
+        {
+          "english": "this grey and white bird has a black tail and yellow beak.",
+          "indo": "burung berwarna abu-abu putih ini memiliki ekor berwarna hitam dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a large white head in proportion to the body, the bill is short, yellow and pointed.",
+          "indo": "burung ini mempunyai kepala besar berwarna putih sebanding dengan badannya, paruhnya pendek, berwarna kuning dan runcing."
+        },
+        {
+          "english": "the soft, white bird has gray on its wings and a dull, yellow beak.",
+          "indo": "burung berwarna putih lembut memiliki sayap berwarna abu-abu dan paruh berwarna kuning kusam."
+        },
+        {
+          "english": "this is a poofy looking white bird with grey wings and a darker grey tail, the beak is yellow and it has small black eyes.",
+          "indo": "Ini adalah burung putih yang tampak poofy dengan sayap abu-abu dan ekor abu-abu gelap, paruhnya berwarna kuning dan memiliki mata hitam kecil."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "the bird has a small yellow bill and white crown as well as grey wingbars.",
+          "indo": "burung ini mempunyai paruh kecil berwarna kuning dan mahkota berwarna putih serta garis sayap berwarna abu-abu."
+        },
+        {
+          "english": "a white bird with grey wings and a black and white tail feathers and a short yellow bill.",
+          "indo": "burung berwarna putih dengan sayap abu-abu dan bulu ekor hitam putih serta paruh pendek berwarna kuning."
+        },
+        {
+          "english": "the bird has a curved yellow bill, grey wingbars and a white crown.",
+          "indo": "burung ini memiliki paruh melengkung berwarna kuning, garis sayap berwarna abu-abu, dan mahkota berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0028_795450.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the white bird has orange feet and the bill is pale yellow.",
+          "indo": "burung berwarna putih berkaki jingga dan paruh berwarna kuning pucat."
+        },
+        {
+          "english": "this bird is grey and white with orange feet a small beak and beady black eyes.",
+          "indo": "burung ini berwarna abu-abu putih dengan kaki oranye, paruh kecil dan mata hitam seperti manik-manik."
+        },
+        {
+          "english": "a white bird has with grey wings and black rectrices and orange feet.",
+          "indo": "seekor burung putih memiliki sayap abu-abu dan garis lurus hitam serta kaki oranye."
+        },
+        {
+          "english": "this bird has gray wings and orange feet and white breast.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu, kaki berwarna oranye, dan dada berwarna putih."
+        },
+        {
+          "english": "this is a beautiful white and grey bird with a yellow bill.",
+          "indo": "ini adalah burung cantik berwarna putih dan abu-abu dengan paruh kuning."
+        },
+        {
+          "english": "large white bird with dark gray wing feathers and tail feathers streaked with black.",
+          "indo": "burung besar berwarna putih dengan bulu sayap berwarna abu-abu tua dan bulu ekor bergaris hitam."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has webbed feet, a curved yellow bill and white crown.",
+          "indo": "burung itu memiliki kaki berselaput, paruh melengkung berwarna kuning, dan mahkota berwarna putih."
+        },
+        {
+          "english": "this bird has a white crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        },
+        {
+          "english": "a white bird with gray wings, a yellow beak, and red tarsus and feet.",
+          "indo": "burung berwarna putih dengan sayap abu-abu, paruh kuning, dan tarsus serta kaki berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0029_795403.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the flying seagull with orange feet is looking for fish in the ocean.",
+          "indo": "burung camar terbang berkaki jingga sedang mencari ikan di lautan."
+        },
+        {
+          "english": "this medium size bird soars with metallic gray wings, which are atop an all white body, leading to orange, webbed feet.",
+          "indo": "burung berukuran sedang ini terbang dengan sayap abu-abu metalik, yang berada di atas tubuh serba putih, mengarah ke kaki berselaput oranye."
+        },
+        {
+          "english": "this is a white bird with grey wings and red feet.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kaki merah."
+        },
+        {
+          "english": "this bird has a white body, gray wing feathers with black primary tips, bright orange webbed feet, a small yellow bill and small black eyes.",
+          "indo": "burung ini mempunyai badan berwarna putih, bulu sayap berwarna abu-abu dengan ujung bulu primer berwarna hitam, kaki berselaput berwarna jingga cerah, paruh kecil berwarna kuning, dan mata kecil berwarna hitam."
+        },
+        {
+          "english": "this is a white bird with grey wings and red feet.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kaki merah."
+        },
+        {
+          "english": "this bird has wings that are grey with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and black in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this white and gray bird has black primary tips, as well as brightly colored orange tarsus and feet.",
+          "indo": "burung berwarna putih abu-abu ini memiliki ujung bulu primer berwarna hitam, serta tarsus dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "this bird has a white crown with a yellow beak and dark grey feathers.",
+          "indo": "burung ini memiliki mahkota berwarna putih dengan paruh berwarna kuning dan bulu berwarna abu-abu tua."
+        },
+        {
+          "english": "this white bird with black tipped wings has a small yellow beak and red tarsus and feet",
+          "indo": "Burung berwarna putih dengan sayap berujung hitam ini memiliki paruh kecil berwarna kuning serta tarsus dan kaki berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0030_73818.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has webbed feet that are red a well as a yellow bill.",
+          "indo": "burung itu memiliki kaki berselaput yang berwarna merah dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a short light yellow bill, bright red tarsus and feet, and a white crown.",
+          "indo": "burung ini memiliki paruh pendek berwarna kuning muda, tarsus dan kaki berwarna merah cerah, serta mahkota berwarna putih."
+        },
+        {
+          "english": "this bird has red feet, tarsus, and thigh. the belly and breast are white and the wings are grey.",
+          "indo": "burung ini memiliki kaki, tarsus, dan paha berwarna merah. perut dan dada berwarna putih dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and breast with a gray wing, and bright orange webbed feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna abu-abu, serta kaki berselaput berwarna jingga cerah."
+        },
+        {
+          "english": "the bird has a yellow beak with a white head and orange web feet",
+          "indo": "burung ini memiliki paruh berwarna kuning dengan kepala berwarna putih dan kaki berselaput berwarna oranye"
+        },
+        {
+          "english": "this waterbird is on the smaller side with bright red webbed feet, a snowy white head and belly and grey wings, and a short yellow beak that curves downwards.",
+          "indo": "burung air ini berukuran lebih kecil dengan kaki berselaput berwarna merah cerah, kepala dan perut berwarna putih salju serta sayap abu-abu, serta paruh pendek berwarna kuning yang melengkung ke bawah."
+        },
+        {
+          "english": "this is a white bird with gray wings, yellow beak and bright red webbed feet.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, paruh kuning dan kaki berselaput merah cerah."
+        },
+        {
+          "english": "this bird is white in color, has grey wings, and webbed feet.",
+          "indo": "burung ini berwarna putih, mempunyai sayap berwarna abu-abu, dan kaki berselaput."
+        },
+        {
+          "english": "this white bird has grey wings and tail, with orange feet and tarsus and a pointed yellow bill.",
+          "indo": "burung berwarna putih ini memiliki sayap dan ekor berwarna abu-abu, dengan kaki dan tarsus berwarna oranye serta paruh berwarna kuning yang runcing."
+        },
+        {
+          "english": "this bird has a mellow yellow bill coloration and deep red feet",
+          "indo": "burung ini mempunyai warna paruh kuning lembut dan kaki merah tua"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0031_795442.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a bird with a downward hooked bill, white head and breast, and gray wings.",
+          "indo": "burung dengan paruh bengkok ke bawah, kepala dan dada berwarna putih, serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "a dove sized sea bird with a small beak, grey wings and a short banded tail.",
+          "indo": "burung laut seukuran merpati dengan paruh kecil, sayap abu-abu dan ekor pendek berpita."
+        },
+        {
+          "english": "a medium sized white bird that has grey wings and a yellow bill",
+          "indo": "burung putih berukuran sedang yang memiliki sayap abu-abu dan paruh kuning"
+        },
+        {
+          "english": "this bird is white with grey on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna abu-abu pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with grey wings, this puffy looking bird has a yellow beak.",
+          "indo": "burung berwarna putih dengan sayap abu-abu, burung yang tampak menggembung ini memiliki paruh berwarna kuning."
+        },
+        {
+          "english": "a plump bird with white coloring and gray wings; the bill is yellow in color.",
+          "indo": "seekor burung gemuk dengan warna putih dan sayap abu-abu; paruhnya berwarna kuning."
+        },
+        {
+          "english": "this is a larger bird with a yellow beak a mostly white body with grey wings.",
+          "indo": "ini adalah burung yang lebih besar dengan paruh kuning, sebagian besar tubuh berwarna putih dengan sayap abu-abu."
+        },
+        {
+          "english": "a white bird with gray wings and small but very round head.",
+          "indo": "seekor burung berwarna putih dengan sayap abu-abu dan kepala kecil namun sangat bulat."
+        },
+        {
+          "english": "a white, gray ad black bird with a curved light yellow beak.",
+          "indo": "burung berwarna putih abu-abu dan hitam dengan paruh melengkung berwarna kuning muda."
+        },
+        {
+          "english": "this bird has a large head, a gray wing, yellow downward curved beak, and a short tail.",
+          "indo": "burung ini memiliki kepala besar, sayap berwarna abu-abu, paruh melengkung ke bawah berwarna kuning, dan ekor pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0032_795399.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a white bird, with a yellow beak and orange feet.",
+          "indo": "seekor burung berwarna putih, dengan paruh kuning dan kaki oranye."
+        },
+        {
+          "english": "a white bird with gray wings, orange legs, black eyes and a short yellow bill.",
+          "indo": "burung berwarna putih dengan sayap abu-abu, kaki oranye, mata hitam dan paruh kuning pendek."
+        },
+        {
+          "english": "this is a white bird with a small yellow beak and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan paruh kecil berwarna kuning dan kaki berwarna oranye."
+        },
+        {
+          "english": "this small bird has a downward curving yellow beak, with a white crown and breast and a reddish orange larsus.",
+          "indo": "Burung kecil ini memiliki paruh berwarna kuning melengkung ke bawah, mahkota dan dada berwarna putih, serta larsus berwarna jingga kemerahan."
+        },
+        {
+          "english": "this bird has a yellow bill and red foot and a white belly and breast.",
+          "indo": "burung ini memiliki paruh berwarna kuning, kaki berwarna merah, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "the bird is completely white on his head and belly with black wings and orange feet.",
+          "indo": "burung itu berwarna putih seluruhnya di kepala dan perutnya dengan sayap hitam dan kaki oranye."
+        },
+        {
+          "english": "this is a large mostly white bird with some black on its wings and tail.",
+          "indo": "ini adalah burung besar yang sebagian besar berwarna putih dengan sedikit warna hitam di sayap dan ekornya."
+        },
+        {
+          "english": "this white bird has grey wings, orange feet, and a yellow beak.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu, kaki berwarna oranye, dan paruh berwarna kuning."
+        },
+        {
+          "english": "a snow white bird with bright orange legs and a yellow curved bill.",
+          "indo": "burung seputih salju dengan kaki oranye terang dan paruh melengkung kuning."
+        },
+        {
+          "english": "the bird has a small yellow bill and a puffed white belly.",
+          "indo": "burung itu memiliki paruh kecil berwarna kuning dan perut buncit berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0033_795395.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the head and belly of the bird is white and the yellow beak is curved.",
+          "indo": "kepala dan perut burung berwarna putih dan paruhnya berwarna kuning melengkung."
+        },
+        {
+          "english": "medium sized bird with all white head, breast, and belly, grey wings, and narrow yellow downward beak.",
+          "indo": "burung berukuran sedang dengan kepala, dada, dan perut berwarna putih, sayap abu-abu, dan paruh sempit berwarna kuning ke bawah."
+        },
+        {
+          "english": "a white bird with an orange bil, gray wings, and black tarsus.",
+          "indo": "burung putih dengan bil oranye, sayap abu-abu, dan tarsus hitam."
+        },
+        {
+          "english": "a beautiful soft white bird with yellow bill and webbed feet.",
+          "indo": "seekor burung putih lembut yang cantik dengan paruh kuning dan kaki berselaput."
+        },
+        {
+          "english": "the bird has a white crown and a long yellow crown that is curved.",
+          "indo": "burung ini memiliki mahkota berwarna putih dan mahkota kuning panjang yang melengkung."
+        },
+        {
+          "english": "the bird has a small black eyering, white crown, and large yellow bill.",
+          "indo": "burung ini memiliki cincin mata kecil berwarna hitam, mahkota berwarna putih, dan paruh besar berwarna kuning."
+        },
+        {
+          "english": "a large white bird with gray wings, and a yellow beak.",
+          "indo": "seekor burung putih besar dengan sayap abu-abu, dan paruh kuning."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with gray wings and yellow bill.",
+          "indo": "seekor burung putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0036_73814.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this white bird has it's long wings extended and a short yellow beak, orange feet, and black at the ends of his feathers.",
+          "indo": "burung berwarna putih ini memiliki sayap yang panjang dan paruh pendek berwarna kuning, kaki berwarna oranye, dan ujung bulunya berwarna hitam."
+        },
+        {
+          "english": "this bird has yellow bill and grey coverts with white abdomen, chest and side.",
+          "indo": "burung ini memiliki paruh berwarna kuning dan bulu berwarna abu-abu dengan perut, dada dan samping berwarna putih."
+        },
+        {
+          "english": "this bird is rather round and fluffy with a squarish head, curved beak and gray wings that contrast with it's white body.",
+          "indo": "Burung ini berbentuk agak bulat dan berbulu halus dengan kepala berbentuk persegi, paruh melengkung, dan sayap berwarna abu-abu kontras dengan tubuhnya yang berwarna putih."
+        },
+        {
+          "english": "a bird with a large yellow bill, white body, and gray wings.",
+          "indo": "burung dengan paruh besar berwarna kuning, badan putih, dan sayap abu-abu."
+        },
+        {
+          "english": "small to medium white grey and black bird with orange tarsus and medium yellow beak",
+          "indo": "burung kecil hingga sedang berwarna putih abu-abu dan hitam dengan tarsus oranye dan paruh kuning sedang"
+        },
+        {
+          "english": "this bird's body is pure white and its wings gradually turn to greys and then finally black.",
+          "indo": "tubuh burung ini berwarna putih bersih dan sayapnya berangsur-angsur berubah menjadi abu-abu dan akhirnya menjadi hitam."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white body and gray wings with an orange beak.",
+          "indo": "burung ini memiliki tubuh berwarna putih dan sayap berwarna abu-abu dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird is white and black in color, and has a yellow beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0037_73794.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "white bird with long yellow beak and red feet and grayish blue wing feather",
+          "indo": "burung berwarna putih dengan paruh panjang berwarna kuning dan kaki berwarna merah serta bulu sayap berwarna biru keabu-abuan"
+        },
+        {
+          "english": "the bird has a white body, black wings, and webbed orange feet.",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap hitam, dan kaki berselaput berwarna oranye."
+        },
+        {
+          "english": "bird has dark body feathers, white breast feather, thick beak, orange feet.",
+          "indo": "burung mempunyai bulu badan berwarna gelap, bulu dada berwarna putih, paruh tebal, kaki berwarna jingga."
+        },
+        {
+          "english": "a small white waterfowl with a yellow beak, orange webbed feet, and black wings.",
+          "indo": "unggas air putih kecil dengan paruh kuning, kaki berselaput oranye, dan sayap hitam."
+        },
+        {
+          "english": "a bird with a yellow bill and red feet, white breast and black wings.",
+          "indo": "seekor burung dengan paruh kuning dan kaki merah, dada putih dan sayap hitam."
+        },
+        {
+          "english": "medium sized bird with yellow curved bill, orange webbed feet. white head nape and belly and grey wings",
+          "indo": "burung berukuran sedang dengan paruh melengkung kuning, kaki berselaput oranye. kepala tengkuk dan perut berwarna putih serta sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird is mostly white, except for a yellow bill, red webbed feet, and dark gray wings.",
+          "indo": "burung ini sebagian besar berwarna putih, kecuali paruh kuning, kaki berselaput merah, dan sayap abu-abu tua."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna putih"
+        },
+        {
+          "english": "a large white and gray bird with yellow beak.",
+          "indo": "seekor burung besar berwarna putih abu-abu dengan paruh kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0039_795429.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has webbed feet that is orange and a yellow bill.",
+          "indo": "Burung ini memiliki kaki berselaput berwarna oranye dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a white head and neck, with grey feathers, a short, hooked beak, and webbed feet.",
+          "indo": "burung ini memiliki kepala dan leher berwarna putih, bulu berwarna abu-abu, paruh pendek bengkok, dan kaki berselaput."
+        },
+        {
+          "english": "the medium sized bird is black and white with a yellow beak that curves downward.",
+          "indo": "burung berukuran sedang berwarna hitam putih dengan paruh kuning melengkung ke bawah."
+        },
+        {
+          "english": "this white bird has gray wings, red webbed feet and a yellow beak.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu, kaki berselaput merah, dan paruh berwarna kuning."
+        },
+        {
+          "english": "the bird has a white head, the bill is yellow, short and curved,with red tarsus and feet.",
+          "indo": "Burung itu berkepala putih, paruhnya kuning, pendek dan melengkung, dengan tarsus dan kaki berwarna merah."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and grey wings with very orange feet and a yellow beak",
+          "indo": "burung ini bersayap putih abu-abu dengan kaki sangat oranye dan paruh kuning"
+        },
+        {
+          "english": "a medium sized white bird, with grey wings, and a yellow bill.",
+          "indo": "burung putih berukuran sedang, sayap abu-abu, dan paruh kuning."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0040_795455.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this white and grey with a small flat bill, and a grey wings",
+          "indo": "ini berwarna putih dan abu-abu dengan paruh kecil yang rata, dan sayap abu-abu"
+        },
+        {
+          "english": "this is a white bird with grey wings and red feet.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kaki merah."
+        },
+        {
+          "english": "this large bright white bird has gray wing, a yellow bill, and dark orange webbed feet.",
+          "indo": "burung besar berwarna putih cerah ini memiliki sayap abu-abu, paruh kuning, dan kaki berselaput oranye tua."
+        },
+        {
+          "english": "this bird is white with grey on its back and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan punggung berwarna abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a white bird with a grey wing, orange feet and a white beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, kaki oranye dan paruh putih."
+        },
+        {
+          "english": "a medium sized gray and white bird with orange feet and light yellow bill.",
+          "indo": "burung abu-abu putih berukuran sedang dengan kaki oranye dan paruh kuning muda."
+        },
+        {
+          "english": "a large white and grey bird with a small yellow bill, orange tarsus and feet.",
+          "indo": "burung besar berwarna putih abu-abu dengan paruh kecil berwarna kuning, tarsus oranye, dan kaki."
+        },
+        {
+          "english": "this bird has primarily white plumage with a gray back, yellow beak, and bright reddish feet.",
+          "indo": "burung ini memiliki bulu utama berwarna putih dengan punggung berwarna abu-abu, paruh kuning, dan kaki berwarna kemerahan cerah."
+        },
+        {
+          "english": "this bird has red webbed feet, a yellow bill, and a bright white crown and belly.",
+          "indo": "burung ini mempunyai kaki berselaput merah, paruh berwarna kuning, serta mahkota dan perut berwarna putih cerah."
+        },
+        {
+          "english": "the bird large with curved short yellow beak, grey wings, and orange feet.",
+          "indo": "burung besar dengan paruh kuning pendek melengkung, sayap abu-abu, dan kaki oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0042_795457.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a bird has a white belly, bright orange webbed feet, and a dark brown back.",
+          "indo": "seekor burung memiliki perut berwarna putih, kaki berselaput berwarna oranye terang, dan punggung berwarna coklat tua."
+        },
+        {
+          "english": "a larger bird that is snow white except for brown on its wings and tail feathers and a yellow downward curving beak and orange tarsus and webbed feet.",
+          "indo": "burung yang lebih besar berwarna putih salju kecuali coklat pada sayap dan bulu ekornya serta paruh kuning melengkung ke bawah dan tarsus oranye serta kaki berselaput."
+        },
+        {
+          "english": "this is a white bird with a grey wing and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan kaki oranye."
+        },
+        {
+          "english": "this bird is white and black in color with a curved beak, and white eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh melengkung, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this is a white bird with a small yellow bill and bright pink tarsus and legs.",
+          "indo": "ini adalah burung berwarna putih dengan paruh kecil berwarna kuning dan tarsus serta kaki berwarna merah muda cerah."
+        },
+        {
+          "english": "a large bodied white bird with a streamlined head, grey wings red webbed feet, a large slightly hooked beak, and large black eyes.",
+          "indo": "seekor burung putih bertubuh besar dengan kepala ramping, sayap abu-abu, kaki berselaput merah, paruh besar agak bengkok, dan mata besar berwarna hitam."
+        },
+        {
+          "english": "this is a large mostly white bird with grey wings and tail and orange feet.",
+          "indo": "ini adalah burung besar yang sebagian besar berwarna putih dengan sayap dan ekor abu-abu serta kaki oranye."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a curved yellow bill, webbed feet and a white crown.",
+          "indo": "burung ini memiliki paruh melengkung berwarna kuning, kaki berselaput, dan mahkota berwarna putih."
+        },
+        {
+          "english": "a large and tall white bird with red legs and feet. a yellow beak and black eyes.",
+          "indo": "seekor burung putih besar dan tinggi dengan tungkai dan kaki berwarna merah. paruh kuning dan mata hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0043_795416.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a small sized bird that has a white belly and medium sized curved bill",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna putih dan paruh melengkung berukuran sedang"
+        },
+        {
+          "english": "a very small bird with a small pointed yellow beak, white covering the majority of its body except for the grey line on its cheek, and its grey wings.",
+          "indo": "seekor burung yang sangat kecil dengan paruh kecil berwarna kuning runcing, berwarna putih menutupi sebagian besar tubuhnya kecuali garis abu-abu di pipinya, dan sayapnya yang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and breast, large flat red feet, and gray wings.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, kaki besar berwarna merah rata, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird, which is primarily white, has grey wings, a black stripe on his cheek patch, a yellow bill, and is red on its tarsus and feet.",
+          "indo": "Burung ini, yang sebagian besar berwarna putih, memiliki sayap abu-abu, garis hitam di pipinya, paruh kuning, dan tarsus dan kakinya berwarna merah."
+        },
+        {
+          "english": "this is a small, white bird with a yellow bill and orange feet.",
+          "indo": "ini adalah burung kecil berwarna putih dengan paruh kuning dan kaki oranye."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are white and has a gray belly",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan perutnya berwarna abu-abu"
+        },
+        {
+          "english": "this bird has bright orange tarsus and feet, a yellow beak, and is snowy white from the crown to the belly, with gray at the nape and across the wings.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna jingga cerah, paruh berwarna kuning, dan berwarna putih salju dari ubun-ubun hingga perut, dengan warna abu-abu di bagian tengkuk dan melintang sayap."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow and curved beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning dan melengkung."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0044_795388.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird has a white belly, breast, and head, with a beak that is curved down at the end; it has grey wings and tail with red feet.",
+          "indo": "burung ini memiliki perut, dada, dan kepala berwarna putih, dengan paruh melengkung ke bawah di ujungnya; ia memiliki sayap abu-abu dan ekor dengan kaki merah."
+        },
+        {
+          "english": "a red footed bird, with a long and yellow beak that points downwards, the head and chest are white, and the wings and tail are bluish black.",
+          "indo": "burung berkaki merah, paruh panjang berwarna kuning mengarah ke bawah, kepala dan dada berwarna putih, serta sayap dan ekor berwarna hitam kebiruan."
+        },
+        {
+          "english": "this is a white bird with a grey wing and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan kaki oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast with a gray wing, and large webbed orange feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna abu-abu, serta kaki besar berselaput berwarna oranye."
+        },
+        {
+          "english": "this white headed, white naped, white belly bird has grey wings and bright red orange feet and legs.",
+          "indo": "burung berkepala putih, tengkuk putih, perut putih ini memiliki sayap abu-abu dan kaki serta tungkai berwarna oranye merah cerah."
+        },
+        {
+          "english": "this bird contains a pure white head, nape, and throat, grey coverts, white and grey secondaries and bright red feet.",
+          "indo": "burung ini memiliki kepala, tengkuk, dan tenggorokan berwarna putih bersih, bulu berwarna abu-abu, bulu sekunder berwarna putih dan abu-abu, serta kaki berwarna merah cerah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a white head, with a yellow pointed bill.",
+          "indo": "burung ini berkepala putih, dengan paruh runcing berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0045_795426.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "solid white bird with deep grey wings and bright orange feet.",
+          "indo": "burung putih solid dengan sayap abu-abu tua dan kaki oranye terang."
+        },
+        {
+          "english": "a lovely bird of snow white and gray with a yellow beak.",
+          "indo": "seekor burung cantik berwarna putih salju dan abu-abu dengan paruh kuning."
+        },
+        {
+          "english": "a bird sitting on a rock has a white body with grey wings, black tail feathers, a yellow beak, and red legs and feet.",
+          "indo": "seekor burung yang duduk di atas batu mempunyai tubuh berwarna putih dengan sayap berwarna abu-abu, bulu ekor berwarna hitam, paruh berwarna kuning, serta tungkai dan kaki berwarna merah."
+        },
+        {
+          "english": "this white and gray bird has an orange beak and vibrant red webbed feet.",
+          "indo": "burung berwarna putih dan abu-abu ini memiliki paruh berwarna oranye dan kaki berselaput berwarna merah cerah."
+        },
+        {
+          "english": "this bird has a white crown, a bright orange foot, and a small yellow bill",
+          "indo": "burung ini memiliki mahkota berwarna putih, kaki berwarna jingga cerah, dan paruh kecil berwarna kuning"
+        },
+        {
+          "english": "a white and gray bird with a yellow beak and orange feet.",
+          "indo": "burung berwarna putih abu-abu dengan paruh kuning dan kaki oranye."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird is medium sized with grey wings, a white head and belly and neck, and orange legs and feet.",
+          "indo": "burung ini berukuran sedang dengan sayap berwarna abu-abu, kepala dan perut serta leher berwarna putih, serta tungkai dan kaki berwarna oranye."
+        },
+        {
+          "english": "a white bird with grey wings and dark orange tarsus and feet.",
+          "indo": "seekor burung putih dengan sayap abu-abu dan tarsus serta kaki oranye tua."
+        },
+        {
+          "english": "a white bird with grey wings and bright orange feet.",
+          "indo": "seekor burung putih dengan sayap abu-abu dan kaki oranye terang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0047_795445.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a medium-sized bird with a white head, breast and belly, and a grey back and wings, with a small, yellow downward-curved bill.",
+          "indo": "burung berukuran sedang dengan kepala, dada dan perut berwarna putih, serta punggung dan sayap berwarna abu-abu, dengan paruh kecil berwarna kuning melengkung ke bawah."
+        },
+        {
+          "english": "a large bird with with white crown and breast and side with webbed feet and large bill",
+          "indo": "seekor burung besar dengan mahkota dan dada berwarna putih serta bagian samping dengan kaki berselaput dan paruh besar"
+        },
+        {
+          "english": "a medium sized bird with a smooth white head and body, gray wings and black tail feathers.",
+          "indo": "burung berukuran sedang dengan kepala dan badan berwarna putih mulus, sayap berwarna abu-abu, dan bulu ekor berwarna hitam."
+        },
+        {
+          "english": "a bird that has a white chest, and grey wings.",
+          "indo": "seekor burung yang memiliki dada berwarna putih, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a medium size bird with a small head with light gray wingbars and a white flank,belly, and breast",
+          "indo": "burung berukuran sedang dengan kepala kecil dengan garis sayap berwarna abu-abu muda dan sayap, perut, dan dada berwarna putih"
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and black in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "a small bird, mostly white, with grey wings, and a sharp curved bill.",
+          "indo": "seekor burung kecil, sebagian besar berwarna putih, dengan sayap abu-abu, dan paruh melengkung tajam."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black secondaries",
+          "indo": "burung ini memiliki perut yang berwarna putih dengan tanda bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this white bird has gray wings and a yellow beak that curves downwards at the tip.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu dan paruh berwarna kuning yang ujungnya melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0048_73770.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird is almost entirely light gray, with darker primaries and secondaries.",
+          "indo": "burung ini hampir seluruhnya berwarna abu-abu terang, dengan warna bulu primer dan bulu sekunder yang lebih gelap."
+        },
+        {
+          "english": "the bird has a white nape, back and belly, while it's coverts and wings are covered in grey color.",
+          "indo": "Burung ini memiliki tengkuk, punggung, dan perut berwarna putih, sedangkan bulu dan sayapnya ditutupi warna abu-abu."
+        },
+        {
+          "english": "a alrge white bird with grey on its back.",
+          "indo": "seekor burung putih besar dengan abu-abu di punggungnya."
+        },
+        {
+          "english": "this white bird has gray wings and a short pointy beak.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu dan paruh pendek yang runcing."
+        },
+        {
+          "english": "the bird has a black eyering and a long yellow bill that is curved.",
+          "indo": "burung ini memiliki cincin mata berwarna hitam dan paruh panjang berwarna kuning yang melengkung."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "from head to rectrices are white, while the wingbars are gray with touch or black and white on them.",
+          "indo": "dari kepala hingga rectrices berwarna putih, sedangkan garis sayap berwarna abu-abu dengan sentuhan atau hitam putih."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0049_795440.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird is all white except for the wings which are gray. it has orange webbed feet.",
+          "indo": "burung ini semuanya berwarna putih kecuali sayapnya yang berwarna abu-abu. ia memiliki kaki berselaput oranye."
+        },
+        {
+          "english": "this white bird has a short, curved bill, grey wings and orange webbed feet.",
+          "indo": "burung berwarna putih ini memiliki paruh pendek melengkung, sayap abu-abu, dan kaki berselaput oranye."
+        },
+        {
+          "english": "a small white bird with red feet and gray wings.",
+          "indo": "seekor burung putih kecil dengan kaki merah dan sayap abu-abu."
+        },
+        {
+          "english": "this small bird has a white body with gray wings and short, red legs.",
+          "indo": "burung kecil ini memiliki tubuh berwarna putih dengan sayap berwarna abu-abu dan kaki pendek berwarna merah."
+        },
+        {
+          "english": "the bird has a bright orange feet and tarsus with its coverts in grey and the rest of its body in white.",
+          "indo": "burung ini memiliki kaki dan tarsus berwarna oranye terang dengan bulu berwarna abu-abu dan seluruh tubuhnya berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey with a white bell and orange feet",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan lonceng berwarna putih dan kaki berwarna oranye"
+        },
+        {
+          "english": "this small bird has a white face and belly with gray wings and orange feet, and a small beak.",
+          "indo": "burung kecil ini mempunyai muka dan perut berwarna putih dengan sayap berwarna abu-abu dan kaki berwarna jingga, serta paruh yang kecil."
+        },
+        {
+          "english": "the feet of the bird erred, this is rare. as well as the beautiful belly which is white and round.",
+          "indo": "kaki burung itu salah, hal ini jarang terjadi. serta perutnya yang indah berwarna putih dan bulat."
+        },
+        {
+          "english": "the bird is large with a pointed curved bill, grey wings and white body with orange webbed feet.",
+          "indo": "burung ini berukuran besar dengan paruh runcing melengkung, sayap berwarna abu-abu, dan badan berwarna putih dengan kaki berselaput berwarna jingga."
+        },
+        {
+          "english": "this bird's body is primarily white with gray wings and a short beak.",
+          "indo": "tubuh burung ini terutama berwarna putih dengan sayap abu-abu dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0050_795397.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird is nearly all white, with the wings being light gray, and a small yellow bill.",
+          "indo": "burung ini hampir seluruhnya berwarna putih, dengan sayap berwarna abu-abu muda, dan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "this bird has a white belly and breast with a short yellow bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh pendek berwarna kuning."
+        },
+        {
+          "english": "a pure white bird with grey wing tips and a pointed head.",
+          "indo": "seekor burung berwarna putih bersih dengan ujung sayap berwarna abu-abu dan kepala runcing."
+        },
+        {
+          "english": "the bird has a white crown and a yellow bill that is curved.",
+          "indo": "burung ini memiliki mahkota berwarna putih dan paruh berwarna kuning yang melengkung."
+        },
+        {
+          "english": "this is a white bird with grey wings and a small yellow bill.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "a white bird with a short yellow pointed beak with black tipped wings.",
+          "indo": "seekor burung berwarna putih dengan paruh pendek runcing berwarna kuning dengan sayap berujung hitam."
+        },
+        {
+          "english": "a medium sized bird with large wingspan, and white feathers.",
+          "indo": "burung berukuran sedang dengan rentang sayap besar, dan bulu berwarna putih."
+        },
+        {
+          "english": "this bird is mostly white with a yellow bill, dark gray primaries and gray secondaries.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh kuning, bulu primer abu-abu tua, dan bulu sekunder abu-abu."
+        },
+        {
+          "english": "this bird has a white crown as well as a white belly and yellow bill",
+          "indo": "burung ini memiliki mahkota berwarna putih, perut berwarna putih, dan paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has a white crown, breast, belly, and tail and wings that are light grey with black tips.",
+          "indo": "burung ini memiliki mahkota, dada, perut, dan ekor berwarna putih serta sayap berwarna abu-abu muda dengan ujung berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0051_795404.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird has a larger white breast, gray wings, and a small yellow bill not proportionate to its body.",
+          "indo": "burung ini memiliki dada berwarna putih yang lebih besar, sayap berwarna abu-abu, dan paruh kecil berwarna kuning yang tidak proporsional dengan tubuhnya."
+        },
+        {
+          "english": "an eyecatching bird that is white with gray wings and a downward curved yellow bill.",
+          "indo": "burung menarik perhatian berwarna putih dengan sayap abu-abu dan paruh kuning melengkung ke bawah."
+        },
+        {
+          "english": "this little bird has a white belly and breast, gray wings and black tail.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, sayap abu-abu dan ekor hitam."
+        },
+        {
+          "english": "white bird with grey wings and a short yellow bill.",
+          "indo": "burung putih dengan sayap abu-abu dan paruh kuning pendek."
+        },
+        {
+          "english": "this bird has a yellow bill and bright orange feet, black eyes, and a white head, throat and belly, with gray wings and black rectrices.",
+          "indo": "burung ini mempunyai paruh berwarna kuning dan kaki berwarna jingga cerah, mata berwarna hitam, serta kepala, tenggorokan dan perut berwarna putih, dengan sayap berwarna abu-abu dan rectrices  berwarna hitam."
+        },
+        {
+          "english": "white and gray bird with a short yellow beak and orange legs.",
+          "indo": "burung berwarna putih abu-abu dengan paruh pendek berwarna kuning dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this fat looking bird has snow white feathers next to gray wings, a breast that juts out from directly under its wide, curved yellow beak, and very orange feet.",
+          "indo": "burung yang tampak gemuk ini memiliki bulu seputih salju di samping sayap abu-abu, dada yang menonjol langsung dari bawah paruhnya yang lebar dan berwarna kuning melengkung, serta kaki yang sangat oranye."
+        },
+        {
+          "english": "this bird has a white crown and a white throat and belly with a yellow beak and grey wings.",
+          "indo": "burung ini mempunyai mahkota berwarna putih, tenggorokan serta perut berwarna putih dengan paruh berwarna kuning dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a white belly and head with a vibrant yellow beak and gray wings.",
+          "indo": "burung ini memiliki perut dan kepala berwarna putih dengan paruh kuning cerah dan sayap abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0054_795396.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird is white with grey wings and orange webbed feet and tarsus.",
+          "indo": "burung itu berwarna putih dengan sayap abu-abu dan kaki serta tarsus berselaput oranye."
+        },
+        {
+          "english": "this is a white bird with grey wings and red feet.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kaki merah."
+        },
+        {
+          "english": "medium sized bird with bright red webbed feet, gray wings and back, white head, breast, and belly.",
+          "indo": "burung berukuran sedang dengan kaki berselaput merah cerah, sayap dan punggung abu-abu, kepala, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has reddish-orange webbed, feet grey wings and a white head.",
+          "indo": "Burung ini mempunyai selaput berwarna jingga kemerahan, kaki, sayap berwarna abu-abu, dan kepala berwarna putih."
+        },
+        {
+          "english": "this is a white bird with a yellow bill and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan paruh kuning dan kaki oranye."
+        },
+        {
+          "english": "a gray and white bird with orange webbed feet and a short pointed beak.",
+          "indo": "seekor burung berwarna abu-abu dan putih dengan kaki berselaput oranye dan paruh runcing pendek."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "a bird with bright orange tarsus and feet, it's body is white with grey wings and its outer rectrices are black.",
+          "indo": "burung dengan tarsus dan kaki berwarna jingga cerah, badannya berwarna putih dengan sayap berwarna abu-abu dan bagian luarnya berwarna hitam."
+        },
+        {
+          "english": "a small white bird, with grey wings, webbed feet, and a short yellow bill.",
+          "indo": "seekor burung kecil berwarna putih, dengan sayap abu-abu, kaki berselaput, dan paruh pendek berwarna kuning."
+        },
+        {
+          "english": "white head grey wings, red webbed feet, and short blunt yellow beak. and black at the end of tail feathers.",
+          "indo": "kepala berwarna putih sayap abu-abu, kaki berselaput merah, dan paruh pendek berwarna kuning tumpul. dan hitam di ujung bulu ekor."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0058_795417.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this small white bird has a yellow beak, grey back, and orange legs.",
+          "indo": "burung kecil berwarna putih ini memiliki paruh berwarna kuning, punggung berwarna abu-abu, dan kaki berwarna oranye."
+        },
+        {
+          "english": "a small and plump bird with a white body, and gray wings.",
+          "indo": "seekor burung kecil dan gempal dengan tubuh putih, dan sayap abu-abu."
+        },
+        {
+          "english": "this medium sized pudgy white bird has grey secondaries as well as on its tail and orange legs.",
+          "indo": "burung putih gemuk berukuran sedang ini memiliki bulu sekunder berwarna abu-abu serta pada ekor dan kakinya yang berwarna oranye."
+        },
+        {
+          "english": "a small fat bird with a white body, yellow beak, gray feathers and orange tarsus and feet.",
+          "indo": "burung kecil gemuk dengan tubuh putih, paruh kuning, bulu abu-abu, serta tarsus dan kaki oranye."
+        },
+        {
+          "english": "this short legged bird has a white body with gray wings and a yellow beak.",
+          "indo": "burung berkaki pendek ini memiliki tubuh berwarna putih dengan sayap berwarna abu-abu dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a white crown and belly along with a yellow bill.",
+          "indo": "burung ini memiliki mahkota dan perut berwarna putih serta paruh berwarna kuning."
+        },
+        {
+          "english": "small white bird with gray wings, feet and legs are orange, has a yellow medium size hooked beak and black eyes.",
+          "indo": "burung kecil berwarna putih dengan sayap berwarna abu-abu, kaki dan tungkai berwarna jingga, mempunyai paruh bengkok berukuran sedang berwarna kuning dan bermata hitam."
+        },
+        {
+          "english": "this bird is white and gray in color, with a curved yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird has a white breast and a bright orange tarsus",
+          "indo": "burung ini memiliki dada berwarna putih dan tarsus berwarna oranye terang"
+        },
+        {
+          "english": "this small white bird has gray wings, orange tarsus and feet, and a short pointed bill curved downwards.",
+          "indo": "burung kecil berwarna putih ini memiliki sayap berwarna abu-abu, tarsus dan kaki berwarna oranye, serta paruh runcing pendek melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0059_795424.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a large bird with white, gray, and black colored body.",
+          "indo": "seekor burung besar dengan tubuh berwarna putih, abu-abu, dan hitam."
+        },
+        {
+          "english": "a bird with a white body and grey wings tipped with black feathers and a yellow beak.",
+          "indo": "burung berbadan putih dan sayap abu-abu dengan ujung bulu hitam dan paruh kuning."
+        },
+        {
+          "english": "a medium bird with a white belly, neck, and face, and large gray wings.",
+          "indo": "burung berukuran sedang dengan perut, leher, dan wajah berwarna putih, serta sayap abu-abu besar."
+        },
+        {
+          "english": "this bird had a gray body, black wing tips, a white head and yellow bill.",
+          "indo": "burung ini berbadan abu-abu, ujung sayap berwarna hitam, kepala berwarna putih, dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a white crown, a yellow bill, and a grey wing",
+          "indo": "burung ini memiliki mahkota berwarna putih, paruh berwarna kuning, dan sayap berwarna abu-abu"
+        },
+        {
+          "english": "this particular bird has a gray body with a white head and rump",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan kepala dan pantat berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna kuning"
+        },
+        {
+          "english": "this bird is white with gray wings, black wing-tips and a bright yellow beak.",
+          "indo": "burung ini berwarna putih dengan sayap berwarna abu-abu, ujung sayap berwarna hitam dan paruh berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna kuning"
+        },
+        {
+          "english": "a bird with yellow bill a white crown and nape",
+          "indo": "burung dengan paruh kuning, mahkota dan tengkuk berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0060_795414.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "with a slightly curved yellow beak, red webbed feet, a white head and breast, and it's black wings, this bird is beautiful to look at.",
+          "indo": "Dengan paruh berwarna kuning agak melengkung, kaki berselaput merah, kepala dan dada berwarna putih, serta sayapnya berwarna hitam, burung ini indah dipandang."
+        },
+        {
+          "english": "a small bird with a white head, black coverts, and white tarsus, this bird additionally has orange legs and feet.",
+          "indo": "burung berukuran kecil dengan kepala berwarna putih, bulu hitam, dan tarsus berwarna putih, burung ini juga memiliki tungkai dan kaki berwarna jingga."
+        },
+        {
+          "english": "a small white bird with black wings and tail, yellow beak and orange legs with webbed toes.",
+          "indo": "seekor burung putih kecil dengan sayap dan ekor hitam, paruh kuning dan kaki oranye dengan jari berselaput."
+        },
+        {
+          "english": "this is a small bird with an all-white body, a short, rounded beak that curves downward, gray and white-trimmed feathers, black rectrices and orange, webbed feet.",
+          "indo": "ini adalah burung kecil dengan tubuh serba putih, paruh pendek bulat yang melengkung ke bawah, bulu bergaris abu-abu dan putih, rectrices  hitam dan kaki berselaput oranye."
+        },
+        {
+          "english": "this bird has a rounded white breast and crown, short yellow bill and webbed orange feet.",
+          "indo": "burung ini memiliki dada dan mahkota bulat berwarna putih, paruh pendek berwarna kuning, dan kaki berselaput berwarna oranye."
+        },
+        {
+          "english": "this bird has a rounded body with white head, breast and belly, beak is short and slightly down turned, orange tarsus and webbed feet.",
+          "indo": "burung ini mempunyai badan bulat dengan kepala, dada dan perut berwarna putih, paruh pendek dan agak ke bawah, tarsus berwarna jingga dan kaki berselaput."
+        },
+        {
+          "english": "the bird is white and black and has large orange feet.",
+          "indo": "burung itu berwarna putih dan hitam serta memiliki kaki besar berwarna oranye."
+        },
+        {
+          "english": "a bird with a white head, black wings and reddish-orange tarsus and feet.",
+          "indo": "burung berkepala putih, bersayap hitam, serta tarsus dan kaki berwarna jingga kemerahan."
+        },
+        {
+          "english": "this small bird has orange webbed feet, a yellow bill and a bright white crown and belly.",
+          "indo": "burung kecil ini memiliki kaki berselaput berwarna oranye, paruh berwarna kuning, serta mahkota dan perut berwarna putih cerah."
+        },
+        {
+          "english": "this bird has wings that are black and has orange feet",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai kaki berwarna orange"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0061_795420.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has a round head with short bill, and is all white with grey wings.",
+          "indo": "Burung ini memiliki kepala bulat dengan paruh pendek, dan seluruhnya berwarna putih dengan sayap abu-abu."
+        },
+        {
+          "english": "this bird has a curved yellow bill, a white eyering, and orange tarsus and feet.",
+          "indo": "burung ini memiliki paruh melengkung berwarna kuning, cincin mata berwarna putih, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "medium sized bird, primarily white, white head, breast, and belly; grey wings.",
+          "indo": "burung berukuran sedang, terutama berwarna putih, kepala, dada, dan perut berwarna putih; sayap abu-abu."
+        },
+        {
+          "english": "this bird is white except its grey wings and short orange legs.",
+          "indo": "burung ini berwarna putih kecuali sayapnya yang berwarna abu-abu dan kakinya yang pendek berwarna oranye."
+        },
+        {
+          "english": "this bird has short and orange tarsus, it is a bright white except for its secondaries which are grey and black and it has a short yellow bill that is slightly down turned.",
+          "indo": "Burung ini mempunyai tarsus pendek berwarna jingga, berwarna putih cerah kecuali bulu sekunder berwarna abu-abu dan hitam serta paruh pendek berwarna kuning agak mengarah ke bawah."
+        },
+        {
+          "english": "this white and gray bird has a shorter, downward curved bill and orange feet.",
+          "indo": "burung berwarna putih dan abu-abu ini memiliki paruh yang lebih pendek dan melengkung ke bawah serta kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this small mostly white bird has a short yellow bill with a slight curve and gray wings.",
+          "indo": "burung kecil yang sebagian besar berwarna putih ini memiliki paruh pendek berwarna kuning dengan sedikit melengkung dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white with yellow bill and grey wings.",
+          "indo": "burung ini berwarna putih dengan paruh kuning dan sayap abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0062_795434.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird is nearly all white with black tips on its secondaries and orange feet.",
+          "indo": "burung ini hampir seluruhnya berwarna putih dengan ujung hitam di bagian bulu sekundernya dan kaki berwarna oranye."
+        },
+        {
+          "english": "a medium sized flying bird with long black and grey curved wing feathers, an all white body, and a short curved beak.",
+          "indo": "burung terbang berukuran sedang dengan bulu sayap panjang melengkung berwarna hitam abu-abu, badan serba putih, dan paruh pendek melengkung."
+        },
+        {
+          "english": "this large white bird has a curved yellow beak, orange feet and black tipped wing feathers.",
+          "indo": "burung besar berwarna putih ini memiliki paruh melengkung berwarna kuning, kaki berwarna oranye, dan bulu sayap berujung hitam."
+        },
+        {
+          "english": "this is a white bird with grey wings, orange feet and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, kaki oranye dan paruh kuning."
+        },
+        {
+          "english": "a medium white bird with a short yellow bill and orange feet.",
+          "indo": "burung berukuran sedang berwarna putih dengan paruh pendek berwarna kuning dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a yellow, curved beak, bright red feet and tarsus, white body and tail, with grey and white wings.",
+          "indo": "burung ini memiliki paruh berwarna kuning melengkung, kaki dan tarsus berwarna merah cerah, badan dan ekor berwarna putih, dengan sayap berwarna abu-abu dan putih."
+        },
+        {
+          "english": "this white bird has grey and black on its wings, a yellow beak and orange feet.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu dan hitam, paruh berwarna kuning, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are white and grey and has red feet",
+          "indo": "burung ini mempunyai sayap berwarna putih abu-abu dan mempunyai kaki berwarna merah"
+        },
+        {
+          "english": "this bird has a yellow pointed bill, with dark orange feet.",
+          "indo": "burung ini memiliki paruh runcing berwarna kuning, dengan kaki berwarna oranye tua."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0063_795453.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this adorable bird has a white body with grey wings, orange feet and a yellow beak.",
+          "indo": "burung menggemaskan ini memiliki tubuh berwarna putih dengan sayap abu-abu, kaki berwarna oranye, dan paruh berwarna kuning."
+        },
+        {
+          "english": "a white bird with large wings that are grey on top.",
+          "indo": "seekor burung berwarna putih dengan sayap besar berwarna abu-abu di atasnya."
+        },
+        {
+          "english": "this bird has a white head, neck, breast, belly and vent, with grey covering the rest of its body.",
+          "indo": "burung ini memiliki kepala, leher, dada, perut dan lubang kloaka berwarna putih, dengan warna abu-abu menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "bird with white crown, nape, belly and abdomen, gray wings and back and orange tarsus and feet",
+          "indo": "burung dengan mahkota putih, tengkuk, perut dan perut, sayap dan punggung berwarna abu-abu, serta tarsus dan kaki berwarna oranye"
+        },
+        {
+          "english": "this large white bird has a grey wing and large webbed orange feet.",
+          "indo": "burung putih besar ini memiliki sayap abu-abu dan kaki besar berselaput berwarna oranye."
+        },
+        {
+          "english": "this bird has gray wings, the rest of it's body is white, it also has orange, webbed feet.",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu, selebihnya berwarna putih, kakinya juga berselaput berwarna jingga."
+        },
+        {
+          "english": "this particular bird has a white belly and orange legs and gray secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan kaki berwarna oranye serta bulu sekunder berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large white bird, with a grey wingspan, and webbed feet.",
+          "indo": "seekor burung putih besar, dengan rentang sayap abu-abu, dan kaki berselaput."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0064_795422.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "gorgeous white bird soars through the air with its grey wings outstretched and orange beak leading the way.",
+          "indo": "burung putih cantik terbang di udara dengan sayap abu-abu terentang dan paruh oranye memimpin di depan."
+        },
+        {
+          "english": "all white bird with gray wingbars and black primaries, a white tail and red undertail coverts.",
+          "indo": "semua burung berwarna putih dengan garis sayap abu-abu dan warna bulu primer hitam, ekor putih dan bulu penutup bawah berwarna merah."
+        },
+        {
+          "english": "this birds body is mainly white with, black eyes, a yellow bill and gray wingbars",
+          "indo": "Tubuh burung ini sebagian besar berwarna putih dengan mata hitam, paruh kuning, dan garis sayap abu-abu"
+        },
+        {
+          "english": "this is a white bird with a yellow bill and grey wingbars.",
+          "indo": "ini adalah burung berwarna putih dengan paruh kuning dan sayap abu-abu."
+        },
+        {
+          "english": "a medium-sized, smooth bird with a white body, gray wings, and a short, yellow bill.",
+          "indo": "burung halus berukuran sedang dengan tubuh putih, sayap abu-abu, dan paruh pendek berwarna kuning."
+        },
+        {
+          "english": "this is a bird with a white body and black wingtips and a short curved beak.",
+          "indo": "ini adalah burung dengan tubuh putih dan ujung sayap hitam serta paruh pendek melengkung."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a white body, yellow bill, and big gray wings with black tips.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna putih, paruh berwarna kuning, dan sayap besar berwarna abu-abu dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this white bird has a yellow beak, grey wings tipped in black and orange feet.",
+          "indo": "burung berwarna putih ini memiliki paruh berwarna kuning, sayap berwarna abu-abu berujung hitam, dan kaki berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0065_795456.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "a small bird with a white head and black wings with orange feet",
+          "indo": "seekor burung kecil dengan kepala putih dan sayap hitam dengan kaki oranye"
+        },
+        {
+          "english": "a medium sized bird with a white crown, and grey wings, and orange feet",
+          "indo": "burung berukuran sedang dengan mahkota putih, sayap abu-abu, dan kaki oranye"
+        },
+        {
+          "english": "this bird is white with black on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan sayapnya berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "bird with small downward rounded bill white body and black wings.",
+          "indo": "burung dengan paruh kecil membulat ke bawah, badan berwarna putih dan sayap hitam."
+        },
+        {
+          "english": "this bird has a white head, black wings and red legs.",
+          "indo": "burung ini memiliki kepala berwarna putih, sayap hitam, dan kaki berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are white with a black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan perut berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this white bird has black wings, orange tarsus and feet, and a yellow bill.",
+          "indo": "burung berwarna putih ini mempunyai sayap berwarna hitam, tarsus dan kaki berwarna jingga, serta paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a pointed yellow bill, with white breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna kuning, dengan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0066_795419.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this medium sized bird resembles an albatross, standing with orange pads, all gray wings and a snowy white head.",
+          "indo": "Burung berukuran sedang ini menyerupai elang laut, berdiri dengan bantalan berwarna oranye, sayap berwarna abu-abu, dan kepala berwarna putih salju."
+        },
+        {
+          "english": "this bird has an all white body, gray wing, and bright orange feet.",
+          "indo": "burung ini memiliki tubuh serba putih, sayap abu-abu, dan kaki berwarna oranye terang."
+        },
+        {
+          "english": "the bird has a large bill that is yellow and some red feet.",
+          "indo": "burung tersebut memiliki paruh besar berwarna kuning dan sebagian kakinya berwarna merah."
+        },
+        {
+          "english": "a medium sized white bird, with agrey wings, and a big yellow bill.",
+          "indo": "burung putih berukuran sedang, sayap berwarna abu-abu, dan paruh besar berwarna kuning."
+        },
+        {
+          "english": "this rather plain bird has a white body, bright orange legs, a yellow bill, and gray wings.",
+          "indo": "burung yang agak polos ini memiliki tubuh berwarna putih, kaki berwarna oranye terang, paruh berwarna kuning, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "the is colorful bird has a yellow beak with orange feet",
+          "indo": "Burung berwarna-warni ini memiliki paruh berwarna kuning dengan kaki berwarna jingga"
+        },
+        {
+          "english": "this white bird has grey wings, a black tail, pink feet, black eyes, and a slightly hooked cream-colored beak.",
+          "indo": "burung berwarna putih ini memiliki sayap berwarna abu-abu, ekor berwarna hitam, kaki berwarna merah muda, mata berwarna hitam, dan paruh berwarna krem ​​​​agak bengkok."
+        },
+        {
+          "english": "this bird has bright white head and breast with a yellow beak and red tarsus and feet.",
+          "indo": "burung ini memiliki kepala dan dada berwarna putih cerah dengan paruh berwarna kuning serta tarsus dan kaki berwarna merah."
+        },
+        {
+          "english": "the bird has a white crown, yellow bill that is curved and webbed feet.",
+          "indo": "burung ini memiliki mahkota berwarna putih, paruh berwarna kuning yang melengkung dan kaki berselaput."
+        },
+        {
+          "english": "this is a white bird with gray wings, a gray and black tail, orange feet, and a yellow curved bill.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, ekor abu-abu dan hitam, kaki oranye, dan paruh melengkung kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0067_795401.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "the bird has a white head and grey body with orange webbed feet.",
+          "indo": "burung ini memiliki kepala berwarna putih dan tubuh berwarna abu-abu dengan kaki berselaput berwarna oranye."
+        },
+        {
+          "english": "this bird has a white head, belly and breast, grey coverts and secondaries, and grey, black and white rectrices",
+          "indo": "burung ini memiliki kepala, perut dan dada berwarna putih, bulu dan bulu sekunder berwarna abu-abu, serta rectrices  berwarna abu-abu, hitam dan putih."
+        },
+        {
+          "english": "the bird has a yellow bill that is curved and long.",
+          "indo": "burung ini memiliki paruh berwarna kuning yang melengkung dan panjang."
+        },
+        {
+          "english": "this bird has a white head breast and belly, gray back and wings, a yellow bill, and bright red feet.",
+          "indo": "burung ini memiliki kepala, dada dan perut berwarna putih, punggung dan sayap berwarna abu-abu, paruh berwarna kuning, dan kaki berwarna merah cerah."
+        },
+        {
+          "english": "a white bird with a gray back and wing feathers and reddish orange tarsus and feet.",
+          "indo": "burung berwarna putih dengan bulu punggung dan sayap berwarna abu-abu serta tarsus dan kaki berwarna jingga kemerahan."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has gray wings, a white crown, and bright orange feet.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu, mahkota berwarna putih, dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "a gray bird with red feet and white head.",
+          "indo": "seekor burung abu-abu dengan kaki merah dan kepala putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray secondaries",
+          "indo": "burung ini memiliki perut yang berwarna putih dengan warna abu-abu"
+        },
+        {
+          "english": "this web-footed bird's head, neck and belly are white shaded with grey, and its wings are grey.",
+          "indo": "Kepala, leher, dan perut burung berkaki berselaput ini berwarna putih dengan warna abu-abu, dan sayapnya berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0068_795430.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this white and grey bird has a yellow bill,black outer rectrices and amazing colorful red feet.",
+          "indo": "burung berwarna putih dan abu-abu ini memiliki paruh kuning, outer rectrices berwarna hitam, dan kaki merah berwarna-warni yang menakjubkan."
+        },
+        {
+          "english": "this little bird has a white belly and breast, bright orange feel, and gray wings.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, warna jingga cerah, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white crown, a yellow bill, and bright orange webbed feet",
+          "indo": "burung ini mempunyai mahkota berwarna putih, paruh berwarna kuning, dan kaki berselaput berwarna jingga cerah"
+        },
+        {
+          "english": "this bird has a white belly and breast with a gray wing, bright orange feet, and long hooked bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna abu-abu, kaki berwarna jingga cerah, dan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this large white bird has a short, pale pointed beak and white head and body, with grey wings and bright orange legs and feet.",
+          "indo": "burung besar berwarna putih ini memiliki paruh pendek runcing pucat serta kepala dan badan berwarna putih, sayap berwarna abu-abu serta tungkai dan kaki berwarna jingga cerah."
+        },
+        {
+          "english": "this is a medium sized bird, with a yellow belly and head, grey wings, and webbed feet.",
+          "indo": "ini adalah burung berukuran sedang, dengan perut dan kepala berwarna kuning, sayap abu-abu, dan kaki berselaput."
+        },
+        {
+          "english": "this bird has wings that are grey and has red feet",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan kaki berwarna merah"
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this medium sized bird is white with grey wings and orange webbed feet.",
+          "indo": "burung berukuran sedang ini berwarna putih dengan sayap abu-abu dan kaki berselaput oranye."
+        },
+        {
+          "english": "this bird has wings that are grey and has red feet",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan kaki berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0069_795435.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "white and gray feathered bird with large mouth and downward curved beak.",
+          "indo": "burung berbulu putih abu-abu dengan mulut besar dan paruh melengkung ke bawah."
+        },
+        {
+          "english": "this is a white bird with large feathers and a large beak.",
+          "indo": "ini adalah burung berwarna putih dengan bulu besar dan paruh besar."
+        },
+        {
+          "english": "this bird has a white belly and breast, with gray wings and orange feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan sayap berwarna abu-abu dan kaki berwarna oranye."
+        },
+        {
+          "english": "this large bird has an orange bill,tarsus & feet, a white breast, belly, and throat and gray wings.",
+          "indo": "burung besar ini memiliki paruh, tarsus & kaki berwarna oranye, dada, perut, dan tenggorokan berwarna putih, serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly, breast, and crown with a gray wing and orange feet.",
+          "indo": "burung ini memiliki perut, dada, dan mahkota berwarna putih dengan sayap berwarna abu-abu dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is mainly white except for it s wings which are grey with black tips.",
+          "indo": "burung ini sebagian besar berwarna putih kecuali sayapnya yang berwarna abu-abu dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white and black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan hitam serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "a snow white body and breasted medium bird with light gray shades, dark gray shades, and black tips on the wings, along with a orange mouth and orange feet.",
+          "indo": "badannya seputih salju dan burung berukuran sedang berdada, dengan corak abu-abu muda, corak abu-abu tua, dan ujung sayap berwarna hitam, serta mulut jingga dan kaki jingga."
+        },
+        {
+          "english": "this large white bird has a smooth breast and wing feathers which are tipped with slate gray.",
+          "indo": "burung besar berwarna putih ini memiliki bulu dada dan sayap halus yang ujungnya berwarna abu-abu."
+        },
+        {
+          "english": "a very large white bird with a long curved wingspan with orange feet.",
+          "indo": "burung berwarna putih sangat besar dengan rentang sayap panjang melengkung dan kaki berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0071_73800.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "long bird with an orange beak and white feathers with grey colored wings.",
+          "indo": "burung panjang dengan paruh oranye dan bulu putih dengan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white crown, a dark orange bill, and large dark orange feet",
+          "indo": "burung ini mempunyai mahkota berwarna putih, paruh berwarna jingga tua, dan kaki besar berwarna jingga tua"
+        },
+        {
+          "english": "medium sized white bird with grey feathers and tail and an orange beak and feet.",
+          "indo": "burung putih berukuran sedang dengan bulu dan ekor berwarna abu-abu serta paruh dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a white eye, orangish-red bill and feet with it's gray feathers.",
+          "indo": "Burung ini mempunyai mata berwarna putih, paruh berwarna merah jingga, dan kaki dengan bulu berwarna abu-abu."
+        },
+        {
+          "english": "a tall bird with a dark orange beak, with a white belly and gray wings",
+          "indo": "burung tinggi dengan paruh jingga tua, perut putih, dan sayap abu-abu"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a white bird with gray wings, red webbed feet and a red beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, kaki berselaput merah dan paruh merah."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white head, breast and belly with gray wings, red feet and thighs, and a red beak.",
+          "indo": "burung ini memiliki kepala, dada dan perut berwarna putih dengan sayap berwarna abu-abu, kaki dan paha berwarna merah, serta paruh berwarna merah."
+        },
+        {
+          "english": "a white and gray smooth feathered bird with black tail feathers and bright orange legs and bill.",
+          "indo": "burung berbulu halus berwarna putih abu-abu dengan bulu ekor hitam serta kaki dan paruh berwarna jingga cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Legged_Kittiwake_0072_795438.jpg",
+      "class_id": 83,
+      "captions": [
+        {
+          "english": "this bird has a yellow beak, white breast, grey wings, and red feet.",
+          "indo": "burung ini memiliki paruh berwarna kuning, dada berwarna putih, sayap berwarna abu-abu, dan kaki berwarna merah."
+        },
+        {
+          "english": "this is a white bird with a grey wing and a yellow beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan paruh kuning."
+        },
+        {
+          "english": "this bird has white feathers with a grey wings and tail, and short feet and beak.",
+          "indo": "burung ini mempunyai bulu berwarna putih dengan sayap dan ekor berwarna abu-abu, serta kaki dan paruh yang pendek."
+        },
+        {
+          "english": "this bird has a white body, orange tarsus and feet, gray wing, and hooked bill.",
+          "indo": "burung ini mempunyai badan berwarna putih, tarsus dan kaki berwarna jingga, sayap berwarna abu-abu, serta paruh bengkok."
+        },
+        {
+          "english": "this bird is white with grey on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna abu-abu pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white head, nape neck, throat, belly, and vent, grey coverts and secondaries, and black inner and outer rectrices.",
+          "indo": "burung ini memiliki kepala berwarna putih, tengkuk, tenggorokan, perut, dan lubang kloaka, bulu dan bulu sekunder berwarna abu-abu, serta rectrices inner dan outer rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this mostly white bird has a short yellow bill, gray wings, and relatively short, orange feet.",
+          "indo": "burung yang sebagian besar berwarna putih ini memiliki paruh pendek berwarna kuning, sayap abu-abu, dan kaki oranye yang relatif pendek."
+        },
+        {
+          "english": "this bird is white and gray in color, with a yellow beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "a large white bird with gray wings, orange legs and feet, a short tail, a wide neck, a large head and downward pointed beak.",
+          "indo": "burung besar berwarna putih dengan sayap abu-abu, tungkai dan kaki berwarna oranye, ekor pendek, leher lebar, kepala besar dan paruh runcing ke bawah."
+        }
+      ]
+    }
+  ]
+}

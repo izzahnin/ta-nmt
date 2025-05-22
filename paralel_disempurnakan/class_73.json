@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Florida_Jay_0002_64476.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "bird tail is blue with a little black in it wings are blue head is blue with a little gray and beak is short and blck.",
+          "indo": "ekor burung berwarna biru dengan sedikit warna hitam pada sayapnya, kepala berwarna biru dengan sedikit abu-abu, dan paruhnya pendek berwarna hitam."
+        },
+        {
+          "english": "a small bird with a blue tail, and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan ekor biru, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this is a bird with a grey belly and a blue back and head.",
+          "indo": "ini adalah burung dengan perut abu-abu dan punggung serta kepala berwarna biru."
+        },
+        {
+          "english": "a medium sized colorful blue bird, with blue wing and tail feathers, a blue head, sharp beak, and white underbelly.",
+          "indo": "burung berwarna biru berukuran sedang, dengan bulu sayap dan ekor berwarna biru, kepala berwarna biru, paruh runcing, dan perut bagian bawah berwarna putih."
+        },
+        {
+          "english": "this bird is vivid blue and grey in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna biru cerah dan abu-abu dengan paruh hitam, dan cincin mata hitam."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a blue bird with light gray eyebrows, back, sides and belly.",
+          "indo": "ini adalah burung biru dengan alis, punggung, samping dan perut abu-abu muda."
+        },
+        {
+          "english": "this brightly colored bird has blue feathers with white sides and eyebrows.",
+          "indo": "burung berwarna cerah ini memiliki bulu berwarna biru dengan sisi dan alis berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a bird with a white breast and a blue crown and long blue tail feathers.",
+          "indo": "burung dengan dada berwarna putih dan mahkota berwarna biru serta bulu ekor panjang berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0003_65036.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a medium sized bird with a grey underbelly and blue feathers.",
+          "indo": "seekor burung berukuran sedang dengan perut berwarna abu-abu dan bulu berwarna biru."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast with blue wings containing black wing bars, and a blue and grey head.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih dengan sayap berwarna biru dengan garis sayap berwarna hitam, serta kepala berwarna biru dan abu-abu."
+        },
+        {
+          "english": "this is a bird with a tan belly, blue wings and a blue head.",
+          "indo": "ini adalah burung dengan perut berwarna coklat, sayap biru dan kepala biru."
+        },
+        {
+          "english": "this bird hasa gray belly and breast with a blue crown, wing, and tail.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota, sayap, dan ekor berwarna biru."
+        },
+        {
+          "english": "this majestic blue bird features white on its belly and a long, curved black beak.",
+          "indo": "burung biru yang agung ini memiliki ciri-ciri berwarna putih di perutnya dan paruh hitam yang panjang dan melengkung."
+        },
+        {
+          "english": "bird is blue with a long beak.",
+          "indo": "burung berwarna biru dengan paruh yang panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "a small purpose bird, with a light colored belly, and a pointy bill.",
+          "indo": "burung berukuran kecil, dengan perut berwarna terang, dan paruh runcing."
+        },
+        {
+          "english": "a tall bird with a white belly and a blue head.",
+          "indo": "seekor burung tinggi dengan perut putih dan kepala biru."
+        },
+        {
+          "english": "this majestic bird has a gray white belly with a soft blue color to its head, wings, and tail.",
+          "indo": "burung agung ini memiliki perut berwarna abu-abu putih dengan warna biru lembut pada kepala, sayap, dan ekornya."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0004_65042.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a narrow blue and grey bird with blue wings and a narrow tail.",
+          "indo": "burung sempit berwarna biru dan abu-abu dengan sayap biru dan ekor sempit."
+        },
+        {
+          "english": "a small bird with 0ff-white throat, breast and belly and beautifully blue colored wings, long tail and nape and back.",
+          "indo": "seekor burung kecil dengan tenggorokan, dada dan perut berwarna putih pucat dan sayap berwarna biru indah, ekor panjang dan tengkuk serta punggung."
+        },
+        {
+          "english": "this is a grey bird with blue wings and a blue head.",
+          "indo": "ini adalah burung abu-abu dengan sayap biru dan kepala biru."
+        },
+        {
+          "english": "this bird is blue and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna biru putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "white breast and belly, with blue wings, tail, nape, and blue/white head.",
+          "indo": "dada dan perut berwarna putih, dengan sayap, ekor, tengkuk, dan kepala berwarna biru/putih."
+        },
+        {
+          "english": "a blue bird with a white belly with long tail feathers and a pointed beak.",
+          "indo": "burung berwarna biru dengan perut berwarna putih dengan bulu ekor panjang dan paruh runcing."
+        },
+        {
+          "english": "this blue bird has a gray breast and belly and a long tail",
+          "indo": "burung berwarna biru ini memiliki dada dan perut berwarna abu-abu serta ekor yang panjang"
+        },
+        {
+          "english": "this bird has blue plumage, with a white breast and a long, black beak.",
+          "indo": "burung ini memiliki bulu berwarna biru, dengan dada berwarna putih dan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "a small bird with long blue tail feathers, chest is light gray, throat and head is a dark gray and blue.",
+          "indo": "burung kecil dengan bulu ekor panjang berwarna biru, dada berwarna abu-abu muda, tenggorokan dan kepala berwarna abu-abu tua dan biru."
+        },
+        {
+          "english": "this bird is white with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih biru dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0005_64940.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has gray crown, throat, belly and abdomen, blue nape and black rectrices, it has sharp and pointy beak.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, tenggorokan, perut dan perut, tengkuk biru dan rectrices  hitam, paruh runcing dan runcing."
+        },
+        {
+          "english": "this is a gray bird with a blue crown and blue wingbars",
+          "indo": "ini adalah burung abu-abu dengan mahkota biru dan sayap biru"
+        },
+        {
+          "english": "a small bird that is grayish brown with a striking blue color on the head, wing and breast area.",
+          "indo": "burung kecil berwarna coklat keabu-abuan dengan warna biru mencolok pada bagian kepala, sayap dan dada."
+        },
+        {
+          "english": "this small bird has a sharply, pointed beak, a blue head with identically colored wings, and a gray breast.",
+          "indo": "burung kecil ini memiliki paruh yang runcing dan runcing, kepala berwarna biru dengan sayap berwarna identik, dan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a short beak and blue and grey feathers",
+          "indo": "burung ini memiliki paruh pendek dan bulu berwarna biru dan abu-abu"
+        },
+        {
+          "english": "this particular bird has a gray belly and purple breast with a white throat",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan dada berwarna ungu dengan tenggorokan berwarna putih"
+        },
+        {
+          "english": "a medium sized bird with pointed bill, blue nape, blue coverts, black wingbars and gray belly.",
+          "indo": "burung berukuran sedang dengan paruh runcing, tengkuk biru, bulu biru, sayap hitam, dan perut abu-abu."
+        },
+        {
+          "english": "this bird has a brown bill and feet along with a blue crown and grey chest.",
+          "indo": "burung ini memiliki paruh dan kaki berwarna coklat serta mahkota berwarna biru dan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a pointy beak and is grey with a blue head, tail and wings.",
+          "indo": "burung ini mempunyai paruh yang runcing dan berwarna abu-abu dengan kepala, ekor dan sayap berwarna biru."
+        },
+        {
+          "english": "this bird has a blue head, gray body, long tail, short feet, and a pointy beak.",
+          "indo": "burung ini memiliki kepala berwarna biru, badan berwarna abu-abu, ekor panjang, kaki pendek, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0007_64708.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and a curved foot.",
+          "indo": "burung itu mempunyai cincin mata hitam dan kaki melengkung."
+        },
+        {
+          "english": "this bird is blue and gray and has white eyebrows and a small black beak.",
+          "indo": "burung ini berwarna biru abu-abu serta memiliki alis berwarna putih dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a blue crown and wing with a grey breast and belly.",
+          "indo": "burung ini memiliki mahkota dan sayap berwarna biru dengan dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a gray belly, a brown wing and head and a white eyebrow.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap dan kepala coklat serta alis putih."
+        },
+        {
+          "english": "the bird has a light gray and blue crown, short black bill, blue wings and black legs.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu muda dan biru, paruh pendek berwarna hitam, sayap biru, dan kaki berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and blue",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan biru"
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a blue bill and wings and a white belly and bright blue rectrices.",
+          "indo": "burung kecil ini memiliki paruh dan sayap berwarna biru serta perut berwarna putih dan rectrices berwarna biru cerah."
+        },
+        {
+          "english": "this bird has a tan underbelly with blue wings and a blue black.",
+          "indo": "burung ini memiliki perut berwarna coklat dengan sayap berwarna biru dan berwarna biru kehitaman."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0008_64482.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this small bird has a blue tail and wings, white crown and medium length beak.",
+          "indo": "burung kecil ini memiliki ekor dan sayap berwarna biru, mahkota berwarna putih, dan paruh berukuran sedang."
+        },
+        {
+          "english": "the bird has a white breast, small black feet and a small bill.",
+          "indo": "burung itu memiliki dada berwarna putih, kaki kecil berwarna hitam, dan paruh kecil."
+        },
+        {
+          "english": "this small blue bird has white eyebrows, white throat, chest, belly and abdomen.",
+          "indo": "burung kecil berwarna biru ini memiliki alis berwarna putih, tenggorokan, dada, perut, dan perut berwarna putih."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a blue wing and black wingbar.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan sayap berwarna biru dan garis sayap berwarna hitam."
+        },
+        {
+          "english": "this small bird has a blue nape, wings and tail with a white body.",
+          "indo": "burung kecil ini memiliki tengkuk, sayap dan ekor berwarna biru dengan tubuh berwarna putih."
+        },
+        {
+          "english": "this blue bird has a white eyebrow, white breast and belly.",
+          "indo": "burung berwarna biru ini memiliki alis berwarna putih, dada dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with black feet and a black bill, with a blue back.",
+          "indo": "seekor burung berkaki hitam dan paruh hitam, dengan punggung biru."
+        },
+        {
+          "english": "a long blue bird with a white chest and throat.",
+          "indo": "seekor burung biru panjang dengan dada dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this is a slim bird with a gray belly and royal blue crown, wings and tail and a long thing beak.",
+          "indo": "ini adalah burung ramping dengan perut abu-abu dan mahkota biru tua, sayap dan ekor serta paruh yang panjang."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0009_64723.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird had a blue body and tan chest and belly.",
+          "indo": "burung itu memiliki tubuh berwarna biru dan dada serta perut berwarna coklat."
+        },
+        {
+          "english": "this is a blue bird with a beige belly and a black eyering",
+          "indo": "ini adalah burung biru dengan perut krem ​​​​dan cincin mata hitam"
+        },
+        {
+          "english": "a small bird with a grey head and nape, with grey and brown covering the rest of its body, and black tarsus and feet.",
+          "indo": "seekor burung kecil dengan kepala dan tengkuk berwarna abu-abu, seluruh tubuhnya berwarna abu-abu dan coklat, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "long bird with a blue head, grey feathers & a long blue tail.",
+          "indo": "burung panjang dengan kepala biru, bulu abu-abu & ekor biru panjang."
+        },
+        {
+          "english": "this bird is brown and has blue on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dan mempunyai punggung berwarna biru serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this beautiful bird has a blue head and wing and long rectrices  on his tail with gray breast and belly.",
+          "indo": "burung cantik ini memiliki kepala dan sayap berwarna biru serta rectrices  di ekornya dengan dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "small/medium bird, greyish belly, baby blue crown neck and tail and wings long beak",
+          "indo": "burung kecil/sedang, perut keabu-abuan, leher dan ekor mahkota berwarna biru muda, serta sayap paruh panjang"
+        },
+        {
+          "english": "this bird is grey with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0011_64920.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a bird with a short, pointed bill, a white crown that transitions into a blue nape and body, and a gray breast.",
+          "indo": "burung dengan paruh pendek runcing, mahkota putih bertransisi menjadi tengkuk dan badan biru, dan dada abu-abu."
+        },
+        {
+          "english": "a blue and grey bird with a long thick dark grey beak and dark grey feet.",
+          "indo": "burung berwarna biru dan abu-abu dengan paruh panjang, tebal, abu-abu tua, dan kaki abu-abu tua."
+        },
+        {
+          "english": "this bird has a large blue bill, a light blue crown, and a dark blue cheek patch.",
+          "indo": "burung ini memiliki paruh besar berwarna biru, mahkota berwarna biru muda, dan bercak di pipi berwarna biru tua."
+        },
+        {
+          "english": "a shiny blue and gray bird with a black pointed beak. the head and tail are blue, and the body is gray. it has a sleek, small head with a straight beak.",
+          "indo": "burung berwarna biru dan abu-abu mengkilat dengan paruh runcing hitam. kepala dan ekor berwarna biru, dan badan berwarna abu-abu. ia memiliki kepala ramping dan kecil dengan paruh lurus."
+        },
+        {
+          "english": "this bird has a blue head and tail feathers with a gray body and a long shaped head.",
+          "indo": "burung ini mempunyai bulu kepala dan ekor berwarna biru dengan badan berwarna abu-abu dan kepala berbentuk panjang."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh berwarna putih"
+        },
+        {
+          "english": "small gray bird with blue accent feathers on tail breast head and back.",
+          "indo": "burung kecil berwarna abu-abu dengan bulu beraksen biru di bagian dada, kepala, dan punggung."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "the bird has a long bill, blue belly and blue throat.",
+          "indo": "burung itu mempunyai paruh yang panjang, perut berwarna biru, dan tenggorokan berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0012_64887.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a small black bill and a black eyering.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a blue bird with white on its belly and a colorful blue tail.",
+          "indo": "burung berwarna biru dengan perut berwarna putih dan ekor berwarna biru."
+        },
+        {
+          "english": "a medium sized bird with blue wings, and a white belly, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap biru, perut putih, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "the bird has a white belly and breast with blue feathers on its wings and tail and head.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bulu berwarna biru pada sayap, ekor, dan kepalanya."
+        },
+        {
+          "english": "this bird with blue and gray with small black eyes and black beak.",
+          "indo": "burung ini berwarna biru dan abu-abu dengan mata kecil berwarna hitam dan paruh berwarna hitam."
+        },
+        {
+          "english": "a bright blue and white bird with a narrow pointy beak and a rounded head.",
+          "indo": "burung berwarna biru cerah dan putih dengan paruh runcing sempit dan kepala bulat."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue and white with a blue crown and a black beak.",
+          "indo": "burung ini berwarna biru putih dengan mahkota berwarna biru dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0013_64706.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a gray bellied bird with blue secondaries and a white back.",
+          "indo": "burung berperut abu-abu dengan bulu sekunder berwarna biru dan punggung putih."
+        },
+        {
+          "english": "this bird is light gray with bright blue nap, wings, and tail; its tail is almost as long as its body, and it has a stout bill.",
+          "indo": "burung ini berwarna abu-abu muda dengan bulu, sayap, dan ekor berwarna biru cerah; ekornya hampir sepanjang tubuhnya, dan paruhnya kokoh."
+        },
+        {
+          "english": "this bird has a variety of blue and white feathers covering its entire body, along with solid bright blue wings, neck, and tail.",
+          "indo": "Burung ini memiliki variasi bulu berwarna biru dan putih yang menutupi seluruh tubuhnya, serta sayap, leher, dan ekornya yang kokoh berwarna biru cerah."
+        },
+        {
+          "english": "this bird is grey with blue on its wings and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna biru pada sayapnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a blue wing, a grey crown, and a white belly",
+          "indo": "burung ini memiliki sayap berwarna biru, mahkota berwarna abu-abu, dan perut berwarna putih"
+        },
+        {
+          "english": "a medium sized bird with blue wings and a small bill",
+          "indo": "seekor burung berukuran sedang dengan sayap biru dan paruh kecil"
+        },
+        {
+          "english": "this bird has blue primaries with a grey crown and grey belly.",
+          "indo": "burung ini memiliki warna bulu primer berwarna biru dengan mahkota berwarna abu-abu dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small grey bird has blue wings and a long blue tail.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki sayap biru dan ekor panjang berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0016_65051.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird is blue with a light grey colored breast and black beak.",
+          "indo": "burung itu berwarna biru dengan dada berwarna abu-abu muda dan paruh hitam."
+        },
+        {
+          "english": "the bird is blue with a white body and a long blue tail feather and a black bill.",
+          "indo": "burung tersebut berwarna biru dengan badan berwarna putih dan bulu ekor panjang berwarna biru serta paruh berwarna hitam."
+        },
+        {
+          "english": "small colorful bird with long blue tail, cheeks are black, crown, nape and throat is blue, breast, belly and abdomen are grey, secondaries are grey and blue.",
+          "indo": "burung kecil berwarna-warni dengan ekor panjang berwarna biru, pipi berwarna hitam, mahkota, tengkuk dan tenggorokan berwarna biru, dada, perut dan perut berwarna abu-abu, bulu sekunder berwarna abu-abu dan biru."
+        },
+        {
+          "english": "the birds has a blue head and nape, including it's coverts and rectrices.",
+          "indo": "burung ini memiliki kepala dan tengkuk berwarna biru, termasuk bulu dan rectrices."
+        },
+        {
+          "english": "a bird with a white belly and a blue head down to the tail and golden brown feet.",
+          "indo": "burung dengan perut berwarna putih dan kepala berwarna biru hingga ke ekor dan kaki berwarna coklat keemasan."
+        },
+        {
+          "english": "a bird with a blue bill, sky blue crown, and white belly.",
+          "indo": "burung dengan paruh biru, mahkota biru langit, dan perut putih."
+        },
+        {
+          "english": "this small bodied blue and gray bird has a short pointed black beak and features blue feathers over the head, wings and tail and gray feather on the breast and underbelly.",
+          "indo": "Burung bertubuh kecil berwarna biru dan abu-abu ini memiliki paruh pendek berwarna hitam runcing dan memiliki bulu berwarna biru di atas kepala, sayap dan ekor serta bulu abu-abu di bagian dada dan perut."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "blue crowned bird with blue primary and tail feathers, eyes are black and the chest and back are light gray.",
+          "indo": "Burung bermahkota biru dengan bulu primer dan ekor berwarna biru, mata berwarna hitam, serta dada dan punggung berwarna abu-abu muda."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0017_65017.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a white bella with blue wings and a small beak.",
+          "indo": "burung ini memiliki bella berwarna putih dengan sayap berwarna biru dan paruh yang kecil."
+        },
+        {
+          "english": "a medium sized bird with blue wings and a white breast, and a small bill",
+          "indo": "burung berukuran sedang dengan sayap biru dan dada putih, serta paruh kecil"
+        },
+        {
+          "english": "this bird is brown with long legs and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan kaki yang panjang dan paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a light grey body, with blue head and wings, and a thick black beak.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu muda, kepala dan sayap berwarna biru, serta paruh berwarna hitam tebal."
+        },
+        {
+          "english": "this is a grey bird with a blue wing and a white eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan sayap biru dan alis putih."
+        },
+        {
+          "english": "this is a slim bird with a short, straight beak and strokes of blue and gray on its body.",
+          "indo": "Ini adalah burung ramping dengan paruh pendek lurus dan guratan biru dan abu-abu di tubuhnya."
+        },
+        {
+          "english": "this bird is white and blue in color, with a black beak.",
+          "indo": "burung ini berwarna putih biru, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly and some blue patches on the wings, the side, and the nape.",
+          "indo": "burung ini memiliki perut berwarna putih dan beberapa bercak biru pada sayap, samping, dan tengkuk."
+        },
+        {
+          "english": "this dainty bird has fluffy white feathers on its breast and belly, with a blue wing color.",
+          "indo": "Burung mungil ini memiliki bulu halus berwarna putih di bagian dada dan perutnya, dengan warna sayap biru."
+        },
+        {
+          "english": "this bird has a white belly, white breast, and a short pointed black bill.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berwarna putih, dan paruh pendek berwarna hitam runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0018_64994.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this colorful bird has a white belly and breast, blue and grey wings, the bill is short and pointed, and black tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna biru dan abu-abu, paruh pendek dan runcing, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this is a blue bird with a grey belly and a black beak.",
+          "indo": "ini adalah burung biru dengan perut abu-abu dan paruh hitam."
+        },
+        {
+          "english": "this bird is medium sized with a black sharp beak and blue highlights",
+          "indo": "burung ini berukuran sedang dengan paruh berwarna hitam tajam dan sentuhan warna biru"
+        },
+        {
+          "english": "vivid blue and slate wings, back, neck and white crown/belly.",
+          "indo": "sayap, punggung, leher, dan mahkota/perut berwarna biru cerah dan batu tulis."
+        },
+        {
+          "english": "a bird with a lon tail and is blue, grey and white.",
+          "indo": "burung berekor panjang dan berwarna biru, abu-abu dan putih."
+        },
+        {
+          "english": "a bird with a white breast and blue tail feathers.",
+          "indo": "seekor burung dengan dada berwarna putih dan bulu ekor berwarna biru."
+        },
+        {
+          "english": "this bird has a blue crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna biru dan perut berwarna putih"
+        },
+        {
+          "english": "blue bird with a white underbelly, breast, and crown, with brown colored coverts.",
+          "indo": "burung biru dengan perut, dada, dan mahkota berwarna putih, dengan bulu berwarna coklat."
+        },
+        {
+          "english": "this bird has a bright blue tail and secondaries, a blue nape and white crown, throat and belly.",
+          "indo": "burung ini memiliki ekor dan bulu sekunder berwarna biru cerah, tengkuk berwarna biru dan mahkota berwarna putih, tenggorokan dan perut."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0021_64698.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has bright blue feathers on its head, wings, and tail",
+          "indo": "burung ini memiliki bulu berwarna biru cerah di kepala, sayap, dan ekornya"
+        },
+        {
+          "english": "a small blue bird with a light blue crown and white throat and breast.",
+          "indo": "seekor burung kecil berwarna biru dengan mahkota biru muda dan tenggorokan serta dada berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white belly and a blue back and head.",
+          "indo": "ini adalah burung dengan perut putih dan punggung serta kepala berwarna biru."
+        },
+        {
+          "english": "the blue wings have a black wingbar, the bill is short and pointed, and the head is in proportion to the body.",
+          "indo": "sayap biru memiliki garis sayap hitam, paruh pendek dan runcing, serta kepala proporsional dengan badan."
+        },
+        {
+          "english": "the blue bird has a white breast and dark eyes.",
+          "indo": "burung biru memiliki dada putih dan mata gelap."
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has blue and black coverts, secondaries and inner and outer rectrices and a grey and white breast.",
+          "indo": "burung ini memiliki bulu berwarna biru dan hitam, rectrices bulu sekunder dan dalam dan outer rectrices serta dada berwarna abu-abu dan putih."
+        },
+        {
+          "english": "the throat to belly is gray, the crown, secondaries and rectrices are blue while the black bill is pointy.",
+          "indo": "tenggorokan hingga perut berwarna abu-abu, ubun-ubun, bulu sekunder dan rectrices  berwarna biru sedangkan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "a blue bird with long blue tail, white abdomen and breast and black ill.",
+          "indo": "burung berwarna biru dengan ekor panjang berwarna biru, perut dan dada berwarna putih, serta sakit berwarna hitam."
+        },
+        {
+          "english": "this bird has a light blue crown with white sides and small black beak.",
+          "indo": "burung ini memiliki mahkota berwarna biru muda dengan sisi berwarna putih dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0025_64673.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this is a blue bird with a white belly and a pointy beak.",
+          "indo": "ini adalah burung berwarna biru dengan perut putih dan paruh runcing."
+        },
+        {
+          "english": "small blue and white bird with medium black beak and long tarsus",
+          "indo": "burung kecil berwarna biru putih dengan paruh hitam sedang dan tarsus panjang"
+        },
+        {
+          "english": "this light blue bird is blue from its head to its nape, wings, and tails but the body and neck is light grey.",
+          "indo": "burung berwarna biru muda ini berwarna biru mulai dari kepala hingga tengkuk, sayap, dan ekornya namun badan dan lehernya berwarna abu-abu muda."
+        },
+        {
+          "english": "a bird with a blue head, nape, wings, and tail, with a light crown, back, and belly.",
+          "indo": "seekor burung dengan kepala, tengkuk, sayap, dan ekor berwarna biru, dengan mahkota, punggung, dan perut berwarna terang."
+        },
+        {
+          "english": "a small bird that has a white belly and is blue everywhere else.",
+          "indo": "seekor burung kecil yang perutnya berwarna putih dan bagian lainnya berwarna biru."
+        },
+        {
+          "english": "a small bird with blue wings and a small bill, and black eyes",
+          "indo": "seekor burung kecil dengan sayap biru dan paruh kecil, serta mata hitam"
+        },
+        {
+          "english": "this blue and white bird has a black beak, blue head, primaries and rectrices.",
+          "indo": "burung berwarna biru putih ini memiliki paruh berwarna hitam, kepala berwarna biru, bulu primer dan rectrices ."
+        },
+        {
+          "english": "the bird has a blue crown, white belly and a small bill.",
+          "indo": "burung itu mempunyai mahkota berwarna biru, perut berwarna putih dan paruh yang kecil."
+        },
+        {
+          "english": "bird with blue wings and head, a white side, and blue rectrices.",
+          "indo": "burung dengan sayap dan kepala biru, sisi putih, dan rectrices  biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0026_64938.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this is a bird with a grey breast and a blue head and neck.",
+          "indo": "ini adalah burung dengan dada abu-abu dan kepala serta leher berwarna biru."
+        },
+        {
+          "english": "this is a grey bird with a blue wing and a blue head and breast.",
+          "indo": "ini adalah burung abu-abu dengan sayap biru dan kepala serta dada biru."
+        },
+        {
+          "english": "this bird is blue and white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "grey bodied small blue bird with grey throat and white eyebrows on blue head.",
+          "indo": "burung biru kecil bertubuh abu-abu dengan tenggorokan abu-abu dan alis putih di kepala biru."
+        },
+        {
+          "english": "a small bird with a gray belly and blue face, back, and long blue rectrices.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan wajah biru, punggung, dan rectrices  berwarna biru."
+        },
+        {
+          "english": "this bid has a blue face, head nape and coverts, with a grey and white breast.",
+          "indo": "tawaran ini memiliki wajah biru, tengkuk dan bulu penutup kepala, dengan dada abu-abu dan putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a blue head, with a white breast and belly.",
+          "indo": "burung ini memiliki kepala berwarna biru, dengan dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a sky blue neck coloration with a sky blue crown coloring",
+          "indo": "burung ini mempunyai warna leher berwarna biru langit dengan warna mahkota berwarna biru langit"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0027_64689.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a gray belly, white brest, and blue nape and primaries.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, dada berwarna putih, dan tengkuk serta bulu primer berwarna biru."
+        },
+        {
+          "english": "this bird has a blue head and tail and blue wings but a white breast and back.",
+          "indo": "burung ini memiliki kepala dan ekor berwarna biru serta sayap berwarna biru tetapi dada dan punggung berwarna putih."
+        },
+        {
+          "english": "an eyecatching powder blue and white bird with a black beak.",
+          "indo": "seekor burung berwarna biru dan putih yang menarik perhatian dengan paruh hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill with a blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing dengan mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this is a white and light blue bird with a small black bill and a black cheek patch.",
+          "indo": "ini adalah burung berwarna putih dan biru muda dengan paruh kecil berwarna hitam dan bercak hitam di pipi."
+        },
+        {
+          "english": "this bird has 3 simple color markings which include a blue crown, wings, and tail, as well as a white belly and breast, all of which are accented by black features and complimented by black feet and a sharp black beak.",
+          "indo": "burung ini memiliki 3 corak warna sederhana yang meliputi mahkota, sayap, dan ekor berwarna biru, serta perut dan dada berwarna putih, semuanya diberi aksen corak hitam dan dilengkapi dengan kaki hitam serta paruh hitam runcing."
+        },
+        {
+          "english": "this cird has a light blue crown with a black bill and black feet",
+          "indo": "burung ini memiliki mahkota berwarna biru muda dengan paruh berwarna hitam dan kaki berwarna hitam"
+        },
+        {
+          "english": "blue wings and tail feathers, white chest black around eyes.",
+          "indo": "sayap biru dan bulu ekor, dada putih hitam di sekitar mata."
+        },
+        {
+          "english": "this bird has a light gray belly and a blue tail.",
+          "indo": "burung ini memiliki perut berwarna abu-abu muda dan ekor berwarna biru."
+        },
+        {
+          "english": "the bird is small with white belly and blue back and neck.",
+          "indo": "burung itu berukuran kecil dengan perut berwarna putih dan punggung serta leher berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0029_65114.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a small black bill that is curved.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam yang melengkung."
+        },
+        {
+          "english": "the bird has a small black bill and a brown breast.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird has a navy blue head, face, throat, back, wings and tail, and a light grey throat and belly.",
+          "indo": "burung ini memiliki kepala, muka, tenggorokan, punggung, sayap dan ekor berwarna biru tua, serta tenggorokan dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "a bird with gray breast and belly, with a dark blue head and tail.",
+          "indo": "seekor burung dengan dada dan perut berwarna abu-abu, dengan kepala dan ekor berwarna biru tua."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a blue crown and short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna biru dan paruh pendek yang runcing."
+        },
+        {
+          "english": "this bird stands upright with a white belly and blue everywhere else with a small dark colored beak.",
+          "indo": "burung ini berdiri tegak dengan perut berwarna putih dan bagian lainnya berwarna biru dengan paruh kecil berwarna gelap."
+        },
+        {
+          "english": "the bird has a long outer rectrices  and a small black bill.",
+          "indo": "burung itu memilik outer rectrices yang panjang dan paruh berwarna hitam kecil."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly with black feathers on its wings a a black crown.",
+          "indo": "burung ini memiliki perut berwarna putih dengan bulu hitam pada sayapnya dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a blue head that reaches down to its tail with a grey underbelly.",
+          "indo": "burung ini memiliki kepala berwarna biru hingga ke ekornya dengan perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0035_64463.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a tan bird with blue wings and a blue head.",
+          "indo": "seekor burung cokelat dengan sayap biru dan kepala biru."
+        },
+        {
+          "english": "this is a bird with a brown belly, blue wings and a pointed beak.",
+          "indo": "ini adalah burung dengan perut coklat, sayap biru dan paruh runcing."
+        },
+        {
+          "english": "this bird has a brown colored side, breast and belly while it's coverts and nape are in blue",
+          "indo": "Burung ini memiliki bagian samping, dada dan perut berwarna coklat, sedangkan bulu dan tengkuknya berwarna biru"
+        },
+        {
+          "english": "a short and stubby golden brown bird with a blue head and wing tips.",
+          "indo": "burung pendek dan gemuk berwarna coklat keemasan dengan kepala dan ujung sayap berwarna biru."
+        },
+        {
+          "english": "this small bird has a light brown breast and blue wings",
+          "indo": "burung kecil ini memiliki dada berwarna coklat muda dan sayap berwarna biru"
+        },
+        {
+          "english": "this petite, light brown bird has a small dark brown beak, with spots of bluish gray on the wings, tail, and head.",
+          "indo": "Burung mungil berwarna coklat muda ini memiliki paruh kecil berwarna coklat tua, dengan bintik abu-abu kebiruan pada sayap, ekor, dan kepala."
+        },
+        {
+          "english": "this bird has a light blue crown with black bill and light brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru muda dengan paruh berwarna hitam dan perut berwarna coklat muda."
+        },
+        {
+          "english": "a bird with a blue nape, tail and wing.",
+          "indo": "seekor burung dengan tengkuk, ekor dan sayap berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this little bird has a fat pointed bill blue and white head feathers and grey dirty white belly colors with blue wings with black tips.",
+          "indo": "Burung kecil ini memiliki paruh gemuk dan runcing, bulu kepala berwarna biru putih, dan warna perut abu-abu putih kotor dengan sayap biru berujung hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0036_65107.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a medium bird with a white belly, while the rest of the bird is blue.",
+          "indo": "burung berukuran sedang dengan perut berwarna putih, sedangkan burung lainnya berwarna biru."
+        },
+        {
+          "english": "this bird has a gray breast and belly, with a blue crown and wing.",
+          "indo": "burung ini memiliki dada dan perut berwarna abu-abu, dengan mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this blue bird also has white on it's under belly.",
+          "indo": "burung biru ini juga memiliki warna putih di bagian bawah perutnya."
+        },
+        {
+          "english": "medium sized bird with a sleek long body, short beak, blue wing feathers, white belly and neck, long feet, and blue tail feathers.",
+          "indo": "burung berukuran sedang dengan tubuh ramping panjang, paruh pendek, bulu sayap biru, perut dan leher putih, kaki panjang, dan bulu ekor biru."
+        },
+        {
+          "english": "this colorful bird has a bright blue and white on its belly and tail, as well as a darker blue on its wings, nape, and crown.",
+          "indo": "burung berwarna-warni ini memiliki warna biru cerah dan putih pada perut dan ekornya, serta warna biru tua pada sayap, tengkuk, dan mahkotanya."
+        },
+        {
+          "english": "this is a very pretty bird with blue wings and head and tail.",
+          "indo": "ini adalah burung yang sangat cantik dengan sayap, kepala, dan ekor berwarna biru."
+        },
+        {
+          "english": "this beautiful bird has a white belly, gray tarsus, blue wings, and a both detailed blue and white crown and tail.",
+          "indo": "burung cantik ini memiliki perut berwarna putih, tarsus abu-abu, sayap biru, serta detail mahkota dan ekor berwarna biru dan putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "only half of it's head is covered in light blue feathers, while the other half of its head has dark blue and light blue feathers.",
+          "indo": "hanya separuh kepalanya yang ditutupi bulu berwarna biru muda, sedangkan separuh kepalanya lainnya memiliki bulu berwarna biru tua dan biru muda."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0037_64515.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a grey body with a sharp pointy black beak.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird has a large curved bill, black feet, and a gray breast and belly.",
+          "indo": "burung ini memiliki paruh besar yang melengkung, kaki berwarna hitam, serta dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a grey belly and blue body with long tail.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan tubuh berwarna biru dengan ekor yang panjang."
+        },
+        {
+          "english": "a grey bird with a black beak and a long tail.",
+          "indo": "seekor burung abu-abu dengan paruh hitam dan ekor panjang."
+        },
+        {
+          "english": "this is a unique looking bird with a light brown body that is slightly darker around the head, it has a long body and tail feathers.",
+          "indo": "Burung ini berpenampilan unik dengan badan berwarna coklat muda, bagian kepala sedikit lebih gelap, badannya panjang dan bulu ekornya."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is grey in color with a black beak.",
+          "indo": "burung itu berwarna abu-abu dengan paruh hitam."
+        },
+        {
+          "english": "this bird has wings that are gray and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is mostly gray with some blue and black accents.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan sedikit aksen biru dan hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0039_64576.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a small bird with a long tail, and a blue and white body, and a black bill.",
+          "indo": "burung kecil berekor panjang, berbadan biru putih, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is vivid blue and grey in color with a grey beak and grey eye rings.",
+          "indo": "burung ini berwarna biru cerah dan abu-abu dengan paruh abu-abu dan cincin mata abu-abu."
+        },
+        {
+          "english": "the bird has a blue crown and a black eyering that is round.",
+          "indo": "burung itu memiliki mahkota berwarna biru dan cincin mata berwarna hitam yang berbentuk bulat."
+        },
+        {
+          "english": "small to medium grey and blue bird with long tarsus and medium black beak",
+          "indo": "burung kecil berwarna abu-abu dan biru dengan tarsus panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "this bird has a grey belly with a blue back and head.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan punggung dan kepala berwarna biru."
+        },
+        {
+          "english": "this bird has a blue head and body, gray belly, and black beak.",
+          "indo": "burung ini memiliki kepala dan badan berwarna biru, perut berwarna abu-abu, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a bright blue nape, uppertail coverts and a pale grey breast.",
+          "indo": "burung kecil ini memiliki tengkuk berwarna biru cerah, bulu ekor bagian atas, dan dada berwarna abu-abu pucat."
+        },
+        {
+          "english": "the bird has a small bill and blue crown with grey belly.",
+          "indo": "burung itu mempunyai paruh kecil dan mahkota berwarna biru dengan perut berwarna abu-abu."
+        },
+        {
+          "english": "this medium-sized bird has bright blue crown, black bill, and spotted belly.",
+          "indo": "burung berukuran sedang ini memiliki mahkota berwarna biru cerah, paruh hitam, dan perut berbintik."
+        },
+        {
+          "english": "this blue-tailed bird also has a blue head and wings, but its bill is black and its belly is white.",
+          "indo": "Burung berekor biru ini juga memiliki kepala dan sayap berwarna biru, namun paruhnya berwarna hitam dan perutnya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0041_64734.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a small bird has a relatively large black and pointy beak and a white belly.",
+          "indo": "seekor burung kecil memiliki paruh yang relatif besar berwarna hitam dan runcing serta perut berwarna putih."
+        },
+        {
+          "english": "this bird has a dark blue beak, black eyes, a whitish crown, blue cheek patch, and white throat, along with bluish feet and tarsus.",
+          "indo": "Burung ini memiliki paruh berwarna biru tua, mata berwarna hitam, mahkota berwarna keputihan, pipi berwarna biru, dan tenggorokan berwarna putih, serta kaki dan tarsus berwarna kebiruan."
+        },
+        {
+          "english": "multiple shades of blue bird with a long tail and pointed blue bill.",
+          "indo": "beberapa warna burung biru dengan ekor panjang dan paruh biru runcing."
+        },
+        {
+          "english": "the bird has a blue crown and throat and a black bill.",
+          "indo": "burung itu memiliki mahkota dan tenggorokan berwarna biru serta paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is has blue wings and tail feathers with white and blue breast feathers also features dark eyes with a dark grey beak.",
+          "indo": "Burung ini mempunyai sayap dan bulu ekor berwarna biru dengan bulu dada berwarna putih dan biru serta memiliki ciri mata berwarna gelap dengan paruh berwarna abu-abu tua."
+        },
+        {
+          "english": "a blue and white bird with a long tail and small pointed blue beak and blue legs.",
+          "indo": "seekor burung berwarna biru putih dengan ekor panjang dan paruh kecil berwarna biru runcing serta kaki berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this blue bird has white sides, a long rectrices, and a white crown.",
+          "indo": "burung berwarna biru ini memiliki sisi berwarna putih, rectrices, dan mahkota berwarna putih."
+        },
+        {
+          "english": "a bird with blue rectrices, wings and white belly, breast and the bill is black and pointed",
+          "indo": "burung dengan rectrices  yang panjang berwarna biru, sayap dan perut berwarna putih, dada dan paruh berwarna hitam dan runcing"
+        },
+        {
+          "english": "a small blue bird, with a white abdomen, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna biru, dengan perut berwarna putih, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0044_64664.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a bird with blue wings, nape, rectrices and white on the rest of it's body.",
+          "indo": "burung dengan sayap biru, tengkuk, rectrices  dan putih di sekujur tubuhnya."
+        },
+        {
+          "english": "the bird has a blue bill and a blue crown.",
+          "indo": "burung itu mempunyai paruh berwarna biru dan mahkota berwarna biru."
+        },
+        {
+          "english": "this small blue and white bird has a short bill with blue primaires and coverts with a white belly and abdomen.",
+          "indo": "Burung kecil berwarna biru putih ini memiliki paruh pendek dengan bulu primer berwarna biru dan bulu dengan perut dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white crown, a blue nape and covert all the way to its rectrices.",
+          "indo": "burung ini mempunyai mahkota berwarna putih, tengkuk berwarna biru dan bulu penutup hingga ke rectrices."
+        },
+        {
+          "english": "this bird is white and blue in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih biru dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has blue thighs, two small blue wing bars and a black eyering.",
+          "indo": "burung itu memiliki paha berwarna biru, dua garis sayap kecil berwarna biru, dan sebuah cincin mata berwarna hitam."
+        },
+        {
+          "english": "the small bird has a chest that is grey in color and accents that are bright blue.",
+          "indo": "Burung kecil ini memiliki dada berwarna abu-abu dan aksen biru cerah."
+        },
+        {
+          "english": "this bird is gray and blue in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu dan biru, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is gray and blue in color, and has a black beak.",
+          "indo": "burung ini berwarna abu-abu dan biru, serta memiliki paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with a grey belly and blue wings, tail, and head.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan sayap, ekor, dan kepala berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0046_64488.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a long bill that is black, blue outer rectrices and long tarsus..",
+          "indo": "burung ini mempunyai paruh yang panjang berwarna hitam, outer rectrices dan tarsus panjang.."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a speckled crown and blue secondaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berbintik-bintik dan bulu sekunder berwarna biru."
+        },
+        {
+          "english": "an unusual colored bird with sharp contrast between dull gray and brilliant blue markings.",
+          "indo": "burung berwarna tidak biasa dengan kontras tajam antara corak abu-abu kusam dan biru cemerlang."
+        },
+        {
+          "english": "this scruffy breasted bird has a light brown furry breast and a brindle head.",
+          "indo": "burung berdada lusuh ini memiliki dada berbulu coklat muda dan kepala belang-belang."
+        },
+        {
+          "english": "this majestic bird has a large, thick beak and beautiful glossy blue plumage throughout a sea of light brown.",
+          "indo": "burung agung ini memiliki paruh yang besar dan tebal serta bulu indah berwarna biru mengkilap di seluruh lautan berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "the bird has a brown breast, long outer rectrices, and a small black bill.",
+          "indo": "burung itu memiliki dada berwarna coklat, outer rectrices, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a beige belly and a large head.",
+          "indo": "burung ini memiliki perut berwarna krem ​​​​dan kepala yang besar."
+        },
+        {
+          "english": "this small bird has a sharp bill, blu wings, and a grey belly.",
+          "indo": "burung kecil ini memiliki paruh runcing, sayap berwarna biru, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "brown head winglets, light brown breast, long tarsus, short bill",
+          "indo": "sayap kepala coklat, dada coklat muda, tarsus panjang, paruh pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0047_65088.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a black bill that is small.",
+          "indo": "burung tersebut mempunyai paruh berwarna hitam yang berukuran kecil."
+        },
+        {
+          "english": "this medium sized bird is a little smaller than most and has a rustic white head and belly, which transitions beautifully into blue patterned wings.",
+          "indo": "burung berukuran sedang ini sedikit lebih kecil dari kebanyakan burung dan memiliki kepala dan perut berwarna putih pedesaan, yang bertransisi indah menjadi sayap bermotif biru."
+        },
+        {
+          "english": "this bird has agray belly and breast with a gray crown, and blue on its primaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna abu-abu, dan warna primernya berwarna biru."
+        },
+        {
+          "english": "this bird is white with blue on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan sayapnya berwarna biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a brown bird with blue wing stripes, a tall neck, and a sharp, curved, predatory beak.",
+          "indo": "seekor burung coklat dengan garis-garis sayap biru, leher tinggi, dan paruh predator yang tajam dan melengkung."
+        },
+        {
+          "english": "this bird is a medium sized bird with grey and white mixed feathers on its throat, chest and belly, and with blue and black feathers on its secondaries and vent.",
+          "indo": "burung ini merupakan burung berukuran sedang dengan bulu campuran berwarna abu-abu dan putih pada tenggorokan, dada dan perutnya, serta bulu sekunder dan lubang kloaka berwarna biru dan hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a white breast, rounded head and grey wings.",
+          "indo": "burung ini memiliki dada berwarna putih, kepala membulat, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has black wings and a white chest and belly.",
+          "indo": "burung ini mempunyai sayap berwarna hitam serta dada dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0050_65099.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a bird with iridescent blue neck, secondaries and inner and outer rectrices.",
+          "indo": "seekor burung dengan leher berwarna biru, bulu sekunder dan inner dan outer rectrices."
+        },
+        {
+          "english": "this bird is blue and grey in color, with a black skinny beak and a black eye ring.",
+          "indo": "burung ini berwarna biru keabu-abuan, dengan paruh kurus berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "black coloring is found on the head and wings of this bird, while its breast, nape, and belly are a lighter grey in color.",
+          "indo": "Warna hitam terdapat pada kepala dan sayap burung ini, sedangkan dada, tengkuk, dan perutnya berwarna abu-abu terang."
+        },
+        {
+          "english": "a bird with a black bill and a black crown.",
+          "indo": "seekor burung dengan paruh hitam dan mahkota hitam."
+        },
+        {
+          "english": "a royal blue bird with a grey stomach and a black bill",
+          "indo": "seekor burung berwarna biru royal dengan perut abu-abu dan paruh hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and black with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna biru kehitaman dengan perut berwarna putih"
+        },
+        {
+          "english": "a large bird with a black nape and with a dark grey breast.",
+          "indo": "seekor burung besar dengan tengkuk hitam dan dada abu-abu tua."
+        },
+        {
+          "english": "a small blue and gray bird with narrow black legs, a small head, and a short black beak that has a small curve at the tip.",
+          "indo": "burung kecil berwarna biru abu-abu dengan kaki sempit berwarna hitam, kepala kecil, dan paruh hitam pendek yang ujungnya melengkung kecil."
+        },
+        {
+          "english": "this bird has blue wings, neck, and tail, but a grey chest and belly.",
+          "indo": "burung ini memiliki sayap, leher, dan ekor berwarna biru, namun dada dan perutnya berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a black crown with grey throat and black feet.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tenggorokan berwarna abu-abu dan kaki berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0052_64633.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a blue bill and blue head and body with a grey breast and belly.",
+          "indo": "burung ini memiliki paruh berwarna biru dan kepala serta tubuh berwarna biru dengan dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "brightly colored bird with blue beak, blue wings, neck and crown, and a white belly and throat.",
+          "indo": "burung berwarna cerah dengan paruh biru, sayap biru, leher dan mahkota, serta perut dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a curved blue bill, a blue crown, and a white throat.",
+          "indo": "burung ini memiliki paruh melengkung berwarna biru, mahkota berwarna biru, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this marvelous blue bird features intense eyes and a large blue beak.",
+          "indo": "burung biru yang luar biasa ini memiliki mata yang tajam dan paruh biru yang besar."
+        },
+        {
+          "english": "this bird has a bright blue head, wings, and tail with a white throat and belly.",
+          "indo": "burung ini memiliki kepala, sayap, dan ekor berwarna biru cerah dengan tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a blue crown and tail, black tarsus and a white belly and breast .",
+          "indo": "burung ini memiliki mahkota dan ekor berwarna biru, tarsus hitam, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "a bird with a white breast and a blue crown and long blue tail feathers.",
+          "indo": "burung dengan dada berwarna putih dan mahkota berwarna biru serta bulu ekor panjang berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0053_64966.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a white bellied bird with a white crown and short black bill.",
+          "indo": "burung berperut putih dengan mahkota putih dan paruh hitam pendek."
+        },
+        {
+          "english": "a small bird with a gray breast and light colored belly and crown.",
+          "indo": "seekor burung kecil dengan dada abu-abu dan perut serta mahkota berwarna terang."
+        },
+        {
+          "english": "this bird is white and grey and has a small tracking bracelet on its leg.",
+          "indo": "burung ini berwarna putih abu-abu dan memiliki gelang pelacak kecil di kakinya."
+        },
+        {
+          "english": "a bird with a white crown and a brown neck.",
+          "indo": "seekor burung dengan mahkota putih dan leher coklat."
+        },
+        {
+          "english": "medium to large grey blue and black bird with medium grey tarsus and medium black beak",
+          "indo": "burung biru dan hitam abu-abu sedang hingga besar dengan tarsus abu-abu sedang dan paruh hitam sedang"
+        },
+        {
+          "english": "white capped grayish bird, with white chest, bluish grey tint on wings, very majestic stance.",
+          "indo": "Burung bertudung putih keabu-abuan, dada putih, sayap berwarna abu-abu kebiruan, posturnya sangat megah."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and tan",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan kecoklatan"
+        },
+        {
+          "english": "a large grey bird, with big feet, and a pointed bill.",
+          "indo": "seekor burung besar berwarna abu-abu, berkaki besar, dan paruh runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and gray",
+          "indo": "burung ini memiliki perut berwarna coklat dan abu-abu"
+        },
+        {
+          "english": "this bird has a white crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0054_65046.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this blue bird has a beige underbelly and shorter, slightly curved beak.",
+          "indo": "burung berwarna biru ini memiliki perut bagian bawah berwarna krem ​​​​dan paruh yang lebih pendek dan agak melengkung."
+        },
+        {
+          "english": "this bird is blue and white in color, with a black beak and a black eye ring.",
+          "indo": "burung ini berwarna biru putih, dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly blue head and a blue back.",
+          "indo": "ini adalah burung dengan perut putih, kepala biru, dan punggung biru."
+        },
+        {
+          "english": "this bird is white on the bottom and bright blue on its crown, outer rectrices and back.",
+          "indo": "burung ini berwarna putih pada bagian bawah dan biru cerah pada bagian ubun-ubun, rectrices luar, dan punggung."
+        },
+        {
+          "english": "this bird has colorful blue plumage in parts and white in other areas, as well as a stout, long beak.",
+          "indo": "burung ini memiliki bulu berwarna biru di beberapa bagian dan putih di bagian lain, serta paruh yang kokoh dan panjang."
+        },
+        {
+          "english": "this particular bird has a brown belly and breast and turquoise crown and back",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat serta mahkota dan punggung berwarna pirus"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a brown and black spotted bill, blue crown with white superciliary, with a white throat and iridescence blue and black tail feathers.",
+          "indo": "burung ini mempunyai paruh berbintik coklat dan hitam, mahkota berwarna biru dengan superciliary berwarna putih, tenggorokan berwarna putih dan bulu ekor berwarna biru dan hitam."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has white eyebrows and a white breast with a long blue tailfeather.",
+          "indo": "burung ini memiliki alis berwarna putih dan dada berwarna putih dengan bulu ekor panjang berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0058_64997.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "medium white bird with blue head and wings medium tarsus and medium to long beak",
+          "indo": "burung putih sedang dengan kepala dan sayap biru tarsus sedang dan paruh sedang hingga panjang"
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a blue crown and short pointy bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna biru dan paruh pendek yang runcing."
+        },
+        {
+          "english": "this bird has a medium straight bill, a blue crown, and a white throat, breast, and belly.",
+          "indo": "burung ini memiliki paruh lurus sedang, mahkota berwarna biru, serta tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a grey breast and belly, with the rest being a gorgeous blue-violet color and a purple beak.",
+          "indo": "burung ini memiliki dada dan perut berwarna abu-abu, sisanya berwarna biru-ungu yang indah dan paruh ungu."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a blue crown, back, and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota, punggung, dan sayap berwarna biru."
+        },
+        {
+          "english": "a small light blue perching bird that has a white throat and belly.",
+          "indo": "burung bertengger kecil berwarna biru muda yang memiliki tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a blue crown, blue wingbars and a grey breast.",
+          "indo": "burung itu memiliki mahkota biru, sayap biru, dan dada abu-abu."
+        },
+        {
+          "english": "a bird with a white breast and blue feathers and short pointed beak.",
+          "indo": "burung dengan dada putih dan bulu biru serta paruh runcing pendek."
+        },
+        {
+          "english": "a small bird with a short pointy beak and a white belly and breast with a bright blue topside,",
+          "indo": "seekor burung kecil dengan paruh pendek runcing dan perut serta dada berwarna putih dengan bagian atas berwarna biru cerah,"
+        },
+        {
+          "english": "a bird with a short pointed beak and a white colored belly and chest.",
+          "indo": "seekor burung dengan paruh pendek runcing dan perut serta dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0061_65097.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "white belly and back with blue wings, tail, and head as well as a medium sized blue beak.",
+          "indo": "perut dan punggung berwarna putih dengan sayap, ekor, dan kepala berwarna biru serta paruh berwarna biru berukuran sedang."
+        },
+        {
+          "english": "small bird, small short rounded blue beak, white body, grey legs and feet, blue wings head tail",
+          "indo": "burung kecil, paruh kecil biru bulat pendek, badan putih, tungkai dan kaki abu-abu, sayap kepala ekor biru"
+        },
+        {
+          "english": "this bird has a gray belly and breast with a blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this is a beautiful small white and blue bird with light blue wings and head and white belly.",
+          "indo": "ini adalah burung kecil berwarna putih dan biru yang cantik dengan sayap, kepala, dan perut berwarna biru muda."
+        },
+        {
+          "english": "this bird has a bright blue color on its wings and wingbars, white breast, and a blue bill.",
+          "indo": "burung ini memiliki warna biru cerah pada sayap dan garis sayapnya, dada berwarna putih, dan paruh berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and blue",
+          "indo": "burung ini memiliki perut yang berwarna putih dan biru"
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is blue with grey back and body, and has large black eyes.",
+          "indo": "burung itu berwarna biru dengan punggung dan badan berwarna abu-abu, serta bermata hitam besar."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0062_64996.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a brown belly with a grey head and beak.",
+          "indo": "burung ini memiliki perut berwarna coklat dengan kepala dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "a medium sized bird with a blue head and blue and black tail",
+          "indo": "seekor burung berukuran sedang dengan kepala berwarna biru dan ekor berwarna biru dan hitam"
+        },
+        {
+          "english": "the blue and white bird has a small ponted beak.",
+          "indo": "burung biru dan putih memiliki paruh kecil yang melengkung."
+        },
+        {
+          "english": "a bird with a pointed bill and a blue nape with white tipped feathers.",
+          "indo": "seekor burung dengan paruh runcing dan tengkuk biru dengan bulu berujung putih."
+        },
+        {
+          "english": "a medium size blue bird that has a gray breast and back.",
+          "indo": "burung berwarna biru berukuran sedang yang memiliki dada dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this medium sized bird has a gray body with steel blue wings, head and tail.",
+          "indo": "burung berukuran sedang ini memiliki tubuh berwarna abu-abu dengan sayap, kepala, dan ekor berwarna biru baja."
+        },
+        {
+          "english": "the bird has a blue tail, gray belly/flank, and white nape.",
+          "indo": "burung ini memiliki ekor berwarna biru, perut/pinggang berwarna abu-abu, dan tengkuk berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a blue coloring with white patches at the nape and breast and belly, with a medium length dark colored bill and dark brown feet and legs.",
+          "indo": "Burung ini mempunyai warna biru dengan bercak putih pada bagian tengkuk dan dada serta perut, dengan paruh berwarna gelap berukuran sedang serta kaki dan tungkai berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a blue crown, blue primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, pendahuluan berwarna biru, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0063_64781.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird is grey with a long tail feather and black bill.",
+          "indo": "burung tersebut berwarna abu-abu dengan bulu ekor panjang dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird is grey with a blue head and black bill with a long tail.",
+          "indo": "burung tersebut berwarna abu-abu dengan kepala berwarna biru dan paruh berwarna hitam dengan ekor yang panjang."
+        },
+        {
+          "english": "a large and tall bird with a gray belly and slender build.",
+          "indo": "seekor burung besar dan tinggi dengan perut berwarna abu-abu dan tubuh ramping."
+        },
+        {
+          "english": "tall bird, stand straight up, has long pointy beak with a blue-ish gray neck.",
+          "indo": "burung tinggi, berdiri tegak, paruh panjang runcing dengan leher abu-abu kebiruan."
+        },
+        {
+          "english": "gray bird with blue gray crown and nape and a black bill and tarsus.",
+          "indo": "burung abu-abu dengan mahkota dan tengkuk abu-abu biru serta paruh dan tarsus hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and breast and gray head and bill",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta kepala dan paruh berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a gray breast and a pale blue head with a medium sized bill.",
+          "indo": "burung ini memiliki dada berwarna abu-abu dan kepala berwarna biru pucat dengan paruh berukuran sedang."
+        },
+        {
+          "english": "this bird has a white belly with a blue crown and a black beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan mahkota berwarna biru dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0065_64739.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a white belly with blue wings and a blue head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna biru dan kepala berwarna biru."
+        },
+        {
+          "english": "this bird has a white body, blue wings and a blue head",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap berwarna biru, dan kepala berwarna biru"
+        },
+        {
+          "english": "this is a bird with a white belly and a blue back and head.",
+          "indo": "ini adalah burung dengan perut putih dan punggung serta kepala berwarna biru."
+        },
+        {
+          "english": "this slender blue and white bird has a short beak and long tail feathers.",
+          "indo": "Burung ramping berwarna biru putih ini memiliki paruh pendek dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird has a blue head, blue wings, and blue inner and outer rectrices atop a white belly.",
+          "indo": "burung ini memiliki kepala berwarna biru, sayap biru, dan rectrices inner dan outer rectrices berwarna biru di atas perut berwarna putih."
+        },
+        {
+          "english": "a beautiful blue and white bird with a short black beak, round eyes and a long tail",
+          "indo": "burung cantik berwarna biru putih dengan paruh hitam pendek, mata bulat dan ekor panjang"
+        },
+        {
+          "english": "this bird is blue and white in color, with a black beak.",
+          "indo": "burung ini berwarna biru putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a distinctive blue head, wings and tail with a white body.",
+          "indo": "burung ini mempunyai ciri khas kepala, sayap dan ekor berwarna biru dengan badan berwarna putih."
+        },
+        {
+          "english": "a small bird with blue crown, rectrices and wings and white belly and the bill is short and pointed",
+          "indo": "burung kecil dengan mahkota biru, rectrices  dan sayap serta perut putih dan paruh pendek dan runcing"
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0066_65018.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the wings are blue, along with the tail head and neck, the pointed, small bill is black and the cheek patch is a darker blue.",
+          "indo": "Sayapnya berwarna biru, beserta kepala dan lehernya, paruhnya yang runcing dan kecil berwarna hitam, dan bagian pipinya berwarna biru tua."
+        },
+        {
+          "english": "the bird has a blue breast, blue bill, and blue crown.",
+          "indo": "burung itu memiliki dada biru, paruh biru, dan mahkota biru."
+        },
+        {
+          "english": "a small bird with a variety of blue shades covering its body except for the white on its wing and tail feather tips, side, and belly.",
+          "indo": "burung kecil dengan beragam corak warna biru menutupi tubuhnya kecuali warna putih pada sayap dan ujung bulu ekor, samping, dan perutnya."
+        },
+        {
+          "english": "large blue bird, with a large black beak, large wing span, white belly, dark blue cheek patch, long blue tail feathers, and long feet.",
+          "indo": "burung besar berwarna biru, dengan paruh besar berwarna hitam, rentang sayap besar, perut berwarna putih, pipi berwarna biru tua, bulu ekor panjang berwarna biru, dan kaki panjang."
+        },
+        {
+          "english": "the bird has a brown color on its side, belly and abdomen with the rest of its body in blue feathers.",
+          "indo": "burung ini memiliki warna coklat pada bagian samping, perut dan abdomen dengan seluruh tubuhnya berbulu biru."
+        },
+        {
+          "english": "a small bird with a bill that curves downwards and a blue crown",
+          "indo": "seekor burung kecil dengan paruh melengkung ke bawah dan mahkota berwarna biru"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with blue wings and tail, blue head and neck and small black bill.",
+          "indo": "burung berwarna putih dengan sayap dan ekor berwarna biru, kepala dan leher berwarna biru serta paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a bird with a white breast and blue crown and short black pointed beak.",
+          "indo": "seekor burung dengan dada putih dan mahkota biru serta paruh pendek runcing berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0071_64993.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a gray belly and breast with darker gray superciliary and crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan superciliary dan mahkota berwarna abu-abu gelap."
+        },
+        {
+          "english": "this medium sized bird has a light grey stomach butte blue from its head all the way down to is long tail.",
+          "indo": "Burung berukuran sedang ini memiliki perut berwarna abu-abu muda, mulai dari kepala hingga ekor panjang berwarna biru."
+        },
+        {
+          "english": "a long bird with a white belly, and a long tail.",
+          "indo": "seekor burung panjang dengan perut putih, dan ekor panjang."
+        },
+        {
+          "english": "long bird with a large grey tail; has a short black beak.",
+          "indo": "burung panjang dengan ekor abu-abu besar; mempunyai paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this, large, grey bird has muscular talons, a thick, medium length beak, has hints of blue on its back, and has long, thick tail feathers.",
+          "indo": "burung besar berwarna abu-abu ini memiliki cakar yang berotot, paruh yang tebal dan panjang sedang, memiliki sedikit warna biru di punggungnya, dan memiliki bulu ekor yang panjang dan tebal."
+        },
+        {
+          "english": "this bird has a light gray belly, a black bill, and a light blue nape and wings.",
+          "indo": "burung ini memiliki perut berwarna abu-abu muda, paruh berwarna hitam, serta tengkuk dan sayap berwarna biru muda."
+        },
+        {
+          "english": "this bird has a belly that is tan and secondaries that are dark brown",
+          "indo": "burung ini mempunyai perut yang berwarna coklat dan bulu sekunder yang berwarna coklat tua"
+        },
+        {
+          "english": "a medium size black bill bird with taupe throat to vent with black crown and nape with short black wings and long rectrices.",
+          "indo": "burung paruh hitam ukuran sedang dengan tenggorokan kelabu tua hingga lubang kloaka dengan mahkota dan tengkuk hitam dengan sayap hitam pendek dan rectrices ."
+        },
+        {
+          "english": "this bird is brown colored with hints of blue in its plumage, and has long rectrices.",
+          "indo": "burung ini berwarna coklat dengan sedikit warna biru pada bulunya, dan memiliki rectrices  yang panjang."
+        },
+        {
+          "english": "a gray bird with a long tail, striped wings, a wide head, a black eye, short black legs, and a long pointy beak.",
+          "indo": "burung berwarna abu-abu dengan ekor panjang, sayap bergaris, kepala lebar, mata hitam, kaki hitam pendek, dan paruh panjang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0073_64896.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this is a small bird with grayish-white feathers and a distinctive dark circle around its eye.",
+          "indo": "ini adalah burung kecil dengan bulu putih keabu-abuan dan lingkaran hitam khas di sekitar matanya."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a gray crown and short pointy bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna abu-abu dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is blue with brown on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan perut berwarna coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with a grey breast and cream belly, the bill is short and pointed, with black tarsus and feet.",
+          "indo": "burung dengan dada berwarna abu-abu dan perut berwarna krem, paruhnya pendek dan runcing, dengan tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "a brown chested bird with blue coloring on it's head and wings and a short black bill and black feet.",
+          "indo": "burung berdada coklat dengan warna biru di kepala dan sayapnya serta paruh pendek berwarna hitam dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly with a grayish crown and a black bill.",
+          "indo": "burung ini memiliki perut berwarna coklat dengan mahkota berwarna keabu-abuan dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird is gray and black in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is gray and black in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0075_65093.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a white and blue bird with a long, thick beak",
+          "indo": "seekor burung berwarna putih dan biru dengan paruh yang panjang dan tebal"
+        },
+        {
+          "english": "a medium sized bird with a white belly, and blue wings, and a long bill",
+          "indo": "burung berukuran sedang dengan perut putih, sayap biru, dan paruh panjang"
+        },
+        {
+          "english": "a medium sized bird with a dagger shaped bill and a long tail, it is mostly blue with a white streaked throat, and a beige chest and belly.",
+          "indo": "burung berukuran sedang dengan paruh berbentuk belati dan ekor panjang, sebagian besar berwarna biru dengan tenggorokan bergaris putih, serta dada dan perut berwarna krem."
+        },
+        {
+          "english": "this bird has blue wings and head, tan breast, and a white throat.",
+          "indo": "burung ini memiliki sayap dan kepala berwarna biru, dada berwarna coklat, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has blue wings and a white belly. his throat is primarily blue with white on it.",
+          "indo": "burung ini mempunyai sayap berwarna biru dan perut berwarna putih. tenggorokannya sebagian besar berwarna biru dengan warna putih di atasnya."
+        },
+        {
+          "english": "this colorful bird has a bright blue face, nape and back, a white chest and belly, and a blue and white throat.",
+          "indo": "burung berwarna-warni ini memiliki muka, tengkuk dan punggung berwarna biru cerah, dada dan perut berwarna putih, serta tenggorokan berwarna biru putih."
+        },
+        {
+          "english": "the small bird has a blue crown, white belly and bright blue wings.",
+          "indo": "burung kecil itu memiliki mahkota berwarna biru, perut berwarna putih, dan sayap berwarna biru cerah."
+        },
+        {
+          "english": "a bird with a white breast blue crown and long tail feathers.",
+          "indo": "burung dengan mahkota biru dada berwarna putih dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird has a white colored breast, and a long black bill",
+          "indo": "burung ini memiliki dada berwarna putih, dan paruh panjang berwarna hitam"
+        },
+        {
+          "english": "this bird is mostly blue with a light beige belly, a blue throat with a white stripe in it and a large slightly curved bill.",
+          "indo": "burung ini sebagian besar berwarna biru dengan perut berwarna krem ​​​​muda, tenggorokan berwarna biru dengan garis putih di dalamnya dan paruh besar yang agak melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0078_64692.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a large bird has a grey crown, sky blue colored wings, and large outer rectrices.",
+          "indo": "seekor burung besar memiliki mahkota abu-abu, sayap berwarna biru langit, dan outer rectrices yang besar."
+        },
+        {
+          "english": "this is a blue and white bird with a long tail and a gray head.",
+          "indo": "ini adalah burung berwarna biru dan putih dengan ekor panjang dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "bird has blue body feathers, gray breast feather, and thin beak",
+          "indo": "Burung ini memiliki bulu badan berwarna biru, bulu dada berwarna abu-abu, dan paruh tipis"
+        },
+        {
+          "english": "a blue and grey bird with long inner and outer rectrices.",
+          "indo": "seekor burung biru dan abu-abu dengan inner dan outer rectrices."
+        },
+        {
+          "english": "this bird has a blue stripe on its back, blue primaries and rectrices and gray belly, crown and throat.",
+          "indo": "burung ini memiliki garis biru di punggungnya, warna bulu primer dan rectrices  berwarna biru, serta perut, ubun-ubun, dan tenggorokan berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this is a white bird with a long blue tail and blue wings and back.",
+          "indo": "ini adalah burung berwarna putih dengan ekor biru panjang dan sayap serta punggung biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a blue crown and black eyebrow, its back, wings and tail are blue however is throat and belly are white.",
+          "indo": "burung ini mempunyai mahkota berwarna biru dan alis berwarna hitam, punggung, sayap dan ekornya berwarna biru namun tenggorokan dan perutnya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0079_64713.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a bird has a white belly, light blue wings, and small black bill.",
+          "indo": "seekor burung memiliki perut berwarna putih, sayap berwarna biru muda, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "the bird has a blue crown and a long blue tail with a white belly and chest.",
+          "indo": "burung ini memiliki mahkota berwarna biru dan ekor panjang berwarna biru dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "a small bird with a white head and blue nape, with white and blue covering the rest of its body",
+          "indo": "seekor burung kecil dengan kepala berwarna putih dan tengkuk berwarna biru, dengan warna putih dan biru menutupi seluruh tubuhnya"
+        },
+        {
+          "english": "this bird has a white breast and belly with blue wings and tail.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan sayap dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has a short beak and a white belly",
+          "indo": "burung ini memiliki paruh pendek dan perut berwarna putih"
+        },
+        {
+          "english": "this white bird has a blue nape, wings, tail and beak.",
+          "indo": "burung berwarna putih ini memiliki tengkuk, sayap, ekor dan paruh berwarna biru."
+        },
+        {
+          "english": "a bird with a white belly and breast and the bill is pointed and the head is small compared to its body",
+          "indo": "burung dengan perut dan dada berwarna putih, paruh runcing, dan kepala lebih kecil dibandingkan badannya"
+        },
+        {
+          "english": "a small bird with a white breast and blue feathers.",
+          "indo": "seekor burung kecil dengan dada putih dan bulu biru."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this white small bird has sky blue wings and patches of sky blue on its crown and back of the head and a long black and blue tail.",
+          "indo": "burung kecil berwarna putih ini memiliki sayap berwarna biru langit dan bercak biru langit pada ubun-ubun dan belakang kepala serta ekor panjang berwarna hitam biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0080_64505.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a short black bill and a small crown.",
+          "indo": "burung itu mempunyai paruh pendek berwarna hitam dan mahkota kecil."
+        },
+        {
+          "english": "a bird with brown crown, black wings and tarsus, the head head is small compare to its body",
+          "indo": "burung dengan mahkota coklat, sayap hitam dan tarsus, kepala kepala kecil dibandingkan badannya"
+        },
+        {
+          "english": "the light brown bird has blue wings, blue rectrices and a darker brown head.",
+          "indo": "burung berwarna coklat muda memiliki sayap biru, rectrices  biru dan kepala coklat tua."
+        },
+        {
+          "english": "this bird has a brown head and nape area with a light grey colored breast and belly.",
+          "indo": "burung ini memiliki area kepala dan tengkuk berwarna coklat dengan bagian dada dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "a medium sized bird with a grey belly, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan perut berwarna abu-abu, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "a grey bird with a short beak and wide neck.",
+          "indo": "burung berwarna abu-abu dengan paruh pendek dan leher lebar."
+        },
+        {
+          "english": "this bird has a brown crown and a short, black bill.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird is grey with blue and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna biru dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a very expansive grey breast and side plus blue and black wing coverts.",
+          "indo": "seekor burung kecil dengan dada dan samping berwarna abu-abu yang sangat luas ditambah bulu sayap berwarna biru dan hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0081_64859.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has blue and black coverts, a blue neck, and a black head with a long white eyebrow.",
+          "indo": "burung ini mempunyai bulu berwarna biru dan hitam, leher berwarna biru, dan kepala berwarna hitam dengan alis yang panjang berwarna putih."
+        },
+        {
+          "english": "a medium bird with large baby blue wings and nape and big black rectrices.",
+          "indo": "burung berukuran sedang dengan sayap dan tengkuk bayi biru besar dan rectrices  hitam besar."
+        },
+        {
+          "english": "this wide-winged bird is primarily blue with a white eyebrow stripe and a medium beak.",
+          "indo": "burung bersayap lebar ini sebagian besar berwarna biru dengan garis alis putih dan paruh sedang."
+        },
+        {
+          "english": "this bird is blue with brown on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan punggung berwarna coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "an exotic looking bird with large blue and black wings and tail",
+          "indo": "seekor burung yang tampak eksotis dengan sayap dan ekor besar berwarna biru dan hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the large bird has silver coverts and secondaries and protruding are its black iner and outer rectrices.",
+          "indo": "burung besar memiliki bulu berwarna perak dan bulu sekunder serta yang menonjol adalah rectrices bagian dalam dan luarnya yang berwarna hitam."
+        },
+        {
+          "english": "the bird has large wingbars that are brown and blue and a thick bill.",
+          "indo": "burung ini memiliki garis sayap besar berwarna coklat dan biru serta paruh yang tebal."
+        },
+        {
+          "english": "this small-headed and small-beaked bird is predominantly dark blue and black, with wings that alternate between those two colors in a fan-like pattern.",
+          "indo": "burung berkepala kecil dan berparuh kecil ini didominasi warna biru tua dan hitam, dengan sayap bergantian antara kedua warna tersebut dengan pola seperti kipas."
+        },
+        {
+          "english": "this bird has wings that are black and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0083_64599.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has skinny thighs that are blue as well as a skinny bill.",
+          "indo": "burung ini memiliki paha kurus berwarna biru serta paruh yang kurus."
+        },
+        {
+          "english": "small blue and gray bird with slightly large head and gray throat",
+          "indo": "burung kecil berwarna biru dan abu-abu dengan kepala agak besar dan tenggorokan abu-abu"
+        },
+        {
+          "english": "bright blue bird with white chest and wide pointed blue beak.",
+          "indo": "burung berwarna biru cerah dengan dada putih dan paruh biru runcing lebar."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is primarily blue with some white accents on its belly and a medium sized beak.",
+          "indo": "burung ini terutama berwarna biru dengan sedikit aksen putih di perutnya dan paruh berukuran sedang."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this blue bird has a blue beak, feet, and tail, and a white breast and belly.",
+          "indo": "burung berwarna biru ini memiliki paruh, kaki, dan ekor berwarna biru, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a large blue head with long black legs, a long blue tail, a black pointy beak, and small wings.",
+          "indo": "burung ini memiliki kepala besar berwarna biru dengan kaki panjang berwarna hitam, ekor panjang berwarna biru, paruh runcing berwarna hitam, dan sayap kecil."
+        },
+        {
+          "english": "this bird is two shades of blue, with the more saturated of the two colors located on its tail, wings, crown and nape.",
+          "indo": "burung ini memiliki dua warna biru, dengan dua warna yang lebih jenuh terletak pada ekor, sayap, mahkota dan tengkuknya."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0085_65129.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this small grey bird has a blue nape and a small, short beak.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki tengkuk berwarna biru dan paruh kecil yang pendek."
+        },
+        {
+          "english": "this bird is grey and blue in color, and has a black beak with a dark eye ring.",
+          "indo": "burung ini berwarna abu-abu dan biru, serta memiliki paruh berwarna hitam dengan cincin mata berwarna gelap."
+        },
+        {
+          "english": "a medium bird with a brown body, black wings and rectrices and a black bill.",
+          "indo": "burung berukuran sedang dengan tubuh berwarna coklat, sayap dan rectrices  berwarna hitam, serta paruh berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with light grey belly with patches of blue, a white throat, and blue crown.",
+          "indo": "burung berukuran sedang dengan perut abu-abu muda dengan bercak biru, tenggorokan putih, dan mahkota biru."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill and blue crown and nape.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing serta mahkota dan tengkuk berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white throat, dark blue crown a blue nape, grey breast and belly and a short, sharp bill.",
+          "indo": "burung ini mempunyai tenggorokan berwarna putih, mahkota berwarna biru tua, tengkuk berwarna biru, dada dan perut berwarna abu-abu serta paruh yang pendek dan runcing."
+        },
+        {
+          "english": "this bird is black and gray in color, with a black beak.",
+          "indo": "burung ini berwarna hitam abu-abu, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a dark blue bill and crown with a white throat and belly.",
+          "indo": "burung ini memiliki paruh dan mahkota berwarna biru tua dengan tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "the bird is medium sized with blue gray breast and darker head.",
+          "indo": "burung itu berukuran sedang dengan dada biru abu-abu dan kepala lebih gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0086_65025.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a white breast, and throat surrounded by a blue crown, with blue bill.",
+          "indo": "burung ini memiliki dada berwarna putih, dan tenggorokan dikelilingi mahkota berwarna biru, dengan paruh berwarna biru."
+        },
+        {
+          "english": "plumage mostly blue and some white with the feet black with some blue",
+          "indo": "bulu sebagian besar berwarna biru dan sebagian putih dengan kaki hitam dan sebagian biru"
+        },
+        {
+          "english": "this is a blue and white bird with a long blue tail and a pointed beak.",
+          "indo": "ini adalah burung berwarna biru dan putih dengan ekor panjang berwarna biru dan paruh runcing."
+        },
+        {
+          "english": "bird has light blue feather acoss the head, beak, and tail feathers",
+          "indo": "Burung ini memiliki bulu berwarna biru muda pada bagian kepala, paruh, dan bulu ekor"
+        },
+        {
+          "english": "this bird is blue and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna biru putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small colorful bird with bright blue and white crown, face, coverts, with solid blue feathers on its inner and outer rectrices",
+          "indo": "seekor burung kecil berwarna-warni dengan mahkota, wajah, bulu berwarna biru cerah dan putih, dengan bulu biru solid di inner dan outer rectrices"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a tan bird known by the darker wings and tail and the small bill.",
+          "indo": "burung berwarna coklat yang dikenal dengan sayap dan ekornya yang lebih gelap serta paruhnya yang kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0088_65147.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this small bird has a short pointy bill and a purple plumage mottled with white.",
+          "indo": "burung kecil ini memiliki paruh pendek dan runcing serta bulu berwarna ungu berbintik-bintik putih."
+        },
+        {
+          "english": "this bird is brown with black on its tail and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan ekor berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "long tailed greyish bird with long tarsus and black bill.",
+          "indo": "burung ekor panjang berwarna keabu-abuan dengan tarsus panjang dan paruh hitam."
+        },
+        {
+          "english": "this bird has a white breast, a white crown, and a black bill",
+          "indo": "burung ini memiliki dada berwarna putih, mahkota berwarna putih, dan paruh berwarna hitam"
+        },
+        {
+          "english": "bird with beak that is sharp and pointed, gray wings and the size of the head is proportional to its body size",
+          "indo": "burung dengan paruh yang runcing dan runcing, sayap berwarna abu-abu dan ukuran kepala sebanding dengan ukuran tubuhnya"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a long black bill with black crown, white with black spots breast and belly and a long black tail.",
+          "indo": "Burung ini mempunyai paruh panjang berwarna hitam dengan mahkota berwarna hitam, dada dan perut berwarna putih berbintik hitam, serta ekor berwarna hitam panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are vlue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0092_64924.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "small bird with a long tail, looks to be grey or an off blue color",
+          "indo": "burung kecil dengan ekor panjang, tampak berwarna abu-abu atau biru pucat"
+        },
+        {
+          "english": "the small bird is black with black tarsus and a short black beak.",
+          "indo": "burung kecil berwarna hitam dengan tarsus hitam dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "a dark gray bird with a small pointy beak and long tail feathers.",
+          "indo": "burung berwarna abu-abu tua dengan paruh kecil runcing dan bulu ekor panjang."
+        },
+        {
+          "english": "this is a dark grey bird with a black head and a large beak.",
+          "indo": "ini adalah burung abu-abu tua dengan kepala hitam dan paruh besar."
+        },
+        {
+          "english": "small to medium white and blue bird with medium tarsus and medium beak",
+          "indo": "burung kecil hingga sedang berwarna putih dan biru dengan tarsus sedang dan paruh sedang"
+        },
+        {
+          "english": "this is a gray bird with a blue tail and head and a pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan ekor dan kepala biru serta paruh runcing."
+        },
+        {
+          "english": "the small bird has a dark bill, gray belly and dark tail feathers.",
+          "indo": "burung kecil memiliki paruh berwarna gelap, perut berwarna abu-abu, dan bulu ekor berwarna gelap."
+        },
+        {
+          "english": "a small bird with a long tail.",
+          "indo": "seekor burung kecil dengan ekor panjang."
+        },
+        {
+          "english": "this bird has a short thicker break with grey feathers.",
+          "indo": "burung ini memiliki patahan pendek yang lebih tebal dengan bulu berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a thin bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tipis"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0093_64675.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "large songbird, blue head, blue wings, blue tails, pale gray brown back and underparts, whitish throat with blue necklace",
+          "indo": "burung penyanyi besar, kepala biru, sayap biru, ekor biru, punggung dan bagian bawah coklat abu-abu pucat, tenggorokan keputihan dengan kalung biru"
+        },
+        {
+          "english": "bird with white head black small beak blue white throat and belly and the rest of the bird is blue and white.",
+          "indo": "burung berkepala putih, paruh kecil hitam, tenggorokan dan perut biru putih, dan selebihnya burung berwarna biru putih."
+        },
+        {
+          "english": "a large bird that has a white face, nape, and belly, blue wings with light blue wing bars, and a blue tail.",
+          "indo": "burung besar yang mempunyai muka, tengkuk, dan perut berwarna putih, sayap berwarna biru dengan garis sayap berwarna biru muda, dan ekor berwarna biru."
+        },
+        {
+          "english": "a bird with a large triangular bill, blue wings, and gray breast.",
+          "indo": "seekor burung dengan paruh segitiga besar, sayap biru, dan dada abu-abu."
+        },
+        {
+          "english": "this colorful bird has blue wings, and a white and grey belly.",
+          "indo": "burung berwarna-warni ini memiliki sayap biru, dan perut berwarna putih abu-abu."
+        },
+        {
+          "english": "a small blue bird, with a long tail, and a white belly.",
+          "indo": "seekor burung kecil berwarna biru, dengan ekor panjang, dan perut berwarna putih."
+        },
+        {
+          "english": "this blue and white bird has grey cheek patches, blue primaries, secondaries, and rectrices.",
+          "indo": "burung berwarna biru putih ini memiliki bercak pipi abu-abu, bulu primer biru, bulu sekunder, dan rectrices ."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this brid has blue wings with grey breast and belly",
+          "indo": "pengantin ini memiliki sayap berwarna biru dengan dada dan perut berwarna abu-abu"
+        },
+        {
+          "english": "the bird has a white crown, with blue wings, and blue rectrices.",
+          "indo": "burung itu memiliki mahkota berwarna putih, sayap biru, dan rectrices  berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0095_64707.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a colorful bird with blue wings and tail, a blue crown and a cream colored breast and belly.",
+          "indo": "burung berwarna-warni dengan sayap dan ekor biru, mahkota biru, serta dada dan perut berwarna krem."
+        },
+        {
+          "english": "this bird has a white belly and breast with a blue crown and a pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna biru dan paruh yang runcing."
+        },
+        {
+          "english": "a medium bird with a white bellly and a blue back, rectrices, and face.",
+          "indo": "burung berukuran sedang dengan perut putih dan punggung biru, rectrices, dan wajah."
+        },
+        {
+          "english": "pretty bird with blue head and wings and a gray belly. black tarsus and feet.",
+          "indo": "burung cantik dengan kepala dan sayap biru serta perut abu-abu. tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with grey on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna biru dengan warna abu-abu pada perutnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are blue with a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dengan badan berwarna putih"
+        },
+        {
+          "english": "this bird is blue with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and has blue secondaries",
+          "indo": "burung ini memiliki perut berwarna coklat dan memiliki bulu sekunder berwarna biru"
+        },
+        {
+          "english": "this bird has a blue head and wings with a brownish white belly.",
+          "indo": "burung ini memiliki kepala dan sayap berwarna biru dengan perut berwarna putih kecoklatan."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0097_64906.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this bird has a white belly along with a blue tail, blue wings, and a blue head with a pointed bill.",
+          "indo": "burung ini memiliki perut berwarna putih dengan ekor berwarna biru, sayap berwarna biru, dan kepala berwarna biru dengan paruh yang runcing."
+        },
+        {
+          "english": "small bird with a blue head, wings and tail that has a small black beak.",
+          "indo": "burung kecil dengan kepala berwarna biru, sayap dan ekor yang memiliki paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a white breast, medium sized brown bill with colors of blue, grey and black throughout with a long tail",
+          "indo": "burung ini mempunyai dada berwarna putih, paruh berwarna coklat berukuran sedang dengan warna biru, abu-abu dan hitam seluruhnya dengan ekor yang panjang"
+        },
+        {
+          "english": "a bird with a pointed beak, white underbelly, and feathers which are a mix between grey and blue.",
+          "indo": "burung dengan paruh runcing, perut bagian bawah berwarna putih, dan bulu berwarna campuran abu-abu dan biru."
+        },
+        {
+          "english": "a white bird with blue coloring on it's wings, crown, and outer rectrices.",
+          "indo": "burung berwarna putih dengan warna biru pada sayap, mahkota, dan rectrices luarnya."
+        },
+        {
+          "english": "a long torso bird with a blue crown and a white belly with gray feathers along the back.",
+          "indo": "burung berbadan panjang dengan mahkota biru dan perut putih dengan bulu abu-abu di sepanjang punggung."
+        },
+        {
+          "english": "this bird is white and blue in color, with a black beak.",
+          "indo": "burung ini berwarna putih biru, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white with black spots",
+          "indo": "burung ini memiliki perut berwarna abu-abu putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird is blue with a white belly and a pointy beak.",
+          "indo": "burung ini berwarna biru dengan perut berwarna putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has a blue bill and brown, blue rectrices, and a white belly.",
+          "indo": "burung ini mempunyai paruh berwarna biru dan coklat, rectrices berwarna biru, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0099_64735.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a blue bird with grey on it and black feet with a black bill",
+          "indo": "seekor burung biru dengan warna abu-abu di atasnya dan kaki hitam dengan paruh hitam"
+        },
+        {
+          "english": "this bird is grey and blue in color with a stubby black beak and black eye ring.",
+          "indo": "burung ini berwarna abu-abu dan biru dengan paruh hitam gemuk dan cincin mata hitam."
+        },
+        {
+          "english": "this is a blue bird with a grey belly and a black beak.",
+          "indo": "ini adalah burung biru dengan perut abu-abu dan paruh hitam."
+        },
+        {
+          "english": "this bird has a grey belly and breast with a short pointy bill and blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan paruh pendek runcing serta mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this is a bird with a gray belly and a blue wing and head.",
+          "indo": "ini adalah burung dengan perut abu-abu dan sayap serta kepala biru."
+        },
+        {
+          "english": "this bird's wings, rectrices, head and breast are a light blue; its beak is small and pointed; and its feet and tarsi are darker blue.",
+          "indo": "sayap, rectrices, kepala dan dada burung ini berwarna biru muda; paruhnya kecil dan runcing; dan kaki serta tarsinya berwarna biru tua."
+        },
+        {
+          "english": "this is a mid-size bird with a blue crown, back and breast, a black bill and very long inner and outer rectrices.",
+          "indo": "ini adalah burung berukuran sedang dengan mahkota biru, punggung dan dada, paruh hitam dan rectrices inner dan outer rectrices yang sangat panjang."
+        },
+        {
+          "english": "the small bird is primarily blue with shades of gray throughout the body, and the feet are black.",
+          "indo": "burung kecil ini sebagian besar berwarna biru dengan corak abu-abu di seluruh tubuhnya, dan kakinya berwarna hitam."
+        },
+        {
+          "english": "this bird has a blue crown with a grey nape and blue secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna biru dengan tengkuk berwarna abu-abu dan bulu sekunder berwarna biru."
+        },
+        {
+          "english": "this bird has a blue crown, blue primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, bulu primer berwarna biru, dan perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0100_64645.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this fluffy bird has a white breast and a black bill.",
+          "indo": "burung berbulu halus ini memiliki dada berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "a blue and grey bird with a blue crown, grey cheek patch and belly.",
+          "indo": "burung berwarna biru dan abu-abu dengan mahkota biru, pipi dan perut abu-abu."
+        },
+        {
+          "english": "the bird has a brown belly, abdomen and side with blue crown and nape.",
+          "indo": "burung ini memiliki perut, perut dan samping berwarna coklat dengan mahkota dan tengkuk berwarna biru."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill, and a blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing, serta mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this small blue and white bird has a very small patch of black on the tips of the primary wings, a light robin egg blue crown and nape.",
+          "indo": "burung kecil berwarna biru dan putih ini memiliki bercak hitam yang sangat kecil di ujung sayap utama, mahkota dan tengkuk berwarna biru telur robin muda."
+        },
+        {
+          "english": "this particular bird has a white belly and a blue head",
+          "indo": "burung ini memiliki perut berwarna putih dan kepala berwarna biru"
+        },
+        {
+          "english": "this bird has blue wings and a blue face with grey cheek patches.",
+          "indo": "burung ini mempunyai sayap berwarna biru dan muka berwarna biru dengan bercak pipi berwarna abu-abu."
+        },
+        {
+          "english": "this is a blue bird with light gray breast, belly and abdomen, as well as a long tail.",
+          "indo": "ini adalah burung berwarna biru dengan dada, perut dan perut berwarna abu-abu muda, serta ekor yang panjang."
+        },
+        {
+          "english": "this bird has a blue crown with a white belly and a black beak.",
+          "indo": "burung ini memiliki mahkota berwarna biru dengan perut berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a white and blue breast and a blue crown coloring",
+          "indo": "burung ini mempunyai dada berwarna putih biru dan warna mahkotanya biru"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0103_64537.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "the bird has a white breast and throat as well as skinny tarsus.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna putih serta tarsus yang kurus."
+        },
+        {
+          "english": "a small colorful bird with bright blue feathers on its head, nape, and rectrices, and white on its belly and throat.",
+          "indo": "burung kecil berwarna-warni dengan bulu biru cerah di kepala, tengkuk, dan rectrices, serta putih di perut dan tenggorokan."
+        },
+        {
+          "english": "this bird is white, and vivid blue in color with a short beak and blue eye rings.",
+          "indo": "burung ini berwarna putih, berwarna biru cerah dengan paruh pendek dan cincin mata biru."
+        },
+        {
+          "english": "this bird is white and blue in color with a stubby beak, and blue eye rings.",
+          "indo": "burung ini berwarna putih biru dengan paruh gemuk, dan cincin mata berwarna biru."
+        },
+        {
+          "english": "this is a bird with a white belly and throat and a blue back and head.",
+          "indo": "ini adalah burung dengan perut dan tenggorokan berwarna putih serta punggung dan kepala berwarna biru."
+        },
+        {
+          "english": "this bird has a vivid color contrast with its blue breast and white belly.",
+          "indo": "burung ini memiliki warna kontras yang cerah dengan dada biru dan perut putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a brightly colored blue bird with a white belly and throat and also a black beak.",
+          "indo": "burung berwarna biru cerah dengan perut dan tenggorokan berwarna putih serta paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a flat head with light blue on the crown and back, and white on it's wings and sides.",
+          "indo": "Burung ini mempunyai kepala yang pipih dengan warna biru muda pada bagian ubun-ubun dan punggung, serta warna putih pada sayap dan sisinya."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0104_64885.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this colorful bird has bright blue wings and tail, a blue breast, white throat and belly and a white crown with blue cheeks and a pale grey pointed bill.",
+          "indo": "burung berwarna-warni ini memiliki sayap dan ekor berwarna biru cerah, dada berwarna biru, tenggorokan dan perut berwarna putih, serta mahkota berwarna putih dengan pipi biru dan paruh runcing berwarna abu-abu pucat."
+        },
+        {
+          "english": "this bird has a long blue tail and wings white breast and belly red and white tarsus",
+          "indo": "Burung ini mempunyai ekor panjang berwarna biru, sayap dada berwarna putih, dan perut tarsus berwarna merah putih"
+        },
+        {
+          "english": "this bird has a bright blue throat, primaries and rectrices, white belly and white crown and bill.",
+          "indo": "burung ini memiliki tenggorokan berwarna biru cerah, bulu primer dan rectrices, perut berwarna putih, serta mahkota dan paruh berwarna putih."
+        },
+        {
+          "english": "bird has a small flat grey beak and a white head a blue throat and breast, gelly is white the wings are blue and the rectrices are blue as well.",
+          "indo": "burung memiliki paruh kecil berwarna abu-abu datar dan kepala berwarna putih, tenggorokan dan dada berwarna biru, berwarna putih gel, sayap berwarna biru dan rectrices  juga berwarna biru."
+        },
+        {
+          "english": "this small bird has blue wings and a blue tail, a pointed beak, and has large feet.",
+          "indo": "burung kecil ini mempunyai sayap berwarna biru dan ekor berwarna biru, paruh runcing, dan memiliki kaki yang besar."
+        },
+        {
+          "english": "this bright blue bird has a long tail, pointy white beak and a white stomach.",
+          "indo": "Burung berwarna biru cerah ini memiliki ekor panjang, paruh runcing berwarna putih, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a colorful bird with a white head, which transitions into blue on the wings and tail feathers.",
+          "indo": "burung berwarna-warni dengan kepala berwarna putih, bertransisi menjadi biru pada sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird has a streaked white breast and a white pointed bill",
+          "indo": "burung ini memiliki dada bergaris putih dan paruh runcing berwarna putih"
+        },
+        {
+          "english": "this white perching bird has blue on the wings, tail, neck and breast.",
+          "indo": "burung bertengger berwarna putih ini memiliki warna biru pada bagian sayap, ekor, leher dan dada."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0105_64522.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this relatively long-tailed bird with its sturdy black bill is primarily blue with light gray on its back and abdomen.",
+          "indo": "burung berekor relatif panjang ini dengan paruhnya yang hitam kokoh, sebagian besar berwarna biru dengan abu-abu muda di punggung dan perutnya."
+        },
+        {
+          "english": "from a standing view the bird is showing long inner and outer rectrices that are a nice color of blue.",
+          "indo": "dari pandangan berdiri, burung itu memperlihatkan inner dan outer rectrices yang berwarna biru bagus."
+        },
+        {
+          "english": "the black beaked blue/gray breasted bird is perched on a small branch.",
+          "indo": "burung berparuh hitam berparuh biru/abu-abu sedang bertengger di dahan kecil."
+        },
+        {
+          "english": "this bird has a whitw and blue belly, the bill is short and curved, with white and blue covering the rest of its body.",
+          "indo": "burung ini mempunyai perut berwarna putih keputihan dan berwarna biru, paruhnya pendek dan melengkung, dengan warna putih dan biru menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this small blue bird has a short, black beak and a gray belly.",
+          "indo": "burung kecil berwarna biru ini memiliki paruh pendek berwarna hitam dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a gray belly and blue breasts and throat and blue secondaries",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan dada serta tenggorokan berwarna biru serta bulu sekunder berwarna biru"
+        },
+        {
+          "english": "this is a very beautiful bird with different areas of a very beautiful blue.",
+          "indo": "ini adalah burung yang sangat indah dengan area berbeda berwarna biru yang sangat indah."
+        },
+        {
+          "english": "this bird has a blue crown, blue primaries, and a blue and grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, bulu primer berwarna biru, dan perut berwarna biru dan abu-abu."
+        },
+        {
+          "english": "this is a mostly blue bird, with black tarsus and white sides.",
+          "indo": "ini sebagian besar burung berwarna biru, dengan tarsus hitam dan sisi putih."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0108_64694.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a medium sized bird with blue head, pale grey throat and belly, blue breast wings and tail and pale grey back.",
+          "indo": "burung berukuran sedang dengan kepala berwarna biru, tenggorokan dan perut berwarna abu-abu pucat, sayap dan ekor dada berwarna biru, serta punggung berwarna abu-abu pucat."
+        },
+        {
+          "english": "this is a bird with a grey belly, blue wing and a blue head.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap biru dan kepala biru."
+        },
+        {
+          "english": "a blue and grey bird with a black and blue beak and grey breast.",
+          "indo": "burung biru dan abu-abu dengan paruh hitam dan biru serta dada abu-abu."
+        },
+        {
+          "english": "a white and blue bird with a blue head, white sides and belly, gray tarsus and feet, and blue wings.",
+          "indo": "burung berwarna putih dan biru dengan kepala biru, sisi dan perut putih, tarsus dan kaki abu-abu, dan sayap biru."
+        },
+        {
+          "english": "this bird is white and blue in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih biru dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with grey and has a very short beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are blue and has white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a blue head and crown and blue wings with a grey breast.",
+          "indo": "burung ini memiliki kepala dan mahkota berwarna biru serta sayap berwarna biru dengan dada berwarna abu-abu."
+        },
+        {
+          "english": "a bird with a white breast and a blue crown and long blue tail feathers.",
+          "indo": "burung dengan dada berwarna putih dan mahkota berwarna biru serta bulu ekor panjang berwarna biru."
+        },
+        {
+          "english": "a small bird with a blue head, wings, and tail and grey belly.",
+          "indo": "seekor burung kecil dengan kepala, sayap, dan ekor berwarna biru serta perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0109_64558.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "a bird with a pointed triangular bill, white throat and and side, with blue nap and blue secondaries",
+          "indo": "burung dengan paruh runcing berbentuk segitiga, tenggorokan dan samping berwarna putih, dengan tidur siang berwarna biru dan paruh kedua berwarna biru"
+        },
+        {
+          "english": "this bird is blue and white in color with a large black beak and blue eye rings.",
+          "indo": "burung ini berwarna biru putih dengan paruh besar berwarna hitam dan cincin mata berwarna biru."
+        },
+        {
+          "english": "this bird has a blue tail and a black beak.",
+          "indo": "burung ini memiliki ekor berwarna biru dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill with a blue crown, wing, and long tail.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing dengan mahkota biru, sayap, dan ekor panjang."
+        },
+        {
+          "english": "small to medium blue and white bird with long black tarsus and medium black beak",
+          "indo": "burung kecil hingga sedang berwarna biru putih dengan tarsus hitam panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a medium size bird with a grey belly and throat and blue head, breast, wings and tail.",
+          "indo": "burung berukuran sedang dengan perut dan tenggorokan berwarna abu-abu serta kepala, dada, sayap, dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small bird, with purple primaries and cape, with a black bill.",
+          "indo": "seekor burung kecil, dengan warna bulu primer dan jubah ungu, dengan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0110_64605.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this colorful bird has both bright blue and white plumage.",
+          "indo": "burung berwarna-warni ini memiliki bulu berwarna biru cerah dan putih."
+        },
+        {
+          "english": "the bird has a blue crown and a long bill.",
+          "indo": "burung itu memiliki mahkota berwarna biru dan paruh yang panjang."
+        },
+        {
+          "english": "a larger bird with a long pointed beak, blue nape, head and feathers, white breast.",
+          "indo": "burung lebih besar dengan paruh panjang runcing, tengkuk biru, kepala dan bulu, dada putih."
+        },
+        {
+          "english": "bird with gray crown, belly, side and abdomen, and black beak, eye, tarsus and feet",
+          "indo": "burung dengan mahkota abu-abu, perut, samping dan perut, serta paruh, mata, tarsus dan kaki berwarna hitam"
+        },
+        {
+          "english": "this bird has a white belly and a blue back and head.",
+          "indo": "burung ini memiliki perut berwarna putih dan punggung serta kepala berwarna biru."
+        },
+        {
+          "english": "a colorful bird with a bright blue crown nape and vent, this bird has a grey and white mixture long its breast and belly.",
+          "indo": "burung warna warni dengan mahkota tengkuk dan lubang kloaka berwarna biru cerah, burung ini memiliki warna campuran abu-abu putih di sepanjang dada dan perutnya."
+        },
+        {
+          "english": "the bird has a white abdomen, crown, and throat, with a purple breast, wings and tail, and has a short black bill.",
+          "indo": "burung ini memiliki perut, mahkota, dan tenggorokan berwarna putih, dengan dada, sayap dan ekor berwarna ungu, serta paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and blue",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan biru"
+        },
+        {
+          "english": "this blue and white bird has a very long tail that sticks straight down.",
+          "indo": "Burung berwarna biru putih ini mempunyai ekor yang sangat panjang dan menjulur lurus ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Florida_Jay_0111_64651.jpg",
+      "class_id": 73,
+      "captions": [
+        {
+          "english": "this is a grey bird with blue wings and blue on the back of its head.",
+          "indo": "ini adalah burung berwarna abu-abu dengan sayap biru dan biru di bagian belakang kepalanya."
+        },
+        {
+          "english": "an upright and slim bird with metallic dark blue nape, rump, and uppertail coverts.",
+          "indo": "burung yang tegak dan langsing dengan tengkuk, pantat, dan bulu ekor bagian atas berwarna biru tua metalik."
+        },
+        {
+          "english": "this is a grey bird with a blue head and back.",
+          "indo": "ini adalah burung abu-abu dengan kepala dan punggung berwarna biru."
+        },
+        {
+          "english": "this is a grey bird with a blue wing and a blue nape.",
+          "indo": "ini adalah burung abu-abu dengan sayap biru dan tengkuk biru."
+        },
+        {
+          "english": "this is a small grey bird with blue on the nape and wingbars.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan warna biru di tengkuk dan garis sayap."
+        },
+        {
+          "english": "a small colorful bird that has teal a teal and black vent, and a grey and light brown colored chest and belly.",
+          "indo": "seekor burung kecil berwarna-warni yang memiliki lubang berwarna biru kehijauan dan hitam, serta dada dan perut berwarna abu-abu dan coklat muda."
+        },
+        {
+          "english": "this particular bird has a gray belly and breasts with a blue throat",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan tenggorokan berwarna biru"
+        },
+        {
+          "english": "this particular bird has a belly that is gray with black patches and blue on the secondaries",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan bercak hitam dan biru pada bagian sekundernya"
+        },
+        {
+          "english": "this bird has blue outer rectrices with a blue nape, black crown and a short black beak.",
+          "indo": "burung ini memiliki outer rectrices berwarna biru dengan tengkuk biru, mahkota hitam, dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has blue grey nape and coverts with black inner rectrices.",
+          "indo": "burung ini memiliki tengkuk dan bulu berwarna abu-abu biru dengan inner rectrices berwarna hitam."
+        }
+      ]
+    }
+  ]
+}

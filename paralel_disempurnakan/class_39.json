@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Olive_Sided_Flycatcher_0001_30669.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small grey bird, with a slight crest on it's crown, a white eyering, pale grey belly and white stripes on pale grey wings with a slightly darker grey tail.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan sedikit jambul di mahkotanya, cincin mata berwarna putih, perut abu-abu pucat dan garis-garis putih pada sayap abu-abu pucat dengan ekor abu-abu yang sedikit lebih gelap."
+        },
+        {
+          "english": "this bird has a fluffy gray crown, gray breast and primaries and a short grey bill.",
+          "indo": "burung ini memiliki mahkota berbulu halus berwarna abu-abu, dada dan bulu primer berwarna abu-abu, serta paruh pendek berwarna abu-abu."
+        },
+        {
+          "english": "this is a grey bird with a small black beak.",
+          "indo": "ini adalah burung abu-abu dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a gray crown and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota berwarna abu-abu dan paruh pendek dan runcing."
+        },
+        {
+          "english": "grey small bird with combed back hair on his head.",
+          "indo": "burung kecil berwarna abu-abu dengan rambut disisir ke belakang di kepalanya."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small, gray bird has white wingbars and a short and pointed bill.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki garis sayap berwarna putih dan paruh yang pendek dan runcing."
+        },
+        {
+          "english": "small bird with a light grey breast, belly and wingbars, its back, tail and crown are a darker grey and it has a small bill.",
+          "indo": "burung kecil dengan dada, perut dan sayap berwarna abu-abu muda, punggung, ekor dan mahkotanya berwarna abu-abu gelap dan paruhnya kecil."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is almost entirely gray, with dark gray wings and a pale gray belly.",
+          "indo": "burung ini hampir seluruhnya berwarna abu-abu, dengan sayap berwarna abu-abu tua dan perut berwarna abu-abu pucat."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0002_30776.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small bird that is black on top (head, back, wings, tail), has a small crest, and has a white belly.",
+          "indo": "burung kecil yang bagian atasnya berwarna hitam (kepala, punggung, sayap, ekor), jambul kecil, dan perut berwarna putih."
+        },
+        {
+          "english": "this small bird has a black back, white belly short beak.",
+          "indo": "Burung kecil ini memiliki punggung berwarna hitam, paruh pendek dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is black in color with a skinny black beak and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh hitam kurus dan cincin mata hitam."
+        },
+        {
+          "english": "this black little bird has a white breast and bely and white wing bars.",
+          "indo": "Burung kecil berwarna hitam ini memiliki dada dan perut berwarna putih serta garis sayap berwarna putih."
+        },
+        {
+          "english": "black bird with some white stripes on his wings and a black bill and white belly",
+          "indo": "burung hitam dengan beberapa garis putih di sayapnya dan paruh hitam serta perut putih"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a gray bird with a long tail and a white belly and abdomen.",
+          "indo": "ini adalah burung berwarna abu-abu dengan ekor panjang dan perut serta perut berwarna putih."
+        },
+        {
+          "english": "this",
+          "indo": "ini"
+        },
+        {
+          "english": "this bird has a white feathery breast and a pointed black bill",
+          "indo": "burung ini memiliki dada berbulu putih dan paruh hitam runcing"
+        },
+        {
+          "english": "this bird has an all brown body except for a white underbelly and a flat bill.",
+          "indo": "burung ini memiliki tubuh yang seluruhnya berwarna coklat kecuali perut bagian bawah berwarna putih dan paruh yang rata."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0005_30734.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has a skinny bill that is brown as well as skinny tarsus.",
+          "indo": "burung ini memiliki paruh kurus berwarna coklat serta tarsus kurus."
+        },
+        {
+          "english": "a small bird with a beige throat, belly and tarsus with brown feathers covering the rest of its body.",
+          "indo": "seekor burung kecil dengan tenggorokan, perut, dan tarsus berwarna krem ​​​​dengan bulu berwarna coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a brown crown and light brown wingbars.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota berwarna coklat dan garis sayap berwarna coklat muda."
+        },
+        {
+          "english": "small brown and white bird with a small orange beak",
+          "indo": "burung kecil berwarna coklat dan putih dengan paruh kecil berwarna oranye"
+        },
+        {
+          "english": "this small bird is light brown and has a white breast",
+          "indo": "burung kecil ini berwarna coklat muda dan memiliki dada berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a small beak, white belly with a brown head, wings, and tail feathers.",
+          "indo": "burung dengan paruh kecil, perut berwarna putih dengan kepala, sayap, dan bulu ekor berwarna coklat."
+        },
+        {
+          "english": "a small bird with a bird body, and a slight mohawk on the top of its head.",
+          "indo": "seekor burung kecil dengan tubuh burung, dan sedikit mohawk di bagian atas kepalanya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0006_30824.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird has a light gray body, dark gray head, and a white breast.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu terang, kepala berwarna abu-abu tua, dan dada berwarna putih."
+        },
+        {
+          "english": "this is a charcoal colored bird with a conical pointed bill.",
+          "indo": "ini adalah burung berwarna arang dengan paruh runcing berbentuk kerucut."
+        },
+        {
+          "english": "this bird is brown and white in color with a pointy black beak and black eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh hitam runcing dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp black beak, and black eye rings.",
+          "indo": "Burung ini berwarna putih kehitaman dengan paruh berwarna hitam runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a dirty white chest and dark brown head and wings",
+          "indo": "burung kecil ini memiliki dada berwarna putih kotor serta kepala dan sayap berwarna coklat tua"
+        },
+        {
+          "english": "a small grey and black bird with a patch of white on it's belly and on it's throat.",
+          "indo": "seekor burung kecil berwarna abu-abu dan hitam dengan bercak putih di perut dan tenggorokannya."
+        },
+        {
+          "english": "this bird is white and brown in color, with a sharp beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh yang runcing."
+        },
+        {
+          "english": "a small bird with a short pointy beak and black head.",
+          "indo": "seekor burung kecil dengan paruh pendek runcing dan kepala berwarna hitam."
+        },
+        {
+          "english": "this small bird has a white and brown belly, and it has a pointed bill.",
+          "indo": "burung kecil ini memiliki perut berwarna putih kecokelatan, serta paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0008_30686.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird has a white belly, a bright orange bill, and a vent that is bright white.",
+          "indo": "seekor burung mempunyai perut berwarna putih, paruh berwarna jingga cerah, dan lubang kloaka berwarna putih cerah."
+        },
+        {
+          "english": "this bird's underside is yellow with brown spots and the beak is short but spark and the head is medium sized compared to the body.",
+          "indo": "bagian bawah burung ini berwarna kuning dengan bintik-bintik coklat dan paruhnya pendek namun berkilau dan kepalanya berukuran sedang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this medium to large brown bird has a light green circle of feathers on its belly and a long grey tail.",
+          "indo": "Burung berwarna coklat berukuran sedang hingga besar ini memiliki lingkaran bulu berwarna hijau muda di perutnya dan ekor panjang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with its head size proportional to its body size, with gray crown and nape, and black inner and outer rectrices",
+          "indo": "burung dengan ukuran kepala sebanding dengan ukuran badan, mahkota dan tengkuk berwarna abu-abu, serta inner dan outer rectrices berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this small bird is mostly grey with a white chest and yellow beak.",
+          "indo": "burung kecil ini sebagian besar berwarna abu-abu dengan dada berwarna putih dan paruh berwarna kuning."
+        },
+        {
+          "english": "this smallish medium bird has a short dark gray tail, a yellow and white underbelly with some dark gray feathers, a dark gray back, brown eyes, and a triangular sharp orange beak.",
+          "indo": "Burung berukuran sedang bertubuh kecil ini memiliki ekor pendek berwarna abu-abu tua, perut bagian bawah berwarna kuning putih dengan beberapa bulu berwarna abu-abu tua, punggung berwarna abu-abu tua, mata berwarna coklat, dan paruh berwarna oranye runcing berbentuk segitiga."
+        },
+        {
+          "english": "the bird has a round dark colored eye, a yellow and gray belly, and a gray eye brown.",
+          "indo": "burung ini memiliki mata bulat berwarna gelap, perut kuning dan abu-abu, serta mata abu-abu coklat."
+        },
+        {
+          "english": "a small bird with a light tan chest and belly, yellow beak and dark brown wings, crown and cheeks.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna coklat muda, paruh kuning dan sayap, mahkota dan pipi berwarna coklat tua."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0009_796885.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this brown and slightly yellowish bird has a long slender body",
+          "indo": "burung berwarna coklat dan agak kekuningan ini mempunyai tubuh yang panjang dan langsing"
+        },
+        {
+          "english": "a small bird with a narrow pointed beak, this bird also has a cream colored chest, and light brown on its sides.",
+          "indo": "merupakan burung berukuran kecil dengan paruh runcing yang sempit, burung ini juga memiliki dada berwarna krem, dan sisi-sisinya berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long brown tail, white breast and belly, and a brown head.",
+          "indo": "burung ini memiliki ekor panjang berwarna coklat, dada dan perut berwarna putih, serta kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly, grey sides and head and a pointy beak.",
+          "indo": "burung ini memiliki perut berwarna putih, sisi dan kepala berwarna abu-abu, serta paruh yang runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this bird has a large head and streamline body, with a stout, pointed beak, brown plumage and white breast.",
+          "indo": "Burung ini mempunyai kepala yang besar dan badan yang ramping, dengan paruh yang kokoh dan runcing, bulu berwarna coklat dan dada berwarna putih."
+        },
+        {
+          "english": "a white bellied bird with grey sides and a grey head.",
+          "indo": "burung berperut putih dengan sisi abu-abu dan kepala abu-abu."
+        },
+        {
+          "english": "a small brown bird with long wings",
+          "indo": "seekor burung kecil berwarna coklat dengan sayap panjang"
+        },
+        {
+          "english": "a bird with yellow and white throat,breast and chin.",
+          "indo": "seekor burung dengan tenggorokan, dada dan dagu berwarna kuning dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0012_796876.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird has a raised nape which makes it look like it's got a mohawk.",
+          "indo": "burung ini mempunyai tengkuk yang terangkat sehingga terlihat seperti mempunyai mohawk."
+        },
+        {
+          "english": "the bird with black crown, back, belly and breast, tarsus and feet and the bill is red and pointed",
+          "indo": "burung dengan mahkota berwarna hitam, punggung, perut dan dada, tarsus dan kaki serta paruh berwarna merah dan runcing"
+        },
+        {
+          "english": "a gray and brown bird that has a orange bill with a brown wingbar",
+          "indo": "burung berwarna abu-abu coklat yang memiliki paruh berwarna jingga dengan garis sayap berwarna coklat"
+        },
+        {
+          "english": "a gray bird with a pointed orange beak.",
+          "indo": "seekor burung abu-abu dengan paruh oranye runcing."
+        },
+        {
+          "english": "this bird is brown with a red bea and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan paruh berwarna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown with a light tan belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dengan perut berwarna coklat muda"
+        },
+        {
+          "english": "this bird is grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is gray and black in color, with a orange beak.",
+          "indo": "burung ini berwarna abu-abu dan hitam, dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird is black and green with an orange pointy beak, a long tail, fuzzy hair on its head, and black feet.",
+          "indo": "burung ini berwarna hitam hijau dengan paruh runcing berwarna jingga, ekor panjang, bulu halus di kepala, dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird is grey with black and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0013_30550.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "an unremarkable bird with bark colored back and wings and a white belly.",
+          "indo": "seekor burung biasa-biasa saja dengan punggung dan sayap berwarna kulit kayu serta perut berwarna putih."
+        },
+        {
+          "english": "the bird has a brown crown and a black eyering that is round.",
+          "indo": "burung itu mempunyai mahkota berwarna coklat dan cincin mata hitam yang berbentuk bulat."
+        },
+        {
+          "english": "this is a light black bird with a white belly and a short pointed bill.",
+          "indo": "ini adalah burung berwarna hitam muda dengan perut putih dan paruh runcing pendek."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a small black beak.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "bird with gray crown, nape, light gray throat, and white belly and abdomen, gray wings, inner and outer rectrices",
+          "indo": "burung dengan mahkota berwarna abu-abu, tengkuk, tenggorokan berwarna abu-abu muda, serta perut dan perut berwarna putih, sayap berwarna abu-abu, inner dan outer rectrices"
+        },
+        {
+          "english": "this bird has wings that are black with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this smaller bird has a white belly and lower breast with brown predominately on the top starting just above the tail all the way to a solid brown nape and crown.",
+          "indo": "burung yang lebih kecil ini memiliki perut berwarna putih dan dada bagian bawah dengan dominasi warna coklat di bagian atas mulai tepat di atas ekor hingga tengkuk dan mahkota berwarna coklat solid."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a brown bird with a white abdomen and a pointed beak.",
+          "indo": "seekor burung berwarna coklat dengan perut putih dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0014_30651.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this little bird has a white belly and breast, and the rest is light brown.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, dan sisanya berwarna coklat muda."
+        },
+        {
+          "english": "the little bird has a brown body and white belly along with a yellow beak and brown crown.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna coklat dan perut berwarna putih serta paruh berwarna kuning dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this small bird has a white throat, grey breast and a white belly. also, white wingbars, and the outer rectrices a mix of white and grey.",
+          "indo": "burung kecil ini memiliki tenggorokan berwarna putih, dada berwarna abu-abu, dan perut berwarna putih. juga, garis sayap berwarna putih, dan outer rectrices campuran putih dan abu-abu."
+        },
+        {
+          "english": "a small grey and white bird with a head the same size as the body and one spotted white wingbar",
+          "indo": "seekor burung kecil berwarna abu-abu putih dengan kepala seukuran badan dan satu garis sayap berbintik putih"
+        },
+        {
+          "english": "a small bird with a gray color head, and wings, with a white belly.",
+          "indo": "seekor burung kecil dengan kepala berwarna abu-abu, dan sayap, dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a brown head, back and wings, with white wingbars and throat and a pointed yellow bill.",
+          "indo": "burung kecil ini memiliki kepala, punggung dan sayap berwarna coklat, dengan garis sayap dan tenggorokan berwarna putih serta paruh runcing berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a tiny bird with a long pointy beak compared to head and long rectrices.",
+          "indo": "seekor burung kecil dengan paruh runcing panjang dibandingkan kepala dan rectrices ."
+        },
+        {
+          "english": "a tiny bird with a brown head and wings with white along its belly and breast.",
+          "indo": "seekor burung kecil dengan kepala berwarna coklat dan sayap dengan warna putih di sepanjang perut dan dadanya."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0016_30717.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird with a triangular pointed bill and a mottled gray and white breast.",
+          "indo": "seekor burung dengan paruh runcing berbentuk segitiga dan dada berbintik-bintik abu-abu dan putih."
+        },
+        {
+          "english": "a tall thin bird with white and brown breast and short black tarsus",
+          "indo": "burung tinggi kurus dengan dada putih coklat dan tarsus ​​hitam pendek"
+        },
+        {
+          "english": "this bird has a medium bill, a yellow superciliary, and a white breast and belly.",
+          "indo": "burung ini memiliki paruh sedang, superciliary berwarna kuning, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a gray crown and a white and gray belly.",
+          "indo": "seekor burung dengan mahkota abu-abu dan perut putih dan abu-abu."
+        },
+        {
+          "english": "brown bird with white belly and breast. black rectrices.",
+          "indo": "burung berwarna coklat dengan perut dan dada berwarna putih. rectrices hitam."
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "an all over grey bird with a white belly, throat and an orange cheek patch.",
+          "indo": "burung berwarna abu-abu dengan perut putih, tenggorokan, dan pipi oranye."
+        },
+        {
+          "english": "a grey bird with orange throat, slightly upturned beak and white underbelly.",
+          "indo": "burung berwarna abu-abu dengan tenggorokan berwarna jingga, paruh agak menengadah, dan perut bagian bawah berwarna putih."
+        },
+        {
+          "english": "this bird has a grey bill and crown with a white belly.",
+          "indo": "burung ini memiliki paruh dan mahkota berwarna abu-abu dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is brown in color, and has a sharp black beak.",
+          "indo": "burung ini berwarna coklat, dan mempunyai paruh berwarna hitam runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0017_30704.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this little bird has a mostly gray appearance with a black tail and primaries.",
+          "indo": "Burung kecil ini sebagian besar berpenampilan abu-abu dengan ekor dan bulu primer berwarna hitam."
+        },
+        {
+          "english": "a smallish black and white bird with a pointed beak.",
+          "indo": "seekor burung kecil berwarna hitam putih dengan paruh runcing."
+        },
+        {
+          "english": "a tiny sleek gray bird with long rectrices and a pointed gray bill.",
+          "indo": "seekor burung kecil berwarna abu-abu ramping dengan rectrices  yang panjang dan paruh abu-abu runcing."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a small, dark grey bird with a white throat and short bill.",
+          "indo": "ini adalah burung kecil berwarna abu-abu tua dengan tenggorokan putih dan paruh pendek."
+        },
+        {
+          "english": "the small bird has very dark gray feathers on it's body and has a small patch of white on it's breast area.",
+          "indo": "burung kecil ini memiliki bulu berwarna abu-abu sangat gelap di tubuhnya dan memiliki bercak putih kecil di area dadanya."
+        },
+        {
+          "english": "a small brown bird with shades of black on its wings and tail feathers.",
+          "indo": "burung kecil berwarna coklat dengan corak hitam pada sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird has wings that are black and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has black eyes with a dark beck and a gray, black body with a small amount of white on chest.",
+          "indo": "burung ini bermata hitam dengan paruh berwarna gelap dan badan berwarna abu-abu hitam dengan sedikit warna putih di bagian dada."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0018_796882.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the small bird is grey with a white belly and light yellow rump.",
+          "indo": "burung kecil berwarna abu-abu dengan perut putih dan pantat kuning muda."
+        },
+        {
+          "english": "a small grey bird with a white throat and white and yellow on its belly.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan tenggorokan berwarna putih dan perutnya berwarna putih kuning."
+        },
+        {
+          "english": "grey and white bird with small flat orange beak, pointed grey crown feathers, spotted white and grey breast, yellow tinted white belly, and grey wings.",
+          "indo": "burung berwarna abu-abu putih dengan paruh kecil berwarna oranye pipih, bulu mahkota abu-abu runcing, dada berbintik putih dan abu-abu, perut putih berwarna kuning, dan sayap abu-abu."
+        },
+        {
+          "english": "a grey bird with a pointed nape and a white and yellow abdomen.",
+          "indo": "burung berwarna abu-abu dengan tengkuk runcing dan perut berwarna putih kuning."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the tuft of feathers on the top of this birds head makes this birds appearance unique.",
+          "indo": "Jambul bulu di bagian atas kepala burung ini membuat penampilan burung ini unik."
+        },
+        {
+          "english": "this small bird has a thin beak and longer feathers on its crown.",
+          "indo": "burung kecil ini memiliki paruh yang tipis dan bulu yang lebih panjang pada mahkotanya."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black and white bill with a white breast.",
+          "indo": "burung ini mempunyai paruh berwarna hitam putih dengan dada berwarna putih."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0020_796881.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has a puffy brown crown and a small bill.",
+          "indo": "burung itu memiliki mahkota berwarna coklat menggembung dan paruh kecil."
+        },
+        {
+          "english": "a small sized bird that has a large head and a small pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki kepala besar dan paruh runcing kecil"
+        },
+        {
+          "english": "this is a bird with a white belly, grey wings and a grey head.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu, dan kepala abu-abu."
+        },
+        {
+          "english": "gray bird with spiky crown and blue side with black bill and feet.",
+          "indo": "burung abu-abu dengan mahkota runcing dan sisi biru dengan paruh dan kaki hitam."
+        },
+        {
+          "english": "this bird is black with a white stomach and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this thin gray bird has a pointed beak and a crown that's standing up.",
+          "indo": "burung kurus berwarna abu-abu ini memiliki paruh yang runcing dan mahkota yang berdiri tegak."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is slender with a very vertical body and a very large and puffy crown with brown feathers.",
+          "indo": "burung ini bertubuh ramping dengan badan sangat vertikal dan mahkota sangat besar dan gembung dengan bulu berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small grey bird, with a fluffy crown, and a short bill.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan mahkota berbulu halus, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0021_796880.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird with a gray crown and primaries, white breast and triangle-shaped bill.",
+          "indo": "burung dengan mahkota dan pendahuluan berwarna abu-abu, dada berwarna putih, dan paruh berbentuk segitiga."
+        },
+        {
+          "english": "this is a gray and white bird that has a black bill and black feet",
+          "indo": "ini adalah burung berwarna abu-abu putih yang memiliki paruh hitam dan kaki hitam"
+        },
+        {
+          "english": "this is a bird with a white belly, dark grey back and a grey head.",
+          "indo": "ini adalah burung dengan perut putih, punggung abu-abu tua, dan kepala abu-abu."
+        },
+        {
+          "english": "the small, gray bird has a white throat, breast, belly, abdomen and vent with a squared crown and a pointed, flat beak.",
+          "indo": "burung kecil berwarna abu-abu memiliki tenggorokan, dada, perut, perut, dan lubang kloaka berwarna putih dengan mahkota persegi dan paruh runcing dan rata."
+        },
+        {
+          "english": "small grayish black bird with a white belly and pointed beak.",
+          "indo": "burung kecil berwarna hitam keabu-abuan dengan perut putih dan paruh runcing."
+        },
+        {
+          "english": "this particular bird has a white belly and black breasts and black bill",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna hitam, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a light gray and white bird with a slight crest on its crown.",
+          "indo": "seekor burung berwarna abu-abu muda dan putih dengan sedikit jambul di mahkotanya."
+        },
+        {
+          "english": "this bird is grey with a white belly and a pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan perut berwarna putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0022_30551.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird is almost all gray with a white belly and neck.",
+          "indo": "burung ini hampir seluruhnya berwarna abu-abu dengan perut dan leher berwarna putih."
+        },
+        {
+          "english": "this bird is black with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a mostly gray bird with white patches on its throat, breast and abdomen.",
+          "indo": "burung yang sebagian besar berwarna abu-abu dengan bercak putih di tenggorokan, dada, dan perutnya."
+        },
+        {
+          "english": "the birds has a black crown, nape and covert with it's breast and belly in white color mostly.",
+          "indo": "Burung ini memiliki mahkota, tengkuk dan bulu berwarna hitam, dengan dada dan perut sebagian besar berwarna putih."
+        },
+        {
+          "english": "this bird is black with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are black and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is grye with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this perching bird has a white and gray belly, dark gray wings, and small tail.",
+          "indo": "burung yang bertengger ini memiliki perut berwarna putih abu-abu, sayap berwarna abu-abu tua, dan ekor kecil."
+        },
+        {
+          "english": "a small grey bird, with a white abdomen, and a pointy bill.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan perut berwarna putih, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0023_796887.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this is a dark gray bird with a crest on its head and a light gray belly.",
+          "indo": "ini adalah burung abu-abu tua dengan jambul di kepala dan perut abu-abu muda."
+        },
+        {
+          "english": "this is a bird with a grey belly, black wings and a short pointy beak.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap hitam dan paruh pendek dan runcing."
+        },
+        {
+          "english": "a medium sized bird with light brown hits on its under belly, darker black and brown wing feathers and a short flat bill.",
+          "indo": "burung berukuran sedang dengan bagian bawah perut berwarna coklat muda, bulu sayap berwarna hitam dan coklat tua, dan paruh pendek yang rata."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird's feathers go from white on the belly to grey on the sides and darker still on the secondaries and coverts.",
+          "indo": "bulu burung ini berubah dari putih di bagian perut menjadi abu-abu di bagian samping dan lebih gelap lagi di bagian bulu sekunder dan bulu penutup."
+        },
+        {
+          "english": "this particular bird has dark gray secondaries and a light gray belly",
+          "indo": "burung ini memiliki bulu sekunder berwarna abu-abu tua dan perut berwarna abu-abu muda"
+        },
+        {
+          "english": "this bird is white and brown in color, with a black beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a gray bird with a long tail and a white breast",
+          "indo": "seekor burung abu-abu dengan ekor panjang dan dada berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is different shades of grey, with a belly that is almost white.",
+          "indo": "burung ini memiliki corak berbeda abu-abu, dengan perut hampir putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0025_30486.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has white throat, brown crown, gray nape and white belly, it has sharp pointed beak.",
+          "indo": "burung ini mempunyai tenggorokan berwarna putih, mahkota berwarna coklat, tengkuk berwarna abu-abu dan perut berwarna putih, paruhnya runcing dan runcing."
+        },
+        {
+          "english": "white belly brown breast brown head small flat beak.",
+          "indo": "perut putih dada coklat kepala coklat paruh kecil rata."
+        },
+        {
+          "english": "the belly is fuzzy and white, the sides gray, and the crown is gray tinged with a brown.",
+          "indo": "perutnya berbulu halus dan putih, sisi-sisinya berwarna abu-abu, dan ubun-ubunnya berwarna abu-abu dengan sedikit warna coklat."
+        },
+        {
+          "english": "this little bird has a gray appearance mostly, with a short pointy bill.",
+          "indo": "Burung kecil ini sebagian besar berpenampilan abu-abu, dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a short pointed bill, a gray, white & yellow breast, and a sight plume on the top of its head.",
+          "indo": "burung ini mempunyai paruh pendek yang runcing, dada berwarna abu-abu, putih & kuning, serta bulu-bulu yang terlihat di bagian atas kepalanya."
+        },
+        {
+          "english": "this bird has feathers that are black with a fluffy white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dengan bagian perut yang mengembang berwarna putih"
+        },
+        {
+          "english": "a fluffy grey and white bird with a spiked grey crown",
+          "indo": "burung berbulu halus berwarna abu-abu dan putih dengan mahkota abu-abu berduri"
+        },
+        {
+          "english": "a bird with long plumage, a small beak, white belly and grey wings.",
+          "indo": "burung dengan bulu panjang, paruh kecil, perut putih, dan sayap abu-abu."
+        },
+        {
+          "english": "this bird has a brown crest and a white belly.",
+          "indo": "burung ini memiliki jambul berwarna coklat dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a small bill, grey belly and dark back.",
+          "indo": "burung itu memiliki paruh kecil, perut berwarna abu-abu, dan punggung berwarna gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0026_30525.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this cream throated bird has gray cream colored feathers throughout its body.",
+          "indo": "Burung tenggorokan berwarna krem ​​ini mempunyai bulu berwarna abu-abu krem ​​​​di sekujur tubuhnya."
+        },
+        {
+          "english": "a small bird with gray head, brown wings and gray and brown belly.",
+          "indo": "seekor burung kecil dengan kepala abu-abu, sayap coklat dan perut abu-abu dan coklat."
+        },
+        {
+          "english": "the bird here has a gray and white breast, a white throat, and dark gray crown.",
+          "indo": "burung di sini memiliki dada berwarna abu-abu putih, tenggorokan berwarna putih, dan mahkota berwarna abu-abu tua."
+        },
+        {
+          "english": "this small bird is dark with a white throat and partially white breast.",
+          "indo": "burung kecil ini berwarna gelap dengan tenggorokan berwarna putih dan dada sebagian berwarna putih."
+        },
+        {
+          "english": "a small bird with a white breast, speckled gray belly, and a brown crown.",
+          "indo": "seekor burung kecil dengan dada berwarna putih, perut abu-abu berbintik-bintik, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a cream colored eye ring, white and grey speckles for its coverts, a white throat, and belly.",
+          "indo": "burung ini memiliki cincin mata berwarna krem, bintik putih dan abu-abu pada bulunya, tenggorokan, dan perutnya berwarna putih."
+        },
+        {
+          "english": "this is a gray bird with a white throat and white and gray breast, while its eyes are large.",
+          "indo": "burung ini berwarna abu-abu dengan tenggorokan berwarna putih dan dada berwarna putih abu-abu, sedangkan matanya besar."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white and brown in color, with a brown beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0027_30549.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bland small bird with a slight yellow patch on it's belly, gray and brown head and wings with an orange bill.",
+          "indo": "seekor burung kecil yang hambar dengan sedikit bercak kuning di perutnya, kepala dan sayap berwarna abu-abu dan coklat dengan paruh berwarna oranye."
+        },
+        {
+          "english": "the bird has fanned wings and a white throat with an orange beak.",
+          "indo": "burung itu memiliki sayap yang mengipasi dan tenggorokan berwarna putih dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird is brown with a yellow belly, the eyes are brown and the lower mandible of the bill is orange.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna kuning, mata berwarna coklat dan rahang bawah paruh berwarna jingga."
+        },
+        {
+          "english": "a bird with gray brown wings and a yellow belly with a pointed orange beak.",
+          "indo": "seekor burung dengan sayap abu-abu coklat dan perut kuning dengan paruh oranye runcing."
+        },
+        {
+          "english": "this bird has a brown crown, a brown wing, and a yellow abdomen",
+          "indo": "burung ini memiliki mahkota berwarna coklat, sayap berwarna coklat, dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang sudah dewasa dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and brown",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan putih serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "a medium sized grey bird, with a yellow abdomen, and a pointed bill.",
+          "indo": "burung abu-abu berukuran sedang, dengan perut kuning, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0030_796896.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this is a grey bird with a white belly and an orange beak.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan paruh oranye."
+        },
+        {
+          "english": "this is a bird with a white belly, grey head and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, kepala abu-abu dan paruh runcing."
+        },
+        {
+          "english": "grey bird with a white abdomen and belly with triangular beak and black eyes.",
+          "indo": "burung abu-abu dengan perut putih dan perut dengan paruh segitiga dan mata hitam."
+        },
+        {
+          "english": "this dark gray bird has a pale breast and abdomen and a short orange beak.",
+          "indo": "burung berwarna abu-abu tua ini memiliki dada dan perut pucat serta paruh pendek berwarna oranye."
+        },
+        {
+          "english": "this bird is white and grey in color with a sharp beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh runcing, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has an offwhite belly and very rugged dark brown wings and crown.",
+          "indo": "burung ini memiliki perut berwarna putih pucat dan sayap serta mahkota berwarna coklat tua yang sangat kasar."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown, small in size, and has a pointed bill.",
+          "indo": "burung ini berwarna coklat, berukuran kecil, dan paruhnya runcing."
+        },
+        {
+          "english": "this small grey bird has a white abdomen, forked tail, and short pointed orange bill.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki perut berwarna putih, ekor bercabang dua, dan paruh pendek berwarna oranye yang runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0031_30502.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird with a narrow pointed bill, white eye ring, and black breast.",
+          "indo": "burung dengan paruh runcing sempit, cincin mata berwarna putih, dan dada berwarna hitam."
+        },
+        {
+          "english": "thin brown bird with sharp beak with curve on the end of it",
+          "indo": "burung tipis berwarna coklat dengan paruh runcing dan ujungnya melengkung"
+        },
+        {
+          "english": "the bird is light brown with a white belly and tan tail feather with a slender pointed beak.",
+          "indo": "burung ini berwarna coklat muda dengan perut berwarna putih dan bulu ekor berwarna coklat dengan paruh runcing ramping."
+        },
+        {
+          "english": "this bird has a long flat bill, black tarsus and feet, a white belly, and a gray & white mottled breast.",
+          "indo": "burung ini mempunyai paruh panjang yang rata, tarsus dan kaki berwarna hitam, perut berwarna putih, dan dada berbintik-bintik abu-abu & putih."
+        },
+        {
+          "english": "a small bird with a full brown head and orange beak, this bird has a white belly and dark feet.",
+          "indo": "burung kecil dengan kepala penuh berwarna coklat dan paruh berwarna jingga, burung ini memiliki perut berwarna putih dan kaki berwarna gelap."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small bird with a small but long beak, grey head and neck with a white belly.",
+          "indo": "burung kecil dengan paruh kecil tapi panjang, kepala dan leher berwarna abu-abu dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is mostly gray in color, with a white belly and a flat, pointed bill.",
+          "indo": "burung ini sebagian besar berwarna abu-abu, dengan perut berwarna putih dan paruh rata dan runcing."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a sharp beak.",
+          "indo": "burung ini berwarna putih abu-abu, serta mempunyai paruh yang runcing."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0032_30713.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird with a purple crown and a white belly, and white sides.",
+          "indo": "seekor burung dengan mahkota ungu dan perut putih, dan sisi putih."
+        },
+        {
+          "english": "this is a grey bird with a white side and throat.",
+          "indo": "ini adalah burung abu-abu dengan sisi dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a short narrow beak, black eyes and is grey on the back with a white chest.",
+          "indo": "burung ini memiliki paruh pendek sempit, mata berwarna hitam dan punggung berwarna abu-abu dengan dada berwarna putih."
+        },
+        {
+          "english": "a bird with a light gray belly and dark gray wing tips.",
+          "indo": "seekor burung dengan perut berwarna abu-abu terang dan ujung sayap berwarna abu-abu tua."
+        },
+        {
+          "english": "a small bird with a white belly and breast, gray head, wings and back, with a small bill.",
+          "indo": "burung kecil dengan perut dan dada berwarna putih, kepala, sayap dan punggung berwarna abu-abu, dengan paruh kecil."
+        },
+        {
+          "english": "a gray bird with a bright white spot on it's side.",
+          "indo": "seekor burung abu-abu dengan bintik putih terang di sisinya."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white breast and belly, and a pointed bill.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, serta paruh yang runcing."
+        },
+        {
+          "english": "this bird has a white bill, a light gray crown, and a white and gray belly.",
+          "indo": "burung ini memiliki paruh berwarna putih, mahkota berwarna abu-abu muda, dan perut berwarna putih abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0033_30532.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small brown bird with a white throat and a flat beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan tenggorokan putih dan paruh rata."
+        },
+        {
+          "english": "this is a dark grey bird with a white breast and a pointy beak.",
+          "indo": "ini adalah burung abu-abu tua dengan dada putih dan paruh runcing."
+        },
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small brown bird has a white breast and belly, and a small black beak.",
+          "indo": "seekor burung kecil berwarna coklat memiliki dada dan perut berwarna putih, serta paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a flat pointy beak with a whiteish breast.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh rata dan runcing dengan dada berwarna putih."
+        },
+        {
+          "english": "the birds body is a grey and brown color with a white chest.",
+          "indo": "tubuh burung berwarna abu-abu coklat dengan dada berwarna putih."
+        },
+        {
+          "english": "the bird is small and brown with a white throat.",
+          "indo": "burungnya kecil berwarna coklat dengan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown",
+          "indo": "burung ini memiliki perut yang berwarna putih dan coklat"
+        },
+        {
+          "english": "this bird is grayish brown in color with a large black eye and a breast of white.",
+          "indo": "burung ini berwarna coklat keabu-abuan dengan mata besar berwarna hitam dan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0034_30672.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a grey bird with a light grey belly and a short grey beak.",
+          "indo": "seekor burung abu-abu dengan perut abu-abu muda dan paruh abu-abu pendek."
+        },
+        {
+          "english": "this is a grey bird with a black wing and a pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan paruh runcing."
+        },
+        {
+          "english": "the small bird has a grey crown, wingbars, coverts, nape, the breast is a white color with a short bill.",
+          "indo": "burung kecil mempunyai mahkota berwarna abu-abu, garis sayap, bulu, tengkuk, dada berwarna putih dengan paruh pendek."
+        },
+        {
+          "english": "this is a bird with a white belly and a grey wing and head.",
+          "indo": "ini adalah burung dengan perut putih dan sayap serta kepala abu-abu."
+        },
+        {
+          "english": "this bird has a brown overall body color with some streaks of white all over.",
+          "indo": "Burung ini mempunyai warna tubuh keseluruhan berwarna coklat dengan beberapa guratan putih diseluruh bagiannya."
+        },
+        {
+          "english": "this bird is black with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a sharp bill with dark grey head feathers and white belly feathers, black wings with white wingbars.",
+          "indo": "burung kecil ini mempunyai paruh runcing dengan bulu kepala berwarna abu-abu tua dan bulu perut berwarna putih, sayap berwarna hitam dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "a small black, white and gray bird with a pointy beak, short legs, black eye, and striped wing.",
+          "indo": "burung kecil berwarna hitam, putih dan abu-abu dengan paruh runcing, kaki pendek, mata hitam, dan sayap bergaris."
+        },
+        {
+          "english": "the bird has a small bill, black eyering and grey belly.",
+          "indo": "burung itu mempunyai paruh kecil, cincin mata hitam dan perut abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0035_30799.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this is a dark gray bird with a light gray chest and abdomen.",
+          "indo": "ini adalah burung berwarna abu-abu tua dengan dada dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "this is a bird with a white belly, grey wings and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan paruh runcing."
+        },
+        {
+          "english": "this bird is white and grey in color with a short beak and dark eye ring.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh pendek dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "this bird has a black crown a black bill, and a rounded grey breast",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, paruh berwarna hitam, dan dada membulat berwarna abu-abu"
+        },
+        {
+          "english": "this small bird has a white belly, black crown, black tarsus & feet, a black head, and a long pointed bill.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, mahkota berwarna hitam, tarsus & kaki berwarna hitam, kepala berwarna hitam, dan paruh runcing panjang."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the beak is black, crown down to the nape are also black, wingbar has touch of white",
+          "indo": "Paruhnya berwarna hitam, ubun-ubun hingga tengkuknya juga berwarna hitam, garis sayapnya bernuansa putih"
+        },
+        {
+          "english": "the bird has a black head and a body that is grey in color.",
+          "indo": "burung tersebut memiliki kepala berwarna hitam dan badan berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a black beak with a grey belly and a black nape.",
+          "indo": "burung ini memiliki paruh berwarna hitam dengan perut berwarna abu-abu dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "the bird is mostly black with dark cheek patches and matching beak, the belly is gray and there are patches of white on the sides.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan bercak pipi gelap dan paruh serasi, perut berwarna abu-abu dan terdapat bercak putih di bagian samping."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0037_30784.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this olive green bird has darker brown wings with alternating white primaries and scecondaries, with a buff underside and a dark brown tail.",
+          "indo": "burung berwarna hijau zaitun ini memiliki sayap berwarna coklat tua dengan warna putih bulu primer dan sconecondaries bergantian, dengan bagian bawah mengkilap dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "this is a grey bird with black wings and a white breast.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan dada putih."
+        },
+        {
+          "english": "a small brown and white bird with a white throat and a short pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dan putih dengan tenggorokan putih dan paruh runcing pendek."
+        },
+        {
+          "english": "this bird has a brown crown, a short pointed bill, and a white striped wing",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, paruh pendek runcing, dan sayap bergaris putih"
+        },
+        {
+          "english": "this bird has a brown crown, nape and covert area with a white throat too.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, tengkuk dan area bulu penutup dengan tenggorokan berwarna putih juga."
+        },
+        {
+          "english": "a brown and white bird with a white breast and striped tail feathers.",
+          "indo": "burung berwarna coklat putih dengan dada berwarna putih dan bulu ekor bergaris."
+        },
+        {
+          "english": "a tiny bird that is primarily a grey/brown with black and white feathers and a white breast",
+          "indo": "seekor burung kecil yang pada dasarnya berwarna abu-abu/coklat dengan bulu hitam putih dan dada berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this tiny bird is greyscale in color and has a short and stout beak.",
+          "indo": "burung mungil ini berwarna abu-abu dan memiliki paruh yang pendek dan kokoh."
+        },
+        {
+          "english": "a short grey bird with white lines streaking across his back",
+          "indo": "seekor burung pendek berwarna abu-abu dengan garis-garis putih melintang di punggungnya"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0038_796884.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small bird with a brownish orange small pointed beak, the feet are black, the body is grey and white and it's wings are brown.",
+          "indo": "burung kecil dengan paruh kecil berwarna jingga kecoklatan, kaki berwarna hitam, badan berwarna abu-abu putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "the bird is gray and white with dark wings and a small orange beak.",
+          "indo": "burung itu berwarna abu-abu putih dengan sayap gelap dan paruh kecil berwarna oranye."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "bird with black eye and feet, grayish brown crown and nape, white and gray breast and belly, and white abdomen",
+          "indo": "burung bermata dan kaki berwarna hitam, mahkota dan tengkuk berwarna coklat keabu-abuan, dada dan perut berwarna putih abu-abu, serta perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a spiky top, and a white belly.",
+          "indo": "seekor burung kecil dengan atasan runcing, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown and brown breast with a white belly and a beak that is orange.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan dada berwarna coklat dengan perut berwarna putih dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0040_30620.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small bird that is multi shades of grey it has a light grey breast, medium grey head and back, and dark grey wings and tail.",
+          "indo": "burung kecil berwarna abu-abu multi, memiliki dada abu-abu muda, kepala dan punggung abu-abu sedang, serta sayap dan ekor abu-abu tua."
+        },
+        {
+          "english": "a bird that has a white belly and a grey back and head and looks fluffy.",
+          "indo": "burung yang mempunyai perut berwarna putih, punggung dan kepala berwarna abu-abu serta tampak berbulu halus."
+        },
+        {
+          "english": "this bird is grey and white in color with a small sharp black beak and grey eye ring.",
+          "indo": "burung ini berwarna abu-abu putih dengan paruh kecil berwarna hitam tajam dan cincin mata berwarna abu-abu."
+        },
+        {
+          "english": "medium grey and white bird with medium brown beak and small black eyes",
+          "indo": "burung berwarna abu-abu dan putih sedang dengan paruh coklat sedang dan mata hitam kecil"
+        },
+        {
+          "english": "this grey bird has white breast feathers, a pointed grey beak, and black eyes.",
+          "indo": "burung berwarna abu-abu ini memiliki bulu dada berwarna putih, paruh abu-abu runcing, dan mata berwarna hitam."
+        },
+        {
+          "english": "a gray bird, with fluffy breast, and dark gray wings and tail.",
+          "indo": "burung berwarna abu-abu, dengan dada berbulu halus, serta sayap dan ekor berwarna abu-abu tua."
+        },
+        {
+          "english": "this is a small grey bird, with a white abdomen, and a pointy bill.",
+          "indo": "ini adalah burung kecil berwarna abu-abu, dengan perut putih, dan paruh runcing."
+        },
+        {
+          "english": "a little bird with a very fluffy appearance, small dark grey beak and majority of it's body is colored light grey with exception of a white belly.",
+          "indo": "seekor burung kecil berpenampilan sangat berbulu halus, paruh kecil berwarna abu-abu tua dan sebagian besar tubuhnya berwarna abu-abu muda kecuali perutnya berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0041_30470.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the chest and outer layer of the bird are white and grey.",
+          "indo": "dada dan lapisan luar burung berwarna putih dan abu-abu."
+        },
+        {
+          "english": "this bird has a white breast/belly with brown feathers otherwise.",
+          "indo": "burung ini mempunyai dada/perut berwarna putih dengan bulu sebaliknya berwarna coklat."
+        },
+        {
+          "english": "this is a dark brown bird with a white patch from its breast to its abdomen.",
+          "indo": "ini adalah burung berwarna coklat tua dengan bercak putih dari dada hingga perutnya."
+        },
+        {
+          "english": "this brown and white bird has a short beak and short legs.",
+          "indo": "burung berwarna coklat putih ini memiliki paruh yang pendek dan kaki yang pendek."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white breast and throat, a black crown and nape, and a sharp black beak.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna putih, mahkota dan tengkuk berwarna hitam, serta paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird is mostly brown except for a patch of white on its belly and a band of white around its neck.",
+          "indo": "burung ini sebagian besar berwarna coklat kecuali bercak putih di perutnya dan pita putih di sekitar lehernya."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0042_796886.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a grey small bird with a white underbelly and grey beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan perut berwarna putih dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "a smallish bird of gray and white with a pointed beak.",
+          "indo": "seekor burung bertubuh kecil berwarna abu-abu putih dengan paruh runcing."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a grey bird with white on the breast and long feathers on the crown.",
+          "indo": "ini adalah burung berwarna abu-abu dengan warna putih di bagian dada dan bulu panjang di bagian ubun-ubun."
+        },
+        {
+          "english": "a small grey bird with a white underside and a fluffy head",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bagian bawah berwarna putih dan kepala berbulu halus"
+        },
+        {
+          "english": "this bird has wings that are black with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "the bird is light tan in color and has a white belly with a pointed bill.",
+          "indo": "burung ini berwarna coklat muda dan memiliki perut berwarna putih dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is mostly grey, except for it's under belly, which white.",
+          "indo": "Burung ini sebagian besar berwarna abu-abu, kecuali bagian bawah perutnya yang berwarna putih."
+        },
+        {
+          "english": "this bird has a pointed bill, wtih a grey and white breast.",
+          "indo": "Burung ini mempunyai paruh yang runcing, dengan dada berwarna abu-abu dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0043_30632.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the crown and wings are dark grey and the stomach and neck is white.",
+          "indo": "ubun-ubun dan sayap berwarna abu-abu tua, sedangkan perut dan lehernya berwarna putih."
+        },
+        {
+          "english": "a bird with a small triangular bill, small head, and gray breast.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, kepala kecil, dan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a sharply pointed beak, with brown speckles on its predominantly white throat, breast and belly.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan bintik-bintik coklat di tenggorokan, dada, dan perutnya yang didominasi warna putih."
+        },
+        {
+          "english": "bird with triangular bill white throat and gray breast.",
+          "indo": "burung dengan paruh segitiga, tenggorokan putih, dan dada abu-abu."
+        },
+        {
+          "english": "this is a gray bird with a pointy beak and a white breast with gray sides.",
+          "indo": "ini adalah burung abu-abu dengan paruh runcing dan dada putih dengan sisi abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "the bird has a black eyering, black back and grey belly.",
+          "indo": "burung itu mempunyai cincin mata hitam, punggung hitam, dan perut abu-abu."
+        },
+        {
+          "english": "this bird has a white breast and throat, with long tail feathers and a pointed beak.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna putih, dengan bulu ekor yang panjang dan paruh yang runcing."
+        },
+        {
+          "english": "this bird has a pointed bill, with a brown and white breast.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan dada berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has a black pointed bill, with a white breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0045_796888.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this small bird is slender and has a stripe of white that runs down its belly, from its neck, and has a charcoal colored coat covering the rest of its body.",
+          "indo": "Burung kecil ini bertubuh ramping dan memiliki garis putih di perutnya, mulai dari lehernya, serta memiliki bulu berwarna arang menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "black sharp beak and small black eyes. underside with some white",
+          "indo": "paruh hitam tajam dan mata hitam kecil. bagian bawah dengan sedikit warna putih"
+        },
+        {
+          "english": "this bird has a wide black bill, a white striped breast, and a gray crown.",
+          "indo": "burung ini memiliki paruh lebar berwarna hitam, dada bergaris putih, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this bird is brown in color, with a sharp pointy beak and a dark eye ring.",
+          "indo": "burung ini berwarna coklat, dengan paruh runcing tajam dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "small grey bird with white and grey belly and throat, and long triangular black bill.",
+          "indo": "burung kecil berwarna abu-abu dengan perut dan tenggorokan berwarna putih dan abu-abu, serta paruh hitam berbentuk segitiga panjang."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a white back with gray secondaries",
+          "indo": "burung ini memiliki punggung berwarna putih dengan bulu sekunder berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white stripe on its belly and is all black throughout the rest of its body.",
+          "indo": "burung ini memiliki garis putih di perutnya dan seluruh tubuhnya berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0046_30529.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird has a small grey plume and its breast and belly are white on one side and grey on the other.",
+          "indo": "burung ini memiliki bulu kecil berwarna abu-abu dan dada serta perutnya berwarna putih di satu sisi dan abu-abu di sisi lain."
+        },
+        {
+          "english": "a bird with a ruffled crown, triangular bill, and white breast.",
+          "indo": "burung dengan mahkota acak-acakan, paruh berbentuk segitiga, dan dada berwarna putih."
+        },
+        {
+          "english": "a gray and white bird with a white tail and big fluffy gray crown.",
+          "indo": "seekor burung abu-abu dan putih dengan ekor putih dan mahkota abu-abu berbulu besar."
+        },
+        {
+          "english": "a small gray and white bird with a gray beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dan putih dengan paruh abu-abu."
+        },
+        {
+          "english": "this is a gray bird with a light gray breast, belly and abdomen.",
+          "indo": "ini adalah burung berwarna abu-abu dengan dada, perut, dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white chest, brown and white secondaries and a grey crown.",
+          "indo": "burung ini memiliki dada berwarna putih, bulu sekunder berwarna coklat dan putih serta mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey crest and is mostly brown.",
+          "indo": "burung ini memiliki jambul berwarna abu-abu dan sebagian besar berwarna coklat."
+        },
+        {
+          "english": "this grey bird has a white belly and darker grey wings with a short sharp bill and some patchy long crown feathers.",
+          "indo": "burung berwarna abu-abu ini memiliki perut berwarna putih dan sayap berwarna abu-abu tua dengan paruh pendek yang tajam serta beberapa bulu mahkota yang panjang dan tidak rata."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0048_30656.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird is grey with a white chest and yellow green colored belly.",
+          "indo": "burung tersebut berwarna abu-abu dengan dada berwarna putih dan perut berwarna kuning hijau."
+        },
+        {
+          "english": "the bird has a small black bill and tiny black eyering.",
+          "indo": "burung itu mempunyai paruh hitam kecil dan cincin mata hitam kecil."
+        },
+        {
+          "english": "this bird is white and black in color with a small black beak and black eye ring.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh kecil berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small gray bird with a large head, large eyes and a very sharp bill",
+          "indo": "seekor burung kecil berwarna abu-abu dengan kepala besar, mata besar dan paruh yang sangat tajam"
+        },
+        {
+          "english": "this bird is white and black in color with a sharp black beak, and black eye rings.",
+          "indo": "Burung ini berwarna putih kehitaman dengan paruh berwarna hitam runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a stripe of white running from its chest to its belly, and dark grey primary feathers on its wings.",
+          "indo": "burung ini memiliki garis putih dari dada hingga perutnya, dan bulu utama berwarna abu-abu tua di sayapnya."
+        },
+        {
+          "english": "this is a grey bird with a yellow belly and a white breast.",
+          "indo": "ini adalah burung abu-abu dengan perut kuning dan dada putih."
+        },
+        {
+          "english": "small bird with grey crown and throat, breast, belly and abdomen are white, beak is small and black.feet is black.",
+          "indo": "burung kecil dengan mahkota dan tenggorokan berwarna abu-abu, dada, perut dan perut berwarna putih, paruh kecil dan hitam.kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0049_796889.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has a sharp pointed beak and tail feathers that are a muted grey color.",
+          "indo": "burung ini memiliki paruh runcing tajam dan bulu ekor berwarna abu-abu kalem."
+        },
+        {
+          "english": "this bird has a short brown bill, black feet, and a gray crown.",
+          "indo": "burung ini memiliki paruh pendek berwarna coklat, kaki berwarna hitam, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "a large grey feathered bird with a sharp thick beak",
+          "indo": "seekor burung besar berbulu abu-abu dengan paruh tebal yang tajam"
+        },
+        {
+          "english": "this little bird has a yellow and white belly, brown wingers, a brown beak, a brown crown, a white and brown throat.",
+          "indo": "Burung kecil ini memiliki perut berwarna kuning dan putih, sayap berwarna coklat, paruh berwarna coklat, mahkota berwarna coklat, tenggorokan berwarna putih dan coklat."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is primarily brown with a tan belly and a short beak.",
+          "indo": "burung ini pada dasarnya berwarna coklat dengan perut berwarna coklat dan paruh pendek."
+        },
+        {
+          "english": "a bird with brown and white feathers and a broad, pointed beak.",
+          "indo": "seekor burung dengan bulu berwarna coklat dan putih serta paruh lebar dan runcing."
+        },
+        {
+          "english": "this bird has a pointed bill, with a light brown breast.",
+          "indo": "burung ini memiliki paruh yang runcing, dengan dada berwarna coklat muda."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0050_796878.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the beak is orange, small and pointed, the throat and belly are a lighter shade of brown and the rest of the bird is light brown.",
+          "indo": "paruhnya berwarna oranye, kecil dan runcing, tenggorokan dan perutnya berwarna coklat muda, dan bagian burung lainnya berwarna coklat muda."
+        },
+        {
+          "english": "this is a brown and white bird with a pointy orange beak.",
+          "indo": "ini adalah burung berwarna coklat dan putih dengan paruh oranye runcing."
+        },
+        {
+          "english": "a brown and white bird that has a small head and beak compared to the size of its body.",
+          "indo": "burung berwarna coklat putih yang memiliki kepala dan paruh kecil dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "small to medium brown and white bird with medium orange and brown beak",
+          "indo": "burung kecil berwarna coklat dan putih dengan paruh oranye dan coklat sedang"
+        },
+        {
+          "english": "the bird has a black eyering and a brown crown.",
+          "indo": "burung itu memiliki cincin mata hitam dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "bird has belly and abdomen is white and brown, feet is black, beak is small and brown color, crown is brown.",
+          "indo": "Burung mempunyai perut dan perut berwarna putih coklat, kaki berwarna hitam, paruh kecil berwarna coklat, mahkota berwarna coklat."
+        },
+        {
+          "english": "while predominantly brown, this bird has a stripe of white feathers on the breast, a somewhat pointed crown, and a short, orange bill.",
+          "indo": "Meski didominasi warna coklat, burung ini memiliki garis bulu putih di dada, mahkota agak runcing, dan paruh pendek berwarna oranye."
+        },
+        {
+          "english": "this bird has light brown feathers and a pointed beak.",
+          "indo": "burung ini mempunyai bulu berwarna coklat muda dan paruh yang runcing."
+        },
+        {
+          "english": "a small brown bird, with black feet, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan kaki hitam, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0052_30639.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the small bird is light brown with a short beak.",
+          "indo": "burung kecil berwarna coklat muda dengan paruh pendek."
+        },
+        {
+          "english": "this bird has a white throat, a short bill, and a gray crown.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih, paruh pendek, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this small bird with flat bill and a multicolored body, and black eyes",
+          "indo": "burung kecil ini dengan paruh rata dan tubuh beraneka warna, serta mata hitam"
+        },
+        {
+          "english": "this small bird is grey and has a small black beak",
+          "indo": "burung kecil ini berwarna abu-abu dan memiliki paruh kecil berwarna hitam"
+        },
+        {
+          "english": "this is a gray bird with a white throat and a mohawk at the crown.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan putih dan rambut mohawk di bagian ubun-ubunnya."
+        },
+        {
+          "english": "this particular bird has a gray belly and breast with black secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this thin bird has a little gray mohawk and a short tail.",
+          "indo": "burung kurus ini memiliki sedikit mohawk abu-abu dan ekor pendek."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray with black spots",
+          "indo": "Burung ini mempunyai perut yang berwarna abu-abu dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a brown crown with brown coverts and black beak.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan bulu berwarna coklat dan paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0054_30732.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this small bird has a grey head and short pointed break, with gray and white covering the rest of its body.",
+          "indo": "Burung kecil ini memiliki kepala berwarna abu-abu dan patahan pendek dan runcing, dengan warna abu-abu dan putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a grey crown, a short bill, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, paruh pendek, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "a small gray bird with white wingbars with a very small bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sayap berwarna putih dan paruh yang sangat kecil."
+        },
+        {
+          "english": "a small bird standing on branch with white strips on its wings",
+          "indo": "seekor burung kecil berdiri di dahan dengan garis-garis putih di sayapnya"
+        },
+        {
+          "english": "this brown bird is small and has a pointed beak and small eyes.",
+          "indo": "burung berwarna coklat ini berukuran kecil dan memiliki paruh runcing serta mata yang kecil."
+        },
+        {
+          "english": "a small beaked bird with dark eyes and a dark grey nape",
+          "indo": "seekor burung berparuh kecil dengan mata gelap dan tengkuk abu-abu gelap"
+        },
+        {
+          "english": "the bird has a pointed bill, a white throat, and shades of grey across the rest of its body.",
+          "indo": "burung ini memiliki paruh yang runcing, tenggorokan berwarna putih, dan corak abu-abu di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a grey crown with grey bill and white throat",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh berwarna abu-abu dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "this bird is great it has hints of white at the tip of its wings it has a very big eyes and a small beak",
+          "indo": "burung ini sangat bagus, mempunyai sedikit warna putih di ujung sayapnya, memiliki mata yang sangat besar dan paruh yang kecil"
+        },
+        {
+          "english": "this is a small grey bird, with a long tail for its body, and a short bill.",
+          "indo": "ini adalah burung kecil berwarna abu-abu, dengan ekor panjang di badannya, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0055_796879.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small white breasted bird with dark head and wings.",
+          "indo": "seekor burung kecil berdada putih dengan kepala dan sayap berwarna gelap."
+        },
+        {
+          "english": "a sleek gray bird with a white chest and a black crest on the head.",
+          "indo": "seekor burung abu-abu ramping dengan dada putih dan jambul hitam di kepala."
+        },
+        {
+          "english": "this bird is grey with a white belly and undertail coverts, and a small pointed beak.",
+          "indo": "burung ini berwarna abu-abu dengan perut dan bulu bawah berwarna putih, serta paruh kecil yang runcing."
+        },
+        {
+          "english": "this slender black bird has a grey grey breast and white belly.",
+          "indo": "burung hitam ramping ini memiliki dada abu-abu abu-abu dan perut putih."
+        },
+        {
+          "english": "a bird with grey/brown wings and a lighter almost white belly.",
+          "indo": "seekor burung dengan sayap abu-abu/coklat dan perut lebih terang hampir putih."
+        },
+        {
+          "english": "this mostly gray bird has a white belly and abdomen with a sharply pointed bill.",
+          "indo": "burung yang sebagian besar berwarna abu-abu ini memiliki perut dan perut berwarna putih dengan paruh yang runcing."
+        },
+        {
+          "english": "the under tail and belly are white with grey breast on the bird",
+          "indo": "bagian bawah ekor dan perut berwarna putih dengan dada berwarna abu-abu pada burung"
+        },
+        {
+          "english": "this small gray bird has a white belly and a short, sharp bill.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki perut berwarna putih dan paruh yang pendek dan runcing."
+        },
+        {
+          "english": "this bird is small and fuzzy, with grey on its back and white on its chest.",
+          "indo": "burung ini berukuran kecil dan berbulu halus, dengan warna abu-abu di punggung dan putih di dada."
+        },
+        {
+          "english": "a ruffled black feathered crown tops the head of this small bird and it has a short beak with white breast feathers.",
+          "indo": "mahkota berbulu hitam acak-acakan berada di puncak kepala burung kecil ini dan memiliki paruh pendek dengan bulu dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0056_30570.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "small bird with bigger black beak, black wings and white body feathers",
+          "indo": "burung kecil dengan paruh hitam lebih besar, sayap hitam dan bulu badan putih"
+        },
+        {
+          "english": "it has a short beak and grayish brownish feathers and black feet, it has white feathers below its beak.",
+          "indo": "paruhnya pendek dan bulunya berwarna kecoklatan keabu-abuan serta kakinya berwarna hitam, di bawah paruhnya terdapat bulu berwarna putih."
+        },
+        {
+          "english": "the small bird is brown with a black thick beak and has a black eye.",
+          "indo": "burung kecil berwarna coklat dengan paruh tebal berwarna hitam dan bermata hitam."
+        },
+        {
+          "english": "this small bird is brown and grey with a short black beak",
+          "indo": "burung kecil ini berwarna coklat abu-abu dengan paruh pendek berwarna hitam"
+        },
+        {
+          "english": "a bird with a small pointed bill and head, white eyering, and white throat.",
+          "indo": "burung dengan paruh dan kepala runcing kecil, cincin mata berwarna putih, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has feathers that are black and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this small bird has a black, pointed bill, a brown head, and a white eyering.",
+          "indo": "Burung kecil ini mempunyai paruh berwarna hitam runcing, kepala berwarna coklat, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this very small bird has big protruding eyes and small feet.",
+          "indo": "burung yang sangat kecil ini memiliki mata besar yang menonjol dan kaki yang kecil."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+        },
+        {
+          "english": "this small little bird has a very long pointed bill with dark grey feathers and a white ring around it eye.",
+          "indo": "Burung kecil kecil ini mempunyai paruh runcing yang sangat panjang dengan bulu berwarna abu-abu tua dan lingkaran putih di sekeliling matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0057_796898.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a bird with a head that seems big compared to it's body, very pale yellow throat and belly, grey-brown crown and cheeks, and a large flat triangular beak.",
+          "indo": "burung dengan kepala tampak besar dibandingkan badannya, tenggorokan dan perut berwarna kuning pucat, mahkota dan pipi berwarna abu-abu kecokelatan, serta paruh besar berbentuk segitiga datar."
+        },
+        {
+          "english": "this small bird has a pale yellow breast and a wide beak.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning pucat dan paruh yang lebar."
+        },
+        {
+          "english": "small bird with a white body and long pointy beak.",
+          "indo": "burung kecil berbadan putih dan paruh runcing panjang."
+        },
+        {
+          "english": "a bird with a medium triangular bill, white breast, and gray head.",
+          "indo": "burung dengan paruh segitiga sedang, dada putih, dan kepala abu-abu."
+        },
+        {
+          "english": "this yellow breasted bird has a perfect sized bill and with striped feathers",
+          "indo": "burung berdada kuning ini mempunyai paruh yang berukuran sempurna dan bulu yang bergaris"
+        },
+        {
+          "english": "this is a gray bird with a white belly and a pointy gray beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut putih dan paruh abu-abu runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a grey body and a white chest, with a yellow beak.",
+          "indo": "burung kecil ini memiliki tubuh berwarna abu-abu dan dada berwarna putih, dengan paruh berwarna kuning."
+        },
+        {
+          "english": "this is a small bird with a short triangle shaped bill and a light yellow belly and some dark grey secondaries.",
+          "indo": "ini adalah burung kecil dengan paruh pendek berbentuk segitiga dan perut berwarna kuning muda serta beberapa bulu sekunder berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has a brown crown with a white belly and tan beak.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan perut berwarna putih dan paruh berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0058_796883.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird is brown with a spiked crown and short pointed beak.",
+          "indo": "burung itu berwarna coklat dengan mahkota berduri dan paruh runcing pendek."
+        },
+        {
+          "english": "bird has gray body feathers, gray breast feather, and medium beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna abu-abu, dan paruh sedang"
+        },
+        {
+          "english": "this bird has a brown head, a white throat, and a brown wing.",
+          "indo": "burung ini memiliki kepala berwarna coklat, tenggorokan berwarna putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a gray body with a white belly.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, side and coverts, with a streak of white on its belly and abdomen.",
+          "indo": "burung ini mempunyai mahkota, bagian samping dan bulu berwarna coklat, dengan guratan putih pada bagian perut dan abdomen."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a moderate sized bird with a small crest, fairly monotone in color with a proportionate head.",
+          "indo": "burung berukuran sedang dengan jambul kecil, warnanya cukup monoton dengan kepala proporsional."
+        },
+        {
+          "english": "a brown bird with a white stripe going down its breast.",
+          "indo": "seekor burung coklat dengan garis putih di dadanya."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "this small bird has a brown and white breast, and its bill is short pointed.",
+          "indo": "burung kecil ini memiliki dada berwarna coklat dan putih, dan paruhnya pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0059_30536.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "small grey bird with a white breast and short bill.",
+          "indo": "burung kecil berwarna abu-abu dengan dada putih dan paruh pendek."
+        },
+        {
+          "english": "small grey bird with a white belly and a long grey tail.",
+          "indo": "burung kecil berwarna abu-abu dengan perut putih dan ekor panjang berwarna abu-abu."
+        },
+        {
+          "english": "small bird with mostly dark gray outer body with white breast, short pointed beak and sleek aerodynamic tail feathers.",
+          "indo": "burung kecil dengan tubuh luar sebagian besar berwarna abu-abu tua dengan dada putih, paruh runcing pendek dan bulu ekor ramping aerodinamis."
+        },
+        {
+          "english": "a small bird with brown feathers on top of body and white on its belly",
+          "indo": "burung kecil dengan bulu berwarna coklat di badan bagian atas dan bulu putih di bagian perut"
+        },
+        {
+          "english": "this bird is grey and brown in color with a sharp beak, and brown eye rings.",
+          "indo": "burung ini berwarna abu-abu coklat dengan paruh runcing, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has feathers that are black and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a light white to grey under side, dark back side, pointed bill, and red crown.",
+          "indo": "burung dengan bagian bawah berwarna putih muda hingga abu-abu, bagian belakang berwarna gelap, paruh runcing, dan mahkota berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0061_30540.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "bird with wide mouth and orange beak, gray feathers and small round eyes.",
+          "indo": "burung dengan mulut lebar dan paruh oranye, bulu abu-abu dan mata bulat kecil."
+        },
+        {
+          "english": "a small plump bird with bland feathers, and an orange bill.",
+          "indo": "seekor burung kecil gempal dengan bulu lembut, dan paruh berwarna oranye."
+        },
+        {
+          "english": "a small fluffy bird with a white belly, white feathers at the joint of the wing and a small orange beak.",
+          "indo": "burung kecil berbulu halus dengan perut putih, bulu putih di persendian sayap, dan paruh kecil berwarna oranye."
+        },
+        {
+          "english": "this bird is white and black in color with a orange beak, and black eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh berwarna oranye, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small fat bird with a small head and tiny orange beak.",
+          "indo": "seekor burung kecil gemuk dengan kepala kecil dan paruh kecil berwarna oranye."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has a long outer rectrices  and a small yellow bill.",
+          "indo": "burung itu memilik outer rectrices yang panjang dan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "this bird has a red bill with a black crown and grayish to white feathers",
+          "indo": "burung ini mempunyai paruh berwarna merah dengan mahkota berwarna hitam dan bulu berwarna keabu-abuan hingga putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0064_30485.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small sized bird with a grey belly and dark grey wings",
+          "indo": "seekor burung berukuran kecil dengan perut abu-abu dan sayap abu-abu tua"
+        },
+        {
+          "english": "the bird is grey with a light grey chest and black pointed bill.",
+          "indo": "burung itu berwarna abu-abu dengan dada abu-abu muda dan paruh runcing hitam."
+        },
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu mempunyai mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a white breast, throat, belly and abdomen with a brown side and wings.",
+          "indo": "burung ini memiliki dada, tenggorokan, perut dan perut berwarna putih dengan sisi dan sayap berwarna coklat."
+        },
+        {
+          "english": "the tiny bird has long black wings with a gray body.",
+          "indo": "burung mungil itu memiliki sayap hitam panjang dengan tubuh abu-abu."
+        },
+        {
+          "english": "this bird has a long, straight black bill, black primaries, gray secondaries, white chest and belly, speckled gray sides and white eyering.",
+          "indo": "Burung ini mempunyai paruh panjang berwarna hitam lurus, paruh hitam, paruh abu-abu, dada dan perut berwarna putih, sisi abu-abu berbintik-bintik, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this dull bird has a long thin body with a grey and white belly and black wings.",
+          "indo": "burung kusam ini memiliki tubuh panjang kurus dengan perut berwarna abu-abu putih serta sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this small gray bird has a short sharp pointed dark colored beak and features darker gray and black feathers on the wings and tail.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki paruh pendek, runcing, berwarna gelap, serta memiliki bulu berwarna abu-abu tua dan hitam pada sayap dan ekornya."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0067_30749.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this is a grey bird with a white belly and a pointy beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut putih dan paruh runcing."
+        },
+        {
+          "english": "this medium sized bird is grey with the exception of a white belly which is quite pronounced.",
+          "indo": "burung berukuran sedang ini berwarna abu-abu kecuali perutnya yang berwarna putih yang cukup menonjol."
+        },
+        {
+          "english": "this bird has a white throat, dark gray crown, and short bill.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih, mahkota berwarna abu-abu tua, dan paruh pendek."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small grey white and black bird with short tarsus and medium beak",
+          "indo": "burung kecil berwarna abu-abu putih dan hitam dengan tarsus pendek dan paruh sedang"
+        },
+        {
+          "english": "this bird has a gray green body, white belly, and brown beak",
+          "indo": "burung ini memiliki tubuh berwarna hijau abu-abu, perut berwarna putih, dan paruh berwarna coklat"
+        },
+        {
+          "english": "a small bird that is grey throughout and has a white belly.",
+          "indo": "seekor burung kecil yang seluruhnya berwarna abu-abu dan perutnya berwarna putih."
+        },
+        {
+          "english": "this small bird has a gray plumage and a short but pointy beak.",
+          "indo": "burung kecil ini memiliki bulu berwarna abu-abu dan paruh yang pendek namun runcing."
+        },
+        {
+          "english": "this bird has a grey crown with grey wings and brown beak.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan sayap berwarna abu-abu dan paruh berwarna coklat."
+        },
+        {
+          "english": "this small gray song bird has a shot black pointed beak, a white belly, and a mixture of black and dark gray feathers that highlight the wings and the tail.",
+          "indo": "Burung kicau kecil berwarna abu-abu ini memiliki paruh runcing berwarna hitam, perut berwarna putih, serta bulu campuran berwarna hitam dan abu-abu tua yang menonjolkan sayap dan ekornya."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0069_30544.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird has a white belly with grey wings and a small beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna abu-abu dan paruh yang kecil."
+        },
+        {
+          "english": "this yellow and black bird has small pointed bill.",
+          "indo": "burung berwarna kuning dan hitam ini memiliki paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird has black crown, grey eye patch, black bill and white abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, penutup mata berwarna abu-abu, paruh berwarna hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "this very small bird is mostly black but has a white nape and belly.",
+          "indo": "burung yang sangat kecil ini sebagian besar berwarna hitam tetapi memiliki tengkuk dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a black head, wings, tail, and feet and a white belly.",
+          "indo": "burung ini memiliki kepala, sayap, ekor, dan kaki berwarna hitam serta perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a dark grey crown, a pointed bill, a dull white stripe separating its head from it's body, a grey chest and white belly.",
+          "indo": "burung kecil dengan mahkota abu-abu tua, paruh runcing, garis putih kusam yang memisahkan kepala dari badan, dada abu-abu, dan perut putih."
+        },
+        {
+          "english": "a very small, stubby bird that is black and yellow in color with a short beak.",
+          "indo": "burung yang sangat kecil, gemuk, berwarna hitam kuning dengan paruh pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray with black wings",
+          "indo": "burung ini memiliki perut berwarna putih abu-abu dengan sayap berwarna hitam"
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the little bird has a small dark eye, a short gray bill, and a dark colored crown.",
+          "indo": "burung kecil itu memiliki mata kecil berwarna gelap, paruh pendek berwarna abu-abu, dan mahkota berwarna gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0070_30490.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this bird is brown over most of its body, with some black wings and a gray brown breast and belly. the throat is mostly white.",
+          "indo": "burung ini sebagian besar tubuhnya berwarna coklat, dengan sebagian sayap berwarna hitam serta dada dan perut berwarna abu-abu coklat. tenggorokan sebagian besar berwarna putih."
+        },
+        {
+          "english": "this is a grey bird with a white belly and an orange beak.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan paruh oranye."
+        },
+        {
+          "english": "this is a brown bird with a grey chest and a black and orange pointed bill.",
+          "indo": "ini adalah burung berwarna coklat dengan dada abu-abu dan paruh runcing berwarna hitam dan oranye."
+        },
+        {
+          "english": "bird with dark gray crown, tarsus, feet and nape, light gray throat, and black eye, inner and outer rectrices",
+          "indo": "burung dengan mahkota abu-abu tua, tarsus, kaki dan tengkuk, tenggorokan abu-abu muda, dan mata hitam, inner dan outer rectrices"
+        },
+        {
+          "english": "this bird has a brown crown, a short bill, and a brown back",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh pendek, dan punggung berwarna coklat"
+        },
+        {
+          "english": "this gray bird has a pointed beak that's gray on top and yellow on bottom.",
+          "indo": "Burung berwarna abu-abu ini memiliki paruh runcing berwarna abu-abu di bagian atas dan kuning di bagian bawah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan paruh berwarna jingga"
+        },
+        {
+          "english": "brown bird, orange on bottom of beak and white chest.",
+          "indo": "Burung berwarna coklat, bagian bawah paruh berwarna jingga dan dada berwarna putih."
+        },
+        {
+          "english": "the small bird with a grayish feathers and a small beak.",
+          "indo": "burung kecil dengan bulu keabu-abuan dan paruh kecil."
+        },
+        {
+          "english": "a small bird with a dark grey color and pointed beak.",
+          "indo": "seekor burung kecil dengan warna abu-abu tua dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0071_30647.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small bird with a grey nape and crown with a black beak and black primary and secondary wing feather colors.",
+          "indo": "burung kecil dengan tengkuk dan mahkota berwarna abu-abu dengan paruh berwarna hitam dan warna bulu sayap bulu primer dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "the bird has grey head and wings, and a fat white underbelly.",
+          "indo": "burung itu memiliki kepala dan sayap berwarna abu-abu, dan perut berwarna putih gemuk."
+        },
+        {
+          "english": "this bird has a short straight bill, a white breast and belly, and a dark gray crown.",
+          "indo": "burung ini memiliki paruh pendek lurus, dada dan perut berwarna putih, serta mahkota berwarna abu-abu tua."
+        },
+        {
+          "english": "a small grey bird with a short pointed tail and small beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan ekor pendek runcing dan paruh kecil."
+        },
+        {
+          "english": "this little bird has a gray belly and breast with a brown wing and sharp little bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan sayap berwarna coklat dan paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird has wings that are black with a white and yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan bagian perut berwarna putih dan kuning"
+        },
+        {
+          "english": "small tree dwelling bird with a sharp, pointed black beak leading back into a grey neck and back with a spot of white plumage in the back, leading to a marbled grey, white and black pattern along its wings.",
+          "indo": "burung penghuni pohon kecil dengan paruh hitam tajam dan runcing mengarah ke belakang ke leher dan punggung abu-abu dengan bintik bulu putih di punggung, mengarah ke pola marmer abu-abu, putih dan hitam di sepanjang sayapnya."
+        },
+        {
+          "english": "this small bird has brown and white feathers and small black eyes and a short black beak.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat putih dan mata kecil berwarna hitam serta paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a white belly and a straight bill",
+          "indo": "burung berwarna abu-abu ini memiliki perut berwarna putih dan paruh lurus"
+        },
+        {
+          "english": "this bird has wings that are black and has a brown bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0072_796877.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a tiny bird, with a significant head, small pointed bill, dark crown, back, and wings with two white wingbars, white through throat, breast, abdomen, and inner rectrices.",
+          "indo": "seekor burung kecil, dengan kepala besar, paruh runcing kecil, mahkota gelap, punggung, dan sayap dengan dua garis sayap berwarna putih, berwarna putih di tenggorokan, dada, perut, dan inner rectrices."
+        },
+        {
+          "english": "this bird has a large straight bill, a white breast and belly, and a gray cheek patch.",
+          "indo": "burung ini memiliki paruh besar dan lurus, dada dan perut berwarna putih, serta bercak di pipi berwarna abu-abu."
+        },
+        {
+          "english": "this is a white bird with black wings and a pointed black beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap hitam dan paruh hitam runcing."
+        },
+        {
+          "english": "a small bird with a white chest and gray feathers.",
+          "indo": "seekor burung kecil dengan dada putih dan bulu abu-abu."
+        },
+        {
+          "english": "this bird has a white belly, gray breast, and short pointy bill.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna abu-abu, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this particular bird has a white belly and a black bill",
+          "indo": "burung ini memiliki perut berwarna putih dan paruh berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a white belly and gray sides",
+          "indo": "burung ini memiliki perut berwarna putih dan sisi berwarna abu-abu"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a pointed bill, grey-brown head and wings, and a white breast and belly.",
+          "indo": "burung ini memiliki paruh yang runcing, kepala dan sayap berwarna abu-abu kecoklatan, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this brown bird has a white belly and a short beak.",
+          "indo": "burung berwarna coklat ini memiliki perut berwarna putih dan paruh yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0074_30816.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly, grey wings and a white nape.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan tengkuk putih."
+        },
+        {
+          "english": "it has long yellow legs and a brown head and back. it is normal size.",
+          "indo": "ia memiliki kaki kuning panjang dan kepala serta punggung berwarna coklat. itu ukuran normal."
+        },
+        {
+          "english": "bird has gray body feathers, white breast feather, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna putih, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this small bird has a white belly, tan wings, white strip around its throat and a small beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, sayap berwarna coklat, garis putih di sekitar tenggorokannya dan paruh kecil."
+        },
+        {
+          "english": "this bird is white and brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white throat, breast, belly and abdomen and grey wings, tail and head",
+          "indo": "burung ini memiliki tenggorokan, dada, perut dan perut berwarna putih serta sayap, ekor dan kepala berwarna abu-abu"
+        },
+        {
+          "english": "the bird has brown wings, a brown head with a white neck, a black beak and yellow feet.",
+          "indo": "burung tersebut memiliki sayap berwarna coklat, kepala berwarna coklat dengan leher berwarna putih, paruh berwarna hitam dan kaki berwarna kuning."
+        },
+        {
+          "english": "this bird is white and brown in color, and has a sharp beak.",
+          "indo": "burung ini berwarna putih kecokelatan, serta mempunyai paruh yang runcing."
+        },
+        {
+          "english": "this bird has a brown crown with white belly and brown back.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan perut berwarna putih dan punggung berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0075_30712.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this little bird has a grey body, with a faint of white plumage on its belly, as well as some white in its secondaries, with a bill that is short but very sharp.",
+          "indo": "Burung kecil ini berbadan abu-abu, dengan sedikit bulu berwarna putih di bagian perutnya, serta sebagian berwarna putih di bagian sekundernya, dengan paruh yang pendek namun sangat runcing."
+        },
+        {
+          "english": "this medium sized bird is all dark gray around its body, but has a small white patch on its chest.",
+          "indo": "Burung berukuran sedang ini seluruh tubuhnya berwarna abu-abu tua, namun memiliki bercak putih kecil di dadanya."
+        },
+        {
+          "english": "a small bird with mostly grey covering its entire body with the exception of its black face, white belly, and white and grey secondaries.",
+          "indo": "seekor burung kecil dengan sebagian besar warna abu-abu menutupi seluruh tubuhnya kecuali mukanya yang hitam, perutnya yang putih, dan burung sekundernya yang berwarna putih dan abu-abu."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this crested bird is dark gray with white accents on its wings and breast, and a thin, pointed black beak.",
+          "indo": "burung jambul ini berwarna abu-abu tua dengan aksen putih pada sayap dan dada, serta paruh tipis berwarna hitam runcing."
+        },
+        {
+          "english": "this white and gray bird has a relatively long, flat beak.",
+          "indo": "burung berwarna putih abu-abu ini memiliki paruh yang relatif panjang dan rata."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a small and pointy beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut putih dan paruh kecil dan runcing."
+        },
+        {
+          "english": "this gray bird has a short bill and white breast.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh pendek dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is gray and white in color, with a light colored beak.",
+          "indo": "burung ini berwarna abu-abu putih, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0076_30555.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a small grey bird with feathers on its head like a mohawk.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bulu di kepalanya seperti mohawk."
+        },
+        {
+          "english": "this bird has a short straight bill, a soot gray crown, and a white breast and belly.",
+          "indo": "burung ini memiliki paruh pendek lurus, mahkota berwarna abu-abu jelaga, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "a small black and silver bird with a gray belly, with a short pointed bill.",
+          "indo": "burung kecil berwarna hitam perak dengan perut abu-abu, paruh runcing pendek."
+        },
+        {
+          "english": "this bird is white and brown in color with a skinny beak, and dark eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kurus, dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "a brown bird with a small, pointy bill, a white breast and belly, and black-trimmed primaries.",
+          "indo": "burung berwarna coklat dengan paruh kecil runcing, dada dan perut berwarna putih, serta burung pendahuluan bergaris hitam."
+        },
+        {
+          "english": "a small bird with a small grey bill, light grey belly, and dark grey wings.",
+          "indo": "burung kecil dengan paruh kecil berwarna abu-abu, perut abu-abu muda, dan sayap abu-abu tua."
+        },
+        {
+          "english": "a bird with a black bill, grey breast and black secondaries.",
+          "indo": "seekor burung dengan paruh hitam, dada abu-abu, dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "a small grey bird, with a light colored belly, black primaries, and a small bill.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan perut berwarna terang, burung bulu primer berwarna hitam, dan paruh kecil."
+        },
+        {
+          "english": "a small grey bird with a sharp black beak",
+          "indo": "seekor burung kecil berwarna abu-abu dengan paruh hitam tajam"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0077_30492.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has a small black bill and a small throat.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan tenggorokan kecil."
+        },
+        {
+          "english": "this bird has a light yellow and cream chest, along with a speckled cream and brown throat and breast.",
+          "indo": "burung ini memiliki dada berwarna kuning muda dan krem, serta tenggorokan dan dada berbintik krem, serta berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a white and yellow breast and grey wings.",
+          "indo": "ini adalah burung dengan dada berwarna putih dan kuning serta sayap abu-abu."
+        },
+        {
+          "english": "the bird has a cream and grey belly, the bill is short and pointed, with black and cream covering the rest of its body",
+          "indo": "burung ini memiliki perut berwarna krem ​​​​dan abu-abu, paruhnya pendek dan runcing, dengan warna hitam dan krem ​​​​menutupi seluruh tubuhnya"
+        },
+        {
+          "english": "a small and long bird with a small head, and a small bill.",
+          "indo": "seekor burung kecil dan panjang dengan kepala kecil, dan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna kuning"
+        },
+        {
+          "english": "a white chest bird with a small head in comparison to the body.",
+          "indo": "burung berdada putih dengan kepala kecil dibandingkan badannya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird has a white breast and a small pointed beak.",
+          "indo": "burung ini memiliki dada berwarna putih dan paruh kecil yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0078_30752.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this black and white bird has a triangular bill and a round head.",
+          "indo": "burung berwarna hitam putih ini memiliki paruh berbentuk segitiga dan kepala berbentuk bulat."
+        },
+        {
+          "english": "a small black bird with a white belly.",
+          "indo": "seekor burung hitam kecil dengan perut putih."
+        },
+        {
+          "english": "this bird has a big grey head with a white belly.",
+          "indo": "burung ini memiliki kepala besar berwarna abu-abu dengan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a white belly and is black all over, it has a small pointy bill.",
+          "indo": "burung ini perutnya berwarna putih dan seluruh tubuhnya berwarna hitam, paruhnya kecil dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown, a light brown belly, and a short bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, perut berwarna coklat muda, dan paruh yang pendek"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has grey belly and vent and black feathers covering the rest of its body.",
+          "indo": "burung ini memiliki perut dan lubang kloaka berwarna abu-abu serta bulu hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a medium sized brown bird, with a white abdomen, and a short bill.",
+          "indo": "burung berwarna coklat berukuran sedang, dengan perut berwarna putih, dan paruh pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is black with white all over the breast and belly, with a straight black beak on its somewhat large head.",
+          "indo": "burung ini berwarna hitam dengan warna putih di seluruh dada dan perutnya, dengan paruh lurus berwarna hitam di kepalanya yang agak besar."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0079_30662.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this small bird has brown and white feathers, with a small beak and black eyes.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat dan putih, dengan paruh kecil dan mata berwarna hitam."
+        },
+        {
+          "english": "this is a small brown and white bird with a black pointy beak",
+          "indo": "ini adalah burung kecil berwarna coklat dan putih dengan paruh runcing hitam"
+        },
+        {
+          "english": "this bird is petite in stature with a white breast and brown feathers.",
+          "indo": "burung ini bertubuh mungil dengan dada berwarna putih dan bulu berwarna coklat."
+        },
+        {
+          "english": "this gray bird had a white stripe through the chest and belly and a short black bill.",
+          "indo": "burung abu-abu ini memiliki garis putih di dada dan perutnya serta paruh hitam pendek."
+        },
+        {
+          "english": "this bird has a slender figure with a white belly and khaki colored exterior",
+          "indo": "burung ini bertubuh langsing dengan perut berwarna putih dan bagian luar berwarna khaki"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with black eyes and a average beak",
+          "indo": "burung ini berwarna coklat dengan mata hitam dan paruh rata-rata"
+        },
+        {
+          "english": "a brown bird with a white belly and breast.",
+          "indo": "seekor burung coklat dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0080_30515.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "grey and white specked small bird, pale yellow abdomen, black eyes and feet, orange beak.",
+          "indo": "Burung kecil berbintik abu-abu putih, perut kuning pucat, mata dan kaki hitam, paruh oranye."
+        },
+        {
+          "english": "this bird has a dark gray crown, a light gray eyering, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu tua, cincin mata berwarna abu-abu muda, dan perut berwarna putih."
+        },
+        {
+          "english": "this is a gray bird with a green belly with a brwon bill",
+          "indo": "ini adalah burung abu-abu dengan perut hijau dengan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird has grayish black wings and a green underbelly.",
+          "indo": "burung ini mempunyai sayap berwarna hitam keabu-abuan dan perut bagian bawah berwarna hijau."
+        },
+        {
+          "english": "a medium to large sized gray and white bird, with a greenish yellow stomach, medium size beak, gray head, with a short black tail.",
+          "indo": "burung berwarna abu-abu putih berukuran sedang hingga besar, dengan perut berwarna kuning kehijauan, paruh berukuran sedang, kepala berwarna abu-abu, dengan ekor pendek berwarna hitam."
+        },
+        {
+          "english": "this is a gray bird with a light yellow belly and a long, flat, orange beak.",
+          "indo": "ini adalah burung abu-abu dengan perut kuning muda dan paruh panjang, rata, berwarna oranye."
+        },
+        {
+          "english": "a small bird with a black bill, small black feet, and a touch of green on his belly",
+          "indo": "seekor burung kecil dengan paruh hitam, kaki kecil berwarna hitam, dan sedikit warna hijau di perutnya"
+        },
+        {
+          "english": "the bird is tan in color with pieces of yellow and has an orange bill.",
+          "indo": "burung tersebut berwarna kecoklatan dengan potongan berwarna kuning dan paruh berwarna jingga."
+        },
+        {
+          "english": "a small grey bird, with a white abdomen, and a sharp bill.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan perut putih, dan paruh runcing."
+        },
+        {
+          "english": "this bird is mostly grey colored and has a white breast.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dan memiliki dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0081_796895.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "the bird has gray crown, nape and rectrices, and white throat, belly and abdomen, it has sharp and pointy beak.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, tengkuk dan rectrices, serta tenggorokan, perut dan perut berwarna putih, paruhnya runcing dan runcing."
+        },
+        {
+          "english": "this bird is brown with a white chest and has a black and orange beak.",
+          "indo": "burung ini berwarna coklat dengan dada berwarna putih dan memiliki paruh berwarna hitam dan oranye."
+        },
+        {
+          "english": "small bird with white belly brown head small beak with brown larsus and small feet.",
+          "indo": "burung kecil dengan perut putih, kepala coklat, paruh kecil dengan larsus coklat dan kaki kecil."
+        },
+        {
+          "english": "a bird with a small triangular bill swept back gray crown, gray coverts and whtie breast.",
+          "indo": "seekor burung dengan paruh segitiga kecil menyapu ke belakang mahkota abu-abu, bulu abu-abu, dan dada putih."
+        },
+        {
+          "english": "the bird has a small beak that is flat and yellow on the bottom and slightly rounded and black on the top.",
+          "indo": "Burung ini memiliki paruh kecil berbentuk pipih berwarna kuning di bagian bawah dan agak membulat dan berwarna hitam di bagian atas."
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and brown in color, with a pointy beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh runcing."
+        },
+        {
+          "english": "this is a tiny bird with a cream colored belly, and small black feet.",
+          "indo": "ini adalah burung kecil dengan perut berwarna krem, dan kaki kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a short pointed bill with a black crown and white breast, with brown coverts and secondaries.",
+          "indo": "burung ini mempunyai paruh pendek dan runcing dengan mahkota berwarna hitam dan dada berwarna putih, dengan bulu berwarna coklat dan bulu sekunder."
+        },
+        {
+          "english": "this bird has a white belly and throat and a brown crown.",
+          "indo": "burung ini memiliki perut dan tenggorokan berwarna putih serta mahkota berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0082_796893.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "this small bird has a brown beak, brown wings, and a white belly.",
+          "indo": "burung kecil ini memiliki paruh berwarna coklat, sayap berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a light cream colored stomach and a darker brown colored coat on it's back.",
+          "indo": "burung ini mempunyai perut berwarna krem ​​​​muda dan bulu berwarna coklat tua di punggungnya."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a long pointed beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut putih dan paruh runcing panjang."
+        },
+        {
+          "english": "white breast with a grey brown back and head.",
+          "indo": "dada berwarna putih dengan punggung dan kepala berwarna abu-abu coklat."
+        },
+        {
+          "english": "a small bird with gray feathers and a white underbelly.",
+          "indo": "seekor burung kecil dengan bulu abu-abu dan perut berwarna putih."
+        },
+        {
+          "english": "this small grey bird has a lighter grey stomach and some white markings around the wings, and a bi-color beak perfect for cracking seeds.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki perut abu-abu terang dan beberapa tanda putih di sekitar sayap, serta paruh dua warna yang cocok untuk memecahkan biji."
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown",
+          "indo": "burung ini memiliki perut yang berwarna putih dan coklat"
+        },
+        {
+          "english": "this is a small gray bird with a white throat, breast, belly and abdomen and a pointed beak",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan tenggorokan, dada, perut dan perut berwarna putih serta paruh runcing"
+        },
+        {
+          "english": "this bird has a brown crown with brown bill and light brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan paruh berwarna coklat dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this little bird is plump and has grey feathers with a white belly.",
+          "indo": "burung kecil ini bertubuh gempal dan memiliki bulu berwarna abu-abu dengan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Olive_Sided_Flycatcher_0086_30553.jpg",
+      "class_id": 39,
+      "captions": [
+        {
+          "english": "a long brown bird with a yellow belly and neck, and a long bill compared to its body.",
+          "indo": "burung berwarna coklat panjang dengan perut dan leher berwarna kuning, serta paruh yang panjang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "a small bird with a grey breast, light yellow and grey belly, and grey face.",
+          "indo": "seekor burung kecil dengan dada abu-abu, perut kuning muda dan abu-abu, dan wajah abu-abu."
+        },
+        {
+          "english": "this greenish yellow bird has a yellow bill and black wings and tail feathers.",
+          "indo": "burung berwarna kuning kehijauan ini memiliki paruh berwarna kuning serta sayap dan bulu ekor berwarna hitam."
+        },
+        {
+          "english": "a small yet long bird with gray and white body.",
+          "indo": "seekor burung kecil namun panjang dengan tubuh berwarna abu-abu dan putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a colorful bird with black tail feathers and a short, flat beak.",
+          "indo": "burung berwarna-warni dengan bulu ekor hitam dan paruh pendek dan rata."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the small bird has has a long bill, a white belly, and dark colored wings.",
+          "indo": "burung kecil ini memiliki paruh yang panjang, perut berwarna putih, dan sayap berwarna gelap."
+        },
+        {
+          "english": "this is a gray bird with a light yellow belly and a yellow beak.",
+          "indo": "ini adalah burung abu-abu dengan perut kuning muda dan paruh kuning."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna kuning."
+        }
+      ]
+    }
+  ]
+}

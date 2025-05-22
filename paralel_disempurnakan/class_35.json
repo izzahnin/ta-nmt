@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Northern_Flicker_0004_28854.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this brown bird has black spots on its abdomen, chest and belly and black stripes on its wings and back.",
+          "indo": "burung berwarna coklat ini memiliki bintik-bintik hitam pada perut, dada dan perutnya serta garis-garis hitam pada sayap dan punggungnya."
+        },
+        {
+          "english": "this bird has a light coral face, throat and nape, with two black cheek patches, and is covered in black markings over a tan base on its body.",
+          "indo": "burung ini mempunyai muka, tenggorokan dan tengkuk berwarna koral terang, dengan dua bercak pipi berwarna hitam, dan ditutupi tanda hitam di atas dasar coklat pada tubuhnya."
+        },
+        {
+          "english": "an average sized bird with a jaguar like beige and black polka dotted pattern on its under belly and wing feathers, and a short curved bill.",
+          "indo": "burung berukuran rata-rata dengan pola bintik-bintik krem ​​​​dan hitam seperti jaguar di bagian bawah bulu perut dan sayap, serta paruh pendek melengkung."
+        },
+        {
+          "english": "this bird has a white belly and brown wing with black spots and a orange head.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap berwarna coklat dengan bintik hitam dan kepala berwarna oranye."
+        },
+        {
+          "english": "this brown, black, white, and dusty orange-colored bird has a striped design on its wings and a speckled design on its chest and belly.",
+          "indo": "Burung berwarna coklat, hitam, putih, dan oranye berdebu ini memiliki desain bergaris pada sayapnya dan desain berbintik pada dada dan perutnya."
+        },
+        {
+          "english": "this bird is brown with black spots and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bintik hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has black malar stripes, with an orange head and brown/black striped wings.",
+          "indo": "burung ini mempunyai corak malar belang hitam, kepala berwarna jingga, dan sayap belang coklat/hitam."
+        },
+        {
+          "english": "the grey crown down to the peach nape on the bird with a small bill",
+          "indo": "mahkota abu-abu hingga tengkuk buah persik pada burung dengan paruh kecil"
+        },
+        {
+          "english": "a brown bird with black and white spots on abdomen and belly, light brown throat and neck, black crown and black striped tail.",
+          "indo": "burung berwarna coklat dengan bintik-bintik hitam putih pada perut dan perut, tenggorokan dan leher berwarna coklat muda, mahkota hitam dan ekor bergaris hitam."
+        },
+        {
+          "english": "the brown and black striped bird has a peach colored head with a tan crown, black cheek patches and a grey bill.",
+          "indo": "burung belang coklat dan hitam ini memiliki kepala berwarna persik dengan mahkota berwarna coklat, bercak hitam di pipi dan paruh berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0006_28290.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a red throat and a red nape along with a black and grey spotted belly.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah dan tengkuk berwarna merah serta perut berbintik hitam dan abu-abu."
+        },
+        {
+          "english": "the bird has a black eyering and a black bill that is long.",
+          "indo": "burung tersebut memiliki cincin mata berwarna hitam dan paruh berwarna hitam yang panjang."
+        },
+        {
+          "english": "gray bird with black speckles and bright red patches at nape and throat.",
+          "indo": "burung berwarna abu-abu dengan bintik hitam dan bercak merah cerah di tengkuk dan tenggorokan."
+        },
+        {
+          "english": "this bird is black and grey in color with a curved black beak, and red eye rings.",
+          "indo": "burung ini berwarna hitam abu-abu dengan paruh hitam melengkung, dan cincin mata berwarna merah."
+        },
+        {
+          "english": "this is a grey bird with black stripes and spots on the wingbars and red on the nape.",
+          "indo": "ini adalah burung berwarna abu-abu dengan garis-garis hitam dan bintik-bintik di garis sayap dan merah di tengkuk."
+        },
+        {
+          "english": "this gray bird has black polka dots on its sides and belly and a red malar stripe.",
+          "indo": "burung berwarna abu-abu ini memiliki bintik-bintik hitam di bagian samping dan perutnya serta garis malar berwarna merah."
+        },
+        {
+          "english": "this bird has a beige undertone with black spots on the belly, black bars on the back and wings, and a black throat, as well as red patches at the nape and malar points of a grey to rust toned head sporting a long, black, slightly curved bill.",
+          "indo": "burung ini memiliki warna dasar krem ​​​​dengan bintik hitam di perut, garis hitam di punggung dan sayap, dan tenggorokan hitam, serta bercak merah di tengkuk dan titik malar dari kepala berwarna abu-abu hingga karat dengan warna hitam panjang, paruh agak melengkung."
+        },
+        {
+          "english": "a small bird with a red cheek and pointed beak.",
+          "indo": "seekor burung kecil dengan pipi merah dan paruh runcing."
+        },
+        {
+          "english": "the bird has a spotted back that is grey and a small bill.",
+          "indo": "burung itu memiliki punggung berbintik berwarna abu-abu dan paruh kecil."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0008_28591.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this small bird has a white belly with black spots, striped wings, a black malar stripe and a long beak.",
+          "indo": "burung kecil ini mempunyai perut berwarna putih dengan bintik hitam, sayap bergaris, garis malar hitam dan paruh yang panjang."
+        },
+        {
+          "english": "this greyish bird has brown spots on its wings, black cheek patch and rust colored eyebrow.",
+          "indo": "burung berwarna keabu-abuan ini memiliki bintik-bintik coklat pada sayapnya, bercak hitam di pipi dan alis berwarna karat."
+        },
+        {
+          "english": "a medium bird with a large pointy bill and a spotted plume in the breast, side and belly region",
+          "indo": "burung berukuran sedang dengan paruh runcing besar dan bulu berbintik di bagian dada, samping, dan perut"
+        },
+        {
+          "english": "this bird has a spotted breast, a rounded belly, and a brown eye ring",
+          "indo": "burung ini memiliki dada berbintik, perut membulat, dan cincin mata berwarna coklat"
+        },
+        {
+          "english": "this is a brown and white bird with black spots and a brown eyebrow.",
+          "indo": "ini adalah burung berwarna coklat putih dengan bintik hitam dan alis berwarna coklat."
+        },
+        {
+          "english": "this bird has a blue and black speckled body with grey on its wings and some yellow on its tail.",
+          "indo": "Burung ini memiliki tubuh berbintik biru kehitaman dengan warna abu-abu pada sayapnya dan sebagian kuning pada ekornya."
+        },
+        {
+          "english": "this bird is spotted black and brown in color, with a curved beak.",
+          "indo": "burung ini berbintik berwarna hitam kecokelatan, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird has black spots on its belly and a brown head.",
+          "indo": "burung ini memiliki bintik hitam di perutnya dan kepalanya berwarna coklat."
+        },
+        {
+          "english": "this bird has lively patterns, from several black wingbars to black and grey circles on the light tan breast and belly.",
+          "indo": "burung ini memiliki pola yang hidup, mulai dari beberapa garis sayap berwarna hitam hingga lingkaran hitam dan abu-abu pada bagian dada dan perut berwarna coklat muda."
+        },
+        {
+          "english": "the bird is spotted all over except the head which is almost red with a straight black beak.",
+          "indo": "burung itu terlihat seluruhnya kecuali kepalanya yang hampir merah dengan paruh lurus berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0011_28466.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has black speckles on its white belly and breast with a red strip on its nape.",
+          "indo": "burung ini memiliki bintik hitam pada perut dan dada berwarna putih dengan garis merah di tengkuknya."
+        },
+        {
+          "english": "this bird has black pointed bill, brown coverts and black rectrices.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, bulu berwarna coklat dan rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird's beak seems to curve downward and its belly is covered in a polka dot design.",
+          "indo": "paruh burung ini tampak melengkung ke bawah dan perutnya ditutupi desain polkadot."
+        },
+        {
+          "english": "this is a gray and white spotted bird with a red nape.",
+          "indo": "ini adalah burung berbintik abu-abu putih dengan tengkuk merah."
+        },
+        {
+          "english": "small white grey black and red bird with medium tarsus and long beak",
+          "indo": "burung kecil berwarna putih abu-abu hitam dan merah dengan tarsus sedang dan paruh panjang"
+        },
+        {
+          "english": "this bird has wings that are grey and has a long white bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh panjang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a spotted belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berbintik"
+        },
+        {
+          "english": "while the bird is small it has a very long beak when compared to the rest of its body, the dots in its fur is very nice.",
+          "indo": "Walaupun burungnya kecil, paruhnya sangat panjang jika dibandingkan dengan bagian tubuhnya yang lain, titik-titik pada bulunya sangat bagus."
+        },
+        {
+          "english": "this bird has a white and black breast and a pointed down bill",
+          "indo": "burung ini mempunyai dada berwarna putih kehitaman serta paruh yang runcing ke bawah"
+        },
+        {
+          "english": "this bird is so spotted that it looks like it has holes in its breast and belly.",
+          "indo": "burung ini sangat berbintik-bintik sehingga terlihat seperti ada lubang di bagian dada dan perutnya."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0016_28603.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a small bird with a gray throat, and a black and tan body.",
+          "indo": "seekor burung kecil dengan tenggorokan berwarna abu-abu, dan tubuh berwarna hitam kecokelatan."
+        },
+        {
+          "english": "a tan, brown and black spotted bird with a black spot on the throat and a orange/brown crest and eye band.",
+          "indo": "burung berbintik coklat, coklat dan hitam dengan bintik hitam di tenggorokan dan jambul serta pita mata berwarna oranye/coklat."
+        },
+        {
+          "english": "the small bird is black and brown speckled with a sharp pointed black bill.",
+          "indo": "burung kecil berwarna hitam coklat berbintik-bintik dengan paruh hitam runcing runcing."
+        },
+        {
+          "english": "this red-headed bird features a speckled, spotted belly and slightly curved, sharp beak.",
+          "indo": "burung berkepala merah ini memiliki perut berbintik-bintik dan paruh agak melengkung dan tajam."
+        },
+        {
+          "english": "this bird has a brown crown, a black bill, and a spotted brown breast",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh berwarna hitam, dan dada berwarna coklat berbintik"
+        },
+        {
+          "english": "this particular bird has a tan belly and breast with black spots",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan bintik-bintik hitam"
+        },
+        {
+          "english": "a gray bird with black speckles over its body, a black throat patch, the head is gray with some reddish coloring around the eye.",
+          "indo": "burung berwarna abu-abu dengan bintik-bintik hitam di sekujur tubuhnya, bercak tenggorokan berwarna hitam, kepala berwarna abu-abu dengan sedikit warna kemerahan di sekitar mata."
+        },
+        {
+          "english": "the breast of the bird has a dotted pattern, comprised of light browns with black dots.",
+          "indo": "Bagian dada burung berpola putus-putus, terdiri dari warna coklat muda dengan titik-titik hitam."
+        },
+        {
+          "english": "a small bird with an amber colored head with matching cheek patches, it has gray feet.",
+          "indo": "seekor burung kecil dengan kepala berwarna kuning dengan bercak pipi yang serasi, kakinya berwarna abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0021_28741.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird is grey with a red malar stripe and has black rectrices.",
+          "indo": "burungnya berwarna abu-abu dengan garis malar merah dan memiliki rectrices hitam."
+        },
+        {
+          "english": "this is a bird with a above average sized black beak, mostly dark colored all around and a little red under her neck.",
+          "indo": "Ini adalah burung dengan paruh hitam berukuran di atas rata-rata, sebagian besar berwarna gelap di sekelilingnya dan sedikit merah di bawah lehernya."
+        },
+        {
+          "english": "this is a bird with a brown back and a grey throat.",
+          "indo": "ini adalah burung dengan punggung berwarna coklat dan tenggorokan abu-abu."
+        },
+        {
+          "english": "this grey and black striped bird has a red throat",
+          "indo": "Burung bergaris abu-abu dan hitam ini memiliki tenggorokan berwarna merah"
+        },
+        {
+          "english": "this bird has a large palette of colors including red, brown, and gray, and it also has a long, curved beak.",
+          "indo": "burung ini memiliki palet warna yang banyak antara lain merah, coklat, dan abu-abu, serta memiliki paruh yang panjang dan melengkung."
+        },
+        {
+          "english": "this particular bird has a white belly and breasts with black spots and a gray throat",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bintik hitam dan tenggorokan berwarna abu-abu"
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna abu-abu."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is grey with a spot of red on its neck.",
+          "indo": "burung itu berwarna abu-abu dengan bintik merah di lehernya."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0022_28952.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a small bird with a long, sharp bill and red cheek patch speckled with black circles on its wing, belly, chest, and tail.",
+          "indo": "burung kecil dengan paruh yang panjang dan runcing serta bercak merah di pipi dengan bintik-bintik lingkaran hitam di sayap, perut, dada, dan ekornya."
+        },
+        {
+          "english": "this bird is brown and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a black eyering and a long bill that is black.",
+          "indo": "burung tersebut memiliki cincin mata berwarna hitam dan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "bird with gray beak, throat, nape, and light gray tarsus and feet and brown crown, black eye",
+          "indo": "burung dengan paruh abu-abu, tenggorokan, tengkuk, dan tarsus serta kaki abu-abu muda dan mahkota coklat, mata hitam"
+        },
+        {
+          "english": "this bird has a red malar stripe and a gray black and brown multi colored body.",
+          "indo": "Burung ini mempunyai garis malar berwarna merah dan badan berwarna abu-abu hitam coklat."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are spotted and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap yang berbintik-bintik dan mempunyai garis geraham berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and white and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai garis geraham berwarna merah"
+        },
+        {
+          "english": "this uniquely patterned tan and brown bird has a spotted breast and belly, and a distinct red cheekpatch.",
+          "indo": "burung berwarna cokelat dan coklat bermotif unik ini memiliki dada dan perut berbintik, serta penutup pipi berwarna merah."
+        },
+        {
+          "english": "this bird has a white body with black spots and a red head and long, grey beak that gradients to black at the tip.",
+          "indo": "Burung ini berbadan putih dengan bintik-bintik hitam, kepala berwarna merah, dan paruh panjang berwarna abu-abu yang ujungnya berwarna gradasi menjadi hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0024_29041.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a spotted body, a long beak, and a bright red patch on the back of its head.",
+          "indo": "burung ini mempunyai badan berbintik, paruh panjang, dan bercak merah cerah di belakang kepalanya."
+        },
+        {
+          "english": "this bird has a grey crown with black pointy bill, while its body has a brown color with black dots.",
+          "indo": "burung ini mempunyai mahkota berwarna abu-abu dengan paruh runcing berwarna hitam, sedangkan tubuhnya berwarna coklat dengan bintik-bintik hitam."
+        },
+        {
+          "english": "medium black white and brown bird with blue red and white head and long blue beak",
+          "indo": "burung sedang berwarna hitam putih coklat dengan kepala biru merah putih dan paruh biru panjang"
+        },
+        {
+          "english": "this bird has a white belly with dark dots, brown wings with dark dots, a red and brown crown, and a long dark yellow beak.",
+          "indo": "burung ini mempunyai perut berwarna putih dengan bintik-bintik gelap, sayap berwarna coklat dengan bintik-bintik gelap, mahkota berwarna merah dan coklat, serta paruh panjang berwarna kuning tua."
+        },
+        {
+          "english": "bird with long and sharp beak, with gray crown, black eye, inner and outer rectrices, with the head proportional to its body size",
+          "indo": "burung berparuh panjang dan runcing, mahkota berwarna abu-abu, mata berwarna hitam, inner dan outer rectrices, kepala proporsional dengan ukuran badannya"
+        },
+        {
+          "english": "a colorful bird with a solid red stripe along its nape, this bird has black dots along its entire body which is predominantly tan colored.",
+          "indo": "burung berwarna-warni dengan garis merah solid di sepanjang tengkuknya, burung ini memiliki titik-titik hitam di sekujur tubuhnya yang didominasi warna coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has black spots and has a red and blue crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai bintik hitam serta mempunyai mahkota berwarna merah dan biru"
+        },
+        {
+          "english": "this bird has a grey crown as well as a white throat",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "this bird has a grey crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna coklat, dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0034_28740.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this small bird has a long, blue beak, red malar stripe and orange eyerings.",
+          "indo": "Burung kecil ini memiliki paruh panjang berwarna biru, garis malar merah, dan cincin mata berwarna jingga."
+        },
+        {
+          "english": "a bird with a speckled back and throat, a gray face and red spot on the crown and face.",
+          "indo": "burung dengan punggung dan tenggorokan berbintik-bintik, muka berwarna abu-abu dan bercak merah pada ubun-ubun dan muka."
+        },
+        {
+          "english": "a small bird with with red cheek patch and brown eyering and red nape with black spots on breast and side",
+          "indo": "burung kecil dengan bercak merah di pipi dan cincin mata coklat serta tengkuk merah dengan bintik hitam di dada dan samping"
+        },
+        {
+          "english": "a smooth, gray bird with black dots on its belly, black stripes on its back, a red malar stripe, and some red on its nape.",
+          "indo": "burung halus berwarna abu-abu dengan bintik-bintik hitam di perutnya, garis-garis hitam di punggungnya, garis malar merah, dan sedikit merah di tengkuknya."
+        },
+        {
+          "english": "a colorful bird with a dark blue pointy bill",
+          "indo": "burung berwarna-warni dengan paruh runcing berwarna biru tua"
+        },
+        {
+          "english": "this bird has wings that are black and white and has a red throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai tenggorokan yang berwarna merah"
+        },
+        {
+          "english": "the bird has a small black bill, spotted breast and striped wingbars.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam, dada berbintik, dan sayap bergaris."
+        },
+        {
+          "english": "this bird has a bright red malar stripe and crown, and a white belly with black spots.",
+          "indo": "burung ini memiliki garis malar dan mahkota berwarna merah cerah, serta perut berwarna putih dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird is spotted black, brown, and gray in color, and has a black beak.",
+          "indo": "burung ini berbintik hitam, coklat, dan abu-abu, serta memiliki paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird, with black spots on its belly, a grey head, and a sharp bill.",
+          "indo": "seekor burung kecil, dengan bintik-bintik hitam di perutnya, kepala berwarna abu-abu, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0035_28332.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a beautiful bird with black spots over white wings and yellow under feathers.",
+          "indo": "burung cantik dengan bintik hitam di atas sayap putih dan kuning di bawah bulu."
+        },
+        {
+          "english": "this bird has a spotted belly as well as beak which curves slightly downward and to a point.",
+          "indo": "burung ini mempunyai perut berbintik serta paruh yang agak melengkung ke bawah dan mengarah ke suatu titik."
+        },
+        {
+          "english": "a medium bird with spotty breast and side with grey orange eyebrow and black neck ring",
+          "indo": "burung berukuran sedang dengan dada dan samping berbintik dengan alis abu-abu oranye dan cincin leher hitam"
+        },
+        {
+          "english": "this is a bird with a yellow tail wing, white belly, brown breast with black spots and a brown head.",
+          "indo": "Ini adalah burung dengan sayap ekor kuning, perut putih, dada coklat berbintik hitam, dan kepala coklat."
+        },
+        {
+          "english": "this bird is brown and black in color with a black beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh berwarna hitam, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a light brown throat and head with a darker brown crown, a black ring around it's neck, yellow feathers on it's wings and tail feathers and dark brown spots on it's belly.",
+          "indo": "burung ini memiliki tenggorokan dan kepala berwarna coklat muda dengan mahkota berwarna coklat tua, lingkaran hitam di sekeliling lehernya, bulu kuning pada sayap dan bulu ekornya serta bintik coklat tua pada perutnya."
+        },
+        {
+          "english": "this bird has wings that are black and white and has yellow tail feathers",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai bulu ekor berwarna kuning"
+        },
+        {
+          "english": "this bird has a brown spotted belly, a yellow tail, and a small head relative to its body.",
+          "indo": "burung ini memiliki perut berbintik coklat, ekor kuning, dan kepala kecil dibandingkan tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang berbintik"
+        },
+        {
+          "english": "this bird has a black beak with tan throat and white and brown spotted belly.",
+          "indo": "burung ini memiliki paruh berwarna hitam dengan tenggorokan berwarna coklat dan perut berbintik putih coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0036_28681.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a tan bird with a black throat and black spotted breast, with bright red striped on the head.",
+          "indo": "burung berwarna coklat dengan tenggorokan hitam dan dada berbintik hitam, dengan garis merah cerah di kepala."
+        },
+        {
+          "english": "the brown bird has black speckled abdomen and side with red malar stripe",
+          "indo": "burung berwarna coklat memiliki perut dan sisi berbintik hitam dengan garis malar merah"
+        },
+        {
+          "english": "a tan bird with a black patch on its breast and black spots on its belly.",
+          "indo": "burung berwarna coklat dengan bercak hitam di dadanya dan bintik hitam di perutnya."
+        },
+        {
+          "english": "this is a brown bird with black spots and a red throat.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam dan tenggorokan merah."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown with black spots and a black beak",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan bintik hitam dan paruh berwarna hitam"
+        },
+        {
+          "english": "long beaked bird with orange feathers on the head and speckled black and yellow wings.",
+          "indo": "burung berparuh panjang dengan bulu jingga di kepala dan sayap berbintik hitam kuning."
+        },
+        {
+          "english": "a very tall gray bird with a black chest and red markings on head.",
+          "indo": "seekor burung abu-abu yang sangat tinggi dengan dada hitam dan tanda merah di kepala."
+        },
+        {
+          "english": "this bird has black breast and red throat",
+          "indo": "burung ini mempunyai dada berwarna hitam dan tenggorokan berwarna merah"
+        },
+        {
+          "english": "this bird has a long pointed bill, with a black and orange spotted back.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, dengan punggung berbintik hitam dan oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0037_28751.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "brown and black feathers that are layered, red feathers on the back of head, light brown feathers on face and long pointed beak",
+          "indo": "bulu berwarna coklat dan hitam yang berlapis-lapis, bulu berwarna merah pada bagian belakang kepala, bulu berwarna coklat muda pada bagian muka dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the head of this bird is gray, with an orange nape, and brown and black spotted wings.",
+          "indo": "kepala burung ini berwarna abu-abu, dengan tengkuk berwarna oranye, dan sayap berbintik coklat dan hitam."
+        },
+        {
+          "english": "this bird is spotted in color, with a brown beak and a brown eye ring.",
+          "indo": "burung ini berbintik warna, dengan paruh berwarna coklat dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this small bird has a pointed bill, with a bright red feather on the back of its head, and a variegated brown color on its back.",
+          "indo": "Burung kecil ini mempunyai paruh yang runcing, bulu berwarna merah cerah di bagian belakang kepalanya, dan warna coklat beraneka ragam di punggungnya."
+        },
+        {
+          "english": "the birds has a red nape, grey crown and brown throat.",
+          "indo": "burung ini memiliki tengkuk berwarna merah, mahkota berwarna abu-abu, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "a small bird with a grey head and bright red nape, with grey, black and brown stripes and dots covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala berwarna abu-abu dan tengkuk berwarna merah cerah, dengan garis-garis dan titik-titik berwarna abu-abu, hitam dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small bird with black, white and brown body and red nape, the bill is long and pointed",
+          "indo": "burung kecil dengan badan berwarna hitam putih coklat dan tengkuk berwarna merah, paruhnya panjang dan runcing"
+        },
+        {
+          "english": "a brown bird with a red spot on its crown.",
+          "indo": "seekor burung berwarna coklat dengan bintik merah di mahkotanya."
+        },
+        {
+          "english": "this bird has a red stripe along it's nape, and speckled plumage on it's wings.",
+          "indo": "burung ini mempunyai garis merah di sepanjang tengkuknya, dan bulu berbintik di sayapnya."
+        },
+        {
+          "english": "this small bird has a bright orange nape and a long pointed bill.",
+          "indo": "burung kecil ini memiliki tengkuk berwarna jingga cerah dan paruh runcing panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0041_28697.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a grey body dotted with a red malar stripe and light grey and black spotted belly, breast, back and wings.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan garis malar merah dan perut, dada, punggung, dan sayap berbintik abu-abu muda dan hitam."
+        },
+        {
+          "english": "this bird has a long, pointy black beak, gray head with a orange superciliary and a bright orange malar stripe.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam runcing, kepala berwarna abu-abu dengan superciliary berwarna jingga dan garis malar berwarna jingga cerah."
+        },
+        {
+          "english": "the bird has red cheek patch with a grey overall color, but with lots of black patches and streaks over its body.",
+          "indo": "burung ini memiliki bercak pipi merah dengan warna keseluruhan abu-abu, tetapi banyak bercak dan guratan hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "this bird has a grey crown, a spotted wing, and a black and white spotted belly",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, sayap berbintik, dan perut berbintik hitam putih"
+        },
+        {
+          "english": "this is a grey and black spotted bird with a red cheek patch.",
+          "indo": "ini adalah burung berbintik abu-abu dan hitam dengan bercak merah di pipi."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a long black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and white and has a red cheek patch",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai bercak pipi berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a red molar patch",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan memiliki bercak geraham berwarna merah"
+        },
+        {
+          "english": "this is a white and black speckled bird with a white head with some orange tinge.",
+          "indo": "ini adalah burung berbintik putih dan hitam dengan kepala putih dengan sedikit semburat oranye."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0044_28592.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the malar stripe of the bird is red and the head of the bird is grey.",
+          "indo": "garis malar burung berwarna merah dan kepala burung berwarna abu-abu."
+        },
+        {
+          "english": "brown and black speckled wings, black tail feathers, bright red malar stirpe.",
+          "indo": "sayap berbintik coklat dan hitam, bulu ekor hitam, stirpe malar merah cerah."
+        },
+        {
+          "english": "this small bird has a bright red malar strip with tan, black, and brown coloring throughout the rest of it's body.",
+          "indo": "Burung kecil ini memiliki garis malar berwarna merah cerah dengan warna coklat kecokelatan, hitam, dan coklat di seluruh tubuhnya."
+        },
+        {
+          "english": "this brown bird has a long, skinny bill with black stripes on the wingbars.",
+          "indo": "burung berwarna coklat ini memiliki paruh yang panjang dan kurus dengan garis-garis hitam di bagian sayapnya."
+        },
+        {
+          "english": "bird with long, thick bill, red molar strips and orange crown.",
+          "indo": "burung dengan paruh panjang dan tebal, garis geraham merah dan mahkota oranye."
+        },
+        {
+          "english": "a light brown bird with black stripes, a red cape and malar stripe, with a long pointed bill.",
+          "indo": "burung berwarna coklat muda dengan garis-garis hitam, jubah merah dan garis malar, dengan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red molarpatch",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan memiliki geraham berwarna merah"
+        },
+        {
+          "english": "the bird is small and brown with a red hue and a long beak.",
+          "indo": "burung itu berukuran kecil berwarna coklat dengan corak merah dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has bright orange cheeks with brown toned feathers with black accents.",
+          "indo": "burung ini memiliki pipi berwarna jingga cerah dengan bulu berwarna coklat dengan aksen hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan memiliki garis geraham berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0045_28805.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a small black spotted bird with red and white hues.",
+          "indo": "seekor burung kecil berbintik hitam dengan corak merah dan putih."
+        },
+        {
+          "english": "this bird has a brown body with black spots all over it, and a light orange-red head.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan bintik-bintik hitam di sekujurnya, dan kepala berwarna oranye-merah muda."
+        },
+        {
+          "english": "this is a brown bird with black spots and a orange head.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam dan kepala berwarna oranye."
+        },
+        {
+          "english": "this colorful bird has a long straight black bill, an orange head & throat with a cheek patch, black & brown mottled plumage and a orange white & black spotted abdomen & belly.",
+          "indo": "burung berwarna-warni ini memiliki paruh panjang berwarna hitam lurus, kepala & tenggorokan berwarna oranye dengan penutup pipi, bulu belang-belang hitam & coklat, serta perut & perut berbintik putih & hitam oranye."
+        },
+        {
+          "english": "this is a bird with a white belly, brown wing with black spots and a brown head.",
+          "indo": "ini adalah burung dengan perut berwarna putih, sayap berwarna coklat dengan bintik hitam dan kepala berwarna coklat."
+        },
+        {
+          "english": "this small bird has a polka-dot belly and mottled wings with a small black tear shape near its beak.",
+          "indo": "Burung kecil ini memiliki perut polkadot dan sayap berbintik-bintik dengan bentuk sobek kecil berwarna hitam di dekat paruhnya."
+        },
+        {
+          "english": "this particular bird has a white belly with black spots and tan breasts with black spots",
+          "indo": "burung ini mempunyai perut berwarna putih dengan bintik hitam dan dada berwarna coklat dengan bintik hitam"
+        },
+        {
+          "english": "a small bird with a long, pointed, black beak and black cheek.",
+          "indo": "seekor burung kecil dengan paruh panjang, runcing, hitam dan pipi hitam."
+        },
+        {
+          "english": "this bird has wings that are spotted and has a red head",
+          "indo": "burung ini mempunyai sayap yang berbintik dan mempunyai kepala berwarna merah"
+        },
+        {
+          "english": "this bird is spotted black and brown with a long thick black beak.",
+          "indo": "burung ini berbintik hitam kecokelatan dengan paruh panjang berwarna hitam tebal."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0046_28391.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a large brown bird has a sharp and long beak, a yellow belly with a spotted pattern, and a dark red patch on it's nape.",
+          "indo": "burung besar berwarna coklat memiliki paruh runcing dan panjang, perut berwarna kuning dengan pola bintik-bintik, dan bercak merah tua di tengkuknya."
+        },
+        {
+          "english": "the bird with brown crown, throat, the bill is long and pointed, brown and black covering its parts of the body",
+          "indo": "burung dengan mahkota berwarna coklat, tenggorokan, paruh panjang dan runcing, berwarna coklat dan hitam menutupi bagian tubuhnya"
+        },
+        {
+          "english": "the bird has a really long bill.",
+          "indo": "burung itu mempunyai paruh yang sangat panjang."
+        },
+        {
+          "english": "this bird is brown and black in color with a long sharp beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh panjang yang runcing, serta cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a white rump, a brown spotted body and a grey head with a pointy black beak.",
+          "indo": "Ini adalah burung dengan pantat putih, tubuh berbintik coklat dan kepala abu-abu dengan paruh hitam runcing."
+        },
+        {
+          "english": "this bird has a variety of brown hues with stripes on it's wingbars, cream feathers with brown dots on it's belly, a black diagonal thick stripe along it's breast, and a red stripe behind it's head.",
+          "indo": "Burung ini mempunyai corak warna coklat yang beraneka ragam dengan garis-garis pada garis sayapnya, bulu berwarna krem ​​​​dengan bintik-bintik coklat pada perutnya, garis tebal diagonal hitam di sepanjang dada, dan garis merah di belakang kepala."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "a brown bird with speckles on its belly and its wings.",
+          "indo": "seekor burung berwarna coklat dengan bintik-bintik di perut dan sayapnya."
+        },
+        {
+          "english": "the bird has a long bill and a spotted breast and belly.",
+          "indo": "burung itu mempunyai paruh yang panjang dan dada serta perut yang berbintik-bintik."
+        },
+        {
+          "english": "this bird is primarily brown with a spotted belly and a medium sized beak.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan perut berbintik dan paruh berukuran sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0050_28284.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a straight beak, gray head, black patch on the chest, speckled belly, and a distinctive orange-red color on the underside of the tail feathers (rectrices).",
+          "indo": "burung ini mempunyai paruh yang lurus, kepala berwarna abu-abu, bercak hitam di dada, perut berbintik-bintik, dan warna khas oranye-merah pada bulu ekor bagian bawah (rectrices)."
+        },
+        {
+          "english": "this bird has solid grey head, nape and throat, a black breast, and light brown belly, abdomen and vent that is covered with black spots.",
+          "indo": "burung ini memiliki kepala, tengkuk dan tenggorokan berwarna abu-abu solid, dada berwarna hitam, dan perut berwarna coklat muda, perut dan lubang kloaka yang ditutupi bintik-bintik hitam."
+        },
+        {
+          "english": "this bird has a narrow, pointy grey beak with black eyes and grey feathers on the head, but the chest has a black patch leading to black spots over tan and white feathers.",
+          "indo": "burung ini memiliki paruh sempit berwarna abu-abu runcing dengan mata hitam dan bulu abu-abu di kepala, namun di bagian dada terdapat bercak hitam yang menimbulkan bintik hitam di atas bulu berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has a gray head, brown and black wings, ands black and grey spotted belly under a black patch on the chest.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu, sayap berwarna coklat dan hitam, serta perut berbintik hitam dan abu-abu di bawah bercak hitam di dada."
+        },
+        {
+          "english": "this is a grey bird with a white belly with black spots and a black breast.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut putih dengan bintik hitam dan dada hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is multi-colored; black, white,, grey, and red.",
+          "indo": "burung ini beraneka warna; hitam, putih, abu-abu, dan merah."
+        },
+        {
+          "english": "a gray bird with black and gray spots, short gray feet, a long neck, and a short beak with a little curve.",
+          "indo": "burung berwarna abu-abu dengan bintik-bintik hitam dan abu-abu, kaki pendek berwarna abu-abu, leher panjang, dan paruh pendek dengan sedikit lengkungan."
+        },
+        {
+          "english": "this bird has a long pointed bill, grey head feathers with white spot behind the eye and a white and brown belly covered in black dots.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, bulu kepala berwarna abu-abu dengan bintik putih di belakang mata dan perut berwarna putih coklat yang ditutupi bintik-bintik hitam."
+        },
+        {
+          "english": "this large gray bird has mottled shades of brown and taupe feathers and a red patch on the underside of its tail feathers.",
+          "indo": "burung besar berwarna abu-abu ini memiliki bintik-bintik bulu berwarna coklat dan kelabu tua serta bercak merah di bagian bawah bulu ekornya."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0051_28650.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a grey and brown bird with black spots all over has orange eyering, throat and primary feathers of its wings.",
+          "indo": "burung berwarna abu-abu dan coklat dengan bintik-bintik hitam di seluruh bagiannya memiliki cincin mata berwarna jingga, tenggorokan dan bulu utama pada sayapnya."
+        },
+        {
+          "english": "the bird has a brown covered body with black circles and streaks along it's entire side and covert.",
+          "indo": "burung ini memiliki tubuh tertutup berwarna coklat dengan lingkaran hitam dan guratan di seluruh sisinya dan bulu penutup."
+        },
+        {
+          "english": "this bird has a curved gray bill, a brown eyebrow, and a gray crown.",
+          "indo": "burung ini memiliki paruh melengkung berwarna abu-abu, alis berwarna coklat, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey crown and has a long narrow bill.",
+          "indo": "burung ini mempunyai mahkota berwarna abu-abu dan mempunyai paruh yang panjang dan sempit."
+        },
+        {
+          "english": "the mostly gray bird also features red and black spots throughout, with a long, curved beak.",
+          "indo": "burung yang sebagian besar berwarna abu-abu juga memiliki bintik-bintik merah dan hitam di seluruh bagiannya, dengan paruh yang panjang dan melengkung."
+        },
+        {
+          "english": "a small bird with a grey head and nape, with grey, black and brown covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala dan tengkuk berwarna abu-abu, dengan warna abu-abu, hitam dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a grey bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat kehitaman serta mempunyai paruh berwarna abu-abu"
+        },
+        {
+          "english": "the bird has a spotted grey and black belly and back with a grey crown.",
+          "indo": "burung itu memiliki perut dan punggung berwarna abu-abu dan hitam dengan mahkota abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        },
+        {
+          "english": "a bird that has black spots and black stripes and a long beak attack to a blueish head.",
+          "indo": "burung yang mempunyai bintik hitam dan belang hitam serta serangan paruh panjang hingga kepala berwarna kebiruan."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0053_28445.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a grey head and long grey bill with speckled body and red malar stripe.",
+          "indo": "Burung ini mempunyai kepala berwarna abu-abu dan paruh panjang berwarna abu-abu dengan badan berbintik-bintik dan garis malar merah."
+        },
+        {
+          "english": "this colorful bird has a grey base with black speckles all over its belly, back along with orange and black secondaries.",
+          "indo": "burung berwarna-warni ini memiliki pangkal berwarna abu-abu dengan bintik-bintik hitam di seluruh perutnya, punggung serta bulu sekunder berwarna jingga dan hitam."
+        },
+        {
+          "english": "grey bird with sharp spots of black and accents of orange around face, wings and tale.",
+          "indo": "burung abu-abu dengan bintik hitam tajam dan aksen oranye di sekitar wajah, sayap, dan dongeng."
+        },
+        {
+          "english": "bird with gray beak, crown, feet and nape, and black eye, and the head is proportional to its body size",
+          "indo": "burung dengan paruh, mahkota, kaki dan tengkuk berwarna abu-abu, serta bermata hitam, dan kepala proporsional dengan ukuran tubuhnya"
+        },
+        {
+          "english": "this large gray bird has white feathers with black dots, and red accents on its face and tail feathers.",
+          "indo": "Burung berukuran besar berwarna abu-abu ini memiliki bulu berwarna putih dengan bintik-bintik hitam, serta aksen merah pada bulu muka dan ekornya."
+        },
+        {
+          "english": "this grey headed bird has spotted black marks on its breast and wings with red and orange patches on its head and tail and a sharp beak.",
+          "indo": "burung berkepala abu-abu ini memiliki bintik-bintik hitam di dada dan sayapnya dengan bercak merah dan oranye di kepala dan ekornya serta paruh yang tajam."
+        },
+        {
+          "english": "this bird is gray, white and orange in color, with a gray beak.",
+          "indo": "burung ini berwarna abu-abu, putih dan oranye, dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this distinctive bird has a dotted belly and a red malar stripe.",
+          "indo": "Burung khas ini memiliki perut buncit dan garis malar berwarna merah."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "a small bird with an orange throat and long beak.",
+          "indo": "seekor burung kecil dengan tenggorokan berwarna oranye dan paruh panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0054_28913.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "grey and black speckled bird with a large, long and pointed black beak and orange specks on its nape.",
+          "indo": "burung berbintik abu-abu dan hitam dengan paruh hitam besar, panjang dan runcing serta bintik oranye di tengkuknya."
+        },
+        {
+          "english": "a brown bird has black spots on it and a red spot on its head.",
+          "indo": "seekor burung berwarna coklat memiliki bintik hitam di atasnya dan bintik merah di kepalanya."
+        },
+        {
+          "english": "the bird has grey crown with a red patch on it's nape and a brown face and black bill.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan bercak merah di tengkuknya dan muka berwarna coklat serta paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a long pointed bill, gray crown and neck with tufts of red and black and gray spotted belly and back.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, mahkota dan leher berwarna abu-abu dengan jumbai berwarna merah dan hitam serta perut dan punggung berbintik abu-abu."
+        },
+        {
+          "english": "this is a black, grey, and brown bird with orange feathers coming out of the crown.",
+          "indo": "ini adalah burung berwarna hitam, abu-abu, dan coklat dengan bulu oranye keluar dari mahkotanya."
+        },
+        {
+          "english": "this bird is grey with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "a large grey bird with a large black bill and a small amount of vibrant orange feathers on the back of its head.",
+          "indo": "seekor burung abu-abu besar dengan paruh hitam besar dan sedikit bulu oranye cerah di bagian belakang kepalanya."
+        },
+        {
+          "english": "this bird has lots of fluff, and a small patch of red on its nape.",
+          "indo": "burung ini mempunyai bulu yang banyak, dan ada bercak kecil berwarna merah di tengkuknya."
+        },
+        {
+          "english": "this bird has a red nape, and a bill that slightly curves downward.",
+          "indo": "burung ini memiliki tengkuk berwarna merah, dan paruh yang agak melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0055_28344.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a yellow fanned tail with black tips and a speckled body.",
+          "indo": "burung ini memiliki ekor mengipasi berwarna kuning dengan ujung berwarna hitam dan badan berbintik-bintik."
+        },
+        {
+          "english": "a medium sized bird with a long bill and a spotted breast",
+          "indo": "burung berukuran sedang dengan paruh panjang dan dada berbintik"
+        },
+        {
+          "english": "a bird with a yellow rectrices with blackened tips, a greenish yellow belly with a brown dotted pattern on it, a brown semicircled breast pattern, and a long bill.",
+          "indo": "burung berbentuk rectrices  berwarna kuning dengan ujung menghitam, perut berwarna kuning kehijauan dengan pola titik-titik coklat, pola dada setengah lingkaran berwarna coklat, dan paruh panjang."
+        },
+        {
+          "english": "this bird has a black breast and a yellow belly with black spots.",
+          "indo": "burung ini memiliki dada berwarna hitam dan perut berwarna kuning dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird has a light brown cheek patch, greyish brown crown with a red horizontal stripe, a long, slightly curved beak, a beige breast with black dots and a bright yellow tail with black tips.",
+          "indo": "burung ini memiliki bercak pipi berwarna coklat muda, mahkota berwarna coklat keabu-abuan dengan garis mendatar berwarna merah, paruh panjang agak melengkung, dada berwarna krem ​​​​dengan titik-titik hitam dan ekor berwarna kuning cerah dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang berbintik"
+        },
+        {
+          "english": "a medium sized brown bird, with black spots, yellow inner rectrices, and a long pointed bill.",
+          "indo": "burung berwarna coklat berukuran sedang, dengan bintik hitam, rectrices bagian dalam berwarna kuning, dan paruh runcing panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this small bird is orange with brown spots on its belly and it has a long pointed bill.",
+          "indo": "Burung kecil ini berwarna oranye dengan bintik-bintik coklat di perutnya dan paruhnya panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0057_28606.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a brown head with a patch of red and the body is brown and black speckled.",
+          "indo": "burung tersebut memiliki kepala berwarna coklat dengan bercak merah dan badannya berwarna coklat berbintik hitam."
+        },
+        {
+          "english": "this is a grey and black spotted bird with a red crown on its head.",
+          "indo": "ini adalah burung berbintik abu-abu dan hitam dengan mahkota merah di kepalanya."
+        },
+        {
+          "english": "a medium sized bird with a grey and red head, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan kepala berwarna abu-abu dan merah, serta paruh melengkung ke bawah"
+        },
+        {
+          "english": "this black and gray spotted bird has a red crown and a long pointed beak.",
+          "indo": "burung bintik hitam abu-abu ini memiliki mahkota berwarna merah dan paruh runcing panjang."
+        },
+        {
+          "english": "this bird is brown and black and has a long, sharp beak.",
+          "indo": "burung ini berwarna coklat kehitaman serta mempunyai paruh yang panjang dan tajam."
+        },
+        {
+          "english": "this bird has a long pointed bill, a grey and black patterned covert and secondary, and a black malar stripe.",
+          "indo": "Burung ini mempunyai paruh yang panjang dan runcing, bercorak abu-abu hitam bulu penutup dan bulu sekunder, serta bergaris malar hitam."
+        },
+        {
+          "english": "this bird is spotted brown and black in color, with a sharp black beak.",
+          "indo": "burung ini berbintik warna coklat kehitaman, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "a small bird with a white and black wings and a red top of the head.",
+          "indo": "seekor burung kecil dengan sayap putih dan hitam serta bagian atas kepala berwarna merah."
+        },
+        {
+          "english": "this bird has a long bill and small red spot just behind its grey crown.",
+          "indo": "burung ini memiliki paruh yang panjang dan bintik merah kecil tepat di belakang mahkota abu-abunya."
+        },
+        {
+          "english": "a small bird iwth a grey and black coloring and orange crown.",
+          "indo": "seekor burung kecil dengan warna abu-abu hitam dan mahkota oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0059_28488.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this is a white bird with black spots and a yellow tail wing.",
+          "indo": "ini adalah burung berwarna putih dengan bintik hitam dan sayap ekor berwarna kuning."
+        },
+        {
+          "english": "this bird is white with a red tailand has a long, pointy beak.",
+          "indo": "Burung ini berwarna putih dengan ekor berwarna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white belly and breast with black speckles, a brown crown, and a long needle like bill.",
+          "indo": "Burung ini memiliki perut dan dada berwarna putih dengan bintik hitam, mahkota berwarna coklat, dan paruh berbentuk jarum panjang."
+        },
+        {
+          "english": "the bird is white and orange all over with black spots and a sharp long beak.",
+          "indo": "burungnya berwarna putih jingga seluruhnya dengan bintik hitam dan paruh panjang yang tajam."
+        },
+        {
+          "english": "this bird has a light brown colored breast, belly and abdomen with black dots all over them.",
+          "indo": "burung ini memiliki dada, perut, dan perut berwarna coklat muda dengan bintik-bintik hitam di sekujurnya."
+        },
+        {
+          "english": "a white chested bird with black spots and long yellow black tipped feathers.",
+          "indo": "burung berdada putih dengan bintik hitam dan bulu panjang berujung hitam kuning."
+        },
+        {
+          "english": "bird has a white belly speckled with black, a black breast patch, gray head and pointed break, tail feathers are red and tipped with black.",
+          "indo": "burung mempunyai perut berwarna putih berbintik hitam, bercak dada berwarna hitam, kepala berwarna abu-abu dan patah runcing, bulu ekor berwarna merah dan berujung hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and some pink with black spots",
+          "indo": "burung ini memiliki perut berwarna kecokelatan dan sebagian berwarna merah muda dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a orange crown, black and cream breast, and a black and cream belly.",
+          "indo": "burung ini memiliki mahkota berwarna oranye, dada berwarna hitam krem, dan perut berwarna hitam krem."
+        },
+        {
+          "english": "this bird has an orange crown with a black throat and black beak.",
+          "indo": "burung ini mempunyai mahkota berwarna jingga dengan tenggorokan berwarna hitam dan paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0068_28330.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a white bird with black spots all over it's wings and flanks and red brow and malar stripe.",
+          "indo": "burung berwarna putih dengan bintik hitam di seluruh sayap dan panggul serta superciliary merah dan garis malar."
+        },
+        {
+          "english": "this bird has a long black bill, a brown eyebrow, and a red malar strip.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam, alis berwarna coklat, dan garis malar berwarna merah."
+        },
+        {
+          "english": "this bird has gray and black spotted primaries, a red malar stripe and a orange crown.",
+          "indo": "burung ini memiliki ciri utama berbintik abu-abu dan hitam, garis malar merah, dan mahkota oranye."
+        },
+        {
+          "english": "a small bird with a black and white underbody and grey and black wings.",
+          "indo": "seekor burung kecil dengan bagian bawah tubuh berwarna hitam putih dan sayap berwarna abu-abu dan hitam."
+        },
+        {
+          "english": "this bird has a grey back and white belly, both with black speckling, a rusty brown crown and a bright red malar stripe.",
+          "indo": "Burung ini memiliki punggung berwarna abu-abu dan perut berwarna putih, keduanya berbintik hitam, mahkota berwarna coklat karatan, dan garis malar berwarna merah cerah."
+        },
+        {
+          "english": "this bird is white with black spots on its body with a light orange crown and a darker orange malar stripe and long gray beak.",
+          "indo": "burung ini berwarna putih dengan bintik-bintik hitam pada tubuhnya, mahkota berwarna jingga muda dan garis malar jingga tua serta paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this is a gray bird with a red cheek patch, brown crown and a long pointed gray beak",
+          "indo": "ini adalah burung abu-abu dengan bercak merah di pipi, mahkota coklat dan paruh abu-abu panjang dan runcing"
+        },
+        {
+          "english": "the coverts and secondaries are tan with black speckles, the crown is orange and the bill is very long.",
+          "indo": "bulunya berwarna coklat kecokelatan dengan bintik-bintik hitam, mahkotanya berwarna oranye dan paruhnya sangat panjang."
+        },
+        {
+          "english": "this bird has a brown crown, grey and black primaries, and a black and white belly.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, bulu primer berwarna abu-abu dan hitam, serta perut berwarna hitam putih."
+        },
+        {
+          "english": "a gray and white spotted bird with a long tail, wide head, long gray pointy beak, and short legs.",
+          "indo": "burung berbintik abu-abu putih dengan ekor panjang, kepala lebar, paruh panjang runcing berwarna abu-abu, dan kaki pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0069_28924.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a bird with black spots on it's brown breast, along with a dull red head.",
+          "indo": "burung dengan bintik hitam di dada berwarna coklat, dan kepala berwarna merah kusam."
+        },
+        {
+          "english": "a white bird with a pinkish face has black spots on it's body.",
+          "indo": "seekor burung berwarna putih dengan wajah berwarna merah muda memiliki bintik-bintik hitam di tubuhnya."
+        },
+        {
+          "english": "a smal lbird with a red and light grey head and nape, with brown, tan and white spots covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala dan tengkuk berwarna merah dan abu-abu muda, dengan bintik-bintik coklat, kecoklatan dan putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "the bird has a brown spotted belly, wings and tail with a brown head.",
+          "indo": "burung ini memiliki perut berbintik coklat, sayap dan ekor dengan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has brown spots on the breast, a orange crown and nape, and stripes on the wings.",
+          "indo": "burung ini memiliki bintik-bintik coklat pada bagian dada, mahkota dan tengkuk berwarna oranye, serta garis-garis pada sayap."
+        },
+        {
+          "english": "this bird is brown with black spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bintik-bintik hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a rust colored crown, a long slender beak and has small dark spots across its breast and abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna karat, paruh panjang ramping dan memiliki bintik-bintik hitam kecil di dada dan perutnya."
+        },
+        {
+          "english": "this bird has a grey crown with a red spot in the middle, a red face, and cream colored body with brown spots all over it.",
+          "indo": "Burung ini memiliki mahkota berwarna abu-abu dengan bintik merah di tengahnya, muka merah, dan badan berwarna krem ​​​​dengan bintik coklat di sekujurnya."
+        },
+        {
+          "english": "bird with light brown wings and breast, with an orange eyebrow and a white head with a long curved beak.",
+          "indo": "burung dengan sayap dan dada berwarna coklat muda, alis berwarna oranye dan kepala berwarna putih dengan paruh panjang melengkung."
+        },
+        {
+          "english": "this bird is spotted black on brown in color, and has a large curved beak.",
+          "indo": "burung ini berbintik hitam kecokelatan, dan mempunyai paruh besar yang melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0072_28678.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "i think this may be a female woodpecker with her long, pointed beak and muted coloring.",
+          "indo": "menurutku ini mungkin burung pelatuk betina dengan paruhnya yang panjang dan runcing serta warnanya yang kalem."
+        },
+        {
+          "english": "a medium sized bird with a long bill that curves downwards, and brown wings",
+          "indo": "burung berukuran sedang dengan paruh panjang melengkung ke bawah, dan sayap berwarna coklat"
+        },
+        {
+          "english": "an all gray, medium sized bird with brown circle around it's eyes and a striped pattern of black stripes that slowly transitions into speckles, towards the tail feathers.",
+          "indo": "seekor burung berwarna abu-abu, berukuran sedang dengan lingkaran coklat di sekitar matanya dan pola garis-garis hitam yang perlahan-lahan berubah menjadi bintik-bintik, menuju bulu ekor."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this brown bird has black spots and a slightly curved beak.",
+          "indo": "burung berwarna coklat ini memiliki bintik hitam dan paruh agak melengkung."
+        },
+        {
+          "english": "this is a medium sized light brown bird, with black spots on its side and wings, as well as black stripes on its back.",
+          "indo": "Ini adalah burung berukuran sedang berwarna coklat muda, dengan bintik-bintik hitam di sisi dan sayapnya, serta garis-garis hitam di punggungnya."
+        },
+        {
+          "english": "the large bodied bird has a speckeled appearance on the wings and flank and a small red patch on the nape.",
+          "indo": "burung bertubuh besar ini memiliki penampakan berbintik-bintik di sayap dan panggul serta bercak merah kecil di tengkuk."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a large body with a small brown head.",
+          "indo": "burung ini memiliki tubuh besar dengan kepala kecil berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has spots on them",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai bintik-bintik"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0075_28729.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has grayish brown throat, with brown and black wingbars and brown crown.",
+          "indo": "burung ini memiliki tenggorokan berwarna coklat keabu-abuan, dengan garis sayap berwarna coklat dan hitam serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this is a white bird with black spots and red cheek patches.",
+          "indo": "ini adalah burung berwarna putih dengan bintik hitam dan bercak merah di pipi."
+        },
+        {
+          "english": "this is a tan and black bird with a red malar stripe and brown crown.",
+          "indo": "ini adalah burung berwarna coklat kecokelatan dan hitam dengan garis malar merah dan mahkota coklat."
+        },
+        {
+          "english": "this bird is white and brown in color with a skinny black beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh hitam kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this small tan bird's body is mottled with black spots, the malar stripes are bright red, the head is small in comparison with its body, and the bill is short and pointed.",
+          "indo": "Badan burung kecil berwarna coklat ini berbintik-bintik hitam, belang malarnya berwarna merah cerah, kepalanya kecil dibandingkan badannya, dan paruhnya pendek dan runcing."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai garis geraham berwarna merah"
+        },
+        {
+          "english": "this bird has red under its eyes and spotted feathers and wings.",
+          "indo": "burung ini memiliki warna merah di bawah matanya dan bulu serta sayapnya berbintik."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this light gray bird has dark gray spots and dots, while the head is gray with red molar stripes and the crown is brown.",
+          "indo": "burung berwarna abu-abu muda ini memiliki bintik dan bintik abu-abu tua, sedangkan kepalanya berwarna abu-abu dengan garis geraham merah dan mahkotanya berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0077_28341.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a grey head with a bit of a reddish brown cast, a dark brown patch on the breast, a brown, tan, and white spotted side, belly, and flank, and a white bill.",
+          "indo": "Burung ini memiliki kepala berwarna abu-abu dengan sedikit corak coklat kemerahan, bercak coklat tua di dada, bagian samping, perut, dan panggul berwarna coklat kecokelatan dan putih, serta paruh berwarna putih."
+        },
+        {
+          "english": "yet another medium sized avian with black speckles all around its pale gray body, leading into auburn tail feathers.",
+          "indo": "satu lagi burung berukuran sedang dengan bintik-bintik hitam di sekeliling tubuhnya yang berwarna abu-abu pucat, hingga bulu ekornya berwarna kemerahan."
+        },
+        {
+          "english": "this gray bird has a brown breast and brown spots all over its belly and abdomen.",
+          "indo": "burung berwarna abu-abu ini memiliki dada berwarna coklat dan bintik-bintik coklat di sekujur perut dan abdomen."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "medium brown grey and black bird with long brown beak",
+          "indo": "burung berwarna coklat sedang abu-abu dan hitam dengan paruh coklat panjang"
+        },
+        {
+          "english": "this bird has a cheetah type print along most of its body with a soft burnt reddish head.",
+          "indo": "Burung ini memiliki corak tipe cheetah di sebagian besar tubuhnya dengan kepala lembut berwarna kemerahan."
+        },
+        {
+          "english": "this bird has a pointed bill, a dark brown breast and tail, and dark brown speckles on light brown wings, belly, and abdomen.",
+          "indo": "burung ini memiliki paruh yang runcing, dada dan ekor berwarna coklat tua, serta bintik coklat tua pada sayap, perut, dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a small head and pointy bill, and a spotted brown and beige body.",
+          "indo": "burung ini mempunyai kepala kecil dan paruh runcing, serta badan berbintik coklat dan krem."
+        },
+        {
+          "english": "this bird has brown spots, a long tail, a short neck, a small head, a long pointy beak, and a black eye.",
+          "indo": "burung ini mempunyai bintik coklat, ekor panjang, leher pendek, kepala kecil, paruh panjang runcing, dan mata berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0078_28338.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the small bird has a grey head and speckled body with red neck.",
+          "indo": "burung kecil itu berkepala abu-abu dan badannya berbintik-bintik dengan leher berwarna merah."
+        },
+        {
+          "english": "a small bird with a long flat bill and a multicolored body.",
+          "indo": "seekor burung kecil dengan paruh panjang yang rata dan tubuh beraneka warna."
+        },
+        {
+          "english": "a bird with red malar stripe, gray throat, and spotted breast.",
+          "indo": "burung bergaris malar merah, tenggorokan abu-abu, dan dada berbintik."
+        },
+        {
+          "english": "this is a white bird with black spots who has a long beak and red stripes on its head.",
+          "indo": "ini adalah burung berwarna putih bintik hitam yang memiliki paruh panjang dan garis merah di kepalanya."
+        },
+        {
+          "english": "this bird is grey with black spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan bintik-bintik hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a white belly with black circular spots on it, a black breast, head is grey with a red malar stripe.",
+          "indo": "burung kecil, perut berwarna putih dengan bintik-bintik hitam melingkar, dada berwarna hitam, kepala berwarna abu-abu dengan garis malar merah."
+        },
+        {
+          "english": "a small bird with a multi black polka dot body.",
+          "indo": "seekor burung kecil dengan tubuh polkadot multi-hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya yang berbintik"
+        },
+        {
+          "english": "this bird has a solid gray head with bright red malar stripes and a spotted gray body.",
+          "indo": "burung ini mempunyai kepala berwarna abu-abu solid dengan garis malar merah cerah dan badan berwarna abu-abu berbintik."
+        },
+        {
+          "english": "this bird has wings that are spotted and has a red throat",
+          "indo": "burung ini mempunyai sayap yang berbintik-bintik dan tenggorokannya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0079_28630.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has sharp pointed beak, with grayish yellow crown, white throat, and black and white belly.",
+          "indo": "Burung ini mempunyai paruh yang runcing, mahkota berwarna kuning keabu-abuan, tenggorokan berwarna putih, dan perut berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a long bill, a rounded and spotted belly, and a red cheek patch",
+          "indo": "burung ini mempunyai paruh yang panjang, perut yang membulat dan berbintik-bintik, serta bercak merah di pipi"
+        },
+        {
+          "english": "a mostly brown bird with a black throat and red cheek patches.",
+          "indo": "burung yang sebagian besar berwarna coklat dengan tenggorokan hitam dan bercak merah di pipi."
+        },
+        {
+          "english": "this bird has a small head and has a brown crown with a long bill.",
+          "indo": "burung ini mempunyai kepala yang kecil dan mempunyai mahkota berwarna coklat dengan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast, black neck, red cheek patch, and pointy bill.",
+          "indo": "Burung ini memiliki perut dan dada berbintik-bintik, leher berwarna hitam, pipi berwarna merah, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a black bill, red cheek patch and black and white spotted breast.",
+          "indo": "burung dengan paruh hitam, pipi merah, dan dada berbintik hitam putih."
+        },
+        {
+          "english": "this bird has one red splotch under each eye and a white belly with dark brown spots on it.",
+          "indo": "burung ini memiliki satu bercak merah di bawah setiap matanya dan perut berwarna putih dengan bintik coklat tua di atasnya."
+        },
+        {
+          "english": "this bird has a bright red cheek and a dark brown crown color",
+          "indo": "burung ini memiliki pipi berwarna merah cerah dan warna mahkota coklat tua"
+        },
+        {
+          "english": "the bird has black spots on top of a white coloring on the throat, belly, and breast, with a red marking on the throat.",
+          "indo": "Burung ini memiliki bintik-bintik hitam di atas warna putih pada tenggorokan, perut, dan dada, serta tanda merah pada tenggorokan."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0084_28318.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a mostly brown and grey bird with a long, flat beak, bright red malaria stripe, black breast and speckles of black from breast to rump.",
+          "indo": "burung yang sebagian besar berwarna coklat dan abu-abu dengan paruh panjang dan rata, garis malaria merah cerah, dada hitam dan bintik hitam dari dada hingga pantat."
+        },
+        {
+          "english": "this bird has a long, black bill, red cheek patches, grey head and black spotted feathers.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam, bercak merah di pipi, kepala berwarna abu-abu, dan bulu berbintik hitam."
+        },
+        {
+          "english": "this bird has a red cheek patch, brown and grey head, grey neck, black throat, and light brown coverts with black specks.",
+          "indo": "burung ini mempunyai bercak pipi berwarna merah, kepala berwarna coklat dan abu-abu, leher berwarna abu-abu, tenggorokan berwarna hitam, dan bulu berwarna coklat muda dengan bintik-bintik hitam."
+        },
+        {
+          "english": "a multicolored bird with black spots, a red malar strip, and a long pointed bill.",
+          "indo": "burung beraneka warna dengan bintik hitam, garis malar merah, dan paruh runcing panjang."
+        },
+        {
+          "english": "this bird has an orange cheek patch and a grey body with black spots and a long slender beak.",
+          "indo": "burung ini memiliki bercak pipi berwarna jingga dan badan berwarna abu-abu dengan bintik hitam serta paruh yang panjang dan ramping."
+        },
+        {
+          "english": "this long billed bird is tan and gray with black polk-a-dots and has a red malar stripe.",
+          "indo": "burung berparuh panjang ini berwarna coklat keabu-abuan dengan bintik-bintik hitam dan bergaris malar merah."
+        },
+        {
+          "english": "this particular bird has a gray belly with black spots and orange cheek patches",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan bintik hitam dan bercak oranye di pipi"
+        },
+        {
+          "english": "this bird has wings that are grey and has a red molar patch",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan memiliki bercak geraham berwarna merah"
+        },
+        {
+          "english": "this bird has a grey crown, brown and black spotted primaries, and a brown and black belly.",
+          "indo": "burung ini mempunyai mahkota berwarna abu-abu, bulu primer berbintik coklat dan hitam, serta perut berwarna coklat dan hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai garis geraham berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0085_28378.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the nape of the neck of this bird is bright red while the body of the birdy (breast, wings, belly) is white/brown and black-spotted.",
+          "indo": "tengkuk burung ini berwarna merah cerah sedangkan badan burung (dada, sayap, perut) berwarna putih/cokelat dan berbintik hitam."
+        },
+        {
+          "english": "this bird has small black spots along its breast and abdomen as well as a red crown and brown coverts.",
+          "indo": "burung ini memiliki bintik hitam kecil di sepanjang dada dan perutnya serta mahkota berwarna merah dan bulu berwarna coklat."
+        },
+        {
+          "english": "this little bird has brown, tan, and black spots throughout it's entire body with a spot of white on it's nape.",
+          "indo": "Burung kecil ini memiliki bintik-bintik coklat, kecoklatan, dan hitam di sekujur tubuhnya dengan bercak putih di tengkuknya."
+        },
+        {
+          "english": "white all over with black spots and brown and black spotted wings, a red crown and orangeish head.",
+          "indo": "seluruhnya berwarna putih dengan bintik hitam dan sayap berbintik coklat dan hitam, mahkota merah dan kepala jingga."
+        },
+        {
+          "english": "this small bird has a reddish hue to the crown and distinctive wing patterns.",
+          "indo": "burung berukuran kecil ini memiliki rona kemerahan pada bagian mahkota dan pola sayap yang khas."
+        },
+        {
+          "english": "a small bird with a red crown, red face, tan with brown speckles covering its breast, belly and vent, and brown and black secondaries.",
+          "indo": "burung kecil bermahkota merah, muka merah, kecoklatan dengan bintik-bintik coklat menutupi dada, perut dan lubang kloaka, serta bulu sekunder berwarna coklat dan hitam."
+        },
+        {
+          "english": "this bird has a grey bill with light and dark brown wings and grey feet.",
+          "indo": "burung ini memiliki paruh berwarna abu-abu dengan sayap berwarna coklat muda dan tua serta kaki berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "a small brown bird around the eyes is orange a long bill",
+          "indo": "burung kecil berwarna coklat di sekitar matanya berwarna oranye, paruhnya panjang"
+        },
+        {
+          "english": "this tiny bird has a long and point black bill, amber superciliary, and black and brown primaries and secondaries.",
+          "indo": "burung mungil ini memiliki paruh hitam panjang dan runcing, superciliary kuning, serta bulu primer dan bulu sekunder berwarna hitam dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0086_28360.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and long bill that is brown.",
+          "indo": "burung ini memiliki cincin mata berwarna hitam dan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "the bird has has a red cheek patch with brown and dark brown body.",
+          "indo": "burung ini mempunyai bercak pipi berwarna merah dengan badan berwarna coklat dan coklat tua."
+        },
+        {
+          "english": "this is a brown bird with black spots and a grey head with a red cheek patch.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam dan kepala abu-abu dengan bercak merah di pipi."
+        },
+        {
+          "english": "the bird has a grey nape and throat with an orange cheek patch and brown crown.",
+          "indo": "burung ini memiliki tengkuk dan tenggorokan berwarna abu-abu dengan bercak oranye di pipi dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this is a brown bird with black spots, a grey head, a red cheek patch and a brown crown.",
+          "indo": "ini adalah burung coklat dengan bintik hitam, kepala abu-abu, pipi merah dan mahkota coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has black spots on them",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan terdapat bintik-bintik hitam pada sayapnya"
+        },
+        {
+          "english": "this bird has a very long beak and a red cheek patch.",
+          "indo": "burung ini memiliki paruh yang sangat panjang dan bercak merah di pipi."
+        },
+        {
+          "english": "this bird is brown and orange in color, and has a brown beak.",
+          "indo": "burung ini berwarna coklat dan oranye, serta mempunyai paruh berwarna coklat."
+        },
+        {
+          "english": "a brown and white striped bird with long legs, a long tail, a wide neck, a small head, and a long beak.",
+          "indo": "burung belang coklat putih dengan kaki panjang, ekor panjang, leher lebar, kepala kecil, dan paruh panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0090_28491.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the small bird is tan with black spots, has black eyes and a black beak.",
+          "indo": "burung kecil berwarna coklat kecokelatan dengan bintik hitam, bermata hitam dan paruh hitam."
+        },
+        {
+          "english": "a small light brown bird with black spots on its wings and breast, gray crown, and a red spot on its neck.",
+          "indo": "burung kecil berwarna coklat muda dengan bintik hitam pada sayap dan dada, mahkota berwarna abu-abu, dan bintik merah pada leher."
+        },
+        {
+          "english": "a round shaped bird with a long curved black bill, and a red tip on the head.",
+          "indo": "burung berbentuk bulat dengan paruh panjang melengkung berwarna hitam, dan ujung kepala berwarna merah."
+        },
+        {
+          "english": "a bird with a red nape and a grey fading to red body.",
+          "indo": "seekor burung dengan tengkuk berwarna merah dan tubuh berwarna abu-abu memudar menjadi merah."
+        },
+        {
+          "english": "this small brown bird has black speckles and a curved black beak",
+          "indo": "burung kecil berwarna coklat ini memiliki bintik hitam dan paruh hitam melengkung"
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has multiple colored feathers of 5 different colors, its smaller with a very pointy beak.",
+          "indo": "burung ini memiliki bulu beraneka warna dengan 5 warna berbeda, bentuknya lebih kecil dengan paruh yang sangat runcing."
+        },
+        {
+          "english": "a small bird with black speckles on the belly and breast.",
+          "indo": "seekor burung kecil dengan bintik hitam di perut dan dada."
+        },
+        {
+          "english": "a small and round bird with gray, black, and white feathers and a red tip on head.",
+          "indo": "burung kecil dan bulat dengan bulu berwarna abu-abu, hitam, dan putih serta ujung kepala berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0091_28799.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this is a white bird with black spots and a red cheek patch.",
+          "indo": "ini adalah burung berwarna putih dengan bintik hitam dan bercak merah di pipi."
+        },
+        {
+          "english": "this bird is speckled tan, black and white throughout it's body, and has a bright orange patch on it's cheek.",
+          "indo": "Burung ini berbintik-bintik kecoklatan, hitam putih di sekujur tubuhnya, dan mempunyai bercak oranye cerah di pipinya."
+        },
+        {
+          "english": "this is a brown bird with a grey head and a red cheek patch.",
+          "indo": "ini adalah burung coklat dengan kepala abu-abu dan pipi merah."
+        },
+        {
+          "english": "a grey bird with red on its cheek patch and black spots on its rectrices",
+          "indo": "burung berwarna abu-abu dengan warna merah di pipinya dan bintik hitam di bagian rectrices"
+        },
+        {
+          "english": "the bird has a long bill and a spotted back that is brown.",
+          "indo": "Burung ini mempunyai paruh yang panjang dan punggung berbintik berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a red cheek patch",
+          "indo": "burung ini mempunyai sayap berwarna coklat kehitaman serta mempunyai bercak pipi berwarna merah"
+        },
+        {
+          "english": "this is a grey bird with dark spots and a red cheek patch.",
+          "indo": "ini adalah burung abu-abu dengan bintik hitam dan bercak merah di pipi."
+        },
+        {
+          "english": "this bird has a white belly mottled with black and light brown wings mottled with black and an orange patch on its cheeks.",
+          "indo": "Burung ini memiliki perut berbintik-bintik putih, sayap berwarna hitam dan coklat muda berbintik-bintik hitam dan bercak oranye di pipinya."
+        },
+        {
+          "english": "this bird has a grey nape with red cheek patch and black outer rectrices.",
+          "indo": "burung ini memiliki tengkuk berwarna abu-abu dengan bercak pipi merah dan rectrices luar berwarna hitam."
+        },
+        {
+          "english": "this bird has feathers in shades of mottled gray and brown, with a prominent red facial patch.",
+          "indo": "burung ini memiliki bulu bercak abu-abu dan coklat, dengan bercak wajah berwarna merah yang menonjol."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0093_28700.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a brown bird with a long black bill compared to its body, and dark brown and black wings with yellow streaks on them.",
+          "indo": "burung berwarna coklat dengan paruh hitam panjang dibandingkan dengan tubuhnya, dan sayap berwarna coklat tua dan hitam dengan garis-garis kuning di atasnya."
+        },
+        {
+          "english": "this medium sized bird is smaller than most and has a beautiful gray coat with black stripes all down it's wings.",
+          "indo": "burung berukuran sedang ini lebih kecil dari kebanyakan burung dan memiliki bulu abu-abu yang indah dengan garis-garis hitam di seluruh sayapnya."
+        },
+        {
+          "english": "the small bird has a brown body with brown speckled wings and a thick black beak.",
+          "indo": "burung kecil berbadan coklat dengan sayap berbintik coklat dan paruh hitam tebal."
+        },
+        {
+          "english": "a small bird with a black malar stripe, a grey crown, and a relatively long, pointed beak that is curved slightly downwards.",
+          "indo": "burung kecil bergaris malar hitam, mahkota berwarna abu-abu, dan paruh runcing relatif panjang yang agak melengkung ke bawah."
+        },
+        {
+          "english": "this bird is small, mostly black and grey, with large, black eyes.",
+          "indo": "burung ini berukuran kecil, sebagian besar berwarna hitam dan abu-abu, dengan mata besar berwarna hitam."
+        },
+        {
+          "english": "a small grey bird, with black primaries, black stripes on its wings, and a pointed black beak.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan warna bulu primer hitam, garis-garis hitam di sayapnya, dan paruh hitam runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a spotted belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berbintik"
+        },
+        {
+          "english": "this bird is brown with whire and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat keputihan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown and black in color, with a black beak.",
+          "indo": "burung ini berwarna coklat kehitaman, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has brown and black secondaries, long black rectrices, a black malar stripe, and a long black bill.",
+          "indo": "burung ini mempunyai bulu sekunder berwarna coklat dan hitam, rectrices  hitam, garis malar hitam, dan paruh hitam panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0094_28726.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this medium bird is brown overall, darker with black bars on it's back, lighter brown with black spots on it breast and belly, and has a grey nape, a dark orange crown, and a distinctive red malar spot.",
+          "indo": "Burung berukuran sedang ini secara keseluruhan berwarna coklat, lebih gelap dengan garis-garis hitam di punggungnya, coklat muda dengan bintik-bintik hitam di dada dan perutnya, serta memiliki tengkuk abu-abu, mahkota oranye tua, dan bintik malar merah yang khas."
+        },
+        {
+          "english": "this little bird is mostly brown speckles with a gray crown and red cheek patches.",
+          "indo": "Burung kecil ini kebanyakan berbintik coklat dengan mahkota berwarna abu-abu dan bercak merah di pipi."
+        },
+        {
+          "english": "this bird is reddish brown, with black stripes and spots over its entire body and with a red superciliary.",
+          "indo": "burung ini berwarna coklat kemerahan, dengan garis-garis dan bintik-bintik hitam di sekujur tubuhnya dan dengan superciliary berwarna merah."
+        },
+        {
+          "english": "this is a grey bird with black spots, a grey head, red cheek patch and brown crown.",
+          "indo": "ini adalah burung abu-abu dengan bintik hitam, kepala abu-abu, pipi merah dan mahkota coklat."
+        },
+        {
+          "english": "a gray bird with black spots and an orange cheek patch.",
+          "indo": "burung abu-abu dengan bintik hitam dan bercak oranye di pipi."
+        },
+        {
+          "english": "a small colorful bird, this bird has a grey head and face, bright red cheek patch and brown with black speckled feathers along the rest of its body.",
+          "indo": "Burung kecil berwarna-warni, burung ini memiliki kepala dan wajah berwarna abu-abu, bercak merah cerah di pipi, dan berwarna coklat dengan bulu berbintik hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "this particular bird has a tan belly with black spots and red cheek patches",
+          "indo": "burung ini memiliki perut berwarna coklat dengan bintik hitam dan bercak merah di pipi"
+        },
+        {
+          "english": "a small bird with a grey head, orange cheeks, and yellow eyebrows.",
+          "indo": "seekor burung kecil dengan kepala abu-abu, pipi oranye, dan alis kuning."
+        },
+        {
+          "english": "a gray bird with black spots, red striped primaries and red crown.",
+          "indo": "burung berwarna abu-abu dengan bintik hitam, warna bulu primer bergaris merah, dan mahkota merah."
+        },
+        {
+          "english": "this bird has a spotted body, a gray head with red fur on its face, a long tail, and a long pointy beak.",
+          "indo": "burung ini mempunyai badan yang berbintik, kepala berwarna abu-abu dengan bulu merah di wajahnya, ekor yang panjang, dan paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0095_28938.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird is mostly grey with a red spot at the nape of the neck and a black spot at the breast, and a beak that is thin and long.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan bintik merah di tengkuk dan bintik hitam di dada, serta paruh yang tipis dan panjang."
+        },
+        {
+          "english": "this bird is spotted brown, yellow, and orange in color with a long curved beak and orange eye ring.",
+          "indo": "burung ini berbintik coklat, kuning, dan oranye dengan paruh panjang melengkung dan cincin mata oranye."
+        },
+        {
+          "english": "a medium sized mostly grey colored bird with a. light brown under belly and a black breast.",
+          "indo": "burung berukuran sedang sebagian besar berwarna abu-abu dengan a. coklat muda di bawah perut dan dada hitam."
+        },
+        {
+          "english": "this dark gray bird has a thin, pointed black beak and a russet red accent on the back of its head.",
+          "indo": "burung berwarna abu-abu tua ini memiliki paruh tipis berwarna hitam runcing dan aksen merah kemerahan di bagian belakang kepalanya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is grey with red and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna merah dan hitam serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white with black spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan bintik hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a grey bill and crown with a red spot on the back of its head.",
+          "indo": "burung ini mempunyai paruh dan mahkota berwarna abu-abu dengan bintik merah di bagian belakang kepalanya."
+        },
+        {
+          "english": "this bird has a long tail, short legs, a long pointy beak, a wide neck, red fur on its head, and a spotted body.",
+          "indo": "burung ini mempunyai ekor panjang, kaki pendek, paruh panjang runcing, leher lebar, bulu merah di kepala, dan badan berbintik."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0096_28623.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this is a tan bird with black specks and a red patch on the back of its head.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam dan bercak merah di belakang kepalanya."
+        },
+        {
+          "english": "bird has a long bill for the size of its head and feet are quite long",
+          "indo": "Burung ini mempunyai paruh yang panjang karena ukuran kepala dan kakinya yang cukup panjang"
+        },
+        {
+          "english": "the bird has a black and white speckled body with a red spot on the crown and a grey slender bill.",
+          "indo": "Burung ini memiliki tubuh berbintik hitam putih dengan bintik merah pada ubun-ubun dan paruh ramping berwarna abu-abu."
+        },
+        {
+          "english": "this primarily white and grey bird has black dots on it, black eyes, and a red chevron on its back.",
+          "indo": "burung yang sebagian besar berwarna putih dan abu-abu ini memiliki titik-titik hitam, mata hitam, dan tanda pangkat merah di punggungnya."
+        },
+        {
+          "english": "this bird has an orange patch on its nape with brown and grey covering the rest of it's body.",
+          "indo": "burung ini memiliki bercak oranye di tengkuknya dengan warna coklat dan abu-abu menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this long beaked bird has a gray and brown tinted body with brown spots throughout.",
+          "indo": "burung berparuh panjang ini memiliki tubuh berwarna abu-abu kecokelatan dengan bintik-bintik coklat di seluruh bagiannya."
+        },
+        {
+          "english": "this particular bird has a narrow white bill and a red nape",
+          "indo": "burung ini memiliki paruh sempit berwarna putih dan tengkuk berwarna merah"
+        },
+        {
+          "english": "this bird is white, brown, black, and red in color, with a long beak.",
+          "indo": "burung ini berwarna putih, coklat, hitam, dan merah, dengan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a long grey white pointed bill, grey crown with bright band at the back of its head and light brown white belly with dark spots.",
+          "indo": "Burung ini mempunyai paruh panjang berwarna abu-abu putih, mahkota berwarna abu-abu dengan pita cerah di bagian belakang kepala, dan perut berwarna putih coklat muda dengan bintik-bintik gelap."
+        },
+        {
+          "english": "this bird has a red nape, and a cream belly with black spots.",
+          "indo": "burung ini memiliki tengkuk berwarna merah, dan perut berwarna krem ​​​​dengan bintik-bintik hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0099_28312.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a medium sized bird with a long narrow bill",
+          "indo": "burung berukuran sedang dengan paruh panjang dan sempit"
+        },
+        {
+          "english": "bird is beige and black,the stomach has blacks spots the tail is a yellowish with black and beek is flat and long.",
+          "indo": "Burung berwarna krem ​​​​dan hitam, perutnya berbintik-bintik hitam, ekornya berwarna kekuningan dengan warna hitam, dan paruhnya rata dan panjang."
+        },
+        {
+          "english": "the beige bird has a reddish cast with a narrow black band across the breast and a mottled belly.",
+          "indo": "burung krem ​​​​memiliki corak kemerahan dengan pita hitam sempit di dada dan perut berbintik-bintik."
+        },
+        {
+          "english": "this spotted bird has a black region on its torso and a long, curving beak.",
+          "indo": "burung tutul ini memiliki bagian tubuh berwarna hitam dan paruh yang panjang dan melengkung."
+        },
+        {
+          "english": "this is a brown bird with black spots and a pointy black beak.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam dan paruh hitam runcing."
+        },
+        {
+          "english": "this particular bird has a yellow belly with black spots on it",
+          "indo": "burung ini memiliki perut berwarna kuning dengan bintik-bintik hitam di atasnya"
+        },
+        {
+          "english": "this bird has a grey crown as well as a white belly with black spots",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu serta perut berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird is spotted brown and black in color, with a black beak.",
+          "indo": "burung ini berbintik warna coklat kehitaman, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown and black spotted belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berbintik coklat dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0100_28898.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a yellow fan tail and a pink head with a red crown and black and white speckled body.",
+          "indo": "burung ini memiliki ekor kipas berwarna kuning dan kepala berwarna merah muda dengan mahkota berwarna merah dan badan berbintik hitam putih."
+        },
+        {
+          "english": "a medium bird with a white body with black spots, a wide tail with yellow rectrices and a red crown.",
+          "indo": "Burung berukuran sedang, tubuh putih berbintik hitam, ekor lebar dengan rectrices berwarna kuning, dan mahkota merah."
+        },
+        {
+          "english": "this bird has a white belly with black speckles, yellow tail, and long sharp bill.",
+          "indo": "Burung ini memiliki perut berwarna putih dengan bintik hitam, ekor berwarna kuning, dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this colorful bird has a dark yellow fanned inner rectrices, a black-and-white dotted body, and a pale pink head with a gray-and-pink crown.",
+          "indo": "burung berwarna-warni ini memiliki rectrices bagian dalam yang mengipasi berwarna kuning tua, tubuh bertitik hitam-putih, dan kepala berwarna merah muda pucat dengan mahkota abu-abu dan merah muda."
+        },
+        {
+          "english": "this bird has a white bell, abdomen and vent color with lots of black dots on them.",
+          "indo": "burung ini mempunyai warna lonceng, perut dan lubang kloaka berwarna putih dengan banyak titik-titik hitam di atasnya."
+        },
+        {
+          "english": "this bird has a long straight black bill, black malar stripes, white throat, black chest, white belly with black spots, yellow inner rectrices, gray and red crown",
+          "indo": "burung ini mempunyai paruh panjang lurus berwarna hitam, garis malar hitam, tenggorokan putih, dada hitam, perut putih bintik hitam, inner rectrices kuning, mahkota abu-abu dan merah"
+        },
+        {
+          "english": "the bird has yellow tail feathers, black and white dots and red feathers on its head.",
+          "indo": "burung ini memiliki bulu ekor berwarna kuning, bintik hitam putih, dan bulu merah di kepalanya."
+        },
+        {
+          "english": "the bird has a white belly with black spots, a black breast, and yellow undertail coverts.",
+          "indo": "burung ini memiliki perut berwarna putih dengan bintik-bintik hitam, dada berwarna hitam, dan bulu ekor berwarna kuning."
+        },
+        {
+          "english": "bird has a sharp pointed beak, creamy head and speckled breast, red nape and black mustache, with yellow underneath the wings and tail.",
+          "indo": "burung mempunyai paruh runcing runcing, kepala berwarna krem ​​​​dan dada berbintik-bintik, tengkuk berwarna merah dan kumis hitam, dengan warna kuning di bawah sayap dan ekor."
+        },
+        {
+          "english": "this bird has a beige throat with a black malar stripe brown breast.",
+          "indo": "Burung ini memiliki tenggorokan berwarna krem ​​​​dengan dada berwarna coklat bergaris malar hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0104_28371.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a white with black speckles on its belly and breast, accented with a bright red strip on its nape.",
+          "indo": "Burung ini mempunyai warna putih dengan bintik-bintik hitam pada perut dan dadanya, dengan aksen garis merah terang pada tengkuknya."
+        },
+        {
+          "english": "this bird has a long straight bill, a red nape, and gray tarsus and feet.",
+          "indo": "burung ini memiliki paruh lurus panjang, tengkuk berwarna merah, serta tarsus dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "the bird has black striped red wings, a small red head, and black bill.",
+          "indo": "burung itu mempunyai sayap merah bergaris hitam, kepala kecil berwarna merah, dan paruh hitam."
+        },
+        {
+          "english": "a brown woodpecker with black dashes all over, and has long beak and an orange patch on its head.",
+          "indo": "burung pelatuk berwarna coklat dengan garis-garis hitam di sekujur tubuhnya, paruh panjang dan bercak oranye di kepalanya."
+        },
+        {
+          "english": "bird with brown beak, gray tarsus and feet, black eye, and the head size is proportional to its body size",
+          "indo": "burung dengan paruh berwarna coklat, tarsus dan kaki berwarna abu-abu, mata berwarna hitam, dan ukuran kepala sebanding dengan ukuran tubuhnya"
+        },
+        {
+          "english": "a black beaked, plump bird with a spotted belly and pleated brown wings striped with black.",
+          "indo": "seekor burung berparuh hitam, gempal dengan perut berbintik dan sayap coklat berlipit bergaris hitam."
+        },
+        {
+          "english": "this black and brown striped bird has a black spotted underside, a long pointed beak, a black malar stripe, and a bright red nape.",
+          "indo": "Burung belang hitam coklat ini memiliki bagian bawah berbintik hitam, paruh panjang runcing, garis malar hitam, dan tengkuk berwarna merah cerah."
+        },
+        {
+          "english": "a small black and brown bird with a red nape and pointed bill.",
+          "indo": "burung kecil berwarna hitam coklat dengan tengkuk merah dan paruh runcing."
+        },
+        {
+          "english": "this bird has a brown body with black strips and a white chest with black spots it has an orange mark on the back of its head",
+          "indo": "burung ini mempunyai badan berwarna coklat dengan garis-garis hitam dan dada berwarna putih dengan bintik-bintik hitam, terdapat tanda jingga di bagian belakang kepalanya"
+        },
+        {
+          "english": "a small bird with brown and black wings.",
+          "indo": "seekor burung kecil dengan sayap coklat dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0105_28836.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this gray bird has a long narrow beak and a red stripe across its nape.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh panjang dan sempit serta garis merah di tengkuknya."
+        },
+        {
+          "english": "the bird has a grey crown, and a red patch on it's nape area.",
+          "indo": "burung itu mempunyai mahkota berwarna abu-abu, dan bercak merah di daerah tengkuknya."
+        },
+        {
+          "english": "a small bird with a long grey bill and a grey crown with orange nape.",
+          "indo": "seekor burung kecil dengan paruh panjang berwarna abu-abu dan mahkota berwarna abu-abu dengan tengkuk berwarna jingga."
+        },
+        {
+          "english": "the most distinctive part of this bird is the nape which has a very bright red stripe across it, the rest of the bird is grey and to yellow and black striped.",
+          "indo": "Bagian yang paling khas dari burung ini adalah bagian tengkuknya yang terdapat garis-garis merah yang sangat terang di atasnya, selebihnya burung ini berwarna abu-abu hingga bergaris-garis kuning dan hitam."
+        },
+        {
+          "english": "this bird has a red stripe at the back of its neck, brown and black wings, and a long bill compared to its head.",
+          "indo": "burung ini memiliki garis merah di bagian belakang leher, sayap berwarna coklat dan hitam, serta paruh yang panjang dibandingkan dengan kepalanya."
+        },
+        {
+          "english": "this bird is brown with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kemerahan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a red nape, spotted back and long bill.",
+          "indo": "burung ini memiliki tengkuk berwarna merah, punggung berbintik, dan paruh panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red nape",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai tengkuk yang berwarna merah"
+        },
+        {
+          "english": "this bird is mixed brown and black in color, with a sharp beak.",
+          "indo": "burung ini mempunyai warna campuran coklat dan hitam, dengan paruh yang runcing."
+        },
+        {
+          "english": "the bird has a long dirty brown beak that is straight, it's wingbars are brown with black spots and primaries are vibrant yellow.",
+          "indo": "Burung ini memiliki paruh panjang berwarna coklat kotor lurus, garis sayap berwarna coklat berbintik hitam dan bulu primer berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0106_28441.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a brown and black speckled breast and back with a gray neck and rust colored crown.",
+          "indo": "Burung ini memiliki dada dan punggung berbintik coklat kehitaman dengan leher berwarna abu-abu dan mahkota berwarna karat."
+        },
+        {
+          "english": "this bird has black and brown striped primaries and a black speckled belly, gray throat and a long, pointed gray bill.",
+          "indo": "burung ini mempunyai ciri utama bergaris hitam coklat dan perut berbintik hitam, tenggorokan berwarna abu-abu dan paruh panjang berwarna abu-abu runcing."
+        },
+        {
+          "english": "this brown and grey bird has a distinctive dashes and dots pattern on its wings and belly, with a long pointed bill, and amber toned eyebrow.",
+          "indo": "Burung berwarna coklat dan abu-abu ini memiliki pola garis-garis dan titik-titik yang khas pada sayap dan perutnya, dengan paruh yang panjang dan runcing, serta alis berwarna kuning."
+        },
+        {
+          "english": "a bird with a grey crown, with brown and black spotted wings, belly, and tail.",
+          "indo": "burung bermahkota abu-abu, sayap, perut, dan ekor berbintik coklat dan hitam."
+        },
+        {
+          "english": "this bird has a dark grey speckle pattern below the head and a grey head with orange coloring around the eye.",
+          "indo": "burung ini memiliki pola bintik abu-abu tua di bawah kepala dan kepala berwarna abu-abu dengan warna oranye di sekitar matanya."
+        },
+        {
+          "english": "this bird is brown withblack spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bintik-bintik hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a tan belly and breasts with black spots and gray bill",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan bintik hitam dan paruh abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly and red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat, perut berbintik dan mahkota berwarna merah"
+        },
+        {
+          "english": "this bird is reddish-brown and black with a long, pointed curved bill.",
+          "indo": "burung ini berwarna coklat kemerahan dan hitam dengan paruh melengkung panjang dan runcing."
+        },
+        {
+          "english": "a small brown bird with black dots throughout it's body and a grey nape.",
+          "indo": "burung kecil berwarna coklat dengan bintik-bintik hitam di sekujur tubuhnya dan tengkuk berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0107_28667.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird is brown with black spots, a red malar stripe, and a pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bintik hitam, garis malar merah, dan paruh runcing."
+        },
+        {
+          "english": "a light brown bodied bird with black spots and a black head with a long sharp beak.",
+          "indo": "burung berbadan coklat muda dengan bintik hitam dan kepala berwarna hitam dengan paruh panjang dan tajam."
+        },
+        {
+          "english": "a medium sized bird with brown wings, and a bill that curves down wards",
+          "indo": "burung berukuran sedang dengan sayap coklat, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "a small bird with a brown and white speckled belly, wings and back and a red cheek patch.",
+          "indo": "seekor burung kecil dengan perut, sayap dan punggung berbintik-bintik coklat dan putih, serta bercak merah di pipi."
+        },
+        {
+          "english": "bird with long and sharp pointed beak, gray tarsus and feet, black throat and eye, and brown crown",
+          "indo": "burung dengan paruh panjang dan runcing, tarsus dan kaki berwarna abu-abu, tenggorokan dan mata berwarna hitam, serta mahkota berwarna coklat"
+        },
+        {
+          "english": "a spotted medium-sized bird with tan feathers and black spots, taloned feet, grey feathers around the head and a red stripe next to the beak, and a tan top-of-the-head with a very pointed beak.",
+          "indo": "burung tutul berukuran sedang dengan bulu berwarna coklat dan bintik hitam, kaki bercakar, bulu abu-abu di sekitar kepala dan garis merah di samping paruh, serta bagian atas kepala berwarna coklat dengan paruh yang sangat runcing."
+        },
+        {
+          "english": "the head of this bird is mainly black with accents of tan and red, the beak is black and pointed, and the body is tan with black spots.",
+          "indo": "Kepala burung ini sebagian besar berwarna hitam dengan aksen coklat kecokelatan dan merah, paruhnya berwarna hitam dan runcing, serta badannya berwarna coklat kecokelatan dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird is brown, black and gray in color, with a long and sharp beak.",
+          "indo": "burung ini berwarna coklat, hitam dan abu-abu, dengan paruh yang panjang dan tajam."
+        },
+        {
+          "english": "this bird has a sharply-pointed bill with a red cheek patch and a taupe body with black markings.",
+          "indo": "burung ini mempunyai paruh yang runcing dengan bercak merah di pipi dan badan berwarna kelabu tua dengan corak hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0108_28502.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a speckled belly, breast, and sides with a gray head with a splash of red malar stripe.",
+          "indo": "burung ini mempunyai perut, dada, dan sisi berbintik-bintik dengan kepala berwarna abu-abu dengan percikan garis malar merah."
+        },
+        {
+          "english": "a medium sized bird with a grey neck, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan leher berwarna abu-abu, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this unique, medium sized avian has bright red spots on its gray face, a brown cap atop its head, striped black and brown wings and a speckled black and brown body.",
+          "indo": "Burung unik berukuran sedang ini memiliki bintik-bintik merah cerah pada wajah abu-abu, topi coklat di atas kepalanya, sayap bergaris hitam dan coklat dan tubuh berbintik hitam dan coklat."
+        },
+        {
+          "english": "small headed bird with an average size beat. colors range from red to blue with a lot of brown on the body.",
+          "indo": "burung berkepala kecil dengan ukuran sedang. warnanya berkisar dari merah hingga biru dengan banyak warna coklat di badannya."
+        },
+        {
+          "english": "this colorful bird has a red and yellow head white throat and speckled body.",
+          "indo": "Burung berwarna-warni ini memiliki kepala berwarna merah kuning, tenggorokan putih, dan badan berbintik."
+        },
+        {
+          "english": "this bird has a bright red malar strip on a gray face, with a brown and black ladder back design and spots on its belly.",
+          "indo": "burung ini memiliki garis malar berwarna merah cerah pada mukanya yang berwarna abu-abu, dengan desain punggung tangga berwarna coklat dan hitam serta bintik-bintik pada perutnya."
+        },
+        {
+          "english": "this bird has wings that are spotted and has an red cheek patch",
+          "indo": "burung ini mempunyai sayap yang berbintik-bintik dan mempunyai bercak pipi berwarna merah"
+        },
+        {
+          "english": "this bird has a red cheek patch with small black bill and brown breast.",
+          "indo": "burung ini memiliki bercak pipi berwarna merah dengan paruh kecil berwarna hitam dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird has a grey crown, yellow and black primaries, and a yellow and black belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna kuning dan hitam, serta perut berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird has a spotted body, a gray and red head, short legs, a long tail, and a long pointy beak.",
+          "indo": "burung ini mempunyai badan berbintik, kepala berwarna abu-abu dan merah, kaki pendek, ekor panjang, dan paruh panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0110_28602.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "birds head is reddish brown beek is black and long cheek patch is orange feet are grey and wings and belly are tan with black dots.",
+          "indo": "kepala burung berwarna coklat kemerahan, paruh berwarna hitam dan pipi panjang berwarna oranye, kaki berwarna abu-abu, sayap dan perut berwarna coklat dengan titik-titik hitam."
+        },
+        {
+          "english": "stunningly marked bird with rusted crown, bright red cheek patch, half-moon breast marking, and small black circular markings with tan background on breast, belly, and coverts, wingbars, and secondaries.",
+          "indo": "burung bertanda menakjubkan dengan mahkota berkarat, bercak pipi merah cerah, tanda dada setengah bulan, dan tanda lingkaran hitam kecil dengan latar belakang cokelat di dada, perut, dan bulu, garis sayap, dan bulu sekunder."
+        },
+        {
+          "english": "the bird has a red malar stripe with a black chest and a black beak with a black and cream speckled body.",
+          "indo": "Burung ini mempunyai garis malar berwarna merah dengan dada berwarna hitam dan paruh berwarna hitam dengan badan berbintik hitam krem."
+        },
+        {
+          "english": "a large bird that has a black breast, and a silver bill.",
+          "indo": "seekor burung besar yang memiliki dada berwarna hitam, dan paruh berwarna perak."
+        },
+        {
+          "english": "this bird has a black patch and black speckles on a tan breast, red undertail and a large red malar stripe.",
+          "indo": "burung ini mempunyai bercak hitam dan bintik hitam pada dada berwarna coklat, ekor bawah berwarna merah dan garis malar merah besar."
+        },
+        {
+          "english": "this is a colorful, rather large bird with a bright red stripe that starts at the beak and goes past the eye, a body that is tan with black spots all over and a gray and red head.",
+          "indo": "ini adalah burung berwarna-warni, agak besar dengan garis merah cerah yang dimulai dari paruh hingga melewati mata, badan berwarna kecokelatan dengan bintik-bintik hitam di sekujur tubuh dan kepala berwarna abu-abu dan merah."
+        },
+        {
+          "english": "this bird has wings that are spotted and has a red molar stripe",
+          "indo": "burung ini mempunyai sayap yang berbintik-bintik dan mempunyai garis geraham berwarna merah"
+        },
+        {
+          "english": "a colorful bird with a red cheek patch, grey head and face, and red and black inner and outer rectrices.",
+          "indo": "burung berwarna-warni dengan bercak pipi merah, kepala dan wajah abu-abu, serta rectrices inner dan outer rectrices berwarna merah dan hitam."
+        },
+        {
+          "english": "the bird has a spotted back, grey belly and red cheek patch.",
+          "indo": "burung itu memiliki punggung berbintik, perut abu-abu, dan pipi merah."
+        },
+        {
+          "english": "a medium sized bird with a black breast and a speckled belly with a black beak.",
+          "indo": "seekor burung berukuran sedang dengan dada hitam dan perut berbintik-bintik dengan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0111_28402.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird is brown with a patch of red on the neck.",
+          "indo": "burung itu berwarna coklat dengan bercak merah di lehernya."
+        },
+        {
+          "english": "a medium sized bird that has tones of brown and grey with a narrow pointed bill",
+          "indo": "burung berukuran sedang yang memiliki corak coklat dan abu-abu dengan paruh runcing sempit"
+        },
+        {
+          "english": "a brown speckled bird with red feathers on it's neck and a narrow long beak.",
+          "indo": "burung berbintik coklat dengan bulu merah di lehernya dan paruh sempit dan panjang."
+        },
+        {
+          "english": "this bird has brown and black speckled wings, white and black speckled underbody, and a bright red nape.",
+          "indo": "burung ini memiliki sayap berbintik coklat dan hitam, bagian bawah tubuh berbintik putih dan hitam, serta tengkuk berwarna merah cerah."
+        },
+        {
+          "english": "this bird is brown with grey on its head and has a long, pointy beak.",
+          "indo": "Burung ini berwarna coklat dengan warna abu-abu pada bagian kepalanya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has brown secondaries with black spots on them",
+          "indo": "burung ini memiliki bulu sekunder berwarna coklat dengan bintik hitam di atasnya"
+        },
+        {
+          "english": "a bird with black bill and tarsus and black rectrices and the bill is long and pointed",
+          "indo": "seekor burung dengan paruh hitam dan tarsus serta rectrices  hitam dan paruhnya panjang dan runcing"
+        },
+        {
+          "english": "a brown spotted bird with black and white tail and long beak and red on back of neck.",
+          "indo": "burung berbintik coklat dengan ekor hitam putih dan paruh panjang serta leher belakang berwarna merah."
+        },
+        {
+          "english": "this bird is predominately brown but has black spots across the body and a red patch on the nape.",
+          "indo": "burung ini didominasi warna coklat namun memiliki bintik hitam di sekujur tubuhnya dan bercak merah di tengkuk."
+        },
+        {
+          "english": "a long bird with a red patch on top of head and a gray beak.",
+          "indo": "seekor burung panjang dengan bercak merah di atas kepala dan paruh abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0118_28500.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly that has black spots on it and a long pointy beak.",
+          "indo": "Ini adalah burung dengan perut putih yang memiliki bintik-bintik hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "long beak with some orange and plumage is spotted",
+          "indo": "paruh panjang dengan sedikit warna oranye dan bulu terlihat"
+        },
+        {
+          "english": "this is a white and grey bird with black spots and an orange throat.",
+          "indo": "ini adalah burung berwarna putih abu-abu dengan bintik hitam dan tenggorokan oranye."
+        },
+        {
+          "english": "bird has black body feathers, white breast feathers and black beak",
+          "indo": "burung mempunyai bulu badan berwarna hitam, bulu dada berwarna putih, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this colorful bird has gray spotted wings and a gray head.",
+          "indo": "burung berwarna-warni ini memiliki sayap berbintik abu-abu dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "small white black grey and orange bird with long black beak",
+          "indo": "burung kecil berwarna putih hitam abu-abu dan oranye dengan paruh hitam panjang"
+        },
+        {
+          "english": "this bird has wings that are spotted black and white and has a long black bill",
+          "indo": "burung ini mempunyai sayap yang berbintik hitam putih dan mempunyai paruh panjang berwarna hitam"
+        },
+        {
+          "english": "this bird is mostly grey speckled with some orange on his face and a long beak.",
+          "indo": "burung ini sebagian besar berwarna abu-abu berbintik-bintik dengan sedikit warna oranye di wajahnya dan paruhnya panjang."
+        },
+        {
+          "english": "this is a bird with spotted plumage on the side and belly, grey striped plumage on the back and wings, an orange cheek patch, and a long thin beak.",
+          "indo": "Ini adalah burung dengan bulu berbintik di bagian samping dan perut, bulu bergaris abu-abu di punggung dan sayap, bercak oranye di pipi, dan paruh panjang dan tipis."
+        },
+        {
+          "english": "this bird has brown wings, white belly and breast",
+          "indo": "burung ini mempunyai sayap berwarna coklat, perut dan dada berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0123_28381.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird has a red throat, gray tarsus and feet with black spots on the breast and sides.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah, tarsus dan kaki berwarna abu-abu dengan bintik-bintik hitam di bagian dada dan samping."
+        },
+        {
+          "english": "the crown is grey and a black eyering that is round.",
+          "indo": "mahkotanya berwarna abu-abu dan cincin mata hitam berbentuk bulat."
+        },
+        {
+          "english": "a large black and white body with a gray and red head, and a long bill.",
+          "indo": "tubuh besar berwarna hitam putih dengan kepala berwarna abu-abu dan merah, serta paruh yang panjang."
+        },
+        {
+          "english": "this bird is grey with black spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan bintik-bintik hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this little bird has a brown crown and a narrow bill.",
+          "indo": "burung kecil ini memiliki mahkota berwarna coklat dan paruh yang sempit."
+        },
+        {
+          "english": "the is colorful bird has a long black beak with black spots on its belly",
+          "indo": "Burung berwarna-warni ini memiliki paruh panjang berwarna hitam dengan bintik-bintik hitam di perutnya"
+        },
+        {
+          "english": "this bird has wings that are grey and has a spotted body and red throat",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu, badannya berbintik-bintik, dan tenggorokannya berwarna merah"
+        },
+        {
+          "english": "this bird has light brown and black primaries, a brown crown, and a red throat.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat muda dan hitam, mahkota berwarna coklat, dan tenggorokan berwarna merah."
+        },
+        {
+          "english": "this bird is brown, gray, and red in color, and has a gray beak.",
+          "indo": "burung ini berwarna coklat, abu-abu, dan merah, serta memiliki paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird is grey with whie and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0124_28966.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a light brown bird with dark brown spots and tan coloring on its head and tail.",
+          "indo": "burung berwarna coklat muda dengan bintik coklat tua dan warna coklat pada kepala dan ekornya."
+        },
+        {
+          "english": "this bird has a long beak, a rust-colored crown and outer rectrices, and otherwise beige plumage with black spots.",
+          "indo": "burung ini memiliki paruh yang panjang, mahkota berwarna karat dan outer rectrices, serta bulu berwarna krem ​​​​dengan bintik-bintik hitam."
+        },
+        {
+          "english": "the bird has a speckled body with a red head and long grey bill.",
+          "indo": "burung ini memiliki tubuh berbintik-bintik dengan kepala berwarna merah dan paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "medium size tan with black speckle bird, with a brown crown, and large beak.",
+          "indo": "Burung berukuran sedang berwarna coklat dengan bintik hitam, mahkota berwarna coklat, dan paruh besar."
+        },
+        {
+          "english": "this is a grey bird with black spots on its belly and a brown head.",
+          "indo": "ini adalah burung berwarna abu-abu dengan bintik hitam di perutnya dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird is predominantly tan in color but has dark brown dots all over its breast, belly vent and the remainder of its body except for its face and cheek patch which is red.",
+          "indo": "burung ini didominasi warna coklat kecokelatan namun mempunyai bintik-bintik coklat tua di sekujur dada, perut dan seluruh tubuhnya kecuali muka dan pipinya yang berwarna merah."
+        },
+        {
+          "english": "this bird is white black and a dark orange it has spots all over it and tips of orange on its tail feathers",
+          "indo": "burung ini berwarna putih hitam dan jingga tua, terdapat bintik-bintik di sekujur tubuhnya dan ujung bulu ekor berwarna jingga"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and has black spots",
+          "indo": "burung yang satu ini mempunyai perut berwarna kecokelatan dan terdapat bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya yang berbintik"
+        },
+        {
+          "english": "a small brown bird with an orange crown and a small brown beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan mahkota oranye dan paruh kecil berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0125_28485.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the black spots against the white-yellow feathers on this bird's body, along with the red and black tail feathers make this bird very noticeable.",
+          "indo": "Bintik-bintik hitam pada bulu putih-kuning pada tubuh burung ini, serta bulu ekor berwarna merah dan hitam membuat burung ini sangat mencolok."
+        },
+        {
+          "english": "this bird has a polka-dotted body with a blue and brown head.",
+          "indo": "burung ini memiliki tubuh polkadot dengan kepala berwarna biru dan coklat."
+        },
+        {
+          "english": "this is a bird with a yellow belly with black spots, grey head and a brown crown.",
+          "indo": "ini adalah burung dengan perut kuning dengan bintik hitam, kepala abu-abu dan mahkota coklat."
+        },
+        {
+          "english": "this bird is black and brown in color with a sharp long beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam kecokelatan dengan paruh panjang yang runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large bird with a black breast, and a long silver bill.",
+          "indo": "seekor burung besar dengan dada hitam, dan paruh perak panjang."
+        },
+        {
+          "english": "this colorful bird has a grey and fawn body with black spots and a dark rust colored tail, as well as a long pointed beak.",
+          "indo": "burung berwarna-warni ini memiliki tubuh berwarna abu-abu coklat kekuningan dengan bintik-bintik hitam dan ekor berwarna karat gelap, serta paruh panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long gray bill, gray feet, and a black spotted belly.",
+          "indo": "burung ini memiliki paruh panjang berwarna abu-abu, kaki berwarna abu-abu, dan perut berbintik hitam."
+        },
+        {
+          "english": "this bird has a pale blue beak, throat, tarsus, and feet, as well as a tan body with distinctive black spots.",
+          "indo": "burung ini memiliki paruh, tenggorokan, tarsus, dan kaki berwarna biru pucat, serta tubuh berwarna coklat dengan bintik hitam yang khas."
+        },
+        {
+          "english": "a bird with a spotted belly and wings, black breast, grey head with tan crown and malar stripes.",
+          "indo": "burung dengan perut dan sayap berbintik, dada hitam, kepala abu-abu dengan mahkota berwarna coklat dan garis-garis malar."
+        },
+        {
+          "english": "this bird has wings that are grey and has a spotted belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0127_28411.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a bird with a red spot on it's neck, and a gray and black spotted wings, with a gray nape and crown.",
+          "indo": "burung dengan bintik merah di lehernya, dan sayap berbintik abu-abu dan hitam, dengan tengkuk dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the bird has an orange throat with a speckled body and thick pointed bill.",
+          "indo": "burung ini memiliki tenggorokan berwarna oranye dengan tubuh berbintik-bintik dan paruh runcing tebal."
+        },
+        {
+          "english": "a speckled gray and black bird with red around it's eye and a narrow small beak.",
+          "indo": "burung berbintik abu-abu dan hitam dengan warna merah di sekitar matanya dan paruh kecil yang sempit."
+        },
+        {
+          "english": "the bird has a white head, the bill is long and pointed with brown and black spots covering its body.",
+          "indo": "burung ini berkepala putih, paruhnya panjang dan runcing dengan bintik-bintik coklat dan hitam menutupi tubuhnya."
+        },
+        {
+          "english": "a small brown feathered, black specked bodied bird with a red cheek patch.",
+          "indo": "seekor burung kecil berbulu coklat, bertubuh berbintik hitam dengan bercak merah di pipi."
+        },
+        {
+          "english": "this bird has feathers that are black and white and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam putih dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "light gray bird with black spots, orange around its eyes and a long beak.",
+          "indo": "burung berwarna abu-abu muda dengan bintik-bintik hitam, oranye di sekitar matanya dan paruh panjang."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a mostly grey and lighter grey speckled bird with a lighter face.",
+          "indo": "ini adalah burung berbintik-bintik yang sebagian besar berwarna abu-abu dan abu-abu terang dengan wajah lebih terang."
+        },
+        {
+          "english": "this bird has white and black feathers with an orange malar strip and a short bill.",
+          "indo": "burung ini mempunyai bulu berwarna putih kehitaman dengan garis malar berwarna jingga dan paruh yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0129_29022.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this medium sized bird has an awesome stripped pattern of grey and black down its back and a smooth, solid gray head.",
+          "indo": "burung berukuran sedang ini memiliki pola garis-garis abu-abu dan hitam yang mengagumkan di punggungnya serta kepala abu-abu yang halus dan kokoh."
+        },
+        {
+          "english": "the bird is grey with brown and grey speckled body and speckled inner and outer rectrices.",
+          "indo": "burung ini berwarna abu-abu dengan tubuh berbintik-bintik coklat dan abu-abu serta inner dan outer rectrices yang berbintik-bintik."
+        },
+        {
+          "english": "this bird has a light gray throat, light brown crown, narrow bill, and black spotted gray wings.",
+          "indo": "burung ini memiliki tenggorokan berwarna abu-abu muda, mahkota berwarna coklat muda, paruh sempit, dan sayap abu-abu berbintik hitam."
+        },
+        {
+          "english": "this is a brown bird with black spots, a grey throat and a brown crown.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik hitam, tenggorokan berwarna abu-abu dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, a grey throat, and a spotted back and wing",
+          "indo": "burung ini memiliki mahkota berwarna coklat, tenggorokan berwarna abu-abu, serta punggung dan sayap berbintik"
+        },
+        {
+          "english": "this is a tan and black striped bird with a pointy beak and a slight orange tint around its nape.",
+          "indo": "ini adalah burung bergaris coklat dan hitam dengan paruh runcing dan sedikit warna oranye di sekitar tengkuknya."
+        },
+        {
+          "english": "this bird features a distinctive light brown and black pattern on its wings feathers, and also a white and black patterned feathers on its abdomen.",
+          "indo": "burung ini mempunyai corak khas berwarna coklat muda dan hitam pada bulu sayapnya, dan juga bulu bercorak putih dan hitam pada bagian perutnya."
+        },
+        {
+          "english": "a cream-colored bird with a spangled brown and darker brown wing coloring, holding a small red berry in his beak.",
+          "indo": "seekor burung berwarna krem ​​​​dengan warna sayap coklat kelip dan coklat tua, memegang buah beri merah kecil di paruhnya."
+        },
+        {
+          "english": "this bird has a grey bill and crown, and grey wings with black streaks.",
+          "indo": "burung ini memiliki paruh dan mahkota berwarna abu-abu, serta sayap berwarna abu-abu dengan guratan hitam."
+        },
+        {
+          "english": "this is a light brown patterned bird with dark brown spots, a gray head with a brown crown and a pointed beak.",
+          "indo": "burung ini bercorak coklat muda dengan bintik coklat tua, kepala berwarna abu-abu dengan mahkota coklat dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0131_28962.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a grey and tan bird with a very long beak and red on the back of its head.",
+          "indo": "burung berwarna abu-abu kecoklatan dengan paruh yang sangat panjang dan bagian belakang kepalanya berwarna merah."
+        },
+        {
+          "english": "a light brown bird with dark gray spots on its back and wings and a red spot on its crown.",
+          "indo": "burung berwarna coklat muda dengan bintik abu-abu tua di punggung dan sayap serta bintik merah di mahkotanya."
+        },
+        {
+          "english": "this bird has light brown primaries and dark brown and white secondaries as well as a dark brown tail and dark brown cheek patch with red in the back of the head.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat muda dan warna bulu sekunder coklat tua dan putih serta ekor berwarna coklat tua dan bercak pipi coklat tua dengan warna merah di bagian belakang kepala."
+        },
+        {
+          "english": "this is a red and gray bird with a red crown and small gray feet",
+          "indo": "ini adalah burung berwarna merah dan abu-abu dengan mahkota merah dan kaki kecil berwarna abu-abu"
+        },
+        {
+          "english": "this is a grey spotted bird with a red nape and brown head.",
+          "indo": "ini adalah burung berbintik abu-abu dengan tengkuk merah dan kepala coklat."
+        },
+        {
+          "english": "this bird has wings that are brown with a red head",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan kepala berwarna merah"
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a bird with a long bill and a red streak on its head.",
+          "indo": "ini adalah burung dengan paruh panjang dan guratan merah di kepalanya."
+        },
+        {
+          "english": "this bird is brown in color, with a large curved beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh besar yang melengkung."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0132_28313.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has head and beak proportional to its body, with brown crown, tarsus and feet.",
+          "indo": "burung ini memiliki kepala dan paruh yang proporsional dengan tubuhnya, dengan mahkota, tarsus, dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird is multiple shades of brown in color, with a long pointy beak and a brown eye ring.",
+          "indo": "burung ini memiliki banyak corak warna coklat, dengan paruh panjang runcing dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with a lighter belly, and black spots on the belly and breast, it has a large black patch below the neck and black check patches.",
+          "indo": "burung ini berwarna coklat dengan perut lebih terang, dan bintik hitam di perut dan dada, memiliki bercak hitam besar di bawah leher dan bercak hitam."
+        },
+        {
+          "english": "this medium sized bird has a long body with a forked tail tipped in black, while its beak is long and straight with a sharp tip.",
+          "indo": "Burung berukuran sedang ini memiliki tubuh panjang dengan ekor bercabang dua berujung berwarna hitam, sedangkan paruhnya panjang lurus dengan ujung runcing."
+        },
+        {
+          "english": "this bird is brown and black in color with a skinny sharp beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh kurus dan runcing, serta cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a beige bird with black spots on its body and black malar stripe.",
+          "indo": "Ini adalah burung berwarna krem ​​​​dengan bintik-bintik hitam di tubuhnya dan garis malar hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black and tan",
+          "indo": "burung ini memiliki perut yang berwarna hitam kecokelatan"
+        },
+        {
+          "english": "this is a brown bird with a long bill, its belly is a grayish white it's breast is black and brown with black spots.",
+          "indo": "Burung ini berwarna coklat, paruhnya panjang, perutnya berwarna putih keabu-abuan, dadanya berwarna hitam coklat dengan bintik-bintik hitam."
+        },
+        {
+          "english": "the bird has a long thin black bill and spotted belly and breast.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam tipis serta perut dan dada berbintik."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0135_28291.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this bird's body is patterned like a leopard's fur",
+          "indo": "tubuh burung ini bercorak seperti bulu macan tutul"
+        },
+        {
+          "english": "this large, spotted, long billed bird has a red patch on the back of its head and yellow in its tail.",
+          "indo": "Burung besar, berbintik, dan berparuh panjang ini memiliki bercak merah di belakang kepala dan kuning di ekornya."
+        },
+        {
+          "english": "the white bird has black spots across its breast and side and has a stripe of yellow on its tail.",
+          "indo": "burung berwarna putih memiliki bintik-bintik hitam di dada dan sampingnya serta memiliki garis kuning di ekornya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with brown feathers and black markings all over.",
+          "indo": "seekor burung kecil dengan bulu coklat dan corak hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "a medium sized bird with a long bill and black eyes",
+          "indo": "burung berukuran sedang dengan paruh panjang dan mata hitam"
+        },
+        {
+          "english": "this bird has a long bill, tan spotted belly, black breast and yellow bars on the tail.",
+          "indo": "Burung ini mempunyai paruh yang panjang, perut berbintik kecoklatan, dada berwarna hitam, dan garis kuning pada bagian ekor."
+        },
+        {
+          "english": "this is a medium sized grey bird, with some yellow inner rectrices, and has black spots over its body.",
+          "indo": "ini adalah burung abu-abu berukuran sedang, dengan beberapa inner rectrices berwarna kuning, dan memiliki bintik-bintik hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "the bird has a spotted belly that is white and a small black bill.",
+          "indo": "burung ini memiliki perut berbintik berwarna putih dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a spotted covering, a grey crown and a long pointed bill.",
+          "indo": "burung ini mempunyai penutup berbintik, mahkota berwarna abu-abu dan paruh runcing panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0136_28918.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "this pale bird has a very long bill and a spotted belly and wings.",
+          "indo": "burung pucat ini memiliki paruh yang sangat panjang serta perut dan sayap yang berbintik."
+        },
+        {
+          "english": "the throat is white and there is a black breast and the rest of the bird is spotted.",
+          "indo": "tenggorokannya berwarna putih dan ada dadanya yang hitam dan selebihnya burung itu berbintik."
+        },
+        {
+          "english": "the bird has a long grey beak with a brown head and black and cream speckled body.",
+          "indo": "Burung ini mempunyai paruh panjang berwarna abu-abu dengan kepala berwarna coklat dan badan berbintik hitam krem."
+        },
+        {
+          "english": "this bird has a really long beak with speckled black spotted breast and a patch of black at the top of the breast.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dengan dada berbintik-bintik hitam dan bercak hitam di bagian atas dada."
+        },
+        {
+          "english": "a small bird with a speckled black and white bely and chest, black throat, and white face.",
+          "indo": "burung kecil dengan perut dan dada berbintik hitam putih, tenggorokan hitam, dan muka putih."
+        },
+        {
+          "english": "this bird has an orange crown and a black spotted belly with a long dark colored bill.",
+          "indo": "burung ini mempunyai mahkota berwarna jingga dan perut berbintik hitam dengan paruh panjang berwarna gelap."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "a small bird with brown spots, a wide tail, a small head, and a long gray narrow beak.",
+          "indo": "burung kecil berbintik coklat, ekor lebar, kepala kecil, dan paruh sempit panjang berwarna abu-abu."
+        },
+        {
+          "english": "this bird is orange, brown, black and white it has a spotted body with a brownish colored head and a long beak",
+          "indo": "burung ini berwarna oranye, coklat, hitam dan putih, mempunyai badan berbintik dengan kepala berwarna kecoklatan dan paruh panjang"
+        },
+        {
+          "english": "this bird has a long pointed bill, with a black and light brown spotted breast.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, dengan dada berbintik hitam dan coklat muda."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0138_28476.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "a small bird with a grey body with black spots, and a pointy beak",
+          "indo": "burung kecil bertubuh abu-abu dengan bintik hitam, dan paruh runcing"
+        },
+        {
+          "english": "this is a white and grey bird with a red nape and a long pointed black beak.",
+          "indo": "ini adalah burung berwarna putih abu-abu dengan tengkuk merah dan paruh hitam runcing panjang."
+        },
+        {
+          "english": "the body of the bird is grey and black speckled with a red crown and a black throat.",
+          "indo": "badan burung berwarna abu-abu hitam berbintik-bintik dengan mahkota merah dan tenggorokan hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada yang berbintik-bintik dengan paruh yang runcing."
+        },
+        {
+          "english": "this is a greyish bird with black spotting on the belly, a black breast outlined in white, bright red cheeks, and a brown crown.",
+          "indo": "burung ini berwarna keabu-abuan dengan bercak hitam di perut, dada hitam dengan garis putih, pipi merah cerah, dan mahkota coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "mid sized pigeon like bird, grey with black spots, solid black chest peice with long curved bill and red cheeks.",
+          "indo": "merpati berukuran sedang seperti burung, berwarna abu-abu dengan bintik-bintik hitam, bagian dada berwarna hitam pekat dengan paruh panjang melengkung dan pipi merah."
+        },
+        {
+          "english": "this bird has a gray belly with black spots and a blue colored head with a brown crown.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan bintik-bintik hitam dan kepala berwarna biru dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "a bird with a red cheek patch, a long beak, and black spots on its belly.",
+          "indo": "burung dengan bercak merah di pipi, paruh panjang, dan bintik hitam di perutnya."
+        },
+        {
+          "english": "this is a gray bird with block spots on it's chest and bright red malar stripes.",
+          "indo": "ini adalah burung berwarna abu-abu dengan bintik-bintik di dadanya dan garis-garis malar merah cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Northern_Flicker_0139_28419.jpg",
+      "class_id": 35,
+      "captions": [
+        {
+          "english": "the bird has a long, grey bill as well as a black eyering.",
+          "indo": "burung itu memiliki paruh panjang berwarna abu-abu serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a greyish beak with grey feet and tarsus, black eyes, a red crown, a greyish head, and a bronze-brown body with black and white speckles.",
+          "indo": "burung ini mempunyai paruh berwarna keabu-abuan dengan kaki dan tarsus berwarna abu-abu, mata berwarna hitam, mahkota berwarna merah, kepala berwarna keabu-abuan, dan badan berwarna coklat perunggu dengan bintik hitam putih."
+        },
+        {
+          "english": "this vibrant bird has black spots on a grey-brown and white background with a black stripe on the breast, blue head and vibrant red malar stripe.",
+          "indo": "burung berwarna cerah ini memiliki bintik hitam dengan latar belakang abu-abu coklat dan putih dengan garis hitam di dada, kepala biru dan garis malar merah cerah."
+        },
+        {
+          "english": "this bird has a speckled body with a gray head with red cheek patches.",
+          "indo": "burung ini memiliki tubuh berbintik-bintik, kepala berwarna abu-abu dengan bercak merah di pipi."
+        },
+        {
+          "english": "the colors on this bird are immensely intriguing: a red throat, a brown crown, black spots on brown breast, back and secondaries.",
+          "indo": "warna-warna pada burung ini sangat menarik: tenggorokan merah, mahkota coklat, bintik-bintik hitam di dada coklat, punggung dan bulu sekunder."
+        },
+        {
+          "english": "this bird is brown with black circular patters on its body with a black collar and red cheek patch.",
+          "indo": "burung ini berwarna coklat dengan corak melingkar berwarna hitam pada badannya dengan kerah berwarna hitam dan bercak pipi berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are brown and spotted and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan belang-belang serta mempunyai mahkota yang berwarna merah"
+        },
+        {
+          "english": "this is a brown bird with black spots, it's head and nape is gray it has a red streak near its bill and its crown is orange.",
+          "indo": "burung ini berwarna coklat dengan bintik-bintik hitam, kepala dan tengkuknya berwarna abu-abu, ada guratan merah di dekat paruhnya dan mahkotanya berwarna oranye."
+        },
+        {
+          "english": "this striking bird has a red malar stripe, black stripe along its breast, and has black spots covering its brown and white body.",
+          "indo": "Burung yang mencolok ini memiliki garis malar merah, garis hitam di sepanjang dadanya, dan bintik hitam menutupi tubuhnya yang berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird is grey with black and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    }
+  ]
+}

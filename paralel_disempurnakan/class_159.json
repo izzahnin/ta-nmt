@@ -1,0 +1,2718 @@
+{
+  "dataset": [
+    {
+      "filename": "Black_Throated_Blue_Warbler_0001_161189.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a white breasted bird, black head and black primary wings.",
+          "indo": "burung berdada putih, kepala hitam, dan sayap utama hitam."
+        },
+        {
+          "english": "a small bird with with black head and white breast and side with brown foot and tarsus",
+          "indo": "seekor burung kecil dengan kepala berwarna hitam dan dada berwarna putih serta bagian samping dengan kaki dan tarsus berwarna coklat"
+        },
+        {
+          "english": "the head of the bird is black with a white belly and a white wingbars and a a small black beak.",
+          "indo": "kepala burung berwarna hitam dengan perut berwarna putih dan garis sayap berwarna putih serta paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a black bill, a spotted wing, and a white belly",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, paruh berwarna hitam, sayap berbintik, dan perut berwarna putih"
+        },
+        {
+          "english": "bird with black crown, nape, throat, and white breast, belly and abdomen, and brown tarsus and feet",
+          "indo": "burung dengan mahkota hitam, tengkuk, tenggorokan, dan dada putih, perut dan perut, serta tarsus dan kaki coklat"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small plump bird with jet black bill, face and cape and stark white breast and belly.",
+          "indo": "seekor burung kecil gempal dengan paruh hitam legam, wajah dan jubah serta dada dan perut putih pucat."
+        },
+        {
+          "english": "the bird is small with white belly and black head, with its beak black.",
+          "indo": "burung ini berukuran kecil dengan perut berwarna putih dan kepala berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0002_161533.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a blue crown and back, grey and white wing bars, black eyes, a small narrow pointy bill and a white belly.",
+          "indo": "burung ini memiliki mahkota dan punggung berwarna biru, garis sayap berwarna abu-abu dan putih, mata berwarna hitam, paruh kecil yang runcing dan sempit serta perut berwarna putih."
+        },
+        {
+          "english": "a small round bird with a white belly and a blue crown.",
+          "indo": "seekor burung bulat kecil dengan perut putih dan mahkota biru."
+        },
+        {
+          "english": "this bird has a black crown, a sharp black bill, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh berwarna hitam runcing, dan perut berwarna putih."
+        },
+        {
+          "english": "this plump black bird has a thin black beak and a white throat, breast, and abdomen.",
+          "indo": "burung hitam gempal ini memiliki paruh hitam tipis dan tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a white belly, black face, and a blue crown.",
+          "indo": "seekor burung dengan perut putih, wajah hitam, dan mahkota biru."
+        },
+        {
+          "english": "this particular bird has a white belly and chest with a black throat and secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan tenggorokan dan bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly, breast and black back",
+          "indo": "burung ini memiliki perut berwarna putih, dada dan punggung berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0004_161404.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has small beak when compared to its body, with black throat, crown and mane and white belly.",
+          "indo": "burung ini memiliki paruh yang kecil jika dibandingkan dengan tubuhnya, dengan tenggorokan berwarna hitam, mahkota dan surai serta perut berwarna putih."
+        },
+        {
+          "english": "this bird is black with white on its chest and stomach and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian dada dan perutnya serta memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a bird with a white belly, black wings and a black head.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "a small bird with a black throat and grey crown that continues to the wings, and a white breast and belly.",
+          "indo": "seekor burung kecil dengan tenggorokan hitam dan mahkota abu-abu yang berlanjut ke sayap, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "an aqua crown and nape, black face, and white breast frame the face of this small bird.",
+          "indo": "mahkota dan tengkuk aqua, muka hitam, dan dada putih membingkai wajah burung kecil ini."
+        },
+        {
+          "english": "a small bird with a white throat breast and vent, black face and flank, white and black secondaries, and blue and black coverts.",
+          "indo": "burung kecil dengan dada dan lubang tenggorokan berwarna putih, muka dan panggul berwarna hitam, bulu sekunder berwarna putih dan hitam, serta bulu berwarna biru dan hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and a black throat and black secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta tenggorokan berwarna hitam dan bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "a small bird with a white belly and breast and black head.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna putih serta kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly and a blue back.",
+          "indo": "burung ini memiliki perut berwarna putih dan punggung berwarna biru."
+        },
+        {
+          "english": "this bird is black and white in color, and has a very small beak.",
+          "indo": "burung ini berwarna hitam putih, dan mempunyai paruh yang sangat kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0005_161168.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a bright blue-gray body with white wing bars and a white throat, breast, belly and abdomen.",
+          "indo": "burung ini memiliki tubuh berwarna biru cerah abu-abu dengan garis sayap berwarna putih serta tenggorokan, dada, perut, dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a blue crown and a black eyering that is round.",
+          "indo": "burung itu memiliki mahkota berwarna biru dan cincin mata berwarna hitam yang berbentuk bulat."
+        },
+        {
+          "english": "thie bird is black around the eyes, has a white belly, and a blue head, wings, and tail.",
+          "indo": "Burung ini berwarna hitam di sekitar matanya, perutnya berwarna putih, dan kepala, sayap, dan ekornya berwarna biru."
+        },
+        {
+          "english": "this small bird has a white belly & breast and a blue crown & man.",
+          "indo": "burung kecil ini memiliki perut & dada berwarna putih serta mahkota & manusia berwarna biru."
+        },
+        {
+          "english": "this cute little bird has black coloring around its eyes that looks like makeup that has smudged in the heat, a white-ish underbelly and blue feathers.",
+          "indo": "Burung kecil yang lucu ini memiliki warna hitam di sekitar matanya seperti riasan yang luntur karena panas, perut bagian bawah berwarna putih, dan bulu berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a tiny blue bird with black protruding down the face onto the white underside of the body.",
+          "indo": "seekor burung kecil berwarna biru dengan warna hitam menonjol di bagian muka hingga bagian bawah tubuh yang berwarna putih."
+        },
+        {
+          "english": "this small blue bird has a white breast and belly, a black cheek patch, and a sharp black bill.",
+          "indo": "Burung kecil berwarna biru ini memiliki dada dan perut berwarna putih, pipi berwarna hitam, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0006_161557.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird is camouflaging with a simple dull tone and streaks of white feathers.",
+          "indo": "burung ini berkamuflase dengan nada sederhana kusam dan guratan bulu berwarna putih."
+        },
+        {
+          "english": "this little bird has a blue crown and nape, with white coverts and black superciliary.",
+          "indo": "burung kecil ini memiliki mahkota dan tengkuk berwarna biru, dengan bulu putih dan superciliary berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, black back and a brown wing.",
+          "indo": "ini adalah burung dengan perut putih, punggung hitam dan sayap coklat."
+        },
+        {
+          "english": "a small bird with a gray nape,dark cheek patch, white wingbars, belly and abdomen.",
+          "indo": "burung kecil dengan tengkuk abu-abu, bercak pipi gelap, garis sayap putih, perut dan perut."
+        },
+        {
+          "english": "this little bird has a white belly, black breast, blue crown, and white primaries.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, dada berwarna hitam, mahkota berwarna biru, dan warna bulu primer berwarna putih."
+        },
+        {
+          "english": "this particular bird has a white belly and gray breasts and a gray bill",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna abu-abu serta paruh berwarna abu-abu"
+        },
+        {
+          "english": "this bird is white and blue in color, with a black beak.",
+          "indo": "burung ini berwarna putih biru, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "the bird has a white belly and has a black back.",
+          "indo": "burung itu memiliki perut berwarna putih dan punggung berwarna hitam."
+        },
+        {
+          "english": "the bird is mostly a sold blue color, with a darker teal throat and a white flank.",
+          "indo": "burung ini sebagian besar berwarna biru yang dijual, dengan tenggorokan berwarna biru kehijauan dan panggul berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0009_161534.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a black and white bird with black wings, crown, rump, back and throat, with a white chest and belly.",
+          "indo": "burung berwarna hitam putih dengan sayap, mahkota, pantat, punggung dan tenggorokan berwarna hitam, dengan dada dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a white breast and belly area, with the rest of it's body covered in black feathers.",
+          "indo": "burung ini memiliki bagian dada dan perut berwarna putih, sedangkan seluruh tubuhnya ditutupi bulu berwarna hitam."
+        },
+        {
+          "english": "this bird has a black pointed bill, black head and wings, and a white belly.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, kepala dan sayap berwarna hitam, serta perut berwarna putih."
+        },
+        {
+          "english": "this blue, black, and white bellied bird has a medium sized pointed beak.",
+          "indo": "Burung berperut biru, hitam, dan putih ini mempunyai paruh runcing berukuran sedang."
+        },
+        {
+          "english": "this bird is black and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and black secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "the bird has black wings, a black head, a black beak, and a white breast.",
+          "indo": "burung itu mempunyai sayap hitam, kepala hitam, paruh hitam, dan dada putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0010_161169.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has blue feathers on head and a black face with long pointed beak",
+          "indo": "burung ini mempunyai bulu di kepala berwarna biru dan muka berwarna hitam dengan paruh yang panjang dan runcing"
+        },
+        {
+          "english": "a dark gray bird with black cheek and throat, and a slender pointed black beak.",
+          "indo": "burung berwarna abu-abu tua dengan pipi dan tenggorokan hitam, serta paruh hitam ramping dan runcing."
+        },
+        {
+          "english": "a blue bird with a black pointed beak and spots of white on the wings.",
+          "indo": "burung berwarna biru dengan paruh runcing hitam dan bintik putih pada sayapnya."
+        },
+        {
+          "english": "this bird is mostly gray with a black superciliary and cheek patch.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan superciliary dan pipi berwarna hitam."
+        },
+        {
+          "english": "a tiny bird with a black bill and face, the rest of the body is filled with dark blue feathers.",
+          "indo": "seekor burung kecil dengan paruh dan wajah berwarna hitam, seluruh tubuhnya dipenuhi bulu berwarna biru tua."
+        },
+        {
+          "english": "this particular bird has a gray body and brown feathers on its secondaries",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dan bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird has brown secondaries, white wing bars, and grey head and neck.",
+          "indo": "burung ini memiliki sayap bulu sekunder berwarna coklat, garis sayap berwarna putih, serta kepala dan leher berwarna abu-abu."
+        },
+        {
+          "english": "this bird is gray and brown in color, with a sharp black beak.",
+          "indo": "burung ini berwarna abu-abu coklat, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "a small bird, grey in color, with a black cheek patch, and a small bill.",
+          "indo": "burung kecil berwarna abu-abu, bercak hitam di pipi, dan paruh kecil."
+        },
+        {
+          "english": "this is a bird with a dark blue-grey head with black around it's face and eyes, dark blue-grey back with white wingbars and darker gray feathers on it's wings.",
+          "indo": "Ini adalah burung dengan kepala berwarna biru tua abu-abu dengan warna hitam di sekitar wajah dan matanya, punggung biru tua abu-abu dengan garis sayap putih dan bulu abu-abu gelap di sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0016_161216.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small bird has a white belly and breast with a black neck, and blueish crown.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih dengan leher berwarna hitam, dan mahkota berwarna kebiruan."
+        },
+        {
+          "english": "this bird is white with black on its head and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a bird with a white belly, black back and a blue head.",
+          "indo": "ini adalah burung dengan perut putih, punggung hitam dan kepala biru."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill and a blue crown.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing dan mahkota berwarna biru."
+        },
+        {
+          "english": "this bird is black and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a bluish gray crown and a white belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna abu-abu kebiruan dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a bird with a white breast and belly, black head and a light blue crown.",
+          "indo": "burung dengan dada dan perut berwarna putih, kepala berwarna hitam, dan mahkota berwarna biru muda."
+        },
+        {
+          "english": "this bird has a black throat and white breast and belly with a blue crown.",
+          "indo": "burung ini memiliki tenggorokan berwarna hitam dan dada serta perut berwarna putih dengan mahkota berwarna biru."
+        },
+        {
+          "english": "a small white bellied bird with a white breast and a black head with a short sharp beak.",
+          "indo": "burung kecil berperut putih dengan dada putih dan kepala hitam dengan paruh pendek tajam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0017_161220.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a black breast and a white belly.",
+          "indo": "burung itu memiliki dada hitam dan perut putih."
+        },
+        {
+          "english": "a small bird with white chest and blue on top of head.",
+          "indo": "seekor burung kecil dengan dada putih dan kepala bagian atas berwarna biru."
+        },
+        {
+          "english": "this is a bird with a white belly and a black back and head.",
+          "indo": "ini adalah burung dengan perut putih dan punggung serta kepala hitam."
+        },
+        {
+          "english": "this bird has a black head and feathers and a white breast and belly.",
+          "indo": "burung ini memiliki kepala dan bulu berwarna hitam serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white breast and belly and a black back and head.",
+          "indo": "ini adalah burung dengan dada dan perut berwarna putih serta punggung dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam biru dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan perutnya yang bulat berwarna putih"
+        },
+        {
+          "english": "this bird has a white body, with a black throat and grey rump and nape.",
+          "indo": "Burung ini berbadan putih, dengan tenggorokan berwarna hitam, serta pantat dan tengkuk berwarna abu-abu."
+        },
+        {
+          "english": "this bird is gray, white, and black in color, and has a black beak.",
+          "indo": "burung ini berwarna abu-abu, putih, dan hitam, serta memiliki paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0022_161520.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this is a small bird with a black face and beak, blue everywhere but on the underneath of the bird which is white and black, and two white strips on each wing.",
+          "indo": "ini adalah burung kecil dengan muka dan paruh berwarna hitam, berwarna biru dimana-mana tetapi pada bagian bawah burung berwarna putih dan hitam, serta dua garis putih pada setiap sayapnya."
+        },
+        {
+          "english": "medium sized pudgy blue bird with a black face and thin long black beak.",
+          "indo": "Burung biru gemuk berukuran sedang dengan wajah hitam dan paruh tipis panjang berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird wit ha black face, black and white thraot and chest, and dark blue and brown feathers covering the rest of its body.",
+          "indo": "burung berukuran sedang dengan muka hitam, tenggorokan dan dada hitam putih, serta bulu biru tua dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "small beak and head bird, yellow and white and black in the face.",
+          "indo": "paruh dan kepala burung kecil, mukanya kuning putih dan hitam."
+        },
+        {
+          "english": "this is a dark grey bird with a black throat and white on the breast.",
+          "indo": "ini adalah burung berwarna abu-abu tua dengan tenggorokan hitam dan putih di dada."
+        },
+        {
+          "english": "a black bird with a white breast and a short pointed beak.",
+          "indo": "seekor burung hitam dengan dada putih dan paruh runcing pendek."
+        },
+        {
+          "english": "this is a rather plump bird with a mostly black face and pointy beak",
+          "indo": "ini adalah burung yang agak gempal dengan wajah sebagian besar berwarna hitam dan paruh runcing"
+        },
+        {
+          "english": "this small bird's feathers are mostly dark navy blue with some specks of white.",
+          "indo": "bulu burung kecil ini sebagian besar berwarna biru laut tua dengan beberapa bintik putih."
+        },
+        {
+          "english": "this small bird has a small bill, black feathers with a touch of white.",
+          "indo": "burung kecil ini memiliki paruh kecil, bulu berwarna hitam dengan sedikit sentuhan putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0024_161619.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a blue head, black throat, a light grey belly, black coverts, a short break and black legs.",
+          "indo": "burung ini mempunyai kepala berwarna biru, tenggorokan berwarna hitam, perut berwarna abu-abu muda, bulu berwarna hitam, paruh pendek dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has very long legs a black head with a white breast.",
+          "indo": "burung ini mempunyai kaki yang sangat panjang, kepala berwarna hitam dengan dada berwarna putih."
+        },
+        {
+          "english": "a small bird with a navy blue head, and grey covering its breast belly and vent.",
+          "indo": "seekor burung kecil dengan kepala berwarna biru laut, dan abu-abu menutupi perut dada dan lubang anginnya."
+        },
+        {
+          "english": "this is a blue bird with a gray belly with a black bill",
+          "indo": "ini adalah burung berwarna biru dengan perut abu-abu dengan paruh hitam"
+        },
+        {
+          "english": "bird with gray crown, tarsus and feet, and white breast, belly, thigh and abdomen, and grayish brown wings",
+          "indo": "burung dengan mahkota berwarna abu-abu, tarsus dan kaki, serta dada, perut, paha dan perut berwarna putih, serta sayap berwarna coklat keabu-abuan"
+        },
+        {
+          "english": "a bird with a blue nape and a black throat and thin legs.",
+          "indo": "seekor burung dengan tengkuk biru dan tenggorokan hitam serta kaki kurus."
+        },
+        {
+          "english": "a small black bird with a white belly and breast and very thin legs and feet.",
+          "indo": "seekor burung hitam kecil dengan perut dan dada berwarna putih serta tungkai dan kaki yang sangat kurus."
+        },
+        {
+          "english": "blue head black wings white body.",
+          "indo": "kepala biru, sayap hitam, tubuh putih."
+        },
+        {
+          "english": "this is a small blueish-gray bird with a light gray belly and abdomen and a pointed beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu kebiruan dengan perut dan perut berwarna abu-abu muda serta paruh runcing."
+        },
+        {
+          "english": "a small blue bird with white belly and a small black beak.",
+          "indo": "seekor burung biru kecil dengan perut putih dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0027_104004.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small bird with a small, pointed bill, a black head and back, and a white belly and breast, with a white stripe on its wing.",
+          "indo": "burung kecil dengan paruh kecil runcing, kepala dan punggung berwarna hitam, serta perut dan dada berwarna putih, dengan garis putih di sayapnya."
+        },
+        {
+          "english": "this is a bird with a white belly, black back and a pointed beak.",
+          "indo": "ini adalah burung dengan perut putih, punggung hitam dan paruh runcing."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and black facial marking",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan corak wajah berwarna hitam"
+        },
+        {
+          "english": "small white black and blue bird with medium length tarsus and medium black beak",
+          "indo": "burung kecil berwarna putih hitam biru dengan tarsus panjang sedang dan paruh hitam sedang"
+        },
+        {
+          "english": "a small bird with a white side and abdomen and dark black breast.",
+          "indo": "seekor burung kecil dengan bagian samping dan perut berwarna putih serta dada berwarna hitam tua."
+        },
+        {
+          "english": "a multicolored bird, with black cheek patch and breast, white belly, and purple crown and back.",
+          "indo": "burung beraneka warna, dengan bercak pipi dan dada berwarna hitam, perut berwarna putih, serta mahkota dan punggung berwarna ungu."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a small bird with a white breast and blue feathers.",
+          "indo": "seekor burung kecil dengan dada putih dan bulu biru."
+        },
+        {
+          "english": "this bird has a black body with a white underbelly and a short black beak.",
+          "indo": "burung ini memiliki tubuh berwarna hitam dengan perut bagian bawah berwarna putih dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a white and blue breast and a sharp bill",
+          "indo": "burung ini memiliki dada berwarna putih kebiruan serta paruh yang runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0036_161517.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small, sturdily built bird has varying shades of blue plumage with black wing tips and white wingbars and belly.",
+          "indo": "burung kecil bertubuh kekar ini memiliki corak bulu biru yang bervariasi dengan ujung sayap hitam serta garis sayap dan perut berwarna putih."
+        },
+        {
+          "english": "bird has blue body feathers, blue breast feather, and thin legs",
+          "indo": "burung mempunyai bulu badan berwarna biru, bulu dada berwarna biru, dan kaki kurus"
+        },
+        {
+          "english": "a blue bird with white wingbars, a dark mask and a short beak.",
+          "indo": "seekor burung biru dengan sayap putih, topeng gelap dan paruh pendek."
+        },
+        {
+          "english": "the small bird has blue feathers on its wings, tail and head, and its bill is short and pointed.",
+          "indo": "burung kecil memiliki bulu berwarna biru pada sayap, ekor dan kepalanya, serta paruhnya pendek dan runcing."
+        },
+        {
+          "english": "the bird has a white belly with blue and white striped wings and tail and blue neck and head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap dan ekor bergaris biru putih serta leher dan kepala berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a blue body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai badan yang berwarna biru"
+        },
+        {
+          "english": "this is a small blue-gray bird with a white abdomen and a pointed beak",
+          "indo": "ini adalah burung kecil berwarna biru keabu-abuan dengan perut putih dan paruh runcing"
+        },
+        {
+          "english": "a small blue bird with black and white tail feathers.",
+          "indo": "seekor burung kecil berwarna biru dengan bulu ekor hitam putih."
+        },
+        {
+          "english": "a medium sized bird with a black crown, and a small bill",
+          "indo": "burung berukuran sedang dengan mahkota hitam, dan paruh kecil"
+        },
+        {
+          "english": "this bird is white and gray in color, and has a small black beak.",
+          "indo": "burung ini berwarna putih abu-abu, serta memiliki paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0037_161707.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a bird with a tiny pointed beak, light blue crown, and full white breast.",
+          "indo": "burung dengan paruh kecil runcing, mahkota berwarna biru muda, dan dada penuh berwarna putih."
+        },
+        {
+          "english": "a small bird with a white breast and belly, blue wings, blue crown and black eyes.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna putih, sayap biru, mahkota biru dan mata hitam."
+        },
+        {
+          "english": "this bird is white with black on its head and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this white bird has a black face and gray accents on its head and back.",
+          "indo": "burung berwarna putih ini memiliki muka berwarna hitam dan aksen abu-abu pada kepala dan punggungnya."
+        },
+        {
+          "english": "this bird has a mostly white body with a black face and yellow eye ring.",
+          "indo": "burung ini memiliki tubuh sebagian besar berwarna putih dengan muka berwarna hitam dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has a white breast and belly, blue-gray crown and nape and a black head and sides.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, mahkota dan tengkuk berwarna biru keabu-abuan, serta kepala dan samping berwarna hitam."
+        },
+        {
+          "english": "a small black and white bird birched on a twig with a grey crown, black throat; white breast and belly.",
+          "indo": "seekor burung kecil berwarna hitam putih yang bertengger di ranting dengan mahkota abu-abu, tenggorokan hitam; dada dan perut berwarna putih."
+        },
+        {
+          "english": "a white breasted black bird with blue back, neck, crown and wingbars.",
+          "indo": "burung hitam berdada putih dengan punggung, leher, mahkota, dan garis sayap berwarna biru."
+        },
+        {
+          "english": "white belly, bluish black rectrices, covert and bead with black sharp bill",
+          "indo": "perut putih, rectrices  hitam kebiruan, bulu penutup dan manik dengan paruh hitam tajam"
+        },
+        {
+          "english": "this bird has light blue crown and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru muda dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0042_161512.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small perching bird with a small bill, dark gray crown, nap, and coverts, with black superciliary, cheek, and throat, and with white chest, belly, and abdomen.",
+          "indo": "burung bertengger kecil dengan paruh kecil, mahkota berwarna abu-abu tua, tidur siang, dan bulu, dengan superciliary, pipi, dan tenggorokan berwarna hitam, serta dada, perut, dan perut berwarna putih."
+        },
+        {
+          "english": "a little bird with gray crown and wings, a white belly, and a black face and bill.",
+          "indo": "seekor burung kecil dengan mahkota dan sayap berwarna abu-abu, perut berwarna putih, serta muka dan paruh berwarna hitam."
+        },
+        {
+          "english": "this tiny bird features a white chest, black face, and a grey band on its head.",
+          "indo": "burung mungil ini memiliki dada berwarna putih, wajah hitam, dan pita abu-abu di kepalanya."
+        },
+        {
+          "english": "this small bird has a white belly with a black face and grey-blue wings with a short beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih dengan muka berwarna hitam dan sayap berwarna biru keabu-abuan dengan paruh yang pendek."
+        },
+        {
+          "english": "this bird has blue,white and black markings.",
+          "indo": "burung ini memiliki corak biru, putih dan hitam."
+        },
+        {
+          "english": "this bird has a blue-gray crown, white breast, belly and abdomen, black secondaries and a black throat and side going a little bit under the wings.",
+          "indo": "burung ini mempunyai mahkota berwarna biru keabu-abuan, dada, perut dan perut berwarna putih, bulu sekunder berwarna hitam dan tenggorokan berwarna hitam serta bagian sampingnya agak berada di bawah sayap."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly and a blue crown, nape, and wings, with black on its throat.",
+          "indo": "burung ini memiliki perut berwarna putih, mahkota, tengkuk, dan sayap berwarna biru, dengan warna hitam di tenggorokannya."
+        },
+        {
+          "english": "bird with white belly and breast, and a black head, rectrices, and wings.",
+          "indo": "burung dengan perut dan dada berwarna putih, dan kepala, rectrices, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0043_161438.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "there is a small bird with a white belly and blue back and crown.",
+          "indo": "ada seekor burung kecil dengan perut berwarna putih dan punggung serta mahkota berwarna biru."
+        },
+        {
+          "english": "bird has blue body feathers, blue breast feather, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna biru, bulu dada berwarna biru, dan paruh berwarna hitam"
+        },
+        {
+          "english": "the bird has a blue body with a white chest and black throat and cheek mask.",
+          "indo": "Burung ini berbadan biru dengan dada berwarna putih dan tenggorokan serta topeng pipi berwarna hitam."
+        },
+        {
+          "english": "the bird has a blue crown and a white breast and belly.",
+          "indo": "burung itu memiliki mahkota berwarna biru dan dada serta perut berwarna putih."
+        },
+        {
+          "english": "this bird has a sharp blue crown with a white belly, and a short bill.",
+          "indo": "burung ini memiliki mahkota berwarna biru runcing dengan perut berwarna putih, dan paruh yang pendek."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and black",
+          "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+        },
+        {
+          "english": "this small bird has a blue crown, back, and tail, with a white breast and black wings.",
+          "indo": "burung kecil ini memiliki mahkota, punggung, dan ekor berwarna biru, dengan dada berwarna putih dan sayap hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a short and sharp bill that is black, a dark eye, black cheek and throat, blue poli, neck and shoulders, black wing feathers with blue edges, a white patch on the wing, a blue tail, black sides, and white belly.",
+          "indo": "burung ini mempunyai paruh yang pendek dan runcing berwarna hitam, mata berwarna gelap, pipi dan tenggorokan berwarna hitam, poli biru, leher dan bahu, bulu sayap berwarna hitam dengan pinggiran berwarna biru, bercak putih pada sayap, ekor berwarna biru, sisi samping berwarna hitam, dan perut putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0047_161511.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a white breast and belly, and a small bill.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih, serta paruh kecil."
+        },
+        {
+          "english": "a small bird with a small flat bill and a white breast",
+          "indo": "seekor burung kecil dengan paruh kecil pipih dan dada berwarna putih"
+        },
+        {
+          "english": "this bird has a white breast with a black and green body.",
+          "indo": "burung ini mempunyai dada berwarna putih dengan badan berwarna hitam dan hijau."
+        },
+        {
+          "english": "this small bird has tiny feet, a white breast and black coverts.",
+          "indo": "burung kecil ini memiliki kaki mungil, dada berwarna putih, dan bulu berwarna hitam."
+        },
+        {
+          "english": "this is a small, black and white bird with a black beak and a white belly.",
+          "indo": "ini adalah burung kecil berwarna hitam putih dengan paruh hitam dan perut putih."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, black wings with two white wingbars, the bill is short and pointed, and black tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna hitam dengan dua garis sayap berwarna putih, paruh pendek dan runcing, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and black",
+          "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+        },
+        {
+          "english": "this bird has a bluish-green head and feathers, with a white breast.",
+          "indo": "burung ini memiliki kepala dan bulu berwarna hijau kebiruan, dengan dada berwarna putih."
+        },
+        {
+          "english": "this bird is blue, black, and white in color, with a black beak.",
+          "indo": "burung ini berwarna biru, hitam, dan putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0048_161665.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small, black, blue, and white bird with a black bill and a blue crown.",
+          "indo": "burung kecil berwarna hitam, biru, dan putih dengan paruh hitam dan mahkota biru."
+        },
+        {
+          "english": "this bird has a blue crown, a short black bill, and a bright white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, paruh pendek berwarna hitam, dan perut berwarna putih cerah."
+        },
+        {
+          "english": "the bird's crown and back are blue and the wings are black and white.",
+          "indo": "mahkota dan punggung burung berwarna biru dan sayapnya berwarna hitam putih."
+        },
+        {
+          "english": "a small bird with a blue crown, a black neck, and a white breast.",
+          "indo": "seekor burung kecil dengan mahkota biru, leher hitam, dan dada putih."
+        },
+        {
+          "english": "this bird is black and white in color with a stubby beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh gemuk, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and black beasts and black secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan binatang berwarna hitam serta bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird has a blue crwn and wings, a black head and sides and a white belly and abdomen",
+          "indo": "burung ini memiliki mahkota dan sayap berwarna biru, kepala dan samping berwarna hitam, serta perut dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a distinctive light blue crown, a white breasts, and black tarsus.",
+          "indo": "burung ini memiliki ciri khas mahkota berwarna biru muda, dada berwarna putih, dan tarsus berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has a white belly, blue crown and black eyering.",
+          "indo": "burung itu memiliki perut berwarna putih, mahkota berwarna biru, dan cincin mata berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0050_161154.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a black head and black nape with blue details and a white belly.",
+          "indo": "burung tersebut memiliki kepala berwarna hitam dan tengkuk berwarna hitam dengan detail biru dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a black crown, a pointed bill, and a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh runcing, dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a white and black body with a short black bill.",
+          "indo": "burung ini mempunyai tubuh berwarna putih kehitaman dengan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird is black and white in color with a sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "white chest and black neck and head.",
+          "indo": "dada putih dan leher serta kepala hitam."
+        },
+        {
+          "english": "this small bird has a black head and wings, with a white chest and tail.",
+          "indo": "burung kecil ini memiliki kepala dan sayap berwarna hitam, dengan dada dan ekor berwarna putih."
+        },
+        {
+          "english": "this bird has a black face with a light blue side, a small black pointed bill and a white breast.",
+          "indo": "burung ini mempunyai muka berwarna hitam dengan sisi samping berwarna biru muda, paruh kecil berwarna hitam runcing dan dada berwarna putih."
+        },
+        {
+          "english": "a medium sized bird with a long bill, and a white belly",
+          "indo": "burung berukuran sedang dengan paruh panjang, dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a white belly and a black back.",
+          "indo": "burung itu memiliki perut berwarna putih dan punggung berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0053_161684.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a white belly with black wings and a black face.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap hitam dan muka berwarna hitam."
+        },
+        {
+          "english": "black and white bird with a relatively big head and a black beak.",
+          "indo": "burung berwarna hitam putih dengan kepala relatif besar dan paruh berwarna hitam."
+        },
+        {
+          "english": "this medium sized bird has a black head, nape and neck, black and white wings, and a pure white belly, with long grey legs.",
+          "indo": "Burung berukuran sedang ini memiliki kepala, tengkuk dan leher berwarna hitam, sayap berwarna hitam putih, serta perut berwarna putih bersih, dengan kaki panjang berwarna abu-abu."
+        },
+        {
+          "english": "this small bird has a tiny narrow bill and a white belly.",
+          "indo": "burung kecil ini memiliki paruh kecil yang sempit dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly and abdomen with black rump, nape, and back.",
+          "indo": "burung ini memiliki perut dan perut berwarna putih dengan pantat, tengkuk, dan punggung berwarna hitam."
+        },
+        {
+          "english": "this bird is green with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hijau dengan warna putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bright blue bird with darker blue and white accents on tail and side and a white belly.",
+          "indo": "burung berwarna biru cerah dengan aksen biru tua dan putih di bagian ekor dan samping serta perut berwarna putih."
+        },
+        {
+          "english": "this bird is small and wide with a very short and long bill, you can see its short skinny legs",
+          "indo": "burung ini berukuran kecil dan lebar dengan paruh yang sangat pendek dan panjang, terlihat kakinya yang pendek dan kurus"
+        },
+        {
+          "english": "this is a blue bird with black wings and white belly and abdomen.",
+          "indo": "ini adalah burung berwarna biru dengan sayap hitam dan perut serta perut berwarna putih."
+        },
+        {
+          "english": "this bird has a blue crown, black and white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, bulu primer berwarna hitam putih, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0054_161158.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a black back and head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan punggung dan kepala berwarna hitam."
+        },
+        {
+          "english": "bird has gray body feathers, white breast feather, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna putih, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this is a bird with a white belly, black back and a pointed beak.",
+          "indo": "ini adalah burung dengan perut putih, punggung hitam dan paruh runcing."
+        },
+        {
+          "english": "this bird has a white belly, abdomen and vent with a black head and wings.",
+          "indo": "burung ini mempunyai perut, perut dan lubang kloaka berwarna putih dengan kepala dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp black beak, and black eye rings.",
+          "indo": "Burung ini berwarna putih kehitaman dengan paruh berwarna hitam runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has a small black bill, white breast and black throat.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam, dada berwarna putih, dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this is a small bird, with black bill, and white belly.",
+          "indo": "ini burung kecil, paruh hitam, dan perut putih."
+        },
+        {
+          "english": "this is a small bird with a white breast and lower region and dark wings and upper region with a small beak.",
+          "indo": "ini adalah burung kecil dengan dada berwarna putih dan bagian bawah serta sayap berwarna gelap dan bagian atas dengan paruh kecil."
+        },
+        {
+          "english": "the bird has a small bill, white torso and belly and grey back.",
+          "indo": "burung itu memiliki paruh kecil, badan dan perut berwarna putih, serta punggung berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a white belly and small beak.",
+          "indo": "seekor burung kecil dengan perut putih dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0060_161644.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a white breast and belly and navy throat.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta tenggorokan berwarna biru laut."
+        },
+        {
+          "english": "this bird is a dark blue color in its wings and there is a white breast along with white secondaries on the wings along with grey tarsus and feet and a black beak.",
+          "indo": "burung ini mempunyai warna biru tua pada sayapnya dan terdapat dada berwarna putih beserta sayap bulu sekunder berwarna putih beserta tarsus dan kaki berwarna abu-abu serta paruh berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white breast, black back and small beak.",
+          "indo": "ini adalah burung dengan dada putih, punggung hitam dan paruh kecil."
+        },
+        {
+          "english": "this bird has a white belly and breast with a blue crown and back.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan punggung berwarna biru."
+        },
+        {
+          "english": "a small bird with a white belly and black back and crown and white wingbars.",
+          "indo": "seekor burung kecil dengan perut putih dan punggung hitam serta mahkota dan sayap putih."
+        },
+        {
+          "english": "this small bird has a dusky blue cap and shoulders, with a black face and white breast and belly.",
+          "indo": "Burung kecil ini memiliki topi dan bahu berwarna biru kehitaman, dengan muka berwarna hitam serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this small bird has a white belly and breast and a short black bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih serta paruh pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0061_161667.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small perching bird with a small bill has gray crown, nap, back, tail, and coverts, black superciliary, cheek, throat, and side, and white chest, belly, and abdomen.",
+          "indo": "Burung bertengger kecil dengan paruh kecil ini memiliki mahkota, punggung, punggung, ekor, dan bulu berwarna abu-abu, superciliary hitam, pipi, tenggorokan, dan samping, serta dada, perut, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is black and white in color, with a small black beak and a white eye ring.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh kecil berwarna hitam dan cincin mata berwarna putih."
+        },
+        {
+          "english": "a white bodied bird with black crown, bill and feathers, with a white wingbar.",
+          "indo": "burung berbadan putih dengan mahkota, paruh dan bulu berwarna hitam, dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "small white black and blue bird with medium tarsus and short black beak",
+          "indo": "burung kecil berwarna putih hitam biru dengan tarsus sedang dan paruh hitam pendek"
+        },
+        {
+          "english": "this bird has white feathered belly with navy color wings and small black beak",
+          "indo": "burung ini memiliki perut berbulu putih dengan sayap berwarna biru tua dan paruh kecil berwarna hitam"
+        },
+        {
+          "english": "a single white wingbar, a white chest and belly, a black check patch",
+          "indo": "satu garis sayap berwarna putih, dada dan perut berwarna putih, bercak kotak-kotak hitam"
+        },
+        {
+          "english": "the crown is blue, the patch down to the throat is black, and the rounded belly is white.",
+          "indo": "ubun-ubunnya berwarna biru, bercak sampai ke tenggorokan berwarna hitam, dan perutnya yang membulat berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a bird with a white belly and breast, the bill is short and pointed and the head is small compared to its body",
+          "indo": "burung dengan perut dan dada berwarna putih, paruhnya pendek dan runcing serta kepalanya kecil dibandingkan tubuhnya"
+        },
+        {
+          "english": "a small very round bird with a blue crown, nape and back, and a white breast, belly, and rump, with a black throat and small black bill.",
+          "indo": "burung kecil sangat bulat dengan mahkota, tengkuk dan punggung berwarna biru, serta dada, perut, dan pantat berwarna putih, dengan tenggorokan hitam dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0063_161213.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a bird that has a blue top with a black stripe and then a white belly.",
+          "indo": "burung yang atasannya berwarna biru dengan garis hitam dan kemudian perutnya berwarna putih."
+        },
+        {
+          "english": "the small blue,black and white bird has striped feathers.",
+          "indo": "burung kecil berwarna biru, hitam dan putih memiliki bulu bergaris."
+        },
+        {
+          "english": "this small bird has a white belly and breast, and black side and cheek with alot of blue on the rest of it.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, serta bagian samping dan pipi berwarna hitam dengan banyak warna biru di bagian lainnya."
+        },
+        {
+          "english": "this bird is white, blue, and black in color with a sharp black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih, biru, dan hitam dengan paruh hitam runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly, black side and face and a blue back and nape.",
+          "indo": "burung ini memiliki perut berwarna putih, bagian samping dan muka berwarna hitam, serta punggung dan tengkuk berwarna biru."
+        },
+        {
+          "english": "this bird is blue with black and white and has a very short beak.",
+          "indo": "burung ini berwarna biru dengan hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small, round blue and black bird, with a white belly, and a small, sharp beak.",
+          "indo": "seekor burung kecil berbentuk bulat berwarna biru dan hitam, dengan perut berwarna putih, dan paruh kecil yang tajam."
+        },
+        {
+          "english": "the bird that has a white belly, and a blue back.",
+          "indo": "burung yang perutnya berwarna putih dan punggungnya berwarna biru."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black breasts",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna hitam"
+        },
+        {
+          "english": "this bird has a blue crown, black and white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, bulu primer berwarna hitam putih, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0064_161656.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a bird with a small pointed bill, ruffled blue crown and nape, black throat, and white breast.",
+          "indo": "burung dengan paruh kecil runcing, mahkota dan tengkuk biru acak-acakan, tenggorokan hitam, dan dada putih."
+        },
+        {
+          "english": "a small round bird that is blue, black and white.",
+          "indo": "burung bulat kecil berwarna biru, hitam dan putih."
+        },
+        {
+          "english": "the bird has a white and black belly with a grey body and a sharp black beak.",
+          "indo": "burung ini memiliki perut berwarna putih kehitaman dengan tubuh berwarna abu-abu dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "a bird with a blue crown and covert, white breast, and black throat.",
+          "indo": "seekor burung dengan mahkota dan bulu berwarna biru, dada putih, dan tenggorokan hitam."
+        },
+        {
+          "english": "a black bird with a blue crest and white belly.",
+          "indo": "seekor burung hitam dengan jambul biru dan perut putih."
+        },
+        {
+          "english": "this bird is mainly black and white, but it has a bluish, purple colored patch of feathers on the top of it's wings.",
+          "indo": "burung ini sebagian besar berwarna hitam dan putih, tetapi memiliki bercak bulu berwarna ungu kebiruan di bagian atas sayapnya."
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a small black bill and a white belly.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan perut berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and has gray patches",
+          "indo": "burung ini memiliki perut yang berwarna putih dan memiliki bercak abu-abu"
+        },
+        {
+          "english": "a bird with a black throat, white belly and pale blue crown and back.",
+          "indo": "burung dengan tenggorokan hitam, perut putih, dan mahkota serta punggung biru pucat."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0072_161636.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this white and black bird has white belly and breast, black tarsus and feet, crown and back",
+          "indo": "burung berwarna putih dan hitam ini memiliki perut dan dada berwarna putih, tarsus dan kaki berwarna hitam, mahkota dan punggung"
+        },
+        {
+          "english": "this bird is black with white on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white belly and breast, black neck and crown, and a white vent.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, leher dan mahkota berwarna hitam, serta lubang kloaka berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly, black breast, crown, and back with a short pointy bill.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna hitam, mahkota, dan punggung dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has a white belly, white undertail coverts, a black throat and head.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, bulu ekor berwarna putih, tenggorokan dan kepala berwarna hitam."
+        },
+        {
+          "english": "this small bird has a black head, white belly, and a black wing with a white spot.",
+          "indo": "burung kecil ini memiliki kepala berwarna hitam, perut berwarna putih, dan sayap berwarna hitam dengan bintik putih."
+        },
+        {
+          "english": "the bird has a short black bill, white belly and black back.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, perut berwarna putih, dan punggung berwarna hitam."
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly with a white wing guard and a black crown.",
+          "indo": "burung ini memiliki perut berwarna putih dengan pelindung sayap berwarna putih dan mahkota berwarna hitam."
+        },
+        {
+          "english": "a small bird with a white belly and breast and black head.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna putih serta kepala berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0073_161558.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a very small, pointed bill, dark blue eyepatch and superciliary, white breast, and light blue back",
+          "indo": "burung ini memiliki paruh yang sangat kecil dan runcing, penutup mata dan superciliary berwarna biru tua, dada berwarna putih, dan punggung berwarna biru muda"
+        },
+        {
+          "english": "it has a short beak and dark blue feathers on its head, face, back, wings, and tail, with white feathers on its belly.",
+          "indo": "paruhnya pendek dan bulunya berwarna biru tua di kepala, muka, punggung, sayap, dan ekornya, serta bulu putih di perutnya."
+        },
+        {
+          "english": "this bird has a black crown, a black sharp bill, and a white belly.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, paruh runcing berwarna hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a bill that curves downwards, and a blue crown",
+          "indo": "seekor burung kecil dengan paruh melengkung ke bawah, dan mahkota berwarna biru"
+        },
+        {
+          "english": "this is a blue bird with a white belly and a black face.",
+          "indo": "ini adalah burung berwarna biru dengan perut putih dan wajah hitam."
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "this bird is bright blue, with a white belly and a black throat.",
+          "indo": "burung ini berwarna biru cerah, dengan perut berwarna putih dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "a small bird with a blue topside and a white belly and breast,",
+          "indo": "seekor burung kecil dengan bagian atas berwarna biru dan perut serta dada berwarna putih,"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0076_161162.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small bird with a small straight bill and white breast sits in a tree",
+          "indo": "seekor burung kecil dengan paruh kecil lurus dan dada berwarna putih duduk di pohon"
+        },
+        {
+          "english": "this small bird has white wingbars and a blue-black color to his wings and head with a white belly and breast.",
+          "indo": "burung kecil ini mempunyai garis sayap berwarna putih dan warna biru kehitaman pada sayap dan kepalanya dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is black and white in color, with a sharp skinny beak and a black eye ring.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh kurus runcing dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a bird with a grey head and throat, the bill is short and pointed, with a white belly and abdomen.",
+          "indo": "burung dengan kepala dan tenggorokan berwarna abu-abu, paruhnya pendek dan runcing, dengan perut dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black crown and short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna hitam dan paruh pendek dan runcing."
+        },
+        {
+          "english": "the bird has a small black bill and black eyerings that are tiny.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam dan cincin mata hitam yang kecil."
+        },
+        {
+          "english": "this blue bird has white breast, belly, abdomen and undertail coverts.",
+          "indo": "burung biru ini memiliki penutup dada, perut, perut, dan ekor berwarna putih."
+        },
+        {
+          "english": "this small sized bird has a short black pointed beak, gray legs and claws, and features light colored under belly and breast and a head back and wings that are a mottled mix of blue, gray, black and white feathers.",
+          "indo": "Burung berukuran kecil ini memiliki paruh pendek runcing berwarna hitam, kaki dan cakar berwarna abu-abu, serta ciri-ciri berwarna terang di bawah perut dan dada serta kepala belakang dan sayap yang merupakan campuran belang-belang bulu biru, abu-abu, hitam dan putih."
+        },
+        {
+          "english": "this bird is black and white the top part of its body is black and the underneath is white it has a semi-long tail feather and a small beak",
+          "indo": "burung ini berwarna hitam putih, badan bagian atas berwarna hitam dan bagian bawah berwarna putih, mempunyai bulu ekor setengah panjang dan paruh kecil."
+        },
+        {
+          "english": "a small black bird with a white underbody and pointed beak.",
+          "indo": "seekor burung hitam kecil dengan bagian bawah tubuh berwarna putih dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0079_161194.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small bird has a blue top and tail, and a small, straight beak that is pointed.",
+          "indo": "burung kecil ini memiliki bagian atas dan ekor berwarna biru, serta paruh kecil lurus yang runcing."
+        },
+        {
+          "english": "this bird is blue with black and white on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna biru dengan warna hitam putih pada bagian perutnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black and white in color with a skinny black beak and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh hitam kurus dan cincin mata hitam."
+        },
+        {
+          "english": "blue, black and white bird, wide frame with a small beak and head.",
+          "indo": "burung biru, hitam putih, berbingkai lebar dengan paruh dan kepala kecil."
+        },
+        {
+          "english": "this bird has a blue crown, a rounded white breast, and a black eye patch",
+          "indo": "burung ini memiliki mahkota berwarna biru, dada bulat berwarna putih, dan penutup mata berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white and black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut berwarna putih dan hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is blue with white and black and has a very short beak.",
+          "indo": "burung ini berwarna biru dengan putih dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small fluffy bird with a deep blue crest and back, with a white breast and black face and a small pointed bill.",
+          "indo": "seekor burung kecil berbulu halus dengan jambul dan punggung berwarna biru tua, dengan dada putih dan wajah hitam serta paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white and black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut berwarna putih dan hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0080_161681.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a bird with a small needlelike beak, gray breast, and forked rectrices",
+          "indo": "seekor burung dengan paruh kecil seperti jarum, dada berwarna abu-abu, dan rectrices  bercabang"
+        },
+        {
+          "english": "this small bird has a white belly with a black rectrices that has its tip lined with yellow feathers.",
+          "indo": "Burung kecil ini mempunyai perut berwarna putih dengan rectrices berwarna hitam yang ujungnya dilapisi bulu berwarna kuning."
+        },
+        {
+          "english": "this bird has a thin straight bill, a white breast and belly, and a black throat.",
+          "indo": "burung ini memiliki paruh tipis lurus, dada dan perut berwarna putih, serta tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this is a white bellied bird with black head and rectrices.",
+          "indo": "ini adalah burung perut putih dengan kepala hitam dan rectrices."
+        },
+        {
+          "english": "this black and white bird has a white belly, a black back and what appears to be a black rump.",
+          "indo": "burung berwarna hitam putih ini memiliki perut berwarna putih, punggung berwarna hitam, dan pantatnya tampak berwarna hitam."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has white eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata putih"
+        },
+        {
+          "english": "this bird has a white belly and black feathers with a narrow beak.",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu berwarna hitam dengan paruh yang sempit."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0081_161427.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "small blue bird with black spot of feathers by the eye and white patches on the body.",
+          "indo": "burung kecil berwarna biru dengan bintik hitam pada bulu di bagian mata dan bercak putih di badan."
+        },
+        {
+          "english": "blue bird with black face, white underbelly and long outer rectrices.",
+          "indo": "burung biru berwajah hitam, perut bagian bawah berwarna putih, dan outer rectrices."
+        },
+        {
+          "english": "a small black bird with white patches on its wings and chest.",
+          "indo": "seekor burung kecil berwarna hitam dengan bercak putih di sayap dan dadanya."
+        },
+        {
+          "english": "this is a blue bird with a white wing and a black head.",
+          "indo": "ini adalah burung biru dengan sayap putih dan kepala hitam."
+        },
+        {
+          "english": "this bird has a blue back and wing, with a little pointy bill.",
+          "indo": "burung ini mempunyai punggung dan sayap berwarna biru, dengan paruh agak runcing."
+        },
+        {
+          "english": "a blue small bird with a small beak and a very large blue feather tail.",
+          "indo": "seekor burung kecil berwarna biru dengan paruh kecil dan ekor bulu biru yang sangat besar."
+        },
+        {
+          "english": "a small bird with a blue/grey head, body, wings, and wingtips with a bit of black on the neck.",
+          "indo": "burung kecil dengan kepala, badan, sayap, dan ujung sayap berwarna biru/abu-abu dengan sedikit warna hitam di bagian leher."
+        },
+        {
+          "english": "this bird is green, black, and white in color, with a black beak.",
+          "indo": "burung ini berwarna hijau, hitam, dan putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is blue with white patches",
+          "indo": "Burung ini mempunyai perut berwarna biru dengan bercak putih"
+        },
+        {
+          "english": "small blue bird with black cheek patches.",
+          "indo": "burung biru kecil dengan bercak pipi hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0083_161462.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small bird with a grey-brown back and wings, and a light yellow belly and breast, with white markings around its eyes.",
+          "indo": "seekor burung kecil dengan punggung dan sayap berwarna abu-abu kecokelatan, serta perut dan dada berwarna kuning muda, dengan tanda putih di sekitar matanya."
+        },
+        {
+          "english": "this bird is white and black in color with a beak skinny black and dark eye rings.",
+          "indo": "Burung ini berwarna putih kehitaman dengan paruh kurus berwarna hitam dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "this bird is grey and white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a yellow belly and gray back, wings, and crown.",
+          "indo": "seekor burung kecil dengan perut kuning dan punggung, sayap, dan mahkota abu-abu."
+        },
+        {
+          "english": "this bird has a light yellow throat, belly and abdomen with black and grey wings and rectrices.",
+          "indo": "burung ini memiliki tenggorokan, perut dan perut berwarna kuning muda dengan sayap dan rectrices berwarna hitam dan abu-abu."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and brown in color, with a black beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and white",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "this is a mostly black and blue colored bird with a hint of yellow on his neck and breast.",
+          "indo": "burung ini sebagian besar berwarna hitam dan biru dengan sedikit warna kuning di leher dan dadanya."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0085_161621.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has black crown, back, white belly and breast, wings, throat, black tarsus and feet",
+          "indo": "burung ini mempunyai mahkota, punggung, perut dan dada berwarna putih, sayap, tenggorokan, tarsus dan kaki berwarna hitam"
+        },
+        {
+          "english": "a small bird with black on its face, a white belly, and blue back.",
+          "indo": "seekor burung kecil dengan muka hitam, perut putih, dan punggung biru."
+        },
+        {
+          "english": "the bird has a white chest with a black throat and a blue body.",
+          "indo": "burung itu memiliki dada berwarna putih dengan tenggorokan hitam dan tubuh berwarna biru."
+        },
+        {
+          "english": "the bird has a white breast and belly and a black throat.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly, black throat and a blue head and back.",
+          "indo": "burung ini memiliki perut berwarna putih, tenggorokan berwarna hitam, serta kepala dan punggung berwarna biru."
+        },
+        {
+          "english": "this bird is blue with black and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan hitam putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "an angry looking bird with black feathers, a white underbelly and small black feet.",
+          "indo": "seekor burung yang tampak marah dengan bulu hitam, perut bagian bawah berwarna putih, dan kaki kecil berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray with a black throat",
+          "indo": "burung ini memiliki perut berwarna putih abu-abu dengan tenggorokan berwarna hitam"
+        },
+        {
+          "english": "a small bird with a white chest, black throat, blue and black crown and back with black wings with a white bar.",
+          "indo": "burung kecil berdada putih, tenggorokan hitam, mahkota biru hitam, dan punggung bersayap hitam bergaris putih."
+        },
+        {
+          "english": "this bird has a long pointed dark blue bill with blue and dirty white head feathers and black markings under the eyes with white belly.",
+          "indo": "burung ini mempunyai paruh panjang runcing berwarna biru tua dengan bulu kepala berwarna biru dan putih kotor serta tanda hitam di bawah mata dengan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0086_161716.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this is a plump gray bird with a white belly and small sharp bill.",
+          "indo": "ini adalah burung abu-abu gempal dengan perut putih dan paruh kecil yang tajam."
+        },
+        {
+          "english": "this is a black and white bird with small black feet and white on the belly",
+          "indo": "ini adalah burung berwarna hitam putih dengan kaki kecil berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "a large bird with a blue back, white wingbar, white breast with black sides, white belly, and a black bill.",
+          "indo": "burung besar dengan punggung biru, garis sayap putih, dada putih dengan sisi hitam, perut putih, dan paruh hitam."
+        },
+        {
+          "english": "thisï¿½ï¿½smallï¿½ï¿½birdï¿½ï¿½hasï¿½ï¿½aï¿½ï¿½whiteï¿½ï¿½belly,ï¿½ï¿½blackï¿½ï¿½body,ï¿½ï¿½andï¿½ï¿½veryï¿½ï¿½shortï¿½ï¿½bill.",
+          "indo": "burung kecil ini mempunyai perut berwarna putih, badan berwarna hitam, dan paruh sangat pendek."
+        },
+        {
+          "english": "this bird has a black head while its belly is white, and its wings are brown with a white stripe.",
+          "indo": "burung ini mempunyai kepala berwarna hitam sedangkan perutnya berwarna putih, dan sayapnya berwarna coklat dengan garis putih."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black face, white breast, and grey coverts.",
+          "indo": "burung ini mempunyai muka berwarna hitam, dada berwarna putih, dan bulu berwarna abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "a small headed bird with a white belly and grey head.",
+          "indo": "seekor burung berkepala kecil dengan perut putih dan kepala abu-abu."
+        },
+        {
+          "english": "this bird has a grey back, with a white breast.",
+          "indo": "burung ini memiliki punggung berwarna abu-abu, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0090_161507.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the black and white bird has black wings with white wing bars, white belly and breast, black bill",
+          "indo": "burung hitam putih mempunyai sayap hitam dengan garis sayap putih, perut dan dada putih, paruh hitam"
+        },
+        {
+          "english": "a small round bird with a white belly, gray wings, a black face and a short black beak.",
+          "indo": "burung bulat kecil dengan perut putih, sayap abu-abu, muka hitam dan paruh pendek hitam."
+        },
+        {
+          "english": "this colorful bird has a white breast and belly, black throat, and blue nape and crown.",
+          "indo": "burung berwarna-warni ini memiliki dada dan perut berwarna putih, tenggorokan berwarna hitam, serta tengkuk dan mahkota berwarna biru."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan sayap berwarna hitam."
+        },
+        {
+          "english": "bird with gray beak that is sharp and pointed, white breast, belly and abdomen, and gray feet",
+          "indo": "burung dengan paruh berwarna abu-abu yang runcing dan runcing, dada, perut dan perut berwarna putih, serta kaki berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white with blue and has a very short beak.",
+          "indo": "burung ini berwarna putih biru dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this colorful little bird has white breast and belly black bill black and white side",
+          "indo": "Burung kecil berwarna-warni ini memiliki dada berwarna putih dan paruh hitam di bagian perut dan sisi hitam putih"
+        },
+        {
+          "english": "this bird has a large white belly, a black throat, crown, and nape, and short rectrices.",
+          "indo": "burung ini memiliki perut besar berwarna putih, tenggorokan, mahkota, dan tengkuk berwarna hitam, serta rectrices  yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0096_161654.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a white abdomen and belly, with a black neck, crown, nape, and wing.",
+          "indo": "burung ini memiliki perut dan perut berwarna putih, dengan leher, mahkota, tengkuk, dan sayap berwarna hitam."
+        },
+        {
+          "english": "the bird has a black head and white belly with black body and white inner rectrices.",
+          "indo": "burung ini memiliki kepala hitam dan perut putih dengan tubuh hitam dan inner rectrices berwarna putih."
+        },
+        {
+          "english": "this bird has a black crown, a white breast, and a white abdomen",
+          "indo": "burung ini memiliki mahkota berwarna hitam, dada berwarna putih, dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly and breast with a black wing and white secondaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna hitam dan sayap bulu sekunder berwarna putih."
+        },
+        {
+          "english": "this bird has black and white feathers, with black ones covering his small head centered with a flat, short beak.",
+          "indo": "burung ini mempunyai bulu berwarna hitam putih, dengan bulu berwarna hitam menutupi kepala kecilnya di tengah paruh yang rata dan pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this is a bird with longer legs and made up of black blue and mostly white colors.",
+          "indo": "ini adalah burung dengan kaki lebih panjang dan terdiri dari warna hitam biru dan sebagian besar putih."
+        },
+        {
+          "english": "a small bird that has white feathers and a black head.",
+          "indo": "seekor burung kecil yang memiliki bulu berwarna putih dan kepala berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has black colored feathers, with a white under belly and a black beak.",
+          "indo": "burung ini memiliki bulu berwarna hitam, dengan perut bagian bawah berwarna putih dan paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0099_161524.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a bird with a small triangular bill, blue crown, black throat and white breast.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, mahkota biru, tenggorokan hitam, dan dada putih."
+        },
+        {
+          "english": "a small avian with a black face, blue back and wing bars, and a bright white breast and belly.",
+          "indo": "seekor burung kecil dengan muka hitam, punggung dan sayap berwarna biru, serta dada dan perut berwarna putih cerah."
+        },
+        {
+          "english": "small white bird with white belly, black on its face and a blue back.",
+          "indo": "burung kecil berwarna putih dengan perut putih, muka hitam dan punggung biru."
+        },
+        {
+          "english": "this bird has a white belly, blue back, and black face with black wingbars.",
+          "indo": "burung ini mempunyai perut berwarna putih, punggung berwarna biru, dan muka berwarna hitam dengan garis sayap berwarna hitam."
+        },
+        {
+          "english": "a small bird with sharp beak white under side, black head, small wings and tail.",
+          "indo": "burung kecil dengan paruh runcing berwarna putih di bagian bawah, kepala berwarna hitam, sayap dan ekor kecil."
+        },
+        {
+          "english": "this tiny bird is brightly colored with a blue crown, black face, blue shoulders and black and white accents on its body with a white belly.",
+          "indo": "burung mungil ini berwarna cerah dengan mahkota biru, muka hitam, bahu biru dan aksen hitam putih di badannya dengan perut putih."
+        },
+        {
+          "english": "this bird has a bright white breast, belly and abdomen that continues to the underside of the tail while light blue feathers cover the crown, nape and back.",
+          "indo": "burung ini memiliki dada, perut, dan perut berwarna putih cerah yang berlanjut hingga bagian bawah ekor, sedangkan bulu berwarna biru muda menutupi ubun-ubun, tengkuk, dan punggung."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "he bird has a striped back and a white belly that is pure.",
+          "indo": "Burung ini mempunyai punggung yang belang dan perut yang putih bersih."
+        },
+        {
+          "english": "this bird has wings that are blue and black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kehitaman dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0100_161622.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the head of the bird is black while the belly of the bird is white.",
+          "indo": "kepala burung berwarna hitam sedangkan perut burung berwarna putih."
+        },
+        {
+          "english": "this bird has a short straight bill, a light blue crown and wings, and a white belly and abdomen.",
+          "indo": "burung ini memiliki paruh pendek lurus, mahkota dan sayap berwarna biru muda, serta perut dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird mainly light blue covering its body except for the black on its face, throat side and wings, and the white on its belly breast and vent.",
+          "indo": "seekor burung kecil yang sebagian besar berwarna biru muda menutupi tubuhnya kecuali warna hitam pada muka, sisi tenggorokan dan sayapnya, serta warna putih pada dada dan lubang perutnya."
+        },
+        {
+          "english": "a black and gray bird with blue wingbars and a black throat",
+          "indo": "burung berwarna hitam dan abu-abu dengan garis sayap biru dan tenggorokan hitam"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill and blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing serta mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this small bird has a white underbelly and small, flat beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih dan paruh kecil yang rata."
+        },
+        {
+          "english": "this bird is white and gray in color, with a skinny black beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh kurus berwarna hitam."
+        },
+        {
+          "english": "this bird is white and black in color, with a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is gray and black in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a light blue crown and a black face with white abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna biru muda dan muka berwarna hitam dengan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0101_161510.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "beautiful small light blue colored bird with white belly and abdomen, black eye and cheek patch, and black wingtips and tail-tips.",
+          "indo": "burung kecil cantik berwarna biru muda dengan perut dan perut berwarna putih, penutup mata dan pipi berwarna hitam, serta ujung sayap dan ujung ekor berwarna hitam."
+        },
+        {
+          "english": "a small colorful bird with a blue head, black cheek patch, and white throat, belly and breast.",
+          "indo": "seekor burung kecil berwarna-warni dengan kepala biru, pipi hitam, dan tenggorokan, perut, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird's belly is white, with a black flank and a blue-green crown, nape, and back.",
+          "indo": "Perut burung ini berwarna putih, dengan panggul berwarna hitam dan mahkota, tengkuk, dan punggung berwarna biru kehijauan."
+        },
+        {
+          "english": "this bird has a small compact light blue body, white under belly and black cheek patch with a short skinny bill",
+          "indo": "Burung ini memiliki tubuh kecil kompak berwarna biru muda, perut bagian bawah berwarna putih, dan pipi berwarna hitam dengan paruh pendek dan kurus"
+        },
+        {
+          "english": "the light blue bird with a white belly and black secondary feathers is sitting on a rock.",
+          "indo": "burung berwarna biru muda dengan perut putih dan bulu sekunder hitam sedang duduk di atas batu."
+        },
+        {
+          "english": "this small light blue bird has a white belly and black sides.",
+          "indo": "burung kecil berwarna biru muda ini memiliki perut berwarna putih dan sisi samping berwarna hitam."
+        },
+        {
+          "english": "a small bird with rounded white belly, blue and black rectrices and a black beak with orange dots.",
+          "indo": "seekor burung kecil dengan perut bulat berwarna putih, rectrices  berwarna biru dan hitam, serta paruh hitam dengan titik-titik oranye."
+        },
+        {
+          "english": "this small bird features a light blue crown, white breast and belly, and a distinctive black cheek patch.",
+          "indo": "burung kecil ini memiliki mahkota berwarna biru muda, dada dan perut berwarna putih, serta bercak hitam di pipi yang khas."
+        },
+        {
+          "english": "this bird has wings that are blue and black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kehitaman dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "small bird with white chest and belly, beak is flat and pointed while its crown and back are gray and wings are black and gray with white bar.",
+          "indo": "burung kecil dengan dada dan perut berwarna putih, paruh rata dan runcing, mahkota dan punggung berwarna abu-abu, sayap berwarna hitam abu-abu dengan garis putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0102_161161.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has a turquoise exterior and black wings, it also has very thin legs",
+          "indo": "burung ini memiliki eksterior berwarna pirus dan sayap berwarna hitam, serta memiliki kaki yang sangat tipis"
+        },
+        {
+          "english": "bird has blue body feathers,yellow breast feather, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna biru, bulu dada berwarna kuning, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has a short black bill, a blue crown, and brown tarsus and feet.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, mahkota berwarna biru, serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "this small bird has a white belly and breast, a black throat and cheek patch, a blue crown, nape and back and a single white wingbar.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, tenggorokan dan pipi berwarna hitam, mahkota, tengkuk dan punggung berwarna biru, serta satu garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is black, blue, and white in color with a small beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam, biru, dan putih dengan paruh kecil, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and blue secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna biru"
+        },
+        {
+          "english": "this bird has a long bill, a dark blue crown and back, black throat, with white belly and side.",
+          "indo": "burung ini memiliki paruh yang panjang, mahkota dan punggung berwarna biru tua, tenggorokan berwarna hitam, perut dan samping berwarna putih."
+        },
+        {
+          "english": "this bird has a white underside and a black face.",
+          "indo": "burung ini memiliki bagian bawah berwarna putih dan muka berwarna hitam."
+        },
+        {
+          "english": "this bird is mostly blue black and white with white on its tail..",
+          "indo": "burung ini kebanyakan berwarna biru hitam putih dengan warna putih pada ekornya.."
+        },
+        {
+          "english": "this bird has blue markings on it's back, with a black face and white belly.",
+          "indo": "burung ini memiliki corak biru di punggungnya, dengan muka hitam dan perut putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0104_161686.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird is blue with a white under belly and pointed beak.",
+          "indo": "burung itu berwarna biru dengan perut bagian bawah berwarna putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has blue grey wings with white wing bars, a white breast and a pointed black beak.",
+          "indo": "burung ini mempunyai sayap berwarna biru abu-abu dengan garis sayap berwarna putih, dada berwarna putih, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this is a blue bird with a white belly and a pointy black beak.",
+          "indo": "ini adalah burung berwarna biru dengan perut putih dan paruh hitam runcing."
+        },
+        {
+          "english": "a medium sized bird with a complete blue and black body and a black bill.",
+          "indo": "burung berukuran sedang dengan tubuh lengkap berwarna biru hitam dan paruh berwarna hitam."
+        },
+        {
+          "english": "a small blue bird with a black neck and sharp pointed black beak.",
+          "indo": "seekor burung kecil berwarna biru dengan leher hitam dan paruh hitam runcing tajam."
+        },
+        {
+          "english": "the bird is dark black in color and has an elongated body shape.",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai bentuk tubuh memanjang."
+        },
+        {
+          "english": "the color of the bird is blue with a black tipped tail.",
+          "indo": "warna burungnya biru dengan ekor berujung hitam."
+        },
+        {
+          "english": "this bird is blue with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a blue crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna biru dan perut berwarna putih"
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, blue and black wings with a black cheek patch.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna biru dan hitam dengan bercak pipi berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0106_161523.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small bird has blue feathers on top of its head and wings, a white belly and short legs.",
+          "indo": "burung kecil ini memiliki bulu berwarna biru di atas kepala dan sayapnya, perut berwarna putih dan kaki pendek."
+        },
+        {
+          "english": "this small black bird has a short black beak.",
+          "indo": "burung hitam kecil ini memiliki paruh pendek berwarna hitam."
+        },
+        {
+          "english": "a small bird with a narrow, small pointed beak and black eyes covered in dark blue, black and white feathers with white wing bars on its black wings.",
+          "indo": "burung kecil dengan paruh sempit, runcing kecil, dan mata hitam ditutupi bulu berwarna biru tua, hitam dan putih dengan garis sayap putih pada sayap hitamnya."
+        },
+        {
+          "english": "this tiny bird has a short bill with a soft blue crown that extends along the back of its body, with a white breast.",
+          "indo": "Burung mungil ini memiliki paruh pendek dengan mahkota berwarna biru lembut yang memanjang di sepanjang bagian belakang tubuhnya, dengan dada berwarna putih."
+        },
+        {
+          "english": "this is a small bird with a white breast, black head and a blue wing and head.",
+          "indo": "ini adalah burung kecil dengan dada putih, kepala hitam dan sayap serta kepala biru."
+        },
+        {
+          "english": "this bird is blue with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a belly that is white with black sides",
+          "indo": "burung ini memiliki perut yang berwarna putih dengan sisi berwarna hitam"
+        },
+        {
+          "english": "this bird has an array of colors which are most dark which makes the white stand out, short bill big eyes and long thin feet.",
+          "indo": "Burung ini mempunyai rangkaian warna paling gelap yang membuat warna putihnya menonjol, paruhnya pendek, matanya besar, dan kakinya panjang dan tipis."
+        },
+        {
+          "english": "this small bird is covered in black, white, and teal feathers with a short beak and dark eyes.",
+          "indo": "burung kecil ini ditutupi bulu berwarna hitam, putih, dan biru kehijauan dengan paruh pendek dan mata berwarna gelap."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0107_161214.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this smaller bird has a white belly and breast, with a black superciliary mask.",
+          "indo": "burung yang lebih kecil ini memiliki perut dan dada berwarna putih, dengan topeng superciliary berwarna hitam."
+        },
+        {
+          "english": "bird has gray body feathers, white breast feather, and thin beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna putih, dan paruh tipis"
+        },
+        {
+          "english": "a small bird that is brown and white with a brown bill",
+          "indo": "seekor burung kecil berwarna coklat putih dengan paruh berwarna coklat"
+        },
+        {
+          "english": "the bird has a greyish side, back and nap, with a creamy belly and abdomen.",
+          "indo": "burung ini memiliki sisi, punggung dan tidur siang berwarna keabu-abuan, dengan perut dan perut berwarna krem."
+        },
+        {
+          "english": "this black, white, and gray bird has a straight pointed beak.",
+          "indo": "burung berwarna hitam, putih, dan abu-abu ini memiliki paruh yang lurus dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a white breast, a black cheek patch that extends down its side, and light gray secondaries.",
+          "indo": "burung kecil ini memiliki dada berwarna putih, bercak hitam di pipi yang memanjang ke bawah, dan bulu sekunder berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has a cream colored belly and breast, with a black head.",
+          "indo": "burung ini memiliki perut dan dada berwarna krem, dengan kepala berwarna hitam."
+        },
+        {
+          "english": "a small bird with white belly, gray crown and black throat.",
+          "indo": "seekor burung kecil dengan perut putih, mahkota abu-abu dan tenggorokan hitam."
+        },
+        {
+          "english": "this bird has a white belly, white breast, and a pointed black bill.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berwarna putih, dan paruh berwarna hitam runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0108_161714.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a blue bird with black eyerings and a white breast.",
+          "indo": "seekor burung biru dengan cincin mata hitam dan dada putih."
+        },
+        {
+          "english": "a smaller bird with a deep blue color on the top of its body, with a black face, and a black and white under belly.",
+          "indo": "burung yang lebih kecil dengan warna biru tua di bagian atas tubuhnya, dengan muka hitam, dan perut bagian bawah berwarna hitam putih."
+        },
+        {
+          "english": "this bird is black with white on its belly and a black beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird is blue on it's back, has white malar stripe, and white wingbars.",
+          "indo": "burung itu berwarna biru di punggungnya, mempunyai garis malar putih, dan garis sayap putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a blue crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan sayap berwarna biru."
+        },
+        {
+          "english": "this small bird has a blue crown, blue back and black wings with blue streaks and a white spot.",
+          "indo": "burung kecil ini memiliki mahkota berwarna biru, punggung berwarna biru, dan sayap berwarna hitam dengan guratan biru serta bintik putih."
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a black bill with blue crown and white belly.",
+          "indo": "burung ini mempunyai paruh berwarna hitam dengan mahkota berwarna biru dan perut berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0109_161635.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a beady eyering that is black and small bill.",
+          "indo": "burung itu mempunyai cincin mata berbentuk manik-manik yang berwarna hitam dan paruhnya kecil."
+        },
+        {
+          "english": "this bird has a white breast, black cheek patch, blue coverts and black secondaries with blue edges.",
+          "indo": "burung ini mempunyai dada berwarna putih, bercak pipi hitam, bulu berwarna biru dan bulu sekunder berwarna hitam dengan tepi berwarna biru."
+        },
+        {
+          "english": "a medium sized bird with a long narrow beak, that is covered in predominantly black feathers except for its breast and throat which is black and withe.",
+          "indo": "burung berukuran sedang dengan paruh panjang dan sempit, sebagian besar bulunya berwarna hitam kecuali bagian dada dan tenggorokannya yang berwarna hitam layu."
+        },
+        {
+          "english": "this black and white bird has a long beak that is more pointy than blunt and white extending down into the breast.",
+          "indo": "burung berwarna hitam putih ini mempunyai paruh panjang yang lebih runcing dibandingkan tumpul dan berwarna putih menjulur hingga ke dada."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a bill that curves downwards and black eyes",
+          "indo": "seekor burung besar dengan paruh melengkung ke bawah dan bermata hitam"
+        },
+        {
+          "english": "this bird is black with some white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan sedikit putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium size bird with a black head and pointed beak.",
+          "indo": "burung berukuran sedang dengan kepala hitam dan paruh runcing."
+        },
+        {
+          "english": "a large bird with black coloring and a pointed beak.",
+          "indo": "seekor burung besar dengan warna hitam dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0110_161726.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has sharp and pointed beak, with black throat, crown and nape, white breast and belly.",
+          "indo": "Burung ini mempunyai paruh yang runcing dan runcing, tenggorokan berwarna hitam, ubun-ubun dan tengkuk, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this is a very small bird which is mostly black on the top with a very dark head, and white on its belly.",
+          "indo": "ini adalah burung yang sangat kecil yang sebagian besar berwarna hitam di bagian atas dengan kepala yang sangat gelap, dan berwarna putih di bagian perutnya."
+        },
+        {
+          "english": "this small bird contains a black head, neck, throat, wings and tail, and a white throat, underbelly and tarsus.",
+          "indo": "Burung kecil ini memiliki kepala, leher, tenggorokan, sayap dan ekor berwarna hitam, serta tenggorokan, perut, dan tarsus berwarna putih."
+        },
+        {
+          "english": "a bird with a small pointed bill white breast and blue crown.",
+          "indo": "seekor burung dengan paruh kecil runcing, dada berwarna putih, dan mahkota berwarna biru."
+        },
+        {
+          "english": "this bird has a white belly with black wings and head and a small black beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap dan kepala berwarna hitam serta paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and black bill",
+          "indo": "burung ini memiliki perut berwarna putih dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is green with white and has a very short beak.",
+          "indo": "burung ini berwarna hijau dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is white and black in color, with a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is black and white in color, and has a black beak.",
+          "indo": "burung ini berwarna hitam putih, dan mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0111_161615.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this small bird has a steel grey head and back, a black cheek patch and sides, an elongated, somewhat curved black bill, and a snowy white breast and belly.",
+          "indo": "burung kecil ini memiliki kepala dan punggung berwarna abu-abu baja, pipi dan samping berwarna hitam, paruh hitam memanjang agak melengkung, serta dada dan perut berwarna putih salju."
+        },
+        {
+          "english": "the breast of the bird is white with a grey crown and black face with sharp black bill.",
+          "indo": "dada burung berwarna putih dengan mahkota berwarna abu-abu dan muka berwarna hitam dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this small bird has a black head and wings and a white belly, the beak is long, slender and pointed.",
+          "indo": "burung kecil ini mempunyai kepala dan sayap berwarna hitam serta perut berwarna putih, paruhnya panjang, ramping dan runcing."
+        },
+        {
+          "english": "this is a small bird with a white breast, blue crown, and black cheek patches.",
+          "indo": "ini adalah burung kecil dengan dada berwarna putih, mahkota biru, dan bercak pipi hitam."
+        },
+        {
+          "english": "white bird with black head and wings. black bill.",
+          "indo": "burung putih dengan kepala dan sayap hitam. paruh hitam."
+        },
+        {
+          "english": "this small bird contains a black face and thraot, a grey head nape and coverts, and a pure white breast and belly.",
+          "indo": "Burung kecil ini mempunyai muka dan tenggorokan berwarna hitam, tengkuk dan bulu kepala berwarna abu-abu, serta dada dan perut berwarna putih bersih."
+        },
+        {
+          "english": "this small bird has a slate grey back and hood, a black face and coverts, white breast and a pointy black bill.",
+          "indo": "burung kecil ini memiliki punggung dan tudung berwarna abu-abu, muka dan bulu berwarna hitam, dada berwarna putih, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and has black secondaries",
+          "indo": "burung ini memiliki perut yang berwarna putih dan memiliki bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird has a short pointed black bill with a black crown and a white belly and breast.",
+          "indo": "burung ini mempunyai paruh pendek berwarna hitam runcing dengan mahkota berwarna hitam serta perut dan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0113_161407.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a white belly and a black back make this short-beaked bird blend in with its environment.",
+          "indo": "Perutnya yang berwarna putih dan punggungnya yang berwarna hitam membuat burung berparuh pendek ini menyatu dengan lingkungannya."
+        },
+        {
+          "english": "small white grey and black bird with medium black beak and long black tarsus",
+          "indo": "burung kecil berwarna putih abu-abu dan hitam dengan paruh hitam sedang dan tarsus hitam panjang"
+        },
+        {
+          "english": "the bird has a white colored abdomen as well as breast, but has a distinct black colored head starting from its throat to its bill.",
+          "indo": "Burung ini memiliki perut dan dada berwarna putih, namun memiliki kepala berwarna hitam yang khas mulai dari tenggorokan hingga paruhnya."
+        },
+        {
+          "english": "this bird has an all white belly and a black head with grey eyebrows.",
+          "indo": "burung ini memiliki perut serba putih dan kepala berwarna hitam dengan alis berwarna abu-abu."
+        },
+        {
+          "english": "this small bird features a white underside and glossy blue topside with small beady eyes.",
+          "indo": "burung kecil ini memiliki bagian bawah berwarna putih dan bagian atas berwarna biru mengkilap dengan mata manik-manik kecil."
+        },
+        {
+          "english": "a medium sized bird with a black cheek patch, and a small bill",
+          "indo": "burung berukuran sedang dengan bercak hitam di pipi, dan paruh kecil"
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a small white underside and black wings and head.",
+          "indo": "burung ini memiliki bagian bawah kecil berwarna putih dan sayap serta kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly with a grey nape and a black cheeek patch.",
+          "indo": "burung ini memiliki perut berwarna putih dengan tengkuk berwarna abu-abu dan bercak pipi berwarna hitam."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0119_161416.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small round black bird with a white breast, a small head and a small black beak.",
+          "indo": "seekor burung hitam bulat kecil dengan dada putih, kepala kecil dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this small, sturdy bird has a dark blue crown, back,and wings with a white breast, white wingbars, and a narrow pointed black beak.",
+          "indo": "burung kecil kokoh ini memiliki mahkota, punggung, dan sayap berwarna biru tua dengan dada berwarna putih, garis sayap berwarna putih, dan paruh sempit berwarna hitam."
+        },
+        {
+          "english": "this is a small birth with a dark blue head and back and a white belly.",
+          "indo": "ini adalah kelahiran kecil dengan kepala dan punggung berwarna biru tua dan perut berwarna putih."
+        },
+        {
+          "english": "this small, black and white bird features a narrow, elongated beak.",
+          "indo": "burung kecil berwarna hitam putih ini memiliki paruh yang sempit dan memanjang."
+        },
+        {
+          "english": "a small bird white all over its ventral side and black all over its dorsal side.",
+          "indo": "seekor burung kecil berwarna putih di seluruh sisi perutnya dan hitam di seluruh sisi punggungnya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this is a small bird with a black face wing and tail and a white belly.",
+          "indo": "ini adalah burung kecil dengan sayap dan ekor berwajah hitam serta perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white breast, rounded head and pointed beak.",
+          "indo": "burung ini mempunyai dada berwarna putih, kepala bulat dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a bird with white belly, breast, and black crown and the bill is black and pointed",
+          "indo": "burung yang perut, dada, dan mahkotanya berwarna putih, serta paruhnya berwarna hitam dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0121_161418.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a white belly and black feathers over the rest of its body, and its bill is short and sharp.",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu hitam di seluruh tubuhnya, serta paruhnya pendek dan tajam."
+        },
+        {
+          "english": "a small bird with a black beak, black wings, and a white belly.",
+          "indo": "seekor burung kecil dengan paruh hitam, sayap hitam, dan perut putih."
+        },
+        {
+          "english": "this bird has black covering its head, throat, back and wings, and white on its breast, belly and vent.",
+          "indo": "burung ini mempunyai warna hitam pada bagian kepala, tenggorokan, punggung dan sayap, serta warna putih pada bagian dada, perut dan lubang kloaka."
+        },
+        {
+          "english": "a small bird with a black crown and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan mahkota hitam dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this smaller bird has long legs, a white abdomen and a black back, wings, and head.",
+          "indo": "burung yang lebih kecil ini memiliki kaki yang panjang, perut berwarna putih dan punggung, sayap, dan kepala berwarna hitam."
+        },
+        {
+          "english": "a bird with a white belly and a black head and wings.",
+          "indo": "seekor burung dengan perut putih dan kepala serta sayap hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has a white breast, black throat and black bill that is small.",
+          "indo": "burung ini memiliki dada berwarna putih, tenggorokan berwarna hitam, dan paruh berwarna hitam yang berukuran kecil."
+        },
+        {
+          "english": "this bird is white and black in color, with a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0123_161542.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this is a blue bird with black cheek patches and black and white streaks on its wings.",
+          "indo": "ini adalah burung berwarna biru dengan bercak hitam di pipi dan guratan hitam putih di sayapnya."
+        },
+        {
+          "english": "this bird is black with white on its wings and belly and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada sayap dan perutnya serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird predominantly covered in black feathers with a white covert, and white belly and breast.",
+          "indo": "seekor burung kecil yang sebagian besar ditutupi bulu hitam dengan bulu putih, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "a very small bird, mostly black with some white.",
+          "indo": "seekor burung yang sangat kecil, sebagian besar berwarna hitam dan sebagian berwarna putih."
+        },
+        {
+          "english": "bird is small, dark blue on top of body, white on the bottom with wings that are blue and black with a white spot on the leading edge. also has a black mask over face that runs over eyes and under beak.",
+          "indo": "Burung ini berukuran kecil, badan bagian atas berwarna biru tua, bagian bawah berwarna putih, sayap berwarna biru kehitaman dengan bintik putih di bagian tepi depan. juga memiliki topeng hitam di wajah yang menutupi mata dan di bawah paruh."
+        },
+        {
+          "english": "this bird has wings that are black and has a small black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh kecil berwarna hitam"
+        },
+        {
+          "english": "this bird has a blue crown, black face, downward pointing beak and is small.",
+          "indo": "burung ini mempunyai mahkota berwarna biru, muka berwarna hitam, paruh mengarah ke bawah dan berukuran kecil."
+        },
+        {
+          "english": "a very small bird consisting of dark blue and white feathers and a dark beak.",
+          "indo": "seekor burung yang sangat kecil yang terdiri dari bulu berwarna biru tua dan putih serta paruh berwarna gelap."
+        },
+        {
+          "english": "a small bird with a blue crown, and black eyes",
+          "indo": "seekor burung kecil dengan mahkota biru, dan mata hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0126_161724.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has white belly and breasts, black crown and back, black tarsus and feet",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, mahkota dan punggung berwarna hitam, tarsus dan kaki berwarna hitam"
+        },
+        {
+          "english": "a bird with a thick and large white belly compared to its head, with a thick black nape.",
+          "indo": "burung dengan perut berwarna putih tebal dan besar dibandingkan kepalanya, dengan tengkuk berwarna hitam tebal."
+        },
+        {
+          "english": "this bird has an overall round shape with a gray crown and back, and a white abdomen.",
+          "indo": "burung ini mempunyai bentuk keseluruhan bulat dengan mahkota dan punggung berwarna abu-abu, serta perut berwarna putih."
+        },
+        {
+          "english": "this bird is shaped like an apple and is gray at the upper back and white nearest the belly",
+          "indo": "Burung ini berbentuk seperti buah apel, berwarna abu-abu di punggung atas dan putih paling dekat dengan perut"
+        },
+        {
+          "english": "this cute dark grey bird has a very plump white belly and it's beak is very sharp with a small head.",
+          "indo": "Burung lucu berwarna abu-abu tua ini memiliki perut berwarna putih yang sangat gempal dan paruhnya sangat runcing dengan kepala yang kecil."
+        },
+        {
+          "english": "this small bird has a white belly, black wings and back and white wingbars.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, sayap dan punggung berwarna hitam, serta garis sayap berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white with black sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan sisi berwarna hitam"
+        },
+        {
+          "english": "this bird is white and black in color, and has a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly and the rest is mostly black, there are patches of white on it's wingbars and side.",
+          "indo": "burung ini perutnya berwarna putih dan selebihnya sebagian besar berwarna hitam, terdapat bercak putih pada bagian sayap dan sampingnya."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0127_161176.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this black and white bird is mostly black with a white breast, belly, and undertail coverts.",
+          "indo": "burung berwarna hitam putih ini sebagian besar berwarna hitam dengan bulu dada, perut, dan ekor bagian bawah berwarna putih."
+        },
+        {
+          "english": "a black feathered bird with a white belly and a small narrow beak.",
+          "indo": "burung berbulu hitam dengan perut putih dan paruh kecil sempit."
+        },
+        {
+          "english": "this bird is black with a white belly, white undertail coverts; its head and neck are all black, eye is brown and the beak is grey and narrow.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih, bulu penutup bagian bawah berwarna putih; kepala dan lehernya semuanya berwarna hitam, matanya berwarna coklat, dan paruhnya berwarna abu-abu dan sempit."
+        },
+        {
+          "english": "the bird has a white belly, black head and short, pointy bill.",
+          "indo": "burung ini memiliki perut berwarna putih, kepala berwarna hitam, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is black everywhere with a solid white belly, abdomen, and breast.",
+          "indo": "burung ini berwarna hitam dimana-mana dengan perut, perut, dan dada berwarna putih solid."
+        },
+        {
+          "english": "this particular bird has a white belly and breast and black secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a white belly and breast and black head.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna putih serta kepala berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0128_161708.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has black throat, blue crown, white breast and belly, and brown tarsus and feet.",
+          "indo": "burung ini memiliki tenggorokan berwarna hitam, mahkota berwarna biru, dada dan perut berwarna putih, serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird is extremely small in size, with an all black beak, gray-blue back feathers and an all white belly.",
+          "indo": "burung ini berukuran sangat kecil, dengan paruh serba hitam, bulu punggung berwarna abu-abu kebiruan, dan perut serba putih."
+        },
+        {
+          "english": "the bird has a blue body with a white belly and a black face.",
+          "indo": "burung tersebut berbadan biru dengan perut berwarna putih dan muka berwarna hitam."
+        },
+        {
+          "english": "this small puffy bird has a white breast and a blue back.",
+          "indo": "burung menggembung kecil ini memiliki dada berwarna putih dan punggung berwarna biru."
+        },
+        {
+          "english": "this bird has a blue crown, a black cheek patch, and a white breast",
+          "indo": "burung ini memiliki mahkota berwarna biru, pipi berwarna hitam, dan dada berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and has a black and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna hitam putih"
+        },
+        {
+          "english": "small bird with black throat and cheek patch with bluish crown and back.",
+          "indo": "burung kecil dengan tenggorokan hitam dan bercak pipi dengan mahkota dan punggung kebiruan."
+        },
+        {
+          "english": "this bird has grey on its back and white on its stomach.",
+          "indo": "burung ini mempunyai warna abu-abu pada punggungnya dan putih pada perutnya."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan sisi berwarna hitam"
+        },
+        {
+          "english": "this bird is blue with white and has a very short beak.",
+          "indo": "burung ini berwarna biru putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0129_161399.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "a small bird with a white breast and dark blue body with black around the eye.",
+          "indo": "burung kecil dengan dada berwarna putih dan badan berwarna biru tua dengan sekeliling mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with black feathers, white wingbars, and white belly and sides.",
+          "indo": "seekor burung kecil dengan bulu hitam, garis sayap putih, dan perut serta samping berwarna putih."
+        },
+        {
+          "english": "this small bird is black with a white underbelly.",
+          "indo": "burung kecil ini berwarna hitam dengan perut berwarna putih."
+        },
+        {
+          "english": "this is a small blue bird with a white belly and a black pointy beak.",
+          "indo": "ini adalah burung kecil berwarna biru dengan perut putih dan paruh runcing hitam."
+        },
+        {
+          "english": "a small bird with a black face and throat, a blue-black irridescent crown, nape, and back, and a white breast and abdomen.",
+          "indo": "seekor burung kecil dengan muka dan tenggorokan berwarna hitam, mahkota, tengkuk, dan punggung berwarna biru kehitaman, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this is a very vibrant blue bird with a white underbelly, from its chest to its tail. has almost hair spiking out of its back and has very round black eyes.",
+          "indo": "ini adalah burung biru yang sangat cerah dengan perut berwarna putih, dari dada hingga ekornya. memiliki rambut yang hampir menjulur dari punggungnya dan memiliki mata hitam yang sangat bulat."
+        },
+        {
+          "english": "small, skinny bird with black eyes, white breast area and blue/gray coverts.",
+          "indo": "burung kecil kurus dengan mata hitam, area dada putih dan bulu biru/abu-abu."
+        },
+        {
+          "english": "a small colorful bird with, with a small head and longer tail.",
+          "indo": "seekor burung kecil berwarna-warni dengan kepala kecil dan ekor lebih panjang."
+        },
+        {
+          "english": "this bird has a blue crown, blue primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, pendahuluan berwarna biru, dan perut berwarna putih."
+        },
+        {
+          "english": "a small black and white bird with a wide striped tail, small wings, gray feet, a white belly, and pointed beak.",
+          "indo": "burung kecil berwarna hitam putih dengan ekor bergaris lebar, sayap kecil, kaki berwarna abu-abu, perut berwarna putih, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0130_161682.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this bird has white belly and breast, black back, eyebrow,throat, bill and black feet",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih, punggung berwarna hitam, alis, tenggorokan, paruh dan kaki berwarna hitam"
+        },
+        {
+          "english": "the small bird has a round grey body with a white belly and skinny tarsus.",
+          "indo": "burung kecil ini memiliki tubuh bulat berwarna abu-abu dengan perut berwarna putih dan tarsus kurus."
+        },
+        {
+          "english": "the bird has a white belly, abdomen and vent with it's head, nape and coverts covered in black feathers.",
+          "indo": "burung ini memiliki perut, perut, dan lubang kloaka berwarna putih dengan kepala, tengkuk, dan bulu yang ditutupi bulu hitam."
+        },
+        {
+          "english": "a short fat bird with a white belly an short pointy bill",
+          "indo": "burung pendek gemuk dengan perut putih dan paruh pendek runcing"
+        },
+        {
+          "english": "a small bird with a black head and wings, and a white belly.",
+          "indo": "seekor burung kecil dengan kepala dan sayap hitam, dan perut putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and black",
+          "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+        },
+        {
+          "english": "a small bird with a white belly and black breast, head, and wings.",
+          "indo": "seekor burung kecil dengan perut putih dan dada, kepala, dan sayap hitam."
+        },
+        {
+          "english": "the bill of the bird is tiny, black and pointed, and the feet of the bird are black.",
+          "indo": "paruh burung kecil, hitam dan runcing, dan kaki burung berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan sisi berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0133_161539.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "small green bird with blue tail feathers and short sharp black beak",
+          "indo": "burung kecil berwarna hijau dengan bulu ekor biru dan paruh pendek berwarna hitam tajam"
+        },
+        {
+          "english": "this small green and black bird has black and pointed bill with tiny tarsus and feet.",
+          "indo": "burung kecil berwarna hijau dan hitam ini memiliki paruh hitam dan runcing dengan tarsus dan kaki kecil."
+        },
+        {
+          "english": "this bird is green with a black tail and some random white spots.",
+          "indo": "burung ini berwarna hijau dengan ekor berwarna hitam dan beberapa bintik putih acak."
+        },
+        {
+          "english": "this bird is black in color with a sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a green head, nape, and coverts, black and green coverts, black inner and outer rectrices, and a white eye ring.",
+          "indo": "seekor burung kecil dengan kepala, tengkuk, dan bulu berwarna hijau, bulu hitam dan hijau, rectrices inner dan outer rectrices berwarna hitam, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this tiny bird is dark green with black wings and tail.",
+          "indo": "burung mungil ini berwarna hijau tua dengan sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a short, sharp bill and a white eyering.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh yang pendek dan tajam serta cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a small black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh kecil berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0136_161400.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "this is a blue bird with cream-colored belly and a short blue bill.",
+          "indo": "ini adalah burung biru dengan perut berwarna krem ​​​​dan paruh pendek berwarna biru."
+        },
+        {
+          "english": "this bird has a blue head, back, wings, and bill and a white belly that is mixed with some blue feathers.",
+          "indo": "burung ini memiliki kepala, punggung, sayap, dan paruh berwarna biru serta perut berwarna putih bercampur dengan beberapa bulu berwarna biru."
+        },
+        {
+          "english": "this bird has a white throat, belly and tarsus along with a blue head, neck and back.",
+          "indo": "burung ini memiliki tenggorokan, perut dan tarsus berwarna putih serta kepala, leher dan punggung berwarna biru."
+        },
+        {
+          "english": "this bird is blue with white on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna biru dengan perut berwarna putih dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a white belly, blue nape and back, light crown, and dark blue face.",
+          "indo": "burung kecil dengan perut putih, tengkuk dan punggung biru, mahkota terang, dan muka biru tua."
+        },
+        {
+          "english": "this is a small bird with a bright blue head, blue eyes, blue beak and white belly.",
+          "indo": "ini adalah burung kecil dengan kepala biru cerah, mata biru, paruh biru dan perut putih."
+        },
+        {
+          "english": "a colorful blue bird with a white breast and belly.",
+          "indo": "seekor burung biru berwarna-warni dengan dada dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a blue head and nape with a white breast.",
+          "indo": "seekor burung dengan kepala biru dan tengkuk dengan dada putih."
+        },
+        {
+          "english": "this is a blur bird with a white breast, belly and abdomen and a black throat and beak.",
+          "indo": "ini adalah burung buram dengan dada, perut dan perut berwarna putih serta tenggorokan dan paruh berwarna hitam."
+        },
+        {
+          "english": "a blue bird with a dark face and throat, a white breast and belly, and a short beak.",
+          "indo": "burung berwarna biru dengan muka dan tenggorokan berwarna gelap, dada dan perut berwarna putih, serta paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Black_Throated_Blue_Warbler_0137_161207.jpg",
+      "class_id": 159,
+      "captions": [
+        {
+          "english": "the bird has a black head with a white body and fanned tail.",
+          "indo": "burung tersebut memiliki kepala berwarna hitam dengan badan berwarna putih dan ekor mengipasi."
+        },
+        {
+          "english": "this bird has a white colored throat, belly and breast, and black feathers covering the rest of its body.",
+          "indo": "burung ini memiliki tenggorokan, perut dan dada berwarna putih, serta bulu hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a black and white bird with a pointed, sharp beak.",
+          "indo": "burung berwarna hitam putih dengan paruh runcing dan tajam."
+        },
+        {
+          "english": "thisï¿½ï¿½birdï¿½ï¿½hasï¿½ï¿½aï¿½ï¿½blackï¿½ï¿½body,ï¿½ï¿½whiteï¿½ï¿½belly,ï¿½ï¿½andï¿½ï¿½aï¿½ï¿½small,ï¿½ï¿½pointyï¿½ï¿½bill.",
+          "indo": "burung ini mempunyai tubuh yang hitam, perutnya yang putih, dan paruhnya yang kecil dan runcing."
+        },
+        {
+          "english": "this bird is black with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small bird with black head and short black bill, the belly is white.",
+          "indo": "burung kecil berkepala hitam dan paruh pendek berwarna hitam, perutnya berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "this bird has a white breast, white wingbars and a black crown.",
+          "indo": "burung ini memiliki dada berwarna putih, garis sayap berwarna putih, dan mahkota berwarna hitam."
+        }
+      ]
+    }
+  ]
+}

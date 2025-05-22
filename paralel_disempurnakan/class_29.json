@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Fish_Crow_0001_26031.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a small black bird with a fat black bill and wide black tarsus.",
+          "indo": "seekor burung hitam kecil dengan paruh hitam gemuk dan tarsus hitam lebar."
+        },
+        {
+          "english": "this bird is completely black with a long blunt bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan tumpul."
+        },
+        {
+          "english": "this bird has a dark black crown, a black bill, a black belly and black feet",
+          "indo": "burung ini mempunyai mahkota berwarna hitam pekat, paruh berwarna hitam, perut berwarna hitam, dan kaki berwarna hitam"
+        },
+        {
+          "english": "this bird is completely black with a long blunt bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan tumpul."
+        },
+        {
+          "english": "this small black bird features a thick, long beak and has small, black eyes.",
+          "indo": "burung hitam kecil ini memiliki paruh yang tebal dan panjang serta memiliki mata kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is completely black and is beak is thick and pointed.",
+          "indo": "burung ini berwarna hitam pekat dan paruhnya tebal dan runcing."
+        },
+        {
+          "english": "this bird is black in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is completely black, its beak is thick and slightly curves down.",
+          "indo": "burung ini berwarna hitam pekat, paruhnya tebal dan agak melengkung ke bawah."
+        },
+        {
+          "english": "a bird with all black coloring, long black tarsus and feet, and a dully pointed bill.",
+          "indo": "seekor burung dengan warna serba hitam, tarsus dan kaki hitam panjang, serta paruh runcing kusam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0002_26072.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this large bird has shiny black feathers, a black body, and a large black beak.",
+          "indo": "burung berukuran besar ini memiliki bulu berwarna hitam mengkilat, badan berwarna hitam, dan paruh besar berwarna hitam."
+        },
+        {
+          "english": "this bird is entirely black. the bill is long and thin. the tarsus is dark black and thick.",
+          "indo": "burung ini seluruhnya berwarna hitam. paruhnya panjang dan tipis. tarsusnya berwarna hitam pekat dan tebal."
+        },
+        {
+          "english": "a large all black bird with a long curved beak, and sharp black claws.",
+          "indo": "seekor burung besar berwarna hitam dengan paruh panjang melengkung, dan cakar hitam tajam."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this medium sized bird is all black with a thick beak",
+          "indo": "burung berukuran sedang ini berwarna serba hitam dengan paruh yang tebal"
+        },
+        {
+          "english": "this bird has feathers that are black and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a large bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a medium bird with a black coloring and black beak.",
+          "indo": "burung berukuran sedang dengan warna hitam dan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0003_25970.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is nearly all black.",
+          "indo": "burung ini hampir semuanya berwarna hitam."
+        },
+        {
+          "english": "a medium black bird with a grey beak and feet.",
+          "indo": "seekor burung berwarna hitam sedang dengan paruh dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "this shiny black bird has a long beak and black eyes.",
+          "indo": "burung berwarna hitam mengkilat ini memiliki paruh panjang dan mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown and a black bill.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna hitam."
+        },
+        {
+          "english": "this black bird has a black beak and its feathers have hints of white on the edges.",
+          "indo": "burung berwarna hitam ini memiliki paruh berwarna hitam dan pada bulunya terdapat sedikit warna putih pada bagian tepinya."
+        },
+        {
+          "english": "this bird is black and has short wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dan mempunyai sayap yang pendek serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is rather has rather shaggy feathers,is black with a little blue in its wing and a small gray beak",
+          "indo": "Burung ini agak berbulu agak lebat, berwarna hitam dengan sedikit warna biru pada sayapnya dan paruh kecil berwarna abu-abu"
+        },
+        {
+          "english": "this beautiful bird is all black with a very sharp, gray peak and very dark black eyes that you can't see very well except for the sparkle.",
+          "indo": "burung cantik ini serba hitam dengan puncak abu-abu yang sangat tajam dan mata hitam yang sangat gelap sehingga Anda tidak dapat melihatnya dengan jelas kecuali kilauannya."
+        },
+        {
+          "english": "this large bird has all black feathers.",
+          "indo": "burung besar ini memiliki bulu serba hitam."
+        },
+        {
+          "english": "this bird is black with a short tail, long black legs, a small head, and a narrow curved beak.",
+          "indo": "burung ini berwarna hitam dengan ekor pendek, kaki panjang berwarna hitam, kepala kecil, dan paruh melengkung sempit."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0004_25936.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the black bird is large and has a slightly curved beak.",
+          "indo": "burung hitam berukuran besar dan paruhnya agak melengkung."
+        },
+        {
+          "english": "the bird has a black bill that is curved and a black eyering.",
+          "indo": "burung ini memiliki paruh berwarna hitam yang melengkung dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with black feet and a large pointed black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam besar dan runcing."
+        },
+        {
+          "english": "this bird is completely black with a hooked bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh bengkok."
+        },
+        {
+          "english": "a medium sized bird that is mostly black that has a medium sized bill",
+          "indo": "burung berukuran sedang yang sebagian besar berwarna hitam yang memiliki paruh berukuran sedang"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0005_25912.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the black bird is beginning to fly.",
+          "indo": "burung hitam mulai terbang."
+        },
+        {
+          "english": "a black bird with long wings, black belly and breast and the bill is short and pointed",
+          "indo": "burung berwarna hitam, sayap panjang, perut dan dada berwarna hitam, serta paruh pendek dan runcing"
+        },
+        {
+          "english": "this bird is dark in color with a wide wingspan and a long, black, curved beak.",
+          "indo": "burung ini berwarna gelap dengan rentang sayap lebar dan paruh panjang berwarna hitam melengkung."
+        },
+        {
+          "english": "a flying crow is all black, and its tail is fanned out.",
+          "indo": "seekor burung gagak terbang berwarna hitam seluruhnya, dan ekornya mengembang."
+        },
+        {
+          "english": "this bird has a long wing, a black bill, and black feet",
+          "indo": "burung ini mempunyai sayap yang panjang, paruh berwarna hitam, dan kaki berwarna hitam"
+        },
+        {
+          "english": "this larger bird has a long black beak, and an all black body.",
+          "indo": "burung yang lebih besar ini memiliki paruh hitam panjang, dan tubuh serba hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this dark colored bird has angled wings and a long pointed beak.",
+          "indo": "burung berwarna gelap ini memiliki sayap bersudut dan paruh runcing panjang."
+        },
+        {
+          "english": "this bird has a reddish/brown secondaries including dark black tarsus",
+          "indo": "burung ini mempunyai bulu sekunder berwarna kemerahan/coklat termasuk tarsus berwarna hitam tua"
+        },
+        {
+          "english": "this is a small black bird, with a large wingspan, and a thick bill.",
+          "indo": "ini adalah burung hitam kecil, dengan rentang sayap besar, dan paruh tebal."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0007_26023.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the bird has black crown, nape, throat, beak and almost fully body is covered in black, it has sharp and pointy beak.",
+          "indo": "burung ini memiliki mahkota, tengkuk, tenggorokan, paruh berwarna hitam dan hampir seluruh tubuhnya tertutup warna hitam, paruhnya runcing dan runcing."
+        },
+        {
+          "english": "this bird is completely black, including its eyes and its beak.",
+          "indo": "burung ini berwarna hitam seluruhnya, termasuk mata dan paruhnya."
+        },
+        {
+          "english": "this is a black bird with blue feathers and a large black beak.",
+          "indo": "ini adalah burung hitam dengan bulu biru dan paruh hitam besar."
+        },
+        {
+          "english": "a bird with a large pointed bill and coarse black plumage.",
+          "indo": "seekor burung dengan paruh runcing besar dan bulu hitam kasar."
+        },
+        {
+          "english": "this bird is nearly all black with a long pointy bill.",
+          "indo": "burung ini hampir seluruhnya berwarna hitam dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a dark gray bird with a blackish colored head and beak with a few teal feathers in its wing.",
+          "indo": "ini adalah burung berwarna abu-abu tua dengan kepala dan paruh berwarna kehitaman dengan sedikit bulu di sayapnya."
+        },
+        {
+          "english": "the bird has a curved black bill, a black back and a black eyering.",
+          "indo": "Burung ini memiliki paruh berwarna hitam melengkung, punggung berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "medium black bird with distinctive medium-sized sharp pointed bill.",
+          "indo": "burung berwarna hitam sedang dengan paruh runcing tajam berukuran sedang."
+        },
+        {
+          "english": "a medium sized bird, black in color, and a large tarsus.",
+          "indo": "burung berukuran sedang, berwarna hitam, dan tarsus besar."
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0010_25836.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the bird has sharp and pointy beak, and the whole body of the bird is covered in black.",
+          "indo": "Burung ini mempunyai paruh yang tajam dan runcing, serta seluruh tubuh burung tersebut diselimuti warna hitam."
+        },
+        {
+          "english": "a black medium size bird with black bill, tarsus and feet.",
+          "indo": "seekor burung hitam berukuran sedang dengan paruh, tarsus, dan kaki berwarna hitam."
+        },
+        {
+          "english": "a medium black bird with black bill, tarsus and plumage.",
+          "indo": "burung hitam sedang dengan paruh hitam, tarsus dan bulu."
+        },
+        {
+          "english": "the large dark black bird has a medium sized pointy black beak.",
+          "indo": "burung besar berwarna hitam tua memiliki paruh berwarna hitam runcing berukuran sedang."
+        },
+        {
+          "english": "the feathers of this bird are completely black.",
+          "indo": "bulu burung ini berwarna hitam seluruhnya."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0011_25866.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "medium all black bird with, a dark gray pointy bil.",
+          "indo": "burung berwarna hitam sedang dengan bil runcing abu-abu tua."
+        },
+        {
+          "english": "this is a black bird with black feet and a large black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam besar."
+        },
+        {
+          "english": "this bird is entirely black with a long, triangular shaped bill, black eyering and long black tarsus.",
+          "indo": "burung ini berwarna hitam seluruhnya dengan paruh panjang berbentuk segitiga, cincin mata berwarna hitam dan tarsus hitam panjang."
+        },
+        {
+          "english": "this bird is black with long legs and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan kaki yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium sized bird with black wings, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap hitam, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird has wings that are black with a long, bulky, black beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh yang panjang dan besar berwarna hitam"
+        },
+        {
+          "english": "a black bird with a pointed bill and wings which are a slightly different and lighter color from its body.",
+          "indo": "burung berwarna hitam dengan paruh runcing dan sayap yang warnanya sedikit berbeda dan lebih terang dari tubuhnya."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is entirely black with long legs and a long thick pointy beak.",
+          "indo": "burung ini berwarna hitam seluruhnya dengan kaki yang panjang dan paruh panjang yang tebal dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0012_25946.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is completely black with a sharp bit.",
+          "indo": "burung ini berwarna hitam pekat dengan sedikit runcing."
+        },
+        {
+          "english": "the bird has a black colored covert and rectrices as well as its crown, eyering and feet.",
+          "indo": "burung ini memiliki bulu dan rectrices berwarna hitam serta mahkota, cincin mata, dan kakinya."
+        },
+        {
+          "english": "this bird is black with long wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan sayap yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is an all black bird with beady black eyes.",
+          "indo": "ini adalah burung serba hitam dengan mata hitam seperti manik-manik."
+        },
+        {
+          "english": "a robust black bird with large black feet, long secondary wings and a large beak.",
+          "indo": "burung hitam tegap dengan kaki hitam besar, sayap bulu sekunder panjang, dan paruh besar."
+        },
+        {
+          "english": "this bird is all black with a large bill and a large eye.",
+          "indo": "burung ini serba hitam dengan paruh besar dan mata besar."
+        },
+        {
+          "english": "a medium sized solid black bird with a curved black beak.",
+          "indo": "burung hitam pekat berukuran sedang dengan paruh hitam melengkung."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this is a large black bird with large feet and legs.",
+          "indo": "ini adalah burung hitam besar dengan kaki dan tungkai yang besar."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0013_25939.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a bird with a large bill that hooks downwards and pitch black plumage covering its body.",
+          "indo": "burung dengan paruh besar yang mengait ke bawah dan bulu hitam pekat menutupi tubuhnya."
+        },
+        {
+          "english": "a solid black bird with very glossy feathers, black feet, and a thick, slightly curved, black beak.",
+          "indo": "burung berwarna hitam pekat dengan bulu sangat mengilap, kaki hitam, dan paruh hitam tebal agak melengkung."
+        },
+        {
+          "english": "this bird is completely black with a thick pointy bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang tebal dan runcing."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird is almost jet black with a black thick bill, and the bird may have a tiny portion of blue on the wings.",
+          "indo": "burung kecil ini hampir berwarna hitam legam dengan paruh hitam tebal, dan burung tersebut mungkin memiliki sedikit warna biru pada sayapnya."
+        },
+        {
+          "english": "over all color of this bird is black with a thick black and slightly down turned beak.",
+          "indo": "Secara keseluruhan warna burung ini adalah hitam dengan paruh berwarna hitam pekat dan agak mengarah ke bawah."
+        },
+        {
+          "english": "the bird has a small black bill that is curved and a black throat.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam yang melengkung dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "a small bird, completely black, with a bill that is pointed.",
+          "indo": "seekor burung kecil, berwarna hitam seluruhnya, dengan paruh yang runcing."
+        },
+        {
+          "english": "this black bird has a short pointed beak and slight blue highlights on wings.",
+          "indo": "burung hitam ini memiliki paruh pendek runcing dan sedikit sentuhan warna biru pada sayapnya."
+        },
+        {
+          "english": "a dark black bird with a black beak sitting on a post.",
+          "indo": "seekor burung hitam pekat dengan paruh hitam duduk di tiang."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0014_26041.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a bird with a shiny black coat, and thick pointed beak",
+          "indo": "seekor burung dengan bulu hitam mengkilat, dan paruh runcing tebal"
+        },
+        {
+          "english": "this bird is black in color with a black beak and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is completely black with a long blunt bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan tumpul."
+        },
+        {
+          "english": "a shiny black bird with fluffy belly and throat.",
+          "indo": "seekor burung hitam mengkilat dengan perut dan tenggorokan berbulu halus."
+        },
+        {
+          "english": "this bird has a black overall color from it's head to its feet.",
+          "indo": "burung ini mempunyai warna keseluruhan hitam dari kepala hingga kakinya."
+        },
+        {
+          "english": "a medium sized bird with a small bill that curves downwards, and black wings",
+          "indo": "burung berukuran sedang dengan paruh kecil melengkung ke bawah, dan sayap berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is all black",
+          "indo": "burung ini memiliki perut yang serba hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a dark black bird with a black pointed beak.",
+          "indo": "seekor burung hitam gelap dengan paruh runcing hitam."
+        },
+        {
+          "english": "a large black bird with a curved tip black beak.",
+          "indo": "seekor burung hitam besar dengan paruh hitam ujung melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0016_25854.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "large bird with a lack beak and all black feathers",
+          "indo": "burung besar dengan paruh kurang dan bulu serba hitam"
+        },
+        {
+          "english": "the wings are in black in color and the whole body of the bird is black in color",
+          "indo": "sayapnya berwarna hitam dan seluruh tubuh burung berwarna hitam"
+        },
+        {
+          "english": "the bird is all black, with a sharp thick bill, and smooth feathers.",
+          "indo": "burung tersebut berwarna hitam seluruhnya, dengan paruh yang tajam dan tebal, serta bulu yang halus."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this medium sized bird is all black with a long, slightly curved beak.",
+          "indo": "burung berukuran sedang ini berwarna serba hitam dengan paruh yang panjang dan agak melengkung."
+        },
+        {
+          "english": "this particular bird has a black belly and black secondaries",
+          "indo": "burung ini memiliki perut berwarna hitam dan bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is black and gray",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan abu-abu"
+        },
+        {
+          "english": "this bird is black from it's long beak to tail, including it's feet.",
+          "indo": "burung ini berwarna hitam mulai dari paruh hingga ekornya yang panjang, termasuk kakinya."
+        },
+        {
+          "english": "this bird has wings that are black and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has a black bill and body, and is rather large.",
+          "indo": "burung ini mempunyai paruh dan badan berwarna hitam, serta berukuran agak besar."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0017_26127.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this medium sized bird has all black feathers, a short, thick beak and a long, flat tail.",
+          "indo": "burung berukuran sedang ini memiliki bulu serba hitam, paruh pendek tebal, dan ekor panjang rata."
+        },
+        {
+          "english": "this bird is all black with a flat crown.",
+          "indo": "burung ini berwarna serba hitam dengan mahkota yang rata."
+        },
+        {
+          "english": "a large bird with black body and black foot tarsus and the bill is meduim and pointed",
+          "indo": "burung besar berbadan hitam dan tarsus kaki hitam serta paruhnya sedang dan runcing"
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with no other colors present and a medium sized beak.",
+          "indo": "ini adalah burung hitam tanpa warna lain dan paruh berukuran sedang."
+        },
+        {
+          "english": "this completely black bird is covered in sleek plumage, and has a long thick bill ending in a point.",
+          "indo": "burung yang benar-benar hitam ini ditutupi bulu yang halus, dan memiliki paruh panjang dan tebal yang ujungnya berujung satu."
+        },
+        {
+          "english": "this bird is covered in black feathers and has a black eye ring.",
+          "indo": "burung ini ditutupi bulu berwarna hitam dan memiliki cincin mata berwarna hitam."
+        },
+        {
+          "english": "a very dark black bird with a short neck and a long black beak.",
+          "indo": "seekor burung hitam sangat gelap dengan leher pendek dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird is black in color, and has a black beak.",
+          "indo": "burung ini berwarna hitam, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "a large black bird with a short thick bill.",
+          "indo": "seekor burung hitam besar dengan paruh pendek dan tebal."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0018_25879.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "small black bird with blue wings, long beak and long tarsus",
+          "indo": "burung hitam kecil dengan sayap biru, paruh panjang dan tarsus panjang"
+        },
+        {
+          "english": "this is a very thin bird, with gorgeous black and blue feathers, and a black beak.",
+          "indo": "ini adalah burung yang sangat kurus, dengan bulu hitam dan biru yang indah, dan paruh hitam."
+        },
+        {
+          "english": "a small bird with a long pointed bill and black feathers covering its entire body except for the blue feathers blending in with the black on its nape and breast.",
+          "indo": "burung kecil dengan paruh panjang runcing dan bulu hitam menutupi seluruh tubuhnya kecuali bulu biru menyatu dengan warna hitam di tengkuk dan dada."
+        },
+        {
+          "english": "this bird has an iridescent blue color and long pointy bill.",
+          "indo": "burung ini mempunyai warna biru cerah dan paruh runcing panjang."
+        },
+        {
+          "english": "small black and blue bird with long black tarsus and long black beak",
+          "indo": "burung kecil berwarna hitam biru dengan tarsus hitam panjang dan paruh hitam panjang"
+        },
+        {
+          "english": "this bird is blue with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this black bird has a shallow chest and a narrow sharp beak.",
+          "indo": "burung hitam ini memiliki dada yang dangkal dan paruh yang sempit dan tajam."
+        },
+        {
+          "english": "this is a small streamlined black bird, it is a little shiny, and narrow.",
+          "indo": "ini adalah burung hitam kecil yang ramping, sedikit mengkilat, dan sempit."
+        },
+        {
+          "english": "this medium-sized bird has all black feathers with a sharp bill.",
+          "indo": "Burung berukuran sedang ini memiliki bulu serba hitam dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is blue with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0020_26027.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the bird has a black bill and a black throat as well as crown.",
+          "indo": "burung itu memiliki paruh berwarna hitam dan tenggorokan serta mahkota berwarna hitam."
+        },
+        {
+          "english": "a completely black, jet black, shiny feathered crow having gray beak.",
+          "indo": "seekor gagak berbulu hitam pekat, hitam legam, dan berbulu mengkilat dengan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this is a black bird with black feet and a black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam."
+        },
+        {
+          "english": "the bird has glossy black feathers and tarsi, with a long, sharp beak.",
+          "indo": "burung ini memiliki bulu dan tarsi berwarna hitam mengilap, dengan paruh yang panjang dan tajam."
+        },
+        {
+          "english": "this is a black bird with a short bill and white on the wingbars.",
+          "indo": "ini adalah burung berwarna hitam dengan paruh pendek dan berwarna putih di bagian sayapnya."
+        },
+        {
+          "english": "a shiny, all black, small bird with a black beak.",
+          "indo": "seekor burung kecil mengkilat, serba hitam, dengan paruh hitam."
+        },
+        {
+          "english": "this is a large black bird with very long legs.",
+          "indo": "ini adalah burung hitam besar dengan kaki yang sangat panjang."
+        },
+        {
+          "english": "a medium-sized all black bird with a larger head and thick, pointed bill.",
+          "indo": "burung berwarna hitam berukuran sedang dengan kepala lebih besar dan paruh tebal dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is black and gray",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0022_26062.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the bird has two black thighs and skinny tarsus as well as small bill.",
+          "indo": "burung ini memiliki dua paha berwarna hitam dan tarsus kurus serta paruh kecil."
+        },
+        {
+          "english": "this small black bird has long thighs and tarsus.",
+          "indo": "burung kecil berwarna hitam ini memiliki paha dan tarsus yang panjang."
+        },
+        {
+          "english": "this bird has an overall black color with a slender and long tarsus.",
+          "indo": "burung ini mempunyai warna keseluruhan hitam dengan tarsus ramping dan panjang."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has a black belly with black wings, tail and head.",
+          "indo": "burung itu memiliki perut berwarna hitam dengan sayap, ekor dan kepala berwarna hitam."
+        },
+        {
+          "english": "a black bird with black tarsus and feet, the bill is short and pointed",
+          "indo": "burung berwarna hitam dengan tarsus dan kaki berwarna hitam, paruhnya pendek dan runcing"
+        },
+        {
+          "english": "the bird has a black bill that is small and a black back.",
+          "indo": "burung tersebut memiliki paruh berwarna hitam yang berukuran kecil dan punggung berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is all black and long black rectrices",
+          "indo": "burung ini mempunyai perut yang serba hitam dan berbentuk rectrices berwarna hitam"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a black bird with a medium sized beak and long tail feathers.",
+          "indo": "burung berwarna hitam dengan paruh berukuran sedang dan bulu ekor panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0023_26037.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "an all black medium sized bird with a big black bill.",
+          "indo": "burung berukuran sedang serba hitam dengan paruh hitam besar."
+        },
+        {
+          "english": "the bird has a black eyering and a black crown that is small.",
+          "indo": "burung tersebut memiliki cincin mata berwarna hitam dan mahkota berwarna hitam yang berukuran kecil."
+        },
+        {
+          "english": "a round bird with a black body, rectrices, bill, and feet.",
+          "indo": "burung bulat dengan tubuh hitam, rectrices, paruh, dan kaki."
+        },
+        {
+          "english": "this bird is completely black with a short pointy bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this large bird is completely jet black and has a short, pointed beak.",
+          "indo": "burung besar ini seluruhnya berwarna hitam legam dan mempunyai paruh yang pendek dan runcing."
+        },
+        {
+          "english": "a medium sized bird with a small bill, and black wings",
+          "indo": "seekor burung berukuran sedang dengan paruh kecil, dan sayap hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a dark black bird with long tail feathers and a pointed beak.",
+          "indo": "burung berwarna hitam pekat dengan bulu ekor panjang dan paruh runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is black with black legs and feet",
+          "indo": "burung ini memiliki perut yang berwarna hitam dengan tungkai dan kaki berwarna hitam"
+        },
+        {
+          "english": "this medium sized bird is completely black, from bill to feet.",
+          "indo": "burung berukuran sedang ini berwarna hitam seluruhnya, mulai dari paruh hingga kakinya."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0024_26064.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this medium size bird is all black with a shiny black beak that turns down",
+          "indo": "Burung berukuran sedang ini berwarna serba hitam dengan paruh hitam mengkilat yang mengarah ke bawah"
+        },
+        {
+          "english": "this bird is shiny black with a long beak.",
+          "indo": "burung ini berwarna hitam mengkilat dengan paruh yang panjang."
+        },
+        {
+          "english": "this bird is completely black with a large blunt bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh besar yang tumpul."
+        },
+        {
+          "english": "this large bird has glossy black feathers over its entire body, a large black beak, and black feet.",
+          "indo": "burung berukuran besar ini memiliki bulu berwarna hitam mengkilat di sekujur tubuhnya, paruh besar berwarna hitam, dan kaki berwarna hitam."
+        },
+        {
+          "english": "a bird with a large pointed bill and deep black plumage.",
+          "indo": "seekor burung dengan paruh runcing besar dan bulu hitam pekat."
+        },
+        {
+          "english": "an all black bird that is very proportionate having a round head and round beak.",
+          "indo": "burung serba hitam yang sangat proporsional, mempunyai kepala bulat dan paruh bulat."
+        },
+        {
+          "english": "this bird is completely black and has a pointed wide beak.",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai paruh lebar yang runcing."
+        },
+        {
+          "english": "this particular bird has an entirely black body and a narrow black bill",
+          "indo": "burung ini memiliki tubuh yang seluruhnya berwarna hitam dan paruh berwarna hitam yang sempit"
+        },
+        {
+          "english": "medium sized black bird with thick medium length tarsus and a large black beak.",
+          "indo": "burung hitam berukuran sedang dengan tarsus tebal berukuran sedang dan paruh hitam besar."
+        },
+        {
+          "english": "this is a mostly black bird except for the wings appear to have a blue tinge.",
+          "indo": "ini sebagian besar burung berwarna hitam kecuali sayapnya tampak memiliki semburat biru."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0025_25893.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this is a large black bird with a strong, sharp bill.",
+          "indo": "ini adalah burung hitam besar dengan paruh yang kuat dan tajam."
+        },
+        {
+          "english": "this bird is black body and beak, and long claws.",
+          "indo": "burung ini berbadan dan paruh berwarna hitam, serta cakar yang panjang."
+        },
+        {
+          "english": "a bird with black beak, black belly, and black wings",
+          "indo": "seekor burung dengan paruh hitam, perut hitam, dan sayap hitam"
+        },
+        {
+          "english": "an all black bird with a short, pointed bill and long rectrices.",
+          "indo": "burung serba hitam dengan paruh pendek runcing dan rectrices ."
+        },
+        {
+          "english": "this is an all black bird with a small pointed bill.",
+          "indo": "ini adalah burung serba hitam dengan paruh runcing kecil."
+        },
+        {
+          "english": "this large black bird's feather are ruffled and sticking out.",
+          "indo": "bulu burung hitam besar ini acak-acakan dan mencuat."
+        },
+        {
+          "english": "the black bird has ruffled feathers, beady black eyes, and medium long toes and beak.",
+          "indo": "burung hitam memiliki bulu acak-acakan, mata hitam seperti manik-manik, serta jari kaki dan paruh berukuran sedang."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a medium-sized bird with a nearly all black body and long wings.",
+          "indo": "burung berukuran sedang dengan tubuh hampir seluruhnya hitam dan sayap panjang."
+        },
+        {
+          "english": "a medium size bird with a black coloring and pointed beak.",
+          "indo": "burung berukuran sedang dengan warna hitam dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0028_25968.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a large black bird has a long orange bill, and large black secondaries with thick feathers.",
+          "indo": "burung hitam besar memiliki paruh oranye panjang, dan bulu sekunder besar berwarna hitam dengan bulu tebal."
+        },
+        {
+          "english": "the bird has a black nape and a small black bill.",
+          "indo": "burung itu memiliki tengkuk berwarna hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small bird that has black feathers on its head and nape, and dark grey feathers covering the rest of its body.",
+          "indo": "burung kecil yang memiliki bulu berwarna hitam di kepala dan tengkuknya, serta bulu berwarna abu-abu tua menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a black crown, a black back, and a black bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam, punggung berwarna hitam, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird is all black and has a very short beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "an all black bird with a black beak, black wings, and black tail feathers.",
+          "indo": "burung serba hitam dengan paruh hitam, sayap hitam, dan bulu ekor hitam."
+        },
+        {
+          "english": "this bird is all black and has a very short beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan tenggorokan berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0031_25909.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird has sleek black wings and a downward curving black bill.",
+          "indo": "burung ini mempunyai sayap hitam ramping dan paruh hitam melengkung ke bawah."
+        },
+        {
+          "english": "the bird is black with a thick bill and a mass of black feathers.",
+          "indo": "burung itu berwarna hitam dengan paruh tebal dan banyak bulu hitam."
+        },
+        {
+          "english": "this bird has a black crown, a black bill, and black feet",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh berwarna hitam, dan kaki berwarna hitam"
+        },
+        {
+          "english": "the bird seen has glossy black plumage, with a sharp black beak.",
+          "indo": "burung yang terlihat memiliki bulu berwarna hitam mengkilat, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this is a black bird with pointed feet and a black medium bill as well.",
+          "indo": "ini adalah burung berwarna hitam dengan kaki runcing dan juga paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is black and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "the bird head is small compared to the body, and the body is black along with everything else.",
+          "indo": "kepala burung kecil dibandingkan dengan badannya, dan badannya berwarna hitam bersama dengan yang lainnya."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0032_26014.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this small, round bird is solid black, with black eyes and a short black beak.",
+          "indo": "burung kecil bulat ini berwarna hitam pekat, bermata hitam dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this short bird is completely black-blue, with a short and stout black bill.",
+          "indo": "burung pendek ini berwarna serba hitam kebiruan, dengan paruh pendek dan gagah berwarna hitam."
+        },
+        {
+          "english": "this short, black bird has a large bill, short, black legs and long tail feathers.",
+          "indo": "burung pendek berwarna hitam ini memiliki paruh besar, kaki pendek berwarna hitam, dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird is completely black with a long pointy bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this particular bird has all black feathers with a hint of blue in the wingbars",
+          "indo": "burung ini memiliki seluruh bulu berwarna hitam dengan sedikit warna biru di bagian sayapnya"
+        },
+        {
+          "english": "this bird has a black crown as well as a black rump",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan pantat berwarna hitam"
+        },
+        {
+          "english": "this bird features mostly obsidian abdoment, breast and side however its rump and uppertail coverts are even more dark.",
+          "indo": "burung ini memiliki sebagian besar ciri perut, dada, dan samping obsidian, namun bulu pantat dan ekor atasnya bahkan lebih gelap."
+        },
+        {
+          "english": "this bird has a bluish/black breast with a dark blue crown color",
+          "indo": "burung ini mempunyai dada berwarna kebiruan/hitam dengan warna mahkota biru tua"
+        },
+        {
+          "english": "a black bird with a large beak and white spots on its wings.",
+          "indo": "burung berwarna hitam dengan paruh besar dan bintik putih di sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0033_25915.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a big black bird with a black beak.",
+          "indo": "seekor burung hitam besar dengan paruh hitam."
+        },
+        {
+          "english": "a large bird with with black bill and black overall with black belly and foot",
+          "indo": "seekor burung besar dengan paruh hitam dan keseluruhan hitam dengan perut dan kaki hitam"
+        },
+        {
+          "english": "this bird is smooth, has dark gray feathers, and a shiny thick bill.",
+          "indo": "burung ini berbadan halus, mempunyai bulu berwarna abu-abu tua, dan paruh tebal mengkilat."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is completely black in color with a sharp long beak.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh panjang yang runcing."
+        },
+        {
+          "english": "a completely black bird, small body and head, with a black beak.",
+          "indo": "burung yang serba hitam, badan dan kepala kecil, dengan paruh hitam."
+        },
+        {
+          "english": "a medium sized bird with black feathers,feet and eyes.",
+          "indo": "seekor burung berukuran sedang dengan bulu, kaki dan mata hitam."
+        },
+        {
+          "english": "this bird has a large, sturdy black beak, large black eyes, and black plumage all over its body.",
+          "indo": "burung ini memiliki paruh besar berwarna hitam kokoh, mata hitam besar, dan bulu hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "this is a completely black bird.",
+          "indo": "ini adalah burung yang benar-benar hitam."
+        },
+        {
+          "english": "this bird has pointed black bill, with a black body.",
+          "indo": "burung ini paruhnya runcing berwarna hitam, dengan badan berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0034_25891.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is black from beak to talons, including the feathers and eyes.",
+          "indo": "burung ini berwarna hitam mulai dari paruh hingga cakarnya, termasuk bulu dan matanya."
+        },
+        {
+          "english": "this black bird has navy blue secondaries, a long, pointy beak, and large black feet",
+          "indo": "burung hitam ini memiliki bulu sekunder berwarna biru tua, paruh panjang runcing, dan kaki besar berwarna hitam"
+        },
+        {
+          "english": "bird has black body feathers, black breast feathers and black beak",
+          "indo": "burung mempunyai bulu badan berwarna hitam, bulu dada berwarna hitam, dan paruh berwarna hitam"
+        },
+        {
+          "english": "large sized dark black bird with a black pointy bill.",
+          "indo": "burung hitam pekat berukuran besar dengan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with black feet and a pointy black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam runcing."
+        },
+        {
+          "english": "this is a bird that has a black head and beak, and a mix of black and dark brown feathers on it's body and wings.",
+          "indo": "Ini adalah burung yang memiliki kepala dan paruh berwarna hitam, serta bulu campuran berwarna hitam dan coklat tua pada badan dan sayapnya."
+        },
+        {
+          "english": "this is a black bird, with subtle brown wingbars and a medium pointed beak.",
+          "indo": "ini adalah burung berwarna hitam, dengan garis sayap berwarna coklat halus dan paruh runcing sedang."
+        },
+        {
+          "english": "bird with an entirely black body, and a long black beak that curves slightly at the end.",
+          "indo": "burung dengan tubuh seluruhnya hitam, dan paruh hitam panjang yang ujungnya sedikit melengkung."
+        },
+        {
+          "english": "a dark black bird with a black pointed beak and black feet.",
+          "indo": "seekor burung hitam pekat dengan paruh runcing hitam dan kaki hitam."
+        },
+        {
+          "english": "a mostly black bird with some iridescent looking feathers with a sturdy looking bill and large feet.",
+          "indo": "seekor burung yang sebagian besar berwarna hitam dengan beberapa bulu tampak berwarna-warni dengan paruh yang tampak kokoh dan kaki yang besar."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0035_26081.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is black all over its entire body including beak.",
+          "indo": "burung ini berwarna hitam di sekujur tubuhnya termasuk paruhnya."
+        },
+        {
+          "english": "a black bird with a black eyering and a black bill",
+          "indo": "seekor burung hitam dengan cincin mata hitam dan paruh hitam"
+        },
+        {
+          "english": "this is a completely black bird that has black eyes and a black beak.",
+          "indo": "ini adalah burung yang benar-benar hitam dengan mata hitam dan paruh hitam."
+        },
+        {
+          "english": "this large bird is completely black and has a long hooked bill.",
+          "indo": "burung besar ini berwarna hitam pekat dan mempunyai paruh bengkok yang panjang."
+        },
+        {
+          "english": "ominous, this bird peers down from a dark, angular bill that is silhouetted by its black figure.",
+          "indo": "Tak menyenangkan, burung ini mengintip ke bawah dari paruhnya yang gelap dan bersudut, yang terlihat seperti siluet sosok hitamnya."
+        },
+        {
+          "english": "this bird is all black and has a very short beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this particular bird has a body that is all black",
+          "indo": "burung ini memiliki tubuh yang serba hitam"
+        },
+        {
+          "english": "a medium black bird whose feathers are completely black, it's beak, tarsus, and feet are also black.",
+          "indo": "burung berwarna hitam sedang yang bulunya berwarna hitam seluruhnya, paruh, tarsus, dan kakinya juga berwarna hitam."
+        },
+        {
+          "english": "a large black bird with a the tail wide in size.",
+          "indo": "seekor burung hitam besar dengan ukuran ekor lebar."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0036_25911.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "all black bird with a long, pointed black beak and feet.",
+          "indo": "burung semuanya berwarna hitam dengan paruh dan kaki hitam yang panjang dan runcing."
+        },
+        {
+          "english": "a midsized bird that is jet black all over with a pointed beak.",
+          "indo": "seekor burung berukuran sedang yang seluruh tubuhnya berwarna hitam legam dengan paruh runcing."
+        },
+        {
+          "english": "a bird with a large downwward hooked bill and rich black plumage.",
+          "indo": "seekor burung dengan paruh besar yang bengkok ke bawah dan bulu hitam lebat."
+        },
+        {
+          "english": "this bird is all a deep shade of jet black with a flat crown.",
+          "indo": "burung ini berwarna hitam legam dengan mahkota datar."
+        },
+        {
+          "english": "medium to large black bird with long black tarsus and medium to large black beak",
+          "indo": "burung hitam berukuran sedang hingga besar dengan tarsus hitam panjang dan paruh hitam sedang hingga besar"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is large in size and has dark black feathers.",
+          "indo": "burung itu berukuran besar dan memiliki bulu berwarna hitam tua."
+        },
+        {
+          "english": "large black bird with entire body black and black bill and black feet",
+          "indo": "burung hitam besar dengan seluruh tubuh paruh hitam dan hitam serta kaki hitam"
+        },
+        {
+          "english": "a proportional bird with black eyes, a medium length black bill, and an entirely black body.",
+          "indo": "burung proporsional dengan mata hitam, paruh hitam panjang sedang, dan tubuh seluruhnya hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0037_26071.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "an erect black bird with glossy feathers and pincer-like beak.",
+          "indo": "seekor burung hitam tegak dengan bulu mengkilap dan paruh seperti penjepit."
+        },
+        {
+          "english": "a medium sized bird with an all black body, black head, and hooked black bill.",
+          "indo": "burung berukuran sedang dengan tubuh serba hitam, kepala hitam, dan paruh hitam bengkok."
+        },
+        {
+          "english": "bird has black blat beak and the rest of the bird is black.",
+          "indo": "burung mempunyai paruh berwarna hitam dan bagian burung lainnya berwarna hitam."
+        },
+        {
+          "english": "this is a jet black bird with a large pointed beak and long legs.",
+          "indo": "ini adalah burung berwarna hitam legam dengan paruh besar runcing dan kaki panjang."
+        },
+        {
+          "english": "this is an all black bird with a large pointed black bill.",
+          "indo": "ini adalah burung serba hitam dengan paruh hitam besar dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black with a long black beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "a bird that is mostly black with a bit of brown in between with a large black beak.",
+          "indo": "burung yang sebagian besar berwarna hitam dengan sedikit warna coklat di sela-selanya dengan paruh besar berwarna hitam."
+        },
+        {
+          "english": "this is a all jet black colored bird, with thing legs and a large bill.",
+          "indo": "ini adalah burung berwarna hitam legam, dengan kaki besar dan paruh besar."
+        },
+        {
+          "english": "this bird has a black bill, back, wings, and feet",
+          "indo": "burung ini memiliki paruh, punggung, sayap, dan kaki berwarna hitam"
+        },
+        {
+          "english": "a bird with a black belly,breast, crown and the wings and the bill is curved downwards",
+          "indo": "burung dengan perut, dada, mahkota dan sayap berwarna hitam, serta paruh melengkung ke bawah"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0038_26000.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "black crown, black bill, black larsus, black wings and abdomen",
+          "indo": "mahkota hitam, paruh hitam, larsus hitam, sayap dan perut hitam"
+        },
+        {
+          "english": "this is a black bird with black feet and a long black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam panjang."
+        },
+        {
+          "english": "bird has gray body feathers, gray breast feather, and shiny beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna abu-abu, dan paruh mengkilat"
+        },
+        {
+          "english": "this bird is pitch black, with dark eyes and sleek wings.",
+          "indo": "burung ini berwarna hitam pekat, dengan mata gelap dan sayap ramping."
+        },
+        {
+          "english": "this bird is black with dark wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan sayap berwarna gelap dan memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a medium sized black bill with black feathers covering the rest of its body.",
+          "indo": "burung ini memiliki paruh berwarna hitam berukuran sedang dengan bulu hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a bird with a sharp bill who's entire anatomy is very dark.",
+          "indo": "seekor burung dengan paruh runcing yang seluruh anatominya sangat gelap."
+        },
+        {
+          "english": "a black bird with a black crown and black eyes.",
+          "indo": "seekor burung hitam dengan mahkota hitam dan mata hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black with an orange beak",
+          "indo": "burung ini memiliki perut berwarna hitam dengan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has a large black body and a sharp pointy beak.",
+          "indo": "burung ini memiliki tubuh besar berwarna hitam dan paruh runcing tajam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0040_25158.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is black in color from its crown, to its breast, to its, tail.",
+          "indo": "burung ini berwarna hitam mulai dari ubun-ubun, dada, hingga ekornya."
+        },
+        {
+          "english": "this bird has a large, wide, curved bill, a black eyering, and black thighs.",
+          "indo": "burung ini mempunyai paruh yang besar, lebar, melengkung, cincin mata berwarna hitam, dan paha berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with black wings, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap hitam, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "thisï¿½ï¿½birdï¿½ï¿½hasï¿½ï¿½anï¿½ï¿½all-blackï¿½ï¿½bodyï¿½ï¿½withï¿½ï¿½aï¿½ï¿½short,ï¿½ï¿½curvedï¿½ï¿½bill.",
+          "indo": "burung ini mempunyai tubuh yang serba hitam dengan paruh yang pendek dan melengkung."
+        },
+        {
+          "english": "this bird has wings that are black and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has an all black body, with a pointed black bill.",
+          "indo": "burung ini mempunyai tubuh serba hitam, dengan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird is completely black, with a strong black beak and semi-feathered legs.",
+          "indo": "burung ini berwarna hitam pekat, dengan paruh hitam kuat dan kaki setengah berbulu."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0041_25887.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a large solid black bird with wide outer rectrices and a medium black bill.",
+          "indo": "seekor burung hitam pekat besar dengan rectrices luar lebar dan paruh hitam sedang."
+        },
+        {
+          "english": "this bird is medium sized with a beautiful glossy black body and beak.",
+          "indo": "burung ini berukuran sedang dengan tubuh dan paruh indah berwarna hitam mengkilap."
+        },
+        {
+          "english": "a bird with a large black bill and deep black plumage covering its entire body.",
+          "indo": "seekor burung dengan paruh besar berwarna hitam dan bulu hitam pekat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is an all black bird with a short, skinny bill.",
+          "indo": "ini adalah burung serba hitam dengan paruh pendek dan kurus."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "the bird has a black back,black bill and black crown.",
+          "indo": "burung itu mempunyai punggung hitam, paruh hitam, dan mahkota hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0042_26148.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird characteristics are all in black with a short bill.",
+          "indo": "Ciri-ciri burung ini serba hitam dengan paruh yang pendek."
+        },
+        {
+          "english": "this bird is black in color with a black beak and black eye ring.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is covered with black feathers all over its body, has a black eye ring and a black bill.",
+          "indo": "burung ini ditutupi bulu berwarna hitam di sekujur tubuhnya, memiliki cincin mata berwarna hitam dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a black crown and a thick black bill.",
+          "indo": "burung tersebut memiliki mahkota berwarna hitam dan paruh berwarna hitam tebal."
+        },
+        {
+          "english": "all black bird with long arched bill and black tarsus.",
+          "indo": "semuanya burung berwarna hitam dengan paruh panjang melengkung dan tarsus hitam."
+        },
+        {
+          "english": "this bird has wings that are black with abulky beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh yang besar"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is black all over, including the tarsus, feet and large bill.",
+          "indo": "burung ini seluruhnya berwarna hitam, termasuk tarsus, kaki, dan paruh besar."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0043_25847.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird has bluish-black feathers and sharp bill that turns down slightly at the tip.",
+          "indo": "burung ini mempunyai bulu berwarna hitam kebiruan dan paruh runcing yang ujungnya agak mengecil."
+        },
+        {
+          "english": "this bird is entirely jet black from its sharp, point bill and black eye area to its black coverts.",
+          "indo": "burung ini seluruhnya berwarna hitam legam mulai dari paruhnya yang runcing, area matanya yang hitam hingga bulunya yang hitam."
+        },
+        {
+          "english": "a medium sized bird with a black sharp bill that is blue - black in color.",
+          "indo": "burung berukuran sedang dengan paruh berwarna hitam runcing berwarna biru – hitam."
+        },
+        {
+          "english": "this small bird has a slender and pointy bill and is completely black from its bill to its feet.",
+          "indo": "burung kecil ini mempunyai paruh yang ramping dan runcing serta berwarna hitam seluruhnya dari paruh hingga kakinya."
+        },
+        {
+          "english": "this bird has an all black body and black eyes as well.",
+          "indo": "burung ini memiliki tubuh serba hitam dan mata hitam juga."
+        },
+        {
+          "english": "the bird has a long black bill, and is black in color all over.",
+          "indo": "burung itu mempunyai paruh hitam panjang, dan seluruh warnanya hitam."
+        },
+        {
+          "english": "the bird has a black bill, a black back and a black eyering.",
+          "indo": "burung itu mempunyai paruh berwarna hitam, punggung berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a jet black crown as well as a black belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam legam serta perut berwarna hitam"
+        },
+        {
+          "english": "a dark black bird with a black pointed beak.",
+          "indo": "seekor burung hitam gelap dengan paruh runcing hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0044_25964.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the shiny black bird has a turned down pointed medium sized beak with a broad tail.",
+          "indo": "burung berwarna hitam mengkilat ini memiliki paruh runcing berukuran sedang dengan ekor lebar."
+        },
+        {
+          "english": "the bird has black overall color along its body as well as a pointy and sharp looking bill.",
+          "indo": "burung ini memiliki warna keseluruhan hitam di sepanjang tubuhnya serta paruh yang tampak runcing dan tajam."
+        },
+        {
+          "english": "bird has small white flat beak with black rectrices and black and white secondaries.",
+          "indo": "Burung ini memiliki paruh kecil berwarna putih datar dengan garis lurus berwarna hitam dan paruh bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "this black bird has a long tail and a long, pointed silver bill.",
+          "indo": "burung berwarna hitam ini memiliki ekor yang panjang dan paruh berwarna perak yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with an extremely long tail and a raised up crown and has a sharp curved bill",
+          "indo": "seekor burung dengan ekor yang sangat panjang dan mahkota yang terangkat serta paruh yang melengkung tajam"
+        },
+        {
+          "english": "this bird has wings that are black and has a white beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna putih"
+        },
+        {
+          "english": "the bird is dark black on its entire body and has long tail feathers.",
+          "indo": "burung ini berwarna hitam pekat pada seluruh tubuhnya dan mempunyai bulu ekor yang panjang."
+        },
+        {
+          "english": "a small bird with a black and dark blue mixture covering.",
+          "indo": "seekor burung kecil dengan penutup campuran hitam dan biru tua."
+        },
+        {
+          "english": "the bird is dark black in color with a tail that is fanned and has a lighter colored bill.",
+          "indo": "burung ini berwarna hitam pekat dengan ekor yang mengipasi dan paruh berwarna lebih terang."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0047_26070.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the feathers on this bird are all black as is its short pointed bill.",
+          "indo": "bulu burung ini semuanya berwarna hitam begitu pula paruhnya yang pendek dan runcing."
+        },
+        {
+          "english": "this bird is nearly all gray with a short blunt bill.",
+          "indo": "burung ini hampir seluruhnya berwarna abu-abu dengan paruh pendek yang tumpul."
+        },
+        {
+          "english": "this larger bird is all black in color, including appendages, with wings as big as its body.",
+          "indo": "burung yang lebih besar ini semuanya berwarna hitam, termasuk pelengkapnya, dengan sayap sebesar tubuhnya."
+        },
+        {
+          "english": "this bird has feathers that look similar to fur and its beak is short and stout.",
+          "indo": "burung ini mempunyai bulu yang bentuknya mirip dengan bulu serta paruhnya yang pendek dan gagah."
+        },
+        {
+          "english": "a medium sized black bird with a dark bill and glossy feathers.",
+          "indo": "burung hitam berukuran sedang dengan paruh gelap dan bulu mengilap."
+        },
+        {
+          "english": "a medium sized black bird, with a bill that is slightly curved downward.",
+          "indo": "burung berwarna hitam berukuran sedang, dengan paruh agak melengkung ke bawah."
+        },
+        {
+          "english": "large black bird with long rounded black beak with many layers of black feathers.",
+          "indo": "burung hitam besar dengan paruh hitam bulat panjang dengan banyak lapisan bulu hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has an all black body with a strong black beak.",
+          "indo": "burung ini memiliki tubuh serba hitam dengan paruh hitam yang kuat."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0049_26040.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this is an all black bird with black feet and beak.",
+          "indo": "ini adalah burung serba hitam dengan kaki dan paruh hitam."
+        },
+        {
+          "english": "a medium sized black crow with a thick, sharp beak.",
+          "indo": "seekor gagak hitam berukuran sedang dengan paruh yang tebal dan tajam."
+        },
+        {
+          "english": "this bird has a grey body and wings, while it's head is completely black.",
+          "indo": "burung ini mempunyai badan dan sayap berwarna abu-abu, sedangkan kepalanya berwarna hitam pekat."
+        },
+        {
+          "english": "this is a black bird with a long tail feather and a large black beak.",
+          "indo": "ini adalah burung berwarna hitam dengan bulu ekor panjang dan paruh besar berwarna hitam."
+        },
+        {
+          "english": "this bird is mostly black with a long pointy bill.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is completely black and has a thick, pointed black beak",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai paruh tebal berwarna hitam runcing"
+        },
+        {
+          "english": "medium sized all black bird, long tail, long beak, head is darker black.",
+          "indo": "burung berukuran sedang serba hitam, ekor panjang, paruh panjang, kepala berwarna hitam pekat."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        },
+        {
+          "english": "this bird is entirely black with slightly obsidian colored back feathers, its beak is thick and slightly curved downwards.",
+          "indo": "burung ini berwarna hitam seluruhnya dengan bulu punggung berwarna agak obsidian, paruhnya tebal dan agak melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0051_25934.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this angry looking bird is as black as the night sky with wide-spread, black talons and glowing white eyes.",
+          "indo": "burung yang tampak marah ini berwarna hitam seperti langit malam dengan cakar hitam terbentang luas dan mata putih bersinar."
+        },
+        {
+          "english": "this is an all black bird with black feet and a pointy black beak.",
+          "indo": "ini adalah burung serba hitam dengan kaki hitam dan paruh hitam runcing."
+        },
+        {
+          "english": "a small black bird with black feet and a black beak.",
+          "indo": "seekor burung hitam kecil dengan kaki hitam dan paruh hitam."
+        },
+        {
+          "english": "a bird with a large, slender bill and entirely black plumage.",
+          "indo": "seekor burung dengan paruh besar dan ramping serta bulu seluruhnya berwarna hitam."
+        },
+        {
+          "english": "this small bird is all black and has a black curved beak",
+          "indo": "burung kecil ini berwarna serba hitam dan memiliki paruh melengkung berwarna hitam"
+        },
+        {
+          "english": "this bird has feathers that are black and has skinny legs",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai kaki yang kurus"
+        },
+        {
+          "english": "this medium sized bird sports all black feathers, long tarsus, and a pointed bill.",
+          "indo": "burung berukuran sedang ini memiliki bulu berwarna hitam, tarsus panjang, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thin bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tipis"
+        },
+        {
+          "english": "this bird has a long black pointed bill, with a black body.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam panjang, dengan badan berwarna hitam."
+        },
+        {
+          "english": "this shiny black bird has a very long, sharp bill and a long tail.",
+          "indo": "burung berwarna hitam mengkilat ini mempunyai paruh yang sangat panjang dan tajam serta ekor yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0053_26067.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is large and is all back with a big beak.",
+          "indo": "burung ini berukuran besar dan semuanya kembali dengan paruh yang besar."
+        },
+        {
+          "english": "this is an all black bird with black feet and a pointed black beak.",
+          "indo": "ini adalah burung serba hitam dengan kaki hitam dan paruh hitam runcing."
+        },
+        {
+          "english": "this is a large black bird with a large beak.",
+          "indo": "ini adalah burung hitam besar dengan paruh besar."
+        },
+        {
+          "english": "this medium sized bird is all black with a long, slightly curved bill.",
+          "indo": "burung berukuran sedang ini berwarna serba hitam dengan paruh yang panjang dan agak melengkung."
+        },
+        {
+          "english": "a solid black bird with a black beak.",
+          "indo": "seekor burung hitam pekat dengan paruh hitam."
+        },
+        {
+          "english": "medium sized all black bird with a black bill that curves slightly downward",
+          "indo": "burung serba hitam berukuran sedang dengan paruh hitam yang sedikit melengkung ke bawah"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has all black feathers and black eyes.",
+          "indo": "burung ini memiliki bulu serba hitam dan mata hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black with a black bill",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna hitam dengan paruh yang berwarna hitam"
+        },
+        {
+          "english": "this intimidating bird is covered in black feather with a black, curved bill.",
+          "indo": "burung yang mengintimidasi ini ditutupi bulu hitam dengan paruh hitam melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0055_26077.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is large, and completely black.",
+          "indo": "burung ini berukuran besar, dan berwarna hitam pekat."
+        },
+        {
+          "english": "large bird covered entirely in black feathers with a black pointed beak.",
+          "indo": "burung besar yang seluruhnya ditutupi bulu hitam dengan paruh runcing hitam."
+        },
+        {
+          "english": "medium sized black bird with a medium sized black sharp pointy beak.",
+          "indo": "burung hitam berukuran sedang dengan paruh runcing berwarna hitam berukuran sedang."
+        },
+        {
+          "english": "a medium sized bird that is all black with a medium sized bill",
+          "indo": "burung berukuran sedang yang serba hitam dengan paruh berukuran sedang"
+        },
+        {
+          "english": "this bird is completely black with a long pointy bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black with a long beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh yang panjang"
+        },
+        {
+          "english": "an all black bird with a long beak with a slight downward curve at its end.",
+          "indo": "burung yang serba hitam dengan paruh panjang dengan ujung sedikit melengkung ke bawah."
+        },
+        {
+          "english": "this is a black bird with a black pointed beak.",
+          "indo": "ini adalah burung hitam dengan paruh runcing hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is large and black with a short wide tail, a long beak with a downward curve, and short black feet.",
+          "indo": "burung ini berukuran besar dan berwarna hitam dengan ekor pendek lebar, paruh panjang melengkung ke bawah, dan kaki pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0056_25851.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this is a black bird with black feet and a black beak.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan paruh hitam."
+        },
+        {
+          "english": "this bird is black with long legs and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan kaki yang panjang dan paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a black bird with a brown wing and a long pointy beak.",
+          "indo": "ini adalah burung hitam dengan sayap coklat dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this is an all black bird from head to feet, the bill is large, thick and pointed.",
+          "indo": "ini adalah burung yang serba hitam dari kepala sampai kaki, paruhnya besar, tebal dan runcing."
+        },
+        {
+          "english": "bird with sharp and pointed beak that is slightly curved at the tip, and the body is fully covered in black except for the gray wings",
+          "indo": "burung dengan paruh runcing dan runcing, ujung agak melengkung, dan seluruh badan tertutup warna hitam kecuali sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this large bird has black thighs, wings, breast and belly.",
+          "indo": "burung besar ini memiliki paha, sayap, dada dan perut berwarna hitam."
+        },
+        {
+          "english": "this large bird has a large black bill, with black feathers.",
+          "indo": "burung besar ini memiliki paruh besar berwarna hitam, dengan bulu berwarna hitam."
+        },
+        {
+          "english": "this bird is dark black on its head and belly, and brownish black on its wings.",
+          "indo": "burung ini berwarna hitam pekat pada bagian kepala dan perutnya, serta berwarna hitam kecoklatan pada sayapnya."
+        },
+        {
+          "english": "this bird has a completely black body, with long legs and a short beak.",
+          "indo": "burung ini mempunyai tubuh yang serba hitam, dengan kaki yang panjang dan paruh yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0058_25999.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is a dark blue iridescent color with white spots on its outer rectrices.",
+          "indo": "burung ini berwarna biru tua dengan bintik-bintik putih pada rectrices luarnya."
+        },
+        {
+          "english": "a medium sized bird that is a rich velvety black.",
+          "indo": "seekor burung berukuran sedang yang berwarna hitam pekat seperti beludru."
+        },
+        {
+          "english": "this bird is completely black and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is mostly black with iridescent blue mixed in.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan campuran warna-warni biru."
+        },
+        {
+          "english": "a medium size bird with a black head and black wingbars, with a green belly.",
+          "indo": "burung berukuran sedang dengan kepala hitam dan sayap hitam, dengan perut berwarna hijau."
+        },
+        {
+          "english": "this black bird has some iridescent blue coloring on its body.",
+          "indo": "burung hitam ini memiliki warna biru cerah di tubuhnya."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium sized black bird, with a sharp bill.",
+          "indo": "burung hitam berukuran sedang, dengan paruh runcing."
+        },
+        {
+          "english": "a solid black bird that is two toned with blueish green wingbars, the beak is straight and black.",
+          "indo": "burung berwarna hitam pekat beruas dua dengan garis sayap berwarna hijau kebiruan, paruh lurus dan berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0059_25864.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird has a black, fin-like structure on it's crown thats color subsequently matches the rest of its body (black).",
+          "indo": "Burung ini mempunyai struktur seperti sirip berwarna hitam pada mahkotanya yang warnanya sesuai dengan bagian tubuhnya yang lain (hitam)."
+        },
+        {
+          "english": "this bird has a long and pointed bill, a black eyering, and has black feathers covering its entire body.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, cincin mata berwarna hitam, dan mempunyai bulu berwarna hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "all black bird with a tufted head and downward curving bill.",
+          "indo": "semua burung berwarna hitam dengan kepala berumbai dan paruh melengkung ke bawah."
+        },
+        {
+          "english": "this bird is black with large feathers and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan bulu yang besar serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with ruffled plumage, colored nearly a solid black, with a medium-sized beak and black tarsus.",
+          "indo": "seekor burung dengan bulu acak-acakan, berwarna hampir hitam pekat, dengan paruh berukuran sedang dan tarsus hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a long and thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu serta mempunyai paruh yang panjang dan tebal"
+        },
+        {
+          "english": "this is a grey-lack bird with a long bill and straight throat.",
+          "indo": "ini adalah burung berwarna abu-abu dengan paruh panjang dan tenggorokan lurus."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0060_26016.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this fierce looking bird has a black body with chocolate brown feathers.",
+          "indo": "burung berpenampilan garang ini memiliki tubuh berwarna hitam dengan bulu berwarna coklat."
+        },
+        {
+          "english": "this is a black bird with a long beak, and a long tail.",
+          "indo": "ini adalah burung berwarna hitam dengan paruh panjang, dan ekor panjang."
+        },
+        {
+          "english": "this bird is completely black and has a black beak and an almost white eye.",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai paruh berwarna hitam serta mata yang hampir putih."
+        },
+        {
+          "english": "a bird with a black head, the bill is short and pointed, with a long black tail.",
+          "indo": "burung berkepala hitam, paruhnya pendek dan runcing, dengan ekor panjang berwarna hitam."
+        },
+        {
+          "english": "this black bird has a large pointed beak.",
+          "indo": "burung berwarna hitam ini mempunyai paruh yang besar dan runcing."
+        },
+        {
+          "english": "this bird is black, has long wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam, mempunyai sayap yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a black bird with yellow eyes, sharp black beak with large black wings.",
+          "indo": "burung hitam bermata kuning, paruh hitam tajam dengan sayap hitam besar."
+        },
+        {
+          "english": "the bird has a curved bill and two large black wingbars.",
+          "indo": "burung itu memiliki paruh melengkung dan dua garis sayap besar berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has yellow eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata kuning"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0061_25884.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this all black bird is short and round. it has a longer black beak and black eyes.",
+          "indo": "burung serba hitam ini pendek dan bulat. ia memiliki paruh hitam yang lebih panjang dan mata hitam."
+        },
+        {
+          "english": "the bird is a medium size with a black belly, breast and crown.",
+          "indo": "burung itu berukuran sedang dengan perut, dada, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "a large fluffy all jet black bird with a round belly.",
+          "indo": "seekor burung hitam legam berbulu besar dengan perut bulat."
+        },
+        {
+          "english": "this small, all black bird has a small head compared to its body and a short bill that has a slightly rounded end.",
+          "indo": "Burung kecil serba hitam ini memiliki kepala yang kecil dibandingkan tubuhnya dan paruh pendek yang ujungnya agak membulat."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is completely black and has a thick pointed beak.",
+          "indo": "burung ini berwarna hitam pekat dan mempunyai paruh yang tebal dan runcing."
+        },
+        {
+          "english": "the bird is completely black with a long black bill and brownish gray feet.",
+          "indo": "burung itu berwarna hitam pekat dengan paruh panjang berwarna hitam dan kaki berwarna abu-abu kecoklatan."
+        },
+        {
+          "english": "the bird has all its components black with a larger broad bill and plumage on breast.",
+          "indo": "burung ini memiliki seluruh komponennya berwarna hitam dengan paruh yang lebih lebar dan bulu di bagian dada."
+        },
+        {
+          "english": "the bird has a short black bill and a black back.",
+          "indo": "burung itu memiliki paruh pendek berwarna hitam dan punggung berwarna hitam."
+        },
+        {
+          "english": "this large all black bird has black legs and feet, black eyes, a prominent black beak, and feathers that give the bird a somewhat ruffled look.",
+          "indo": "burung besar serba hitam ini memiliki tungkai dan kaki berwarna hitam, mata hitam, paruh hitam menonjol, dan bulu yang membuat burung terlihat agak acak-acakan."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0063_26094.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a large black bird with long black wings has a black crown that matches it's black beak.",
+          "indo": "seekor burung hitam besar dengan sayap hitam panjang mempunyai mahkota hitam yang serasi dengan paruhnya yang hitam."
+        },
+        {
+          "english": "this bird has a charcoal body with black wings and head.",
+          "indo": "burung ini memiliki tubuh arang dengan sayap dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head, throat, breast, wings and rectrices, but has grey covering its back, coverts, side and tarsus.",
+          "indo": "Burung ini memiliki kepala, tenggorokan, dada, sayap dan rectrices berwarna hitam, namun memiliki warna abu-abu yang menutupi punggung, bulu, samping dan tarsusnya."
+        },
+        {
+          "english": "this is a grey bird with a black wing and a black head and beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap hitam dan kepala serta paruh hitam."
+        },
+        {
+          "english": "small to medium grey and black bird with long black tarsus and long black beak",
+          "indo": "burung kecil berwarna abu-abu dan hitam dengan tarsus hitam panjang dan paruh hitam panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is very smooth, has dark wings and crown, but has a very unique gray belly and backside.",
+          "indo": "burung ini sangat halus, memiliki sayap dan mahkota berwarna gelap, namun memiliki perut dan punggung berwarna abu-abu yang sangat unik."
+        },
+        {
+          "english": "this black bird has very long legs with a long pointed beak.",
+          "indo": "burung berwarna hitam ini mempunyai kaki yang sangat panjang dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown with grey feet and grey nape",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan kaki berwarna abu-abu dan tengkuk berwarna abu-abu"
+        },
+        {
+          "english": "a medium size bird with black head and black wings.",
+          "indo": "burung berukuran sedang dengan kepala hitam dan sayap hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0065_25942.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a almost entire black bird with a hint of white streaking across the top of its back.",
+          "indo": "seekor burung yang hampir seluruhnya berwarna hitam dengan sedikit guratan putih di bagian atas punggungnya."
+        },
+        {
+          "english": "a small bird covered in black feathers all over its body, that has a black tarsus and bill.",
+          "indo": "seekor burung kecil yang seluruh tubuhnya ditutupi bulu hitam, memiliki tarsus dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a very distinct black overall body color from it's crown to its tarsus and feet.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan hitam yang sangat berbeda dari mahkota hingga tarsus dan kakinya."
+        },
+        {
+          "english": "a medium sized bird, completely back in color, with a short pointed beak.",
+          "indo": "seekor burung berukuran sedang, berwarna kembali seluruhnya, dengan paruh runcing pendek."
+        },
+        {
+          "english": "this medium black bird has shiny feathers and a slightly down curving beak.",
+          "indo": "burung berwarna hitam sedang ini memiliki bulu mengkilat dan paruh agak melengkung ke bawah."
+        },
+        {
+          "english": "this shiny black bird is completely black from his beak to the end of his tail with the exception of it's feet being a dark gray.",
+          "indo": "Burung berwarna hitam mengkilat ini seluruhnya berwarna hitam mulai dari paruh hingga ujung ekornya, kecuali kakinya yang berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has wings that are black and has long skinny legs",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai kaki yang panjang dan kurus"
+        },
+        {
+          "english": "the bird has a black crown, black bill and black back.",
+          "indo": "burung tersebut memiliki mahkota berwarna hitam, paruh berwarna hitam, dan punggung berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black with a white nope",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna hitam dengan bagian yang berwarna putih tidak"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0067_26124.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this is a large, all black bird with a blunt, wide beak, large black wings, long black tail and black head.",
+          "indo": "ini adalah burung besar berwarna hitam dengan paruh tumpul lebar, sayap hitam besar, ekor hitam panjang dan kepala hitam."
+        },
+        {
+          "english": "this is a large black bird with black feet and a large black beak.",
+          "indo": "ini adalah burung hitam besar dengan kaki hitam dan paruh hitam besar."
+        },
+        {
+          "english": "a large black bird with black wings, black eyes and a short black bill.",
+          "indo": "seekor burung hitam besar dengan sayap hitam, mata hitam dan paruh hitam pendek."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large black bird with a very big wing span.",
+          "indo": "seekor burung hitam besar dengan rentang sayap yang sangat besar."
+        },
+        {
+          "english": "a black bird with long black wings and pointed beak.",
+          "indo": "seekor burung hitam dengan sayap hitam panjang dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a jet black bird with long tail feathers and a short stubby bill.",
+          "indo": "burung berwarna hitam legam dengan bulu ekor panjang dan paruh pendek dan gemuk."
+        },
+        {
+          "english": "this large bird has all black feathers.",
+          "indo": "burung besar ini memiliki bulu serba hitam."
+        },
+        {
+          "english": "this is a black bird with a long tail and a black beak that slightly curves down.",
+          "indo": "ini adalah burung berwarna hitam dengan ekor panjang dan paruh hitam agak melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0068_25859.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is a deep black with wings that spread 4 times the size of its body.",
+          "indo": "burung ini berwarna hitam pekat dengan sayap yang melebar 4 kali ukuran tubuhnya."
+        },
+        {
+          "english": "bird has black body feathers, black breast feather, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna hitam, bulu dada berwarna hitam, dan paruh berwarna hitam"
+        },
+        {
+          "english": "the breast, bill and sides of the bird are the color, black.",
+          "indo": "bagian dada, paruh dan bagian samping burung berwarna hitam."
+        },
+        {
+          "english": "fairly normal sized bird, the beak and head seem to be normal sized compared to body, all black.",
+          "indo": "burung berukuran cukup normal, paruh dan kepalanya tampak berukuran normal dibandingkan dengan tubuhnya, semuanya berwarna hitam."
+        },
+        {
+          "english": "a small bird with long black wings, and a black body.",
+          "indo": "seekor burung kecil dengan sayap hitam panjang, dan tubuh hitam."
+        },
+        {
+          "english": "a medium all black bird with a medium black bill and long wingspan.",
+          "indo": "burung berwarna hitam sedang dengan paruh hitam sedang dan rentang sayap panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is black and black wings",
+          "indo": "Burung ini mempunyai perut yang berwarna hitam dan sayap berwarna hitam"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black bill, with black legs and a black back.",
+          "indo": "burung ini mempunyai paruh berwarna hitam, kaki berwarna hitam, dan punggung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0069_26008.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird has a large beak and feet with claws.",
+          "indo": "burung ini mempunyai paruh yang besar dan kaki yang dilengkapi cakar."
+        },
+        {
+          "english": "a large bird with a large bill and brown wings and a brown breast",
+          "indo": "seekor burung besar dengan paruh besar dan sayap berwarna coklat serta dada berwarna coklat"
+        },
+        {
+          "english": "this is a black bird with a large black downward pointing beak.",
+          "indo": "ini adalah burung hitam dengan paruh besar berwarna hitam mengarah ke bawah."
+        },
+        {
+          "english": "this bird is mostly dark brown with a thick blunt bill.",
+          "indo": "burung ini sebagian besar berwarna coklat tua dengan paruh yang tebal dan tumpul."
+        },
+        {
+          "english": "a medium sized black bird with short tail and small grey beak.",
+          "indo": "seekor burung hitam berukuran sedang dengan ekor pendek dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird is dark brown with a large brown beak and feet.",
+          "indo": "burung ini berwarna coklat tua dengan paruh dan kaki besar berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this jet black bird has no spots of color on it with a curved black bill.",
+          "indo": "burung berwarna hitam legam ini tidak memiliki bintik warna dengan paruh berwarna hitam melengkung."
+        },
+        {
+          "english": "this brown bird has a pointed white beak and black feet.",
+          "indo": "burung berwarna coklat ini memiliki paruh runcing berwarna putih dan kaki berwarna hitam."
+        },
+        {
+          "english": "this is a dark brown bird with a light beak, and grey tarsus and foot.",
+          "indo": "ini adalah burung berwarna coklat tua dengan paruh terang, dan tarsus serta kaki abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0070_25504.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this larger black bird has a black body, wings, eyes, and beak.",
+          "indo": "burung hitam yang lebih besar ini memiliki tubuh, sayap, mata, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this large bird has a nearly all black body, brown and black feathers, black legs, and a very long, downward pointed black beak.",
+          "indo": "burung besar ini mempunyai tubuh yang hampir seluruhnya berwarna hitam, bulu berwarna coklat dan hitam, kaki berwarna hitam, dan paruh berwarna hitam yang sangat panjang dan runcing ke bawah."
+        },
+        {
+          "english": "this bird is black with a long, thick, black beak and claws.",
+          "indo": "burung ini berwarna hitam dengan paruh dan cakar yang panjang, tebal, berwarna hitam."
+        },
+        {
+          "english": "a fully black bird with a long head and a curved beak.",
+          "indo": "burung yang sepenuhnya berwarna hitam dengan kepala panjang dan paruh melengkung."
+        },
+        {
+          "english": "this is a black bird with brown on the wingbars and a long bill.",
+          "indo": "ini adalah burung berwarna hitam dengan garis sayap berwarna coklat dan paruh yang panjang."
+        },
+        {
+          "english": "this is a solid black bird with a slightly curved black beak.",
+          "indo": "ini adalah burung berwarna hitam pekat dengan paruh hitam agak melengkung."
+        },
+        {
+          "english": "this bird is black in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird is black in color and large in size.",
+          "indo": "burung itu berwarna hitam dan berukuran besar."
+        },
+        {
+          "english": "a dark black bird with a black pointed beak standing on a branch.",
+          "indo": "seekor burung hitam gelap dengan paruh runcing hitam berdiri di dahan."
+        },
+        {
+          "english": "this bird has a black bill, black crown, and black breast and wings.",
+          "indo": "burung ini memiliki paruh berwarna hitam, mahkota berwarna hitam, serta dada dan sayap berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0071_25155.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this is a black bird with gray feet and a black eyering",
+          "indo": "ini adalah burung hitam dengan kaki abu-abu dan cincin mata hitam"
+        },
+        {
+          "english": "this bird is all black, with a large, sharp beak",
+          "indo": "burung ini berwarna serba hitam, dengan paruh yang besar dan tajam"
+        },
+        {
+          "english": "a medium sized black bird with a short beak and long feet.",
+          "indo": "seekor burung hitam berukuran sedang dengan paruh pendek dan kaki panjang."
+        },
+        {
+          "english": "this is a large, all black bird with longer feathers on the crown.",
+          "indo": "ini adalah burung besar berwarna hitam dengan bulu lebih panjang di mahkotanya."
+        },
+        {
+          "english": "the bird has black feathers with long black feet and short black beak and eye.",
+          "indo": "burung ini memiliki bulu berwarna hitam dengan kaki hitam panjang serta paruh dan mata hitam pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has skinny black legs",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai kaki yang kurus berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang tebal"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this all black bird has a pointy bill and black tarsus and feet.",
+          "indo": "Burung serba hitam ini mempunyai paruh runcing dan tarsus serta kaki berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0072_25945.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a plump bird with an entire black body and a black beak.",
+          "indo": "seekor burung gempal dengan seluruh tubuh hitam dan paruh hitam."
+        },
+        {
+          "english": "this small bird features a dark, shiny black color with small head.",
+          "indo": "burung kecil ini memiliki warna hitam pekat mengkilat dengan kepala kecil."
+        },
+        {
+          "english": "a black bird standing on a fence post with a met up packet in its black bill.",
+          "indo": "seekor burung hitam berdiri di tiang pagar dengan bungkusan yang dikumpulkan di paruhnya yang hitam."
+        },
+        {
+          "english": "this black bird has black thighs and feet, a curved bill, and short rounded rectrices.",
+          "indo": "burung berwarna hitam ini memiliki paha dan kaki berwarna hitam, paruh melengkung, dan rectrices  bulat pendek."
+        },
+        {
+          "english": "this is a black bird with black feet and a black wing.",
+          "indo": "ini adalah burung hitam dengan kaki hitam dan sayap hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this particular bird has a belly that is black and black wings",
+          "indo": "Burung ini mempunyai perut yang berwarna hitam dan sayap berwarna hitam"
+        },
+        {
+          "english": "a medium size bird with a black color covering and a black beak and feet.",
+          "indo": "burung berukuran sedang dengan penutup warna hitam serta paruh dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a dark black bird with a packet in its beak.",
+          "indo": "seekor burung hitam pekat dengan bungkusan di paruhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0073_25977.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a large all black bird with a fluffy throat and thick round beak.",
+          "indo": "seekor burung besar berwarna hitam dengan tenggorokan berbulu halus dan paruh bundar yang tebal."
+        },
+        {
+          "english": "this is a bird with all black feathers, bill, thighs, tarsus and feet.",
+          "indo": "ini adalah burung dengan bulu, paruh, paha, tarsus, dan kaki serba hitam."
+        },
+        {
+          "english": "a solid midnight black mid-sized bird with a sharp beak.",
+          "indo": "seekor burung berukuran sedang berwarna hitam tengah malam dengan paruh yang tajam."
+        },
+        {
+          "english": "this bird has a black bill, black legs, black wings, and a black crown",
+          "indo": "burung ini mempunyai paruh berwarna hitam, kaki berwarna hitam, sayap berwarna hitam, dan mahkota berwarna hitam"
+        },
+        {
+          "english": "bird with gray tarsus and feet and the remaining portion of the body is black, and the head is proportional to its body",
+          "indo": "burung dengan tarsus dan kaki berwarna abu-abu dan sisa badannya berwarna hitam, serta kepala proporsional dengan badannya"
+        },
+        {
+          "english": "black bird with even color throughout, beak pointed and slightly down curved, tarsus and feet are black.",
+          "indo": "burung berwarna hitam dengan warna merata seluruhnya, paruh runcing dan agak melengkung ke bawah, tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird is black in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "black bird, black feet, black bill, black eyes, black wings with hints of white on the outmost vents of the wings.",
+          "indo": "burung hitam, kaki hitam, paruh hitam, mata hitam, sayap hitam dengan sedikit warna putih di bagian terluar sayap."
+        },
+        {
+          "english": "a black bird with no other markings, including a black bill and feet and a thick body.",
+          "indo": "burung berwarna hitam tanpa tanda lain, termasuk paruh dan kaki berwarna hitam serta badan yang tebal."
+        },
+        {
+          "english": "this bird is entirely black with a black beak that curves downward very slightly.",
+          "indo": "burung ini berwarna hitam seluruhnya dengan paruh berwarna hitam yang sedikit melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0076_25971.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this bird is black all over, from its feet to its bill and feathers.",
+          "indo": "burung ini seluruhnya berwarna hitam, mulai dari kaki hingga paruh dan bulunya."
+        },
+        {
+          "english": "a common crow that is completely black and has a little lighter colored feathers under its tail.",
+          "indo": "burung gagak biasa yang berwarna hitam seluruhnya dan memiliki bulu berwarna sedikit lebih terang di bawah ekornya."
+        },
+        {
+          "english": "this bird is all black, with a pointed a black bill.",
+          "indo": "burung ini serba hitam, dengan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a black belly, black wings, and black tail.",
+          "indo": "burung ini memiliki perut berwarna hitam, sayap berwarna hitam, dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a black beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "a medium sized bird with black feathers, a black head, a black beak, and black wings.",
+          "indo": "burung berukuran sedang dengan bulu hitam, kepala hitam, paruh hitam, dan sayap hitam."
+        },
+        {
+          "english": "a dark black bird with a black pointed beak looking down.",
+          "indo": "seekor burung hitam pekat dengan paruh runcing hitam menghadap ke bawah."
+        },
+        {
+          "english": "this bird is completely black, with a gray crown, and a bulky pointy bill.",
+          "indo": "burung ini berwarna hitam pekat, dengan mahkota berwarna abu-abu, dan paruh besar dan runcing."
+        },
+        {
+          "english": "this bird has a silvery and black colored crown and breast",
+          "indo": "burung ini mempunyai mahkota dan dada berwarna keperakan dan hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0078_26144.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "thin and small all black bird with a long pointed black beak and black thighs.",
+          "indo": "burung hitam kurus dan kecil dengan paruh hitam runcing panjang dan paha hitam."
+        },
+        {
+          "english": "this bird is completely black, including its eyes and beak.",
+          "indo": "burung ini berwarna hitam seluruhnya, termasuk mata dan paruhnya."
+        },
+        {
+          "english": "a completely black crow with shiny feathers and eyes and has a little lighter black colored beak.",
+          "indo": "burung gagak yang benar-benar hitam dengan bulu dan mata mengkilat serta memiliki paruh berwarna hitam sedikit lebih terang."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is an all black bird with a long, skinny, sharp bill.",
+          "indo": "ini adalah burung serba hitam dengan paruh yang panjang, kurus, dan tajam."
+        },
+        {
+          "english": "this bird is entirely black, including the medium long bill that is hooked at the end, the tarsus, foot and eye.",
+          "indo": "burung ini seluruhnya berwarna hitam, termasuk paruhnya yang berukuran sedang dan panjang yang bengkok di ujungnya, tarsus, kaki dan matanya."
+        },
+        {
+          "english": "this bird is black in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a dark black bird with a pointed black beak sitting on a branch.",
+          "indo": "seekor burung hitam pekat dengan paruh hitam runcing duduk di dahan."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        },
+        {
+          "english": "the stark black bird has a thick bill and small head on a medium body.",
+          "indo": "burung berwarna hitam pekat ini memiliki paruh tebal dan kepala kecil dengan tubuh sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0079_26030.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "all black, large bird, with black eyes, beak, and claws.",
+          "indo": "semuanya berwarna hitam, burung besar, dengan mata, paruh, dan cakar hitam."
+        },
+        {
+          "english": "this is a medium-large bird and it is all black from the beak to the tip of the tail, including the feet.",
+          "indo": "ini adalah burung berukuran sedang dan semuanya berwarna hitam dari paruh hingga ujung ekor, termasuk kaki."
+        },
+        {
+          "english": "this bird is completely black with a long blunt bill.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh yang panjang dan tumpul."
+        },
+        {
+          "english": "this is a black bird with a short bill and thin throat.",
+          "indo": "ini burung berwarna hitam dengan paruh pendek dan tenggorokan tipis."
+        },
+        {
+          "english": "this is a large black bird with a downward pointing beak.",
+          "indo": "ini adalah burung hitam besar dengan paruh mengarah ke bawah."
+        },
+        {
+          "english": "a large all black bird with a medium sized head, somewhat shiny black beak, and a distinctive chirp (caw).",
+          "indo": "burung berukuran besar serba hitam dengan kepala berukuran sedang, paruh agak hitam mengkilat, dan kicauan (caw) yang khas."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "is large with a pointed bill, and the body is all black.",
+          "indo": "berukuran besar dengan paruh runcing, dan badannya serba hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0080_25861.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "the bird is black with blue accents on the wings.",
+          "indo": "burung itu berwarna hitam dengan aksen biru pada sayapnya."
+        },
+        {
+          "english": "this bird is black with short claws and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan cakar yang pendek dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is completely black, with a large curved bill and black eyes.",
+          "indo": "burung ini berwarna hitam pekat, dengan paruh besar melengkung dan mata berwarna hitam."
+        },
+        {
+          "english": "small bird all black with dark shimmering coverts.",
+          "indo": "burung kecil serba hitam dengan bulu gelap berkilauan."
+        },
+        {
+          "english": "this bird has a black crown, a short black bill, and a black breast",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh pendek berwarna hitam, dan dada berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has wings that are black and has a thin bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tipis"
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black and blue in color, and has a black beak.",
+          "indo": "burung ini berwarna hitam biru, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this birds primaries and secondaries are a pretty shade of cobalt blue. the rest of the bird is black. his beak is average length.",
+          "indo": "burung bulu primer dan bulu sekunder ini memiliki warna biru kobalt yang cantik. sisa burungnya berwarna hitam. paruhnya panjangnya rata-rata."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0081_25908.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this all black bird has white eyes and thick bill at its base tapering out to a point.",
+          "indo": "Burung serba hitam ini bermata putih dan paruh tebal di pangkalnya meruncing."
+        },
+        {
+          "english": "this bird has a black crown, black feet, and a black breast.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, kaki berwarna hitam, dan dada berwarna hitam."
+        },
+        {
+          "english": "the bird is made of thick black feathers and a thick black beak.",
+          "indo": "burung itu terbuat dari bulu hitam tebal dan paruh hitam tebal."
+        },
+        {
+          "english": "this is an all black bird with black beady eyes.",
+          "indo": "ini adalah burung serba hitam dengan mata manik-manik hitam."
+        },
+        {
+          "english": "this large black bird has semi- iridescent feathers and brown accents at the tips of its tail feathers.",
+          "indo": "Burung berukuran besar berwarna hitam ini memiliki bulu semi-warna-warni dan aksen coklat di ujung bulu ekornya."
+        },
+        {
+          "english": "this bird is mostly black with a long beak and piercing eyes.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan paruh panjang dan mata tajam."
+        },
+        {
+          "english": "this bird has brown and black feathers covering its entire body and a white eye ring.",
+          "indo": "burung ini memiliki bulu berwarna coklat kehitaman menutupi seluruh tubuhnya dan cincin mata berwarna putih."
+        },
+        {
+          "english": "the bird is a dark brown and black all over with a prominent thick bill.",
+          "indo": "burung itu berwarna coklat tua dan hitam seluruhnya dengan paruh tebal yang menonjol."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird has a back pointed bill, with a black breast.",
+          "indo": "Burung ini memiliki paruh yang runcing ke belakang, dengan dada berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0082_26012.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a thick black tailed bird with long black primaries and a medium sized black bill.",
+          "indo": "burung berekor hitam tebal dengan warna bulu primer hitam panjang dan paruh hitam berukuran sedang."
+        },
+        {
+          "english": "the bird has a very distinct black overall color from its crown to its feet.",
+          "indo": "burung ini memiliki warna keseluruhan hitam yang sangat berbeda dari ubun-ubun hingga kakinya."
+        },
+        {
+          "english": "an all black bird with large wings and a thick neck.",
+          "indo": "seekor burung serba hitam dengan sayap besar dan leher tebal."
+        },
+        {
+          "english": "this bird is about 14 inches from bill to tail, and is all black including the bill, entire body wings, tail and feet.",
+          "indo": "burung ini berukuran sekitar 14 inci dari paruh hingga ekor, dan semuanya berwarna hitam termasuk paruh, seluruh sayap tubuh, ekor dan kaki."
+        },
+        {
+          "english": "a bird with a medium pointed bill and coarse deep black plumage.",
+          "indo": "seekor burung dengan paruh runcing sedang dan bulu hitam pekat yang kasar."
+        },
+        {
+          "english": "a completely black bird, it has a small head for its body, and small black bill with a downward curve on the tip.",
+          "indo": "burung yang benar-benar hitam, memiliki kepala kecil di badannya, dan paruh kecil berwarna hitam dengan ujung melengkung ke bawah."
+        },
+        {
+          "english": "this bird has black feathers covering its entire body along with a black eye ring",
+          "indo": "burung ini memiliki bulu berwarna hitam menutupi seluruh tubuhnya beserta cincin mata berwarna hitam"
+        },
+        {
+          "english": "this large bird has black eyes, and black feathers.",
+          "indo": "burung besar ini mempunyai mata hitam, dan bulu hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "a large black bird with a wide tail, long black legs, a small head, large wide wings, and a short pointy beak.",
+          "indo": "burung hitam besar dengan ekor lebar, kaki hitam panjang, kepala kecil, sayap lebar besar, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0083_25949.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "this black bird has black wings, tail, belly and breast, throat, bill and black back",
+          "indo": "burung hitam ini memiliki sayap, ekor, perut dan dada berwarna hitam, tenggorokan, paruh dan punggung berwarna hitam"
+        },
+        {
+          "english": "this large solid black bird also has a large bill that slightly curls down at the end of it.",
+          "indo": "burung besar berwarna hitam pekat ini juga mempunyai paruh besar yang agak melengkung ke bawah di bagian ujungnya."
+        },
+        {
+          "english": "a large, all black bird, with a long pointed bill and wide wingspan.",
+          "indo": "seekor burung besar berwarna hitam, dengan paruh panjang runcing dan rentang sayap lebar."
+        },
+        {
+          "english": "the bird is black all around and its wings are extended and long when flying in midair",
+          "indo": "burung itu berwarna hitam di sekelilingnya dan sayapnya terentang dan panjang ketika terbang di udara"
+        },
+        {
+          "english": "a black bird with a long, curved bill, and wide wingspan.",
+          "indo": "burung berwarna hitam dengan paruh panjang melengkung dan rentang sayap lebar."
+        },
+        {
+          "english": "this bird has wings that are black with a black bulky bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh besar berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium sized all jet black bird, it has a large wingspan for its body, and a medium sized black bill.",
+          "indo": "burung berwarna hitam legam berukuran sedang, memiliki rentang sayap yang besar untuk tubuhnya, dan paruh berwarna hitam berukuran sedang."
+        },
+        {
+          "english": "this large black bird has a long black beak and long, pronounced black wing feathers.",
+          "indo": "burung hitam besar ini memiliki paruh hitam panjang dan bulu sayap hitam panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Fish_Crow_0085_25919.jpg",
+      "class_id": 29,
+      "captions": [
+        {
+          "english": "a medium sized black bird with a stout pointed beak",
+          "indo": "seekor burung hitam berukuran sedang dengan paruh runcing kekar"
+        },
+        {
+          "english": "this bird has a black crown, a black bill, and large black feet.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh berwarna hitam, dan kaki besar berwarna hitam."
+        },
+        {
+          "english": "this bird has a black bill along with a black belly, and black breast.",
+          "indo": "burung ini memiliki paruh berwarna hitam, perut berwarna hitam, dan dada berwarna hitam."
+        },
+        {
+          "english": "this bird is solid black with a stocky short curved beak.",
+          "indo": "burung ini berwarna hitam pekat dengan paruh kekar pendek melengkung."
+        },
+        {
+          "english": "this is a large black bird with black feet and a black beak.",
+          "indo": "ini adalah burung hitam besar dengan kaki hitam dan paruh hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has a black belly, and it's bill is short and slightly rounded at the tip.",
+          "indo": "burung ini perutnya berwarna hitam, paruhnya pendek dan ujungnya agak membulat."
+        },
+        {
+          "english": "this black bird has large feet and a small pointed beak.",
+          "indo": "burung berwarna hitam ini memiliki kaki yang besar dan paruh kecil yang runcing."
+        },
+        {
+          "english": "this all-black bird has a curved beak. he is of average size and has shiny feathers.",
+          "indo": "burung serba hitam ini mempunyai paruh yang melengkung. dia berukuran rata-rata dan memiliki bulu yang berkilau."
+        },
+        {
+          "english": "this bird has wings that are black and has a thickb bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tebal"
+        }
+      ]
+    }
+  ]
+}

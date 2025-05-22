@@ -1,0 +1,2764 @@
+{
+    "dataset": [
+        {
+            "filename": "Frigatebird_0001_43101.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a large black and white bird with a large wing span",
+                    "indo": "ini adalah burung besar berwarna hitam putih dengan rentang sayap yang besar"
+                },
+                {
+                    "english": "this black bird has a grey bill, an impressive wingspan, and a forked tail.",
+                    "indo": "burung hitam ini memiliki paruh berwarna abu-abu, rentang sayap yang mengesankan, dan ekor bercabang."
+                },
+                {
+                    "english": "a medium sized bird that is mostly dark brown with a white chest",
+                    "indo": "burung berukuran sedang yang sebagian besar berwarna coklat tua dengan dada berwarna putih"
+                },
+                {
+                    "english": "this bird has a white breast, black wings, and a black head",
+                    "indo": "burung ini memiliki dada berwarna putih, sayap hitam, dan kepala berwarna hitam"
+                },
+                {
+                    "english": "this bird has a huge wingspan and sharp, pointed extended black wings.",
+                    "indo": "burung ini mempunyai rentang sayap yang besar dan sayap hitam memanjang yang tajam dan runcing."
+                },
+                {
+                    "english": "this particular bird has a black belly and white breasts and a black head",
+                    "indo": "burung ini memiliki perut berwarna hitam, dada berwarna putih, dan kepala berwarna hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has a black crown as well as a white breast",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan dada berwarna putih"
+                },
+                {
+                    "english": "this bird has a brown crown, brown throat, and a white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat, tenggorokan berwarna coklat, dan perut berwarna putih."
+                },
+                {
+                    "english": "a medium sized bird with a white breast and a long tail and a short sharp beak.",
+                    "indo": "burung berukuran sedang dengan dada berwarna putih dan ekor panjang serta paruh pendek dan tajam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0004_43221.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "small white bird with large black feathers that has a thin white stripe on its feathers and orange beak and feet.",
+                    "indo": "burung kecil berwarna putih dengan bulu hitam besar yang memiliki garis putih tipis pada bulunya serta paruh dan kaki berwarna jingga."
+                },
+                {
+                    "english": "this bird has a white belly and breast, with a large hooked bill.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih, dengan paruh bengkok yang besar."
+                },
+                {
+                    "english": "this black bird with a white breast has a very long bill and small head compared to its body.",
+                    "indo": "Burung berwarna hitam dengan dada berwarna putih ini memiliki paruh yang sangat panjang dan kepala yang kecil dibandingkan dengan tubuhnya."
+                },
+                {
+                    "english": "this bird is black and white in color with a long large curved beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh panjang besar melengkung, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "a medium-sized bird with a very long and curved beak that has black and white markings.",
+                    "indo": "burung berukuran sedang dengan paruh sangat panjang dan melengkung yang memiliki corak hitam putih."
+                },
+                {
+                    "english": "this bird has a long straight pink beak, is white on its breast and front of its head, while the rest of its body is black.",
+                    "indo": "Burung ini mempunyai paruh panjang lurus berwarna merah jambu, berwarna putih pada bagian dada dan kepala bagian depan, sedangkan pada bagian tubuh lainnya berwarna hitam."
+                },
+                {
+                    "english": "this bird is black and white in color, with a long curved beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh melengkung panjang."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "large white bodied bird with black wings, red feet, a white head, large black eyes, and a large pale long beak with a slight downward hook at the end.",
+                    "indo": "burung besar bertubuh putih dengan sayap hitam, kaki merah, kepala putih, mata hitam besar, dan paruh besar pucat panjang dengan kait agak ke bawah di ujungnya."
+                },
+                {
+                    "english": "a bird with a white breast and black wings and a large beak.",
+                    "indo": "seekor burung dengan dada putih dan sayap hitam serta paruh besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0005_42828.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large bird with a white belly and head, with a long rounded bill.",
+                    "indo": "seekor burung besar dengan perut dan kepala berwarna putih, dengan paruh yang panjang dan membulat."
+                },
+                {
+                    "english": "thats a black bird that has a white belly and a long bill",
+                    "indo": "itu burung berwarna hitam yang perutnya berwarna putih dan paruhnya panjang"
+                },
+                {
+                    "english": "this bird has a white crown, a pointed beak, and a large black wing",
+                    "indo": "burung ini memiliki mahkota berwarna putih, paruh runcing, dan sayap besar berwarna hitam"
+                },
+                {
+                    "english": "this bird has a long, flat bill, a white belly & breast, and black wing feathers and tail.",
+                    "indo": "burung ini memiliki paruh yang panjang dan rata, perut & dada berwarna putih, serta bulu sayap dan ekor berwarna hitam."
+                },
+                {
+                    "english": "this bird is mostly gray with a long tail, and long hooked bill.",
+                    "indo": "burung ini sebagian besar berwarna abu-abu dengan ekor panjang, dan paruh bengkok panjang."
+                },
+                {
+                    "english": "a small bird with enormous wingspan, and a large beak.",
+                    "indo": "seekor burung kecil dengan rentang sayap yang sangat besar, dan paruh yang besar."
+                },
+                {
+                    "english": "a large bird with a long bill, very long wing bars and a white crown.",
+                    "indo": "seekor burung besar dengan paruh yang panjang, garis sayap yang sangat panjang dan mahkota berwarna putih."
+                },
+                {
+                    "english": "this bird is white and black in color, with a large curved beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh besar yang melengkung."
+                },
+                {
+                    "english": "this large bird has a large yellow bill, white body, and dark wings with a long tail.",
+                    "indo": "burung besar ini memiliki paruh besar berwarna kuning, badan berwarna putih, dan sayap berwarna gelap dengan ekor yang panjang."
+                },
+                {
+                    "english": "a large bird with white breast and long beak and tail.",
+                    "indo": "seekor burung besar dengan dada berwarna putih dan paruh serta ekor yang panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0006_43381.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this black bird has a light yellow bill and long wings.",
+                    "indo": "burung berwarna hitam ini memiliki paruh berwarna kuning muda dan sayap yang panjang."
+                },
+                {
+                    "english": "this bird has a long wingspan and is mostly black in color.",
+                    "indo": "burung ini mempunyai rentang sayap yang panjang dan sebagian besar berwarna hitam."
+                },
+                {
+                    "english": "this dark colored bird has long tail feathers and a large wingspan.",
+                    "indo": "burung berwarna gelap ini mempunyai bulu ekor yang panjang dan rentang sayap yang besar."
+                },
+                {
+                    "english": "this large bird has a all black body, long wings and tail and hunts fish.",
+                    "indo": "burung besar ini memiliki tubuh serba hitam, sayap dan ekor panjang serta berburu ikan."
+                },
+                {
+                    "english": "this black bird has large wings and a lighter colored beak.",
+                    "indo": "burung berwarna hitam ini memiliki sayap yang besar dan paruh berwarna lebih terang."
+                },
+                {
+                    "english": "this brown/black bird has a very large wing span and a small head with a long pointed tail.",
+                    "indo": "burung berwarna coklat/hitam ini mempunyai rentang sayap yang sangat besar dan kepala yang kecil dengan ekor yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has is a big winged black bird with a orange bill.",
+                    "indo": "burung ini mempunyai burung hitam bersayap besar dengan paruh berwarna jingga."
+                },
+                {
+                    "english": "this large bird has a long wingspan and a white beak.",
+                    "indo": "burung besar ini memiliki rentang sayap yang panjang dan paruh berwarna putih."
+                },
+                {
+                    "english": "this particular bird has a belly that is black and an orange bill",
+                    "indo": "burung ini memiliki perut berwarna hitam dan paruh berwarna oranye"
+                },
+                {
+                    "english": "the bird is large with a pointed bill, and the wings are brown.",
+                    "indo": "burungnya besar dengan paruh runcing, dan sayapnya berwarna coklat."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0008_43058.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a black and white bird with a white bill and a long outer rectrices",
+                    "indo": "ini adalah burung hitam putih dengan paruh putih dan outer rectrices"
+                },
+                {
+                    "english": "a medium sized bird with black and a bill that curves downwards",
+                    "indo": "burung berukuran sedang dengan warna hitam dan paruh melengkung ke bawah"
+                },
+                {
+                    "english": "this is a long, thin bird with a light bill. the inner and outer rectrices are quite long and bifid. the breast and belly are white but the rest of the bird is dark grey to black.",
+                    "indo": "ini adalah burung yang panjang dan kurus dengan paruh yang ringan. inner dan outer rectrices cukup panjang dan bercabang dua. dada dan perutnya berwarna putih tetapi bagian burung lainnya berwarna abu-abu tua hingga hitam."
+                },
+                {
+                    "english": "this large bird has a white belly and breast with a large hooked bill.",
+                    "indo": "burung berukuran besar ini memiliki perut dan dada berwarna putih dengan paruh bengkok yang besar."
+                },
+                {
+                    "english": "medium to large white grey and black bird with long white beak",
+                    "indo": "burung berwarna putih abu-abu dan hitam berukuran sedang hingga besar dengan paruh putih panjang"
+                },
+                {
+                    "english": "this large, long billed, mainly black bird has a white breast and belly.",
+                    "indo": "burung besar, berparuh panjang, sebagian besar berwarna hitam ini memiliki dada dan perut berwarna putih."
+                },
+                {
+                    "english": "this large bird has black wings and a white breast.",
+                    "indo": "burung besar ini memiliki sayap hitam dan dada berwarna putih."
+                },
+                {
+                    "english": "the bird has two large wingbars and a long belly.",
+                    "indo": "burung itu mempunyai dua garis sayap yang besar dan perut yang panjang."
+                },
+                {
+                    "english": "a large black bird with white belly, black head and yellow long bill.",
+                    "indo": "seekor burung hitam besar dengan perut putih, kepala hitam dan paruh panjang berwarna kuning."
+                },
+                {
+                    "english": "this bird has a white belly with black abdomen and long black wings.",
+                    "indo": "burung ini memiliki perut berwarna putih dengan perut berwarna hitam dan sayap berwarna hitam panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0011_43213.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this large bird has black wings and tail and a white head with a long beak.",
+                    "indo": "burung besar ini mempunyai sayap dan ekor berwarna hitam serta kepala berwarna putih dengan paruh yang panjang."
+                },
+                {
+                    "english": "this bird has a white crown, a long bill, and a large wingspan",
+                    "indo": "burung ini memiliki mahkota berwarna putih, paruh yang panjang, dan rentang sayap yang besar"
+                },
+                {
+                    "english": "large bird with large wingspan with long straight white beak, white head and throat and black wings.",
+                    "indo": "burung besar dengan rentang sayap besar dengan paruh panjang lurus berwarna putih, kepala dan tenggorokan berwarna putih, serta sayap berwarna hitam."
+                },
+                {
+                    "english": "a large bird with a large bill, large spreaded wings and white breast.",
+                    "indo": "seekor burung besar dengan paruh besar, sayap terbentang besar, dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird has a nice black and white color from the wing bars being black and with a blue colored beak. a white throat area with a black under tail covert area make this a very attractive bird in flying formation.",
+                    "indo": "burung ini mempunyai warna hitam putih yang bagus dari garis sayapnya yang berwarna hitam dan paruhnya berwarna biru. Area tenggorokan berwarna putih dengan area tersembunyi di bawah ekor berwarna hitam menjadikan burung ini sangat menarik dalam formasi terbang."
+                },
+                {
+                    "english": "this black bird has a large wing span white head and underbelly,long pointed beak and a v shaped tail.",
+                    "indo": "Burung berwarna hitam ini memiliki rentang sayap besar, kepala dan perut berwarna putih, paruh runcing panjang, dan ekor berbentuk v."
+                },
+                {
+                    "english": "this is a large black bird with a small tail and a white head.",
+                    "indo": "ini adalah burung hitam besar dengan ekor kecil dan kepala berwarna putih."
+                },
+                {
+                    "english": "this bird is black all over except for the head, breast, and belly, with black wings and black, forked tail feathers; it has a prominent beak with a slight hook at the end.",
+                    "indo": "burung ini berwarna hitam seluruhnya kecuali kepala, dada, dan perut, dengan sayap hitam dan bulu ekor hitam bercabang; paruhnya menonjol dengan sedikit kait di ujungnya."
+                },
+                {
+                    "english": "a medium sized bird with a black wings, and a long bill",
+                    "indo": "seekor burung berukuran sedang dengan sayap hitam, dan paruh panjang"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white head",
+                    "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki kepala berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0012_43062.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a long beaked large bird with a white breast, and two longer outer rectrices.",
+                    "indo": "seekor burung besar berparuh panjang dengan dada berwarna putih, dan dua burung rectrices luar yang lebih panjang."
+                },
+                {
+                    "english": "this is a black bird with a white breast and a long beak.",
+                    "indo": "ini burung hitam dengan dada putih dan paruh panjang."
+                },
+                {
+                    "english": "a large bird that is mostly black with a white throat and breast and long tail feathers.",
+                    "indo": "burung berukuran besar yang sebagian besar berwarna hitam dengan tenggorokan dan dada berwarna putih serta bulu ekor yang panjang."
+                },
+                {
+                    "english": "bird with long and fat beak that is curved at the tip, and the throat and breast are white with the remaining body covered in black",
+                    "indo": "burung dengan paruh panjang dan gemuk yang ujungnya melengkung, serta tenggorokan dan dada berwarna putih dengan sisa badan tertutup warna hitam"
+                },
+                {
+                    "english": "a bird with a long beak that is slightly curved at the end with a white chest and black wings.",
+                    "indo": "burung dengan paruh panjang agak melengkung di ujungnya, dada berwarna putih, dan sayap berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "this bird has a long orange beak with a black body and a white breast.",
+                    "indo": "burung ini memiliki paruh panjang berwarna oranye dengan tubuh berwarna hitam dan dada berwarna putih."
+                },
+                {
+                    "english": "a black bird with a white breast and black belly and the bill is long and curved downwards",
+                    "indo": "burung berwarna hitam dengan dada berwarna putih dan perut berwarna hitam serta paruhnya panjang dan melengkung ke bawah"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0015_43132.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this large, black bird has long, thin wings with a distinctive bend in them and a characteristic forked tail. this bird has a bill which is long and thin with a slight hook to the end, and a throat patch of lighter color.",
+                    "indo": "burung besar berwarna hitam ini memiliki sayap yang panjang dan tipis dengan lekukan yang khas dan ciri ekor yang bercabang. burung ini mempunyai paruh yang panjang dan tipis dengan sedikit kait di ujungnya, dan bercak tenggorokan berwarna lebih terang."
+                },
+                {
+                    "english": "a very large bird with an expansive wingspan in relation to the size of its body, covered n black and dark grey feathers.",
+                    "indo": "seekor burung yang sangat besar dengan rentang sayap yang lebar dibandingkan dengan ukuran tubuhnya, ditutupi bulu berwarna hitam dan abu-abu tua."
+                },
+                {
+                    "english": "this large bird is mostly gray with a long hooked bill and long split tail.",
+                    "indo": "burung besar ini sebagian besar berwarna abu-abu dengan paruh bengkok panjang dan ekor terbelah panjang."
+                },
+                {
+                    "english": "a large black bird with split tail feathers.",
+                    "indo": "seekor burung hitam besar dengan bulu ekor terbelah."
+                },
+                {
+                    "english": "a big bird with black and brown feathers accompanied by a black and orange beak.",
+                    "indo": "seekor burung besar dengan bulu berwarna hitam coklat disertai paruh berwarna hitam jingga."
+                },
+                {
+                    "english": "a black bird with an extremely large wing span, the chin of it is orange.",
+                    "indo": "burung berwarna hitam dengan rentang sayap yang sangat besar, dagunya berwarna oranye."
+                },
+                {
+                    "english": "this bird has a black crown as well as a orange bill",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has a long beak that points down at the end.",
+                    "indo": "burung ini mempunyai paruh panjang yang ujungnya mengarah ke bawah."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has a black crown, black primaries, and a black belly.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0016_43159.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "small black bird with large black wings and a white body and white beak.",
+                    "indo": "burung hitam kecil dengan sayap hitam besar dan tubuh putih serta paruh putih."
+                },
+                {
+                    "english": "a large bird with black wings and rectrices, a white chest, and black face.",
+                    "indo": "seekor burung besar dengan sayap dan rectrices  hitam, dada putih, dan wajah hitam."
+                },
+                {
+                    "english": "a large flying bird with all black symmetrical wings, a white under belly. and short white tail feathers.",
+                    "indo": "burung terbang besar dengan sayap simetris serba hitam, perut bagian bawah berwarna putih. dan bulu ekor pendek berwarna putih."
+                },
+                {
+                    "english": "this is an all black bird with a white breast and a long and pointy beak.",
+                    "indo": "ini adalah burung serba hitam dengan dada putih dan paruh panjang dan runcing."
+                },
+                {
+                    "english": "the bird is entirely black except for the its white breast.",
+                    "indo": "burung itu seluruhnya berwarna hitam kecuali bagian dadanya yang putih."
+                },
+                {
+                    "english": "this bird has wings that are black and very long with a long beak",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan sangat panjang dengan paruh yang panjang"
+                },
+                {
+                    "english": "this is a black bird with a white breast and sides as well as a light gray long beak.",
+                    "indo": "ini adalah burung berwarna hitam dengan dada dan sisi berwarna putih serta paruh panjang berwarna abu-abu muda."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0019_43348.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the bird has two long wingbars and a long white bill.",
+                    "indo": "burung ini memiliki dua garis sayap yang panjang dan paruh berwarna putih yang panjang."
+                },
+                {
+                    "english": "this majestic bird has a black body and long black wings with brown hues, a sharp white beak, and red throat.",
+                    "indo": "burung agung ini memiliki tubuh berwarna hitam dan sayap hitam panjang dengan corak coklat, paruh putih runcing, dan tenggorokan berwarna merah."
+                },
+                {
+                    "english": "a large black bird with a red breast.",
+                    "indo": "seekor burung hitam besar dengan dada merah."
+                },
+                {
+                    "english": "this bird is nearly all black with a red neck and long hooked bill.",
+                    "indo": "burung ini hampir seluruhnya berwarna hitam dengan leher berwarna merah dan paruh bengkok panjang."
+                },
+                {
+                    "english": "a black bird with red on its neck and large wings",
+                    "indo": "seekor burung hitam dengan warna merah di leher dan sayap besar"
+                },
+                {
+                    "english": "a large bird with long wings and a blunt beak and a patch of red on the throat.",
+                    "indo": "burung besar bersayap panjang dan paruh tumpul serta bercak merah di tenggorokan."
+                },
+                {
+                    "english": "a large bird with long wings and a red throat.",
+                    "indo": "seekor burung besar dengan sayap panjang dan tenggorokan merah."
+                },
+                {
+                    "english": "this bird is black and brown in color, with a curved large white beak.",
+                    "indo": "burung ini berwarna hitam kecokelatan, dengan paruh besar melengkung berwarna putih."
+                },
+                {
+                    "english": "a large black bird with a small head, impressive wingspan, hooked bill and red throat.",
+                    "indo": "seekor burung hitam besar dengan kepala kecil, rentang sayap yang mengesankan, paruh bengkok dan tenggorokan merah."
+                },
+                {
+                    "english": "this bird has a bright red neck and a long brown wingspan",
+                    "indo": "burung ini memiliki leher berwarna merah cerah dan rentang sayap berwarna coklat panjang"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0021_42913.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a large, puffed up red belly with black wings and a curved beak.",
+                    "indo": "burung ini memiliki perut besar berwarna merah menggembung dengan sayap hitam dan paruh melengkung."
+                },
+                {
+                    "english": "this large bird has a dark brown underbelly, dark green on its head, wings, and tail, a large grey beak that the top curves down, and its whole chest is bright red and puffs way out.",
+                    "indo": "Burung besar ini mempunyai perut bagian bawah berwarna coklat tua, kepala, sayap, dan ekor berwarna hijau tua, paruh besar berwarna abu-abu yang bagian atasnya melengkung ke bawah, dan seluruh dadanya berwarna merah cerah dan membusung keluar."
+                },
+                {
+                    "english": "this is a black bird with a long downward pointing white beak.",
+                    "indo": "ini adalah burung hitam dengan paruh putih panjang mengarah ke bawah."
+                },
+                {
+                    "english": "this bird is mostly black with a beautiful red belly, the bird does also have a long beak.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan perut berwarna merah yang indah, burung ini juga memiliki paruh yang panjang."
+                },
+                {
+                    "english": "this is a large black bird with a heart shaped red breast and hooked bill.",
+                    "indo": "ini adalah burung hitam besar dengan dada merah berbentuk hati dan paruh bengkok."
+                },
+                {
+                    "english": "this bird has wings that are black and has a big red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang besar berwarna merah"
+                },
+                {
+                    "english": "this large bird has a very puffy, bright red breast and belly, black body with black wings and a long black bill that is curved at the end.",
+                    "indo": "burung besar ini mempunyai dada dan perut yang sangat buncit, berwarna merah cerah, badan berwarna hitam dengan sayap berwarna hitam dan paruh panjang berwarna hitam yang melengkung di ujungnya."
+                },
+                {
+                    "english": "this bird has a huge, bright red breast and belly, and a sharp bill that curves down.",
+                    "indo": "burung ini memiliki dada dan perut besar berwarna merah cerah, serta paruh tajam melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                },
+                {
+                    "english": "a large black bird, with an inflated red breast, and a pointed bill.",
+                    "indo": "seekor burung hitam besar, dengan dada merah menggembung, dan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0022_43457.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the bird has a massive wingspan, and its wings are mainly black with brown undertones. its body is sleek by strong, with distinct dark tailfeathers. its beak is large, pointed, slightly curved, and a pale yellow.",
+                    "indo": "burung ini memiliki rentang sayap yang besar, dan sebagian besar sayapnya berwarna hitam dengan warna dasar coklat. tubuhnya ramping dan kuat, dengan bulu ekor berwarna gelap yang mencolok. paruhnya besar, runcing, agak melengkung, dan berwarna kuning pucat."
+                },
+                {
+                    "english": "the bird has a light brown tone on his wing, and has a large wing span.",
+                    "indo": "burung ini memiliki warna coklat muda pada sayapnya, dan mempunyai rentang sayap yang besar."
+                },
+                {
+                    "english": "a skinny black bird with long wings and a long v shaped tail.",
+                    "indo": "seekor burung hitam kurus dengan sayap panjang dan ekor panjang berbentuk v."
+                },
+                {
+                    "english": "this bird is brown and black in color with a large beak, and black eye rings.",
+                    "indo": "burung ini berwarna coklat kehitaman dengan paruh besar, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this large bird is mostly black and shades of brown with a very sharp light-colored beak.",
+                    "indo": "burung besar ini sebagian besar berwarna hitam dan bernuansa coklat dengan paruh berwarna terang yang sangat tajam."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a white bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna putih"
+                },
+                {
+                    "english": "a large solid brown bird with a long, sharp bill.",
+                    "indo": "seekor burung besar berwarna coklat solid dengan paruh yang panjang dan tajam."
+                },
+                {
+                    "english": "the bird has wings that are black and brown toned, with a long pointed bill.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam kecokelatan, dengan paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+                },
+                {
+                    "english": "this large black bird has a long wingspan and a tail that forks into an inverted v during flight.",
+                    "indo": "burung hitam besar ini memiliki rentang sayap yang panjang dan ekor yang bercabang menjadi huruf v terbalik saat terbang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0023_43110.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large bird with large brown wings, a white belly, and a brown head, with a large, grey bill, which is curved downward in the front.",
+                    "indo": "seekor burung besar dengan sayap besar berwarna coklat, perut berwarna putih, dan kepala berwarna coklat, dengan paruh besar berwarna abu-abu, yang bagian depannya melengkung ke bawah."
+                },
+                {
+                    "english": "a bird with large, long wings, a white breast and otherwise brown, with a long, hooked, grey bill.",
+                    "indo": "seekor burung dengan sayap besar dan panjang, dada berwarna putih dan sebaliknya berwarna coklat, dengan paruh panjang, bengkok, berwarna abu-abu."
+                },
+                {
+                    "english": "a tagged bird with a long, curved bill, white chest, black head, and very large, black wings.",
+                    "indo": "burung bertanda dengan paruh panjang melengkung, dada putih, kepala hitam, dan sayap hitam sangat besar."
+                },
+                {
+                    "english": "this bird has a long bill and has long brown wings.",
+                    "indo": "burung ini mempunyai paruh yang panjang dan mempunyai sayap yang panjang berwarna coklat."
+                },
+                {
+                    "english": "this bird has a black belly, white breast, and a long hooked bill.",
+                    "indo": "burung ini mempunyai perut berwarna hitam, dada berwarna putih, dan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "a small bird with a brown head and nape, with white and brown covering the rest of its body.",
+                    "indo": "seekor burung kecil dengan kepala dan tengkuk berwarna coklat, dengan warna putih dan coklat menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "a medium size bird with long wings and a white belly.",
+                    "indo": "burung berukuran sedang dengan sayap panjang dan perut berwarna putih."
+                },
+                {
+                    "english": "the bird has a wide wingspan that with wings that are grey in color and a chest that is white.",
+                    "indo": "Burung ini mempunyai rentang sayap yang lebar dengan sayap berwarna abu-abu dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird is white and brown in color, and has a large curved gray beak.",
+                    "indo": "burung ini berwarna putih kecokelatan, serta mempunyai paruh besar berwarna abu-abu yang melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0031_42979.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a white bird with black wings and a white beak.",
+                    "indo": "ini adalah burung putih dengan sayap hitam dan paruh putih."
+                },
+                {
+                    "english": "this is a large bird with long brown wingbars and a long white bill",
+                    "indo": "ini adalah burung besar dengan garis sayap panjang berwarna coklat dan paruh putih panjang"
+                },
+                {
+                    "english": "bird with large downward hooked bill, brown covering its wings and back and white breast.",
+                    "indo": "burung dengan paruh besar bengkok ke bawah, berwarna coklat menutupi sayap dan punggung serta dada berwarna putih."
+                },
+                {
+                    "english": "this bird has a white bill and head along with breast and the rest of it is black.",
+                    "indo": "burung ini mempunyai paruh dan kepala berwarna putih serta dada dan sisanya berwarna hitam."
+                },
+                {
+                    "english": "this bird has a white head, belly, abdomen and breast with the rest colored in brown.",
+                    "indo": "burung ini mempunyai kepala, perut, perut dan dada berwarna putih dan selebihnya berwarna coklat."
+                },
+                {
+                    "english": "white head and breast. beak is long with down-curved at end. wings, back, and tail are black. has some black and white speckling under wings on flank.",
+                    "indo": "kepala dan dada berwarna putih. paruhnya panjang dengan ujung melengkung ke bawah. sayap, punggung, dan ekor berwarna hitam. memiliki beberapa bintik hitam dan putih di bawah sayap pada sayap."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this is a big bird with a large wingspan and beak, and has a white belly with black coverts.",
+                    "indo": "ini adalah burung besar dengan rentang sayap dan paruh besar, serta memiliki perut berwarna putih dengan bulu hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0034_43053.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a long wingspan, long inner and outer rectrices, white breast and nape, a long beak.",
+                    "indo": "burung ini mempunyai rentang sayap yang panjang, inner dan outer rectrices, dada dan tengkuk berwarna putih, paruh panjang."
+                },
+                {
+                    "english": "a large bird with wide and long wings a patch of red in the lower area.",
+                    "indo": "seekor burung besar dengan sayap lebar dan panjang, bercak merah di bagian bawah."
+                },
+                {
+                    "english": "this bird has jet black wings and outer rectrices with a white breast.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam legam dan outer rectrices dengan dada berwarna putih."
+                },
+                {
+                    "english": "large black bird with white nape and breast and very large wing span with long beak",
+                    "indo": "burung hitam besar dengan tengkuk dan dada berwarna putih serta rentang sayap sangat besar dengan paruh panjang"
+                },
+                {
+                    "english": "a bird with a long downward hooked bill, black head, and white breast.",
+                    "indo": "burung dengan paruh panjang bengkok ke bawah, kepala berwarna hitam, dan dada berwarna putih."
+                },
+                {
+                    "english": "the bird has a wide wingspan made of black feathers and a grey colored bill.",
+                    "indo": "burung ini memiliki rentang sayap yang lebar terbuat dari bulu berwarna hitam dan paruh berwarna abu-abu."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has large black wings, small feet, and a long narrow beak that curves downward.",
+                    "indo": "burung ini memiliki sayap hitam besar, kaki kecil, dan paruh panjang sempit melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has long black wings and a wide tail compared to it's mostly white body.",
+                    "indo": "burung ini mempunyai sayap hitam yang panjang dan ekor yang lebar dibandingkan dengan tubuhnya yang sebagian besar berwarna putih."
+                },
+                {
+                    "english": "a large bird with long, black wings.",
+                    "indo": "seekor burung besar dengan sayap hitam panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0035_43420.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this black bird has a white breast, split tail feathers, and a bit of red near the vent.",
+                    "indo": "burung berwarna hitam ini memiliki dada berwarna putih, bulu ekor terbelah, dan sedikit berwarna merah di dekat lubang kloaka."
+                },
+                {
+                    "english": "a large bird with an expansive wing span, that has black wings, and a white neck and nape.",
+                    "indo": "burung besar dengan rentang sayap lebar, sayap berwarna hitam, serta leher dan tengkuk berwarna putih."
+                },
+                {
+                    "english": "large predominantly black bird with massive wingspan, white belly, and large, long, narrow, and pointy beak",
+                    "indo": "burung besar yang didominasi warna hitam dengan rentang sayap besar, perut putih, dan paruh besar, panjang, sempit, dan runcing"
+                },
+                {
+                    "english": "a large black bird with large wings and a long black beak.",
+                    "indo": "seekor burung hitam besar dengan sayap besar dan paruh hitam panjang."
+                },
+                {
+                    "english": "this large bird is black with a white neck pointed tail feathers and a pointed beak.",
+                    "indo": "burung besar ini berwarna hitam dengan bulu ekor runcing di leher berwarna putih dan paruh runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and a white neck that is long",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan leher yang panjang berwarna putih"
+                },
+                {
+                    "english": "a big bird with a grey bill and a white throat and nape.",
+                    "indo": "seekor burung besar dengan paruh berwarna abu-abu dan tenggorokan serta tengkuk berwarna putih."
+                },
+                {
+                    "english": "this bird has an all black nape and wings, white throat, and orange and black inner and outer rectrices.",
+                    "indo": "burung ini memiliki tengkuk dan sayap yang serba hitam, tenggorokan berwarna putih, serta rectrices inner dan outer rectrices berwarna oranye dan hitam."
+                },
+                {
+                    "english": "this bird has a black and white breast and a black and blue bill",
+                    "indo": "burung ini memiliki dada berwarna hitam putih dan paruh berwarna hitam biru"
+                },
+                {
+                    "english": "a large bird with a black coloring and white throat.",
+                    "indo": "seekor burung besar dengan warna hitam dan tenggorokan putih."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0040_42860.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the bird has a large white bill that is curved as well.",
+                    "indo": "burung ini mempunyai paruh besar berwarna putih yang juga melengkung."
+                },
+                {
+                    "english": "a small bird with long black wings, crown and the bill is white and long",
+                    "indo": "burung kecil dengan sayap hitam panjang, mahkota dan paruh berwarna putih dan panjang"
+                },
+                {
+                    "english": "this is a black bird with a white belly and a white beak.",
+                    "indo": "ini adalah burung hitam dengan perut putih dan paruh putih."
+                },
+                {
+                    "english": "medium black and white bird with long black tail feathers and long white beak",
+                    "indo": "burung berwarna hitam putih sedang dengan bulu ekor hitam panjang dan paruh putih panjang"
+                },
+                {
+                    "english": "this is a bird with a white breast, black wings and face and a white pointy beak.",
+                    "indo": "ini adalah burung dengan dada putih, sayap dan wajah hitam, serta paruh runcing berwarna putih."
+                },
+                {
+                    "english": "this medium sized black bird has a very long white beak and a white breast.",
+                    "indo": "burung hitam berukuran sedang ini memiliki paruh berwarna putih yang sangat panjang dan dada berwarna putih."
+                },
+                {
+                    "english": "this is a mostly black bird with white breast and sides and a white beak.",
+                    "indo": "ini adalah burung yang sebagian besar berwarna hitam dengan dada dan sisi putih serta paruh putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird is white and black with a black crown and a white beak.",
+                    "indo": "burung ini berwarna putih hitam dengan mahkota hitam dan paruh putih."
+                },
+                {
+                    "english": "this bird has a distinctive long white beak, black feathers on its head, wings, back, and tail, a white patch on its chest, and a very long thin tail.",
+                    "indo": "burung ini mempunyai ciri khas paruh panjang berwarna putih, bulu hitam pada kepala, sayap, punggung, dan ekor, bercak putih pada dada, serta ekor tipis yang sangat panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0045_42823.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird flies with large fanned out wings and long tail feathers.",
+                    "indo": "burung ini terbang dengan sayap besar yang melebar dan bulu ekor yang panjang."
+                },
+                {
+                    "english": "this larger black bird with white spots on its breast has a long bill that is curved downward at the end and is pointed.",
+                    "indo": "burung hitam berukuran lebih besar dengan bintik-bintik putih di dadanya ini memiliki paruh panjang yang ujungnya melengkung ke bawah dan runcing."
+                },
+                {
+                    "english": "this bird is nearly all black with a brown and white speckled breast.",
+                    "indo": "burung ini hampir seluruhnya berwarna hitam dengan dada berbintik coklat dan putih."
+                },
+                {
+                    "english": "this seabird has large wings, dark brown coloring, and a very long, very sharp, prominently hooked beak.",
+                    "indo": "burung laut ini mempunyai sayap yang besar, warna coklat tua, dan paruh yang sangat panjang, sangat tajam, dan berkait menonjol."
+                },
+                {
+                    "english": "this large bird has brown and black wingbars, and a brown and white breast.",
+                    "indo": "burung besar ini memiliki garis sayap berwarna coklat dan hitam, serta dada berwarna coklat dan putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird is brown and white in color, with a long curved beak.",
+                    "indo": "burung ini berwarna coklat putih, dengan paruh melengkung panjang."
+                },
+                {
+                    "english": "this large bird has an impressive wingspan, and a long, curved bill.",
+                    "indo": "burung besar ini memiliki rentang sayap yang mengesankan, serta paruh yang panjang dan melengkung."
+                },
+                {
+                    "english": "the bird has large wings with dark brown feathers, white patches of feathers on its breast and a large curved bill.",
+                    "indo": "burung ini memiliki sayap besar dengan bulu berwarna coklat tua, bercak putih pada bulu di dada dan paruh melengkung besar."
+                },
+                {
+                    "english": "this bird has dark brown body, a pointy beak, and the belly is white with brown/black spots.",
+                    "indo": "Burung ini mempunyai badan berwarna coklat tua, paruh runcing, dan perut berwarna putih dengan bintik coklat/hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0047_43039.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large bird with brown wingbars and a white head and belly.",
+                    "indo": "seekor burung besar dengan garis sayap berwarna coklat dan kepala serta perut berwarna putih."
+                },
+                {
+                    "english": "this bird has a white body and beak and black wings and tail as well as a curved beak.",
+                    "indo": "burung ini memiliki tubuh dan paruh berwarna putih serta sayap dan ekor berwarna hitam serta paruh melengkung."
+                },
+                {
+                    "english": "this tall bird has black wings and a white body.",
+                    "indo": "burung tinggi ini mempunyai sayap berwarna hitam dan badan berwarna putih."
+                },
+                {
+                    "english": "this bird has brown wings, a white belly and head and a long off white beak that curves downward at the end.",
+                    "indo": "burung ini mempunyai sayap berwarna coklat, perut dan kepala berwarna putih, serta paruh panjang berwarna putih yang ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "this white and black bird has a long, crooked beak at its end.",
+                    "indo": "burung berwarna putih dan hitam ini memiliki paruh yang panjang dan bengkok di ujungnya."
+                },
+                {
+                    "english": "this bird is white with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird is white with black wings and has a long, pointy beak.",
+                    "indo": "burung ini berwarna putih dengan sayap berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a large white bird with black wings and tail feathers and a hooked beak.",
+                    "indo": "seekor burung putih besar dengan sayap dan bulu ekor hitam serta paruh bengkok."
+                },
+                {
+                    "english": "this particular bird has a belly that is white and has black spots",
+                    "indo": "Burung yang satu ini mempunyai perut yang berwarna putih dan terdapat bintik-bintik hitam"
+                },
+                {
+                    "english": "this bird has a long, curved beak, a white head and belly, and black wings.",
+                    "indo": "burung ini memiliki paruh panjang melengkung, kepala dan perut berwarna putih, serta sayap berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0049_43044.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the beak is grey and curved the throat, neck, chest and stomach is red the crown is black.",
+                    "indo": "paruhnya berwarna abu-abu dan melengkung pada tenggorokan, leher, dada dan perut berwarna merah, mahkotanya berwarna hitam."
+                },
+                {
+                    "english": "this is a black bird with a long and downward pointing beak.",
+                    "indo": "ini adalah burung berwarna hitam dengan paruh panjang dan mengarah ke bawah."
+                },
+                {
+                    "english": "this bird is mostly black with a bright red neck and a long hooked bill.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan leher berwarna merah cerah dan paruh bengkok panjang."
+                },
+                {
+                    "english": "a predominantly black bird with a very distinct bright red patch and a cured beak at the tip.",
+                    "indo": "burung yang didominasi warna hitam dengan bercak merah cerah yang sangat jelas dan paruh yang diawetkan di ujungnya."
+                },
+                {
+                    "english": "this bird is black and red in color with a long curved beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam merah dengan paruh panjang melengkung, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird is black with red and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                },
+                {
+                    "english": "the bird has a huge red throat that is spotted and a curved bill.",
+                    "indo": "burung itu memiliki tenggorokan besar berwarna merah yang berbintik-bintik dan paruh melengkung."
+                },
+                {
+                    "english": "this bird has a large red non-feathered throat and a long hooked beak.",
+                    "indo": "burung ini memiliki tenggorokan besar tanpa bulu berwarna merah dan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0050_43084.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a bird with black primaries and secondaries of a large span, white bill and breast.",
+                    "indo": "seekor burung dengan warna bulu primer hitam dan bulu sekunder dengan rentang besar, paruh dan dada berwarna putih."
+                },
+                {
+                    "english": "a large black bird with a white head, belly, and breast with a large slightly downward curving beak.",
+                    "indo": "burung hitam besar dengan kepala, perut, dan dada berwarna putih dengan paruh besar agak melengkung ke bawah."
+                },
+                {
+                    "english": "a black and white bird with extremely large wings and tail feathers.",
+                    "indo": "seekor burung hitam putih dengan sayap dan bulu ekor yang sangat besar."
+                },
+                {
+                    "english": "this is a bird with a white belly, black wings and a long white beak.",
+                    "indo": "ini adalah burung dengan perut putih, sayap hitam dan paruh putih panjang."
+                },
+                {
+                    "english": "this large bird has black wings and prominent black tail feathers, and a white head, beak, throat and abdomen.",
+                    "indo": "burung besar ini mempunyai sayap berwarna hitam dan bulu ekor berwarna hitam menonjol, serta kepala, paruh, tenggorokan dan perut berwarna putih."
+                },
+                {
+                    "english": "the bird large with a large long curved beak, and dark black wings.",
+                    "indo": "burung besar dengan paruh besar panjang melengkung, dan sayap hitam gelap."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "a large black bird with a white belly and breast area.",
+                    "indo": "seekor burung hitam besar dengan area perut dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird is white and black in color, with a large white beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh besar berwarna putih."
+                },
+                {
+                    "english": "a bird with a white crown and belly and jet black primaries.",
+                    "indo": "burung dengan mahkota dan perut berwarna putih serta warna bulu primer berwarna hitam legam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0051_43043.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird is all black with a long and pointy beak that curves downwards.",
+                    "indo": "burung ini berwarna serba hitam dengan paruh yang panjang dan runcing melengkung ke bawah."
+                },
+                {
+                    "english": "this is a black bird with a long beak turned down at the end and a huge red chest that sticks out.",
+                    "indo": "ini adalah burung hitam dengan paruh panjang menghadap ke bawah dan dada merah besar yang menonjol."
+                },
+                {
+                    "english": "an unusual looking bird that is black with a large for its size beak that is downward turning on the end.",
+                    "indo": "seekor burung yang tampak tidak biasa berwarna hitam dengan paruh besar yang ujungnya mengarah ke bawah."
+                },
+                {
+                    "english": "this bird has a very weird looking red throat that looks like a balloon.",
+                    "indo": "burung ini memiliki tenggorokan merah yang terlihat sangat aneh seperti balon."
+                },
+                {
+                    "english": "this bird has a long bill, a big red breast, and a black crown",
+                    "indo": "burung ini mempunyai paruh yang panjang, dada besar berwarna merah, dan mahkota berwarna hitam"
+                },
+                {
+                    "english": "this bird is red with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this unique looking bird is dark black with plentiful dorsal plumage, a belly that looks like an inflated red-orange balloon, and a grey beak that hooks at the end.",
+                    "indo": "Burung berpenampilan unik ini berwarna hitam pekat dengan bulu punggung yang banyak, perut seperti balon merah-oranye yang menggembung, dan paruh abu-abu yang mengait di ujungnya."
+                },
+                {
+                    "english": "this bird has a very large red belly with a long black beak.",
+                    "indo": "burung ini memiliki perut berwarna merah yang sangat besar dengan paruh panjang berwarna hitam."
+                },
+                {
+                    "english": "this bird has a black crown and a very long white bill that is rounded at the end.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan paruh berwarna putih yang sangat panjang dan membulat di ujungnya."
+                },
+                {
+                    "english": "this bird has a huge red belly and a curved bill.",
+                    "indo": "burung ini memiliki perut besar berwarna merah dan paruh melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0052_43411.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a bird with a large wingspan that is black with a white head and a long beak.",
+                    "indo": "burung dengan rentang sayap besar berwarna hitam, kepala berwarna putih, dan paruh panjang."
+                },
+                {
+                    "english": "this black bird has white throat and belly and the bill is long and pointed.",
+                    "indo": "burung berwarna hitam ini memiliki tenggorokan dan perut berwarna putih serta paruhnya panjang dan runcing."
+                },
+                {
+                    "english": "a wide winged bird with a long sharp tail and narrow pointy beak.",
+                    "indo": "burung bersayap lebar dengan ekor panjang tajam dan paruh runcing sempit."
+                },
+                {
+                    "english": "this bird has long black wing and a long tail",
+                    "indo": "burung ini mempunyai sayap hitam panjang dan ekor panjang"
+                },
+                {
+                    "english": "this large bird is dark colored with a long hooked bill and long tail.",
+                    "indo": "burung besar ini berwarna gelap dengan paruh bengkok panjang dan ekor panjang."
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "the bird has a long bill and two large brown wingbars.",
+                    "indo": "burung itu memiliki paruh yang panjang dan dua garis sayap besar berwarna coklat."
+                },
+                {
+                    "english": "this bird has a white crown as well as large black wings",
+                    "indo": "burung ini mempunyai mahkota berwarna putih dan sayap hitam yang besar"
+                },
+                {
+                    "english": "this bird has a long beak and dark colored feathers with a wide wingspan.",
+                    "indo": "burung ini mempunyai paruh yang panjang dan bulu berwarna gelap dengan rentang sayap yang lebar."
+                },
+                {
+                    "english": "this bird has a long bill, with a very large wing span.",
+                    "indo": "burung ini mempunyai paruh yang panjang, dengan rentang sayap yang sangat besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0053_43220.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird appears almost all black with a white patch covering its belly and neck.",
+                    "indo": "burung ini tampak hampir seluruhnya berwarna hitam dengan bercak putih menutupi perut dan lehernya."
+                },
+                {
+                    "english": "this bird has a black head, black wings, black outer rectrices, and a white breast.",
+                    "indo": "burung ini memiliki kepala berwarna hitam, sayap hitam, outer rectrices berwarna hitam, dan dada berwarna putih."
+                },
+                {
+                    "english": "this is a black bird with a white breast and a large beak.",
+                    "indo": "ini burung hitam dengan dada putih dan paruh besar."
+                },
+                {
+                    "english": "this large bird has a black body, gray breast, long hooked bill and long tail.",
+                    "indo": "burung besar ini mempunyai badan berwarna hitam, dada berwarna abu-abu, paruh bengkok panjang dan ekor panjang."
+                },
+                {
+                    "english": "this bird has black wings, a straight and pointy beak, and a white breast.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam, paruh lurus dan runcing, serta dada berwarna putih."
+                },
+                {
+                    "english": "this bird is black and white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "the bird has a straight black bill and two large black wingbars.",
+                    "indo": "burung ini mempunyai paruh berwarna hitam lurus dan dua garis sayap besar berwarna hitam."
+                },
+                {
+                    "english": "the wings of the bird are a solid black color, and the breast of the bird is a white color.",
+                    "indo": "sayap burung berwarna hitam pekat, dan dada burung berwarna putih."
+                },
+                {
+                    "english": "this bird has a grey throat with black wings and black crown.",
+                    "indo": "burung ini mempunyai tenggorokan berwarna abu-abu dengan sayap berwarna hitam dan mahkota berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0054_43019.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "it is a large black bird soaring through the air, with two noticeable long rectrices, and a red breast and throat.",
+                    "indo": "itu adalah burung hitam besar yang melayang di udara, dengan dua rectrices  yang terlihat jelas, serta dada dan tenggorokan berwarna merah."
+                },
+                {
+                    "english": "a large bird with with a pink quill under the throat and a long black wingspan",
+                    "indo": "seekor burung besar dengan duri merah muda di bawah tenggorokannya dan rentang sayap hitam panjang"
+                },
+                {
+                    "english": "a medium sized bird with a red throat, and a long bill that curves downwards",
+                    "indo": "burung berukuran sedang dengan tenggorokan merah, dan paruh panjang melengkung ke bawah"
+                },
+                {
+                    "english": "a bird with a medium hooked bill, ruffled red throat, blue head, and black wings.",
+                    "indo": "burung dengan paruh bengkok sedang, tenggorokan merah acak-acakan, kepala biru, dan sayap hitam."
+                },
+                {
+                    "english": "this bird is black in color with a very sharp beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh yang sangat tajam, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this large black bird has a red sac protruding at its throat and a large wingspan.",
+                    "indo": "burung hitam besar ini memiliki kantung merah yang menonjol di tenggorokannya dan rentang sayap yang besar."
+                },
+                {
+                    "english": "this very large black sea bird has a long black beak that has a hook on the end and a pronounced bright red skin growth protruding from the bottom of the beak and extending down several inches to the breast area.",
+                    "indo": "burung laut hitam yang sangat besar ini memiliki paruh hitam panjang yang memiliki kait di ujungnya dan pertumbuhan kulit berwarna merah cerah yang menonjol dari bagian bawah paruh dan memanjang hingga beberapa inci hingga ke area dada."
+                },
+                {
+                    "english": "this bird has large wings and is primarily black and blue in color.",
+                    "indo": "burung ini mempunyai sayap yang besar dan warna utamanya hitam dan biru."
+                },
+                {
+                    "english": "this particular bird has a belly that is black with a red throat",
+                    "indo": "burung ini memiliki perut berwarna hitam dengan tenggorokan berwarna merah"
+                },
+                {
+                    "english": "this bird has a black crown, black primaries, and a black belly.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0057_43016.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a bright red ballooned breast, a long bill, black body with dark green wings.",
+                    "indo": "burung ini mempunyai dada menggembung berwarna merah cerah, paruh panjang, badan berwarna hitam dengan sayap berwarna hijau tua."
+                },
+                {
+                    "english": "a large bird with a large bill that curves downwards and green wings",
+                    "indo": "burung besar dengan paruh besar melengkung ke bawah dan sayap berwarna hijau"
+                },
+                {
+                    "english": "this is a black bird with green feathers and a long white beak.",
+                    "indo": "ini adalah burung hitam dengan bulu hijau dan paruh putih panjang."
+                },
+                {
+                    "english": "this bird is shiny green in color with a long curved beak, and black eye rings.",
+                    "indo": "burung ini berwarna hijau mengkilat dengan paruh panjang melengkung, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this is a black bird with a large, red breast and green on the wingbars.",
+                    "indo": "ini adalah burung berwarna hitam dengan dada besar berwarna merah dan hijau pada sayapnya."
+                },
+                {
+                    "english": "this bird is dark with shiny green plumage, a long grey beak that curves downward at the end, and a vibrant red breast that it appears to be able to inflate.",
+                    "indo": "burung ini berwarna gelap dengan bulu berwarna hijau mengkilat, paruh panjang berwarna abu-abu yang ujungnya melengkung ke bawah, dan dada berwarna merah cerah yang tampak bisa mengembang."
+                },
+                {
+                    "english": "this bird has a large red breast and belly, with a large bill and green wings.",
+                    "indo": "burung ini memiliki dada dan perut besar berwarna merah, dengan paruh besar dan sayap berwarna hijau."
+                },
+                {
+                    "english": "a bird with a large bill and black features",
+                    "indo": "seekor burung dengan paruh besar dan ciri-ciri hitam"
+                },
+                {
+                    "english": "this bird has a very distinctive featherless, orange belly which is very large and abuts the bill of the bird and has black spots.",
+                    "indo": "burung ini mempunyai ciri khas perut burung yang tidak berbulu dan berwarna jingga yang sangat besar dan berbatasan dengan paruh burung serta terdapat bintik-bintik hitam."
+                },
+                {
+                    "english": "this bird is black with green and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam kehijauan dan mempunyai paruh yang panjang dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0058_43251.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large black bird with a white belly and long beak.",
+                    "indo": "seekor burung hitam besar dengan perut putih dan paruh panjang."
+                },
+                {
+                    "english": "this bird has a white abdomen, black breast, wings and tail, a brown head, and a white long bill that curves slightly at the end.",
+                    "indo": "burung ini memiliki perut berwarna putih, dada berwarna hitam, sayap dan ekor, kepala berwarna coklat, serta paruh panjang berwarna putih yang ujungnya agak melengkung."
+                },
+                {
+                    "english": "this bird is white and black in color with a long curved white beak and light eye rings.",
+                    "indo": "burung ini berwarna putih dan hitam dengan paruh panjang melengkung berwarna putih dan cincin mata berwarna terang."
+                },
+                {
+                    "english": "a medium bird with a large wingspan, black wings and rectrices, and a yellow head.",
+                    "indo": "burung berukuran sedang dengan rentang sayap besar, sayap dan rectrices  berwarna hitam, dan kepala berwarna kuning."
+                },
+                {
+                    "english": "this bird is large and black with a brown head and grey bill.",
+                    "indo": "burung ini berukuran besar dan berwarna hitam dengan kepala berwarna coklat dan paruh berwarna abu-abu."
+                },
+                {
+                    "english": "this bird is black with red and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this large black bird has a white belly, a brown head, and a flat bill.",
+                    "indo": "burung hitam besar ini memiliki perut berwarna putih, kepala berwarna coklat, dan paruh yang rata."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has a orange crown, black primaries, and a black belly.",
+                    "indo": "burung ini memiliki mahkota berwarna oranye, bulu primer berwarna hitam, dan perut berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0059_42838.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a dark brown bird with a puffed red breast and a sharp bill with a down-turned tip.",
+                    "indo": "burung berwarna coklat tua dengan dada merah menggembung dan paruh tajam dengan ujung mengarah ke bawah."
+                },
+                {
+                    "english": "the bird has a large throat that is red and a black bill.",
+                    "indo": "burung ini memiliki tenggorokan besar berwarna merah dan paruh berwarna hitam."
+                },
+                {
+                    "english": "this is a solid black bird with green wings and a light tan under his wings with a very large curved bill.",
+                    "indo": "ini adalah burung hitam pekat dengan sayap hijau dan warna coklat muda di bawah sayapnya dengan paruh melengkung yang sangat besar."
+                },
+                {
+                    "english": "bird is black with a little brown and white on the wings the beak is black and long and the breast,throat and is red.",
+                    "indo": "burung berwarna hitam dengan sedikit coklat dan putih pada sayap, paruhnya hitam dan panjang serta dada, tenggorokan dan berwarna merah."
+                },
+                {
+                    "english": "this black bird has a long pointy beak with a large inflated, red breast.",
+                    "indo": "burung hitam ini memiliki paruh panjang dan runcing dengan dada besar berwarna merah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a big red belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang besar berwarna merah"
+                },
+                {
+                    "english": "this bird has wings that are black and has a big red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang besar berwarna merah"
+                },
+                {
+                    "english": "this black bird has a large red breast and a beak that curves down at the tip.",
+                    "indo": "burung berwarna hitam ini memiliki dada besar berwarna merah dan paruh yang ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "this is a black bird with a large red breast and a long black beak that curves down at the tip",
+                    "indo": "ini adalah burung berwarna hitam dengan dada besar berwarna merah dan paruh hitam panjang yang ujungnya melengkung ke bawah"
+                },
+                {
+                    "english": "this bird has black wings and and dark green feathers down its back, a large red throat, and long bills curved downward at the end.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam dan bulu berwarna hijau tua di punggungnya, tenggorokan besar berwarna merah, dan paruh panjang melengkung ke bawah di ujungnya."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0060_43054.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird is black on top, with a white breast and belly, and a thin, longish, hook tipped bill.",
+                    "indo": "burung ini berwarna hitam di bagian atas, dengan dada dan perut berwarna putih, serta paruh tipis, gondrong, dan berujung kait."
+                },
+                {
+                    "english": "this large bird is mostly gray with a long hooked bill.",
+                    "indo": "burung besar ini sebagian besar berwarna abu-abu dengan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "the bird has a white bill that is long and curved.",
+                    "indo": "burung ini memiliki paruh berwarna putih yang panjang dan melengkung."
+                },
+                {
+                    "english": "this large bird has a white belly and breast with a black crown and long hooked bill.",
+                    "indo": "burung besar ini memiliki perut dan dada berwarna putih dengan mahkota berwarna hitam dan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "bird with long beak that is curved at the tip, and white belly and black inner and outer rectrices",
+                    "indo": "burung dengan paruh panjang melengkung di ujungnya, perut berwarna putih, dan inner dan outer rectrices berwarna hitam"
+                },
+                {
+                    "english": "this bird has feathers that are grey with a long bill",
+                    "indo": "burung ini mempunyai bulu yang berwarna abu-abu dengan paruh yang panjang"
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "a large bird with long, black and white wings, a long, pointed bill, and a dark black crown.",
+                    "indo": "burung besar dengan sayap panjang berwarna hitam putih, paruh panjang runcing, dan mahkota berwarna hitam pekat."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this particular bird has a belly that is gray and black",
+                    "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0062_43193.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large sized bird that has black feathers and a red belly",
+                    "indo": "burung berukuran besar yang memiliki bulu hitam dan perut berwarna merah"
+                },
+                {
+                    "english": "this appears to be a fairly large bird of jet black color except for a vibrantly red breast under an extensive bill that curves down to a point.",
+                    "indo": "ini tampak seperti burung yang cukup besar dengan warna hitam legam kecuali dada merah cerah di bawah paruh besar yang melengkung ke bawah."
+                },
+                {
+                    "english": "look at that huge, red, puffed out chest on that black bird with the funky beak.",
+                    "indo": "lihatlah dada burung hitam yang besar, merah, dan membusung itu dengan paruh yang funky."
+                },
+                {
+                    "english": "a large bird, with a long beak, and a large red neck, and breast.",
+                    "indo": "seekor burung besar, dengan paruh panjang, dan leher serta dada besar berwarna merah."
+                },
+                {
+                    "english": "a big bird with a small head and a long hook shaped bill with a red breast and belly",
+                    "indo": "burung besar berkepala kecil dan paruh panjang berbentuk kait dengan dada dan perut berwarna merah"
+                },
+                {
+                    "english": "this bird has wings that are black with a red belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna merah"
+                },
+                {
+                    "english": "this black bird has a small head and a bright pink throat and breast.",
+                    "indo": "burung berwarna hitam ini memiliki kepala kecil serta tenggorokan dan dada berwarna merah muda cerah."
+                },
+                {
+                    "english": "medium to large sized black bird with a large red breast and a long downwardly hooked blue beak.",
+                    "indo": "burung hitam berukuran sedang hingga besar dengan dada merah besar dan paruh panjang berwarna biru yang bengkok ke bawah."
+                },
+                {
+                    "english": "this bird has a black crown and black wings with a ruby colored breast.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan sayap berwarna hitam dengan dada berwarna ruby."
+                },
+                {
+                    "english": "red chested bird has a small black head compared to its back wings and body, and it has a long bill with the top bill being curved downward.",
+                    "indo": "burung berdada merah mempunyai kepala kecil berwarna hitam dibandingkan sayap belakang dan badannya, serta mempunyai paruh yang panjang dengan paruh atas melengkung ke bawah."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0063_42812.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "pelican like beak bird with white breast and black and white feathers",
+                    "indo": "pelikan seperti burung paruh dengan dada berwarna putih dan bulu hitam putih"
+                },
+                {
+                    "english": "a large bird with a white head and breast, black and white dotted wing feathers, and along grey curved bill,",
+                    "indo": "seekor burung besar dengan kepala dan dada berwarna putih, bulu sayap bertitik hitam putih, dan paruh melengkung berwarna abu-abu,"
+                },
+                {
+                    "english": "the bird is black, brown, and white with a long skinny beak .",
+                    "indo": "burung tersebut berwarna hitam, coklat, dan putih dengan paruh yang panjang dan kurus."
+                },
+                {
+                    "english": "the bird has a bunch of black and brown feathers on its wings and a white head with a long beak pointed downwards.",
+                    "indo": "burung ini memiliki seikat bulu berwarna hitam kecokelatan di sayapnya dan kepala berwarna putih dengan paruh panjang mengarah ke bawah."
+                },
+                {
+                    "english": "this is a bird with a black and white wing and a white breast and head.",
+                    "indo": "ini adalah burung dengan sayap hitam putih serta dada dan kepala berwarna putih."
+                },
+                {
+                    "english": "the white crown matches the white breast and belly",
+                    "indo": "mahkota putihnya serasi dengan dada dan perutnya yang putih"
+                },
+                {
+                    "english": "the bird has a long white bill and black back.",
+                    "indo": "burung itu mempunyai paruh panjang berwarna putih dan punggung berwarna hitam."
+                },
+                {
+                    "english": "a fat bird with a very small neck and a very long peak.",
+                    "indo": "seekor burung gemuk dengan leher yang sangat kecil dan puncak yang sangat panjang."
+                },
+                {
+                    "english": "this bird has black and white wings, with a white crown and a white breast.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam putih, dengan mahkota berwarna putih dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird has a white head and breast with a long beak.",
+                    "indo": "burung ini memiliki kepala dan dada berwarna putih dengan paruh yang panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0068_42795.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird is nearly all black with a white breast, and a hooked bit.",
+                    "indo": "burung ini hampir seluruhnya berwarna hitam dengan dada berwarna putih, dan sedikit bengkok."
+                },
+                {
+                    "english": "bird has black body feathers, yellow breast feather, and long and curved beak",
+                    "indo": "Burung ini memiliki bulu badan berwarna hitam, bulu dada berwarna kuning, dan paruh yang panjang dan melengkung"
+                },
+                {
+                    "english": "a large bird with a silver curved bill, and a black body.",
+                    "indo": "seekor burung besar dengan paruh melengkung berwarna perak, dan tubuh berwarna hitam."
+                },
+                {
+                    "english": "this large bird has a white breast, black crown and body, with a long hooked bill.",
+                    "indo": "burung berukuran besar ini memiliki dada berwarna putih, mahkota dan badan berwarna hitam, dengan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "this is a large black bird with a white breast and a black downward pointing beak.",
+                    "indo": "ini adalah burung hitam besar dengan dada putih dan paruh hitam mengarah ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and had a long black bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang berwarna hitam"
+                },
+                {
+                    "english": "a black hock sitting on line",
+                    "indo": "hock hitam sedang online"
+                },
+                {
+                    "english": "this bird is mostly black with a white patch on its chest, its bill is long and curves down at the end and is a grey in color.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan bercak putih di dadanya, paruhnya panjang dan ujungnya melengkung ke bawah serta berwarna abu-abu."
+                },
+                {
+                    "english": "a large black bird, with a white belly, and a downward curving bill.",
+                    "indo": "seekor burung hitam besar, dengan perut putih, dan paruh melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0069_43541.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a larger bird with a cream underbelly and brown tones all over with a very long, curved beak",
+                    "indo": "burung yang lebih besar dengan perut berwarna krem ​​​​dan seluruh warna coklat dengan paruh yang sangat panjang dan melengkung"
+                },
+                {
+                    "english": "this bird is black and white in color and has a long white bill along with a red eye ring.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh panjang berwarna putih serta cincin mata berwarna merah."
+                },
+                {
+                    "english": "this large bird has a very long, bluish-gray bill that curves down near the tip, and it is colored brownish black from head to tail, and has a white and brown chest and belly, and an orange eyering.",
+                    "indo": "Burung besar ini memiliki paruh yang sangat panjang berwarna abu-abu kebiruan yang melengkung ke bawah di dekat ujungnya, berwarna hitam kecoklatan dari kepala hingga ekor, serta memiliki dada dan perut berwarna putih coklat, serta cincin mata berwarna jingga."
+                },
+                {
+                    "english": "this bird has a long curved bill, a vibrant orange eyering, and is black with a dirty white breast.",
+                    "indo": "burung ini mempunyai paruh yang panjang melengkung, cincin mata berwarna jingga cerah, dan berwarna hitam dengan dada berwarna putih kotor."
+                },
+                {
+                    "english": "the black bird has a white underbelly and orange skin around the eyes, with a long bill.",
+                    "indo": "burung hitam memiliki perut berwarna putih dan kulit oranye di sekitar mata, dengan paruh yang panjang."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this larger bird has a black head and a long pointy beak.",
+                    "indo": "burung yang lebih besar ini memiliki kepala berwarna hitam dan paruh panjang dan runcing."
+                },
+                {
+                    "english": "the small bird has with a large bill, orange eyes, and peach belly.",
+                    "indo": "burung kecil memiliki paruh besar, mata oranye, dan perut buah persik."
+                },
+                {
+                    "english": "this large bird has a large bill, and yellow eyes.",
+                    "indo": "burung besar ini mempunyai paruh yang besar, dan mata berwarna kuning."
+                },
+                {
+                    "english": "this bird is brown white and black in color, and has a very large and curved beak.",
+                    "indo": "burung ini berwarna coklat putih dan hitam, serta mempunyai paruh yang sangat besar dan melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0070_43516.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a long black bill, a large red ballooned breast and black body.",
+                    "indo": "burung ini mempunyai paruh panjang berwarna hitam, dada besar menggembung berwarna merah, dan badan berwarna hitam."
+                },
+                {
+                    "english": "throat is blown out and red touching a beak that is flat at the base with a hooked tip",
+                    "indo": "tenggorokannya dihembuskan dan berwarna merah menyentuh paruh yang rata pada pangkalnya dengan ujung yang bengkok"
+                },
+                {
+                    "english": "a large bird containing a very large beak that points downwards, that also has brown, green, and black feathers covering its body.",
+                    "indo": "burung besar dengan paruh sangat besar mengarah ke bawah, juga memiliki bulu berwarna coklat, hijau, dan hitam menutupi tubuhnya."
+                },
+                {
+                    "english": "a bird with a massive inflated red breast, a downward hooked bill, and a black body.",
+                    "indo": "seekor burung dengan dada besar berwarna merah, paruh bengkok ke bawah, dan tubuh hitam."
+                },
+                {
+                    "english": "this black bird has a long big beak that curves down with bright red enlarged throat.",
+                    "indo": "Burung berwarna hitam ini memiliki paruh panjang besar yang melengkung ke bawah dengan tenggorokan membesar berwarna merah cerah."
+                },
+                {
+                    "english": "this bird is a large brownish black bird with a red breast that puffs up.",
+                    "indo": "burung ini merupakan burung berukuran besar berwarna hitam kecoklatan dengan dada berwarna merah membusung."
+                },
+                {
+                    "english": "this bird has wings that are black had has a big red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada besar berwarna merah"
+                },
+                {
+                    "english": "an enormous red throat and a sharp downward turned beak stand out againsst this bird's long black feathers.",
+                    "indo": "tenggorokan merah besar dan paruh tajam ke bawah menonjol di antara bulu hitam panjang burung ini."
+                },
+                {
+                    "english": "a black bird with a very large red throat and breast area, as well as a crookedly downturned bill.",
+                    "indo": "burung berwarna hitam dengan area tenggorokan dan dada berwarna merah yang sangat besar, serta paruh yang bengkok ke bawah."
+                },
+                {
+                    "english": "the bird has a large red inflated portion in its neck, a long curved bill and the rest of it is black.",
+                    "indo": "burung ini memiliki bagian besar berwarna merah di lehernya, paruh panjang melengkung dan sisanya berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0073_43038.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the bird has long beak when compared to its body, with black throat white breast and black belly.",
+                    "indo": "burung ini memiliki paruh yang panjang jika dibandingkan dengan tubuhnya, dengan tenggorokan berwarna hitam, dada berwarna putih, dan perut berwarna hitam."
+                },
+                {
+                    "english": "a large black bird with black wings and long black tail having a white breast",
+                    "indo": "seekor burung hitam besar dengan sayap hitam dan ekor hitam panjang dengan dada berwarna putih"
+                },
+                {
+                    "english": "this bird has angled black wings, a white breast and a long, skinny tail and bill.",
+                    "indo": "burung ini memiliki sayap hitam bersudut, dada berwarna putih, serta ekor dan paruh yang panjang dan kurus."
+                },
+                {
+                    "english": "this bird has a long curved beak,very long wings that are dark blue,as well as a white-brown breast with long dark rectrices.",
+                    "indo": "burung ini mempunyai paruh yang panjang melengkung, sayap yang sangat panjang berwarna biru tua, serta dada berwarna putih kecokelatan dengan rectrices  berwarna gelap."
+                },
+                {
+                    "english": "with a medium beak curving downwards, this bird has a black crown, white breast, and black wings and tail, with yellow tarsus.",
+                    "indo": "dengan paruh sedang melengkung ke bawah, burung ini memiliki mahkota berwarna hitam, dada berwarna putih, serta sayap dan ekor berwarna hitam, dengan tarsus berwarna kuning."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "a medium sized, brown bird with white breast feathers, small head, long tail and beak.",
+                    "indo": "burung berukuran sedang berwarna coklat dengan bulu dada berwarna putih, kepala kecil, ekor panjang dan paruh."
+                },
+                {
+                    "english": "this bird has a long bill, with a white breast and a black belly.",
+                    "indo": "burung ini mempunyai paruh yang panjang, dengan dada berwarna putih dan perut berwarna hitam."
+                },
+                {
+                    "english": "a bird with a long, small beak and very long tail feathers.",
+                    "indo": "seekor burung dengan paruh panjang kecil dan bulu ekor sangat panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0074_43035.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "big bird with long bill and very large wings. split white in front and brown",
+                    "indo": "burung besar dengan paruh panjang dan sayap sangat besar. terbelah putih di depan dan coklat"
+                },
+                {
+                    "english": "the bird has a long grey bill that is curved and a black eyering.",
+                    "indo": "burung ini memiliki paruh panjang berwarna abu-abu yang melengkung dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "a big bird with black wings and a white underbelly.",
+                    "indo": "seekor burung besar dengan sayap hitam dan perut berwarna putih."
+                },
+                {
+                    "english": "large marine bird with long beak featuring sharp pointed hook, with white head, neck, and breast and dark brown wings and body.",
+                    "indo": "burung laut besar dengan paruh panjang dengan kait runcing tajam, kepala, leher, dan dada berwarna putih, serta sayap dan badan berwarna coklat tua."
+                },
+                {
+                    "english": "this large bird has a white crown and belly with the rest of the body gray, it's beak is long and curves down at the tip.",
+                    "indo": "Burung berukuran besar ini memiliki mahkota dan perut berwarna putih dengan sisa tubuh berwarna abu-abu, paruhnya panjang dan ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "this squat-headed brown-bodied bird has a white head, breast, and belly, and a long hooked gray bill.",
+                    "indo": "burung berkepala jongkok bertubuh coklat ini memiliki kepala, dada, dan perut berwarna putih, serta paruh panjang berwarna abu-abu."
+                },
+                {
+                    "english": "this huge bird has a white throat, breast, belly, crown and a long grey curved bill.",
+                    "indo": "burung besar ini memiliki tenggorokan, dada, perut, mahkota berwarna putih, dan paruh panjang melengkung berwarna abu-abu."
+                },
+                {
+                    "english": "a large bird with curved wings, and a long silver beak.",
+                    "indo": "seekor burung besar dengan sayap melengkung, dan paruh panjang berwarna perak."
+                },
+                {
+                    "english": "the large bird has a long gray bill, a dark round eye, and a white belly.",
+                    "indo": "burung besar memiliki paruh panjang berwarna abu-abu, mata bulat berwarna gelap, dan perut berwarna putih."
+                },
+                {
+                    "english": "a large bird, with dark brown wings, a white chest, and a long bill.",
+                    "indo": "seekor burung besar, dengan sayap berwarna coklat tua, dada berwarna putih, dan paruh yang panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0080_43064.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "large bird with black coloration on body, large bright red breast area and extremely long, large beak.",
+                    "indo": "burung besar dengan warna tubuh hitam, area dada besar berwarna merah cerah dan paruh yang sangat panjang dan besar."
+                },
+                {
+                    "english": "a black bird with a long black beak sharply down-pointed at the end, there is a very large read airsack at the neck that is nearly the size of the bird's body when inflated.",
+                    "indo": "burung berwarna hitam dengan paruh hitam panjang yang runcing ke bawah di ujungnya, terdapat kantung udara berbentuk baca yang sangat besar di bagian leher yang hampir seukuran badan burung jika digelembungkan."
+                },
+                {
+                    "english": "very large rounded with a black body and very red under the neck with a very long thin gray beak",
+                    "indo": "bulat sangat besar dengan tubuh berwarna hitam dan bagian bawah leher sangat merah dengan paruh tipis berwarna abu-abu yang sangat panjang"
+                },
+                {
+                    "english": "bird with black crown and wings, with big red throat, beak is brown with sharp and curved in shape",
+                    "indo": "burung dengan mahkota dan sayap berwarna hitam, tenggorokan besar berwarna merah, paruh berwarna coklat dengan bentuk runcing dan melengkung"
+                },
+                {
+                    "english": "this bird is black with red on its chest and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan warna merah pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a medium sized black bird with a red belly and a long beak that is curved at the tip.",
+                    "indo": "burung berwarna hitam berukuran sedang dengan perut berwarna merah dan paruh panjang yang ujungnya melengkung."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                },
+                {
+                    "english": "this particular bird has a belly that is red with black spots on the sides",
+                    "indo": "burung ini memiliki perut berwarna merah dengan bintik hitam di bagian sisinya"
+                },
+                {
+                    "english": "this particular bird has a belly that is red and has black secondaries",
+                    "indo": "burung ini memiliki perut yang berwarna merah dan memiliki bulu sekunder berwarna hitam"
+                },
+                {
+                    "english": "this bird is black and red in color, and has a long and curved beak.",
+                    "indo": "burung ini berwarna hitam dan merah, serta mempunyai paruh yang panjang dan melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0081_42779.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this unique bird has a huge inflated red throat, a black and white bill, and a black back and wings.",
+                    "indo": "burung unik ini memiliki tenggorokan besar berwarna merah, paruh hitam putih, serta punggung dan sayap hitam."
+                },
+                {
+                    "english": "medium sized black bird with large red inflated flap of skin on its belly",
+                    "indo": "burung hitam berukuran sedang dengan lipatan kulit besar berwarna merah di perutnya"
+                },
+                {
+                    "english": "small black bird, with dark brown secondaries, black eyes, long black/white mixed bil that bends oddly likely a tree branch.",
+                    "indo": "burung hitam kecil, dengan bulu sekunder berwarna coklat tua, mata hitam, paruh panjang bercampur hitam/putih yang anehnya membengkok ke dahan pohon."
+                },
+                {
+                    "english": "this black bird has an enormous red throat almost the same size as its body.",
+                    "indo": "burung berwarna hitam ini memiliki tenggorokan berwarna merah yang sangat besar hampir sama dengan ukuran tubuhnya."
+                },
+                {
+                    "english": "the bird has a red belly with black wings, belly and head.",
+                    "indo": "burung ini memiliki perut berwarna merah dengan sayap, perut dan kepala berwarna hitam."
+                },
+                {
+                    "english": "this bird has a very rusty black set of wings and crown, and a red throat and belly.",
+                    "indo": "burung ini memiliki sayap dan mahkota berwarna hitam berkarat, serta tenggorokan dan perut berwarna merah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                },
+                {
+                    "english": "this bird has black primaries, a black crown, and a red breast.",
+                    "indo": "burung ini memiliki warna bulu primer hitam, mahkota hitam, dan dada merah."
+                },
+                {
+                    "english": "this bird is black and red in color, with a white and black beak.",
+                    "indo": "burung ini berwarna hitam dan merah, dengan paruh berwarna putih dan hitam."
+                },
+                {
+                    "english": "the bird has a huge red breast and throat, the rest of it's feathers are black and it has a long beak that is pointed downward at the tip.",
+                    "indo": "burung ini memiliki dada dan tenggorokan besar berwarna merah, sisa bulunya berwarna hitam dan memiliki paruh panjang yang ujungnya mengarah ke bawah."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0082_42989.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a white breast and belly with black wings.",
+                    "indo": "burung ini memiliki dada dan perut berwarna putih dengan sayap berwarna hitam."
+                },
+                {
+                    "english": "this is a bird with a white belly, black wings and a large pointed white beak.",
+                    "indo": "ini adalah burung dengan perut putih, sayap hitam dan paruh besar dan runcing berwarna putih."
+                },
+                {
+                    "english": "this larger bird has a white belly, a black head, black wings and a long pink beak, and flies with its wings above its body height.",
+                    "indo": "burung yang lebih besar ini memiliki perut berwarna putih, kepala hitam, sayap hitam dan paruh panjang berwarna merah muda, dan terbang dengan sayap melebihi tinggi badannya."
+                },
+                {
+                    "english": "this is a larger bird that has a very long bill that points down at the very end, and a black crown and breast.",
+                    "indo": "ini adalah burung yang lebih besar yang memiliki paruh sangat panjang yang mengarah ke bawah di bagian paling ujung, serta mahkota dan dada berwarna hitam."
+                },
+                {
+                    "english": "long beak bird with large, wide wings. eyes are big and head small. it's black and white.",
+                    "indo": "burung paruh panjang dengan sayap besar dan lebar. matanya besar dan kepalanya kecil. itu hitam dan putih."
+                },
+                {
+                    "english": "this bird has wings that are black with a white belly and long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih dan paruh yang panjang"
+                },
+                {
+                    "english": "a large black and white bird with a long bill and white breast and belly.",
+                    "indo": "seekor burung besar berwarna hitam putih dengan paruh panjang dan dada serta perut berwarna putih."
+                },
+                {
+                    "english": "the bird has a long, hooked beak, black wings, and a white belly.",
+                    "indo": "burung ini memiliki paruh yang panjang dan bengkok, sayap berwarna hitam, dan perut berwarna putih."
+                },
+                {
+                    "english": "this bird is black and white in color, with a long curved beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh melengkung panjang."
+                },
+                {
+                    "english": "a white breasted bird with black everywhere else, and a long thin tail and bill.",
+                    "indo": "burung berdada putih dengan warna hitam di bagian lainnya, serta ekor dan paruh yang panjang dan tipis."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0084_43006.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this large bird is black and brown all over its body but has a beak that is grey while its throat is red",
+                    "indo": "Burung berukuran besar ini memiliki warna hitam coklat di sekujur tubuhnya namun memiliki paruh berwarna abu-abu sedangkan tenggorokannya berwarna merah"
+                },
+                {
+                    "english": "this bird has a black body, red wrinkly throat, and a long pointed bill.",
+                    "indo": "Burung ini mempunyai tubuh berwarna hitam, tenggorokan berkerut berwarna merah, dan paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this large-winged bird has mainly dark brown feathers with a fleshy red throat.",
+                    "indo": "burung bersayap besar ini sebagian besar memiliki bulu berwarna coklat tua dengan tenggorokan berdaging berwarna merah."
+                },
+                {
+                    "english": "black bird with brown under wings and a bright orange throat along with a sharp black bill.",
+                    "indo": "burung berwarna hitam dengan bagian bawah sayap berwarna coklat dan tenggorokan berwarna jingga cerah serta paruh berwarna hitam tajam."
+                },
+                {
+                    "english": "bird has big wings and an orange throat with a bill that is very curved and sharp",
+                    "indo": "Burung ini mempunyai sayap yang besar dan tenggorokan berwarna jingga dengan paruh yang sangat melengkung dan runcing"
+                },
+                {
+                    "english": "this bird has particularly long tailfeathers compared to the rest of its body, as well as a long hooked beak and a very distinct wattle extending from below the beak to the chest.",
+                    "indo": "burung ini memiliki bulu ekor yang sangat panjang dibandingkan dengan bagian tubuhnya yang lain, serta paruh bengkok yang panjang dan pial yang sangat jelas memanjang dari bawah paruh hingga dada."
+                },
+                {
+                    "english": "this larger bird has a brown body with a black beak and an unusual red and yellow neck.",
+                    "indo": "burung yang lebih besar ini memiliki tubuh berwarna coklat dengan paruh hitam dan leher berwarna merah dan kuning yang tidak biasa."
+                },
+                {
+                    "english": "this bird is black with red and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the bird is large with a pointed bill that goes down at the tip, has a large red throat area and the body is brown.",
+                    "indo": "burungnya berukuran besar dengan paruh runcing turun di ujungnya, mempunyai daerah tenggorokan besar berwarna merah dan badan berwarna coklat."
+                },
+                {
+                    "english": "a black and brown bird with a distinctive red area on its neck and a long hooked beak.",
+                    "indo": "burung berwarna hitam coklat dengan ciri khas area merah di lehernya dan paruh bengkok panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0088_43201.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a black bird with long wings and a long white beak.",
+                    "indo": "ini adalah burung hitam dengan sayap panjang dan paruh putih panjang."
+                },
+                {
+                    "english": "bird has black body feathers, black breast feather, and long hooked beak",
+                    "indo": "burung mempunyai bulu badan berwarna hitam, bulu dada berwarna hitam, dan paruh bengkok panjang"
+                },
+                {
+                    "english": "a large bird with a flat bill and a long black tail",
+                    "indo": "seekor burung besar dengan paruh rata dan ekor hitam panjang"
+                },
+                {
+                    "english": "this bird is black with a pink spot and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan bintik merah jambu dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird is black in color with a long curved beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh panjang melengkung, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this large black bird has a long gray beak with a hook at the end.",
+                    "indo": "burung hitam besar ini mempunyai paruh panjang berwarna abu-abu dengan pengait di ujungnya."
+                },
+                {
+                    "english": "this black bird has a distended throat, long curved beak, and a forked tail.",
+                    "indo": "burung berwarna hitam ini mempunyai tenggorokan yang buncit, paruh yang panjang melengkung, dan ekor yang bercabang dua."
+                },
+                {
+                    "english": "this bird is black withpink and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan warna pink dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "mostly a solid black bird with a long beak with red underneath the throat and a color patch underneath the wing span.",
+                    "indo": "kebanyakan burung berwarna hitam pekat dengan paruh panjang dengan warna merah di bawah tenggorokan dan bercak warna di bawah rentang sayap."
+                },
+                {
+                    "english": "this bird has a shiny curved bill and a full black body coloration",
+                    "indo": "burung ini mempunyai paruh melengkung mengkilat dan warna tubuh hitam pekat"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0089_43013.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the beak is long and curved and the body and wings are black.",
+                    "indo": "paruhnya panjang dan melengkung serta badan dan sayapnya berwarna hitam."
+                },
+                {
+                    "english": "big bird with long tail and beak, beak is curved at the tip and pointed and grey, throat is grey, crown is black, secondaries are grey and black.",
+                    "indo": "burung besar dengan ekor dan paruh panjang, paruh melengkung di ujung dan runcing berwarna abu-abu, tenggorokan berwarna abu-abu, mahkota berwarna hitam, bulu sekunder berwarna abu-abu dan hitam."
+                },
+                {
+                    "english": "the bird is black with a double split tail and a white hooked bill.",
+                    "indo": "burung itu berwarna hitam dengan ekor terbelah ganda dan paruh bengkok berwarna putih."
+                },
+                {
+                    "english": "black throughout with a white breast and a curved beak. and a sleek thin tail.",
+                    "indo": "seluruhnya berwarna hitam dengan dada putih dan paruh melengkung. dan ekor tipis ramping."
+                },
+                {
+                    "english": "this bird is black in color with a large curved beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh besar melengkung, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird is brown with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird has a long beak that points down at the end.",
+                    "indo": "burung ini mempunyai paruh panjang yang ujungnya mengarah ke bawah."
+                },
+                {
+                    "english": "a marvelously large mostly black bird with long, black wing coverts and secondaries; a pronounced and hooked white bill; white wingbars; and black rectrices.",
+                    "indo": "seekor burung yang sangat besar, sebagian besar berwarna hitam, dengan bulu sayap hitam panjang dan sayap bulu sekunder; paruh putih yang menonjol dan bengkok; garis sayap putih; dan rectrices  hitam."
+                },
+                {
+                    "english": "this large bird has dark gray and black feathers with a long bill that curves downward.",
+                    "indo": "burung berukuran besar ini memiliki bulu berwarna abu-abu tua dan hitam dengan paruh panjang melengkung ke bawah."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0090_43511.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the bird has a curved bill that is black and long.",
+                    "indo": "burung ini memiliki paruh melengkung yang berwarna hitam dan panjang."
+                },
+                {
+                    "english": "this bird has a black body, wings, and head, with a red throat and a long bill that hooks down at the end.",
+                    "indo": "burung ini memiliki tubuh, sayap, dan kepala berwarna hitam, dengan tenggorokan berwarna merah dan paruh panjang yang mengarah ke bawah di ujungnya."
+                },
+                {
+                    "english": "a large black bird with a long beak and a red thing hanging from it.",
+                    "indo": "seekor burung hitam besar dengan paruh panjang dan benda berwarna merah tergantung di sana."
+                },
+                {
+                    "english": "a black bird with red looking brain thing on it's breast and long curved whit bill",
+                    "indo": "seekor burung hitam dengan otak tampak merah di dadanya dan paruh putih panjang melengkung"
+                },
+                {
+                    "english": "a bird with a large hooked bill, red throat and black plumage",
+                    "indo": "burung dengan paruh bengkok besar, tenggorokan merah, dan bulu hitam"
+                },
+                {
+                    "english": "this bird has wings that are black with a long white beak",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh panjang berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a big bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+                },
+                {
+                    "english": "this intimidating-looking bird is covered in black feathers. it has a long, curved bill.",
+                    "indo": "burung yang tampak menakutkan ini ditutupi bulu hitam. ia memiliki paruh yang panjang dan melengkung."
+                },
+                {
+                    "english": "this bird has a black breast and a long silvery gray bill",
+                    "indo": "burung ini memiliki dada berwarna hitam dan paruh panjang berwarna abu-abu keperakan"
+                },
+                {
+                    "english": "this bird is all black except for a bright red throat. the beak is long and curved downwards at the end. the head of this bird is slightly small relative to its large body.",
+                    "indo": "burung ini berwarna hitam semua kecuali tenggorokannya yang berwarna merah cerah. paruhnya panjang dan ujungnya melengkung ke bawah. kepala burung ini agak kecil dibandingkan dengan tubuhnya yang besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0091_43066.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a black bird with a white patch on its chest.",
+                    "indo": "ini adalah burung berwarna hitam dengan bercak putih di dadanya."
+                },
+                {
+                    "english": "a mostly black bird with a white underbelly with a large wingspan",
+                    "indo": "burung yang sebagian besar berwarna hitam dengan perut berwarna putih dengan rentang sayap yang besar"
+                },
+                {
+                    "english": "this bird has long black wings, a white breast and a long beak",
+                    "indo": "burung ini memiliki sayap hitam panjang, dada berwarna putih, dan paruh panjang"
+                },
+                {
+                    "english": "this flat black bird has one white patch on its chest.",
+                    "indo": "burung berwarna hitam pipih ini memiliki satu bercak putih di dadanya."
+                },
+                {
+                    "english": "this bird is nearly all black with a white breast, and long hooked bill.",
+                    "indo": "burung ini hampir seluruhnya berwarna hitam dengan dada berwarna putih, dan paruh bengkok panjang."
+                },
+                {
+                    "english": "this black bird has a white breast and long wing span, it also has a beak that is pointed downwards.",
+                    "indo": "burung berwarna hitam ini mempunyai dada berwarna putih dan rentang sayap yang panjang, juga mempunyai paruh yang mengarah ke bawah."
+                },
+                {
+                    "english": "a large black and white bird with a long bill, black crown and white breast.",
+                    "indo": "burung besar berwarna hitam putih dengan paruh panjang, mahkota hitam, dan dada putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "this bird has huge black wings with a white breast on a small body with a very long beak.",
+                    "indo": "burung ini mempunyai sayap hitam besar dengan dada berwarna putih pada tubuh kecil dengan paruh yang sangat panjang."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0092_43206.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the wings and under tail are black the chest and stomach are white.",
+                    "indo": "sayap dan bawah ekor berwarna hitam, dada dan perut berwarna putih."
+                },
+                {
+                    "english": "this bird has a wide wingspan, a white breast, and a long bill.",
+                    "indo": "burung ini mempunyai rentang sayap yang lebar, dada berwarna putih, dan paruh yang panjang."
+                },
+                {
+                    "english": "spreading its black wingbars, the big bird soars through the blue sky.",
+                    "indo": "melebarkan sayap hitamnya, burung besar itu terbang melintasi langit biru."
+                },
+                {
+                    "english": "the bird has a white breast and black flank along with long black wings that are angled",
+                    "indo": "burung ini memiliki dada berwarna putih dan panggul berwarna hitam serta sayap hitam panjang yang bersudut"
+                },
+                {
+                    "english": "a bird with a large slender bill, white breast, black belly and thin rectrices.",
+                    "indo": "burung dengan paruh besar dan ramping, dada putih, perut hitam, dan rectrices  tipis."
+                },
+                {
+                    "english": "this bird has long black wingbars along with a white malar stripe.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam panjang dengan garis malar berwarna putih."
+                },
+                {
+                    "english": "a long bird with a large black wingspan and a white chest.",
+                    "indo": "seekor burung panjang dengan rentang sayap hitam besar dan dada putih."
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "a black bird with a white breast and a large wing span.",
+                    "indo": "seekor burung hitam dengan dada putih dan rentang sayap besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0095_42785.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird is with a large body in white in the breast and back, and a long curvy bill.",
+                    "indo": "burung ini berbadan besar berwarna putih pada bagian dada dan punggung, serta paruh panjang dan melengkung."
+                },
+                {
+                    "english": "this bird has black wings, white chest and light brown head, its long beak has a curve at the tip.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam, dada berwarna putih dan kepala berwarna coklat muda, paruhnya yang panjang memiliki lengkungan di ujungnya."
+                },
+                {
+                    "english": "the crown of this large beak bird is reddish brown.",
+                    "indo": "mahkota burung paruh besar ini berwarna coklat kemerahan."
+                },
+                {
+                    "english": "this bird has a large body with a big head and long hooked beak,and it has a brown head a white neck and blackish brown body.",
+                    "indo": "Burung ini berbadan besar dengan kepala besar dan paruh bengkok panjang, serta memiliki kepala berwarna coklat, leher berwarna putih dan badan berwarna coklat kehitaman."
+                },
+                {
+                    "english": "this bird is black and white in color with a long curved beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh panjang melengkung, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this large bird is mostly black, with an orange head, white breast, and long downward-curving beak.",
+                    "indo": "burung besar ini sebagian besar berwarna hitam, dengan kepala berwarna oranye, dada berwarna putih, dan paruh panjang melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird has wings that are black and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird has a brown fluffy head, with a very long sharp bill.",
+                    "indo": "burung ini mempunyai kepala berbulu coklat, dengan paruh runcing yang sangat panjang."
+                },
+                {
+                    "english": "this bird has black wings, a white breast, and a long curved bill.",
+                    "indo": "burung ini mempunyai sayap berwarna hitam, dada berwarna putih, dan paruh melengkung panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0096_43571.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a brown bird with a red neck and a large wing span.",
+                    "indo": "burung berwarna coklat dengan leher merah dan rentang sayap besar."
+                },
+                {
+                    "english": "the bird has a very long wingspan and black colored coverts with a bright orange cheek patch.",
+                    "indo": "burung ini memiliki rentang sayap yang sangat panjang dan bulu berwarna hitam dengan bercak pipi berwarna jingga cerah."
+                },
+                {
+                    "english": "the bird has a double wing tail and a red throat with a white beak.",
+                    "indo": "burung ini memiliki ekor bersayap ganda dan tenggorokan berwarna merah dengan paruh berwarna putih."
+                },
+                {
+                    "english": "this bird is black with a large wingspan and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan rentang sayap yang besar serta mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a bird with a red throat brown plumage and a long roudned bill.",
+                    "indo": "seekor burung dengan bulu berwarna coklat kerongkongan berwarna merah dan paruh yang panjang dan bulat."
+                },
+                {
+                    "english": "this bird is brown with long wings and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat dengan sayap yang panjang dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this is a brown bird that has a red throat and a white beak.",
+                    "indo": "ini adalah burung berwarna coklat yang memiliki tenggorokan merah dan paruh putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a red throat",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna merah"
+                },
+                {
+                    "english": "this bird has a bright red face, a long tail, and is mostly black in color.",
+                    "indo": "burung ini mempunyai muka berwarna merah cerah, ekor yang panjang, dan sebagian besar berwarna hitam."
+                },
+                {
+                    "english": "this is a medium sized brown bird, with a large tail and wingspan.",
+                    "indo": "ini adalah burung berwarna coklat berukuran sedang, dengan ekor dan rentang sayap yang besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0097_43567.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a large bird has a very rounded red belly, and a long black bill that is hooked at the end.",
+                    "indo": "seekor burung besar mempunyai perut merah yang sangat bulat, dan paruh hitam panjang yang ujungnya bengkok."
+                },
+                {
+                    "english": "this black bird has a large red breast and a large beak that curves downward on the tip.",
+                    "indo": "burung berwarna hitam ini memiliki dada besar berwarna merah dan paruh besar yang ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "the medium sized bird has black feathers and a bright red chest with a long beak that curves down.",
+                    "indo": "burung berukuran sedang ini memiliki bulu berwarna hitam dan dada berwarna merah cerah dengan paruh panjang melengkung ke bawah."
+                },
+                {
+                    "english": "a black bird with a large red bulge over the throat that extends to the belly.",
+                    "indo": "burung berwarna hitam dengan tonjolan merah besar di atas tenggorokan hingga ke perut."
+                },
+                {
+                    "english": "medium black bird with unusual red throat and long black bill.",
+                    "indo": "burung hitam sedang dengan tenggorokan merah yang tidak biasa dan paruh hitam panjang."
+                },
+                {
+                    "english": "small bird with black feathers, red chest, black eyes, and long, white beak.",
+                    "indo": "burung kecil dengan bulu hitam, dada merah, mata hitam, dan paruh panjang berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a big red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang besar berwarna merah"
+                },
+                {
+                    "english": "this large, black bird has a crimson throat and breast, a small head, and a very long, flat bill.",
+                    "indo": "burung hitam besar ini memiliki tenggorokan dan dada berwarna merah tua, kepala kecil, dan paruh yang sangat panjang dan rata."
+                },
+                {
+                    "english": "this bird is black and red in color, with a long curved beak.",
+                    "indo": "burung ini berwarna hitam merah, dengan paruh melengkung panjang."
+                },
+                {
+                    "english": "a large black bird, with an inflated chest, and a long bill.",
+                    "indo": "seekor burung hitam besar, dengan dada menggembung, dan paruh panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0098_43207.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "the medium sized bird is black all over and has a long beak that curves downward.",
+                    "indo": "burung berukuran sedang berwarna hitam seluruhnya dan memiliki paruh panjang melengkung ke bawah."
+                },
+                {
+                    "english": "this is a large black bird with a large beak that points down on the end.",
+                    "indo": "ini adalah burung hitam besar dengan paruh besar yang ujungnya mengarah ke bawah."
+                },
+                {
+                    "english": "a bird with a all black bill, feet,body, eyes and wings.",
+                    "indo": "seekor burung dengan paruh, kaki, badan, mata dan sayap serba hitam."
+                },
+                {
+                    "english": "this bird has a black body with black feathers, a puffy bright red breast and a long black bill.",
+                    "indo": "burung ini berbadan hitam dengan bulu berwarna hitam, dada menggembung berwarna merah cerah, dan paruh panjang berwarna hitam."
+                },
+                {
+                    "english": "this jet black bird has a curved black bill and a puffed, protruding breast colored bright vivid red.",
+                    "indo": "burung hitam legam ini memiliki paruh hitam melengkung dan dada menonjol berwarna merah cerah."
+                },
+                {
+                    "english": "the bird is all black except for the large red throat and belly that it has.",
+                    "indo": "burung itu semuanya berwarna hitam kecuali tenggorokan dan perutnya yang besar berwarna merah."
+                },
+                {
+                    "english": "this colorful bird has a large red breast and a long grey beck.",
+                    "indo": "burung berwarna-warni ini memiliki dada besar berwarna merah dan paruh abu-abu yang panjang."
+                },
+                {
+                    "english": "this large, primarily black bird has a large curved bill, and a very large red pouch that extends from its breast.",
+                    "indo": "burung besar yang sebagian besar berwarna hitam ini memiliki paruh melengkung yang besar, dan kantong merah yang sangat besar yang memanjang dari dadanya."
+                },
+                {
+                    "english": "the body is black, the secondaries are dark green, the chest is red and puffed out while the bill is long, and curved downward.",
+                    "indo": "badan berwarna hitam, paruh kedua berwarna hijau tua, dada berwarna merah dan membusung, paruhnya panjang, dan melengkung ke bawah."
+                },
+                {
+                    "english": "this large black bird has a protruding, round, red breast that is very large relative to the bird's size.",
+                    "indo": "burung hitam besar ini memiliki dada menonjol, bulat, berwarna merah yang sangat besar dibandingkan dengan ukuran burung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0107_42773.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a big bird with a white underbelly and black wings.",
+                    "indo": "seekor burung besar dengan perut berwarna putih dan sayap hitam."
+                },
+                {
+                    "english": "it has a long white beak which is hooked on the end with black feathers on its neck and head and white feathers on its chest, and long black feathers in its wings and tail, and orange feet.",
+                    "indo": "Ia mempunyai paruh panjang berwarna putih yang ujungnya berkait dengan bulu hitam di leher dan kepala serta bulu putih di dada, bulu hitam panjang di sayap dan ekor, serta kaki berwarna jingga."
+                },
+                {
+                    "english": "a large black bird with white feathers on the neck and a long white beak curved at the tip.",
+                    "indo": "seekor burung hitam besar dengan bulu putih di leher dan paruh panjang berwarna putih melengkung di ujungnya."
+                },
+                {
+                    "english": "large black bird with large black wings and a white beak and breast.",
+                    "indo": "burung hitam besar dengan sayap hitam besar dan paruh serta dada berwarna putih."
+                },
+                {
+                    "english": "a primarily black bird with a white patch that stretches from its lower neck to upper belly, a long pale beak, bright orange tarsus and feet, and a split tail.",
+                    "indo": "burung yang sebagian besar berwarna hitam dengan bercak putih yang membentang dari leher bagian bawah hingga perut bagian atas, paruh panjang pucat, tarsus dan kaki berwarna oranye terang, serta ekor terbelah."
+                },
+                {
+                    "english": "this bird has wings that are black with a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+                },
+                {
+                    "english": "this bird has a white belly and a long white bill and a wide wing span of black wings.",
+                    "indo": "burung ini mempunyai perut berwarna putih dan paruh panjang berwarna putih serta rentang sayap lebar berwarna hitam."
+                },
+                {
+                    "english": "big black bird with long white beak curved at the tip, white chest, black wings and black rectrices.",
+                    "indo": "burung hitam besar dengan paruh putih panjang melengkung di ujung, dada putih, sayap hitam, dan rectrices hitam."
+                },
+                {
+                    "english": "the bird has a long white bill that is curved, black wingbars that are large and a black back.",
+                    "indo": "burung ini memiliki paruh panjang berwarna putih melengkung, garis sayap berwarna hitam yang besar, dan punggung berwarna hitam."
+                },
+                {
+                    "english": "this bird has long black wings and a forked black tail.",
+                    "indo": "burung ini mempunyai sayap hitam panjang dan ekor hitam bercabang."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0112_43394.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a big bird with its long black wings fly through the air with its white breast pointing down.",
+                    "indo": "seekor burung besar dengan sayap hitam panjang terbang di udara dengan dada putih mengarah ke bawah."
+                },
+                {
+                    "english": "this bird is mostly black with a white chest, long tail and soaring wingspan.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan dada berwarna putih, ekor panjang dan rentang sayap menjulang tinggi."
+                },
+                {
+                    "english": "this bird is white and black in color with a black beak and dark eye rings.",
+                    "indo": "burung ini berwarna putih dan hitam dengan paruh berwarna hitam dan cincin mata berwarna gelap."
+                },
+                {
+                    "english": "a bird with a black body and head with a white patch on its chest.",
+                    "indo": "burung yang badannya hitam dan kepalanya ada bercak putih di dadanya."
+                },
+                {
+                    "english": "very large and long bird with a large wing span- the bird is white & black in color.",
+                    "indo": "burung yang sangat besar dan panjang dengan rentang sayap yang besar- burung berwarna putih & hitam."
+                },
+                {
+                    "english": "large bird in flight, with very dark wings, long inner and outer rectrices and black color on the nape and check areas.",
+                    "indo": "burung besar sedang terbang, dengan sayap sangat gelap, garis lurus inner dan outer rectrices yang panjang serta warna hitam pada tengkuk dan daerah cekung."
+                },
+                {
+                    "english": "a black and white bird with a long wingspan.",
+                    "indo": "seekor burung hitam putih dengan rentang sayap yang panjang."
+                },
+                {
+                    "english": "a wide winged bird with black feathers and a white chest and long tail feathers.",
+                    "indo": "burung bersayap lebar dengan bulu hitam dan dada berwarna putih serta bulu ekor panjang."
+                },
+                {
+                    "english": "the bird has a white belly and two large black wingbars.",
+                    "indo": "burung itu memiliki perut berwarna putih dan dua sayap besar berwarna hitam."
+                },
+                {
+                    "english": "this bird is white and black in color, and has a curved beak.",
+                    "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh yang melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0114_42807.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a pointy tail and a wide impressive wingspan",
+                    "indo": "burung ini memiliki ekor yang runcing dan rentang sayap yang lebar dan mengesankan"
+                },
+                {
+                    "english": "the bird has two black wingbars, a white breast, long white bill, black throat, and black outer and inner rectrices.",
+                    "indo": "burung ini mempunyai dua garis sayap hitam, dada berwarna putih, paruh putih panjang, tenggorokan hitam, serta outer dan inner rectrices berwarna hitam."
+                },
+                {
+                    "english": "a larger black and white bird, has a long hooked beak, and very sharp narrow, wings.",
+                    "indo": "burung hitam putih yang lebih besar, mempunyai paruh bengkok yang panjang, dan sayap sempit yang sangat tajam."
+                },
+                {
+                    "english": "large wingspan with long, thin wings ending in sharp tips, a long hooked beak, with black head, white neck ring, mottling down to dark gray body and long tail.",
+                    "indo": "rentang sayap besar dengan sayap panjang dan tipis berujung runcing, paruh panjang bengkok, kepala berwarna hitam, cincin leher putih, belang-belang hingga badan abu-abu tua dan ekor panjang."
+                },
+                {
+                    "english": "this bird is rather large with almost an all black color with a slight white on the breast, the beak is also white.",
+                    "indo": "Burung ini berukuran agak besar dengan warna hampir seluruhnya hitam dengan sedikit warna putih pada bagian dada, paruhnya juga berwarna putih."
+                },
+                {
+                    "english": "this bird has a white neck, grey face, and grey and black feathers covering the rest of its body.",
+                    "indo": "burung ini memiliki leher berwarna putih, muka berwarna abu-abu, serta bulu berwarna abu-abu dan hitam menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird is black and white in color, with a large curved beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh besar yang melengkung."
+                },
+                {
+                    "english": "this black with a white breast has long wings in proportion to its body, a flat beak and appears to look like a sea-bird.",
+                    "indo": "Burung hitam berdada putih ini memiliki sayap yang panjang sebanding dengan tubuhnya, paruhnya rata dan tampak seperti burung laut."
+                },
+                {
+                    "english": "this large bird has large wings and is dark colored.",
+                    "indo": "burung besar ini mempunyai sayap yang besar dan berwarna gelap."
+                },
+                {
+                    "english": "a large black bird, with a white breast, and a large wingspan.",
+                    "indo": "seekor burung hitam besar, dengan dada putih, dan rentang sayap besar."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0115_42973.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird is colored black all over its body and a long beak with a red extended throat.",
+                    "indo": "burung ini berwarna hitam di sekujur tubuhnya dan paruh panjang dengan tenggorokan memanjang berwarna merah."
+                },
+                {
+                    "english": "this is a very large black bird with a orange breast and a white and black bill",
+                    "indo": "ini adalah burung hitam yang sangat besar dengan dada oranye dan paruh putih dan hitam"
+                },
+                {
+                    "english": "a large black bird with light brown secondaries and a bright red throat.",
+                    "indo": "seekor burung hitam besar dengan bulu sekunder berwarna coklat muda dan tenggorokan berwarna merah cerah."
+                },
+                {
+                    "english": "a black bird with a white beach the points down at the end, and a big red throat.",
+                    "indo": "seekor burung hitam dengan garis pantai putih, ujungnya mengarah ke bawah, dan tenggorokan besar berwarna merah."
+                },
+                {
+                    "english": "this bird has a red throat, a long bill, and a black belly",
+                    "indo": "burung ini memiliki tenggorokan berwarna merah, paruh panjang, dan perut berwarna hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has a red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+                },
+                {
+                    "english": "this bird has a black crown as well as a red throat",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan tenggorokan berwarna merah"
+                },
+                {
+                    "english": "a small bird with a black covering and orange throat.",
+                    "indo": "seekor burung kecil dengan penutup hitam dan tenggorokan oranye."
+                },
+                {
+                    "english": "this particular bird has a belly that is black with an orange throat",
+                    "indo": "burung ini memiliki perut berwarna hitam dengan tenggorokan berwarna oranye"
+                },
+                {
+                    "english": "this particular bird has a belly that is black and red",
+                    "indo": "burung ini memiliki perut yang berwarna hitam dan merah"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0116_43410.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this bird has a white belly and breast, large bill, and black wings.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih, paruh besar, dan sayap berwarna hitam."
+                },
+                {
+                    "english": "a large white bird with black wings and tail, and a long white bill with a curved tip.",
+                    "indo": "burung putih besar dengan sayap dan ekor hitam, serta paruh panjang berwarna putih dengan ujung melengkung."
+                },
+                {
+                    "english": "this bird is black and white in color and has a long white bill along with a white eye ring.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh panjang berwarna putih serta cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has a long wingspan, a hooked yellow bill, and a white breast",
+                    "indo": "burung ini mempunyai rentang sayap yang panjang, paruh berwarna kuning yang bengkok, dan dada berwarna putih"
+                },
+                {
+                    "english": "this large black bird has a wide wingspan and a white beak, throat, breast, and abdomen.",
+                    "indo": "burung hitam besar ini memiliki rentang sayap yang lebar dan paruh, tenggorokan, dada, dan perut berwarna putih."
+                },
+                {
+                    "english": "this particular bird has a white belly and breast with black sides",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih dengan sisi berwarna hitam"
+                },
+                {
+                    "english": "a black bird with a white underbelly, head, and beak.",
+                    "indo": "seekor burung hitam dengan perut, kepala, dan paruh berwarna putih."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this large bird has a white belly, white breast, and a long pointed bill pointed downward.",
+                    "indo": "burung besar ini memiliki perut berwarna putih, dada berwarna putih, dan paruh panjang runcing mengarah ke bawah."
+                },
+                {
+                    "english": "a mostly black bird with a white breast and a white head and a long turned down bill",
+                    "indo": "burung yang sebagian besar berwarna hitam dengan dada putih dan kepala putih serta paruh panjang menghadap ke bawah"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0118_43189.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "large bird with great wing span, all black wings and top of bird, head and stomach have white spots.",
+                    "indo": "Burung berukuran besar dengan rentang sayap yang besar, seluruh sayap berwarna hitam dan bagian atas burung, kepala dan perut terdapat bintik-bintik putih."
+                },
+                {
+                    "english": "the long black winged bird, has a white belly and head.",
+                    "indo": "burung bersayap hitam panjang, mempunyai perut dan kepala berwarna putih."
+                },
+                {
+                    "english": "a large bird with a black wingspan greater than its body and white crown and throat and a white belly.",
+                    "indo": "seekor burung besar dengan rentang sayap hitam lebih besar dari tubuhnya dan mahkota serta tenggorokan berwarna putih dan perut berwarna putih."
+                },
+                {
+                    "english": "this is a black bird with a white belly and a long white beak.",
+                    "indo": "ini adalah burung hitam dengan perut putih dan paruh putih panjang."
+                },
+                {
+                    "english": "this large bird has a white breast on it's mostly black body and a split tail.",
+                    "indo": "burung besar ini memiliki dada berwarna putih, sebagian besar tubuhnya berwarna hitam, dan ekornya terbelah."
+                },
+                {
+                    "english": "this bird is mostly black and has a large wingspan.",
+                    "indo": "burung ini sebagian besar berwarna hitam dan mempunyai rentang sayap yang besar."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "this eagle has a white-feathered head, black-feathered wings with a black and white feathered body.",
+                    "indo": "elang ini mempunyai kepala berbulu putih, sayap berbulu hitam, dan badan berbulu hitam putih."
+                },
+                {
+                    "english": "this particular bird has a belly that is white and gray",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0119_43042.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "bird has red breast, black body, black abdomen and black head grey bill too",
+                    "indo": "burung mempunyai dada merah, badan hitam, perut hitam dan kepala hitam juga paruh abu-abu"
+                },
+                {
+                    "english": "a completely black big bird except a bloated and puffed huge red sac under its beak.",
+                    "indo": "seekor burung besar berwarna hitam kecuali kantung merah besar yang menggembung dan menggembung di bawah paruhnya."
+                },
+                {
+                    "english": "the big bird has a black body, red, puffy chest, and gray beak.",
+                    "indo": "burung besar itu mempunyai badan berwarna hitam, merah, dada menggembung, dan paruh berwarna abu-abu."
+                },
+                {
+                    "english": "a bird with a black crown and a red belly.",
+                    "indo": "seekor burung dengan mahkota hitam dan perut merah."
+                },
+                {
+                    "english": "this is a black bird with a large, red breast and long, grey bill.",
+                    "indo": "ini adalah burung hitam dengan dada besar berwarna merah dan paruh panjang berwarna abu-abu."
+                },
+                {
+                    "english": "this bird has wings that are black with a big red belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut besar berwarna merah"
+                },
+                {
+                    "english": "this medium-sized black bird as an enormously distended,bright red breast and a medium length, crooked bill.",
+                    "indo": "burung hitam berukuran sedang ini memiliki dada yang sangat buncit, berwarna merah cerah, dan paruh bengkok yang panjangnya sedang."
+                },
+                {
+                    "english": "this bird has wings that are black and has a big red chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang besar berwarna merah"
+                },
+                {
+                    "english": "this bird has black plumage, long tail feathers, a brilliant red balloon breast and a long bill that is hooked at the end.",
+                    "indo": "burung ini mempunyai bulu berwarna hitam, bulu ekor panjang, dada balon berwarna merah cemerlang dan paruh panjang yang berkait di ujungnya."
+                },
+                {
+                    "english": "this particular bird has a belly that is black and red",
+                    "indo": "burung ini memiliki perut yang berwarna hitam dan merah"
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0120_43300.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this is a large black bird with a grey beak, white breast and a long blunt tail.",
+                    "indo": "ini adalah burung hitam besar dengan paruh abu-abu, dada putih dan ekor panjang tumpul."
+                },
+                {
+                    "english": "this black bird has a forked tail, a white breast, and a grey bill.",
+                    "indo": "burung berwarna hitam ini memiliki ekor bercabang dua, dada berwarna putih, dan paruh berwarna abu-abu."
+                },
+                {
+                    "english": "this bird is white and black in color with a long wingspan.",
+                    "indo": "burung ini berwarna putih dan hitam dengan rentang sayap yang panjang."
+                },
+                {
+                    "english": "this bird is mostly black with a white breast, and long hooked bill.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan dada berwarna putih, dan paruh bengkok panjang."
+                },
+                {
+                    "english": "medium to large black and white bird with long white beak",
+                    "indo": "burung hitam putih berukuran sedang hingga besar dengan paruh putih panjang"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "this bird has a white throat and chest and all black feathers covering the rest of its body.",
+                    "indo": "burung ini memiliki tenggorokan dan dada berwarna putih serta seluruh bulu berwarna hitam menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird has a black crown as well as a white breast",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan dada berwarna putih"
+                },
+                {
+                    "english": "this bird has a long tan bill with a black throat and long black wings.",
+                    "indo": "burung ini memiliki paruh panjang berwarna coklat dengan tenggorokan berwarna hitam dan sayap berwarna hitam panjang."
+                },
+                {
+                    "english": "the bird is small with a pointed bill, has a bill that is long and the wings are black.",
+                    "indo": "burung tersebut berukuran kecil dengan paruh yang runcing, mempunyai paruh yang panjang dan sayap berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0121_42791.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "this birds has a white face, brown wings, and a very long white hooked beak",
+                    "indo": "burung ini mempunyai muka berwarna putih, sayap berwarna coklat, dan paruh bengkok berwarna putih yang sangat panjang"
+                },
+                {
+                    "english": "this bird has a white belly and breast, and a large hooked bill.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih, serta paruh bengkok yang besar."
+                },
+                {
+                    "english": "this bird has a very long bill that ends in a sharp hook, a head that is white like its neck, and large brown wings.",
+                    "indo": "burung ini mempunyai paruh yang sangat panjang dan berujung pada kait yang tajam, kepala yang berwarna putih seperti lehernya, dan sayap yang besar berwarna coklat."
+                },
+                {
+                    "english": "this bird is white and brown in color with a curved beak, and white eye rings.",
+                    "indo": "burung ini berwarna putih coklat dengan paruh melengkung, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has a white belly and breast with a long hooked bill and speckled wing.",
+                    "indo": "burung ini mempunyai perut dan dada berwarna putih dengan paruh panjang bengkok dan sayap berbintik."
+                },
+                {
+                    "english": "the large bird has a white head with a very large beak with the tip curved down.",
+                    "indo": "burung berukuran besar ini memiliki kepala berwarna putih dengan paruh yang sangat besar dengan ujung melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this large bird has a long neck, white head and beak, and dark brown wings, back, and tail.",
+                    "indo": "burung besar ini memiliki leher panjang, kepala dan paruh berwarna putih, serta sayap, punggung, dan ekor berwarna coklat tua."
+                },
+                {
+                    "english": "a large bird with a milky white curved beak, large dark wings with neutral colors.",
+                    "indo": "burung besar dengan paruh melengkung berwarna putih susu, sayap besar berwarna gelap dengan warna netral."
+                },
+                {
+                    "english": "this bird is very large and has a curved tip on its bill.",
+                    "indo": "burung ini berukuran sangat besar dan mempunyai ujung paruh yang melengkung."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0122_43549.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a bird with a downward hooked bill, split tail feathers, and brown on the rest of its body.",
+                    "indo": "burung dengan paruh bengkok ke bawah, bulu ekor terbelah, dan seluruh tubuhnya berwarna coklat."
+                },
+                {
+                    "english": "a black bird with large wings and a white spot on its belly, and a white head.",
+                    "indo": "burung berwarna hitam, bersayap besar, bercak putih di perutnya, dan kepala berwarna putih."
+                },
+                {
+                    "english": "this is a brown bird with a white belly and head and a long beak.",
+                    "indo": "ini adalah burung berwarna coklat dengan perut dan kepala berwarna putih serta paruh yang panjang."
+                },
+                {
+                    "english": "this is a brown bird with large wings, a white belly and a pointy beak.",
+                    "indo": "ini adalah burung berwarna coklat dengan sayap besar, perut putih dan paruh runcing."
+                },
+                {
+                    "english": "this large bird has an imposing hooked beak with an impressive set of wings punctuated by a distinctive split tail.",
+                    "indo": "burung besar ini mempunyai paruh bengkok yang mengesankan dengan sepasang sayap yang mengesankan diselingi oleh ekor terbelah yang khas."
+                },
+                {
+                    "english": "this bird has very large wings, long outer tectrices, and a long beak with a hooked end.",
+                    "indo": "burung ini mempunyai sayap yang sangat besar, tectrices luar yang panjang, dan paruh yang panjang dengan ujung yang bengkok."
+                },
+                {
+                    "english": "this primarily black bird has a white abdomen, a white head, and a bill that curves at the end.",
+                    "indo": "burung yang sebagian besar berwarna hitam ini memiliki perut berwarna putih, kepala berwarna putih, dan paruh yang melengkung di ujungnya."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with brown and black sides and breasts",
+                    "indo": "burung ini memiliki perut berwarna putih dengan sisi dan dada berwarna coklat dan hitam"
+                },
+                {
+                    "english": "a large black bird with white abdomen, white head and very long white bill.",
+                    "indo": "seekor burung hitam besar dengan perut putih, kepala putih dan paruh putih sangat panjang."
+                },
+                {
+                    "english": "this bird has a grey crown, brown primaries, and a white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna coklat, dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Frigatebird_0129_43183.jpg",
+            "class_id": 43,
+            "captions": [
+                {
+                    "english": "a big bird with a long flat bill curved at the tip and a black cheek patch",
+                    "indo": "seekor burung besar dengan paruh panjang dan pipih melengkung di ujungnya dan bercak hitam di pipi"
+                },
+                {
+                    "english": "this bird has a white belly and breast, with a black crown and long hooked bill.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota berwarna hitam dan paruh bengkok yang panjang."
+                },
+                {
+                    "english": "this white breasted bird has a black head and wings and a long hooked bill.",
+                    "indo": "burung berdada putih ini memiliki kepala dan sayap berwarna hitam serta paruh bengkok yang panjang."
+                },
+                {
+                    "english": "the beak of the bird is sharply pointed as the end hooks downward.",
+                    "indo": "paruh burung meruncing tajam, ujungnya mengait ke bawah."
+                },
+                {
+                    "english": "this is a black and white bird with a long hooked beak, and it is black around the eyes and throat.",
+                    "indo": "Ini adalah burung berwarna hitam putih dengan paruh bengkok panjang, dan berwarna hitam di sekitar mata dan tenggorokan."
+                },
+                {
+                    "english": "a large black bird with a white breast and a long, gray beak that curves down at the end.",
+                    "indo": "seekor burung hitam besar dengan dada putih dan paruh panjang berwarna abu-abu yang ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white chest",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna putih"
+                },
+                {
+                    "english": "a bird with a long bill the is turned downward and a white breast.",
+                    "indo": "burung dengan paruh panjang, menghadap ke bawah, dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird has a black crown as well as a white breast",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dan dada berwarna putih"
+                },
+                {
+                    "english": "the bird has a long curved bill that is white and brown wingbars.",
+                    "indo": "burung ini memiliki paruh panjang melengkung dengan garis sayap berwarna putih dan coklat."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2304 @@
+{
+  "dataset": [
+    {
+      "filename": "White_Pelican_0003_96691.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this is a white bird with a long pointy orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this water bird is all white with a long, pointed and orange bill.",
+          "indo": "burung air ini berwarna putih seluruhnya dengan paruh yang panjang, runcing dan berwarna oranye."
+        },
+        {
+          "english": "big bird with long yellow beak and yellow eye ring, white nape with upright feathers, secondaries are white, neck is long.",
+          "indo": "Burung besar dengan paruh kuning panjang dan cincin mata kuning, tengkuk putih dengan bulu tegak, bulu sekunder berwarna putih, leher panjang."
+        },
+        {
+          "english": "this bird has a long orange bill with a white body.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dengan badan berwarna putih."
+        },
+        {
+          "english": "this bird is white in color with a very large orange beak, and orange eye rings.",
+          "indo": "burung ini berwarna putih dengan paruh jingga yang sangat besar, dan cincin mata jingga."
+        },
+        {
+          "english": "this bird has wings that are white with a long orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan paruh yang panjang berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are white and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna kuning"
+        },
+        {
+          "english": "this large white bird has a very large yellow beak.",
+          "indo": "burung besar berwarna putih ini memiliki paruh berwarna kuning yang sangat besar."
+        },
+        {
+          "english": "this bird is white in color, with a extremely large orange beak.",
+          "indo": "burung ini berwarna putih, dengan paruh oranye yang sangat besar."
+        },
+        {
+          "english": "this bird is white in color, and has a orange beak.",
+          "indo": "burung ini berwarna putih, dan mempunyai paruh berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0005_95916.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird is almost completely white with a rust colored crown and speckles on it's back.",
+          "indo": "burung ini hampir seluruhnya berwarna putih dengan mahkota berwarna karat dan bintik-bintik di punggungnya."
+        },
+        {
+          "english": "this bird is mostly white with a really long orange bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "this bird has an enormous, sharp bill, with a long neck and white feathers.",
+          "indo": "burung ini memiliki paruh yang sangat besar dan tajam, dengan leher yang panjang dan bulu yang berwarna putih."
+        },
+        {
+          "english": "this large bird has a long neck and extremely large bill.",
+          "indo": "burung besar ini mempunyai leher yang panjang dan paruh yang sangat besar."
+        },
+        {
+          "english": "this large bird has a large, thick, orange bill, a long white neck and white body, with some brown feathers on its head.",
+          "indo": "Burung berukuran besar ini memiliki paruh yang besar, tebal, berwarna oranye, leher panjang berwarna putih, dan badan berwarna putih, dengan beberapa bulu berwarna coklat di kepalanya."
+        },
+        {
+          "english": "this large white bird with brown spots on its back, with a dark brown crown and nape, with a large bill.",
+          "indo": "burung besar berwarna putih dengan bintik-bintik coklat di punggungnya, dengan mahkota dan tengkuk berwarna coklat tua, dengan paruh yang besar."
+        },
+        {
+          "english": "this bird with a long orange bill has a long neck with a dark crown compared to its white body.",
+          "indo": "Burung dengan paruh panjang berwarna jingga ini memiliki leher yang panjang dengan mahkota berwarna gelap dibandingkan dengan tubuhnya yang berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird is white on its body with brown spots on its back and black on the back of its head and nape.",
+          "indo": "Burung ini berwarna putih pada badannya dengan bintik coklat pada punggung dan hitam pada bagian belakang kepala dan tengkuk."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0009_97340.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a big white fishing bird with a big and long orange beak, an orange cheek patch, and has black outer feathers on the wings.",
+          "indo": "burung pemancing besar berwarna putih dengan paruh besar dan panjang berwarna oranye, bercak oranye di pipi, dan memiliki bulu luar berwarna hitam pada sayapnya."
+        },
+        {
+          "english": "this bird has white and black wings and they are large.",
+          "indo": "burung ini mempunyai sayap berwarna putih dan hitam serta berukuran besar."
+        },
+        {
+          "english": "this white bird has a large wingspan with black feathers lining the edges and a long yellow and red beak.",
+          "indo": "burung berwarna putih ini memiliki rentang sayap yang besar dengan bulu berwarna hitam di tepinya dan paruh panjang berwarna kuning dan merah."
+        },
+        {
+          "english": "a bird with a colossal orange bill, long neck, and white pluamge.",
+          "indo": "burung dengan paruh berwarna jingga raksasa, leher panjang, dan bulu berwarna putih."
+        },
+        {
+          "english": "this large white bird has a very long and prominent orange beak and has black feathers on the tips on its wings.",
+          "indo": "burung berukuran besar berwarna putih ini mempunyai paruh berwarna jingga yang sangat panjang dan menonjol serta mempunyai bulu berwarna hitam pada ujung sayapnya."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a long yellow beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh panjang berwarna kuning"
+        },
+        {
+          "english": "this bird is white and black in color, with a very large orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna jingga yang sangat besar."
+        },
+        {
+          "english": "the bird has a long bill that is yellow and deep and long wingbars.",
+          "indo": "Burung ini mempunyai paruh yang panjang berwarna kuning dan mempunyai garis sayap yang dalam dan panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this large bird is covered in white, has a large wingspan with black feathers on the tips, and a distinctively long, orange bill with a large bump in the middle of the bill.",
+          "indo": "Burung berukuran besar ini berbalut warna putih, mempunyai rentang sayap yang besar dengan bulu berwarna hitam di ujungnya, dan paruh khasnya yang panjang berwarna jingga dengan tonjolan besar di tengah paruhnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0010_96876.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "an extremely large white bird with a very long orange and yellow bill, blue eyes and a string white crown.",
+          "indo": "seekor burung putih yang sangat besar dengan paruh berwarna oranye dan kuning yang sangat panjang, mata biru dan mahkota berwarna putih."
+        },
+        {
+          "english": "this bird has a long orange bill, a yellow eyering, and a white crown.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye, cincin mata berwarna kuning, dan mahkota berwarna putih."
+        },
+        {
+          "english": "a very large bird with an extremely large sharp orange beak, and an all white body with faint yellow hits in its feathers.",
+          "indo": "seekor burung yang sangat besar dengan paruh oranye tajam yang sangat besar, dan tubuh serba putih dengan bulu-bulu berwarna kuning samar."
+        },
+        {
+          "english": "a bird with a colossal bill which has a hook at the end, blue eyes, fringed white crown, and white plumage.",
+          "indo": "burung dengan paruh raksasa yang memiliki kait di ujungnya, mata biru, mahkota putih berpohon, dan bulu putih."
+        },
+        {
+          "english": "the bird has a white belly and head with brown spotted wings.",
+          "indo": "burung ini memiliki perut dan kepala berwarna putih dengan sayap berbintik coklat."
+        },
+        {
+          "english": "the bird has a white breast, white crown and blue eyering.",
+          "indo": "burung itu memiliki dada berwarna putih, mahkota berwarna putih, dan cincin mata berwarna biru."
+        },
+        {
+          "english": "this bird is white with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a larger sized bird, solid white in color, with subtle speckles of brown, that has a long reddish beak with a bump.",
+          "indo": "burung berukuran lebih besar, berwarna putih solid, berbintik halus berwarna coklat, paruh panjang kemerahan dengan tonjolan."
+        },
+        {
+          "english": "this is a large white bird with a yellow eyering and a long, large red beak.",
+          "indo": "ini adalah burung putih besar dengan cincin mata kuning dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird has a very large, long bill and a white body with an orange eye ring.",
+          "indo": "burung ini mempunyai paruh yang sangat besar, panjang, dan badan berwarna putih dengan cincin mata berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0012_97261.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large solid white bird with an oversized, long orange bill.",
+          "indo": "seekor burung putih solid besar dengan paruh oranye panjang yang besar."
+        },
+        {
+          "english": "this bird has an all white body and a long yellow scoop-like beak.",
+          "indo": "burung ini memiliki tubuh serba putih dan paruh panjang seperti sendok berwarna kuning."
+        },
+        {
+          "english": "this is a white bird with a long yellow bill and a black eyering",
+          "indo": "ini adalah burung berwarna putih dengan paruh kuning panjang dan cincin mata hitam"
+        },
+        {
+          "english": "bird has white body feathers, white breast feather, and very long beak",
+          "indo": "Burung ini memiliki bulu badan berwarna putih, bulu dada berwarna putih, dan paruh yang sangat panjang"
+        },
+        {
+          "english": "the bird has a long white throat and a very large bill that is long and yellow.",
+          "indo": "burung ini mempunyai tenggorokan yang panjang berwarna putih dan paruh yang sangat besar, panjang dan berwarna kuning."
+        },
+        {
+          "english": "the bird has a large white body, an orange neck, and a very long orange beak.",
+          "indo": "burung ini memiliki tubuh besar berwarna putih, leher berwarna oranye, dan paruh berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "this large bird is white with a yellow beak and eyes and a long neck and large beak.",
+          "indo": "burung besar ini berwarna putih dengan paruh dan mata berwarna kuning serta leher panjang dan paruh besar."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "a large bird with a large, wide orange bill, yellow eye ring, that is covered in pure white feathers.",
+          "indo": "burung besar dengan paruh besar berwarna oranye lebar, cincin mata kuning, ditutupi bulu putih bersih."
+        },
+        {
+          "english": "this bird is completely white except for its broad, long bill which is yellow.",
+          "indo": "burung ini seluruhnya berwarna putih kecuali paruhnya yang lebar dan panjang berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0013_96901.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "bird with white feathers and black on tips of wings, long orange beak, and orange feet.",
+          "indo": "burung dengan bulu berwarna putih dan ujung sayap berwarna hitam, paruh panjang berwarna jingga, dan kaki berwarna jingga."
+        },
+        {
+          "english": "this is a large white bird with webbed feet, long beck and a long pink beak.",
+          "indo": "ini adalah burung putih besar dengan kaki berselaput, paruh panjang dan paruh merah muda."
+        },
+        {
+          "english": "this bird has a white crown, a yellow cheek patch, and a long orange bill.",
+          "indo": "burung ini mempunyai mahkota berwarna putih, bercak kuning di pipi, dan paruh panjang berwarna jingga."
+        },
+        {
+          "english": "this large white and black bird has orange feet and an orange bill.",
+          "indo": "burung besar berwarna putih dan hitam ini memiliki kaki berwarna oranye dan paruh berwarna oranye."
+        },
+        {
+          "english": "this is a large, white bird with black primaries, secondaries, and vents as well as a yellow orange bill.",
+          "indo": "ini adalah burung besar berwarna putih dengan warna bulu primer, bulu sekunder, dan lubang kloaka hitam serta paruh berwarna kuning oranye."
+        },
+        {
+          "english": "a large white bird with a long neck and even longer beak with wide wings that have black secondaries.",
+          "indo": "seekor burung besar berwarna putih dengan leher panjang dan paruh lebih panjang dengan sayap lebar yang memiliki bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this bird is large with a wide wingspan and large orange beak.",
+          "indo": "burung ini berukuran besar dengan rentang sayap lebar dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "the bird is an excited bird that in its elegance is ready to fly.",
+          "indo": "burung adalah burung yang bersemangat yang dengan keanggunannya siap terbang."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "a white bird with black color on the tips of its wings, and a long beak and webbed feet that are orange-colored.",
+          "indo": "burung berwarna putih dengan warna hitam pada ujung sayapnya, serta paruh panjang dan kaki berselaput berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0014_96417.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the white bird in the water has a large orange beak and a yellow eyering.",
+          "indo": "burung putih di dalam air memiliki paruh besar berwarna oranye dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "a large white colored bird with an extremely long, narrow pointed pink beak and yellow eyering.",
+          "indo": "seekor burung besar berwarna putih dengan paruh merah jambu yang sangat panjang dan sempit serta cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird is nearly all white with a long yellow bill.",
+          "indo": "burung ini hampir seluruhnya berwarna putih dengan paruh panjang berwarna kuning."
+        },
+        {
+          "english": "a white bird with a long neck and a bill the length of the neck",
+          "indo": "seekor burung berwarna putih dengan leher panjang dan paruh sepanjang leher"
+        },
+        {
+          "english": "large bird with white feathers and a long pointed orange beak",
+          "indo": "burung besar dengan bulu putih dan paruh panjang berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are white and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this white water bird has a long neck with a long orange bill.",
+          "indo": "burung air berwarna putih ini mempunyai leher yang panjang dengan paruh yang panjang berwarna jingga."
+        },
+        {
+          "english": "this large white bird has a yellow eye and a long pink beak.",
+          "indo": "burung besar berwarna putih ini memiliki mata kuning dan paruh panjang berwarna merah muda."
+        },
+        {
+          "english": "this white bird has very small wings, a very small tail, and a long orange bill.",
+          "indo": "burung berwarna putih ini memiliki sayap yang sangat kecil, ekor yang sangat kecil, dan paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this large bird is all white, with a long yellow beck.",
+          "indo": "burung besar ini semuanya berwarna putih, dengan paruh kuning yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0015_96952.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this is a large white bird with a long light pink beak and a long neck.",
+          "indo": "ini adalah burung putih besar dengan paruh panjang berwarna merah muda dan leher panjang."
+        },
+        {
+          "english": "large white bird with long neck, long peach color beak and small black eyes",
+          "indo": "burung putih besar dengan leher panjang, paruh panjang warna persik dan mata hitam kecil"
+        },
+        {
+          "english": "an all white bird, with a white breast, neck, throat and wings, sits with its feet and belly in a pond, as well as the tip of its long yellow and peach bill.",
+          "indo": "seekor burung yang serba putih, dengan dada, leher, tenggorokan, dan sayap berwarna putih, duduk dengan kaki dan perutnya di dalam kolam, serta ujung paruhnya yang panjang berwarna kuning dan persik."
+        },
+        {
+          "english": "this bird is mostly white with a long neck and an extremely long bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan leher panjang dan paruh sangat panjang."
+        },
+        {
+          "english": "a very large bird with white fluffy feathers and a long bill.",
+          "indo": "seekor burung yang sangat besar dengan bulu berbulu putih dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a pink and yellow bill, with a long neck and white head and body.",
+          "indo": "burung ini memiliki paruh berwarna merah muda dan kuning, dengan leher panjang serta kepala dan badan berwarna putih."
+        },
+        {
+          "english": "this all white swimming bird has a long orange beak and small black eyes.",
+          "indo": "burung perenang serba putih ini memiliki paruh panjang berwarna oranye dan mata kecil berwarna hitam."
+        },
+        {
+          "english": "a large white bird, with a long flat bill.",
+          "indo": "seekor burung putih besar, dengan paruh pipih yang panjang."
+        },
+        {
+          "english": "the bird is large in size and is white in color with a large orange bill.",
+          "indo": "burung ini berukuran besar dan berwarna putih dengan paruh besar berwarna jingga."
+        },
+        {
+          "english": "this is a large white bird with a pink and yellow long beak, it's neck is long and head is small.",
+          "indo": "Ini adalah burung besar berwarna putih dengan paruh panjang berwarna merah muda dan kuning, lehernya panjang dan kepalanya kecil."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0016_96659.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird has a large, long, orange beak along with a long, curvy white neck.",
+          "indo": "burung ini memiliki paruh yang besar, panjang, berwarna oranye, serta leher yang panjang dan melengkung berwarna putih."
+        },
+        {
+          "english": "large white bird with a very large flat orange beak & a long neck.",
+          "indo": "burung putih besar dengan paruh oranye pipih yang sangat besar & leher panjang."
+        },
+        {
+          "english": "this is a large white bird with a long, somewhat thick beak and some black on the sides of its belly.",
+          "indo": "Ini adalah burung putih besar dengan paruh panjang agak tebal dan sebagian berwarna hitam di sisi perutnya."
+        },
+        {
+          "english": "this large white bird has a long neck, and extremely large bill.",
+          "indo": "burung putih besar ini mempunyai leher yang panjang, dan paruh yang sangat besar."
+        },
+        {
+          "english": "large white and black bird with long neck and long orange beak",
+          "indo": "burung besar berwarna putih dan hitam dengan leher panjang dan paruh oranye panjang"
+        },
+        {
+          "english": "very large bird with a long orange bill half as long as the body, white head and long white neck and white body with dark belly",
+          "indo": "burung yang sangat besar dengan paruh berwarna jingga panjang setengah panjang badan, kepala berwarna putih dan leher putih panjang serta badan putih dengan perut berwarna gelap"
+        },
+        {
+          "english": "this is a large white waterbird with a long neck and long, pointed beak.",
+          "indo": "ini adalah burung air putih besar dengan leher panjang dan paruh panjang runcing."
+        },
+        {
+          "english": "this large bird is white with a long orange bill, and black under it's wings.",
+          "indo": "burung besar ini berwarna putih dengan paruh panjang berwarna oranye, dan berwarna hitam di bawah sayapnya."
+        },
+        {
+          "english": "a large, white bird with a very long neck and a extra long brown bill.",
+          "indo": "seekor burung besar berwarna putih dengan leher sangat panjang dan paruh coklat ekstra panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0022_95897.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a nistly white bird with a black stripe in its wing with a large beak.",
+          "indo": "seekor burung berbulu putih dengan garis hitam di sayapnya dan paruhnya besar."
+        },
+        {
+          "english": "the bird has a long curved bill that is peach colored and a black eyering.",
+          "indo": "burung ini memiliki paruh panjang melengkung berwarna persik dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a large white bird with a large white and orange beak.",
+          "indo": "ini adalah burung putih besar dengan paruh besar berwarna putih dan oranye."
+        },
+        {
+          "english": "large aquatic white bird with black underwings and a very long orange bill.",
+          "indo": "burung air putih besar dengan bagian bawah sayap hitam dan paruh oranye yang sangat panjang."
+        },
+        {
+          "english": "a large bird swimming with a long neck and long orange beak",
+          "indo": "seekor burung besar berenang dengan leher panjang dan paruh oranye panjang"
+        },
+        {
+          "english": "this large white bird has a long neck and a very long large pink beak",
+          "indo": "burung besar berwarna putih ini memiliki leher yang panjang dan paruh besar berwarna merah muda yang sangat panjang"
+        },
+        {
+          "english": "the wings of the bird display shades of brown, white, gray and black.",
+          "indo": "sayap burung menampilkan corak coklat, putih, abu-abu dan hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this water bird has a long, pointed beak, a long neck, and strong-looking wings that are covered in white feathers, with black feathers on the bottom of the wings.",
+          "indo": "Burung air ini mempunyai paruh yang panjang dan runcing, leher yang panjang, dan sayap yang tampak kuat ditutupi bulu berwarna putih, dengan bulu berwarna hitam pada bagian bawah sayapnya."
+        },
+        {
+          "english": "this bird has wings that are white and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0024_96554.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the bird has a very large bill that is yellow relative to its body.",
+          "indo": "burung ini memiliki paruh yang sangat besar berwarna kuning dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird has a long neck, a long bill, and large white wings",
+          "indo": "burung ini memiliki leher yang panjang, paruh yang panjang, dan sayap yang besar berwarna putih"
+        },
+        {
+          "english": "the large white bird has a long neck and a long thick yellow beak.",
+          "indo": "burung besar berwarna putih memiliki leher panjang dan paruh panjang berwarna kuning tebal."
+        },
+        {
+          "english": "a large white long-necked bird with yellow around its eyes and a very large long yellow bill.",
+          "indo": "burung besar berwarna putih berleher panjang dengan warna kuning di sekitar matanya dan paruh kuning panjang yang sangat besar."
+        },
+        {
+          "english": "this long billed water bird has white body and an orange bill.",
+          "indo": "Burung air berparuh panjang ini memiliki tubuh berwarna putih dan paruh berwarna jingga."
+        },
+        {
+          "english": "this large bird is white all over with an orange bill and feet.",
+          "indo": "burung besar ini berwarna putih seluruhnya dengan paruh dan kaki berwarna oranye."
+        },
+        {
+          "english": "this white aquatic bird has large wings and a long, oblong cream-colored bill.",
+          "indo": "burung akuatik berwarna putih ini memiliki sayap besar dan paruh panjang berwarna krem."
+        },
+        {
+          "english": "this large, completely white bird has a very long, orange bill.",
+          "indo": "burung besar berwarna putih seluruhnya ini memiliki paruh berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "this bird has a large beak and a long neck.",
+          "indo": "burung ini mempunyai paruh yang besar dan leher yang panjang."
+        },
+        {
+          "english": "a white bird with a long neck and a very long pointed orange beak.",
+          "indo": "seekor burung berwarna putih dengan leher panjang dan paruh oranye yang sangat panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0025_97604.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large billed bird is mostly white with a yellow eyering and black under side to the wings.",
+          "indo": "burung berparuh besar ini sebagian besar berwarna putih dengan cincin mata kuning dan hitam di bagian bawah sayap."
+        },
+        {
+          "english": "a bird with a long yellow beak with a white body and a patch of black.",
+          "indo": "burung dengan paruh panjang berwarna kuning, badan berwarna putih dan bercak hitam."
+        },
+        {
+          "english": "large white and black bird with very large orange beak and small eye",
+          "indo": "burung besar berwarna putih dan hitam dengan paruh oranye yang sangat besar dan mata kecil"
+        },
+        {
+          "english": "large white and black bird with long neck and long orange beak",
+          "indo": "burung besar berwarna putih dan hitam dengan leher panjang dan paruh oranye panjang"
+        },
+        {
+          "english": "bird with long, fat and sharp pointed beak, with white crown, cape, throat and breast, and black eye with yellow eyering",
+          "indo": "burung dengan paruh yang panjang, gemuk dan runcing, dengan mahkota, jubah, tenggorokan dan dada berwarna putih, serta mata berwarna hitam dengan cincin mata berwarna kuning"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white crown as well as a large pink bill",
+          "indo": "burung ini memiliki mahkota berwarna putih dan paruh besar berwarna merah muda"
+        },
+        {
+          "english": "this bird has a long tan bill with yellow eyerings and white crown",
+          "indo": "burung ini mempunyai paruh panjang berwarna coklat dengan cincin mata kuning dan mahkota berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird has a broad and long yellow bill, a white crown and throat and white wings.",
+          "indo": "burung ini memiliki paruh lebar dan panjang berwarna kuning, mahkota dan tenggorokan berwarna putih, serta sayap berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0026_95832.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "with an orange beak and feet, this big bird and its white body stands on a sandy beach.",
+          "indo": "dengan paruh dan kaki berwarna oranye, burung besar dan tubuh putihnya ini berdiri di tepi pantai berpasir."
+        },
+        {
+          "english": "this bird has an all white body, with orange legs, and a long orange beak.",
+          "indo": "burung ini memiliki tubuh serba putih, kaki berwarna oranye, dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "a large bird that is entirely white with orange legs and a long beak",
+          "indo": "seekor burung besar yang seluruhnya berwarna putih dengan kaki berwarna oranye dan paruh yang panjang"
+        },
+        {
+          "english": "this large bird has a white body, long neck, orange feet and extremely large bill.",
+          "indo": "burung besar ini memiliki tubuh berwarna putih, leher panjang, kaki berwarna oranye dan paruh yang sangat besar."
+        },
+        {
+          "english": "this large bird has a white body with white feathers, a long yellow bill, small black eyes with yellow rims and big yellow webbed feet.",
+          "indo": "Burung berukuran besar ini berbadan putih dengan bulu berwarna putih, paruh panjang berwarna kuning, mata kecil berwarna hitam dengan pinggiran kuning, dan kaki berselaput besar berwarna kuning."
+        },
+        {
+          "english": "this is a large white pelican bird. very tall bird with a long neck. very long pink and yellow beak. orange feet legs and webbed feet.",
+          "indo": "ini adalah burung pelikan putih besar. burung yang sangat tinggi dengan leher panjang. paruhnya yang sangat panjang berwarna merah jambu dan kuning. kaki oranye dan kaki berselaput."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan perut berwarna putih."
+        },
+        {
+          "english": "a big white bird with a long large thick orange beak and orange feet.",
+          "indo": "seekor burung putih besar dengan paruh panjang berwarna jingga tebal dan kaki jingga."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0028_95950.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "large white bird with black tipped wings, long neck and expandable orange throat, with orange beak and orange eye patch.",
+          "indo": "burung putih besar dengan sayap berujung hitam, leher panjang dan tenggorokan jingga yang bisa melebar, dengan paruh jingga dan penutup mata jingga."
+        },
+        {
+          "english": "a very large bird with a large orange, yellow and black beak, yellow eyes, with white feathers covering its entire body except for the tips of its wings which are black and grey.",
+          "indo": "burung yang sangat besar dengan paruh besar berwarna jingga, kuning dan hitam, bermata kuning, bulu putih menutupi seluruh tubuhnya kecuali ujung sayapnya yang berwarna hitam abu-abu."
+        },
+        {
+          "english": "a larger bird that has a white body and a long orange bill with a yellowish underbill.",
+          "indo": "burung lebih besar yang memiliki tubuh putih dan paruh panjang berwarna oranye dengan paruh bagian bawah berwarna kekuningan."
+        },
+        {
+          "english": "this large white bird and black tipped wing feathers and a large orange beak with a pouch.",
+          "indo": "burung ini berukuran besar berwarna putih dan bulu sayap berujung hitam serta paruh besar berwarna jingga berkantung."
+        },
+        {
+          "english": "this is a large white bird with an extremely elongated pink bill and massive wing span.",
+          "indo": "ini adalah burung putih besar dengan paruh merah muda yang sangat memanjang dan rentang sayap yang besar."
+        },
+        {
+          "english": "this bird has wings that are white and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are white and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this bird is all white and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih seluruhnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white in color, with a colorful large beak.",
+          "indo": "burung ini berwarna putih, dengan paruh besar berwarna-warni."
+        },
+        {
+          "english": "this bird has a white belly, breast and wings with a large light red bill.",
+          "indo": "burung ini memiliki perut, dada, dan sayap berwarna putih dengan paruh besar berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0031_97064.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a big bird with a small head and a large and long pointed beak, white is the only color on this bird.",
+          "indo": "burung besar dengan kepala kecil dan paruh runcing besar dan panjang, warna putih satu-satunya pada burung ini."
+        },
+        {
+          "english": "a larhe white bird with a large beak that looks flexible.",
+          "indo": "seekor burung berukuran besar berwarna putih dengan paruh besar yang terlihat lentur."
+        },
+        {
+          "english": "a large all white swimming bird with an extremely long yellow bill, and orange claws.",
+          "indo": "burung renang besar berwarna putih dengan paruh kuning yang sangat panjang, dan cakar oranye."
+        },
+        {
+          "english": "all white bird with orange cheek patches, bill and tarsus.",
+          "indo": "semua burung berwarna putih dengan bercak oranye di pipi, paruh dan tarsus."
+        },
+        {
+          "english": "this bird has a white crown, a large yellow bill, and a white back",
+          "indo": "burung ini memiliki mahkota berwarna putih, paruh besar berwarna kuning, dan punggung berwarna putih"
+        },
+        {
+          "english": "the bird had a large white body with yellow feet, a long neck, and a long wide beak which is also yellow.",
+          "indo": "Burung tersebut mempunyai tubuh besar berwarna putih dengan kaki berwarna kuning, leher panjang, dan paruh panjang lebar yang juga berwarna kuning."
+        },
+        {
+          "english": "this appears to be a large bird with a white body and a large yellow beak used for fishing.",
+          "indo": "Tampaknya ini adalah burung besar dengan tubuh putih dan paruh kuning besar yang digunakan untuk memancing."
+        },
+        {
+          "english": "a large white bird with a huge orange beak swims in the water.",
+          "indo": "seekor burung putih besar dengan paruh oranye besar berenang di air."
+        },
+        {
+          "english": "this bird has a huge yellow bill with a long neck with the rest of the body being white with the exception of the feet.",
+          "indo": "burung ini memiliki paruh besar berwarna kuning dengan leher panjang dengan seluruh tubuh berwarna putih kecuali kaki."
+        },
+        {
+          "english": "the bird is all white with a large broad yellow beak and orange feet.",
+          "indo": "burung itu serba putih dengan paruh besar berwarna kuning lebar dan kaki oranye."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0032_96920.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a long orange billed large white bird.",
+          "indo": "seekor burung putih besar berparuh oranye panjang."
+        },
+        {
+          "english": "this is a white bird with a large orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "a large white bird with a huge orange bill and throat.",
+          "indo": "seekor burung putih besar dengan paruh dan tenggorokan berwarna oranye besar."
+        },
+        {
+          "english": "this bird has a white overall color with yellow bill that's too big for its body size.",
+          "indo": "burung ini mempunyai warna keseluruhan putih dengan paruh kuning yang terlalu besar untuk ukuran tubuhnya."
+        },
+        {
+          "english": "a large bird that is all white with an extremely large bill.",
+          "indo": "seekor burung besar yang semuanya berwarna putih dengan paruh yang sangat besar."
+        },
+        {
+          "english": "a very large white bird, with a a thick long yellow bill.",
+          "indo": "burung berwarna putih sangat besar, dengan paruh tebal berwarna kuning panjang."
+        },
+        {
+          "english": "this white waterbird has a long orange beak.",
+          "indo": "burung air berwarna putih ini mempunyai paruh yang panjang berwarna jingga."
+        },
+        {
+          "english": "this large bird has long white feathers over its whole body, a massive expanding orange scoop for a beak, and bright orange legs.",
+          "indo": "burung besar ini memiliki bulu putih panjang di sekujur tubuhnya, paruh berwarna oranye besar yang melebar, dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "a large bird with a white coloring and long, orange beak.",
+          "indo": "seekor burung besar dengan warna putih dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this large white bird has a long, wide bill, with a pouch protruding at the bottom.",
+          "indo": "burung berukuran besar berwarna putih ini memiliki paruh yang panjang dan lebar, dengan kantong menonjol di bagian bawah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0034_97466.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "white pelican - waterbird with broad wings, long neck, massive bill, thick body, short leg, short square tails, head.neck and back are dusky",
+          "indo": "pelikan putih - burung air bersayap lebar, leher panjang, paruh besar, badan tebal, kaki pendek, ekor persegi pendek, kepala.leher dan punggung berwarna kehitaman"
+        },
+        {
+          "english": "this is a large white bird with a long neck and an orange beak.",
+          "indo": "ini adalah burung putih besar dengan leher panjang dan paruh oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast with a long orange bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "the birds has a white overall body color with it's long pink bill.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan putih dengan paruh panjang berwarna merah muda."
+        },
+        {
+          "english": "this bird has a long white neck, a very long orange bill, and a bright orange leg",
+          "indo": "burung ini memiliki leher panjang berwarna putih, paruh berwarna jingga yang sangat panjang, dan kaki berwarna jingga cerah"
+        },
+        {
+          "english": "this bird has wings that are white with a long orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan paruh yang panjang berwarna oranye"
+        },
+        {
+          "english": "the bill and neck are long, feet are orange and the rest of the body is white with black on the secondaries.",
+          "indo": "paruh dan lehernya panjang, kaki berwarna oranye dan seluruh tubuh berwarna putih dengan warna hitam di bagian bulu sekunder."
+        },
+        {
+          "english": "this large white bird has black primaries, a long neck, a very long, narrow, orange bill and large, orange tarsus and feet.",
+          "indo": "burung putih besar ini memiliki warna bulu primer hitam, leher panjang, paruh sangat panjang, sempit, berwarna oranye, serta tarsus dan kaki besar berwarna oranye."
+        },
+        {
+          "english": "a large white bird, with black primaries, and a long yellow bill.",
+          "indo": "seekor burung putih besar, dengan warna bulu primer hitam, dan paruh kuning panjang."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0035_96312.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large water bird has a completely white body and an overly large, disproportional, orange bill.",
+          "indo": "burung air besar ini memiliki tubuh yang benar-benar putih dan paruh berwarna oranye yang terlalu besar dan tidak proporsional."
+        },
+        {
+          "english": "this large bird is mostly white with a large orange bill.",
+          "indo": "burung besar ini sebagian besar berwarna putih dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this water bird has all white plumage and a very large and pointed orange bill that is nearly the size of its body.",
+          "indo": "burung air ini mempunyai bulu yang serba putih dan paruh berwarna jingga yang sangat besar dan runcing hampir seukuran tubuhnya."
+        },
+        {
+          "english": "this bird is mostly white with a really big orange bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh berwarna oranye yang sangat besar."
+        },
+        {
+          "english": "a very large white bird with a yellow eyering and long, orange bill.",
+          "indo": "seekor burung putih sangat besar dengan cincin mata kuning dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird has a beautiful white crown, a long thick orange bill, and white wingbars.",
+          "indo": "burung ini memiliki mahkota berwarna putih yang indah, paruh panjang berwarna jingga tebal, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "a white bird in the water with a very long orange beak.",
+          "indo": "seekor burung putih di dalam air dengan paruh berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "this bird is white in color, with a very large orange beak.",
+          "indo": "burung ini berwarna putih, dengan paruh berwarna jingga yang sangat besar."
+        },
+        {
+          "english": "this bird is white in color, with a large orange beak.",
+          "indo": "burung ini berwarna putih, dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "a large bird with a white coloring and a long orange beak.",
+          "indo": "seekor burung besar dengan warna putih dan paruh panjang berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0036_96863.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large water bird with a long pink beak and white plumage rests on the water.",
+          "indo": "seekor burung air besar dengan paruh panjang berwarna merah muda dan bulu putih bersandar di atas air."
+        },
+        {
+          "english": "this is a large white bird with a long neck and a very long, pink beak.",
+          "indo": "ini adalah burung putih besar dengan leher panjang dan paruh berwarna merah muda yang sangat panjang."
+        },
+        {
+          "english": "a large bird with an extremely large pink beak, covered in white feathers over its entire body.",
+          "indo": "seekor burung besar dengan paruh berwarna merah muda yang sangat besar, ditutupi bulu putih di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird is white in color with a very large pink beak, and black eye rings.",
+          "indo": "burung ini berwarna putih dengan paruh berwarna merah muda yang sangat besar, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this majestic, white waterbird has a huge, thin beak that curves at the end.",
+          "indo": "Burung air putih yang megah ini memiliki paruh besar dan tipis yang ujungnya melengkung."
+        },
+        {
+          "english": "a large bird with a long orange bill and white feathers.",
+          "indo": "seekor burung besar dengan paruh oranye panjang dan bulu putih."
+        },
+        {
+          "english": "this bird has a belly that is white and a long pink bill",
+          "indo": "burung ini memiliki perut yang berwarna putih dan paruh panjang berwarna merah muda"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long pink peak with a white crown and a long white throat.",
+          "indo": "burung ini mempunyai puncak panjang berwarna merah jambu dengan mahkota berwarna putih dan tenggorokan panjang berwarna putih."
+        },
+        {
+          "english": "this bird has a very long orange bill, with a long neck.",
+          "indo": "burung ini mempunyai paruh berwarna jingga yang sangat panjang, dengan leher yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0037_95570.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a small bird with a white head and nape, with white and brown covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala dan tengkuk berwarna putih, dengan warna putih dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird is white and brown in color with a long orange beak and orange eye ring.",
+          "indo": "burung ini berwarna putih coklat dengan paruh panjang berwarna jingga dan cincin mata berwarna jingga."
+        },
+        {
+          "english": "this is a white bird with brown wings and a large orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap coklat dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this large bird has a long, yellow beak, a long neck, and its plumage is white with black feathers on the wings.",
+          "indo": "burung berukuran besar ini memiliki paruh panjang berwarna kuning, leher panjang, dan bulunya berwarna putih dengan bulu hitam pada sayapnya."
+        },
+        {
+          "english": "dark colored wings with a white torso and a long beak",
+          "indo": "sayap berwarna gelap dengan batang tubuh putih dan paruh panjang"
+        },
+        {
+          "english": "a large white bird, with black feathers on the wings, and a long yellow bill.",
+          "indo": "seekor burung putih besar, dengan bulu hitam di sayapnya, dan paruh kuning panjang."
+        },
+        {
+          "english": "this bird has a belly that is white with brown and white wings",
+          "indo": "burung ini mempunyai perut yang berwarna putih dengan sayap berwarna coklat dan putih"
+        },
+        {
+          "english": "the bird has a long orange bill and two large white wingbars.",
+          "indo": "burung itu mempunyai paruh berwarna oranye yang panjang dan dua garis sayap besar berwarna putih."
+        },
+        {
+          "english": "this is a large white bird with brown primaries and a large orange beak.",
+          "indo": "ini adalah burung putih besar dengan warna bulu primer coklat dan paruh oranye besar."
+        },
+        {
+          "english": "this white bird has a thick orange bill, long neck, and greyish brown primaries and secondaries.",
+          "indo": "Burung berwarna putih ini memiliki paruh berwarna jingga tebal, leher panjang, serta warna bulu primer dan bulu sekunder berwarna coklat keabu-abuan."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0039_97363.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large bird with an orange beak and black feathers.",
+          "indo": "seekor burung besar dengan paruh oranye dan bulu hitam."
+        },
+        {
+          "english": "a large sized white bird that has dark brown tipped wings",
+          "indo": "seekor burung berwarna putih berukuran besar yang memiliki ujung sayap berwarna coklat tua"
+        },
+        {
+          "english": "the bird is white with black wings and a long orange bill with orange feet.",
+          "indo": "burung itu berwarna putih dengan sayap hitam dan paruh panjang berwarna oranye dengan kaki berwarna oranye."
+        },
+        {
+          "english": "this large bird has a white body, black wings, and a large yellow beak",
+          "indo": "burung besar ini memiliki tubuh berwarna putih, sayap berwarna hitam, dan paruh besar berwarna kuning"
+        },
+        {
+          "english": "this white bird has a very long, straight beak with black tips on its wings.",
+          "indo": "burung berwarna putih ini memiliki paruh yang sangat panjang dan lurus dengan ujung sayap berwarna hitam."
+        },
+        {
+          "english": "this large bird has a white belly, large black wings, and yellow in his very long bill and in his legs.",
+          "indo": "burung besar ini mempunyai perut berwarna putih, sayap besar berwarna hitam, dan berwarna kuning pada paruh dan kakinya yang sangat panjang."
+        },
+        {
+          "english": "this large bird is all white except for darker grey on the wings and orange coloring on the feet and very long, thick bill.",
+          "indo": "burung besar ini semuanya berwarna putih kecuali abu-abu tua pada sayap dan warna oranye pada kaki serta paruh yang sangat panjang dan tebal."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with a long orange beak",
+          "indo": "burung ini memiliki perut berwarna kecokelatan dengan paruh panjang berwarna oranye"
+        },
+        {
+          "english": "a bird with white belly and breast, black wingbars and the bill is long and pointed",
+          "indo": "burung dengan perut dan dada berwarna putih, garis sayap berwarna hitam, serta paruh panjang dan runcing"
+        },
+        {
+          "english": "this bird has a long orange bill with a white belly and orange webbed feet.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga dengan perut berwarna putih dan kaki berselaput jingga."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0040_96026.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird is nearly all white, quite large, and has a large bill suitable for catching fish.",
+          "indo": "burung ini hampir seluruhnya berwarna putih, cukup besar, dan mempunyai paruh yang besar cocok untuk menangkap ikan."
+        },
+        {
+          "english": "this is a white bird with a large orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird is rather large, with a very large beak.",
+          "indo": "burung ini berukuran agak besar, dengan paruh yang sangat besar."
+        },
+        {
+          "english": "this bird has a long and wide bill along with its beak compared with its skinny neck",
+          "indo": "burung ini mempunyai paruh yang panjang dan lebar serta paruhnya dibandingkan dengan lehernya yang kurus"
+        },
+        {
+          "english": "this is an all white, swimming bird, with a yellow and pink bill.",
+          "indo": "ini adalah burung berenang yang serba putih, dengan paruh kuning dan merah muda."
+        },
+        {
+          "english": "this bird has wings that are white and has long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh panjang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a big yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh besar berwarna kuning"
+        },
+        {
+          "english": "a large white bird with a long yellow beak and a long neck.",
+          "indo": "seekor burung putih besar dengan paruh kuning panjang dan leher panjang."
+        },
+        {
+          "english": "this bird is white in color, and has a very large orange and pink beak.",
+          "indo": "burung ini berwarna putih, dan mempunyai paruh yang sangat besar berwarna oranye dan merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0042_97250.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "medium sized bird that is white all over but has an orange beak and orange gobble.",
+          "indo": "burung berukuran sedang yang seluruh tubuhnya berwarna putih tetapi memiliki paruh berwarna jingga dan paruh berwarna jingga."
+        },
+        {
+          "english": "this large bird has a solid white body and head with a yellow eyering and a light orange colored bill and throat.",
+          "indo": "Burung berukuran besar ini mempunyai badan dan kepala berwarna putih solid dengan cincin mata berwarna kuning serta paruh dan tenggorokan berwarna jingga muda."
+        },
+        {
+          "english": "this bird is white with a light bowl like beak.",
+          "indo": "Burung ini berwarna putih dengan paruh berbentuk mangkuk ringan."
+        },
+        {
+          "english": "this large bird is mostly white with an extremely large bill.",
+          "indo": "burung besar ini sebagian besar berwarna putih dengan paruh yang sangat besar."
+        },
+        {
+          "english": "large white bird with long neck and very long pink beak",
+          "indo": "burung putih besar dengan leher panjang dan paruh merah muda sangat panjang"
+        },
+        {
+          "english": "the bird has a very long beak that is orange and the rest of the body is white.",
+          "indo": "burung ini memiliki paruh yang sangat panjang berwarna oranye dan seluruh tubuhnya berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are white and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are white and has a big orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang besar berwarna jingga"
+        },
+        {
+          "english": "this large bird has with a large bill, and white feathers.",
+          "indo": "burung berukuran besar ini memiliki paruh yang besar, dan bulu berwarna putih."
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white throat.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan tenggorokan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0044_96028.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a long yellow billed bird with large eyes, large pink feet and a furry white breast and long neck.",
+          "indo": "seekor burung berparuh kuning panjang dengan mata besar, kaki besar berwarna merah muda dan dada berbulu putih serta leher panjang."
+        },
+        {
+          "english": "this bird has a white body with black wing tips, and yellow bottom beak and a grayish yellowish top beak.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan ujung sayap berwarna hitam, serta paruh bagian bawah berwarna kuning dan paruh bagian atas berwarna keabu-abuan kekuningan."
+        },
+        {
+          "english": "a big white bird with a long yellow beak.",
+          "indo": "seekor burung putih besar dengan paruh kuning panjang."
+        },
+        {
+          "english": "big white bird with very long colorful beak and tuft of hair on head",
+          "indo": "burung putih besar dengan paruh berwarna-warni yang sangat panjang dan seberkas rambut di kepala"
+        },
+        {
+          "english": "this bird is white with weird eyes and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan mata yang aneh dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this large bird is peach color with white wings, webbed feet and a yellow bottom part of the beak.",
+          "indo": "burung besar ini berwarna persik dengan sayap berwarna putih, kaki berselaput dan paruh bawah berwarna kuning."
+        },
+        {
+          "english": "this bird is white and light orange in color, with a very large beak.",
+          "indo": "burung ini berwarna putih dan oranye muda, dengan paruh yang sangat besar."
+        },
+        {
+          "english": "a large pink bird with a long red and yellow bill, a long neck, lighter pink wings, and webbed feet.",
+          "indo": "burung besar berwarna merah muda dengan paruh panjang berwarna merah dan kuning, leher panjang, sayap merah muda terang, dan kaki berselaput."
+        },
+        {
+          "english": "the wings are white, the breast has a orange tint and the bill is very long",
+          "indo": "sayapnya berwarna putih, dadanya berwarna jingga dan paruhnya sangat panjang"
+        },
+        {
+          "english": "this bird has wings that are white and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0046_96888.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large white bird has black primaries with a long, stretchy orange beak.",
+          "indo": "burung putih besar ini memiliki warna bulu primer hitam dengan paruh oranye yang panjang dan melar."
+        },
+        {
+          "english": "bird has long orange beak with white belly and throat and black and white wings.",
+          "indo": "Burung ini memiliki paruh panjang berwarna oranye dengan perut dan tenggorokan berwarna putih serta sayap hitam putih."
+        },
+        {
+          "english": "this bird has white furry crown with white coverts and yellow slender bill.",
+          "indo": "burung ini mempunyai mahkota berbulu putih dengan bulu putih dan paruh ramping berwarna kuning."
+        },
+        {
+          "english": "this is a bird with blue wings, grey chest, and a small bill.",
+          "indo": "ini adalah burung dengan sayap biru, dada abu-abu, dan paruh kecil."
+        },
+        {
+          "english": "a white bird with a long orange bill and long neck.",
+          "indo": "burung berwarna putih dengan paruh oranye panjang dan leher panjang."
+        },
+        {
+          "english": "this particular bird has white body and a long orange bill",
+          "indo": "burung ini memiliki tubuh berwarna putih dan paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "the bird has a huge orange bill with snow white feathers",
+          "indo": "burung itu memiliki paruh besar berwarna oranye dengan bulu seputih salju"
+        },
+        {
+          "english": "this bird has a long orange bill with a white crown and long white wings.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dengan mahkota berwarna putih dan sayap berwarna putih panjang."
+        },
+        {
+          "english": "this bird has an long orange bill with white crown and long white nape.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dengan mahkota berwarna putih dan tengkuk panjang berwarna putih."
+        },
+        {
+          "english": "this very large white bird has a curved neck and a long pink and yellow bill with yellow surrounding it's eyes.",
+          "indo": "burung berwarna putih yang sangat besar ini memiliki leher melengkung dan paruh panjang berwarna merah jambu dan kuning dengan warna kuning di sekeliling matanya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0047_97190.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this water foul is all white with a large yellow/red beak and pouch.",
+          "indo": "busuk air ini berwarna putih dengan paruh dan kantong besar berwarna kuning/merah."
+        },
+        {
+          "english": "very large all white water bird, with an orange eyering, long orange bil, top bil has a bump on it, the bottom bil is wider towards the birds body.",
+          "indo": "burung air yang sangat besar, semuanya berwarna putih, dengan cincin mata berwarna jingga, bagian bawah berwarna jingga panjang, bagian atas terdapat tonjolan pada bagian atas, bagian bawah lebih lebar ke arah badan burung."
+        },
+        {
+          "english": "this large white bird has a long neck and a long orange beak.",
+          "indo": "burung besar berwarna putih ini memiliki leher yang panjang dan paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "the bird has a white belly and head with gray striped wings and tail.",
+          "indo": "burung ini memiliki perut dan kepala berwarna putih dengan sayap dan ekor bergaris abu-abu."
+        },
+        {
+          "english": "this bird is white with a long neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan leher yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this large white bird has a long orange beak that's slightly webbed .",
+          "indo": "burung besar berwarna putih ini memiliki paruh panjang berwarna oranye yang sedikit berselaput."
+        },
+        {
+          "english": "a very large bird with a huge curved beak and a white body.",
+          "indo": "seekor burung yang sangat besar dengan paruh besar melengkung dan tubuh berwarna putih."
+        },
+        {
+          "english": "the bird has a deep bill that is long and a white back.",
+          "indo": "burung itu memiliki paruh dalam yang panjang dan punggung berwarna putih."
+        },
+        {
+          "english": "a large, solid white bird with a very large orange bill and a little bit of orange coloration around its eyes.",
+          "indo": "seekor burung besar berwarna putih solid dengan paruh oranye yang sangat besar dan sedikit warna oranye di sekitar matanya."
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white throat.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan tenggorokan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0048_95764.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the large white bird has a very long, yellow beak and it floats on the water.",
+          "indo": "burung putih besar memiliki paruh yang sangat panjang berwarna kuning dan mengapung di atas air."
+        },
+        {
+          "english": "this bird is white with a long neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan leher yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large white swimming bird with a very long yellow bill, orange claws, and a long curved neck.",
+          "indo": "burung perenang putih besar dengan paruh kuning sangat panjang, cakar oranye, dan leher panjang melengkung."
+        },
+        {
+          "english": "a very large completely white bird, with a long yellow beak",
+          "indo": "seekor burung yang sangat besar berwarna putih seluruhnya, dengan paruh panjang berwarna kuning"
+        },
+        {
+          "english": "this bird has a white crown, a long neck, and a flat orange bill",
+          "indo": "burung ini memiliki mahkota berwarna putih, leher panjang, dan paruh pipih berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are white and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna kuning"
+        },
+        {
+          "english": "this large white bird has a long neck, yellow eyering and a long yellow beak.",
+          "indo": "burung besar berwarna putih ini memiliki leher panjang, cincin mata kuning, dan paruh kuning panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna kuning"
+        },
+        {
+          "english": "a white bird with a long beak and yellow eyebrows and long neck",
+          "indo": "burung berwarna putih dengan paruh panjang dan alis kuning serta leher panjang"
+        },
+        {
+          "english": "this big white bird has a long thick orange colored bill.",
+          "indo": "burung besar berwarna putih ini memiliki paruh panjang berwarna oranye tebal."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0050_97913.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird is almost completely white, except for a large orange bill suitable for catching fish.",
+          "indo": "burung ini hampir seluruhnya berwarna putih, kecuali paruhnya yang besar berwarna oranye yang cocok untuk menangkap ikan."
+        },
+        {
+          "english": "this very large bird is nearly all white with an enormous orange bill and yellow superciliary.",
+          "indo": "burung yang sangat besar ini hampir semuanya berwarna putih dengan paruh besar berwarna oranye dan superciliary berwarna kuning."
+        },
+        {
+          "english": "enchanting white feathered, orange billed water fowl in its natural habitat.",
+          "indo": "unggas air berparuh oranye berbulu putih yang mempesona di habitat aslinya."
+        },
+        {
+          "english": "this large snow white bird has a long orange bill with a protrusion on the top of the bill, a small blue eye, and a long neck.",
+          "indo": "burung berukuran besar berwarna putih salju ini memiliki paruh panjang berwarna oranye dengan tonjolan di bagian atas paruh, mata kecil berwarna biru, dan leher panjang."
+        },
+        {
+          "english": "this large white bird has a long orange beak and yellow around the eyes.",
+          "indo": "burung besar berwarna putih ini memiliki paruh panjang berwarna oranye dan kuning di sekitar matanya."
+        },
+        {
+          "english": "this bird has a very long beak and beautiful white feathers.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dan bulu berwarna putih yang indah."
+        },
+        {
+          "english": "this large white bird has a yellow eyering and a very long, orange beak.",
+          "indo": "burung putih besar ini memiliki cincin mata kuning dan paruh oranye yang sangat panjang."
+        },
+        {
+          "english": "a white bird with a long orange bill.",
+          "indo": "seekor burung putih dengan paruh oranye panjang."
+        },
+        {
+          "english": "this is a large white bird with a yellow superciliary and an orange long beak.",
+          "indo": "ini adalah burung putih besar dengan superciliary berwarna kuning dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is all white and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih seluruhnya dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0051_97833.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large bird is mostly white with a large yellow bill suitable for catching fish.",
+          "indo": "burung besar ini sebagian besar berwarna putih dengan paruh besar berwarna kuning yang cocok untuk menangkap ikan."
+        },
+        {
+          "english": "this large, long-necked bird is white with a small head and a long straight bill.",
+          "indo": "burung besar berleher panjang ini berwarna putih dengan kepala kecil dan paruh lurus panjang."
+        },
+        {
+          "english": "bird has white body feathers, white breast feather, and long beak",
+          "indo": "burung mempunyai bulu badan berwarna putih, bulu dada berwarna putih, dan paruh panjang"
+        },
+        {
+          "english": "a large bird with a long neck, and a long bill",
+          "indo": "seekor burung besar dengan leher panjang, dan paruh panjang"
+        },
+        {
+          "english": "this bird has a very long and thick yellow and blue bill, with the rest of it's body in white.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dan tebal berwarna kuning dan biru, dengan sisa tubuhnya berwarna putih."
+        },
+        {
+          "english": "a large bird with a long orange and blue bill, that has white covering its back, wings and belly that also has light orange and white feathers along its neck and thraot.",
+          "indo": "burung besar dengan paruh panjang berwarna jingga dan biru, berwarna putih menutupi punggung, sayap, dan perutnya serta memiliki bulu berwarna jingga muda dan putih di sepanjang leher dan tenggorokannya."
+        },
+        {
+          "english": "a large white bird with a very long neck, it has a huge beak and it is striped with rainbow colors.",
+          "indo": "seekor burung besar berwarna putih dengan leher yang sangat panjang, paruhnya besar dan bergaris-garis warna pelangi."
+        },
+        {
+          "english": "this particular bird has a belly that is white and has a tan throat",
+          "indo": "burung ini memiliki perut yang berwarna putih dan tenggorokan berwarna coklat"
+        },
+        {
+          "english": "a large white bird with red and blue bill and yellow feet.",
+          "indo": "seekor burung putih besar dengan paruh merah dan biru serta kaki kuning."
+        },
+        {
+          "english": "this large bird is white, with a crest, and with a pink and grey bill and pink feet and legs.",
+          "indo": "burung besar ini berwarna putih, dengan jambul, dan paruh berwarna merah muda dan abu-abu serta kaki dan tungkai berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0052_96865.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large all white bird that has a very long yellow orange beak.",
+          "indo": "seekor burung besar berwarna putih yang memiliki paruh berwarna kuning jingga yang sangat panjang."
+        },
+        {
+          "english": "this large bird has a fully white body, a distinct neck, and a pouched orange bill.",
+          "indo": "burung besar ini memiliki tubuh berwarna putih seluruhnya, leher yang berbeda, dan paruh berwarna oranye yang berkantong."
+        },
+        {
+          "english": "this all white water bird has a long yellow beak with a throat that allows him to scoop up fish and water.",
+          "indo": "Burung air serba putih ini memiliki paruh panjang berwarna kuning dengan tenggorokan yang memungkinkannya mengambil ikan dan air."
+        },
+        {
+          "english": "a large white bird with a large yellow beak that connects to a longer than is typical throat.",
+          "indo": "seekor burung putih besar dengan paruh kuning besar yang menyambung ke tenggorokan yang lebih panjang dari biasanya."
+        },
+        {
+          "english": "a large white bird with a huge orange beak, and red feathers on its tail.",
+          "indo": "seekor burung putih besar dengan paruh besar berwarna oranye, dan bulu merah di ekornya."
+        },
+        {
+          "english": "the is colorful bird has a long big orange beak with a long white neck",
+          "indo": "Burung berwarna-warni ini memiliki paruh panjang berwarna oranye besar dengan leher panjang berwarna putih"
+        },
+        {
+          "english": "a large, white bird with a large, long, orange beak.",
+          "indo": "seekor burung besar berwarna putih dengan paruh besar, panjang, berwarna oranye."
+        },
+        {
+          "english": "a large white bird, with an extremely long and large yellow bill.",
+          "indo": "seekor burung putih besar, dengan paruh kuning yang sangat panjang dan besar."
+        },
+        {
+          "english": "this bird has wings that are white and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird is white in color, and has a very large orange beak.",
+          "indo": "burung ini berwarna putih, dan mempunyai paruh berwarna jingga yang sangat besar."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0053_96236.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird is nearly all white except for its large yellow beak made for catching fish.",
+          "indo": "burung ini hampir seluruhnya berwarna putih kecuali paruhnya yang besar berwarna kuning yang dibuat untuk menangkap ikan."
+        },
+        {
+          "english": "a large sized bird that has a very large and long bill",
+          "indo": "burung berukuran besar yang mempunyai paruh yang sangat besar dan panjang"
+        },
+        {
+          "english": "the bird is white with a long yellow bill and yellow eyering.",
+          "indo": "burung itu berwarna putih dengan paruh panjang berwarna kuning dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this large white bird has a very large bill and a long neck.",
+          "indo": "burung berukuran besar berwarna putih ini memiliki paruh yang sangat besar dan leher yang panjang."
+        },
+        {
+          "english": "this white bird has a pale yellow eye ring that is matched by the pouch under its long bill.",
+          "indo": "burung berwarna putih ini memiliki cincin mata berwarna kuning pucat yang dipadukan dengan kantong di bawah paruhnya yang panjang."
+        },
+        {
+          "english": "this large, all white bird has a very large pink and yellow bill and yellow coloring around its eye.",
+          "indo": "Burung besar berwarna putih ini memiliki paruh yang sangat besar berwarna merah jambu dan kuning serta warna kuning di sekitar matanya."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "i large white bird with a huge beak and long neck.",
+          "indo": "saya burung putih besar dengan paruh besar dan leher panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is white with a long pink bill",
+          "indo": "burung ini memiliki perut berwarna putih dengan paruh panjang berwarna merah muda"
+        },
+        {
+          "english": "this bird has a very large pink bill with a long white neck.",
+          "indo": "burung ini mempunyai paruh berwarna merah muda yang sangat besar dengan leher yang panjang berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0054_97528.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the large white bird has a long bill and yellow eyering.",
+          "indo": "burung putih besar memiliki paruh panjang dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "the bird has a long yellow bill and a yellow eyering.",
+          "indo": "burung itu mempunyai paruh kuning panjang dan cincin mata kuning."
+        },
+        {
+          "english": "a large bird with a beak that is long and large in comparison to its body and head size, that is covered in white feathers.",
+          "indo": "seekor burung besar dengan paruh yang panjang dan besar dibandingkan dengan ukuran badan dan kepalanya, yang ditutupi bulu berwarna putih."
+        },
+        {
+          "english": "this large bird has white feathers, a yellow cheekpatch and a long, orange bill.",
+          "indo": "burung besar ini memiliki bulu berwarna putih, penutup pipi berwarna kuning, dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is entirely white with an extensively long orange and yellow bill.",
+          "indo": "burung ini seluruhnya berwarna putih dengan paruh berwarna oranye dan kuning yang sangat panjang."
+        },
+        {
+          "english": "this large bird is solid white, with a long, yellow bill, and yellow eyes.",
+          "indo": "burung besar ini berwarna putih solid, paruh panjang berwarna kuning, dan mata kuning."
+        },
+        {
+          "english": "this bird has a long orange and yellow bill and white feathers covering the rest of the body.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye dan kuning serta bulu berwarna putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a large, white water bird with a very long, orange bill, and a long white neck.",
+          "indo": "burung air besar berwarna putih dengan paruh sangat panjang berwarna oranye, dan leher putih panjang."
+        },
+        {
+          "english": "this bird is all white and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih seluruhnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this large white bird has a long neck and orange bill with a small bump towards the tip.",
+          "indo": "burung besar berwarna putih ini memiliki leher panjang dan paruh berwarna oranye dengan tonjolan kecil di ujungnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0056_97071.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large white bird with a long orange bill and a yellow eye stripe.",
+          "indo": "seekor burung putih besar dengan paruh oranye panjang dan garis mata kuning."
+        },
+        {
+          "english": "the white bird has a long hard bill with the tip golden yellow",
+          "indo": "burung berwarna putih mempunyai paruh yang panjang dan keras dengan ujung berwarna kuning keemasan"
+        },
+        {
+          "english": "bird has white body feathers,white breast feather, and orange beak",
+          "indo": "burung mempunyai bulu badan berwarna putih, bulu dada berwarna putih, dan paruh berwarna jingga"
+        },
+        {
+          "english": "this very large bird has a elongated flat bill, yellow circles around it's eyes, and is otherwise entirely white.",
+          "indo": "burung yang sangat besar ini memiliki paruh pipih memanjang, lingkaran kuning di sekitar matanya, dan seluruhnya berwarna putih."
+        },
+        {
+          "english": "this large, white bird has a very long orange beak, black eyes and bright yellow eyering.",
+          "indo": "burung besar berwarna putih ini memiliki paruh berwarna jingga yang sangat panjang, mata berwarna hitam, dan cincin mata berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has wings that are white and has a long orange ill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai sakit yang panjang berwarna jingga"
+        },
+        {
+          "english": "this bird is white with yellow around its eyes it has a vey long beak and wings it is a big bird",
+          "indo": "burung ini berwarna putih dengan warna kuning di sekitar matanya, paruh dan sayapnya sangat panjang, burungnya besar"
+        },
+        {
+          "english": "this large bird is all white with a long flat yellow bill and a yellow eyering.",
+          "indo": "burung besar ini berwarna putih dengan paruh panjang berwarna kuning dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are white and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a large white bird with a long beak and yellow markings around the eyes.",
+          "indo": "seekor burung putih besar dengan paruh panjang dan tanda kuning di sekitar matanya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0059_96675.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the bird has a curved white throat as well as a long white bill.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih melengkung serta paruh berwarna putih yang panjang."
+        },
+        {
+          "english": "this bird is white with big legs and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih, berkaki besar, dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a light pink and white very long bill, covered in white and light brown feathers.",
+          "indo": "seekor burung besar dengan paruh sangat panjang berwarna merah muda dan putih muda, ditutupi bulu berwarna putih dan coklat muda."
+        },
+        {
+          "english": "this large bird is nearly all white with a giant bill.",
+          "indo": "burung besar ini hampir seluruhnya berwarna putih dengan paruh raksasa."
+        },
+        {
+          "english": "this large white bird features a long beak that is flat on top.",
+          "indo": "burung putih besar ini memiliki paruh panjang yang rata di atasnya."
+        },
+        {
+          "english": "this large white bird has a very long, wide, pointed pink beak.",
+          "indo": "burung besar berwarna putih ini mempunyai paruh yang sangat panjang, lebar, dan runcing berwarna merah jambu."
+        },
+        {
+          "english": "this large, white bird has a long, somewhat broad and deep bill with a tuft of darker feathers on the crown.",
+          "indo": "burung besar berwarna putih ini memiliki paruh yang panjang, agak lebar dan dalam dengan seberkas bulu berwarna lebih gelap di bagian mahkotanya."
+        },
+        {
+          "english": "this large bird has a large bill, and is otherwise entirely white.",
+          "indo": "burung besar ini memiliki paruh yang besar, dan seluruhnya berwarna putih."
+        },
+        {
+          "english": "this larger bird has a mostly white coloring, with a very long neck compared to the rest of its body and a flat bill that is just as long.",
+          "indo": "burung yang lebih besar ini sebagian besar berwarna putih, dengan leher yang sangat panjang dibandingkan bagian tubuh lainnya dan paruh rata yang sama panjangnya."
+        },
+        {
+          "english": "this large bird is white, has a long neck, and has a long bill.",
+          "indo": "burung berukuran besar ini berwarna putih, berleher panjang, dan paruh panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0066_95495.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large, white bird has black primaries, gold eyerings and a very long, stretchy beak.",
+          "indo": "burung besar berwarna putih ini memiliki warna bulu primer hitam, cincin mata emas, dan paruh yang sangat panjang dan melar."
+        },
+        {
+          "english": "this is a white bird with a very large orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan paruh oranye yang sangat besar."
+        },
+        {
+          "english": "this bird has a white crown, a long orange bill, and a large white wing",
+          "indo": "burung ini memiliki mahkota berwarna putih, paruh panjang berwarna oranye, dan sayap besar berwarna putih"
+        },
+        {
+          "english": "this is a large white bird with a large orange beak.",
+          "indo": "ini adalah burung putih besar dengan paruh oranye besar."
+        },
+        {
+          "english": "this large white bird with black feather accents has a long, large orange beak with a deep pouch.",
+          "indo": "Burung besar berwarna putih dengan aksen bulu hitam ini memiliki paruh panjang berwarna oranye dengan kantong yang dalam."
+        },
+        {
+          "english": "this large, white bird has a yellow eyering and a very long, orange beak.",
+          "indo": "burung besar berwarna putih ini memiliki cincin mata berwarna kuning dan paruh berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "this is a large, white bird with a long, pouched bill and yellow coloring around the eyes.",
+          "indo": "ini adalah burung besar berwarna putih dengan paruh panjang berkantung dan warna kuning di sekitar matanya."
+        },
+        {
+          "english": "this bird has a long bill and pouch with yellow feathers around its eye, long neck with white body feathers.",
+          "indo": "burung ini mempunyai paruh panjang dan kantong dengan bulu kuning di sekeliling matanya, leher panjang dengan bulu badan berwarna putih."
+        },
+        {
+          "english": "the bird has a very large yellow bill that is deep and long.",
+          "indo": "burung ini mempunyai paruh berwarna kuning yang sangat besar, dalam dan panjang."
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white throat.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan tenggorokan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0067_95573.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird has a white body, white and black wings and large orange feet and beak.",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap berwarna putih dan hitam serta kaki dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird has a long white neck, long orange bill and orange webbed feet.",
+          "indo": "burung ini memiliki leher panjang berwarna putih, paruh panjang berwarna jingga, dan kaki berselaput jingga."
+        },
+        {
+          "english": "this bird is white and black in color, with a bright large orange beak and a white eye ring.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh besar berwarna jingga cerah dan cincin mata berwarna putih."
+        },
+        {
+          "english": "the birds has a white overall color with its big long bill in color yellow.",
+          "indo": "burung ini mempunyai warna keseluruhan putih dengan paruhnya yang besar dan panjang berwarna kuning."
+        },
+        {
+          "english": "this is a white bird with black tips on its wings and orange feet and beak.",
+          "indo": "ini adalah burung berwarna putih dengan ujung sayap berwarna hitam dan kaki serta paruh berwarna oranye."
+        },
+        {
+          "english": "this large bird has a long beak with webbed feet and a wide wing span with feathers that are darker at the bottom than at the top.",
+          "indo": "burung berukuran besar ini mempunyai paruh yang panjang dengan kaki berselaput dan rentang sayap yang lebar dengan bulu yang bagian bawah lebih gelap dibandingkan bagian atas."
+        },
+        {
+          "english": "this bird has a white crown as well as large white and grey wings",
+          "indo": "burung ini memiliki mahkota berwarna putih serta sayap besar berwarna putih dan abu-abu"
+        },
+        {
+          "english": "a large white bird with black on the tip of its wings along with orange feet and an orange bill.",
+          "indo": "burung besar berwarna putih dengan ujung sayap berwarna hitam, kaki berwarna oranye, dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has a long, flat yellow bill, and webbed yellow feet.",
+          "indo": "burung ini memiliki paruh panjang berwarna kuning pipih, dan kaki berselaput berwarna kuning."
+        },
+        {
+          "english": "a large bodied white bird with a large orange bill and black and gray feathers along the lower part of his wings.",
+          "indo": "seekor burung putih bertubuh besar dengan paruh besar berwarna oranye dan bulu berwarna hitam dan abu-abu di sepanjang bagian bawah sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0068_95635.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large white/gray bird with a long beak and long feathers.",
+          "indo": "burung besar berwarna putih/abu-abu dengan paruh panjang dan bulu panjang."
+        },
+        {
+          "english": "this is a white bird with black underbelly and an extremely long bill.",
+          "indo": "ini adalah burung berwarna putih dengan perut berwarna hitam dan paruh yang sangat panjang."
+        },
+        {
+          "english": "this is a gray and white bird with a long gray bill",
+          "indo": "ini adalah burung berwarna abu-abu dan putih dengan paruh abu-abu yang panjang"
+        },
+        {
+          "english": "this is a large white bird with black on the wingbars and a long, skinny bill.",
+          "indo": "ini adalah burung putih besar dengan garis sayap hitam dan paruh panjang dan kurus."
+        },
+        {
+          "english": "this large bird has a brownish body with a long neck and long bill.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna kecoklatan dengan leher panjang dan paruh panjang."
+        },
+        {
+          "english": "this large bird is white with some dark gray in its wings and a long, gray beak.",
+          "indo": "burung besar ini berwarna putih dengan sedikit warna abu-abu tua di sayapnya dan paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+        },
+        {
+          "english": "the bird has a grey bill that is long and a curved throat.",
+          "indo": "burung ini memiliki paruh berwarna abu-abu yang panjang dan tenggorokan melengkung."
+        },
+        {
+          "english": "a very large bird with a long black bill and a grey tinted body.",
+          "indo": "seekor burung yang sangat besar dengan paruh hitam panjang dan tubuh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are white and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0071_96061.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this is a white bird with black tips on its wings and a large bill.",
+          "indo": "ini adalah burung berwarna putih dengan ujung sayap berwarna hitam dan paruh yang besar."
+        },
+        {
+          "english": "this is a large white bird with black wing tips, and a long slender beak.",
+          "indo": "ini adalah burung putih besar dengan ujung sayap hitam, dan paruh panjang dan ramping."
+        },
+        {
+          "english": "this bird has a very large, straight, yellow bill, orange tarsus and feet, and a white breast and belly.",
+          "indo": "burung ini memiliki paruh yang sangat besar, lurus, berwarna kuning, tarsus dan kaki berwarna oranye, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this large white bird has a long orange bill with black primaries",
+          "indo": "burung putih besar ini memiliki paruh panjang berwarna oranye dengan warna bulu primer berwarna hitam"
+        },
+        {
+          "english": "this is a large bird with a good wingspan, it ismostly white with a large long beak, the feathers are tippe3d with black.",
+          "indo": "Ini adalah burung besar dengan rentang sayap yang bagus, sebagian besar berwarna putih dengan paruh besar yang panjang, bulunya tippe3d dengan warna hitam."
+        },
+        {
+          "english": "this large white bird has black primaries and a large yellow bill.",
+          "indo": "burung putih besar ini memiliki warna bulu primer hitam dan paruh besar berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this is a white bird with black primaries, small head and a large beak.",
+          "indo": "ini adalah burung berwarna putih dengan warna bulu primer hitam, kepala kecil dan paruh besar."
+        },
+        {
+          "english": "this bird has a huge beak and a white underside.",
+          "indo": "burung ini memiliki paruh yang besar dan bagian bawah berwarna putih."
+        },
+        {
+          "english": "this large bird has a wide wingspan, a white body, large yellow bill, and dark gray wingbars.",
+          "indo": "burung berukuran besar ini memiliki rentang sayap yang lebar, badan berwarna putih, paruh besar berwarna kuning, dan garis sayap berwarna abu-abu tua."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0072_96975.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this is a large white bird with a long neck and a giant bill.",
+          "indo": "ini adalah burung putih besar dengan leher panjang dan paruh raksasa."
+        },
+        {
+          "english": "very large white bird with black tipped wings and a very large colorful beak. also has green around its eyes.",
+          "indo": "burung putih sangat besar dengan sayap berujung hitam dan paruh berwarna-warni yang sangat besar. juga memiliki warna hijau di sekitar matanya."
+        },
+        {
+          "english": "a large white bird with black wingtips, a long neck, and a very large orange and blue bill.",
+          "indo": "seekor burung putih besar dengan ujung sayap hitam, leher panjang, dan paruh berwarna oranye dan biru yang sangat besar."
+        },
+        {
+          "english": "this large white bird has an amazing long blue and red beak and graceful long neck.",
+          "indo": "burung putih besar ini memiliki paruh panjang berwarna biru dan merah yang menakjubkan serta leher panjang yang anggun."
+        },
+        {
+          "english": "a large white bird with a long neck, black secondaries, and a long orange bill with blue stripes.",
+          "indo": "burung putih besar dengan leher panjang, bulu sekunder berwarna hitam, dan paruh panjang berwarna oranye dengan garis-garis biru."
+        },
+        {
+          "english": "this bird has a color that is majority white, an off white/pink tinted crown, and a bill that is blue and orange.",
+          "indo": "Burung ini mempunyai warna mayoritas putih, mahkota berwarna putih pucat/merah jambu, serta paruh berwarna biru dan jingga."
+        },
+        {
+          "english": "this large bird is white, except for a few black feathers on the wing, featherless around the eyes and has a long wide orange and black bill with a sac.",
+          "indo": "burung besar ini berwarna putih, kecuali beberapa bulu hitam pada sayapnya, tidak berbulu di sekitar matanya dan mempunyai paruh panjang berwarna jingga dan hitam dengan kantung."
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "the large bird has a white breast, white wings, and a very long bill.",
+          "indo": "burung besar memiliki dada berwarna putih, sayap putih, dan paruh yang sangat panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0073_96260.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the large white water bird has a long sloped yellow bill.",
+          "indo": "burung air putih besar mempunyai paruh panjang yang berwarna kuning dan miring."
+        },
+        {
+          "english": "a larger swimming bird, with an extremely large yellow bill, white wing feathers, and yellow feet.",
+          "indo": "burung perenang yang lebih besar, dengan paruh kuning yang sangat besar, bulu sayap putih, dan kaki kuning."
+        },
+        {
+          "english": "this water bird has a long yellow bill nearly the length of its body, long white neck and white primaries and secondaries.",
+          "indo": "burung air ini mempunyai paruh berwarna kuning yang panjang hampir sepanjang tubuhnya, leher yang panjang berwarna putih, serta bulu primer dan bulu sekunder berwarna putih."
+        },
+        {
+          "english": "this is a white bird with a long yellow bill and a white wingbar",
+          "indo": "ini adalah burung berwarna putih dengan paruh panjang berwarna kuning dan garis sayap berwarna putih"
+        },
+        {
+          "english": "this large white aquatic bird has a massive pouched bill.",
+          "indo": "burung akuatik putih besar ini memiliki paruh berkantong besar."
+        },
+        {
+          "english": "this bird has wings that are white and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow and long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih serta mempunyai paruh berwarna kuning dan panjang"
+        },
+        {
+          "english": "a large white bird, with a really long pointed bill.",
+          "indo": "seekor burung putih besar, dengan paruh runcing yang sangat panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the bird has a long yellow bill, a long white neck, and white wings.",
+          "indo": "burung itu mempunyai paruh panjang berwarna kuning, leher panjang berwarna putih, dan sayap berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0075_96422.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large sized white bird with a very large orange thick beak",
+          "indo": "seekor burung berwarna putih berukuran besar dengan paruh tebal berwarna jingga yang sangat besar"
+        },
+        {
+          "english": "this large bird that has a white body, and a orange throat",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna putih, dan tenggorokan berwarna oranye"
+        },
+        {
+          "english": "the bird has a very large bill that's orange in color as well as a white throat, side and coverts.",
+          "indo": "burung ini memiliki paruh yang sangat besar berwarna oranye serta tenggorokan, samping dan bulu berwarna putih."
+        },
+        {
+          "english": "a large white bird with a large orange bill and small red eyes.",
+          "indo": "seekor burung putih besar dengan paruh oranye besar dan mata merah kecil."
+        },
+        {
+          "english": "the bird has a large yellow/orange beak with white covering the rest of its body.",
+          "indo": "burung ini memiliki paruh besar berwarna kuning/oranye dengan warna putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird is white with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a massive yellow bill that is deep, a long throat and white back.",
+          "indo": "burung ini memiliki paruh besar berwarna kuning yang dalam, tenggorokan panjang dan punggung berwarna putih."
+        },
+        {
+          "english": "this large, primarily white bird has a distinctive large orange, pouch-shaped bill.",
+          "indo": "Burung besar yang sebagian besar berwarna putih ini memiliki paruh besar berwarna oranye dan berbentuk kantong."
+        },
+        {
+          "english": "this bird has a huge orange bill, and has a mostly white body.",
+          "indo": "burung ini memiliki paruh besar berwarna jingga, dan sebagian besar tubuhnya berwarna putih."
+        },
+        {
+          "english": "a large bird with a white neck and a large yellow bill.",
+          "indo": "seekor burung besar dengan leher putih dan paruh besar berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0076_96427.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the bird has a big beak brown when compared to its body, with white crown, nape, throat and breast.",
+          "indo": "burung ini memiliki paruh besar berwarna coklat jika dibandingkan dengan tubuhnya, dengan mahkota, tengkuk, tenggorokan, dan dada berwarna putih."
+        },
+        {
+          "english": "this large bird is nearly all white with a giant yellow bill.",
+          "indo": "burung besar ini hampir seluruhnya berwarna putih dengan paruh raksasa berwarna kuning."
+        },
+        {
+          "english": "a large white bird with a large yellow bill.",
+          "indo": "seekor burung putih besar dengan paruh kuning besar."
+        },
+        {
+          "english": "this mostly white bird has some dark colors on the top part of its wings as well \"s\" shaped neck leading to it yellow orange-like beak.",
+          "indo": "Burung yang sebagian besar berwarna putih ini memiliki warna gelap pada bagian atas sayapnya serta leher berbentuk huruf \"s\" hingga paruhnya berwarna kuning jingga."
+        },
+        {
+          "english": "a large waterfowl with a large long yellow beak, small head, long neck, and some light brown on the wings.",
+          "indo": "unggas air berukuran besar dengan paruh besar berwarna kuning panjang, kepala kecil, leher panjang, dan sebagian sayap berwarna coklat muda."
+        },
+        {
+          "english": "this large bird is white with a very long, pointed beak.",
+          "indo": "burung besar ini berwarna putih dengan paruh yang sangat panjang dan runcing."
+        },
+        {
+          "english": "the long hard tan bill on the white body bird",
+          "indo": "paruh panjang berwarna coklat dan keras pada burung berbadan putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh panjang berwarna kuning"
+        },
+        {
+          "english": "this large bird has a long neck and a large orange beak with the bottom half wider than the top half of the beak.",
+          "indo": "burung berukuran besar ini memiliki leher yang panjang dan paruh besar berwarna oranye dengan paruh bagian bawah lebih lebar dibandingkan paruh bagian atas."
+        },
+        {
+          "english": "a large white bird with a long dull yellow beak.",
+          "indo": "seekor burung putih besar dengan paruh panjang berwarna kuning kusam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0077_97025.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a very long yellow billed bird with wide wings, a long white neck, and black tipped primaries.",
+          "indo": "burung berparuh kuning sangat panjang dengan sayap lebar, leher putih panjang, dan bulu primer berujung hitam."
+        },
+        {
+          "english": "the funny looking bird has a long colorful nose.",
+          "indo": "burung yang tampak lucu ini memiliki hidung panjang berwarna-warni."
+        },
+        {
+          "english": "this bird is brown with huge wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan sayap yang besar dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "bird with long, fat beak that is slightly curved at tip, with brownish white breast, belly and abdomen",
+          "indo": "burung dengan paruh panjang gemuk, ujung agak melengkung, dada, perut, dan perut berwarna putih kecoklatan"
+        },
+        {
+          "english": "large brown white and black bird with long orange and yellow beak",
+          "indo": "burung besar berwarna coklat putih dan hitam dengan paruh panjang berwarna oranye dan kuning"
+        },
+        {
+          "english": "this is a large white bird with a very long bill with yellow on the bottom and pinkish gray on the top with gray on it's long secondary wings.",
+          "indo": "ini adalah burung putih besar dengan paruh sangat panjang dengan warna kuning di bagian bawah dan abu-abu merah muda di bagian atas dengan abu-abu di sayap sekundernya yang panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a long black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "the bird has a curved neck, long deep bill and amber belly.",
+          "indo": "burung itu memiliki leher melengkung, paruh panjang dan dalam, serta perut berwarna kuning."
+        },
+        {
+          "english": "a large bird that is peach in color with black stripes on its wings and a long multi-colored beak.",
+          "indo": "seekor burung besar berwarna persik dengan garis-garis hitam di sayapnya dan paruh panjang berwarna-warni."
+        },
+        {
+          "english": "this bird has a white body and a very large, orange bill.",
+          "indo": "burung ini memiliki tubuh berwarna putih dan paruh berwarna oranye yang sangat besar."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0079_97380.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "a large bird with a long yellow beck, and a white, black, and gray colored body.",
+          "indo": "seekor burung besar dengan burung beck kuning panjang, dan tubuh berwarna putih, hitam, dan abu-abu."
+        },
+        {
+          "english": "this bird is white and black in color with large wide orange a beak and orange eye rings.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh besar berwarna jingga lebar dan cincin mata jingga."
+        },
+        {
+          "english": "this bird is white with black wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan sayap berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white head and belly with a large yellow beak and orange feet, and its wing tips are black.",
+          "indo": "burung ini memiliki kepala dan perut berwarna putih dengan paruh besar berwarna kuning dan kaki berwarna oranye, serta ujung sayapnya berwarna hitam."
+        },
+        {
+          "english": "white bird with large orange bill and black primaries.",
+          "indo": "burung putih dengan paruh oranye besar dan burung bulu primer hitam."
+        },
+        {
+          "english": "this bird has white covering its face, neck, belly and vent, grey and black feathers and a long yellow bill.",
+          "indo": "burung ini memiliki warna putih menutupi wajah, leher, perut dan lubang kloaka, bulu berwarna abu-abu dan hitam serta paruh panjang berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "this bird has a long beak with a distended lower portion, it has a white body and wings with black tips.",
+          "indo": "burung ini mempunyai paruh panjang dengan bagian bawah menggembung, badannya berwarna putih dan sayapnya berujung hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium size bird with a white coloring and long orange beak.",
+          "indo": "burung berukuran sedang dengan warna putih dan paruh panjang berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0080_95721.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "the bird has a very long bill that is yellow as well as skinny.",
+          "indo": "burung ini memiliki paruh yang sangat panjang berwarna kuning dan kurus."
+        },
+        {
+          "english": "a large white bird with black primaries, orange feet and a very long, orange bill",
+          "indo": "seekor burung putih besar dengan warna bulu primer hitam, kaki oranye dan paruh oranye yang sangat panjang"
+        },
+        {
+          "english": "this large bird has a large wingspan and a long bill.",
+          "indo": "burung berukuran besar ini mempunyai rentang sayap yang besar dan paruh yang panjang."
+        },
+        {
+          "english": "large white bird with long white feathers with black parts; has a long orange beak.",
+          "indo": "burung putih besar dengan bulu putih panjang dengan bagian hitam; memiliki paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this large bird has orange feet and bill with a white body and black primaries",
+          "indo": "burung besar ini memiliki kaki dan paruh berwarna oranye dengan tubuh berwarna putih dan bulu primer berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are white and black and has a long yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan hitam serta mempunyai paruh yang panjang berwarna kuning"
+        },
+        {
+          "english": "this bird has a long orange bill, and grey feathers covering the majority of its body except for its black and grey secondaries and the orange and tan on its rectrices.",
+          "indo": "burung ini memiliki paruh berwarna oranye yang panjang, dan bulu berwarna abu-abu menutupi sebagian besar tubuhnya kecuali bagian sekundernya yang berwarna hitam dan abu-abu serta bulu berwarna oranye dan cokelat pada bagian rectrices."
+        },
+        {
+          "english": "the bird has a white breast, black and white wings, with a wide yellow beak and yellow feet.",
+          "indo": "burung ini memiliki dada berwarna putih, sayap hitam putih, paruh lebar berwarna kuning, dan kaki berwarna kuning."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a very long yellow bill, a white body, and white wings with black edging.",
+          "indo": "burung ini mempunyai paruh berwarna kuning yang sangat panjang, badan berwarna putih, dan sayap berwarna putih dengan pinggiran berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0081_96148.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this is a white bird floating in the water with a long yellow beak and yellow around it's eyes.",
+          "indo": "ini adalah burung berwarna putih yang mengambang di air dengan paruh panjang berwarna kuning dan sekeliling matanya berwarna kuning."
+        },
+        {
+          "english": "this is a white bird with a large orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "a large white bird with a very long beak and yellow eyes.",
+          "indo": "seekor burung putih besar dengan paruh sangat panjang dan mata kuning."
+        },
+        {
+          "english": "the bird has a orange beak with a white head",
+          "indo": "burung itu memiliki paruh berwarna oranye dengan kepala berwarna putih"
+        },
+        {
+          "english": "a fully white bird with a long neck and a yellow pointed beak is swimming on the water.",
+          "indo": "seekor burung berwarna putih seluruhnya dengan leher panjang dan paruh runcing berwarna kuning sedang berenang di atas air."
+        },
+        {
+          "english": "this particular bird has a white body and a long orange bill",
+          "indo": "burung ini memiliki tubuh berwarna putih dan paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "this bird has a long orange bill with a yellow eyering and white crown",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dengan cincin mata kuning dan mahkota berwarna putih"
+        },
+        {
+          "english": "this large bird has a very long and curving neck, white and long feathers, a short plume of feathers on its head, yellow skin around its eyes, and a very long and salmon pink beak which seems to take up over half of its head in width and breadth.",
+          "indo": "burung besar ini memiliki leher yang sangat panjang dan melengkung, bulu berwarna putih dan panjang, bulu pendek di kepala, kulit kuning di sekitar matanya, dan paruh yang sangat panjang dan berwarna merah muda salmon yang tampaknya memenuhi lebih dari separuh kepalanya. lebar dan lebarnya."
+        },
+        {
+          "english": "this bird has very long orange bill, with a body that is all white.",
+          "indo": "burung ini mempunyai paruh berwarna jingga yang sangat panjang, dengan badan yang serba putih."
+        },
+        {
+          "english": "this bird has a long orange bill, with a long white neck.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga, dengan leher panjang berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0083_95840.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this white and black bird has a very wide wingspan and large flat beak.",
+          "indo": "burung berwarna putih dan hitam ini memiliki rentang sayap yang sangat besardan paruh datar yang besar."
+        },
+        {
+          "english": "this bird has a white belly and breast, black and white wings, and the bill is long and pointed.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih, sayap berwarna hitam putih, serta paruhnya panjang dan runcing."
+        },
+        {
+          "english": "a big white fishing bird with big, long pink beak, and its big wings have black outer edges (primaries).",
+          "indo": "burung pemancing besar berwarna putih dengan paruh besar berwarna merah muda panjang, dan sayapnya yang besar memiliki tepi luar berwarna hitam (bulu primer)."
+        },
+        {
+          "english": "a large white bird with long beak and black feathers.",
+          "indo": "seekor burung putih besar dengan paruh panjang dan bulu hitam."
+        },
+        {
+          "english": "this is a large, white water fowl with a long bill and a large wingspan.",
+          "indo": "ini adalah unggas air putih besar dengan paruh panjang dan rentang sayap besar."
+        },
+        {
+          "english": "a large bird with a long bill and a white breast",
+          "indo": "seekor burung besar dengan paruh panjang dan dada berwarna putih"
+        },
+        {
+          "english": "this larger bird has a tan bill with white crown and dark brown secondaries",
+          "indo": "burung yang lebih besar ini memiliki paruh berwarna coklat dengan mahkota berwarna putih dan paruh kedua berwarna coklat tua"
+        },
+        {
+          "english": "a large bird with very long large extended wings.",
+          "indo": "seekor burung besar dengan sayap yang sangat panjang dan besar."
+        },
+        {
+          "english": "this bird has a white crown as well as a long orange bill",
+          "indo": "burung ini memiliki mahkota berwarna putih dan paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "a white bird with a large beak and very large wing span.",
+          "indo": "seekor burung berwarna putih dengan paruh besar dan rentang sayap sangat besar."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0084_95877.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast with black primaries and secondaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan warna bulu primer dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "a large bird with a white head, white breast, white and black wings, and a large yellow bill.",
+          "indo": "burung besar berkepala putih, dada putih, sayap putih hitam, dan paruh besar berwarna kuning."
+        },
+        {
+          "english": "this bird has a large orange bill, with white breast, side and belly, and has large black primaries.",
+          "indo": "Burung ini mempunyai paruh besar berwarna jingga, dada, samping dan perut berwarna putih, serta memiliki bulu primer berwarna hitam yang besar."
+        },
+        {
+          "english": "this large bird has a large long yellow bill, a white breast, belly, and neck, a pink eyering and black wings.",
+          "indo": "burung besar ini memiliki paruh besar berwarna kuning panjang, dada, perut, dan leher berwarna putih, cincin mata berwarna merah muda, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has a big yellow, long beak with long black and white wings.",
+          "indo": "burung ini mempunyai paruh besar berwarna kuning panjang dengan sayap panjang berwarna hitam putih."
+        },
+        {
+          "english": "this large white and gray bird has a long neck and a long yellow bill.",
+          "indo": "burung besar berwarna putih abu-abu ini memiliki leher panjang dan paruh panjang berwarna kuning."
+        },
+        {
+          "english": "this big bird has an entirely white body with black primaries and secondaries and a yellow bill.",
+          "indo": "burung besar ini memiliki tubuh seluruhnya berwarna putih dengan warna bulu primer dan bulu sekunder berwarna hitam serta paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are grey and has yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna kuning"
+        },
+        {
+          "english": "a large white-feathered bird with black secondaries and a long white neck and yellow bill.",
+          "indo": "seekor burung besar berbulu putih dengan bulu sekunder berwarna hitam dan leher putih panjang serta paruh kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0086_95538.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this large bird is almost completely white with a large bill for catching fish.",
+          "indo": "burung besar ini hampir seluruhnya berwarna putih dengan paruh yang besar untuk menangkap ikan."
+        },
+        {
+          "english": "this large bird contains an extremely long orange beak and small head compared to its body size along with white feathers covering its entire body with the exception of having brown tips over its wings.",
+          "indo": "Burung besar ini memiliki paruh berwarna jingga yang sangat panjang dan kepala yang kecil dibandingkan dengan ukuran tubuhnya serta bulu berwarna putih menutupi seluruh tubuhnya kecuali ujung sayap berwarna coklat."
+        },
+        {
+          "english": "bird has white body feathers, white breast feather, and very large beak",
+          "indo": "Burung ini memiliki bulu badan berwarna putih, bulu dada berwarna putih, dan paruh yang sangat besar"
+        },
+        {
+          "english": "a bird with white and black wing bars and a long orange beak.",
+          "indo": "burung dengan garis sayap berwarna putih dan hitam serta paruh panjang berwarna jingga."
+        },
+        {
+          "english": "this bird has a very long and big orange bill with majority of its body in white color.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dan besar berwarna jingga dengan sebagian besar tubuhnya berwarna putih."
+        },
+        {
+          "english": "this bird is white with black wing tips and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan ujung sayap berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long pink bill that is curved, webbed feet, and large white wingbars.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah muda yang melengkung, kaki berselaput, dan garis sayap besar berwarna putih."
+        },
+        {
+          "english": "a white bird very large in size and black tips on wings, very large and wide beak.",
+          "indo": "burung berwarna putih berukuran sangat besar dan ujung sayap berwarna hitam, paruh sangat besar dan lebar."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "the large bird has an orange and red beak that is long and thick with white feathers that are black on the tips of its wings.",
+          "indo": "burung berukuran besar ini memiliki paruh berwarna oranye dan merah yang panjang dan tebal dengan bulu berwarna putih berwarna hitam pada ujung sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Pelican_0087_97247.jpg",
+      "class_id": 100,
+      "captions": [
+        {
+          "english": "this white bird has a long orange pointed bill with a bump, a long neck, orange webbed feet.",
+          "indo": "burung berwarna putih ini mempunyai paruh panjang berwarna jingga, runcing, berbenjolan, leher panjang, kaki berselaput jingga."
+        },
+        {
+          "english": "this bird has an entirely white body, with wide orange feet and a very long straight orange beak.",
+          "indo": "burung ini memiliki tubuh yang seluruhnya berwarna putih, dengan kaki lebar berwarna oranye dan paruh berwarna oranye lurus yang sangat panjang."
+        },
+        {
+          "english": "this big bird is all white, with orange webbed feet, and a long orange bill.",
+          "indo": "burung besar ini serba putih, dengan kaki berselaput oranye, dan paruh oranye panjang."
+        },
+        {
+          "english": "a large white bird with an elongated neck and an orange beak that is abnormally long and narrow.",
+          "indo": "seekor burung putih besar dengan leher memanjang dan paruh oranye yang panjangnya tidak normal dan sempit."
+        },
+        {
+          "english": "a large white bird with a very long orange bill, and orange webbed feet",
+          "indo": "seekor burung putih besar dengan paruh oranye yang sangat panjang, dan kaki berselaput oranye"
+        },
+        {
+          "english": "this large white bird has a long neck and a long, thin light orange beak.",
+          "indo": "burung besar berwarna putih ini memiliki leher yang panjang dan paruh yang panjang dan tipis berwarna oranye muda."
+        },
+        {
+          "english": "this large white sea bird has large webbed feet and a beak that is long and slender and has a large flap of loose skin on the base of the beak.",
+          "indo": "Burung laut putih berukuran besar ini memiliki kaki berselaput yang besar dan paruh yang panjang dan ramping serta memiliki lipatan kulit lepas yang besar pada pangkal paruhnya."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has a long and broad orange bill and an entirely white body.",
+          "indo": "burung ini memiliki paruh berwarna oranye yang panjang dan lebar serta tubuh yang seluruhnya berwarna putih."
+        }
+      ]
+    }
+  ]
+}

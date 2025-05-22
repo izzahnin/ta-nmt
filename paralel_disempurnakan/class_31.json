@@ -1,0 +1,2442 @@
+{
+  "dataset": [
+    {
+      "filename": "Mangrove_Cuckoo_0001_794601.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this tall bird has a long outer rectrices and stands very tall.",
+          "indo": "burung tinggi ini memilik outer rectrices yang panjang dan berdiri sangat tinggi."
+        },
+        {
+          "english": "this is a bird with a white belly, grey back and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, punggung abu-abu dan paruh runcing."
+        },
+        {
+          "english": "this bird has long brown rectrices, light yellow breast and throat and a gray crown.",
+          "indo": "burung ini memiliki rectrices  yang panjang berwarna coklat, dada dan tenggorokan berwarna kuning muda, serta mahkota berwarna abu-abu."
+        },
+        {
+          "english": "small light grey bird with a white breast and throat, long grey rectrices.",
+          "indo": "burung kecil berwarna abu-abu muda dengan dada dan tenggorokan berwarna putih, rectrices abu-abu panjang."
+        },
+        {
+          "english": "a small yellow breasted bird with a white neck and blue head, that has a short and pointed beak",
+          "indo": "burung kecil berdada kuning dengan leher putih dan kepala biru, paruh pendek dan runcing"
+        },
+        {
+          "english": "this bird has wings that are black with a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan badan berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "this bird has a yellow chest and yellow wings with black wing bars and a short beak.",
+          "indo": "burung ini memiliki dada berwarna kuning dan sayap berwarna kuning dengan garis sayap berwarna hitam dan paruh yang pendek."
+        },
+        {
+          "english": "this medium-sized bird has yellow eyes, a tan colored neck, and long tail.",
+          "indo": "burung berukuran sedang ini memiliki mata kuning, leher berwarna coklat, dan ekor panjang."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0002_26410.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a brown crown and a white throat with brown wings and a light yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan tenggorokan berwarna putih dengan sayap berwarna coklat dan perut berwarna kuning muda."
+        },
+        {
+          "english": "bird has brown body feathers, yellow breast feathers, and brown beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna kuning, dan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird is brown, white and yellow in color, with a long black and yellow beak and a black eye ring.",
+          "indo": "burung ini berwarna coklat, putih dan kuning, dengan paruh panjang berwarna hitam kuning dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the gins are brown and the chest its a tan color",
+          "indo": "ginnya berwarna coklat dan bagian dadanya berwarna cokelat"
+        },
+        {
+          "english": "the beak is curved downwards, wing is brown, breast is cream/white, and belly is yellow/brown.",
+          "indo": "paruhnya melengkung ke bawah, sayap berwarna coklat, dada berwarna krem/putih, dan perut berwarna kuning/coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "medium bill that is orange on the bottom, has a white neck with a yellow body and brown-grey wings and tail.",
+          "indo": "paruh sedang yang bagian bawahnya berwarna jingga, lehernya berwarna putih dengan badan berwarna kuning serta sayap dan ekornya berwarna coklat keabu-abuan."
+        },
+        {
+          "english": "this bird has a white and yellow breast and a downward pointed bill",
+          "indo": "burung ini memiliki dada berwarna putih kuning dan paruh runcing ke bawah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0003_794619.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "there is a small bird with a white belly and throat and black eye rings and beak.",
+          "indo": "ada seekor burung kecil dengan perut dan tenggorokan berwarna putih serta cincin mata dan paruh berwarna hitam."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and brown beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna coklat"
+        },
+        {
+          "english": "this is a bird with a white breast, grey back and an orange beak.",
+          "indo": "ini adalah burung dengan dada putih, punggung abu-abu, dan paruh oranye."
+        },
+        {
+          "english": "this grey, white, and orange-feathered bird has relatively large eyes and a small bi-colored beak.",
+          "indo": "burung berbulu abu-abu, putih, dan oranye ini memiliki mata yang relatif besar dan paruh kecil berwarna dua."
+        },
+        {
+          "english": "the bird has an orange belly, a white breast, and long grey wings.",
+          "indo": "burung itu memiliki perut berwarna oranye, dada berwarna putih, dan sayap panjang berwarna abu-abu."
+        },
+        {
+          "english": "the top part of the bill is black and the bottom of the bill is yellow, the crown and back are grey, and the throat and breast are white.",
+          "indo": "paruh atas berwarna hitam dan paruh bawah berwarna kuning, ubun-ubun dan punggung berwarna abu-abu, serta tenggorokan dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is white and gray in color, with a black curved beak.",
+          "indo": "burung ini berwarna putih abu-abu, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a white throat and breast with a brown belly and a black cheek patch at the eye.",
+          "indo": "burung berwarna abu-abu ini memiliki tenggorokan dan dada berwarna putih dengan perut berwarna coklat dan bercak hitam di bagian mata."
+        },
+        {
+          "english": "this is a gray bird with light brown abdomen and white throat, breast and belly.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut berwarna coklat muda dan tenggorokan, dada dan perut berwarna putih."
+        },
+        {
+          "english": "this large gray bird has a white throat and a pale russet colored breast.",
+          "indo": "burung besar berwarna abu-abu ini memiliki tenggorokan berwarna putih dan dada berwarna coklat kemerahan pucat."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0004_794614.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a light brown colored belly and breast, with a black crown and wings.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda, dengan mahkota dan sayap berwarna hitam."
+        },
+        {
+          "english": "a brown bird with and orange underside, a curved beak, and a black patch across its eye.",
+          "indo": "burung berwarna coklat dengan bagian bawah berwarna oranye, paruh melengkung, dan bercak hitam di matanya."
+        },
+        {
+          "english": "this bird has a light orange belly and throat, grey wings and crown, and a short curved bill that is black on top and orange on the bottom.",
+          "indo": "burung ini memiliki perut dan tenggorokan berwarna jingga muda, sayap dan mahkota berwarna abu-abu, serta paruh melengkung pendek berwarna hitam di bagian atas dan jingga di bagian bawah."
+        },
+        {
+          "english": "a bird with a pink belly and a black head down to the wings, rump and tail.",
+          "indo": "seekor burung dengan perut berwarna merah muda dan kepala berwarna hitam hingga ke sayap, pantat dan ekor."
+        },
+        {
+          "english": "this bird is grey with red on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna merah pada perutnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a orange belly and throat but a black back and crown, its beak is multicolored and is small and curved.",
+          "indo": "burung kecil ini memiliki perut dan tenggorokan berwarna oranye tetapi punggung dan mahkota berwarna hitam, paruhnya beraneka warna dan kecil serta melengkung."
+        },
+        {
+          "english": "this small bird has a grey crown with black markings behind the eyes, a hooked bill with black top and orange bottom with neck, breast and belly colors of orange and white and grey wings.",
+          "indo": "Burung kecil ini mempunyai mahkota berwarna abu-abu dengan tanda hitam di belakang matanya, paruh bengkok dengan bagian atas berwarna hitam dan bagian bawah berwarna jingga dengan warna leher, dada dan perut berwarna jingga dan sayap putih serta abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a orange breast and a orange belly with a short rounded beak.",
+          "indo": "burung kecil dengan dada jingga dan perut jingga dengan paruh pendek membulat."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0005_794599.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this is a bluish gray bird with a cream-colored belly and a strong, hooked bill.",
+          "indo": "ini adalah burung abu-abu kebiruan dengan perut berwarna krem ​​​​dan paruh yang kuat dan bengkok."
+        },
+        {
+          "english": "the wings are blue with a long blue and white tail and a blue beak.",
+          "indo": "sayapnya berwarna biru dengan ekor panjang berwarna biru putih dan paruh berwarna biru."
+        },
+        {
+          "english": "this bird has a gray-blue and white body with extremely long tail feathers and a long, black beak.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu biru dan putih dengan bulu ekor yang sangat panjang dan paruh yang panjang berwarna hitam."
+        },
+        {
+          "english": "this bird is brown and white in color with a curved black beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh hitam melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a bird with a light yellow throat, a yellowish-white belly, and a light blue crown, nape, and back.",
+          "indo": "burung dengan tenggorokan berwarna kuning muda, perut berwarna putih kekuningan, dan mahkota, tengkuk, dan punggung berwarna biru muda."
+        },
+        {
+          "english": "this bird has a long tail, with a grey back and a white breast, and black beak curving downward.",
+          "indo": "burung ini mempunyai ekor yang panjang, punggung berwarna abu-abu dan dada berwarna putih, serta paruh berwarna hitam melengkung ke bawah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a long-shaped bird with a curved, black beak and slightly spiked crown that's brown and white in color.",
+          "indo": "burung berbentuk panjang dengan paruh melengkung berwarna hitam dan mahkota agak berduri berwarna coklat putih."
+        },
+        {
+          "english": "this is a small bird with a short beak, a tail longer than its body, and a white breast and belly.",
+          "indo": "ini adalah burung kecil dengan paruh pendek, ekor lebih panjang dari badannya, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white breast and gray belly, along with black and gray along its back, and a black beak.",
+          "indo": "burung ini memiliki dada berwarna putih dan perut berwarna abu-abu, serta punggung berwarna hitam dan abu-abu, serta paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0006_794626.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a bird with a downward hooked bill which is black on top, orange on bottom.",
+          "indo": "burung dengan paruh bengkok ke bawah, berwarna hitam di bagian atas, oranye di bagian bawah."
+        },
+        {
+          "english": "this bird has a hooked black and orange bill, and a white breast that mixes with an orange-brown belly.",
+          "indo": "burung ini memiliki paruh bengkok berwarna hitam jingga, serta dada berwarna putih bercampur dengan perut berwarna jingga kecokelatan."
+        },
+        {
+          "english": "a small bird with a grey head, a light yellow throat, and grey breast, and light brown abdomen.",
+          "indo": "seekor burung kecil dengan kepala berwarna abu-abu, tenggorokan berwarna kuning muda, dada berwarna abu-abu, dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this is a gray and white bird with a yellow abdomen and a orange bill",
+          "indo": "ini adalah burung berwarna abu-abu dan putih dengan perut kuning dan paruh oranye"
+        },
+        {
+          "english": "this bird has a brown belly with a gray breast and a small orange bill.",
+          "indo": "burung ini memiliki perut berwarna coklat dengan dada berwarna abu-abu dan paruh kecil berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and black in color, with a black and orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam dan oranye."
+        },
+        {
+          "english": "small bird with black crown, throat, belly, breast and abdomen is grey, beak is small and orange and black.",
+          "indo": "burung kecil dengan mahkota hitam, tenggorokan, perut, dada dan perut berwarna abu-abu, paruh kecil berwarna oranye dan hitam."
+        },
+        {
+          "english": "a small white bird with black wings, black crown, black and red bill.",
+          "indo": "burung kecil berwarna putih dengan sayap hitam, mahkota hitam, paruh hitam dan merah."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0007_794610.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this darkly colored bird has very elongated, curved beak and quite long inner rectrices.",
+          "indo": "burung berwarna gelap ini memiliki paruh yang sangat memanjang, melengkung, dan rectrices bagian dalam yang cukup panjang."
+        },
+        {
+          "english": "this chubby bird has a light golden chest with dark brown feathers on its back and smaller head.",
+          "indo": "burung gemuk ini memiliki dada berwarna emas muda dengan bulu berwarna coklat tua di punggung dan kepala yang lebih kecil."
+        },
+        {
+          "english": "the plump bird has a white chest with a grey body and a thick black beak.",
+          "indo": "burung gempal memiliki dada berwarna putih dengan tubuh berwarna abu-abu dan paruh berwarna hitam tebal."
+        },
+        {
+          "english": "this bird is black with brown on its belly and a long beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna coklat dan paruh yang panjang."
+        },
+        {
+          "english": "the bird has a black beak and a white chest with a black tail",
+          "indo": "burung tersebut memiliki paruh berwarna hitam dan dada berwarna putih dengan ekor berwarna hitam"
+        },
+        {
+          "english": "a small gray bird with a white torso and curved black beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan tubuh putih dan paruh hitam melengkung."
+        },
+        {
+          "english": "this birds beak is dark, nearly black, it is of medium length and curves downwards.",
+          "indo": "Paruh burung ini berwarna gelap, hampir hitam, panjangnya sedang dan melengkung ke bawah."
+        },
+        {
+          "english": "a charcoal grey bird with a black beak and a white belly.",
+          "indo": "burung berwarna abu-abu arang dengan paruh hitam dan perut putih."
+        },
+        {
+          "english": "this bird is black with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown body with a yellow belly and a black beak.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan perut berwarna kuning dan paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0008_26357.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a black and orange beak, a yellow belly, black tail with dots on it, and a white chest.",
+          "indo": "burung ini memiliki paruh berwarna hitam jingga, perut berwarna kuning, ekor berwarna hitam dengan bintik-bintik, dan dada berwarna putih."
+        },
+        {
+          "english": "the bird has white throat with yellowish brown abdomen and side as well as brown coverts and crown.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih dengan perut dan samping berwarna coklat kekuningan serta bulu dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this medium sized bird has white and tan on it's breast, and black tail feathers with large spots spanning multiple feathers.",
+          "indo": "burung berukuran sedang ini memiliki bulu ekor berwarna putih kecoklatan di bagian dadanya, serta berwarna hitam dengan bintik-bintik besar yang tersebar di banyak bulu."
+        },
+        {
+          "english": "this bird has a yellowish brown body and a black tail.",
+          "indo": "burung ini memiliki tubuh berwarna coklat kekuningan dan ekor berwarna hitam."
+        },
+        {
+          "english": "a small yellow bird with black and white polka dots on its tail.",
+          "indo": "seekor burung kecil berwarna kuning dengan bintik-bintik hitam putih di ekornya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a white throat, black curved black bill, grey crown, coverts and wingbars, black upper tail coverts and under tail coverts with big white spots on them.",
+          "indo": "burung ini mempunyai tenggorokan berwarna putih, paruh hitam melengkung, mahkota berwarna abu-abu, bulu dan sayap, bulu ekor bagian atas berwarna hitam dan bulu ekor bawah dengan bintik-bintik putih besar."
+        },
+        {
+          "english": "a bird with grey feathers, a white breast, and a yellow belly.",
+          "indo": "seekor burung dengan bulu abu-abu, dada putih, dan perut kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "curved bill with a black top and bottom yellow, white throat area and yellow belly, long black tail with white spots.",
+          "indo": "paruh melengkung dengan bagian atas berwarna hitam dan bagian bawah berwarna kuning, daerah tenggorokan berwarna putih dan perut berwarna kuning, ekor berwarna hitam panjang dengan bintik-bintik putih."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0009_26354.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "bird with orange and black curved downward beak, short legs, and long tail feathers",
+          "indo": "burung dengan paruh melengkung ke bawah berwarna oranye dan hitam, kaki pendek, dan bulu ekor panjang"
+        },
+        {
+          "english": "small white and yellow bird with brown wings and medium to long black and orange beak",
+          "indo": "burung kecil berwarna putih dan kuning dengan sayap coklat dan paruh sedang hingga panjang berwarna hitam dan oranye"
+        },
+        {
+          "english": "a small bird with a yellow belly and black nape.",
+          "indo": "seekor burung kecil dengan perut kuning dan tengkuk hitam."
+        },
+        {
+          "english": "bird with big eyes and a hooked shaped bill",
+          "indo": "burung bermata besar dan paruh berbentuk bengkok"
+        },
+        {
+          "english": "a medium sized brown and white bird with a black and orange hooked beak and long pointed tail.",
+          "indo": "burung berukuran sedang berwarna coklat dan putih dengan paruh bengkok berwarna hitam dan oranye serta ekor panjang dan runcing."
+        },
+        {
+          "english": "a small green bird, with yellow belly, and a shape curved bill.",
+          "indo": "burung kecil berwarna hijau, perut kuning, dan paruh berbentuk melengkung."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and black",
+          "indo": "burung ini memiliki perut berwarna coklat dan hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a pointed orange and black bill, with a yellow breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna jingga dan hitam, dengan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0010_26399.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this is a grey bird with a white breast and a long pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan dada putih dan paruh runcing panjang."
+        },
+        {
+          "english": "a small bird with grey covering most of its body except for its throat and breast which are cream, and its black cheek patch.",
+          "indo": "burung kecil berwarna abu-abu menutupi sebagian besar tubuhnya kecuali tenggorokan dan dada berwarna krem, serta bercak hitam di pipi."
+        },
+        {
+          "english": "this sleek gray bird has a black superciliary, a sharp slightly downward curved bill, and a tail that is about the same length as its body.",
+          "indo": "burung abu-abu ramping ini memiliki superciliary hitam, paruh tajam agak melengkung ke bawah, dan ekor yang panjangnya kira-kira sama panjang dengan tubuhnya."
+        },
+        {
+          "english": "a mostly grey colored bird with a long tail and a curved beak.",
+          "indo": "burung yang sebagian besar berwarna abu-abu dengan ekor panjang dan paruh melengkung."
+        },
+        {
+          "english": "grey and lemon colored bird with black cheek patch.",
+          "indo": "burung berwarna abu-abu dan lemon dengan bercak pipi hitam."
+        },
+        {
+          "english": "this bird has feathers that are grey and has a long black bill",
+          "indo": "burung ini mempunyai bulu yang berwarna abu-abu dan mempunyai paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "a bird with a long tail that is gray in color with a curvy beak.",
+          "indo": "burung dengan ekor panjang berwarna abu-abu dengan paruh melengkung."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with brown and white feathers, a black cheek patch, and a curved beak.",
+          "indo": "burung dengan bulu berwarna coklat putih, pipi berwarna hitam, dan paruh melengkung."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0011_26406.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and belly as well as a curved bill.",
+          "indo": "burung ini memiliki dada dan perut berwarna kuning serta paruh melengkung."
+        },
+        {
+          "english": "a small bird with a grey crown, face, nape, coverts, and secondaries, this bird also has light yellow on its breast, belly and vent along with black and white spotted rectrices",
+          "indo": "burung kecil dengan mahkota, muka, tengkuk, bulu, dan bulu sekunder berwarna abu-abu, burung ini juga memiliki warna kuning muda pada bagian dada, perut dan lubang kloaka serta rectrices berbintik hitam putih"
+        },
+        {
+          "english": "the top of this bird's head is grey, as are the wings. the rest of the body is yellow and the tail is black with white circle patterns that resemble stripes.",
+          "indo": "bagian atas kepala burung ini berwarna abu-abu, begitu pula sayapnya. selebihnya badan berwarna kuning dan ekor berwarna hitam dengan pola lingkaran putih menyerupai garis-garis."
+        },
+        {
+          "english": "this is a smaller bird with a yellow belly with black and gray feathers, the tail feathers are very long.",
+          "indo": "ini adalah burung yang lebih kecil dengan perut kuning dengan bulu hitam abu-abu, bulu ekornya sangat panjang."
+        },
+        {
+          "english": "this yellow bird has gray wings, a gray head, and gray accents on it's tail feathers.",
+          "indo": "burung berwarna kuning ini memiliki sayap berwarna abu-abu, kepala berwarna abu-abu, dan aksen abu-abu pada bulu ekornya."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a grey crown with brown wings and yellow belly",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan sayap berwarna coklat dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow, brown and gray in color, with a curved beak.",
+          "indo": "burung ini berwarna kuning, coklat dan abu-abu, dengan paruh melengkung."
+        },
+        {
+          "english": "a bird with a yellow/orange underside with grey wings and head.",
+          "indo": "burung dengan bagian bawah berwarna kuning/oranye dengan sayap dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "a remarkably beautiful bird with a yellow breast, light green wings, and large, hooked bill.",
+          "indo": "seekor burung yang sangat cantik dengan dada kuning, sayap hijau muda, dan paruh besar yang bengkok."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0012_26382.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird's rectrices are long and narrow and are sticking off the rump of the bird.",
+          "indo": "rectrices  burung itu panjang dan sempit serta menonjol di pantat burung."
+        },
+        {
+          "english": "this is a small bird, grey on the dome of the head and top of the small beak, light grey to white down the throat and upper back and medium grey wings and tail, with fluffy light brown feathers across the underbody.",
+          "indo": "ini adalah burung kecil, berwarna abu-abu pada kubah kepala dan bagian atas paruh kecil, abu-abu muda hingga putih di bagian tenggorokan dan punggung atas, serta sayap dan ekor berwarna abu-abu sedang, dengan bulu halus berwarna coklat muda di bagian bawah tubuh."
+        },
+        {
+          "english": "this little bird has a brown belly and breast, black crown, and narrow pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna coklat, mahkota berwarna hitam, dan paruh runcing sempit."
+        },
+        {
+          "english": "this bird has a long tail and a beak that is pointed and curves downward.",
+          "indo": "burung ini mempunyai ekor yang panjang dan paruh yang runcing dan melengkung ke bawah."
+        },
+        {
+          "english": "this is a bird with a brown belly, grey wing and a white throat.",
+          "indo": "ini adalah burung dengan perut coklat, sayap abu-abu dan tenggorokan putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with yellow bellow, white breast and black head.",
+          "indo": "seekor burung kecil dengan bagian bawah berwarna kuning, dada berwarna putih, dan kepala berwarna hitam."
+        },
+        {
+          "english": "a small bird with a brown belly and breast with grey wings and a short flat beak.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna coklat dengan sayap abu-abu dan paruh pendek dan rata."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0013_794620.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this small bird has a white belly, black wings and a black and white striped tail.",
+          "indo": "burung kecil ini mempunyai perut berwarna putih, sayap hitam dan ekor bergaris hitam putih."
+        },
+        {
+          "english": "this bird is brown with a white chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a bird with a bill that curves downwards and a white breast",
+          "indo": "burung dengan paruh melengkung ke bawah dan dada berwarna putih"
+        },
+        {
+          "english": "this is a gray and white bird with a yellow and black bill",
+          "indo": "ini adalah burung berwarna abu-abu putih dengan paruh kuning dan hitam"
+        },
+        {
+          "english": "this bird is white and black in color with a yellow beak, and black eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh berwarna kuning, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has feathers that are black and has a yellow chest",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a long spotted tail and a white breast with grey wings.",
+          "indo": "burung ini memiliki ekor berbintik panjang dan dada berwarna putih dengan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a white chest and a small head compared to the body.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dan kepala kecil dibandingkan dengan badannya."
+        },
+        {
+          "english": "this bird has a beak with yellow and black, the breasts of the bird are white and the white continues to the belly and abdominal area.",
+          "indo": "Burung ini memiliki paruh berwarna kuning dan hitam, bagian dada burung berwarna putih dan bagian putih berlanjut hingga bagian perut dan perut."
+        },
+        {
+          "english": "the bird is predominately grey/black and yellow, with yellow found on the throat, breast, and belly as well as the bottom half of the narrow bill.",
+          "indo": "Burung ini didominasi warna abu-abu/hitam dan kuning, dengan warna kuning terdapat di tenggorokan, dada, dan perut serta paruh bawah paruh yang sempit."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0014_26388.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a yellow belly and breast as well as a black bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning serta paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with a black crown and yellow throat with a brown and white belly.",
+          "indo": "burung kecil bermahkota hitam dan tenggorokan kuning dengan perut berwarna coklat putih."
+        },
+        {
+          "english": "the bird has a black eyering, black bill and amber breast.",
+          "indo": "burung itu mempunyai cincin mata hitam, paruh hitam, dan dada kuning."
+        },
+        {
+          "english": "this bird has a light yellow throat, belly, breast and a black or brown head and coverts.",
+          "indo": "burung ini memiliki tenggorokan, perut, dada berwarna kuning muda, serta kepala dan bulu berwarna hitam atau coklat."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a black wing and head.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan sayap dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird is gray with a light orange belly and a black nape.",
+          "indo": "burung ini berwarna abu-abu dengan perut berwarna jingga muda dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a light yellow throat, white breast and brown on its sides.",
+          "indo": "burung berwarna abu-abu ini memiliki tenggorokan berwarna kuning muda, dada berwarna putih, dan sisi-sisinya berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and white in color, with a black beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a white breast black cheek patch and a head that is somewhat smaller than it's body.",
+          "indo": "burung ini memiliki bercak pipi berwarna putih di bagian dada berwarna hitam dan kepala yang agak lebih kecil dari badannya."
+        },
+        {
+          "english": "this bird appears mostly black with a slightly lighter underside.",
+          "indo": "burung ini sebagian besar tampak berwarna hitam dengan bagian bawah sedikit lebih terang."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0015_26380.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has thick brown feathers and a yellow chest.",
+          "indo": "burung ini memiliki bulu berwarna coklat tebal dan dada berwarna kuning."
+        },
+        {
+          "english": "this small bird with a bill that curves downwards and has brown wings",
+          "indo": "burung kecil ini dengan paruh melengkung ke bawah dan memiliki sayap berwarna coklat"
+        },
+        {
+          "english": "this small bird contains brown feathers covering its entire body except for its throat and belly, which are light orange.",
+          "indo": "Burung kecil ini memiliki bulu berwarna coklat yang menutupi seluruh tubuhnya kecuali tenggorokan dan perutnya yang berwarna jingga muda."
+        },
+        {
+          "english": "this bird is brown in color with a curved beak, and dark eye rings.",
+          "indo": "burung ini berwarna coklat dengan paruh melengkung, dan lingkaran mata berwarna gelap."
+        },
+        {
+          "english": "this dark gray bird has a long pointy beak with black on top and yellow underneath, as well as a khaki colored breast.",
+          "indo": "burung berwarna abu-abu tua ini memiliki paruh panjang dan runcing dengan bagian atas berwarna hitam dan bagian bawah berwarna kuning, serta bagian dada berwarna khaki."
+        },
+        {
+          "english": "this bird's feathers are ruffled and gray while its breast is yellow and beak is yellow on bottom, dark gray on top.",
+          "indo": "bulu burung ini acak-acakan dan berwarna abu-abu, sedangkan dadanya berwarna kuning dan paruhnya berwarna kuning di bagian bawah, abu-abu tua di bagian atas."
+        },
+        {
+          "english": "this is a small bird with a mostly brown head wing and tail and a yellow beard.",
+          "indo": "ini adalah burung kecil dengan kepala dan ekor sebagian besar berwarna coklat serta janggut kuning."
+        },
+        {
+          "english": "the bulky brown bird with a gold throat and brown crown",
+          "indo": "burung coklat besar dengan tenggorokan emas dan mahkota coklat"
+        },
+        {
+          "english": "this particular bird has a belly that is brown and tan",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan kecokelatan"
+        },
+        {
+          "english": "a brown chested bird with a black beak and a small head compared to the body.",
+          "indo": "burung berdada coklat dengan paruh hitam dan kepala kecil dibandingkan badan."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0016_794607.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a yellow throat and breast and a brown eyering.",
+          "indo": "burung itu memiliki tenggorokan dan dada berwarna kuning serta cincin mata berwarna coklat."
+        },
+        {
+          "english": "the bird is dark brown with yellow breast and a short beak.",
+          "indo": "burung itu berwarna coklat tua dengan dada kuning dan paruh pendek."
+        },
+        {
+          "english": "a bird with a brown back and wings, peach chest and throat and a orange bil.",
+          "indo": "seekor burung dengan punggung dan sayap berwarna coklat, dada dan tenggorokan berwarna persik, serta kulit berwarna oranye."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a brown bird with a tan underside and a black sti across the eyes.",
+          "indo": "seekor burung berwarna coklat dengan bagian bawah berwarna coklat dan sti hitam di bagian matanya."
+        },
+        {
+          "english": "this bird has wings that are brown and has long tail feathers",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai bulu ekor yang panjang"
+        },
+        {
+          "english": "this bird is grey with yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "small bird with long rectrices, crown is dark brown, throat, breast, belly and abdomen are light brown.",
+          "indo": "burung kecil dengan rectrices  yang panjang, mahkota berwarna coklat tua, tenggorokan, dada, perut dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0017_794623.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "having a long,thin black-tipped beak and orange eye circles, this bird has buff base color and orange on top and long tail.",
+          "indo": "mempunyai paruh yang panjang dan tipis berujung hitam serta lingkaran mata berwarna jingga, burung ini mempunyai warna dasar buff dan jingga pada bagian atas serta ekor yang panjang."
+        },
+        {
+          "english": "this bird has a brown back, a brown belly, and a short bill",
+          "indo": "burung ini memiliki punggung berwarna coklat, perut berwarna coklat, dan paruh yang pendek"
+        },
+        {
+          "english": "a brown bird with bright orange eyering, white throat, white patches on tail is brown all over.",
+          "indo": "burung berwarna coklat dengan cincin mata berwarna jingga cerah, tenggorokan berwarna putih, bercak putih di seluruh ekor berwarna coklat."
+        },
+        {
+          "english": "the brown bird has bright orange eyes and a very large beak.",
+          "indo": "burung berwarna coklat memiliki mata berwarna jingga cerah dan paruh yang sangat besar."
+        },
+        {
+          "english": "this bird is in brown color with a curved black beak, and red eye rings.",
+          "indo": "burung ini berwarna coklat dengan paruh hitam melengkung, dan cincin mata berwarna merah."
+        },
+        {
+          "english": "it is a brown colored medium sized bird with long beak, broad tail, and brilliant orange colored eye-ring.",
+          "indo": "Burung ini berukuran sedang berwarna coklat dengan paruh panjang, ekor lebar, dan cincin mata berwarna oranye cemerlang."
+        },
+        {
+          "english": "the bird has red eye rings and a long pointy bill",
+          "indo": "burung itu memiliki cincin mata merah dan paruh panjang dan runcing"
+        },
+        {
+          "english": "a bird with orange eyes and a long bill and tail.",
+          "indo": "seekor burung dengan mata oranye dan paruh serta ekor yang panjang."
+        },
+        {
+          "english": "this bird has a brown crown as well as a black bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh berwarna hitam"
+        },
+        {
+          "english": "a brown bird with long brown tail feathers and an orange eye.",
+          "indo": "burung berwarna coklat dengan bulu ekor panjang berwarna coklat dan mata berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0018_794593.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a white breast and white belly, as well as curved bill.",
+          "indo": "burung ini memiliki dada berwarna putih dan perut berwarna putih, serta paruh melengkung."
+        },
+        {
+          "english": "this little bird has a white belly and breast, gray crown and wings, and a little sharp bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, mahkota dan sayap berwarna abu-abu, serta paruh sedikit runcing."
+        },
+        {
+          "english": "this is bird with a long hooked bill in comparison to its body.",
+          "indo": "ini adalah burung dengan paruh bengkok yang panjang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird is white with black on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan sayapnya berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this hook billed bird has a light yellow breast and yellow eyebrows.",
+          "indo": "burung berparuh kait ini memiliki dada berwarna kuning muda dan alis berwarna kuning."
+        },
+        {
+          "english": "the is colorful bird has a long beak with short legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh yang panjang dengan kaki yang pendek"
+        },
+        {
+          "english": "a small bird with a gray head and wings and white belly has a short and downward curved beak.",
+          "indo": "burung kecil dengan kepala dan sayap berwarna abu-abu serta perut berwarna putih memiliki paruh yang pendek dan melengkung ke bawah."
+        },
+        {
+          "english": "this slender bird has a curved beak, a light underside from throat to vent, and a dark back from crown to tail feathers.",
+          "indo": "burung ramping ini memiliki paruh melengkung, bagian bawah terang dari tenggorokan hingga lubang kloaka, dan punggung berwarna gelap dari bulu ubun-ubun hingga ekor."
+        },
+        {
+          "english": "this bird has a black bill with grey crown and white belly.",
+          "indo": "burung ini mempunyai paruh berwarna hitam dengan mahkota berwarna abu-abu dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a white belly with blue wings and head.",
+          "indo": "burung itu memiliki perut berwarna putih dengan sayap dan kepala berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0019_794621.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a brown belly with black wings and a black head.",
+          "indo": "burung ini memiliki perut berwarna coklat dengan sayap hitam dan kepala berwarna hitam."
+        },
+        {
+          "english": "the bird has a light brown throat, with a brown colored abdomen and breast as well as a black colored covert.",
+          "indo": "burung ini memiliki tenggorokan berwarna coklat muda, dengan perut dan dada berwarna coklat serta bulu berwarna hitam."
+        },
+        {
+          "english": "this bird has short curved bill, a white throat, and a black crown.",
+          "indo": "burung ini memiliki paruh pendek melengkung, tenggorokan berwarna putih, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird is brown and black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small and long bird with a tan belly, and a white neck.",
+          "indo": "seekor burung kecil dan panjang dengan perut berwarna coklat, dan leher berwarna putih."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is primarily black with a white throat, light orange breast to undertail coverts and a black slightly curved beak.",
+          "indo": "burung ini pada dasarnya berwarna hitam dengan tenggorokan berwarna putih, dada berwarna jingga muda hingga bulu bagian bawah, dan paruh berwarna hitam agak melengkung."
+        },
+        {
+          "english": "a long orange and black bird with a very long beak.",
+          "indo": "burung panjang berwarna oranye dan hitam dengan paruh yang sangat panjang."
+        },
+        {
+          "english": "the bird has a black eyering, tan breast and amber belly.",
+          "indo": "burung itu memiliki cincin mata hitam, dada berwarna coklat, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird is orange and black in color, and has a curved black beak.",
+          "indo": "burung ini berwarna oranye dan hitam, serta memiliki paruh berwarna hitam melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0020_794629.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the whole body of the bird is covered in gray color, the beak is sharp and curved and it is yellow in color.",
+          "indo": "seluruh badan burung ditutupi warna abu-abu, paruhnya runcing dan melengkung serta warnanya kuning."
+        },
+        {
+          "english": "a bird with a slightly curved beak, and an all gray body with a large black eye.",
+          "indo": "seekor burung dengan paruh agak melengkung, dan tubuh serba abu-abu dengan mata hitam besar."
+        },
+        {
+          "english": "the bird has a distinct grey colored body on a whole, and a pointed black and yellow bill.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu yang berbeda secara keseluruhan, dan paruh runcing berwarna hitam dan kuning."
+        },
+        {
+          "english": "a small bird with a long tail which is dark grey from its rump to its inner and outer rectrices, it also sports a fairly large bill and is predominantly grey on its body from crown across it's back.",
+          "indo": "burung kecil dengan ekor panjang berwarna abu-abu tua mulai dari pantat hingga inner dan outer rectrices, ia juga memiliki paruh yang cukup besar dan sebagian besar tubuhnya berwarna abu-abu mulai dari ubun-ubun hingga punggungnya."
+        },
+        {
+          "english": "bird with gray beak, nape, crown, wings, inner and outer rectrices, and throat, and black eye",
+          "indo": "burung dengan paruh abu-abu, tengkuk, mahkota, sayap, inner dan outer rectrices, tenggorokan, dan mata hitam"
+        },
+        {
+          "english": "this bird has a small orange beak, a light gray cheek patch, and has gray feathers covering the rest of its body.",
+          "indo": "burung ini memiliki paruh kecil berwarna oranye, bercak di pipi berwarna abu-abu muda, dan memiliki bulu berwarna abu-abu menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+        },
+        {
+          "english": "this bird has wings that are grey and has a black belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0021_794602.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this handsome fellow has a white neck, gray crown, and black superciliary.",
+          "indo": "lelaki tampan ini memiliki leher putih, mahkota abu-abu, dan superciliary hitam."
+        },
+        {
+          "english": "a gray bird with a white throat which has a downward curving bill.",
+          "indo": "burung berwarna abu-abu dengan tenggorokan berwarna putih dengan paruh melengkung ke bawah."
+        },
+        {
+          "english": "this birds head is gray with white throat and the bill is black on top and orange underneath, it has an orange eyering also.",
+          "indo": "Kepala burung ini berwarna abu-abu dengan tenggorokan berwarna putih, paruh bagian atas berwarna hitam dan bagian bawah berwarna jingga, serta memiliki cincin mata berwarna jingga."
+        },
+        {
+          "english": "a grey headed bird with a white throat, yellow eye ring, and a mid length curved bill.",
+          "indo": "burung berkepala abu-abu dengan tenggorokan putih, cincin mata kuning, dan paruh melengkung berukuran sedang."
+        },
+        {
+          "english": "this bird has a brown crown and a black and yellow bill.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh berwarna hitam dan kuning."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the long curve bill is black on top and orange with black at the bottom, the crown is gray and the throat is beige.",
+          "indo": "paruh melengkung panjang berwarna hitam di bagian atas dan oranye dengan hitam di bagian bawah, mahkota berwarna abu-abu dan tenggorokan berwarna krem."
+        },
+        {
+          "english": "this particular bird has a throat that is white and a long black bill with a orange bottom side",
+          "indo": "Burung ini memiliki tenggorokan berwarna putih dan paruh panjang berwarna hitam dengan bagian bawah berwarna oranye"
+        },
+        {
+          "english": "this bird has a long curved black bill and bright yellow eyerings",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam melengkung dan cincin mata berwarna kuning cerah"
+        },
+        {
+          "english": "this is a grey bird with a white chin and orange streaks around its eyes. it has a black bill with accents of white on the underside.",
+          "indo": "ini adalah burung abu-abu dengan dagu putih dan garis oranye di sekitar matanya. paruhnya berwarna hitam dengan aksen putih di bagian bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0022_794625.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird is long and slim with grey back and white breast.",
+          "indo": "burung ini bertubuh panjang dan langsing dengan punggung berwarna abu-abu dan dada berwarna putih."
+        },
+        {
+          "english": "a small grey bird with yellow underbelly, throat and yellow circle around the eye.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan perut kuning, tenggorokan dan lingkaran kuning di sekitar mata."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a short pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing pendek"
+        },
+        {
+          "english": "this bird has a gray body,yellow white underside, and a black down pointed beak.",
+          "indo": "burung ini mempunyai tubuh berwarna abu-abu, bagian bawah berwarna kuning putih, dan paruh runcing ke bawah berwarna hitam."
+        },
+        {
+          "english": "this is a gray and white bird with a white eyering, a black bill,and a white belly",
+          "indo": "ini adalah burung berwarna abu-abu dan putih dengan cincin mata putih, paruh hitam, dan perut putih"
+        },
+        {
+          "english": "this bird is grey on the back and tail with a white belly, black eye bar and short curved beak.",
+          "indo": "burung ini berwarna abu-abu pada bagian punggung dan ekor dengan perut berwarna putih, garis mata berwarna hitam, dan paruh pendek melengkung."
+        },
+        {
+          "english": "this gray bird has a long tail and a white throat, breast and belly, while the beak is black on top and yellow on bottom.",
+          "indo": "burung berwarna abu-abu ini memiliki ekor yang panjang dan tenggorokan, dada dan perut berwarna putih, sedangkan paruhnya berwarna hitam di bagian atas dan kuning di bagian bawah."
+        },
+        {
+          "english": "short black bill, long tail, grey back and wings and light yellow belly, white throat.",
+          "indo": "paruh hitam pendek, ekor panjang, punggung dan sayap abu-abu, serta perut kuning muda, tenggorokan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan dan berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0023_26409.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a yellow belly and a wide grey wingspan.",
+          "indo": "burung itu memiliki perut kuning dan rentang sayap abu-abu lebar."
+        },
+        {
+          "english": "a large-headed bird wit ha distinctive golden breast and a large head.",
+          "indo": "seekor burung berkepala besar dengan dada emas yang khas dan kepala yang besar."
+        },
+        {
+          "english": "the bird has a thick brown body with a grey head and grey wings with a small hooked bill.",
+          "indo": "burung ini memiliki tubuh tebal berwarna coklat dengan kepala berwarna abu-abu dan sayap berwarna abu-abu dengan paruh kecil yang bengkok."
+        },
+        {
+          "english": "bird with black beak and feet, light brown breast, belly and abdomen, and white throat and eyering",
+          "indo": "burung dengan paruh dan kaki berwarna hitam, dada, perut dan perut berwarna coklat muda, serta tenggorokan dan cincin mata berwarna putih"
+        },
+        {
+          "english": "this bird has a brown belly, gray and white wings and a large head.",
+          "indo": "burung ini memiliki perut berwarna coklat, sayap berwarna abu-abu dan putih serta kepala yang besar."
+        },
+        {
+          "english": "a bird with a orange belly and grey wings.",
+          "indo": "seekor burung dengan perut oranye dan sayap abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow, and gray in color, with a curved beak.",
+          "indo": "burung ini berwarna kuning, berwarna abu-abu, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird is yellow and gray in color, with a curved beak.",
+          "indo": "burung ini berwarna kuning keabu-abuan, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird is tan with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0024_794630.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this is a gray bird with a light brown belly and abdomen and a strong, hooked black beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut dan perut berwarna coklat muda serta paruh hitam yang kuat dan bengkok."
+        },
+        {
+          "english": "a medium sized bird with a bill that curves downwards, and a yellow eye ring",
+          "indo": "burung berukuran sedang dengan paruh melengkung ke bawah, dan cincin mata berwarna kuning"
+        },
+        {
+          "english": "this bird is light brown in color, and has a black beak with a light brown eye ring.",
+          "indo": "burung ini berwarna coklat muda, dan mempunyai paruh berwarna hitam dengan cincin mata berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a grey belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a grey bird with a white throat and a small white eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan putih dan alis kecil berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a large bird with distinct gray feathers on wings and top of head.",
+          "indo": "seekor burung besar dengan bulu abu-abu yang khas di sayap dan bagian atas kepala."
+        },
+        {
+          "english": "this brown bird has a yellow throat, a white eyebrow, and a medium curved bill",
+          "indo": "burung berwarna coklat ini memiliki tenggorokan berwarna kuning, alis berwarna putih, dan paruh melengkung sedang"
+        },
+        {
+          "english": "this bird is white and gray in color, and has a curved beak.",
+          "indo": "burung ini berwarna putih abu-abu, serta memiliki paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0025_26375.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a tan throat and under body, while it's wings back and head are a deeper gray/brown.",
+          "indo": "burung ini memiliki tenggorokan dan bagian bawah tubuh berwarna coklat, sedangkan sayap punggung dan kepalanya berwarna abu-abu/coklat tua."
+        },
+        {
+          "english": "a bird with a long tail and a sharp bill that is curved slightly downward, it is colored pale orange from throat to abdomen and is dark gray over the top part of its body.",
+          "indo": "burung dengan ekor panjang dan paruh runcing agak melengkung ke bawah, berwarna jingga pucat mulai dari tenggorokan hingga perut, serta berwarna abu-abu tua pada bagian atas tubuhnya."
+        },
+        {
+          "english": "this is a bird with a brown belly and a black head and back.",
+          "indo": "ini adalah burung dengan perut berwarna coklat dan kepala serta punggung berwarna hitam."
+        },
+        {
+          "english": "medium sized bird with brown breast, black upper parts, and a bicolored bill.",
+          "indo": "burung berukuran sedang dengan dada berwarna coklat, bagian atas berwarna hitam, dan paruh dua warna."
+        },
+        {
+          "english": "black bird with orangeish white color on it's stomach.",
+          "indo": "burung berwarna hitam dengan warna putih jingga pada perutnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are grey and has an orange chest",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan dada berwarna oranye"
+        },
+        {
+          "english": "this bird is brown with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat keabu-abuan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this little bird is tan from its throat all the way to its vent, and the top half of its body is dark brown.",
+          "indo": "burung kecil ini berwarna kecokelatan mulai dari tenggorokan hingga lubang kloaka, dan separuh atas tubuhnya berwarna coklat tua."
+        },
+        {
+          "english": "this medium-sized bird has a golden belly, and black colored head.",
+          "indo": "burung berukuran sedang ini memiliki perut berwarna emas, dan kepala berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0026_794609.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a white belly and a black and white tail.",
+          "indo": "burung itu memiliki perut berwarna putih dan ekor berwarna hitam putih."
+        },
+        {
+          "english": "the ivory bird has a long polka dotted tail feather with a tan wing feather.",
+          "indo": "burung gading mempunyai bulu ekor panjang polkadot dengan bulu sayap berwarna coklat."
+        },
+        {
+          "english": "this brown bird had a dark patch on eyes and white circles on tail.",
+          "indo": "burung berwarna coklat ini memiliki bercak hitam di matanya dan lingkaran putih di ekornya."
+        },
+        {
+          "english": "the colorful bird has a black and white tail,short claws and short beak",
+          "indo": "burung berwarna-warni memiliki ekor hitam putih, cakar pendek dan paruh pendek"
+        },
+        {
+          "english": "small brown bird with a long black and white tail.",
+          "indo": "burung kecil berwarna coklat dengan ekor panjang berwarna hitam putih."
+        },
+        {
+          "english": "this slim bird has a slimmer tail almost as long as its body, black with white circles.",
+          "indo": "burung langsing ini mempunyai ekor yang lebih langsing hampir sepanjang badannya, berwarna hitam dengan lingkaran putih."
+        },
+        {
+          "english": "this bird has a long black tail with white spots, gray wings and light gray body.",
+          "indo": "burung ini memiliki ekor panjang berwarna hitam dengan bintik putih, sayap berwarna abu-abu, dan badan berwarna abu-abu muda."
+        },
+        {
+          "english": "this small bird has a white chest and neck, with brown wings and a black and white tail.",
+          "indo": "burung kecil ini memiliki dada dan leher berwarna putih, sayap berwarna coklat, dan ekor berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a white throat and belly and brown wings.",
+          "indo": "burung ini memiliki tenggorokan dan perut berwarna putih serta sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a small head, a short pointy beak, a long spotted tail, short feet, and a brown wing.",
+          "indo": "burung ini mempunyai kepala kecil, paruh pendek runcing, ekor bintik panjang, kaki pendek, dan sayap berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0027_26360.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a brown belly and a black and white dotted tail.",
+          "indo": "burung itu memiliki perut berwarna coklat dan ekor bertitik hitam putih."
+        },
+        {
+          "english": "this bird is light orange, black, and white in color with a black and orange beak and black eye rings.",
+          "indo": "burung ini berwarna jingga muda, hitam, dan putih dengan paruh berwarna hitam jingga serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has black inner and outer rectrices with large white spots in a pattern going down with a yellow belly and a grey head.",
+          "indo": "Burung ini mempunyai bentuk inner dan outer rectrices berwarna hitam dengan bintik-bintik putih besar berpola turun dengan perut berwarna kuning dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a yellow breast and black tail feathers with white tips.",
+          "indo": "burung ini memiliki dada berwarna kuning dan bulu ekor berwarna hitam dengan ujung berwarna putih."
+        },
+        {
+          "english": "this beautiful bird has an orange breast, a colored bill which is orange and gray, and the wingbars are blue.",
+          "indo": "burung cantik ini mempunyai dada berwarna jingga, paruh berwarna jingga dan abu-abu, serta garis sayap berwarna biru."
+        },
+        {
+          "english": "this colorful bird has an interesting pattern on its tailfeathers, and a yellow bely.",
+          "indo": "burung berwarna-warni ini memiliki pola menarik pada bulu ekornya, dan perutnya berwarna kuning."
+        },
+        {
+          "english": "the spotted tail plumage of this bird seems out of place with its gray feathered back and head and its peach colored breast.",
+          "indo": "bulu ekor berbintik burung ini tampak tidak pada tempatnya dengan punggung dan kepala berbulu abu-abu serta dada berwarna persik."
+        },
+        {
+          "english": "this colorful bird has white polka dots on his tail feathers and has an orange breast, belly and abdomen with gray/brown wings and crown.",
+          "indo": "burung berwarna-warni ini memiliki bintik-bintik putih pada bulu ekornya dan memiliki dada, perut dan perut berwarna oranye dengan sayap dan mahkota berwarna abu-abu/coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and white and orange",
+          "indo": "burung ini memiliki perut berwarna coklat dan putih serta oranye"
+        },
+        {
+          "english": "this bird has wings that are grey and has a spotted tail",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai ekor yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0028_26358.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a light brown belly and breast with a darker gray crest and back.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda dengan jambul dan punggung berwarna abu-abu tua."
+        },
+        {
+          "english": "a small bird with a brown crown, neck and nape, and a light tan covering its throat, belly and breast.",
+          "indo": "seekor burung kecil dengan mahkota, leher dan tengkuk berwarna coklat, dan warna coklat muda menutupi tenggorokan, perut dan dadanya."
+        },
+        {
+          "english": "this is a bird with an orange belly, grey back and head and pointy beak.",
+          "indo": "ini adalah burung dengan perut oranye, punggung dan kepala berwarna abu-abu, serta paruh runcing."
+        },
+        {
+          "english": "this bird has a light tan, almost orange belly, while the top of its head down the back of it is a light gray.",
+          "indo": "burung ini mempunyai perut berwarna coklat muda hampir jingga, sedangkan bagian atas kepala hingga punggung berwarna abu-abu muda."
+        },
+        {
+          "english": "this small bird has a grey crown and wings and a golden belly.",
+          "indo": "burung kecil ini memiliki mahkota dan sayap berwarna abu-abu serta perut berwarna emas."
+        },
+        {
+          "english": "a bird with a tan and orange underbelly, and small curved beak.",
+          "indo": "seekor burung dengan perut berwarna coklat kecokelatan dan oranye, serta paruh kecil yang melengkung."
+        },
+        {
+          "english": "this bird is brown with tan and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kecokelatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a grey crown and wings but a white throat and belly.",
+          "indo": "burung ini memiliki mahkota dan sayap berwarna abu-abu tetapi tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a curved beak and orange eye ring with pink throat and belly.",
+          "indo": "burung ini memiliki paruh melengkung dan cincin mata berwarna oranye dengan tenggorokan dan perut berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0029_794624.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a gray back wings tail and head he has black eyeings a white neck and brest",
+          "indo": "burung ini memiliki sayap belakang berwarna abu-abu, ekor dan kepala, ia memiliki mata hitam, leher dan dada berwarna putih"
+        },
+        {
+          "english": "this is a black bird with a white throat and a pointy black beak.",
+          "indo": "ini adalah burung hitam dengan tenggorokan putih dan paruh hitam runcing."
+        },
+        {
+          "english": "small bird with white throat, black nape and beak with white belly as well and black wings",
+          "indo": "burung kecil dengan tenggorokan putih, tengkuk dan paruh hitam, perut putih dan sayap hitam"
+        },
+        {
+          "english": "this bird is grey with white on its neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih pada bagian lehernya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this grayish taupe bird has a white chin and neck and black head and beak.",
+          "indo": "burung kelabu tua keabu-abuan ini memiliki dagu dan leher berwarna putih serta kepala dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white throat",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "this is a gray bird with a dark gray head and a white throat, breast and belly.",
+          "indo": "ini adalah burung berwarna abu-abu dengan kepala abu-abu tua dan tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a white throat and black crown.",
+          "indo": "seekor burung kecil dengan tenggorokan putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a brown crown, back and wings, with a creamy white throat.",
+          "indo": "burung ini memiliki mahkota, punggung dan sayap berwarna coklat, dengan tenggorokan berwarna putih krem."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0030_26350.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "long yellow and black downward curved beak on yellow and black feather covered bird.",
+          "indo": "paruh panjang berwarna kuning dan hitam melengkung ke bawah pada burung yang ditutupi bulu berwarna kuning dan hitam."
+        },
+        {
+          "english": "small bird with black crown, beak is grey and yellow and curved at the end, throat, breast, belly and abdomen are yellow and white color.",
+          "indo": "burung kecil bermahkota hitam, paruh berwarna abu-abu kuning dan ujungnya melengkung, tenggorokan, dada, perut dan perut berwarna kuning putih."
+        },
+        {
+          "english": "this is a bird with a yellow breast, gray head and a downward pointing beak.",
+          "indo": "ini adalah burung dengan dada kuning, kepala abu-abu dan paruh mengarah ke bawah."
+        },
+        {
+          "english": "taupe bellied black crowned bird, with yellow and black bill.",
+          "indo": "Burung bermahkota hitam berperut kelabu tua, dengan paruh kuning dan hitam."
+        },
+        {
+          "english": "the bill of this small, sleek bird is slightly curved with a very sharp point.",
+          "indo": "paruh burung kecil ramping ini agak melengkung dengan ujung yang sangat tajam."
+        },
+        {
+          "english": "this bird is dark gray with a yellow belly and yellow ring in its eye, the beak is pointy and curved downwards.",
+          "indo": "burung ini berwarna abu-abu tua dengan perut berwarna kuning dan mata berbentuk lingkaran kuning, paruhnya runcing dan melengkung ke bawah."
+        },
+        {
+          "english": "a large bird with a white and black colored feathers.",
+          "indo": "seekor burung besar dengan bulu berwarna putih dan hitam."
+        },
+        {
+          "english": "this bird has a brown belly, black wings, a pointy brown crown and small head.",
+          "indo": "burung ini memiliki perut berwarna coklat, sayap hitam, mahkota coklat runcing dan kepala kecil."
+        },
+        {
+          "english": "a small bird with a curved bill, black eyes, and a gray crown.",
+          "indo": "seekor burung kecil dengan paruh melengkung, mata hitam, dan mahkota abu-abu."
+        },
+        {
+          "english": "this bird has a dark grey crown, a yellow breast and belly, and a black eye with a small yellow ring.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu tua, dada dan perut berwarna kuning, serta mata berwarna hitam dengan cincin kecil berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0031_26401.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird is yellow on the bottom half of its bill all the way to his throat, and breast, top half is green.",
+          "indo": "burung ini berwarna kuning pada paruh bawah sampai ke tenggorokan, dan dada, paruh atas berwarna hijau."
+        },
+        {
+          "english": "normal sized bird with a dark superciliary, brown wing bar and crown that's on top of it's slightly yellow belly.",
+          "indo": "burung berukuran normal dengan superciliary gelap, garis sayap berwarna coklat dan mahkota di atas perutnya agak kuning."
+        },
+        {
+          "english": "the birds beak is hooked, belly is orange, the eyering is black, and the wing and tail is brown and white and black streaked.",
+          "indo": "burung paruhnya bengkok, perutnya berwarna jingga, matanya berwarna hitam, dan sayap serta ekornya berwarna coklat bergaris putih dan hitam."
+        },
+        {
+          "english": "small bird with curved black and yellow bill with light yellow belly and brown head and wings.",
+          "indo": "burung kecil dengan paruh melengkung berwarna hitam kuning dengan perut kuning muda serta kepala dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a yellow breast and throat and a gray wing and head.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna kuning serta sayap dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "a long narrow bird with sunset yell breast and khaki colored back.",
+          "indo": "seekor burung panjang dan sempit dengan dada teriakan matahari terbenam dan punggung berwarna khaki."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has brown primaries, a brown crown, and a yellow belly.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat, mahkota berwarna coklat, dan perut berwarna kuning."
+        },
+        {
+          "english": "a brown bird with a yellow belly and breast",
+          "indo": "seekor burung coklat dengan perut dan dada kuning"
+        },
+        {
+          "english": "a yellow breasted and green back feathered bird",
+          "indo": "burung berbulu dada kuning dan punggung hijau"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0032_794603.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a golden belly, white eyerings, grey spotted secondaries and a slightly curved beak.",
+          "indo": "burung ini mempunyai perut berwarna emas, cincin mata berwarna putih, bulu sekunder berbintik abu-abu dan paruh agak melengkung."
+        },
+        {
+          "english": "this is a gray bird with light orange throat, breast, belly and undertail coverts.",
+          "indo": "ini adalah burung abu-abu dengan bulu tenggorokan, dada, perut dan ekor berwarna oranye muda."
+        },
+        {
+          "english": "a medium sized bird with a orange breast and long bill that curves downwards",
+          "indo": "burung berukuran sedang dengan dada berwarna oranye dan paruh panjang melengkung ke bawah"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has gray wings, a grey and white tail, and a pale orange throat, breast and belly.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu, ekor berwarna abu-abu putih, serta tenggorokan, dada, dan perut berwarna jingga pucat."
+        },
+        {
+          "english": "this small bird has a hooked beak and grey and brown feathers.",
+          "indo": "burung kecil ini memiliki paruh bengkok dan bulu berwarna abu-abu dan coklat."
+        },
+        {
+          "english": "a small bird with a light orange belly, breast, and throat with a black head and wings.",
+          "indo": "seekor burung kecil dengan perut, dada, dan tenggorokan berwarna oranye muda dengan kepala dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has a striped black and white inner and outer rectrices, an orange and cream belly and vent and a yellow eye ring.",
+          "indo": "burung ini memiliki rectrices inner dan outer rectrices bergaris hitam putih, perut dan lubang berwarna oranye dan krem, serta cincin mata berwarna kuning."
+        },
+        {
+          "english": "small bird with sharp pointed beak, yellow eyering, brownish orange throat and belly, grey back and feathers.",
+          "indo": "burung kecil dengan paruh runcing runcing, cincin mata berwarna kuning, tenggorokan dan perut berwarna jingga kecoklatan, punggung dan bulu berwarna abu-abu."
+        },
+        {
+          "english": "this gray bird has a light brown--almost orange--underside and white spots on its rectrices.",
+          "indo": "burung abu-abu ini memiliki bagian bawah berwarna coklat muda--hampir oranye--dan bintik-bintik putih pada rectrices nya."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0033_26359.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a small bird with a greyish-brown back and wings and a white throat and breast, and a small beak.",
+          "indo": "seekor burung kecil dengan punggung dan sayap berwarna coklat keabu-abuan, tenggorokan dan dada berwarna putih, serta paruh kecil."
+        },
+        {
+          "english": "a small gray bird with gray wings, small black eyes, and a gray bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sayap abu-abu, mata hitam kecil, dan paruh abu-abu."
+        },
+        {
+          "english": "the bird is completely gray, except for the eyes and the bill.",
+          "indo": "burung itu seluruhnya berwarna abu-abu, kecuali mata dan paruhnya."
+        },
+        {
+          "english": "a small yet tall bird that has a gray overall body.",
+          "indo": "seekor burung kecil namun tinggi yang memiliki keseluruhan tubuh berwarna abu-abu."
+        },
+        {
+          "english": "this bird is grey all over, has chunky coverts, an orange eyering, and white breast.",
+          "indo": "burung ini seluruhnya berwarna abu-abu, memiliki bulu yang tebal, cincin mata berwarna oranye, dan dada berwarna putih."
+        },
+        {
+          "english": "a small grey bird with like colors thru out its body, darker grey around the eye, and a small pointed beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan warna serupa di seluruh tubuhnya, abu-abu lebih gelap di sekitar mata, dan paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird has a grey back, curved grey bill and a black eyering.",
+          "indo": "burung itu memiliki punggung berwarna abu-abu, paruh abu-abu melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird is small and grey with small grey pointed, curved bill and grey feathers that layer at base of throat.",
+          "indo": "burung ini berukuran kecil berwarna abu-abu dengan paruh kecil berwarna abu-abu runcing, melengkung, dan bulu berwarna abu-abu yang melapisi pangkal tenggorokan."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white patches",
+          "indo": "Burung ini mempunyai perut berwarna abu-abu dan bercak putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0034_26415.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a bird with a moderately long beak, yellow breast, gray wings, and black round the eyes.",
+          "indo": "burung dengan paruh agak panjang, dada kuning, sayap abu-abu, dan mata bulat hitam."
+        },
+        {
+          "english": "this is a bird with a yellow belly, grey back and a black head.",
+          "indo": "ini adalah burung dengan perut kuning, punggung abu-abu dan kepala hitam."
+        },
+        {
+          "english": "a medium sized bird with a bill that downwards and a orange breast",
+          "indo": "burung berukuran sedang dengan paruh menghadap ke bawah dan dada berwarna oranye"
+        },
+        {
+          "english": "the yellow bellied bird has a long tail and orange bill.",
+          "indo": "burung perut kuning memiliki ekor yang panjang dan paruh berwarna jingga."
+        },
+        {
+          "english": "small to medium orange brown white and black bird with medium orange and black beak",
+          "indo": "burung putih dan hitam coklat jingga sedang hingga sedang dengan paruh jingga sedang dan hitam"
+        },
+        {
+          "english": "this bird has brown feathers covering its head, secondaries and coverts, white and black on its inner and outer rectrices, and a yellow throat.",
+          "indo": "burung ini memiliki bulu berwarna coklat menutupi kepalanya, bulu sekunder dan bulunya, berwarna putih dan hitam pada bagian dalam dan outer rectrices, serta tenggorokan berwarna kuning."
+        },
+        {
+          "english": "this bird is grey with tan and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a bronze belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna perunggu"
+        },
+        {
+          "english": "this small bird is covered in mostly yellow and brown feathers with a short, curved beak.",
+          "indo": "burung kecil ini sebagian besar ditutupi bulu berwarna kuning dan coklat dengan paruh pendek melengkung."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0035_794595.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird is white underneath with gray wings and head he has black eyering and white circles on his undertail coverts",
+          "indo": "burung ini bagian bawahnya berwarna putih dengan sayap dan kepala berwarna abu-abu, matanya berwarna hitam dan lingkaran putih pada bulu penutup bagian bawahnya"
+        },
+        {
+          "english": "this bird has a short curved bill, a white throat and breast, and a black eyebrow.",
+          "indo": "burung ini memiliki paruh pendek melengkung, tenggorokan dan dada berwarna putih, serta alis berwarna hitam."
+        },
+        {
+          "english": "this bird has a white crown, throat and breast, a black eyering and face, and brown secondaries and coverts, with black feathers and white spotted rectrices",
+          "indo": "burung ini memiliki mahkota, tenggorokan dan dada berwarna putih, cincin mata dan wajah berwarna hitam, serta bulu dan bulu sekunder berwarna coklat, dengan bulu hitam dan rectrices berbintik putih."
+        },
+        {
+          "english": "the bird has a black band across his eyes and black wings as well, while the belly, breast, and neck are white.",
+          "indo": "burung ini memiliki pita hitam di matanya dan juga sayapnya yang hitam, sedangkan perut, dada, dan lehernya berwarna putih."
+        },
+        {
+          "english": "the bird has a white and tan belly and neck with black spotted wings, tail and head.",
+          "indo": "burung ini memiliki perut dan leher berwarna putih kecokelatan dengan sayap, ekor, dan kepala berbintik hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a somewhat long, curved beak leading into some dark coloration around the eyes as well as a yellow belly leading to dark colored tail feathers with white spots.",
+          "indo": "paruh agak panjang melengkung yang menyebabkan warna gelap di sekitar mata serta perut kuning yang menyebabkan bulu ekor berwarna gelap dengan bintik-bintik putih."
+        },
+        {
+          "english": "this bird has black wings and a spotted tail and a short orange and black beak.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dan ekor berbintik serta paruh pendek berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird has a yellow crown, brown primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna kuning, bulu primer berwarna coklat, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0036_794606.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a large bill with yellow eyes and a milky yellow breast",
+          "indo": "burung ini memiliki paruh besar dengan mata kuning dan dada berwarna kuning susu"
+        },
+        {
+          "english": "this bird has black eyepatch with yellow throat and breast as well as dark brown coverts.",
+          "indo": "burung ini memiliki bulu penutup mata berwarna hitam dengan tenggorokan dan dada berwarna kuning serta bulu berwarna coklat tua."
+        },
+        {
+          "english": "this bird is a flat grey color with a black band over its eyes.",
+          "indo": "burung ini berwarna abu-abu pipih dengan pita hitam di atas matanya."
+        },
+        {
+          "english": "this is a grey bird with a white throat, a black eyebrow and an orange beak.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan putih, alis hitam dan paruh oranye."
+        },
+        {
+          "english": "a small bird with a very long tail in comparison to the rest of its body.",
+          "indo": "seekor burung kecil dengan ekor yang sangat panjang dibandingkan dengan bagian tubuhnya yang lain."
+        },
+        {
+          "english": "this bird is grey with whtie and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has brown primaries with a brown crown and black beak.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat dengan mahkota berwarna coklat dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is gray and white in color, with a curved beak.",
+          "indo": "burung ini berwarna abu-abu putih, dengan paruh melengkung."
+        },
+        {
+          "english": "a small bird with a uniformly brown back, wings, tail, and crown, a cream-toned breast and throat, and a black cheek-patch has an orange lower bill and a black upper bill that is slightly curved downward.",
+          "indo": "seekor burung kecil dengan punggung, sayap, ekor, dan mahkota berwarna coklat seragam, dada dan tenggorokan berwarna krem, dan penutup pipi berwarna hitam dengan paruh bawah berwarna oranye dan paruh atas berwarna hitam yang sedikit melengkung ke bawah."
+        },
+        {
+          "english": "this bird is gray and white in color, and has a curved beak.",
+          "indo": "burung ini berwarna abu-abu putih, dan mempunyai paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0037_26389.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a small sized bird that has grey feathers and a medium sized stout bill",
+          "indo": "burung berukuran kecil yang memiliki bulu berwarna abu-abu dan paruh kokoh berukuran sedang"
+        },
+        {
+          "english": "a small bird with a grey crown, and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan mahkota berwarna abu-abu, dan paruh yang melengkung ke bawah"
+        },
+        {
+          "english": "this bird is grey in color, with ablack beak and a black eye ring.",
+          "indo": "burung ini berwarna abu-abu, dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is black and white in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has round black eyes and a long black bill",
+          "indo": "burung ini mempunyai mata hitam bulat dan paruh hitam panjang"
+        },
+        {
+          "english": "this bird is black and gray in color, with a curved beak.",
+          "indo": "burung ini berwarna hitam abu-abu, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird has round black eyes and a black bill",
+          "indo": "burung ini mempunyai mata bulat berwarna hitam dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird appears in the photo with just his head but has an orange and black bill with a black crown and white neck.",
+          "indo": "burung ini muncul di foto hanya dengan kepala tetapi memiliki paruh berwarna oranye dan hitam dengan mahkota hitam dan leher putih."
+        },
+        {
+          "english": "this bird has a downward-curving bill, a grey head, and a black eyering.",
+          "indo": "burung ini memiliki paruh melengkung ke bawah, kepala berwarna abu-abu, dan cincin mata berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0038_794600.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has a gray crown and wings, and a brown flank. the breast is an off white brown mix. the beak is black on top and yellow on the bottom.",
+          "indo": "burung ini memiliki mahkota dan sayap berwarna abu-abu, serta panggul berwarna coklat. payudaranya berwarna campuran coklat putih pucat. paruhnya berwarna hitam di bagian atas dan kuning di bagian bawah."
+        },
+        {
+          "english": "a colorful bird that is brown, black and white with a downward curving beak.",
+          "indo": "burung berwarna-warni berwarna coklat, hitam dan putih dengan paruh melengkung ke bawah."
+        },
+        {
+          "english": "a small black bird with a white belly and tan rump.",
+          "indo": "seekor burung hitam kecil dengan perut putih dan pantat berwarna coklat."
+        },
+        {
+          "english": "this bird has a black eye band and a sharp curved bill with a white breast and dark wings.",
+          "indo": "burung ini memiliki pita mata berwarna hitam dan paruh melengkung tajam dengan dada berwarna putih dan sayap berwarna gelap."
+        },
+        {
+          "english": "the small bird has a yellow belly, white breast, and black top, eyes, and beak.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning, dada berwarna putih, dan bagian atas, mata, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a black and gray crown along with an orange,gray, and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam abu-abu serta perut berwarna jingga, abu-abu, dan putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is gray, white, and brown in color, with a black curved beak.",
+          "indo": "burung ini berwarna abu-abu, putih, dan coklat, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0039_26348.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this interesting bird has an orange belly and breast with white spots on the underside of its black tail.",
+          "indo": "burung menarik ini memiliki perut dan dada berwarna oranye dengan bintik-bintik putih di bagian bawah ekornya yang berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with a bill that curves downwards and a orange breast",
+          "indo": "burung berukuran sedang dengan paruh melengkung ke bawah dan dada berwarna oranye"
+        },
+        {
+          "english": "a bird with a yellow-green belly, black cheekpatch, black and yellow bill, and black rectrices with six circular white patterned feathers.",
+          "indo": "burung dengan perut kuning kehijauan, penutup pipi hitam, paruh hitam kuning, dan rectrices  hitam dengan enam bulu melingkar bermotif putih."
+        },
+        {
+          "english": "around bird with a brown belly, and white polka dotted tail.",
+          "indo": "sekeliling burung dengan perut coklat, dan ekor polkadot putih."
+        },
+        {
+          "english": "whitish orange belly and breast with black crown and big white polka dot spots on black tail.",
+          "indo": "perut dan dada berwarna oranye keputihan dengan mahkota hitam dan bintik polkadot putih besar di ekor hitam."
+        },
+        {
+          "english": "this bird has an orangish brown belly and a black tail that has white dots.",
+          "indo": "burung ini memiliki perut berwarna coklat jingga dan ekor berwarna hitam dengan bintik-bintik putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a spotted tail",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai ekor yang berbintik"
+        },
+        {
+          "english": "a long bird with orange breast and a tail that is black with white shell shape designs.",
+          "indo": "burung panjang dengan dada berwarna jingga dan ekor berwarna hitam dengan desain bentuk cangkang berwarna putih."
+        },
+        {
+          "english": "the bird has outer rectrices that have white dots and a brown belly.",
+          "indo": "burung ini memiliki outer rectrices yang memiliki titik-titik putih dan perut berwarna coklat."
+        },
+        {
+          "english": "a small bird with a brown belly and brown breast with a short black beak.",
+          "indo": "seekor burung kecil dengan perut berwarna coklat dan dada berwarna coklat dengan paruh pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0040_26378.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "medoum sized bird with white belly feathers and black wing feathers",
+          "indo": "burung berukuran sedang dengan bulu perut berwarna putih dan bulu sayap berwarna hitam"
+        },
+        {
+          "english": "this colorful bird has an orange belly and a croon shaped beak",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna oranye dan paruh berbentuk croon"
+        },
+        {
+          "english": "a small bird with black upper bill and mauve lower bill with mauve breast and belly.",
+          "indo": "seekor burung kecil dengan paruh atas berwarna hitam dan paruh bawah berwarna ungu muda dengan dada dan perut berwarna ungu muda."
+        },
+        {
+          "english": "this bird has a black neck all the way up to its head but its belly is yellow",
+          "indo": "Burung ini memiliki leher berwarna hitam hingga kepala, namun perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a peach underbelly and gray wings.",
+          "indo": "seekor burung kecil dengan perut buah persik dan sayap abu-abu."
+        },
+        {
+          "english": "the bird has a long white breast, black crown, and curved black bill.",
+          "indo": "burung ini memiliki dada panjang berwarna putih, mahkota berwarna hitam, dan paruh hitam melengkung."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this is a yellow orange bird with dark wings, tail feathers and dark head with a small curved beak.",
+          "indo": "ini adalah burung berwarna kuning jingga dengan sayap gelap, bulu ekor dan kepala berwarna gelap dengan paruh kecil melengkung."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0041_26370.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a sleek bird with pale yellow belly and throat, grey wings, a long black and white tail and a yellow eyering.",
+          "indo": "burung ramping dengan perut dan tenggorokan kuning pucat, sayap abu-abu, ekor panjang hitam putih, dan cincin mata kuning."
+        },
+        {
+          "english": "this is a bird with a yellow belly, gray wings and a pointy beak.",
+          "indo": "ini adalah burung dengan perut kuning, sayap abu-abu dan paruh runcing."
+        },
+        {
+          "english": "small bird with long tail, secondaries and tail is brown, throat is white, beak is small, curved and yellow and brown color.",
+          "indo": "burung kecil berekor panjang, bulu sekunder dan ekor berwarna coklat, tenggorokan berwarna putih, paruh kecil melengkung dan berwarna kuning coklat."
+        },
+        {
+          "english": "the bird has a light yellow throat, breast, belly and abdomen with the rest of its body in brown color.",
+          "indo": "burung ini memiliki tenggorokan, dada, perut, dan perut berwarna kuning muda dengan seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "a yellowish brown belly on this bird. brownish black secondaries on this bird. a brown side and a black eyering",
+          "indo": "perut berwarna coklat kekuningan pada burung ini. bulu sekunder berwarna hitam kecoklatan pada burung ini. sisi coklat dan cincin mata hitam"
+        },
+        {
+          "english": "this bird has a yellow underbelly and small beak, which is curved downward.",
+          "indo": "burung ini memiliki perut berwarna kuning dan paruh kecil yang melengkung ke bawah."
+        },
+        {
+          "english": "this bird has a narrow bill, a white throat and breast and grey coverts, wingbars, and secondaries.",
+          "indo": "burung ini memiliki paruh yang sempit, tenggorokan dan dada berwarna putih serta bulu berwarna abu-abu, garis sayap, dan bulu sekunder."
+        },
+        {
+          "english": "bird with brown wings, a white throat and breast, and a black and yellow beak that curves at the end.",
+          "indo": "burung bersayap coklat, tenggorokan dan dada berwarna putih, serta paruh berwarna hitam kuning yang ujungnya melengkung."
+        },
+        {
+          "english": "this bird has a very short neck and grey wings with a white belly and breast.",
+          "indo": "burung ini memiliki leher yang sangat pendek dan sayap berwarna abu-abu dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0042_794628.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a small bird wiwth a white belly, and a grey topside with a small orange beak.",
+          "indo": "seekor burung kecil dengan perut berwarna putih, dan bagian atas berwarna abu-abu dengan paruh kecil berwarna oranye."
+        },
+        {
+          "english": "a bird with black crown, white throat, belly and breast, the bill is long and pointed",
+          "indo": "burung bermahkota hitam, tenggorokan putih, perut dan dada, paruh panjang dan runcing"
+        },
+        {
+          "english": "this is a bird with a white breast and a grey head with a pointed beak.",
+          "indo": "ini adalah burung dengan dada putih dan kepala abu-abu dengan paruh runcing."
+        },
+        {
+          "english": "this is a big bird with a light colored belly and gray wings, the beak is short and light colored.",
+          "indo": "Ini adalah burung besar dengan perut berwarna terang dan sayap abu-abu, paruhnya pendek dan berwarna terang."
+        },
+        {
+          "english": "this bird has a grey head, a grey and orange bill, and a white throat",
+          "indo": "burung ini memiliki kepala berwarna abu-abu, paruh berwarna abu-abu dan oranye, serta tenggorokan berwarna putih"
+        },
+        {
+          "english": "this bird has a yellow eye ring, charcoal grey head, back and wings, and a white covering its throat with a splash of light yellow over its belly.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning, kepala, punggung dan sayap berwarna abu-abu arang, serta warna putih menutupi tenggorokannya dengan percikan kuning muda di perutnya."
+        },
+        {
+          "english": "a bird with white belly and breast and black crown and the bill is black and pointed",
+          "indo": "burung dengan perut dan dada berwarna putih, mahkota berwarna hitam, dan paruhnya berwarna hitam dan runcing"
+        },
+        {
+          "english": "a gray colored bird with white breast and beak with orange underneath.",
+          "indo": "burung berwarna abu-abu dengan dada putih dan paruh dengan warna oranye di bawahnya."
+        },
+        {
+          "english": "this bird is white with blackand has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black and orange pointed bill, with a white breast.",
+          "indo": "Burung ini mempunyai paruh runcing berwarna hitam jingga, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0043_794605.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this short bodied bird with a small head and curved bill, has long rectrices of white and black color.",
+          "indo": "Burung bertubuh pendek dengan kepala kecil dan paruh melengkung ini memiliki rectrices  yang panjang berwarna putih dan hitam."
+        },
+        {
+          "english": "the bird has a white puffy chest, a gray crown, and gray wings.",
+          "indo": "burung itu memiliki dada menggembung berwarna putih, mahkota berwarna abu-abu, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a mangrove cuckoo with yellow throat, breast and belly, brown wings and brown tail spotted with white.",
+          "indo": "burung kukuk bakau dengan tenggorokan kuning, dada dan perut, sayap coklat dan ekor coklat berbintik putih."
+        },
+        {
+          "english": "the bird has a fluffy light tan belly, with a brown back, long tail feathers that have white slabs down them.",
+          "indo": "burung ini memiliki perut berbulu halus berwarna coklat muda, dengan punggung berwarna coklat, bulu ekor panjang dengan lapisan putih di bawahnya."
+        },
+        {
+          "english": "this bird has long black rectrices with white spots,as well as a yellow breast,and a average curved beak.",
+          "indo": "Burung ini mempunyai rectrices  yang panjang berwarna hitam dengan bintik-bintik putih, dada berwarna kuning, dan paruh rata-rata melengkung."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are gray and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "a large white and brown belly with grey wings and back this bird has a small head with a long narrow black beak.",
+          "indo": "perut besar berwarna putih coklat dengan sayap abu-abu dan punggung burung ini memiliki kepala kecil dengan paruh panjang dan sempit berwarna hitam."
+        },
+        {
+          "english": "this bird has a pointed bill, with a light brown breast.",
+          "indo": "burung ini memiliki paruh yang runcing, dengan dada berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0044_26393.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "the bird has a small curved vill and a fanned black tail with white tips.",
+          "indo": "burung ini memiliki vili kecil yang melengkung dan ekor hitam yang mengipasi dengan ujung berwarna putih."
+        },
+        {
+          "english": "this small bird with a downward pointing bill has a light orange breast with a black crown and black tail feathers with white tips.",
+          "indo": "Burung kecil dengan paruh mengarah ke bawah ini memiliki dada berwarna jingga muda dengan mahkota berwarna hitam dan bulu ekor berwarna hitam dengan ujung berwarna putih."
+        },
+        {
+          "english": "this is a yellow bird with black wings and a black crown on its head.",
+          "indo": "ini adalah burung kuning dengan sayap hitam dan mahkota hitam di kepalanya."
+        },
+        {
+          "english": "this bird is white and black in color with a skinny beak, and black eye rings.",
+          "indo": "burung ini berwarna putih kehitaman dengan paruh kurus, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with black on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan punggung berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with a bright yellow belly and black and white on the rest of its body.",
+          "indo": "seekor burung dengan perut berwarna kuning cerah dan seluruh tubuhnya berwarna hitam putih."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a curved beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh melengkung."
+        },
+        {
+          "english": "a small bird with a yellow belly and long, pointed beak.",
+          "indo": "seekor burung kecil dengan perut kuning dan paruh panjang runcing."
+        },
+        {
+          "english": "this bird has a yellow belly with a yellow beak and a black crown.",
+          "indo": "burung ini memiliki perut berwarna kuning dengan paruh berwarna kuning dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0045_794612.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird has light gray wingbars with a off white breast, side, and belly.",
+          "indo": "burung ini memiliki garis sayap berwarna abu-abu muda dengan bagian dada, samping, dan perut berwarna putih pucat."
+        },
+        {
+          "english": "the bird has light yellow colored abdomen and side with grey colored crown and coverts.",
+          "indo": "burung ini memiliki perut dan sisi berwarna kuning muda dengan mahkota dan bulu berwarna abu-abu."
+        },
+        {
+          "english": "birds beak is black flat and short head is grey belly is tan back is and and tail is brown feet are short.",
+          "indo": "Paruh burung berwarna hitam rata dan kepala pendek berwarna abu-abu, perut berwarna coklat, punggung berwarna coklat dan ekor berwarna coklat, kaki pendek."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a darker crown and hooked bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna lebih gelap dan paruh bengkok."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium sized bird with a bill that curves downwards, and a long tail",
+          "indo": "burung berukuran sedang dengan paruh melengkung ke bawah, dan ekor panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the small bird has a gray back, and a beige belly with a long, flat tail.",
+          "indo": "burung kecil itu memiliki punggung berwarna abu-abu, dan perut berwarna krem ​​​​dengan ekor yang panjang dan rata."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0046_794616.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this bird is mostly gray with a yellow belly. breast, and bottom part of the bill.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan perut berwarna kuning. dada, dan bagian bawah paruh."
+        },
+        {
+          "english": "this bird has two toned, the under parts are yellow and the upper parts are grey. the beak is long and curved down, the upper mandible is grey and the lower mandible is orange.",
+          "indo": "Burung ini memiliki dua warna, bagian bawah berwarna kuning dan bagian atas berwarna abu-abu. paruhnya panjang dan melengkung ke bawah, mandibula atas berwarna abu-abu dan mandibula bawah berwarna oranye."
+        },
+        {
+          "english": "this bird has a large, gray, curved bill, a light brown eyering, and a orange and white throat, breast, and belly.",
+          "indo": "burung ini memiliki paruh besar berwarna abu-abu, melengkung, cincin mata berwarna coklat muda, serta tenggorokan, dada, dan perut berwarna oranye dan putih."
+        },
+        {
+          "english": "this bird is white with grey on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan punggung berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has two distinct colors; gray wingbars, secondaries, and rectrices with a cream colored chest, neck, and vent and a long dark beak that is yellow underneath.",
+          "indo": "burung ini memiliki dua warna berbeda; garis sayap abu-abu, bulu sekunder, dan rectrices  dengan dada, leher, dan lubang kloaka berwarna krem ​​​​dan paruh panjang berwarna gelap yang berwarna kuning di bawahnya."
+        },
+        {
+          "english": "this gray bird has a yellow underside and its beak is half gray, half yellow.",
+          "indo": "burung abu-abu ini memiliki bagian bawah berwarna kuning dan paruhnya setengah abu-abu, setengah kuning."
+        },
+        {
+          "english": "the back of the bird is dark gray and its belly is light orange.",
+          "indo": "punggung burung berwarna abu-abu tua dan perutnya berwarna oranye muda."
+        },
+        {
+          "english": "a small bird with a light orange belly, breast, and throat along with a dark grey crown, wings, and feet.",
+          "indo": "seekor burung kecil dengan perut, dada, dan tenggorokan berwarna oranye terang serta mahkota, sayap, dan kaki berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has a light orange body with great wings and had it has a black speak on top and a yellow beak on bottom",
+          "indo": "Burung ini mempunyai tubuh berwarna jingga muda dengan sayap yang besar dan memiliki jeruji hitam di bagian atas dan paruh kuning di bagian bawah"
+        },
+        {
+          "english": "a bird with a slightly brown back, head and wings and a light yellow abdomen, belly and breast.",
+          "indo": "seekor burung dengan punggung, kepala dan sayap agak coklat serta perut, perut dan dada berwarna kuning muda."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0047_794604.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this small bird has extra long tail feathers that are different shades of blue and has a tan/white belly and a bill that has dark blue on the top and yellow on the bottom.",
+          "indo": "Burung kecil ini memiliki bulu ekor ekstra panjang dengan corak warna biru yang berbeda-beda, perut berwarna coklat/putih, serta paruh berwarna biru tua di bagian atas dan kuning di bagian bawah."
+        },
+        {
+          "english": "the bird has a slight brown and white belly, with a colorful long blue tail with black stripes",
+          "indo": "burung ini memiliki perut agak coklat dan putih, dengan ekor panjang berwarna biru dengan garis-garis hitam"
+        },
+        {
+          "english": "this is a bird with a brown breast, blue wings and a black downward pointing beak.",
+          "indo": "ini adalah burung dengan dada berwarna coklat, sayap biru dan paruh hitam mengarah ke bawah."
+        },
+        {
+          "english": "the bird has a yellow belly, gray wings and head with a spotted tail.",
+          "indo": "burung itu memiliki perut kuning, sayap abu-abu dan kepala dengan ekor berbintik."
+        },
+        {
+          "english": "a bird with a grey head, the bill is short and curved, with a cream belly and breast",
+          "indo": "burung berkepala abu-abu, paruh pendek dan melengkung, dengan perut dan dada berwarna krem"
+        },
+        {
+          "english": "small bird with a crescent bill, grey head, yellowish beast and belly and a long tail with large blue spots",
+          "indo": "burung kecil dengan paruh bulan sabit, kepala berwarna abu-abu, binatang dan perut berwarna kekuningan serta ekor panjang dengan bintik-bintik biru besar"
+        },
+        {
+          "english": "the yellow and white breasted bird has a black tail with white circles on the underside.",
+          "indo": "burung berdada kuning putih mempunyai ekor berwarna hitam dengan lingkaran putih pada bagian bawahnya."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown with white breasts",
+          "indo": "burung ini memiliki perut berwarna coklat kecokelatan dengan dada berwarna putih"
+        },
+        {
+          "english": "this bird has a grey crown as well as a yellow belly and a spotted rump",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, perut berwarna kuning, dan pantat berbintik"
+        },
+        {
+          "english": "a small bird with a brown belly and white neck with a rounded short beak.",
+          "indo": "burung kecil dengan perut coklat dan leher putih dengan paruh pendek membulat."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0048_26351.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "white breast and orange belly with grey wings and a long curved beak.",
+          "indo": "dada putih dan perut oranye dengan sayap abu-abu dan paruh panjang melengkung."
+        },
+        {
+          "english": "a medium bird with a white chest and throat, orange belly, and gray crown and wings.",
+          "indo": "burung berukuran sedang dengan dada dan tenggorokan berwarna putih, perut oranye, serta mahkota dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a yellow belly, white breast and a grey wing.",
+          "indo": "ini adalah burung dengan perut kuning, dada putih dan sayap abu-abu."
+        },
+        {
+          "english": "the bird has a long curved bill that is black and yellow.",
+          "indo": "burung ini memiliki paruh panjang melengkung berwarna hitam dan kuning."
+        },
+        {
+          "english": "this bird is white an grey in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna putih abu-abu dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly and a spotted tail",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu serta mempunyai perut berwarna putih dan ekor yang berbintik"
+        },
+        {
+          "english": "this bird has a brown head, brown secondaries, and a white and brown spotted tail.",
+          "indo": "burung ini memiliki kepala berwarna coklat, bulu sekunder berwarna coklat, dan ekor berbintik putih dan coklat."
+        },
+        {
+          "english": "this bird has a white breast with long grey tail feathers.",
+          "indo": "burung ini memiliki dada berwarna putih dengan bulu ekor panjang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has white breasts with a darkening yellow belly / abdomen, the crown is a bit grey and the beak is black.",
+          "indo": "burung ini mempunyai dada berwarna putih dengan perut/perut berwarna kuning gelap, mahkota agak abu-abu dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has white belly, grey coverts, grey crown and a curved bill.",
+          "indo": "burung ini memiliki perut berwarna putih, bulu berwarna abu-abu, mahkota berwarna abu-abu, dan paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0049_794631.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a small bird with a yellow underside and grey on the top of its body.",
+          "indo": "seekor burung kecil dengan bagian bawah berwarna kuning dan abu-abu di bagian atas tubuhnya."
+        },
+        {
+          "english": "this is a bird with a yellow belly, gray wings and a gray head.",
+          "indo": "ini adalah burung dengan perut kuning, sayap abu-abu, dan kepala abu-abu."
+        },
+        {
+          "english": "a smallish bird whose colors blend in with the trees that has long tail feathers.",
+          "indo": "burung bertubuh kecil yang warnanya menyatu dengan pepohonan dan memiliki bulu ekor yang panjang."
+        },
+        {
+          "english": "there is a slim bird with a very black eyes and a white belly.",
+          "indo": "ada seekor burung ramping dengan mata sangat hitam dan perut putih."
+        },
+        {
+          "english": "a small bird, mostly blue on faint yellow, with very long tail feathers in comparison to it's body.",
+          "indo": "seekor burung kecil, sebagian besar berwarna biru di atas kuning pucat, dengan bulu ekor yang sangat panjang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan badan berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this long tailed bird has a long pointed beak and a white abdomen.",
+          "indo": "Burung berekor panjang ini memiliki paruh panjang yang runcing dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crwon with a white belly and grey secondaries.",
+          "indo": "burung ini mempunyai mahkota berwarna abu-abu dengan perut berwarna putih dan paruh kedua berwarna abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and yellow",
+          "indo": "burung ini memiliki perut berwarna oranye dan kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0050_794594.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a grey bird with a long tail, a white beak and a white chest, throat and lower face.",
+          "indo": "burung berwarna abu-abu dengan ekor panjang, paruh berwarna putih, dada, tenggorokan, dan wajah bagian bawah berwarna putih."
+        },
+        {
+          "english": "this is a grey bird with a white breast and a pointy beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan dada putih dan paruh runcing."
+        },
+        {
+          "english": "the bird is grey with a long tail and short white beak with small head.",
+          "indo": "burung berwarna abu-abu dengan ekor panjang dan paruh pendek berwarna putih dengan kepala kecil."
+        },
+        {
+          "english": "this grey bird has a medium sized, white neck, and a curved white beak.",
+          "indo": "burung berwarna abu-abu ini memiliki ukuran sedang, leher berwarna putih, dan paruh melengkung berwarna putih."
+        },
+        {
+          "english": "this bird is black and white in color with a white curved beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh melengkung berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a white body with gray wings -- this gray extends over the top of the head. its beak is slightly curved downward and pointed.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan sayap berwarna abu-abu -- warna abu-abu ini memanjang hingga bagian atas kepala. paruhnya agak melengkung ke bawah dan runcing."
+        },
+        {
+          "english": "this green bird has a white breast and yellow beak and the head and beak are both small compared to the body of the bird.",
+          "indo": "burung berwarna hijau ini mempunyai dada berwarna putih dan paruh berwarna kuning serta kepala dan paruhnya sama-sama kecil dibandingkan dengan badan burung."
+        },
+        {
+          "english": "this steel grey bird has a lighter grey patch around its neck and on its belly and has a very long tail.",
+          "indo": "burung berwarna abu-abu baja ini memiliki bercak abu-abu terang di sekitar leher dan perutnya serta memiliki ekor yang sangat panjang."
+        },
+        {
+          "english": "this bird has has a grey crown with tan bill and white throat.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh berwarna coklat dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this is a small grey bird, with a long tail, and a small bill.",
+          "indo": "ini adalah burung kecil berwarna abu-abu, dengan ekor panjang, dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0051_794627.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "a longer bird with a yellow belly and a average sized yellow beak.",
+          "indo": "burung yang lebih panjang dengan perut kuning dan paruh kuning berukuran rata-rata."
+        },
+        {
+          "english": "a small bird with a yellow belly and brown wings.",
+          "indo": "seekor burung kecil dengan perut kuning dan sayap coklat."
+        },
+        {
+          "english": "the small bird has a yellow chest and a white and black tail.",
+          "indo": "burung kecil itu memiliki dada berwarna kuning dan ekor berwarna putih dan hitam."
+        },
+        {
+          "english": "this bird has a yellowish belly, grey wings, and long tail-feathers.",
+          "indo": "burung ini memiliki perut berwarna kekuningan, sayap berwarna abu-abu, dan bulu ekor yang panjang."
+        },
+        {
+          "english": "yellow bellied bird with gray wings and white wing bars on the rectrices.",
+          "indo": "burung perut kuning dengan sayap abu-abu dan garis sayap putih di rectrices."
+        },
+        {
+          "english": "the bird has a yellow breast, long grey wing bars and a long bill.",
+          "indo": "burung ini memiliki dada berwarna kuning, garis sayap abu-abu panjang, dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a black crown as well as a yellow belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a long bill, yellow belly and abdomen, and black and white undertail coverts and rectrices.",
+          "indo": "burung ini memiliki paruh panjang, perut dan perut berwarna kuning, serta bulu ekor bawah dan rectrices  berwarna hitam putih."
+        },
+        {
+          "english": "this particular bird has a belly that is tn and white",
+          "indo": "burung ini mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has a yellow throat and breast with grey wings.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna kuning dengan sayap berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0052_794608.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "average sized bird with a beige underbelly and a sharp beak.",
+          "indo": "burung berukuran rata-rata dengan perut berwarna krem ​​​​dan paruh runcing."
+        },
+        {
+          "english": "a small bird with gray wings and a black beak",
+          "indo": "seekor burung kecil dengan sayap abu-abu dan paruh hitam"
+        },
+        {
+          "english": "a bird with an orange belly and white chest. a curved beak and a gray head and back with black-tipped tail feathers.",
+          "indo": "seekor burung dengan perut oranye dan dada putih. paruh melengkung dan kepala serta punggung berwarna abu-abu dengan bulu ekor berujung hitam."
+        },
+        {
+          "english": "this is a small, tan bird with grey on the crown and wingbars.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan warna abu-abu di bagian mahkota dan sayap."
+        },
+        {
+          "english": "this is a brownish yellow-bellied bird with a gray crown and wings, and a sharp beak.",
+          "indo": "ini adalah burung perut kuning kecoklatan dengan mahkota dan sayap abu-abu, serta paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "the bird has a yellow belly, white breast and a narrow, slightly rounded bill.",
+          "indo": "burung ini memiliki perut berwarna kuning, dada berwarna putih, dan paruh yang sempit dan agak membulat."
+        },
+        {
+          "english": "a small bird with a tan belly and breast, with light brown colors from the inner/outer rectrices continuing to the crown.",
+          "indo": "burung kecil dengan perut dan dada berwarna coklat, dengan warna coklat muda dari bagian dalam/luar hingga ke ubun-ubun."
+        },
+        {
+          "english": "a medium sized bird with grey covering on its top, but a white breast and tan belly.",
+          "indo": "burung berukuran sedang dengan penutup abu-abu di bagian atasnya, tetapi dada berwarna putih dan perut berwarna cokelat."
+        },
+        {
+          "english": "this bird has white breast, white eyering, curved beak and grey coverts.",
+          "indo": "burung ini memiliki dada berwarna putih, cincin mata berwarna putih, paruh melengkung, dan bulu berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Mangrove_Cuckoo_0053_26390.jpg",
+      "class_id": 31,
+      "captions": [
+        {
+          "english": "this is a grey bird with a white throat and a downward pointing beak.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan putih dan paruh mengarah ke bawah."
+        },
+        {
+          "english": "this is a grey bird with a black head and a small beak.",
+          "indo": "ini adalah burung abu-abu dengan kepala hitam dan paruh kecil."
+        },
+        {
+          "english": "this bird has a short curved bill, a gray head, and a brown breast and wings.",
+          "indo": "burung ini memiliki paruh pendek melengkung, kepala berwarna abu-abu, serta dada dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird is grey and white in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna abu-abu putih dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this gray bird has dark gray crown and white on the tips of it's rectrices.",
+          "indo": "burung berwarna abu-abu ini memiliki mahkota berwarna abu-abu tua dan ujung rectrices berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a spotted tail",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai ekor yang berbintik"
+        },
+        {
+          "english": "this bird has a white throat, brown across the rest of its body, and a long tail with white patches on the underside.",
+          "indo": "Burung ini memiliki tenggorokan berwarna putih, seluruh tubuhnya berwarna coklat, dan ekornya panjang dengan bercak putih di bagian bawah."
+        },
+        {
+          "english": "this bird has a very long tail with white spots on it and a curved and short beak.",
+          "indo": "burung ini memiliki ekor yang sangat panjang dengan bintik-bintik putih di atasnya serta paruh yang melengkung dan pendek."
+        },
+        {
+          "english": "this bird has a long tail compared to its body, a slightly curved down beak and a grey crown.",
+          "indo": "burung ini memiliki ekor yang panjang dibandingkan tubuhnya, paruh agak melengkung ke bawah, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a black crown, a white throat, white belly and black secondaries.",
+          "indo": "burung tersebut memiliki mahkota berwarna hitam, tenggorokan berwarna putih, perut berwarna putih, dan bulu sekunder berwarna hitam."
+        }
+      ]
+    }
+  ]
+}

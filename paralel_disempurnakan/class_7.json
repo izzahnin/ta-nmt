@@ -1,0 +1,2212 @@
+{
+    "dataset": [
+        {
+            "filename": "Rhinoceros_Auklet_0001_797538.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this large bird has a bright orange bill, a white colored belly, and white eyebrows and cheek patches.",
+                    "indo": "burung berukuran besar ini memiliki paruh berwarna jingga cerah, perut berwarna putih, serta alis dan bercak pipi berwarna putih."
+                },
+                {
+                    "english": "the bird has a white side and belly, with a yellow bill and black coverts.",
+                    "indo": "burung ini memiliki bagian samping dan perut berwarna putih, dengan paruh berwarna kuning dan bulu berwarna hitam."
+                },
+                {
+                    "english": "this bird has a curved orange bill, a white cheek patch, and a white breast.",
+                    "indo": "burung ini memiliki paruh melengkung berwarna jingga, bercak pipi berwarna putih, dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird has an orange bill and a white chest.",
+                    "indo": "burung ini memiliki paruh berwarna oranye dan dada berwarna putih."
+                },
+                {
+                    "english": "this bird has a large orange bill,a white belly, a brown & black side, and a white superciliary.",
+                    "indo": "burung ini mempunyai paruh besar berwarna jingga, perut berwarna putih, bagian samping berwarna coklat & hitam, dan superciliary berwarna putih."
+                },
+                {
+                    "english": "this bird has an orange bill, a white belly and white eyebrows.",
+                    "indo": "burung ini mempunyai paruh berwarna jingga, perut berwarna putih, dan alis berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a white belly",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+                },
+                {
+                    "english": "this bird is white with black and has a very short beak.",
+                    "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has an orange beak and a white belly.",
+                    "indo": "burung ini memiliki paruh berwarna oranye dan perut berwarna putih."
+                },
+                {
+                    "english": "this bird is brown with white and has a very short beak.",
+                    "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0003_797535.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this bird has an orange and brown bill and a grey breast.",
+                    "indo": "burung ini memiliki paruh berwarna oranye dan coklat serta dada berwarna abu-abu."
+                },
+                {
+                    "english": "a larger bird with a large mostly yellow beak and two toned brown feathers.",
+                    "indo": "burung yang lebih besar dengan paruh besar yang sebagian besar berwarna kuning dan dua bulu berwarna coklat."
+                },
+                {
+                    "english": "this is a black bird with a grey breast and an orange beak.",
+                    "indo": "ini adalah burung hitam dengan dada abu-abu dan paruh oranye."
+                },
+                {
+                    "english": "this is a water bird with an orange bill, brown feathers and yellow eyes.",
+                    "indo": "ini adalah burung air dengan paruh oranye, bulu coklat dan mata kuning."
+                },
+                {
+                    "english": "this is a brown, swimming bird with an orange bill and tan on the breast.",
+                    "indo": "ini adalah burung berenang berwarna coklat dengan paruh oranye dan dada berwarna coklat."
+                },
+                {
+                    "english": "this large bird is solid dark gray color with a bit of white mixed in on its belly.",
+                    "indo": "Burung besar ini berwarna abu-abu tua pekat dengan sedikit campuran putih di perutnya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a big orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar berwarna jingga"
+                },
+                {
+                    "english": "this particular bird has a belly that is brown and black",
+                    "indo": "burung ini memiliki perut yang berwarna coklat dan hitam"
+                },
+                {
+                    "english": "this bird has a black crown as well as a yellow bill",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna kuning"
+                },
+                {
+                    "english": "this large bird has a predator's beak, with a big head, black body, and brown chest,",
+                    "indo": "burung berukuran besar ini mempunyai paruh predator, dengan kepala besar, badan berwarna hitam, dan dada berwarna coklat,"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0004_797541.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has black crown and nape, gray throat, breast, belly and abdomen, the tarsus and feet are light brown.",
+                    "indo": "burung memiliki mahkota dan tengkuk berwarna hitam, tenggorokan abu-abu, dada, perut dan perut, tarsus dan kaki berwarna coklat muda."
+                },
+                {
+                    "english": "this bird has a black face with white long feathers sticking out of its head at random points of location, a grey throat, belly and tarsus, and black feathers covering the rest of its body.",
+                    "indo": "burung ini memiliki muka berwarna hitam dengan bulu panjang berwarna putih mencuat di kepala secara acak, tenggorokan, perut dan tarsus berwarna abu-abu, serta bulu hitam menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "a larger bird with a black and grey body, a curved orange beak, and yellow claws.",
+                    "indo": "burung yang lebih besar dengan tubuh hitam dan abu-abu, paruh oranye melengkung, dan cakar kuning."
+                },
+                {
+                    "english": "this is an all grey bird with a light grey breast and a bright orange bill.",
+                    "indo": "ini adalah burung serba abu-abu dengan dada abu-abu muda dan paruh oranye terang."
+                },
+                {
+                    "english": "a grey bird with an orange beak and distinctive feathering on the upper and lower face.",
+                    "indo": "burung berwarna abu-abu dengan paruh berwarna oranye dan bulu khas di bagian atas dan bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna putih"
+                },
+                {
+                    "english": "a large grey orange billed bird, with long beige cheek patch feathers.",
+                    "indo": "seekor burung paruh oranye abu-abu besar, dengan bulu pipi panjang berwarna krem."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with gray patches",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bercak abu-abu"
+                },
+                {
+                    "english": "a small bird with black back feathers, grey belly and throat, white malar stripe, and a small orange beak.",
+                    "indo": "burung kecil dengan bulu punggung berwarna hitam, perut dan tenggorokan berwarna abu-abu, garis malar putih, dan paruh kecil berwarna oranye."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0005_2111.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has a black crown, and has long white feathers on its cheek patches.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, dan memiliki bulu putih panjang di bagian pipinya."
+                },
+                {
+                    "english": "a close up of a bird with black crown, white eyebrow, white malar stripe, a blueish throat and breast, and a yellow beak with a blakened top to the bill.",
+                    "indo": "gambar burung dari dekat dengan mahkota hitam, alis putih, garis malar putih, tenggorokan dan dada kebiruan, dan paruh kuning dengan bagian atas paruh yang hitam."
+                },
+                {
+                    "english": "this is a grey bird with a black head and a pointy orange beak.",
+                    "indo": "ini adalah burung abu-abu dengan kepala hitam dan paruh oranye runcing."
+                },
+                {
+                    "english": "large bird with a short orange beak with a curve on it; has white whiskers.",
+                    "indo": "burung besar dengan paruh oranye pendek dengan lengkungan di atasnya; mempunyai kumis putih."
+                },
+                {
+                    "english": "this bird is black with white on its feathers and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan bulu berwarna putih serta mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this particular bird has a gray neck and black head with white cheek patches",
+                    "indo": "burung ini memiliki leher berwarna abu-abu dan kepala berwarna hitam dengan bercak putih di pipi"
+                },
+                {
+                    "english": "this is a large bird with a light blue body dark blue wings and a darker head with white on it and a yellow beak.",
+                    "indo": "ini adalah burung besar dengan tubuh biru muda, sayap biru tua dan kepala lebih gelap dengan warna putih di atasnya dan paruh kuning."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "this gray bird has a dark gray head, white cheek patches, and an orange bill.",
+                    "indo": "burung berwarna abu-abu ini memiliki kepala berwarna abu-abu tua, bercak putih di pipi, dan paruh berwarna oranye."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0006_797512.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a larger black and grey bird with an orange beak.",
+                    "indo": "burung hitam dan abu-abu yang lebih besar dengan paruh oranye."
+                },
+                {
+                    "english": "medium black bird with medium black and orange beak and a small orange eye",
+                    "indo": "burung hitam sedang dengan paruh hitam dan oranye sedang dan mata oranye kecil"
+                },
+                {
+                    "english": "this large bird has a large head compared to the body size, black wings, and a grey throat, belly and side.",
+                    "indo": "burung besar ini memiliki kepala yang besar dibandingkan dengan ukuran tubuhnya, sayap berwarna hitam, serta tenggorokan, perut dan samping berwarna abu-abu."
+                },
+                {
+                    "english": "this large bird is mostly black with a long blunt bill.",
+                    "indo": "burung berukuran besar ini sebagian besar berwarna hitam dengan paruh yang panjang dan tumpul."
+                },
+                {
+                    "english": "medium to large grey and black bird with medium black and orange beak",
+                    "indo": "burung abu-abu dan hitam sedang hingga besar dengan paruh hitam dan oranye sedang"
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a strange looking bird with a curved beak and small head in proportion to its body.",
+                    "indo": "seekor burung berpenampilan aneh dengan paruh melengkung dan kepala kecil sebanding dengan tubuhnya."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a black bird with a large orange beak and white eyebrows.",
+                    "indo": "seekor burung hitam dengan paruh oranye besar dan alis putih."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0007_797521.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a bird with a slightly downward curved bill, which also has a white point coming off of it, stark orange eyes, and gray covering its body.",
+                    "indo": "seekor burung dengan paruh agak melengkung ke bawah, yang juga memiliki titik putih, mata oranye terang, dan abu-abu menutupi tubuhnya."
+                },
+                {
+                    "english": "the bird is grey and black with an orange bill and white eyes.",
+                    "indo": "burung itu berwarna abu-abu hitam dengan paruh oranye dan mata putih."
+                },
+                {
+                    "english": "a black water-bird with stout orange beak and eyes, and has a white tooth-like structure at the origin of the beak.",
+                    "indo": "burung air berwarna hitam dengan paruh dan mata berwarna oranye kekar, serta memiliki struktur seperti gigi berwarna putih di pangkal paruhnya."
+                },
+                {
+                    "english": "the bird has an orange bill that is outlined in black.",
+                    "indo": "burung itu memiliki paruh berwarna oranye yang diberi garis hitam."
+                },
+                {
+                    "english": "this is a grey bird with an orange bill and black on the wingbars.",
+                    "indo": "ini adalah burung abu-abu dengan paruh oranye dan hitam di sayapnya."
+                },
+                {
+                    "english": "this bird has feathers that are black and has a long yellow bill",
+                    "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang berwarna kuning"
+                },
+                {
+                    "english": "this is a black bird with a thick orange beak that has a white piece at the base of it.",
+                    "indo": "Ini adalah burung berwarna hitam dengan paruh tebal berwarna jingga dengan potongan putih di pangkalnya."
+                },
+                {
+                    "english": "a large black bird with a dull range curved beak.",
+                    "indo": "seekor burung hitam besar dengan paruh melengkung tumpul."
+                },
+                {
+                    "english": "a bird with a black wings, throat and crown and the bill is short and curved",
+                    "indo": "burung dengan sayap, tenggorokan, dan mahkota berwarna hitam, serta paruhnya pendek dan melengkung"
+                },
+                {
+                    "english": "an all black bird with a orange short slightly round bill",
+                    "indo": "seekor burung serba hitam dengan paruh pendek berwarna oranye agak bulat"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0008_797531.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a medium sized bird with black feathers and an orange beak.",
+                    "indo": "burung berukuran sedang dengan bulu hitam dan paruh oranye."
+                },
+                {
+                    "english": "this bird has a brown crown, a pointed bill, and a brown back.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat, paruh runcing, dan punggung berwarna coklat."
+                },
+                {
+                    "english": "this is a brown and black bird with a yellow eye and an orange beak.",
+                    "indo": "ini adalah burung berwarna coklat dan hitam dengan mata kuning dan paruh oranye."
+                },
+                {
+                    "english": "a medium sized bird that has tones of dark brown with a large sized bill",
+                    "indo": "burung berukuran sedang yang memiliki corak coklat tua dengan paruh berukuran besar"
+                },
+                {
+                    "english": "this bird is black in color with a orange beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh berwarna oranye, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has a yellow bill, dark grey crown with white superciliary and cheek patch, dark primaries and secondaries",
+                    "indo": "burung ini mempunyai paruh berwarna kuning, mahkota berwarna abu-abu tua dengan superciliary dan penutup pipi berwarna putih, bulu primer dan bulu sekunder berwarna gelap"
+                },
+                {
+                    "english": "this bird has wings that are brown and has a yellow belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+                },
+                {
+                    "english": "this bird has an orange beak with a mostly black body.",
+                    "indo": "burung ini memiliki paruh berwarna oranye dengan tubuh sebagian besar berwarna hitam."
+                },
+                {
+                    "english": "a bird with an orange colored downward-curved beak, also has a black colored crown with a stripe of white.",
+                    "indo": "burung dengan paruh melengkung ke bawah berwarna oranye, juga memiliki mahkota berwarna hitam dengan garis putih."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0009_797539.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this bird has a long wide beak and feathers over the eyes like lashes.",
+                    "indo": "burung ini mempunyai paruh yang panjang dan lebar serta bulu di atas matanya seperti superciliary."
+                },
+                {
+                    "english": "this bird has a yellow orange bill with white eyebrow and grey breast.",
+                    "indo": "burung ini mempunyai paruh berwarna kuning jingga dengan alis berwarna putih dan dada berwarna abu-abu."
+                },
+                {
+                    "english": "this bird has a black body with an orange beak",
+                    "indo": "burung ini memiliki tubuh berwarna hitam dengan paruh berwarna oranye"
+                },
+                {
+                    "english": "the bird as a grey belly, the bill is short and pointed, with black and grey covering the rest of its body",
+                    "indo": "burung tersebut memiliki perut berwarna abu-abu, paruhnya pendek dan runcing, dengan warna hitam dan abu-abu menutupi seluruh tubuhnya"
+                },
+                {
+                    "english": "this waterbird features a rather large, yellow beak and small, red eyes.",
+                    "indo": "burung air ini memiliki paruh agak besar berwarna kuning dan mata kecil berwarna merah."
+                },
+                {
+                    "english": "this bird has wings that are black wtih a short yellow bill",
+                    "indo": "Burung ini mempunyai sayap berwarna hitam dengan paruh pendek berwarna kuning"
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "a medium size bird with a short, pointed, orange beak.",
+                    "indo": "burung berukuran sedang dengan paruh pendek, runcing, berwarna oranye."
+                },
+                {
+                    "english": "grey chest, black head, yellow beak",
+                    "indo": "dada abu-abu, kepala hitam, paruh kuning"
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0010_797545.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this dark bird has an orange beak, light orange tarsus and feet, dark gray wings, whitish breast and belly, and grey eyes.",
+                    "indo": "burung berwarna gelap ini memiliki paruh berwarna jingga, tarsus dan kaki berwarna jingga muda, sayap berwarna abu-abu tua, dada dan perut berwarna keputihan, serta mata berwarna abu-abu."
+                },
+                {
+                    "english": "this is a black bird with a white belly and a large orange beak.",
+                    "indo": "ini adalah burung hitam dengan perut putih dan paruh besar berwarna oranye."
+                },
+                {
+                    "english": "this is a black and white bird with a orange bill and long wingbars",
+                    "indo": "ini adalah burung hitam putih dengan paruh oranye dan sayap panjang"
+                },
+                {
+                    "english": "a bird with an orange thick bill and a black coat with white at its throat.",
+                    "indo": "seekor burung dengan paruh tebal berwarna jingga dan bulu berwarna hitam dengan tenggorokan berwarna putih."
+                },
+                {
+                    "english": "this bird has a orange beak, black throat, and a black and white belly.",
+                    "indo": "burung ini memiliki paruh berwarna oranye, tenggorokan berwarna hitam, dan perut berwarna hitam putih."
+                },
+                {
+                    "english": "this bird is black with grey and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the color of the bird is black with an orange beak and a grey belly.",
+                    "indo": "warna burungnya hitam dengan paruh berwarna jingga dan perut berwarna abu-abu."
+                },
+                {
+                    "english": "the bird has a black belly that is long and two large wingbars.",
+                    "indo": "burung ini memiliki perut berwarna hitam yang panjang dan dua garis sayap yang besar."
+                },
+                {
+                    "english": "this is a large all dark colored bird with a yellow beak",
+                    "indo": "ini adalah burung besar berwarna gelap dengan paruh kuning"
+                },
+                {
+                    "english": "a medium-sized black bird with a white superciliary, white malar stripe, and small orange beak",
+                    "indo": "burung hitam berukuran sedang dengan superciliary putih, garis malar putih, dan paruh kecil berwarna oranye"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0011_797530.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a black bird with white feathers like whiskers and a white stripe on the side of its head.",
+                    "indo": "burung berwarna hitam dengan bulu putih seperti kumis dan garis putih di sisi kepalanya."
+                },
+                {
+                    "english": "this bird has a long beak with a black and white body.",
+                    "indo": "burung ini mempunyai paruh panjang dengan badan berwarna hitam putih."
+                },
+                {
+                    "english": "a big rounded yellow bill, long white eyebrow, eyering, long neck.",
+                    "indo": "paruh besar berwarna kuning bulat, alis putih panjang, cincin mata bermata, leher panjang."
+                },
+                {
+                    "english": "a black bird with white eyebrows, white whiskers, and a horn-like structure at the base of its big orange beak.",
+                    "indo": "burung hitam dengan alis putih, kumis putih, dan struktur mirip tanduk di pangkal paruh besar berwarna jingga."
+                },
+                {
+                    "english": "this black headed bird has a pale yellow eye and white eyebrow and white malar stripe.",
+                    "indo": "Burung berkepala hitam ini mempunyai mata berwarna kuning pucat dan alis berwarna putih serta garis malar berwarna putih."
+                },
+                {
+                    "english": "this particular bird has a white cheek patch and white eyebrows",
+                    "indo": "burung ini memiliki bercak pipi putih dan alis putih"
+                },
+                {
+                    "english": "this bird has a striped head and an orange bill",
+                    "indo": "burung ini memiliki kepala belang dan paruh berwarna oranye"
+                },
+                {
+                    "english": "this bird has black plumage, with a large orange beak and white stripes on its head.",
+                    "indo": "burung ini memiliki bulu berwarna hitam, dengan paruh besar berwarna oranye dan garis-garis putih di kepalanya."
+                },
+                {
+                    "english": "white eyebrows and a bright orange bill with a black outline are a stark contrast to the black feathers on the birds head.",
+                    "indo": "alis putih dan paruh oranye terang dengan garis hitam sangat kontras dengan bulu hitam di kepala burung."
+                },
+                {
+                    "english": "a bird with a black head with a white stripe on its eyebrow and cheek, it has a medium length broad orange bill.",
+                    "indo": "burung berkepala hitam dengan garis putih di alis dan pipinya, paruhnya berwarna oranye lebar dan panjang sedang."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0012_2161.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this bird has a large, orange bill, a grey breast, and black wings.",
+                    "indo": "burung ini memiliki paruh besar berwarna oranye, dada berwarna abu-abu, dan sayap berwarna hitam."
+                },
+                {
+                    "english": "a medium sized bird with a black crown and a bill that curves downwards",
+                    "indo": "burung berukuran sedang dengan mahkota hitam dan paruh melengkung ke bawah"
+                },
+                {
+                    "english": "this bird has a large, orange, curved bill, a black crown, and a white belly.",
+                    "indo": "burung ini memiliki paruh besar berwarna oranye, melengkung, mahkota berwarna hitam, dan perut berwarna putih."
+                },
+                {
+                    "english": "this bird has a black crown, a short orange bill, and a black back",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, paruh pendek berwarna oranye, dan punggung berwarna hitam"
+                },
+                {
+                    "english": "this is a small dark aquatic bird with a grey chest and black feathers and face.",
+                    "indo": "ini adalah burung akuatik kecil berwarna gelap dengan dada abu-abu dan bulu serta wajah hitam."
+                },
+                {
+                    "english": "this bird is mostly black, but it has a yellow and orange beak and some white stripes on the head and neck.",
+                    "indo": "burung ini sebagian besar berwarna hitam, namun memiliki paruh berwarna kuning dan oranye serta beberapa garis putih di kepala dan lehernya."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a medium size bird with a large, short, pointed orange.",
+                    "indo": "burung berukuran sedang dengan warna oranye besar, pendek, dan runcing."
+                },
+                {
+                    "english": "this black bird has white stripes, deepest eyes, black body, and a strong pointed beak with large nostrils.",
+                    "indo": "burung berwarna hitam ini memiliki garis-garis putih, mata terdalam, badan berwarna hitam, dan paruh runcing kuat dengan lubang hidung besar."
+                },
+                {
+                    "english": "a medium to large sized water bird, almost entirely black in color, with faint white striping on the face, light eyes, and a short orange beak.",
+                    "indo": "burung air berukuran sedang hingga besar, hampir seluruhnya berwarna hitam, dengan garis-garis putih samar di wajah, mata cerah, dan paruh pendek berwarna oranye."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0013_797537.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "medium sized dark grey bird with black wings medium beak and medium tarsus",
+                    "indo": "burung abu-abu tua berukuran sedang dengan sayap hitam paruh sedang dan tarsus sedang"
+                },
+                {
+                    "english": "a black bird with webbed feet, orange beak that has a small black horn on it, and has white eyebrow and malar stripe.",
+                    "indo": "burung berwarna hitam dengan kaki berselaput, paruh berwarna oranye dengan tanduk kecil berwarna hitam, alis berwarna putih, dan garis malar."
+                },
+                {
+                    "english": "this squat black bird has a large, stout red bill, white eyebrows and malar stripes, and blackish-yellow webbed feet.",
+                    "indo": "burung hitam jongkok ini mempunyai paruh besar berwarna merah kekar, alis dan garis malar berwarna putih, serta kaki berselaput berwarna kuning kehitaman."
+                },
+                {
+                    "english": "black bird with webbed feet and white eyebrow and cheek patch with red bill.",
+                    "indo": "burung hitam dengan kaki berselaput dan alis putih serta bercak pipi dengan paruh merah."
+                },
+                {
+                    "english": "a bird with a large rounded orange bill with white point near the superciliary, webbed feet, and white eyebrow",
+                    "indo": "burung dengan paruh besar berwarna jingga, bulat, dengan titik putih di dekat superciliary, kaki berselaput, dan superciliary berwarna putih"
+                },
+                {
+                    "english": "this bird is mostly black with a white eyebrow and malar stripe and a dark red bill.",
+                    "indo": "burung ini sebagian besar berwarna hitam dengan alis putih dan garis malar serta paruh berwarna merah tua."
+                },
+                {
+                    "english": "this bird is black with gey and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam dengan gey dan memiliki paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird is black, white, and gray in color, with a orange and black beak.",
+                    "indo": "burung ini berwarna hitam, putih, dan abu-abu, dengan paruh berwarna oranye dan hitam."
+                },
+                {
+                    "english": "black bird with black webbed feet, beak is reddish and the rest of the bird is black with a white brow and white streak on its cheek.",
+                    "indo": "burung berwarna hitam dengan kaki berselaput hitam, paruh berwarna kemerahan dan selebihnya berwarna hitam dengan superciliary putih dan guratan putih di pipinya."
+                },
+                {
+                    "english": "this bird has a black breast, with very large feet.",
+                    "indo": "burung ini memiliki dada berwarna hitam, dengan kaki yang sangat besar."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0014_797522.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a large bird has long white cheek patches, a small and sharp orange bill, and short black outer rectrices.",
+                    "indo": "seekor burung besar memiliki bercak pipi putih panjang, paruh oranye kecil dan tajam, dan outer rectrices berwarna hitam pendek."
+                },
+                {
+                    "english": "this bird has a large, curved, orange bill, a white malar stripe, and a black head, breast, and wings.",
+                    "indo": "burung ini memiliki paruh besar melengkung berwarna oranye, garis malar putih, serta kepala, dada, dan sayap berwarna hitam."
+                },
+                {
+                    "english": "a black bird with white eyebrows, white cheek patches, and an orange bill.",
+                    "indo": "burung hitam dengan alis putih, bercak putih di pipi, dan paruh oranye."
+                },
+                {
+                    "english": "this bird is black in color with a orange beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh berwarna oranye, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird has a black color all over with the exception of what seems like white whiskers on its face.",
+                    "indo": "burung ini mempunyai warna hitam seluruhnya kecuali yang tampak seperti kumis putih di wajahnya."
+                },
+                {
+                    "english": "this bird is almost entirely black with the exception of a thick bill and white nape and malar stripes.",
+                    "indo": "burung ini hampir seluruhnya berwarna hitam kecuali paruh tebal dan tengkuk serta garis malar berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "the bird is black with white near the malar stripe, coming off of it's crown, and at the edge of it's orange beak.",
+                    "indo": "burungnya berwarna hitam putih di dekat garis malar, mulai dari ubun-ubunnya, dan di pinggir paruhnya berwarna jingga."
+                },
+                {
+                    "english": "a medium size bird with black coloring and orange colored beak.",
+                    "indo": "burung berukuran sedang dengan warna hitam dan paruh berwarna oranye."
+                },
+                {
+                    "english": "this bird has long whispy white feathers on it's face.",
+                    "indo": "burung ini memiliki bulu panjang berwarna putih wiski di bagian wajahnya."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0015_2160.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has a thick brown head and a short bill.",
+                    "indo": "burung itu memiliki kepala berwarna coklat tebal dan paruh pendek."
+                },
+                {
+                    "english": "this dark black swimming bird has a dark yellow short beak.",
+                    "indo": "burung perenang berwarna hitam tua ini memiliki paruh pendek berwarna kuning tua."
+                },
+                {
+                    "english": "round water black and brown bird with a short stout beak.",
+                    "indo": "burung air bulat berwarna hitam coklat dengan paruh pendek dan kokoh."
+                },
+                {
+                    "english": "this bird contains a black head, brown throat and underbelly, and black and brown feathers covering the rest of its body.",
+                    "indo": "burung ini memiliki kepala berwarna hitam, tenggorokan dan perut berwarna coklat, serta bulu berwarna hitam dan coklat menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird has a mostly dark grey body, long neck, and short pointy bill.",
+                    "indo": "burung ini sebagian besar memiliki tubuh berwarna abu-abu tua, leher panjang, dan paruh runcing pendek."
+                },
+                {
+                    "english": "this is a brown and black bird with a brown bill and a white side",
+                    "indo": "ini adalah burung berwarna coklat dan hitam dengan paruh coklat dan sisi putih"
+                },
+                {
+                    "english": "this bird has wings that are brown and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+                },
+                {
+                    "english": "an all over black bird with a thick black narrowed bill.",
+                    "indo": "seekor burung berwarna hitam dengan paruh tebal berwarna hitam menyempit."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0016_2114.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this gray bird has a yellow beak that curves downward and white eyelashes.",
+                    "indo": "burung berwarna abu-abu ini memiliki paruh berwarna kuning yang melengkung ke bawah dan superciliary berwarna putih."
+                },
+                {
+                    "english": "this bird is mostly gray with a sharp orange bill.",
+                    "indo": "burung ini sebagian besar berwarna abu-abu dengan paruh berwarna oranye runcing."
+                },
+                {
+                    "english": "this is a small grey bird with a large curved beak.",
+                    "indo": "ini adalah burung kecil berwarna abu-abu dengan paruh besar yang melengkung."
+                },
+                {
+                    "english": "this duck has white feathers almost like wiskers on it's grey head with orange abstract looking beak.",
+                    "indo": "bebek ini memiliki bulu berwarna putih hampir seperti bulu halus di kepalanya berwarna abu-abu dengan paruh berwarna oranye yang tampak abstrak."
+                },
+                {
+                    "english": "this is a large bird with an orange beak and dark feathers.",
+                    "indo": "ini adalah burung besar dengan paruh oranye dan bulu gelap."
+                },
+                {
+                    "english": "the loud color bill with a fury crown and medium breast above belly",
+                    "indo": "paruh berwarna keras dengan mahkota kemarahan dan dada sedang di atas perut"
+                },
+                {
+                    "english": "this particular bird has a belly that is gray and brown",
+                    "indo": "burung ini memiliki perut berwarna abu-abu dan coklat"
+                },
+                {
+                    "english": "this bird is grey with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a medium sized grey bird with a bright orange bill.",
+                    "indo": "burung abu-abu berukuran sedang dengan paruh oranye terang."
+                },
+                {
+                    "english": "this bird has a grey crown with orange beak and light grey throat.",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh berwarna oranye dan tenggorokan berwarna abu-abu muda."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0017_2155.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has a large, horned orange bill, a black and gray breast, and a very big head",
+                    "indo": "burung ini memiliki paruh besar bertanduk oranye, dada berwarna hitam abu-abu, dan kepala sangat besar"
+                },
+                {
+                    "english": "this bird has a large, orange, curved bill, a white eyebrow, and a gray crown.",
+                    "indo": "burung ini memiliki paruh besar berwarna oranye, melengkung, alis berwarna putih, dan mahkota berwarna abu-abu."
+                },
+                {
+                    "english": "this is a grey bird with black wings and an orange beak.",
+                    "indo": "ini adalah burung abu-abu dengan sayap hitam dan paruh oranye."
+                },
+                {
+                    "english": "this peculiar bird has a thick, long orange beak and orange stripe on one tarsus.",
+                    "indo": "burung aneh ini memiliki paruh tebal berwarna oranye panjang dan garis oranye pada salah satu tarsusnya."
+                },
+                {
+                    "english": "this bird is predominately gray in coloring with white malar stripes and an orange bill.",
+                    "indo": "burung ini didominasi warna abu-abu dengan garis malar putih dan paruh oranye."
+                },
+                {
+                    "english": "this bird has a bright orange bill, grey belly and vent, and white stripes along its cheek.",
+                    "indo": "burung ini memiliki paruh berwarna jingga cerah, perut dan lubang kloaka berwarna abu-abu, serta garis-garis putih di sepanjang pipinya."
+                },
+                {
+                    "english": "this bird has a n orange bill, grey and white throat and belly, and black coverts.",
+                    "indo": "burung ini memiliki paruh berwarna jingga, tenggorokan dan perut berwarna abu-abu putih, serta bulu berwarna hitam."
+                },
+                {
+                    "english": "this is a small bird that has a small but defined neck and a light grey belly and a black back and a yellow beak that is curved downwards",
+                    "indo": "ini adalah burung kecil yang memiliki leher kecil namun tegas dan perut berwarna abu-abu muda serta punggung berwarna hitam dan paruh kuning yang melengkung ke bawah."
+                },
+                {
+                    "english": "this light to medium gray bird has a thick dark orange bill and light gray feet.",
+                    "indo": "burung berwarna abu-abu terang hingga sedang ini memiliki paruh tebal berwarna oranye tua dan kaki berwarna abu-abu muda."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0018_797517.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this dark grey aquatic bird has a fairly wide orange beak and feathery white eyebrows.",
+                    "indo": "burung akuatik berwarna abu-abu tua ini memiliki paruh berwarna oranye yang cukup lebar dan alis berwarna putih berbulu."
+                },
+                {
+                    "english": "a black and white bird with a orange beak and grey breast.",
+                    "indo": "burung hitam putih dengan paruh oranye dan dada abu-abu."
+                },
+                {
+                    "english": "the bird is grey, black, and white and has a small grey eye along with an orange bill.",
+                    "indo": "burung itu berwarna abu-abu, hitam, dan putih serta memiliki mata kecil berwarna abu-abu dengan paruh berwarna oranye."
+                },
+                {
+                    "english": "a chunky orange beak, a white malar stripe and black back cover a mostly grey bird.",
+                    "indo": "paruh oranye tebal, garis malar putih dan punggung hitam menutupi sebagian besar burung berwarna abu-abu."
+                },
+                {
+                    "english": "this odd-looking water bird has dopey yellow eyes and a thick, orange beak.",
+                    "indo": "burung air berpenampilan aneh ini memiliki mata kuning yang sayu dan paruh tebal berwarna oranye."
+                },
+                {
+                    "english": "this particular bird has gray secondaries and a black back",
+                    "indo": "burung ini memiliki bulu sekunder berwarna abu-abu dan punggung berwarna hitam"
+                },
+                {
+                    "english": "a medium sized bird with a yellow beak and white feathers around the eye and cheek.",
+                    "indo": "burung berukuran sedang dengan paruh kuning dan bulu putih di sekitar mata dan pipi."
+                },
+                {
+                    "english": "this black bird has white undertail coverts as well as white eyebrow and cheek markings, and an orange, medium sized bill that ends with a downward curve.",
+                    "indo": "burung hitam ini memiliki bulu bagian bawah berwarna putih serta tanda alis dan pipi berwarna putih, serta paruh berwarna oranye berukuran sedang yang ujungnya melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has long whispy white feathers on its face.",
+                    "indo": "burung ini memiliki bulu panjang berwarna putih wiski di wajahnya."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0019_797513.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has black crown and nape, gray breast, belly and wings, the head and beak are proportional to its body size.",
+                    "indo": "burung ini memiliki mahkota dan tengkuk berwarna hitam, dada, perut dan sayap berwarna abu-abu, kepala dan paruh sebanding dengan ukuran tubuhnya."
+                },
+                {
+                    "english": "medium sized skinny bird with grey and white belly, white breast, and black wings.",
+                    "indo": "burung kurus berukuran sedang dengan perut abu-abu putih, dada putih, dan sayap hitam."
+                },
+                {
+                    "english": "a medium sized bird with a grey belly, and a bill that curves downwards",
+                    "indo": "burung berukuran sedang dengan perut berwarna abu-abu, dan paruh melengkung ke bawah"
+                },
+                {
+                    "english": "this bird has small wings and blue-grey nape.",
+                    "indo": "burung ini mempunyai sayap kecil dan tengkuk berwarna biru keabu-abuan."
+                },
+                {
+                    "english": "a bird that is mainly gray with a white eyebrow.",
+                    "indo": "seekor burung yang sebagian besar berwarna abu-abu dengan alis berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird is black and gray in color, with a black beak.",
+                    "indo": "burung ini berwarna hitam abu-abu, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "a large bird with gray feathers, and long wings.",
+                    "indo": "seekor burung besar dengan bulu abu-abu, dan sayap panjang."
+                },
+                {
+                    "english": "this bird has a grey bill and grey wings with dark eyes and rectrices.",
+                    "indo": "burung ini mempunyai paruh berwarna abu-abu dan sayap berwarna abu-abu dengan mata dan rectrices berwarna gelap."
+                },
+                {
+                    "english": "this bird has a large wing span, with a big bill.",
+                    "indo": "burung ini mempunyai rentang sayap yang besar, dengan paruh yang besar."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0020_2195.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this medium brown waterbird has a brown and white spotted breast, a medium length yellow bill, and yellow eyes.",
+                    "indo": "Burung air berwarna coklat sedang ini memiliki dada berbintik coklat putih, paruh kuning panjang sedang, dan mata kuning."
+                },
+                {
+                    "english": "this bird is brown with a weird face and has a very short beak.",
+                    "indo": "burung ini berwarna coklat dengan muka yang aneh dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this is a brown bird with a large orange beak.",
+                    "indo": "ini adalah burung berwarna coklat dengan paruh oranye besar."
+                },
+                {
+                    "english": "the bird has a long curved bill that is ambered color.",
+                    "indo": "burung ini memiliki paruh panjang melengkung yang berwarna kuning."
+                },
+                {
+                    "english": "this is a brown bird with a white spotted breast, yellow eye and a brown beak.",
+                    "indo": "ini adalah burung berwarna coklat dengan dada berbintik putih, mata kuning dan paruh coklat."
+                },
+                {
+                    "english": "this bird has brown plumage, with an orange, curved beak.",
+                    "indo": "burung ini memiliki bulu berwarna coklat, dengan paruh melengkung berwarna oranye."
+                },
+                {
+                    "english": "this swimming bird is mostly brown with white markings on its breast and a thick orange bill.",
+                    "indo": "burung perenang ini sebagian besar berwarna coklat dengan corak putih di dadanya dan paruh tebal berwarna jingga."
+                },
+                {
+                    "english": "a small black bird, with a sharp yellow bill.",
+                    "indo": "seekor burung kecil berwarna hitam, dengan paruh berwarna kuning tajam."
+                },
+                {
+                    "english": "this bird is all black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are brown and has an orange belly",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna jingga"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0021_2089.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this bird is bald with a grey face and short silver beak.",
+                    "indo": "burung ini botak dengan muka berwarna abu-abu dan paruh pendek berwarna perak."
+                },
+                {
+                    "english": "the bird has a black eyering, short throat and a small bill.",
+                    "indo": "burung itu mempunyai cincin mata hitam, tenggorokan pendek dan paruh kecil."
+                },
+                {
+                    "english": "the bird has a grey crown and a bumpy grey and orange bill.",
+                    "indo": "burung itu memiliki mahkota berwarna abu-abu dan paruh bergelombang berwarna abu-abu dan oranye."
+                },
+                {
+                    "english": "a brown bird with a large pointed beak and no crown",
+                    "indo": "seekor burung berwarna coklat dengan paruh runcing besar dan tanpa mahkota"
+                },
+                {
+                    "english": "this bird is black in color with a brown beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh berwarna coklat, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird is black with grey and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the bird has a black eyering, black crown and bill that is slightly curved.",
+                    "indo": "Burung ini memiliki cincin mata berwarna hitam, mahkota berwarna hitam, dan paruh agak melengkung."
+                },
+                {
+                    "english": "this bird has a black head and a gray nape, with a large beak.",
+                    "indo": "burung ini memiliki kepala berwarna hitam dan tengkuk berwarna abu-abu, serta paruh yang besar."
+                },
+                {
+                    "english": "this particular bird has gray cheek patches and a gray bill",
+                    "indo": "burung ini memiliki bercak pipi berwarna abu-abu dan paruh berwarna abu-abu"
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0022_2170.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this small water foul has a black back white under tail coverts and long white feather stripes above and below his eyes",
+                    "indo": "Busuk air kecil ini memiliki punggung hitam putih di bawah bulu penutup ekor dan garis bulu putih panjang di atas dan di bawah matanya"
+                },
+                {
+                    "english": "this bird is black with white stripes and has a very short beak.",
+                    "indo": "burung ini berwarna hitam bergaris putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this is a black bird with white stripes on its head and an orange beak.",
+                    "indo": "ini adalah burung berwarna hitam dengan garis-garis putih di kepalanya dan paruh berwarna oranye."
+                },
+                {
+                    "english": "the black bird with a bright orange beak and white nape is swimming in the water.",
+                    "indo": "burung hitam dengan paruh jingga cerah dan tengkuk putih sedang berenang di air."
+                },
+                {
+                    "english": "this bird has an orange, downwards curved beak with a neck that appears to be too wide for its body; it's eyebrow & malar stripe are a striking white against dark gray plumage.",
+                    "indo": "burung ini memiliki paruh berwarna oranye melengkung ke bawah dengan leher yang tampak terlalu lebar untuk tubuhnya; alisnya & garis malarnya berwarna putih mencolok dengan bulu abu-abu tua."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a dark colored bird with white eyebrows and malar stripes, an orange beak, and a large head.",
+                    "indo": "burung berwarna gelap dengan alis putih dan garis malar, paruh oranye, dan kepala besar."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "water fowl possessing a red and yellow bill with both white malar stripe and eyebrow; the back and side are a dark grey.",
+                    "indo": "unggas air yang mempunyai paruh merah dan kuning dengan garis malar putih dan alis; bagian belakang dan samping berwarna abu-abu tua."
+                },
+                {
+                    "english": "this bird is black and white in color, and has a yellow beak.",
+                    "indo": "burung ini berwarna hitam putih, dan mempunyai paruh berwarna kuning."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0023_797501.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a short yellow beak, on an otherwise black bird, bright irises, around black pupils",
+                    "indo": "paruh kuning pendek, pada burung berwarna hitam, iris cerah, di sekitar pupil hitam"
+                },
+                {
+                    "english": "this is a black bird with a white eye and a yellow beak.",
+                    "indo": "ini burung hitam dengan mata putih dan paruh kuning."
+                },
+                {
+                    "english": "this bird has a short orange bill, and a black head.",
+                    "indo": "burung ini memiliki paruh pendek berwarna oranye, dan kepala berwarna hitam."
+                },
+                {
+                    "english": "this aquatic bird a grey crown with a white throat and a rounded yellow bill.",
+                    "indo": "burung akuatik ini bermahkota abu-abu dengan tenggorokan berwarna putih dan paruh bulat berwarna kuning."
+                },
+                {
+                    "english": "a medium sized bird that has tones of grey and a large sized bill",
+                    "indo": "burung berukuran sedang yang memiliki corak warna abu-abu dan paruh berukuran besar"
+                },
+                {
+                    "english": "this small bird has a thick beak, with brown feathers on it.",
+                    "indo": "Burung kecil ini memiliki paruh yang tebal, dengan bulu berwarna coklat di atasnya."
+                },
+                {
+                    "english": "a bird that has a thick yellow beak, and a thick gray neck.",
+                    "indo": "burung yang mempunyai paruh tebal berwarna kuning, dan leher tebal berwarna abu-abu."
+                },
+                {
+                    "english": "this black bird has very small eyes and a short, pointed, yellow bill with a slight downward curve.",
+                    "indo": "burung hitam ini memiliki mata yang sangat kecil dan paruh pendek, runcing, berwarna kuning dengan sedikit melengkung ke bawah."
+                },
+                {
+                    "english": "this bird has wings that are this bird has a yellow bill and has yellow eyes",
+                    "indo": "burung ini mempunyai sayap, burung ini mempunyai paruh berwarna kuning dan bermata kuning"
+                },
+                {
+                    "english": "this bird has a yellow pointed bill, with a black head.",
+                    "indo": "burung ini mempunyai paruh runcing berwarna kuning, dengan kepala berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0024_797529.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "bird has yellow bill, black head, black body and wings too",
+                    "indo": "burung mempunyai paruh kuning, kepala hitam, badan dan sayap hitam juga"
+                },
+                {
+                    "english": "the bird has a large bill that is orange and curved.",
+                    "indo": "burung ini memiliki paruh besar berwarna oranye dan melengkung."
+                },
+                {
+                    "english": "a medium sized bird with a bill that curves downwards and black wings",
+                    "indo": "burung berukuran sedang dengan paruh melengkung ke bawah dan sayap berwarna hitam"
+                },
+                {
+                    "english": "this bird is mostly brown with a white eyebrow and sharp hooked bill.",
+                    "indo": "burung ini sebagian besar berwarna coklat dengan alis berwarna putih dan paruh bengkok tajam."
+                },
+                {
+                    "english": "this gray bird has a long neck, and a large beak that curves downward.",
+                    "indo": "burung berwarna abu-abu ini memiliki leher yang panjang, dan paruh besar yang melengkung ke bawah."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the bird has a striped cheek patch, a long throat and curved bill.",
+                    "indo": "burung ini memiliki pipi bergaris, tenggorokan panjang, dan paruh melengkung."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has wings that are black and has a long neck",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0025_797508.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this bird is predominately grey with two white strips above and below the eye, it has a horn-like bump above its beak.",
+                    "indo": "burung ini didominasi warna abu-abu dengan dua garis putih di atas dan di bawah mata, terdapat benjolan seperti tanduk di atas paruhnya."
+                },
+                {
+                    "english": "this water bird has an orange beak and two white stripes on its head.",
+                    "indo": "burung air ini memiliki paruh berwarna oranye dan dua garis putih di kepalanya."
+                },
+                {
+                    "english": "this bird has a small head in relation to the size of its body, a yellow beak, and a cream colored throat and belly.",
+                    "indo": "burung ini memiliki kepala yang kecil dibandingkan dengan ukuran tubuhnya, paruh berwarna kuning, serta tenggorokan dan perut berwarna krem."
+                },
+                {
+                    "english": "this grey bird has a white eyebrow and malar strip with a bright yellow bill that comes to a point.",
+                    "indo": "burung berwarna abu-abu ini memiliki alis berwarna putih dan garis malar dengan paruh berwarna kuning cerah yang runcing."
+                },
+                {
+                    "english": "a bird with white stripes on its head and yellow beak.",
+                    "indo": "seekor burung dengan garis-garis putih di kepala dan paruh kuning."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+                },
+                {
+                    "english": "this is a gray bird with a thick yellow beak that has white on its base.",
+                    "indo": "Ini adalah burung berwarna abu-abu dengan paruh kuning tebal dengan warna putih di pangkalnya."
+                },
+                {
+                    "english": "this bird is brown and black in color, with a yellow beak.",
+                    "indo": "burung ini berwarna coklat kehitaman, dengan paruh berwarna kuning."
+                },
+                {
+                    "english": "this bird is black to grey in the body and has a short but sharp orange bill.",
+                    "indo": "burung ini memiliki warna tubuh hitam hingga abu-abu dan memiliki paruh berwarna oranye yang pendek namun tajam."
+                },
+                {
+                    "english": "this small bird has yellow bill, grey neck, and black wings.",
+                    "indo": "burung kecil ini memiliki paruh berwarna kuning, leher berwarna abu-abu, dan sayap berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0026_797519.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a water bird whose body is various shades of gray with a long pointed yellow beak",
+                    "indo": "burung air yang tubuhnya berwarna abu-abu dengan paruh panjang dan runcing berwarna kuning"
+                },
+                {
+                    "english": "this bird is predominantly grey in color, but has dark brown wings, secondaries, and a white vent.",
+                    "indo": "burung ini didominasi warna abu-abu, namun memiliki sayap berwarna coklat tua, sayap bulu sekunder, dan lubang kloaka berwarna putih."
+                },
+                {
+                    "english": "this medium sized bird has very small eyes that almost blend in with the color of its feathers, which are grayish brown, followed by a short, yellow beak.",
+                    "indo": "Burung berukuran sedang ini memiliki mata yang sangat kecil hingga hampir menyatu dengan warna bulunya yaitu coklat keabu-abuan, diikuti paruh pendek berwarna kuning."
+                },
+                {
+                    "english": "this bird is grey in color with a orange beak, and grey eye rings.",
+                    "indo": "burung ini berwarna abu-abu dengan paruh berwarna oranye, dan cincin mata berwarna abu-abu."
+                },
+                {
+                    "english": "this gray and black waterbird features camouflaged eyes and a stout orange bill.",
+                    "indo": "burung air berwarna abu-abu dan hitam ini memiliki mata yang tersamar dan paruh berwarna oranye yang kokoh."
+                },
+                {
+                    "english": "this small brown bird is a water species.",
+                    "indo": "burung kecil berwarna coklat ini adalah spesies air."
+                },
+                {
+                    "english": "this bird has wings that are gray and has an orange bill",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna oranye"
+                },
+                {
+                    "english": "this bird has a blunt orange beak and dark brown wings.",
+                    "indo": "burung ini memiliki paruh berwarna oranye tumpul dan sayap berwarna coklat tua."
+                },
+                {
+                    "english": "this is a grey colored bird white a large yellow beak",
+                    "indo": "ini adalah burung berwarna abu-abu putih, paruh kuning besar"
+                },
+                {
+                    "english": "this bird has a large grey head with a orange pointed bill.",
+                    "indo": "burung ini memiliki kepala besar berwarna abu-abu dengan paruh runcing berwarna oranye."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0027_797496.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird is brown with thick things and a light brown belly.",
+                    "indo": "burung itu berwarna coklat dengan benda tebal dan perut berwarna coklat muda."
+                },
+                {
+                    "english": "this bird has a brown body and a orange beak.",
+                    "indo": "burung ini memiliki tubuh berwarna coklat dan paruh berwarna oranye."
+                },
+                {
+                    "english": "a large bird in the water with a grey belly, black crown, spread black wings, and an open orange bill with fish in it.",
+                    "indo": "seekor burung besar di dalam air dengan perut abu-abu, mahkota hitam, sayap hitam terbentang, dan paruh oranye terbuka dengan ikan di dalamnya."
+                },
+                {
+                    "english": "this colorful bird has a white breast, black secondaries, and an orange bill.",
+                    "indo": "burung berwarna-warni ini memiliki dada berwarna putih, paruh berwarna hitam, dan paruh berwarna oranye."
+                },
+                {
+                    "english": "this large bird has large wings with a white chest and orange beak.",
+                    "indo": "burung besar ini mempunyai sayap yang besar dengan dada berwarna putih dan paruh berwarna oranye."
+                },
+                {
+                    "english": "a medium sized bird, with a white belly, and a short bill.",
+                    "indo": "burung berukuran sedang, perut berwarna putih, dan paruh pendek."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird is white and brown in color, with a orange beak.",
+                    "indo": "burung ini berwarna putih coklat, dengan paruh berwarna jingga."
+                },
+                {
+                    "english": "this bird has very small eyes compared to its head size and has an orange beak and is covered in brown and tan feathers.",
+                    "indo": "burung ini memiliki mata yang sangat kecil dibandingkan dengan ukuran kepalanya dan memiliki paruh berwarna oranye serta ditutupi bulu berwarna coklat dan coklat."
+                },
+                {
+                    "english": "this bird has a white breast and an orange pointed bill.",
+                    "indo": "burung ini memiliki dada berwarna putih dan paruh runcing berwarna oranye."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0028_2056.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "tan and brown body with a white body, dark brown feathers and an orange beak.",
+                    "indo": "berbadan coklat kecokelatan dengan badan berwarna putih, bulu berwarna coklat tua dan paruh berwarna jingga."
+                },
+                {
+                    "english": "big bird with yellow short beak with brown head with brown wings with light brown belly and throat.",
+                    "indo": "burung besar dengan paruh pendek berwarna kuning, kepala berwarna coklat, sayap berwarna coklat, perut dan tenggorokan berwarna coklat muda."
+                },
+                {
+                    "english": "the bird has a greyish white breast with grey throat and yellow pointed bill as well as black and grey coverts.",
+                    "indo": "Burung ini memiliki dada berwarna putih keabu-abuan dengan tenggorokan berwarna abu-abu dan paruh runcing berwarna kuning serta bulu berwarna hitam dan abu-abu."
+                },
+                {
+                    "english": "a large bird with black wings, gray breast, white belly, and a short, orange, broad bill.",
+                    "indo": "seekor burung besar dengan sayap hitam, dada abu-abu, perut putih, dan paruh pendek berwarna oranye dan lebar."
+                },
+                {
+                    "english": "this is a brown water fowl with small eyes and a stocky beak and the wings are a little darker.",
+                    "indo": "ini adalah unggas air berwarna coklat dengan mata kecil dan paruh kekar serta sayap sedikit lebih gelap."
+                },
+                {
+                    "english": "this particular bird has a large orange bill and a white eyebrow",
+                    "indo": "burung ini memiliki paruh besar berwarna oranye dan alis berwarna putih"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and brown",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan coklat"
+                },
+                {
+                    "english": "brown and has a yellow bill",
+                    "indo": "berwarna coklat dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "a large bird with a brown coloring and orange beak.",
+                    "indo": "seekor burung besar dengan warna coklat dan paruh oranye."
+                },
+                {
+                    "english": "this is a dark brown bird, with short wings, and a yellow bill.",
+                    "indo": "ini adalah burung berwarna coklat tua, dengan sayap pendek, dan paruh kuning."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0029_797520.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this black and grey bird has a short bill and swims in the water.",
+                    "indo": "burung berwarna hitam abu-abu ini memiliki paruh pendek dan berenang di air."
+                },
+                {
+                    "english": "an auklet with orange beak is gray all over and has black wings.",
+                    "indo": "auklet dengan paruh oranye berwarna abu-abu seluruhnya dan memiliki sayap hitam."
+                },
+                {
+                    "english": "a law swimming bird, with black wing feathers, a grey breast and face, and a short curved bill.",
+                    "indo": "burung yang bisa berenang, dengan bulu sayap hitam, dada dan wajah abu-abu, serta paruh pendek melengkung."
+                },
+                {
+                    "english": "this bird has a grey crown, a small bill, and a long neck",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu, paruh kecil, dan leher panjang"
+                },
+                {
+                    "english": "this waterbird features a brown exterior and a pointed, stout beak.",
+                    "indo": "burung air ini memiliki bagian luar berwarna coklat dan paruh yang runcing dan kokoh."
+                },
+                {
+                    "english": "this bird has wings that are black and has a bulky yellow beak",
+                    "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki paruh besar berwarna kuning"
+                },
+                {
+                    "english": "a grey bird with a black back and a small white beak.",
+                    "indo": "seekor burung abu-abu dengan punggung hitam dan paruh kecil berwarna putih."
+                },
+                {
+                    "english": "this bird has a short, rounded bill, and a dark brown head.",
+                    "indo": "burung ini memiliki paruh yang pendek, membulat, dan kepala berwarna coklat tua."
+                },
+                {
+                    "english": "this bird is gray in color, with a multi colored beak.",
+                    "indo": "burung ini berwarna abu-abu, dengan paruh beraneka warna."
+                },
+                {
+                    "english": "this bird has a brown crown, brown primaries, and a brown throat.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0030_797509.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "an aquatic bird with brown tones all over and a stout pointed beak",
+                    "indo": "burung akuatik dengan warna coklat di sekujur tubuh dan paruh runcing kekar"
+                },
+                {
+                    "english": "a medium sized, black and brown bird with a rather short beak and small, round eyes.",
+                    "indo": "burung berukuran sedang, berwarna hitam dan coklat dengan paruh agak pendek dan mata bulat kecil."
+                },
+                {
+                    "english": "this bird is black in color with a large brown beak and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh besar berwarna coklat dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this squat looking brown water bird has a curved beak and thick neck.",
+                    "indo": "Burung air berwarna coklat berwujud jongkok ini memiliki paruh melengkung dan leher tebal."
+                },
+                {
+                    "english": "this is a bird with a black spotted back and a brown throat and head.",
+                    "indo": "ini adalah burung dengan punggung berbintik hitam dan tenggorokan serta kepala berwarna coklat."
+                },
+                {
+                    "english": "this bird has wings that are brown and has a bulk beak",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang besar"
+                },
+                {
+                    "english": "this bird has wings that are brown and has a thick bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang tebal"
+                },
+                {
+                    "english": "this bird has brown and purple speckled secondaries and coverts, and pure brown on its face and neck.",
+                    "indo": "burung ini memiliki bulu dan bulu sekunder berbintik-bintik coklat dan ungu, serta coklat murni di wajah dan lehernya."
+                },
+                {
+                    "english": "this bird has a small brown head and body, with detailed wings that have purple in them.",
+                    "indo": "burung ini memiliki kepala dan badan kecil berwarna coklat, dengan detail sayap berwarna ungu di dalamnya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a flat bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pipih"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0031_797518.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has a short, hooked orange bill, orange eyes, black feathers on top and a white breast and belly on bottom",
+                    "indo": "burung ini memiliki paruh pendek berwarna oranye, bermata oranye, bulu hitam di bagian atas, serta dada dan perut berwarna putih di bagian bawah"
+                },
+                {
+                    "english": "this is a dark brown bird with a yellow eye and a large orange beak.",
+                    "indo": "ini adalah burung berwarna coklat tua dengan mata kuning dan paruh oranye besar."
+                },
+                {
+                    "english": "this water bird has a black crown and back, yellow and black bill and cream colored throat.",
+                    "indo": "burung air ini memiliki mahkota dan punggung berwarna hitam, paruh berwarna kuning dan hitam, serta tenggorokan berwarna krem."
+                },
+                {
+                    "english": "this seabird with a yellow-orange bill has an all around black feathering on top with a lighter color underneath.",
+                    "indo": "Burung laut dengan paruh kuning-oranye ini memiliki bulu serba hitam di bagian atasnya dengan warna lebih terang di bawahnya."
+                },
+                {
+                    "english": "a medium sized bird that has tones of dark brown with a medium sized bill",
+                    "indo": "burung berukuran sedang yang memiliki corak coklat tua dengan paruh berukuran sedang"
+                },
+                {
+                    "english": "a water foul with a thick yellow and black bill, dark grey and black head and back, with white throat, breast, belly and abdomen.",
+                    "indo": "burung busuk air dengan paruh tebal berwarna kuning dan hitam, kepala dan punggung berwarna abu-abu tua dan hitam, tenggorokan, dada, perut, dan perut berwarna putih."
+                },
+                {
+                    "english": "the bird has a small yellow eyering, black crown and curved yellow bill.",
+                    "indo": "burung ini memiliki cincin mata kecil berwarna kuning, mahkota berwarna hitam, dan paruh kuning melengkung."
+                },
+                {
+                    "english": "a black bird with a yellow pointed beak in the water.",
+                    "indo": "seekor burung hitam dengan paruh runcing kuning di dalam air."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "large bird with a yellow/gold eyes, large bill, and light brown under side.",
+                    "indo": "burung besar dengan mata kuning/emas, paruh besar, dan bagian bawah berwarna coklat muda."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0032_797516.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this is a black and white bird with a large orange beak.",
+                    "indo": "ini adalah burung hitam putih dengan paruh besar berwarna oranye."
+                },
+                {
+                    "english": "this bird has a large, curved, yellow bill, a white eyebrow, and a white malar stripe.",
+                    "indo": "burung ini mempunyai paruh besar melengkung berwarna kuning, alis berwarna putih, dan garis malar berwarna putih."
+                },
+                {
+                    "english": "this bird has a short, orange bill and white primaries. the bird has a white superciliary and is carrying a small fish.",
+                    "indo": "burung ini memiliki paruh pendek berwarna oranye dan bulu primer berwarna putih. burung itu memiliki superciliary berwarna putih dan sedang membawa seekor ikan kecil."
+                },
+                {
+                    "english": "this bird has an orange curved and thick beak, has a white malar stripe and eyebrow, and is mostly black with a white belly.",
+                    "indo": "burung ini memiliki paruh melengkung berwarna jingga dan tebal, mempunyai garis malar dan alis berwarna putih, serta sebagian besar berwarna hitam dengan perut berwarna putih."
+                },
+                {
+                    "english": "this bird has a black overall color aside from it's vent area which is white in color.",
+                    "indo": "burung ini memiliki warna keseluruhan hitam selain bagian lubang anginnya yang berwarna putih."
+                },
+                {
+                    "english": "this particular bird has black superiors and a large orange bill",
+                    "indo": "burung ini memiliki atasan berwarna hitam dan paruh besar berwarna oranye"
+                },
+                {
+                    "english": "this large bird has a large head and rounded, pointy bill.",
+                    "indo": "burung berukuran besar ini mempunyai kepala yang besar dan paruh yang membulat dan runcing."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0033_2169.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a large darkly colored bird with light grey eyes and a large vertically flat beak that is both black and orange.",
+                    "indo": "seekor burung besar berwarna gelap dengan mata abu-abu terang dan paruh besar datar vertikal berwarna hitam dan oranye."
+                },
+                {
+                    "english": "this bird has a black crown, an orange bill, and a fluffy breast",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, paruh berwarna oranye, dan dada yang mengembang"
+                },
+                {
+                    "english": "this is a plump dark gray bird with a thick beak that is yellow.",
+                    "indo": "ini adalah burung gemuk berwarna abu-abu tua dengan paruh tebal berwarna kuning."
+                },
+                {
+                    "english": "a fair sized black-gray bird with a large two toned beak that begins as black and abruptly turns bright orange.",
+                    "indo": "seekor burung hitam-abu-abu berukuran sedang dengan paruh besar berwarna dua yang awalnya berwarna hitam dan tiba-tiba berubah menjadi oranye terang."
+                },
+                {
+                    "english": "a grey bird with an orange beak having black wings and grey eyes.",
+                    "indo": "burung abu-abu dengan paruh oranye, sayap hitam, dan mata abu-abu."
+                },
+                {
+                    "english": "a large, mostly gray bird with blue eyes, a large head and a very large bill that is gray with a bright yellow tip.",
+                    "indo": "burung besar, sebagian besar berwarna abu-abu, bermata biru, kepala besar, dan paruh sangat besar berwarna abu-abu dengan ujung kuning cerah."
+                },
+                {
+                    "english": "this gray bird has a yellow beak that's thick and large for its head.",
+                    "indo": "burung berwarna abu-abu ini memiliki paruh berwarna kuning yang tebal dan besar untuk kepalanya."
+                },
+                {
+                    "english": "a large grey bird with a large orange colored beak.",
+                    "indo": "seekor burung abu-abu besar dengan paruh besar berwarna oranye."
+                },
+                {
+                    "english": "the bird has a large bill that is yellow and grey.",
+                    "indo": "burung ini memiliki paruh besar berwarna kuning dan abu-abu."
+                },
+                {
+                    "english": "this bird has wings that are grey and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna kuning"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0034_797497.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "large, brown-gray bird, with two white stripes on each side of his face,yellow-orange bil.",
+                    "indo": "burung besar berwarna coklat abu-abu, dengan dua garis putih di setiap sisi wajahnya, warnanya kuning-oranye."
+                },
+                {
+                    "english": "bird has gray body feathers,gray breast feather, and yellow beak",
+                    "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna abu-abu, dan paruh berwarna kuning"
+                },
+                {
+                    "english": "a bird with brown neck, crown and the bill is short and pointed",
+                    "indo": "burung dengan leher berwarna coklat, mahkota dan paruh pendek dan runcing"
+                },
+                {
+                    "english": "an aquatic bird with a dark grey body, white eyebrow and throat, and a yellow bill.",
+                    "indo": "burung akuatik dengan tubuh abu-abu tua, alis dan tenggorokan berwarna putih, serta paruh berwarna kuning."
+                },
+                {
+                    "english": "a large bird with a long neck, and an orange bill.",
+                    "indo": "seekor burung besar dengan leher panjang, dan paruh berwarna oranye."
+                },
+                {
+                    "english": "this particular bird has a brown neck and orange bill",
+                    "indo": "burung ini memiliki leher berwarna coklat dan paruh berwarna oranye"
+                },
+                {
+                    "english": "this bird has a brown crown, white eye brow, and brown and tan colored feathers on the rest of its body.",
+                    "indo": "burung ini mempunyai mahkota berwarna coklat, superciliary mata berwarna putih, dan bulu berwarna coklat kecokelatan di sekujur tubuhnya."
+                },
+                {
+                    "english": "this is a brown bird with a long neck, a short orange bill, and some long white feathers around the eyes.",
+                    "indo": "ini adalah burung berwarna coklat dengan leher panjang, paruh oranye pendek, dan beberapa bulu putih panjang di sekitar matanya."
+                },
+                {
+                    "english": "this bird is dark brown with a yellow beak and white eyebrow and malar stripe.",
+                    "indo": "burung ini berwarna coklat tua dengan paruh berwarna kuning dan alis berwarna putih serta bergaris malar."
+                },
+                {
+                    "english": "the bird has a brown body, with white eyebrows and an orange bill.",
+                    "indo": "burung ini berbadan coklat, alis berwarna putih, dan paruh berwarna jingga."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0035_2166.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this multicolored bird has a small flat bill, and a multicolored breast.",
+                    "indo": "burung beraneka warna ini memiliki paruh kecil yang rata, dan dada beraneka warna."
+                },
+                {
+                    "english": "this is a black and white bird with a large orange beak.",
+                    "indo": "ini adalah burung hitam putih dengan paruh besar berwarna oranye."
+                },
+                {
+                    "english": "the bird has a long head and a grey body with an orange beak.",
+                    "indo": "burung itu memiliki kepala panjang dan tubuh berwarna abu-abu dengan paruh berwarna oranye."
+                },
+                {
+                    "english": "bird with brown beak, black crown, nape, and gray throat, breast and wings, and the head is proportional to its body size",
+                    "indo": "burung dengan paruh berwarna coklat, mahkota hitam, tengkuk, dan tenggorokan berwarna abu-abu, dada dan sayap, serta kepala proporsional dengan ukuran tubuhnya"
+                },
+                {
+                    "english": "this bird has a grey crown, a short orange bill, and a long neck",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu, paruh pendek berwarna oranye, dan leher panjang"
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "a large grey bird, with a short pointed bill.",
+                    "indo": "seekor burung besar berwarna abu-abu, dengan paruh runcing pendek."
+                },
+                {
+                    "english": "this bird has a long beck and a thick orange bill",
+                    "indo": "burung ini mempunyai paruh yang panjang dan paruh berwarna jingga yang tebal"
+                },
+                {
+                    "english": "the ugly grey bird has a chicken like head but swims in the water.",
+                    "indo": "burung abu-abu jelek berkepala ayam tetapi berenang di air."
+                },
+                {
+                    "english": "this bird has a dark orange bill, with a long neck.",
+                    "indo": "burung ini mempunyai paruh berwarna jingga tua, dengan leher yang panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0037_797499.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a bird that is black on its dorsal side and white on ventral side has orange beak and webbed feet.",
+                    "indo": "burung yang bagian punggungnya berwarna hitam dan bagian perutnya berwarna putih, memiliki paruh berwarna jingga dan kaki berselaput."
+                },
+                {
+                    "english": "the bird has white abdomen and breast as well as a grey throat and yellow bill.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih serta tenggorokan berwarna abu-abu dan paruh berwarna kuning."
+                },
+                {
+                    "english": "the bird has a yellow bill and a white eyering that is small.",
+                    "indo": "burung tersebut memiliki paruh berwarna kuning dan cincin mata berwarna putih yang berukuran kecil."
+                },
+                {
+                    "english": "a large bird with a short, orange bill, a black head, a white belly, and short, yellow webbed feet.",
+                    "indo": "seekor burung besar dengan paruh pendek berwarna oranye, kepala hitam, perut putih, dan kaki pendek berselaput kuning."
+                },
+                {
+                    "english": "a bird with a white breast and webbed feet and orange bill",
+                    "indo": "seekor burung dengan dada putih dan kaki berselaput serta paruh oranye"
+                },
+                {
+                    "english": "a bird with an orange bill, white belly and yellow feet.",
+                    "indo": "burung dengan paruh berwarna jingga, perut berwarna putih, dan kaki berwarna kuning."
+                },
+                {
+                    "english": "this bird has a white belly and breasts and has a grey head and back with a yellow beak and feet.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih serta memiliki kepala dan punggung berwarna abu-abu dengan paruh dan kaki berwarna kuning."
+                },
+                {
+                    "english": "this bird has a white chest, grey and white flank, and a short, wide orange bill.",
+                    "indo": "burung ini memiliki dada berwarna putih, panggul berwarna abu-abu dan putih, serta paruh pendek berwarna oranye."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with gray spots",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bintik-bintik abu-abu"
+                },
+                {
+                    "english": "this bird has a grey crown with orange beak and white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh berwarna oranye dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0038_797544.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this black bird has an orange beak slightly pointing downwards, and a white malar stripe.",
+                    "indo": "burung berwarna hitam ini memiliki paruh berwarna jingga agak mengarah ke bawah, dan garis malar berwarna putih."
+                },
+                {
+                    "english": "a large bird with with black crown and back with a orange bill",
+                    "indo": "seekor burung besar dengan mahkota berwarna hitam dan punggung dengan paruh berwarna oranye"
+                },
+                {
+                    "english": "this black-colored bird has a thin white stripe nears its bill extending diagonally down the neck, and a faint white stripe at the eyebrow.",
+                    "indo": "Burung berwarna hitam ini memiliki garis putih tipis di dekat paruhnya yang memanjang secara diagonal ke bawah leher, dan garis putih samar di bagian alisnya."
+                },
+                {
+                    "english": "this water bird is primarily dark grey with a large, curved orange bill.",
+                    "indo": "burung air ini sebagian besar berwarna abu-abu tua dengan paruh besar berwarna oranye melengkung."
+                },
+                {
+                    "english": "this large bird has a mostly dark grey body with a short blunt bill.",
+                    "indo": "burung besar ini sebagian besar memiliki tubuh berwarna abu-abu tua dengan paruh pendek yang tumpul."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has wings that are brown and has an orange bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+                },
+                {
+                    "english": "this bird has a curved orange beak and a black body.",
+                    "indo": "burung ini memiliki paruh melengkung berwarna oranye dan tubuh berwarna hitam."
+                },
+                {
+                    "english": "the bill of the bird is a distinctive orange, with a slight pointed curve at the tip.",
+                    "indo": "Paruh burung ini berwarna jingga khas, dengan ujung agak melengkung."
+                },
+                {
+                    "english": "a bird with an orange beak, black head and neck with black wings.",
+                    "indo": "burung dengan paruh berwarna jingga, kepala dan leher berwarna hitam, serta sayap berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0039_2174.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a dark waterbird with a thick, short yellow bill, and a bright yellow eye.",
+                    "indo": "burung air berwarna gelap dengan paruh tebal berwarna kuning pendek, dan mata kuning cerah."
+                },
+                {
+                    "english": "this is a brown bird with a large neck and a large orange beak.",
+                    "indo": "ini adalah burung berwarna coklat dengan leher besar dan paruh oranye besar."
+                },
+                {
+                    "english": "a dark bird with brown body and yellow, conical beak.",
+                    "indo": "burung berwarna gelap dengan tubuh coklat dan paruh kuning berbentuk kerucut."
+                },
+                {
+                    "english": "black water bird with a n orange bill with a small amount of white on it's throat.",
+                    "indo": "burung air berwarna hitam dengan paruh berwarna jingga dan sedikit warna putih di tenggorokannya."
+                },
+                {
+                    "english": "this bird has a black exterior for its feathers and a curved like orange beak",
+                    "indo": "burung ini memiliki bagian luar yang berwarna hitam pada bulunya dan paruhnya yang melengkung seperti warna oranye"
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "this bird is black and brown in color, with a orange beak.",
+                    "indo": "burung ini berwarna hitam kecokelatan, dengan paruh berwarna oranye."
+                },
+                {
+                    "english": "this bird has a brown crown, brown primaries, and a brown throat.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+                },
+                {
+                    "english": "a medium size bird with an orange beak with black tip.",
+                    "indo": "burung berukuran sedang dengan paruh berwarna jingga dengan ujung berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0040_797503.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird has sharp and pointed beak, the beak is orange, and the throat and breast is in gray, and belly is white.",
+                    "indo": "Burung ini mempunyai paruh yang runcing dan runcing, paruhnya berwarna jingga, tenggorokan dan dadanya berwarna abu-abu, serta perutnya berwarna putih."
+                },
+                {
+                    "english": "the plump bird has a grey body with a dark grey crown and yellow bill.",
+                    "indo": "burung gempal memiliki tubuh berwarna abu-abu dengan mahkota berwarna abu-abu tua dan paruh berwarna kuning."
+                },
+                {
+                    "english": "this is a bird with a grey breast, black back and head and an orange beak.",
+                    "indo": "ini adalah burung dengan dada abu-abu, punggung dan kepala hitam, serta paruh oranye."
+                },
+                {
+                    "english": "medium grey white and black bird with medium tarsus, webbed feet and orange beak",
+                    "indo": "burung putih dan hitam abu-abu sedang dengan tarsus sedang, kaki berselaput dan paruh oranye"
+                },
+                {
+                    "english": "this is a bird with a white belly, grey breast and a black head with an orange beak.",
+                    "indo": "ini adalah burung dengan perut putih, dada abu-abu dan kepala hitam dengan paruh oranye."
+                },
+                {
+                    "english": "a small bird with a white tarsus and belly, grey webbed feet and a small but pointy orange beak .",
+                    "indo": "seekor burung kecil dengan tarsus dan perut berwarna putih, kaki berselaput abu-abu, dan paruh kecil berwarna jingga runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "this bird has a white belly and gray-ish breast, webbed feet, and a black head with white streaks and a yellow beak.",
+                    "indo": "burung ini mempunyai perut berwarna putih dan dada keabu-abuan, kaki berselaput, serta kepala berwarna hitam dengan guratan putih dan paruh berwarna kuning."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0041_797515.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this is a grey bird with black wings and an orange beak.",
+                    "indo": "ini adalah burung abu-abu dengan sayap hitam dan paruh oranye."
+                },
+                {
+                    "english": "the bird has a grey curved head with an orange beak and a yellow eyering.",
+                    "indo": "burung itu memiliki kepala melengkung berwarna abu-abu dengan paruh oranye dan cincin mata berwarna kuning."
+                },
+                {
+                    "english": "this is a grey bird with a black wing and a large orange beak.",
+                    "indo": "ini adalah burung abu-abu dengan sayap hitam dan paruh oranye besar."
+                },
+                {
+                    "english": "this bird is black in color with a orange beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh berwarna oranye, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird has grey crown, a grey breast, and an orange bill.",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu, dada berwarna abu-abu, dan paruh berwarna oranye."
+                },
+                {
+                    "english": "this bird is black with grey and has a very short beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this is a grey bird floating in water with a bright, orange bill. it also has stripes of white along its neck.",
+                    "indo": "ini adalah burung abu-abu yang mengambang di air dengan paruh berwarna oranye cerah. ia juga memiliki garis-garis putih di sepanjang lehernya."
+                },
+                {
+                    "english": "a medium sized black bird, with white eyebrows, and a short yellow bill.",
+                    "indo": "burung hitam berukuran sedang, alis putih, dan paruh pendek berwarna kuning."
+                },
+                {
+                    "english": "bird with a thick yellow beak, a gray head, and black wings.",
+                    "indo": "burung dengan paruh kuning tebal, kepala abu-abu, dan sayap hitam."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0042_2101.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "large bird with mostly a dark gray body, speckled with white ununiformally throughout, yellow beak, brown eyes.",
+                    "indo": "burung besar dengan tubuh sebagian besar berwarna abu-abu tua, berbintik-bintik putih tidak seragam, paruh kuning, mata coklat."
+                },
+                {
+                    "english": "a medium sized bird that has multiple tones of grey with a medium sized pointed bill",
+                    "indo": "burung berukuran sedang yang memiliki banyak warna abu-abu dengan paruh runcing berukuran sedang"
+                },
+                {
+                    "english": "this bird has a long yellow and black beak, with black and grey feathers covering the rest of its body.",
+                    "indo": "burung ini memiliki paruh panjang berwarna kuning dan hitam, dengan bulu berwarna hitam dan abu-abu menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird has a pointy yellow bill, black head and wings, and a yellow throat.",
+                    "indo": "burung ini memiliki paruh runcing berwarna kuning, kepala dan sayap berwarna hitam, serta tenggorokan berwarna kuning."
+                },
+                {
+                    "english": "this bird's plumage is various shades of black and grey, and it has a bright yellow-orange bill and brown eyes.",
+                    "indo": "Bulu burung ini memiliki berbagai corak warna hitam dan abu-abu, serta memiliki paruh berwarna kuning-oranye cerah dan mata berwarna coklat."
+                },
+                {
+                    "english": "this bird contains black and white feathers covering its throat, grey along its flank, and black coverts.",
+                    "indo": "burung ini memiliki bulu hitam putih menutupi tenggorokannya, bulu abu-abu di sepanjang sisinya, dan bulu hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "this bird is black with grey and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a slick looking black bird with a long golden beak.",
+                    "indo": "seekor burung hitam yang tampak licin dengan paruh panjang berwarna emas."
+                },
+                {
+                    "english": "the bird has a small yellow bill and spotted black belly and breast.",
+                    "indo": "burung itu memiliki paruh kecil berwarna kuning dan perut serta dada berbintik-bintik hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0043_2096.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this is a dark gray bird with a black and orange, sturdy hooked bill.",
+                    "indo": "ini adalah burung abu-abu tua dengan paruh bengkok berwarna hitam dan oranye yang kokoh."
+                },
+                {
+                    "english": "a black bird with orange spikes coming off the face and a bright orange bill.",
+                    "indo": "seekor burung hitam dengan duri jingga yang muncul di wajahnya dan paruh jingga cerah."
+                },
+                {
+                    "english": "a sleek bodied black bird with an orange and black pointed beak and long tan colored eyebrows and cheek tufts.",
+                    "indo": "seekor burung hitam bertubuh ramping dengan paruh runcing oranye dan hitam serta alis dan jumbai pipi panjang berwarna cokelat."
+                },
+                {
+                    "english": "this bird is mostly dark grey with a sharp pointy bill.",
+                    "indo": "burung ini sebagian besar berwarna abu-abu tua dengan paruh runcing dan runcing."
+                },
+                {
+                    "english": "medium to large black and grey bird with medium orange and black beak",
+                    "indo": "burung hitam dan abu-abu berukuran sedang hingga besar dengan paruh oranye dan hitam sedang"
+                },
+                {
+                    "english": "this bird is black with red and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the crown of the bird is a solid black, and the beak has shades of orange and black.",
+                    "indo": "mahkota burung berwarna hitam pekat, dan paruhnya bernuansa oranye dan hitam."
+                },
+                {
+                    "english": "this bird is black and has a very short beak.",
+                    "indo": "burung ini berwarna hitam dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has smooth dark-brown feathers and a thick yellowish beak.",
+                    "indo": "burung ini memiliki bulu halus berwarna coklat tua dan paruh tebal berwarna kekuningan."
+                },
+                {
+                    "english": "this bird has a unique curved orange/black bill and long pointy nape",
+                    "indo": "Burung ini mempunyai paruh unik berwarna oranye/hitam yang melengkung dan tengkuknya yang panjang dan runcing"
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0044_797502.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a bird has a small black head, a small black bill, and a neck that is long and grey.",
+                    "indo": "seekor burung memiliki kepala kecil berwarna hitam, paruh kecil berwarna hitam, dan leher yang panjang dan berwarna abu-abu."
+                },
+                {
+                    "english": "a mostly black bird with a white chest and a short beak.",
+                    "indo": "burung yang sebagian besar berwarna hitam dengan dada putih dan paruh pendek."
+                },
+                {
+                    "english": "this bird is black and white in color with a large black beak and black eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh besar berwarna hitam dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this is a black and white bird with a white throat and a white belly",
+                    "indo": "ini adalah burung hitam putih dengan tenggorokan putih dan perut putih"
+                },
+                {
+                    "english": "the birds has a black head, nape, back and coverts area.",
+                    "indo": "burung ini memiliki area kepala, tengkuk, punggung, dan bulu berwarna hitam."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "a bird with black head and back and gray breast with a short gray beak.",
+                    "indo": "seekor burung dengan kepala dan punggung berwarna hitam dan dada berwarna abu-abu dengan paruh pendek berwarna abu-abu."
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black and gray",
+                    "indo": "burung ini memiliki perut yang berwarna putih, hitam, dan abu-abu"
+                },
+                {
+                    "english": "this bird has a black back, white belly, and breast",
+                    "indo": "burung ini memiliki punggung berwarna hitam, perut berwarna putih, dan dada"
+                },
+                {
+                    "english": "a bird with a white breast and a black crown.",
+                    "indo": "seekor burung dengan dada putih dan mahkota hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0045_797536.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a water swimming greyish colored bird with a sharp, stubby beak.",
+                    "indo": "seekor burung berenang di air berwarna keabu-abuan dengan paruh yang tajam dan gemuk."
+                },
+                {
+                    "english": "this is a grey bird with a black head and an orange beak.",
+                    "indo": "ini adalah burung abu-abu dengan kepala hitam dan paruh oranye."
+                },
+                {
+                    "english": "this water bird is brown with a thick dark orange beak, a prominent feature is a raised crest at the base of the beak.",
+                    "indo": "burung air ini berwarna coklat dengan paruh tebal berwarna jingga tua, ciri yang menonjol adalah jambul yang meninggi pada pangkal paruh."
+                },
+                {
+                    "english": "this bird is fairly large, with a orange beak that has a rounded top.",
+                    "indo": "burung ini berukuran cukup besar, dengan paruh berwarna oranye yang bagian atasnya membulat."
+                },
+                {
+                    "english": "the large bird is mostly brown, with a thick pointed orange bill that curves slightly downward, it has a thin white stripe of eyebrow.",
+                    "indo": "burung besar sebagian besar berwarna coklat, dengan paruh tebal berwarna jingga runcing agak melengkung ke bawah, memiliki garis alis tipis berwarna putih."
+                },
+                {
+                    "english": "this bird is brown with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the bird has a curved bill that is orange and a black bill.",
+                    "indo": "burung tersebut memiliki paruh melengkung berwarna oranye dan paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a large black bird with red bill.",
+                    "indo": "seekor burung hitam besar dengan paruh merah."
+                },
+                {
+                    "english": "a brown bird with a white stripe along the eye and a sharp curved bill.",
+                    "indo": "burung berwarna coklat dengan garis putih di sepanjang matanya dan paruh melengkung tajam."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0046_797532.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird submerges in water and is large with an even greyish black coloring.",
+                    "indo": "burung itu terendam air dan berukuran besar dengan warna hitam keabu-abuan."
+                },
+                {
+                    "english": "this is a grey bird that swims in the water. it's bill is brown and it's belly is lighter than it's back.",
+                    "indo": "ini adalah burung abu-abu yang berenang di air. paruhnya berwarna coklat dan perutnya lebih ringan dibandingkan punggungnya."
+                },
+                {
+                    "english": "this bird is generally black in color, with a long beak and a dark eye ring.",
+                    "indo": "burung ini umumnya berwarna hitam, dengan paruh panjang dan cincin mata berwarna gelap."
+                },
+                {
+                    "english": "this medium sized bird has black and gray feathers and a long, thick bill",
+                    "indo": "burung berukuran sedang ini memiliki bulu berwarna hitam abu-abu serta paruh yang panjang dan tebal"
+                },
+                {
+                    "english": "this bird is black in color with a black beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this bird is brown with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the bird is black throughout with an average length beak.",
+                    "indo": "burung itu berwarna hitam seluruhnya dengan panjang paruh rata-rata."
+                },
+                {
+                    "english": "this bird is black with grey and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird is brown with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a large bird with a black coloring and pointed beak.",
+                    "indo": "seekor burung besar dengan warna hitam dan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0048_2162.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a black bird with a grey belly, a big head, an orange beak, a white malar stripe and webbed feet.",
+                    "indo": "burung hitam dengan perut abu-abu, kepala besar, paruh oranye, garis malar putih, dan kaki berselaput."
+                },
+                {
+                    "english": "this bird has an orange bill, white eyebrows and malar stripe that protrude from the head, as well as webbed grey feet that are a similar color to it's white belly and grey breast.",
+                    "indo": "Burung ini memiliki paruh berwarna jingga, alis berwarna putih, dan garis malar yang menonjol dari kepala, serta berselaput kaki berwarna abu-abu yang warnanya mirip dengan perut putih dan dada berwarna abu-abu."
+                },
+                {
+                    "english": "a large grey bird with a large curved bill, webbed feet and white stripes on its head.",
+                    "indo": "seekor burung besar berwarna abu-abu dengan paruh besar melengkung, kaki berselaput, dan garis-garis putih di kepalanya."
+                },
+                {
+                    "english": "this bird has dark grey wings, a light grey and white belly, and an orange beak.",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu tua, perut berwarna abu-abu muda dan putih, serta paruh berwarna jingga."
+                },
+                {
+                    "english": "a large bird with a gray belly and breast, black wings and back, white eyebrows and an orange bill.",
+                    "indo": "seekor burung besar dengan perut dan dada berwarna abu-abu, sayap dan punggung hitam, alis putih, dan paruh oranye."
+                },
+                {
+                    "english": "this particular bird has a white belly with a gray breast and orange bill",
+                    "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna abu-abu dan paruh berwarna oranye"
+                },
+                {
+                    "english": "a large bird with an orange bill, grey breast and black secondaries.",
+                    "indo": "seekor burung besar dengan paruh oranye, dada abu-abu, dan bulu sekunder berwarna hitam."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with gray patches",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bercak abu-abu"
+                },
+                {
+                    "english": "this bird has wings that are brown and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+                },
+                {
+                    "english": "this bird has a black crown, grey primaries, and a grey belly.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna abu-abu, dan perut berwarna abu-abu."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0049_797543.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "the bird is predominantly black, with a sharp, medium-length beak, which is orange, and some white stripes on the head and neck.",
+                    "indo": "burung ini didominasi warna hitam, dengan paruh runcing berukuran sedang, berwarna oranye, dan beberapa garis putih di kepala dan leher."
+                },
+                {
+                    "english": "small black bird with medium orange beak and medium orange tarsus",
+                    "indo": "burung hitam kecil dengan paruh jingga sedang dan tarsus jingga sedang"
+                },
+                {
+                    "english": "this bird is all black with an orange beak and a bit of white between the head and beak.",
+                    "indo": "burung ini berwarna serba hitam dengan paruh berwarna oranye dan sedikit warna putih di antara kepala dan paruhnya."
+                },
+                {
+                    "english": "a black bird with a thick yellow bill and thin white stripes on the throat and eyebrow.",
+                    "indo": "burung berwarna hitam dengan paruh tebal berwarna kuning dan garis putih tipis di tenggorokan dan alis."
+                },
+                {
+                    "english": "a black bird with abstract head structure and muted orange, wide beak.",
+                    "indo": "seekor burung hitam dengan struktur kepala abstrak dan paruh lebar berwarna jingga kalem."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+                },
+                {
+                    "english": "this dark gray bird has a large yellow bill and white malar stripe.",
+                    "indo": "burung berwarna abu-abu tua ini memiliki paruh besar berwarna kuning dan garis malar putih."
+                },
+                {
+                    "english": "this is a small black bird, with a short yellow bill.",
+                    "indo": "ini adalah burung hitam kecil, dengan paruh pendek berwarna kuning."
+                },
+                {
+                    "english": "this bird has wings that are black and has an orange bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+                },
+                {
+                    "english": "a black bird with an orange beak standing on the ground.",
+                    "indo": "seekor burung hitam dengan paruh oranye berdiri di tanah."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0050_797534.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "this large bird has dark gray wings, tail and head, light gray breast, nearly white flank and a bright yellow bill.",
+                    "indo": "burung besar ini memiliki sayap, ekor dan kepala berwarna abu-abu tua, dada berwarna abu-abu muda, panggul hampir putih, dan paruh berwarna kuning cerah."
+                },
+                {
+                    "english": "the bird has a gray belly with black wings and a black striped face.",
+                    "indo": "burung tersebut memiliki perut berwarna abu-abu dengan sayap hitam dan wajah bergaris hitam."
+                },
+                {
+                    "english": "this bird has an orange bill, a light grey belly, black wings, back, and head, and white eyebrow and malar stripe.",
+                    "indo": "burung ini mempunyai paruh berwarna jingga, perut berwarna abu-abu muda, sayap, punggung, dan kepala berwarna hitam, serta alis dan garis malar berwarna putih."
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a large pointy bill.",
+                    "indo": "Burung ini mempunyai perut dan dada yang berbintik-bintik dengan paruh yang besar dan runcing."
+                },
+                {
+                    "english": "a bird with a light gray breast and belly, orange beak and dark grey back and wings.",
+                    "indo": "burung dengan dada dan perut berwarna abu-abu muda, paruh berwarna jingga, serta punggung dan sayap berwarna abu-abu tua."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this particular bird has a white belly and gray breasts and orange bill",
+                    "indo": "burung ini memiliki perut berwarna putih dan dada berwarna abu-abu serta paruh berwarna oranye"
+                },
+                {
+                    "english": "this bird has a black head with a white malar stripe that juts out, its beak is orange and curved downwards with a noticable white protrusion.",
+                    "indo": "burung ini mempunyai kepala berwarna hitam dengan garis malar putih yang menonjol keluar, paruhnya berwarna jingga dan melengkung ke bawah dengan tonjolan putih yang mencolok."
+                },
+                {
+                    "english": "this bird has a dark gray back, light gray breast and belly and a curved orange bill.",
+                    "indo": "burung ini memiliki punggung berwarna abu-abu tua, dada dan perut berwarna abu-abu muda, serta paruh berwarna oranye yang melengkung."
+                },
+                {
+                    "english": "this bird has a yellow bill, light grey breast, and darker grey wings.",
+                    "indo": "burung ini memiliki paruh berwarna kuning, dada berwarna abu-abu muda, dan sayap berwarna abu-abu tua."
+                }
+            ]
+        },
+        {
+            "filename": "Rhinoceros_Auklet_0051_797510.jpg",
+            "class_id": 7,
+            "captions": [
+                {
+                    "english": "a bird with brown tones all over and a striped head with a stout beak",
+                    "indo": "seekor burung dengan seluruh warna coklat dan kepala bergaris dengan paruh kokoh"
+                },
+                {
+                    "english": "a bird with a very large orange bill which has a protrusion near the superciliary and brown covering its body.",
+                    "indo": "burung dengan paruh berwarna jingga yang sangat besar yang memiliki tonjolan di dekat superciliary dan berwarna coklat menutupi tubuhnya."
+                },
+                {
+                    "english": "this bird is nearly all brown with white strips on its neck and nape.",
+                    "indo": "burung ini hampir seluruhnya berwarna coklat dengan garis-garis putih di leher dan tengkuknya."
+                },
+                {
+                    "english": "black bird with peach belly and bread with black and white srtiped head.",
+                    "indo": "burung hitam dengan perut buah persik dan roti dengan kepala bergaris hitam putih."
+                },
+                {
+                    "english": "the bird has black secondaries and a long orange bill.",
+                    "indo": "burung itu memiliki paruh kedua berwarna hitam dan paruh oranye yang panjang."
+                },
+                {
+                    "english": "this bird has brown wings, a white cheek patch and eye brow, and a short yellow-orange bill.",
+                    "indo": "burung ini memiliki sayap berwarna coklat, penutup pipi dan superciliary mata berwarna putih, serta paruh pendek berwarna kuning-oranye."
+                },
+                {
+                    "english": "a small, mostly black bird with a short tail, white nape and malar stripe, and a bright orange and red bill.",
+                    "indo": "burung kecil, sebagian besar berwarna hitam dengan ekor pendek, tengkuk putih dan garis malar, serta paruh oranye terang dan merah."
+                },
+                {
+                    "english": "this bird is black with brown and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has an orange bill with black crown and white malar stripe.",
+                    "indo": "burung ini mempunyai paruh berwarna jingga dengan mahkota berwarna hitam dan garis malar berwarna putih."
+                },
+                {
+                    "english": "the malar stripe and eyebrows have a distinctive white color that stands out from the brown/black body.",
+                    "indo": "garis malar dan alis memiliki warna khas putih yang menonjol dibandingkan badannya yang berwarna coklat/hitam."
+                }
+            ]
+        }
+    ]
+}

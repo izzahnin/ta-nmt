@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Chipping_Sparrow_0001_108638.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this small bird has a white belly and breast, a black beak, gray tarsus and feet, brown feathers and a white wing plate.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, paruh berwarna hitam, tarsus dan kaki berwarna abu-abu, bulu berwarna coklat, dan pelat sayap berwarna putih."
+        },
+        {
+          "english": "this bird has unique brown, black and white stripes on his head and wings.",
+          "indo": "burung ini memiliki ciri khas garis-garis coklat, hitam dan putih di kepala dan sayapnya."
+        },
+        {
+          "english": "the bird has grey abdomen, with brown, black and white colored coverts and a brown crown.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, dengan bulu berwarna coklat, hitam dan putih serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a red stripe on its head and brown and black patterned wings.",
+          "indo": "burung ini memiliki garis merah di kepalanya dan sayap bercorak coklat dan hitam."
+        },
+        {
+          "english": "a bird with a red corwn, white eyebrow, small triangular bill, whtie wingbars and powder blue breast.",
+          "indo": "seekor burung dengan mahkota merah, alis putih, paruh segitiga kecil, garis sayap putih, dan dada berwarna biru pucat."
+        },
+        {
+          "english": "the bird has a grey chest, and an orange stripe on top of its head, with a light orange and black back with a short black beak and yellow feet.",
+          "indo": "burung ini memiliki dada berwarna abu-abu, dan garis oranye di atas kepalanya, dengan punggung berwarna oranye muda dan hitam dengan paruh hitam pendek dan kaki kuning."
+        },
+        {
+          "english": "this small bird has a prominent orange crown, a white belly and black, orange and white wings.",
+          "indo": "burung kecil ini memiliki mahkota berwarna jingga yang menonjol, perut berwarna putih, dan sayap berwarna hitam jingga dan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is gray with black patches",
+          "indo": "Burung ini mempunyai perut berwarna abu-abu dengan bercak hitam"
+        },
+        {
+          "english": "light grey colored bird with brown wings, an orange strip between its eyes and a small black beak.",
+          "indo": "burung berwarna abu-abu muda dengan sayap coklat, garis oranye di antara matanya dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0004_108430.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small grey bird with black and white feathers on its wing and dark brown feathers on its head.",
+          "indo": "burung kecil berwarna abu-abu dengan bulu hitam putih di sayapnya dan bulu coklat tua di kepalanya."
+        },
+        {
+          "english": "this small bird is mostly grey but has a prominent brown crown with darker grey eye and cheek patches.",
+          "indo": "burung kecil ini sebagian besar berwarna abu-abu tetapi memiliki mahkota berwarna coklat yang menonjol dengan mata dan pipi berwarna abu-abu gelap."
+        },
+        {
+          "english": "this regal bird has a long gray tail with multi-colored wing bars, and a malar stripe under its eye.",
+          "indo": "burung agung ini memiliki ekor panjang berwarna abu-abu dengan garis sayap beraneka warna, dan garis malar di bawah matanya."
+        },
+        {
+          "english": "a small bird with a rust colored crown, brown wings with 1 white wingbar and a grey belly.",
+          "indo": "burung kecil dengan mahkota berwarna karat, sayap berwarna coklat dengan 1 garis sayap berwarna putih dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this little bird has a more neutral color with a white belly, and stripes of burnt orange, grey, black and brown stripes on its wings and tail feathers.",
+          "indo": "Burung kecil ini memiliki warna yang lebih netral dengan perut berwarna putih, serta garis-garis jingga gosong, abu-abu, hitam dan coklat pada sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird has wings that are brown and has rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan perutnya yang bulat"
+        },
+        {
+          "english": "this bird has a red crown, white eye ring, white wing bars, and brown and black secondaries with a grey and white chest.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, cincin mata berwarna putih, garis sayap berwarna putih, dan bulu sekunder berwarna coklat dan hitam dengan dada berwarna abu-abu dan putih."
+        },
+        {
+          "english": "a bird with a red-brown crown, white eyebrow, a black eye and bill, grey cheek patch, light grey breast, light yellow belly, and dark brown wings with a white wingbar.",
+          "indo": "burung dengan mahkota merah kecoklatan, alis putih, mata dan paruh hitam, pipi abu-abu, dada abu-abu muda, perut kuning muda, dan sayap coklat tua dengan garis sayap putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "this white and gray bird is accented with a reddish tone on its crown, feet and tarsus.",
+          "indo": "burung berwarna putih abu-abu ini diberi aksen warna kemerahan pada ubun-ubun, kaki, dan tarsusnya."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0005_108931.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a round bird with a grey belly and an orange crown.",
+          "indo": "burung bulat dengan perut abu-abu dan mahkota oranye."
+        },
+        {
+          "english": "this is a fluffy bird with a grey breast and a red head.",
+          "indo": "ini adalah burung berbulu halus dengan dada abu-abu dan kepala merah."
+        },
+        {
+          "english": "this fluffy bird has a feathery orange crown, and a gray body.",
+          "indo": "burung berbulu halus ini memiliki mahkota berbulu oranye, dan tubuh berwarna abu-abu."
+        },
+        {
+          "english": "the bird in the picture has an orange crest, while its head and body are a light brown color.",
+          "indo": "Burung pada gambar mempunyai jambul berwarna jingga, sedangkan kepala dan badannya berwarna coklat muda."
+        },
+        {
+          "english": "this is a small and fluffy grey bird with a brown nape and a pointy beak.",
+          "indo": "ini adalah burung abu-abu kecil dan berbulu halus dengan tengkuk coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna kuning"
+        },
+        {
+          "english": "this bird is brown with red and has a very short beak.",
+          "indo": "burung ini berwarna coklat kemerahan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this brown bird has distinctive orange plumage on top of its head.",
+          "indo": "burung berwarna coklat ini memiliki bulu khas berwarna jingga di atas kepalanya."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and tan",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan kecokelatan"
+        },
+        {
+          "english": "a small bird with an orange crown and the rest of the bird is a blend of varying browns.",
+          "indo": "seekor burung kecil dengan mahkota berwarna jingga dan selebihnya merupakan perpaduan warna coklat yang bervariasi."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0006_107849.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this tiny little birds stands atop of small, peachy talons, a short and stout beak and a bright patch of orange on his head.",
+          "indo": "burung kecil mungil ini berdiri di atas cakar kecil berwarna persik, paruh pendek dan kokoh, serta bercak oranye cerah di kepalanya."
+        },
+        {
+          "english": "this bird has a short, straight, black bill, a light brown crown, and a black cheek patch.",
+          "indo": "burung ini memiliki paruh pendek, lurus, berwarna hitam, mahkota berwarna coklat muda, dan bercak di pipi berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly and a brown crown on its head.",
+          "indo": "ini adalah burung dengan perut putih dan mahkota coklat di kepalanya."
+        },
+        {
+          "english": "this bird has a brown crown, and covert with a white breast, belly and side.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dan ditutupi dengan dada, perut dan samping berwarna putih."
+        },
+        {
+          "english": "this small bird is predominantly brown and gray with a brighter brown crown and a small head.",
+          "indo": "Burung kecil ini didominasi warna coklat dan abu-abu dengan mahkota berwarna coklat cerah dan kepala kecil."
+        },
+        {
+          "english": "this bird has an offwhite belly with very distinct beige and brown patterns on the wings and an orange crown.",
+          "indo": "burung ini memiliki perut berwarna putih pucat dengan pola krem ​​​​dan coklat yang sangat berbeda pada sayapnya serta mahkota berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a white body, with light and dark brown streaked wings and and crown.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna putih, dengan sayap dan mahkota bergaris coklat muda dan tua."
+        },
+        {
+          "english": "this small bird has cofee colored head, and light colored belly.",
+          "indo": "burung kecil ini memiliki kepala berwarna kopi, dan perut berwarna terang."
+        },
+        {
+          "english": "a small brown bird, with white eyebrows, and a long tail.",
+          "indo": "seekor burung kecil berwarna coklat, dengan alis putih, dan ekor panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0008_107810.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the top of the bird's head is red while the area of the eyes is marked by brown and white stripes colors which are also present on the wings.",
+          "indo": "bagian atas kepala burung berwarna merah sedangkan area matanya ditandai dengan warna garis-garis coklat dan putih yang juga terdapat pada sayapnya."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a brown crown, black superciliaries, and white wingbars.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih dengan mahkota berwarna coklat, superciliary berwarna hitam, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "the feet are long and thin and rectrices are long",
+          "indo": "kakinya panjang dan tipis dan rectrices  panjang"
+        },
+        {
+          "english": "this small plump bird is gray with brown and black accents on it's head dvd it's wing feathers.",
+          "indo": "burung kecil gempal ini berwarna abu-abu dengan aksen coklat dan hitam di kepala dan bulu sayapnya."
+        },
+        {
+          "english": "this bird has an orange crown, black and white cheek stripe, grey belly, and wings with black, brown and white stripes.",
+          "indo": "burung ini mempunyai mahkota berwarna jingga, garis pipi hitam putih, perut berwarna abu-abu, dan sayap bergaris hitam, coklat dan putih."
+        },
+        {
+          "english": "this bird has a two toned light and dark brown top of the head and wings.",
+          "indo": "burung ini memiliki bagian atas kepala dan sayap dua warna terang dan coklat tua."
+        },
+        {
+          "english": "this bird is gray and brown in color, with a small brown beak.",
+          "indo": "burung ini berwarna abu-abu coklat, dengan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "this bird is gray and brown in color, with a small beak.",
+          "indo": "burung ini berwarna abu-abu coklat, dengan paruh kecil."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and has black patches",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan memiliki bercak hitam"
+        },
+        {
+          "english": "this is a small bird, brown in color, with white eyebrows.",
+          "indo": "ini burung kecil, berwarna coklat, dengan alis putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0010_109760.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a small head compared to its body, with brown wings and light blue side and belly.",
+          "indo": "burung ini memiliki kepala yang kecil dibandingkan tubuhnya, dengan sayap berwarna coklat serta bagian samping dan perut berwarna biru muda."
+        },
+        {
+          "english": "this bird has a white belly, brown eyes, a yellow-gray beak and yellow-gray feet and tarsus, as well as dark brown primaries and light brown secondaries on the wings.",
+          "indo": "burung ini mempunyai perut berwarna putih, mata coklat, paruh kuning abu-abu dan kaki serta tarsus kuning abu-abu, serta sayap bulu primer berwarna coklat tua dan sayap bulu sekunder berwarna coklat muda."
+        },
+        {
+          "english": "a little gray bird with brown coverts, secondaries, crown and back.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bulu berwarna coklat, bulu sekunder, mahkota dan punggung."
+        },
+        {
+          "english": "a small sized bird that has tones of grey and brown with a very short bill",
+          "indo": "burung berukuran kecil berwarna abu-abu dan coklat dengan paruh yang sangat pendek"
+        },
+        {
+          "english": "the bird has a white belly, the bill is short and pointed,the head is small compared to its body",
+          "indo": "burung ini perutnya berwarna putih, paruhnya pendek dan runcing, kepalanya kecil dibandingkan badannya"
+        },
+        {
+          "english": "a small bird with grey covering its throat, nape, breast, belly and vent and brown and cream secondaries.",
+          "indo": "seekor burung kecil dengan warna abu-abu menutupi tenggorokan, tengkuk, dada, perut dan lubang kloaka serta bagian bulu sekunder berwarna coklat dan krem."
+        },
+        {
+          "english": "a gray body bird with a small head in comparison to the body.",
+          "indo": "burung berbadan abu-abu dengan kepala kecil dibandingkan badannya."
+        },
+        {
+          "english": "this small bird has black and brown feathers with a grey breast.",
+          "indo": "burung kecil ini memiliki bulu berwarna hitam coklat dengan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a small pointed bill and a dirty grey breast color",
+          "indo": "burung ini mempunyai paruh kecil yang runcing dan warna dada abu-abu kotor"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0011_108081.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "short, but large breasted brown bird with a rust colored crown and short bill.",
+          "indo": "burung coklat pendek namun berdada besar dengan mahkota berwarna karat dan paruh pendek."
+        },
+        {
+          "english": "a small bird with a gray belly and nape, a brown and black wings and back, and a copper crown.",
+          "indo": "seekor burung kecil dengan perut dan tengkuk berwarna abu-abu, sayap dan punggung berwarna coklat dan hitam, serta mahkota tembaga."
+        },
+        {
+          "english": "a small grey bird with stripes in its wings and red on its head.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan garis-garis di sayapnya dan merah di kepalanya."
+        },
+        {
+          "english": "a small gray bird with red and black wings, a red crown and a short black bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sayap merah dan hitam, mahkota merah dan paruh hitam pendek."
+        },
+        {
+          "english": "a small chubby bird with a grayish chest and stomach, a speckled brown tail and wings, and a whitish gray face and neck",
+          "indo": "burung kecil gemuk dengan dada dan perut berwarna keabu-abuan, ekor dan sayap berwarna coklat berbintik-bintik, serta muka dan leher berwarna abu-abu keputihan"
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has beautiful brown and black wing, grey and orange head, back beak, and solid grey breast.",
+          "indo": "burung ini memiliki sayap indah berwarna coklat dan hitam, kepala berwarna abu-abu dan oranye, paruh punggung, dan dada berwarna abu-abu solid."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a brown/grey breast and a orange/reddish crown coloration",
+          "indo": "burung ini memiliki dada berwarna coklat/abu-abu dan warna mahkota oranye/kemerahan"
+        },
+        {
+          "english": "this bird has a brownish orange spot on its head and a white chest with brown, black and white on its body.",
+          "indo": "burung ini memiliki bintik oranye kecoklatan di kepalanya dan dada berwarna putih dengan warna coklat, hitam dan putih di tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0012_108576.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a gray breasted bird with orange crown and brown and black coverts.",
+          "indo": "burung berdada abu-abu dengan mahkota oranye dan bulu berwarna coklat dan hitam."
+        },
+        {
+          "english": "a small sized bird that has multiple tones of brown and a short pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki banyak warna coklat dan paruh runcing pendek"
+        },
+        {
+          "english": "this is a grey and brown bird with a brown crown and a small beak.",
+          "indo": "ini adalah burung berwarna abu-abu dan coklat dengan mahkota coklat dan paruh kecil."
+        },
+        {
+          "english": "this small brown and black bird has a russet patch on it's head.",
+          "indo": "burung kecil berwarna coklat dan hitam ini memiliki bercak coklat kemerahan di kepalanya."
+        },
+        {
+          "english": "this brown and black bird has a brown / gray head with brown tarsus, feet and beak.",
+          "indo": "Burung berwarna coklat kehitaman ini mempunyai kepala berwarna coklat/abu-abu dengan tarsus, kaki dan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird has a crown and tarsus that are orange along with a gray breast",
+          "indo": "burung ini memiliki mahkota dan tarsus yang berwarna oranye serta dada berwarna abu-abu"
+        },
+        {
+          "english": "the bird has a striped brown back and an amber crown.",
+          "indo": "burung itu memiliki punggung berwarna coklat bergaris dan mahkota berwarna kuning."
+        },
+        {
+          "english": "short pointed beak with an orange crown withe speckled brown black and white wings.",
+          "indo": "paruh runcing pendek dengan mahkota oranye dan sayap berbintik-bintik coklat hitam dan putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "a small bird with a gray belly and a brown top on the head.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan kepala bagian atas berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0015_108462.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small bird with pretty brown patterned wing bars and dark brown crown.",
+          "indo": "burung kecil dengan garis sayap bermotif cantik dan mahkota berwarna coklat tua."
+        },
+        {
+          "english": "a medium sized bird with a grey belly, and brown wings",
+          "indo": "burung berukuran sedang dengan perut abu-abu dan sayap coklat"
+        },
+        {
+          "english": "this is a little grey bird with brown wings and a brown crown.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan sayap coklat dan mahkota coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with brown crown, beak, tarsus and feet, and gray throat, breast, belly and abdomen",
+          "indo": "burung dengan mahkota, paruh, tarsus dan kaki berwarna coklat, serta tenggorokan, dada, perut dan perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and brown in color, with a small brown beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "a small bird with a grey breast, and a small bill",
+          "indo": "seekor burung kecil dengan dada berwarna abu-abu, dan paruh kecil"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this small brown bird has a tan belly and a darker back.",
+          "indo": "burung kecil berwarna coklat ini memiliki perut berwarna coklat dan punggung yang lebih gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0016_109051.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a maroon crowned bird with black superciliary and a puffy gray belly and breast.",
+          "indo": "burung bermahkota merah marun dengan superciliary hitam dan perut serta dada abu-abu menggembung."
+        },
+        {
+          "english": "this bird has a red crown, a black bill, and a rounded belly.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, paruh berwarna hitam, dan perut membulat."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, red and brown wings with white wing bars, and red tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna merah dan coklat dengan garis sayap berwarna putih, serta tarsus dan kaki berwarna merah."
+        },
+        {
+          "english": "small with bird with brown and black striped wings, black eye stripe and brown crown.",
+          "indo": "kecil dengan burung dengan sayap bergaris coklat dan hitam, garis mata hitam dan mahkota coklat."
+        },
+        {
+          "english": "this little bird has black stripes from its black beak to its grey name and a dusky orange crown.",
+          "indo": "burung kecil ini memiliki garis-garis hitam mulai dari paruhnya yang hitam hingga namanya yang berwarna abu-abu dan mahkotanya yang berwarna jingga kehitaman."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna putih"
+        },
+        {
+          "english": "this small bird has a bright red crown, a small, pointed black beak, a grey throat, breast and belly, and brown wings with two white wingbars.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah cerah, paruh kecil berwarna hitam runcing, tenggorokan, dada dan perut berwarna abu-abu, serta sayap berwarna coklat dengan dua garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a gray bird with light brown wings and tail and a red crown.",
+          "indo": "ini adalah burung abu-abu dengan sayap dan ekor coklat muda serta mahkota merah."
+        },
+        {
+          "english": "a small bird with a red crown, and a small bill",
+          "indo": "seekor burung kecil dengan mahkota merah, dan paruh kecil"
+        },
+        {
+          "english": "this bird has a short pointy beak, an orange crown, grayish white body, and light brown wings with dark brown stripes.",
+          "indo": "burung ini mempunyai paruh pendek runcing, mahkota berwarna jingga, badan berwarna putih keabu-abuan, dan sayap berwarna coklat muda dengan garis-garis coklat tua."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0017_107552.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this bird has a short and fat brown bill with a tuft of amber colored feathers on its crown, it also has a speckled brown and dark brown back,.",
+          "indo": "burung ini memiliki paruh pendek dan gemuk berwarna coklat dengan seberkas bulu berwarna kuning pada mahkotanya, juga memiliki punggung berwarna coklat berbintik dan coklat tua."
+        },
+        {
+          "english": "this is a brown bird with black streaks on its back and a small pointed beak.",
+          "indo": "ini adalah burung berwarna coklat dengan guratan hitam di punggungnya dan paruh kecil yang runcing."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feathers and black beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna putih dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has brown and white feathers and a short beak.",
+          "indo": "burung ini memiliki bulu berwarna coklat dan putih serta paruh yang pendek."
+        },
+        {
+          "english": "small bird with brown speckled wings, spike feathers on its head and a small straight beak",
+          "indo": "burung kecil dengan sayap berbintik coklat, bulu runcing di kepala dan paruh kecil lurus"
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a brown and grey bird with some black on its wings, it also has an orange protrusion from its crown.",
+          "indo": "burung berwarna coklat dan abu-abu dengan sedikit warna hitam di sayapnya, juga memiliki tonjolan oranye di mahkotanya."
+        },
+        {
+          "english": "this brown bird has a short bill with black secondaries on its wings.",
+          "indo": "burung berwarna coklat ini memiliki paruh pendek dengan sayap bulu sekunder berwarna hitam di sayapnya."
+        },
+        {
+          "english": "a small bird with a small brown mohawk on the top of its head.",
+          "indo": "seekor burung kecil dengan mohawk coklat kecil di atas kepalanya."
+        },
+        {
+          "english": "this bird has a pointed brown bill, with a black and brown back.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna coklat, dengan punggung berwarna hitam dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0018_108295.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small,roundish bird with a white belly and breast, brown spot on his crown,and a brown eyering.",
+          "indo": "burung kecil berbentuk bulat dengan perut dan dada berwarna putih, bintik coklat di ubun-ubunnya, dan cincin mata coklat."
+        },
+        {
+          "english": "a plump looking bird with a delicate looking black bill",
+          "indo": "seekor burung yang tampak gempal dengan paruh hitam yang tampak halus"
+        },
+        {
+          "english": "this is a bird with a grey belly, brown wings and a dark brown crown.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap coklat dan mahkota coklat tua."
+        },
+        {
+          "english": "the bird is plump with a white breast, brown and white wings and brown on its head.",
+          "indo": "burung itu gempal dengan dada berwarna putih, sayap berwarna coklat dan putih, serta kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, a short bill, and a rounded belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh pendek, dan perut membulat"
+        },
+        {
+          "english": "this small bird has brown wings and a small beak.",
+          "indo": "burung kecil ini memiliki sayap berwarna coklat dan paruh kecil."
+        },
+        {
+          "english": "this particular bird has a white belly and a brown crown",
+          "indo": "burung ini memiliki perut berwarna putih dan mahkota berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a fat white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang gemuk berwarna putih"
+        },
+        {
+          "english": "this little bird has a brown crown, brown and black primaries, and a grey belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna coklat, warna bulu primer coklat dan hitam, serta perut berwarna abu-abu."
+        },
+        {
+          "english": "a small brown bird, with a white belly, and a sharp bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan perut putih, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0021_109588.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a white and black breasted bird with black superciliary and short yellow bill.",
+          "indo": "burung berdada putih dan hitam dengan superciliary hitam dan paruh kuning pendek."
+        },
+        {
+          "english": "this is a small brown bird with a small head and straight beak.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan kepala kecil dan paruh lurus."
+        },
+        {
+          "english": "a small bird with a short conical beak and brown and white mottled plumage.",
+          "indo": "seekor burung kecil dengan paruh pendek berbentuk kerucut dan bulu berbintik-bintik coklat dan putih."
+        },
+        {
+          "english": "a smaller bird with and all grey body with faint brown hits in its wing feathers.",
+          "indo": "burung yang lebih kecil dengan tubuh berwarna abu-abu dan bulu sayapnya berwarna coklat samar."
+        },
+        {
+          "english": "the bird has a white belly with brown striped wings, head and tail.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap, kepala dan ekor bergaris coklat."
+        },
+        {
+          "english": "this is a tiny bird with a grey breast, dark brown wingbars, and orange feet.",
+          "indo": "ini adalah burung kecil dengan dada abu-abu, sayap coklat tua, dan kaki oranye."
+        },
+        {
+          "english": "this is a small bird, primarily grey, with some white on its belly.",
+          "indo": "ini adalah burung kecil, sebagian besar berwarna abu-abu, dengan sedikit warna putih di perutnya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this tiny bird has brown wings and a white breast, it's feet are small",
+          "indo": "burung mungil ini mempunyai sayap berwarna coklat dan dada berwarna putih, kakinya kecil"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0022_107825.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small, dull tan breasted bird with dark brown stripes on the face.",
+          "indo": "seekor burung kecil berdada coklat kusam dengan garis-garis coklat tua di wajahnya."
+        },
+        {
+          "english": "a medium sized puffy bird with a faint yellow and light grey colored under belly, a black and yellow nape, and dark tail feathers,",
+          "indo": "burung menggembung berukuran sedang dengan perut bagian bawah berwarna kuning samar dan abu-abu muda, tengkuk hitam kuning, dan bulu ekor berwarna gelap,"
+        },
+        {
+          "english": "a brown sparrow with orange beak is of light brown color on its ventral side and dark brown color on its dorsal side.",
+          "indo": "burung pipit coklat dengan paruh jingga berwarna coklat muda pada sisi perut dan coklat tua pada sisi punggung."
+        },
+        {
+          "english": "this puffy bird is light brown with a darker brown crown, and small yellow bill.",
+          "indo": "Burung menggembung ini berwarna coklat muda dengan mahkota berwarna coklat tua, dan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "this bird has a light brown breast and side with a brown crown.",
+          "indo": "burung ini memiliki dada berwarna coklat muda dan bagian samping dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "this small bird contains grey along its breast, belly, vent and coverts, and brown shades along its crown and secondaries.",
+          "indo": "burung kecil ini memiliki warna abu-abu di sepanjang dada, perut, lubang kloaka dan bulunya, serta corak coklat di sepanjang mahkota dan bulu sekundernya."
+        },
+        {
+          "english": "this bird has wings that are brown and hints of white",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan sedikit putih"
+        },
+        {
+          "english": "this bird has a small yellow beak and a large round belly.",
+          "indo": "burung ini memiliki paruh kecil berwarna kuning dan perut bulat besar."
+        },
+        {
+          "english": "this bird has a small pun-kin color bill, light and dark brow stripes on the head and grey white belly.",
+          "indo": "burung ini mempunyai paruh kecil berwarna pun-kin, garis superciliary terang dan gelap di kepala, serta perut putih abu-abu."
+        },
+        {
+          "english": "the bird has a light brown belly, breat and throat, with dark brown vertical markings on the crown.",
+          "indo": "burung ini memiliki perut, pernapasan, dan tenggorokan berwarna coklat muda, dengan tanda vertikal berwarna coklat tua di bagian ubun-ubunnya."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0023_108684.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small light grey bird with brown crown and small grey beak.",
+          "indo": "burung kecil berwarna abu-abu muda dengan mahkota coklat dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown and white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "this bird has a white breast and throat, black eyebrow and brown and cream striped primaries.",
+          "indo": "burung ini mempunyai dada dan tenggorokan berwarna putih, alis berwarna hitam, dan bulu primer bergaris coklat dan krem."
+        },
+        {
+          "english": "this light-colored bird features red atop its head and a thin, sharp beak.",
+          "indo": "burung berwarna terang ini memiliki ciri-ciri merah di atas kepalanya dan paruh yang tipis dan tajam."
+        },
+        {
+          "english": "the bird has a grey breast, belly and abdomen with a brown crown and brown streaks on its wings.",
+          "indo": "burung ini memiliki dada, perut, dan perut berwarna abu-abu dengan mahkota berwarna coklat dan guratan coklat di sayapnya."
+        },
+        {
+          "english": "this is a very small bird with a short, pointed beak, white belly, and a brown crown cheek patch.",
+          "indo": "ini adalah burung yang sangat kecil dengan paruh pendek runcing, perut putih, dan mahkota pipi berwarna coklat."
+        },
+        {
+          "english": "this little bird is tiny enough to sit on a single leaf.",
+          "indo": "burung kecil ini cukup kecil untuk duduk di sehelai daun."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white throat and breast, and a grey bill and brown crown.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna putih, serta paruh berwarna abu-abu dan mahkota berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0024_109445.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a tiny bird, with a small head, a little bill, an orange crown, white throat and belly, and yellow abdomen and inner rectrices.",
+          "indo": "seekor burung kecil, dengan kepala kecil, paruh kecil, mahkota berwarna jingga, tenggorokan dan perut berwarna putih, serta perut dan bukaan bagian dalam berwarna kuning."
+        },
+        {
+          "english": "a small off-white sparrow with orange crown, brown wings and white wingbars.",
+          "indo": "burung pipit kecil berwarna putih pucat dengan mahkota oranye, sayap coklat, dan garis sayap putih."
+        },
+        {
+          "english": "a small orange headed bird with a white belly and black wings.",
+          "indo": "seekor burung kecil berkepala oranye dengan perut putih dan sayap hitam."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp beak, and white eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh runcing, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has an orange fluffy crown, white breast and black and white primaries and secondaries.",
+          "indo": "burung ini mempunyai mahkota berbulu jingga, dada berwarna putih, serta burung bulu primer dan bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "this small bird has a white throat, breast and belly, yellow abdomen and an orange crown.",
+          "indo": "burung kecil ini memiliki tenggorokan, dada dan perut berwarna putih, perut berwarna kuning, dan mahkota berwarna jingga."
+        },
+        {
+          "english": "the bird has a striped crown, brown striped wingbars and a white breast.",
+          "indo": "burung ini memiliki mahkota bergaris, sayap bergaris coklat, dan dada berwarna putih."
+        },
+        {
+          "english": "a small white bird with an orange crown and darker wings.",
+          "indo": "seekor burung putih kecil dengan mahkota oranye dan sayap lebih gelap."
+        },
+        {
+          "english": "this bird has a light grey body and brown wings, a rusty brown cap, and black eye stripe.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu muda dan sayap berwarna coklat, topi berwarna coklat karatan, dan garis mata berwarna hitam."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has a bill that is short and the belly is white.",
+          "indo": "Burung ini berukuran kecil dengan paruh yang runcing, paruhnya pendek dan perutnya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0025_108653.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the small brown bird has white abdomen, and orange or brown colored crown.",
+          "indo": "burung kecil berwarna coklat memiliki perut berwarna putih, dan mahkota berwarna oranye atau coklat."
+        },
+        {
+          "english": "this is a grey bird with dark brown wings and a brown crown.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat tua dan mahkota coklat."
+        },
+        {
+          "english": "pudgy small bird has a grey belly, dark brown wings and light colored wingbars and an orange head.",
+          "indo": "burung kecil gemuk memiliki perut berwarna abu-abu, sayap berwarna coklat tua dan garis sayap berwarna terang serta kepala berwarna jingga."
+        },
+        {
+          "english": "this bird has a grey breast, brown wing and a brown crown with a small black beak.",
+          "indo": "burung ini memiliki dada berwarna abu-abu, sayap berwarna coklat dan mahkota berwarna coklat dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this small bird has brown and white wings, a black beak and a red crown",
+          "indo": "burung kecil ini mempunyai sayap berwarna coklat dan putih, paruh berwarna hitam dan mahkota berwarna merah"
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this white-gray fluffy bird has a tan crown with a short pointy black beak and dark brown feathers with white trim.",
+          "indo": "burung berbulu putih abu-abu ini memiliki mahkota berwarna coklat dengan paruh pendek berwarna hitam dan bulu berwarna coklat tua dengan bulu garis berwarna putih."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a orange crown, black bill, and white breast",
+          "indo": "burung ini memiliki mahkota berwarna jingga, paruh berwarna hitam, dan dada berwarna putih"
+        },
+        {
+          "english": "the bird is small with a pointed bill, and has a red crown and grey breast.",
+          "indo": "Burung ini berukuran kecil dengan paruh runcing, memiliki mahkota berwarna merah dan dada berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0026_109010.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a small beak, an ruddy brown crown and nape, black eyebrow, and speckled brown and white breast",
+          "indo": "burung ini memiliki paruh kecil, mahkota dan tengkuk berwarna coklat kemerahan, alis hitam, dan dada berbintik coklat putih"
+        },
+        {
+          "english": "a small bird with a small bill with brown wings and a grey breast",
+          "indo": "seekor burung kecil dengan paruh kecil dengan sayap coklat dan dada abu-abu"
+        },
+        {
+          "english": "this is a gray and brown bird with a orange crown and a black eyering",
+          "indo": "ini adalah burung abu-abu dan coklat dengan mahkota oranye dan cincin mata hitam"
+        },
+        {
+          "english": "the bird has an amber crown and a grey breast and belly.",
+          "indo": "burung itu memiliki mahkota kuning dan dada serta perut berwarna abu-abu."
+        },
+        {
+          "english": "this is a small bird with brown on the crown and wingbars and grey on the throat and breast.",
+          "indo": "ini adalah burung kecil dengan warna coklat pada bagian ubun-ubun dan garis sayap serta warna abu-abu pada bagian tenggorokan dan dada."
+        },
+        {
+          "english": "a small bird with a light red crown, grey feathers covering its chest, belly and vent, and light brown and black speckled coverts.",
+          "indo": "seekor burung kecil dengan mahkota berwarna merah muda, bulu abu-abu menutupi dada, perut dan lubang kloaka, bulu berwarna coklat muda dan berbintik-bintik hitam."
+        },
+        {
+          "english": "this bird is little he is white,orange, and black he has strips on his wings and has an orange beak and feet",
+          "indo": "burung ini kecil, warnanya putih, oranye, dan hitam, sayapnya bergaris-garis, paruh dan kakinya berwarna oranye"
+        },
+        {
+          "english": "this bird has dark brown splotches on its light brown wings.",
+          "indo": "burung ini memiliki bercak coklat tua pada sayapnya yang berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a stubby bill with a grey breast and a red crown.",
+          "indo": "burung ini mempunyai paruh yang gemuk dengan dada berwarna abu-abu dan mahkota berwarna merah."
+        },
+        {
+          "english": "a small bird with a white belly and brown crown.",
+          "indo": "seekor burung kecil dengan perut putih dan mahkota coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0030_109741.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has orange feet, as well as a white breast and belly.",
+          "indo": "burung itu memiliki kaki berwarna oranye, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this is a small gray and light brown bird with a red crown and a small pointed beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dan coklat muda dengan mahkota merah dan paruh kecil runcing."
+        },
+        {
+          "english": "the small bird is round with a white belly and an orange crown.",
+          "indo": "burung kecil berbentuk bulat dengan perut berwarna putih dan mahkota berwarna jingga."
+        },
+        {
+          "english": "a small, plump bird with a white breast and wingbars, a red nape, and a small, stubby break.",
+          "indo": "seekor burung kecil gempal dengan dada dan sayap berwarna putih, tengkuk merah, dan patah kecil dan gemuk."
+        },
+        {
+          "english": "this small bird has a reddish brown crown and white belly. its wingbars are white while its primaries, secondaries, and coverts are light brown and black.",
+          "indo": "burung kecil ini memiliki mahkota berwarna coklat kemerahan dan perut berwarna putih. garis sayapnya berwarna putih sedangkan sayap bulu primer, bulu sekunder, dan bulu penutup berwarna coklat muda dan hitam."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a light brown colored bird, with a white belly, red crown, and a short bill.",
+          "indo": "burung berwarna coklat muda, perut putih, mahkota merah, dan paruh pendek."
+        },
+        {
+          "english": "a small bird with white stomach, tan and brown feathers and orange head.",
+          "indo": "seekor burung kecil dengan perut berwarna putih, bulu berwarna coklat kecokelatan, serta kepala berwarna jingga."
+        },
+        {
+          "english": "this bird has a pointed bill, with a white breast.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0032_108882.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this colorful bird has white belly and breast, black feet, brown crown, white eyebrow, brown wings with black and white wingbars",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, kaki berwarna hitam, mahkota berwarna coklat, alis berwarna putih, sayap berwarna coklat dengan garis sayap berwarna hitam putih"
+        },
+        {
+          "english": "a large puffy bird with a white and red under bel,y, red and black striped wing feathers, and a light red nape.",
+          "indo": "seekor burung menggembung besar dengan bulu di bawah perut berwarna putih dan merah, bulu sayap bergaris merah dan hitam, dan tengkuk berwarna merah muda."
+        },
+        {
+          "english": "this bird is white and brown in color with a short pointy beak and dark brown eye ring.",
+          "indo": "burung ini berwarna putih coklat dengan paruh pendek runcing dan lingkar mata coklat tua."
+        },
+        {
+          "english": "this bird has a white belly, a brown and grey head and wing.",
+          "indo": "burung ini memiliki perut berwarna putih, kepala dan sayap berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "a small rounded bird with a red and gray upper body that fades into white plumage.",
+          "indo": "burung bulat kecil dengan tubuh bagian atas berwarna merah dan abu-abu yang memudar menjadi bulu putih."
+        },
+        {
+          "english": "this bird is white with red and has a very short beak.",
+          "indo": "burung ini berwarna putih merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a white belly and tan sides and an orange crown",
+          "indo": "burung ini memiliki perut berwarna putih dan sisi kecokelatan serta mahkota berwarna oranye"
+        },
+        {
+          "english": "a small white bird with a red crown and a tiny pointed beak.",
+          "indo": "seekor burung putih kecil dengan mahkota merah dan paruh runcing kecil."
+        },
+        {
+          "english": "this is a gray bird with a brown crown and nape, brown wings and light brown sides.",
+          "indo": "ini adalah burung abu-abu dengan mahkota dan tengkuk berwarna coklat, sayap coklat dan sisi coklat muda."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a white breast.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0033_109069.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this small bird has a white belly and the top of its head is orange and so are its legs and feet and the rest of it is black, gray, and white.",
+          "indo": "Burung kecil ini perutnya berwarna putih dan bagian atas kepalanya berwarna jingga, begitu pula tungkai dan kakinya, selebihnya berwarna hitam, abu-abu, dan putih."
+        },
+        {
+          "english": "a small bird with a brown head and red nape, with brown and red covering the rest of its body.",
+          "indo": "seekor burung kecil dengan kepala berwarna coklat dan tengkuk berwarna merah, dengan warna coklat dan merah menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this is a bird with a tan belly and a brown eyebrow.",
+          "indo": "ini adalah burung dengan perut berwarna coklat dan alis berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and black in color with a short beak, and white eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh pendek, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a bright brown crown, a spotted wing, and a white abdomen",
+          "indo": "burung ini memiliki mahkota berwarna coklat cerah, sayap berbintik, dan perut berwarna putih"
+        },
+        {
+          "english": "the small bird has white wing bars on a tan wing with a reddish crown.",
+          "indo": "burung kecil ini mempunyai garis sayap berwarna putih pada sayap berwarna coklat dengan mahkota kemerahan."
+        },
+        {
+          "english": "the breast of the bird is a shade of brown, and the bill of the bird is short and pointed.",
+          "indo": "dada burung berwarna coklat, dan paruh burung pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this is a small light brown bird with a brown crown and a small pointed beak.",
+          "indo": "ini adalah burung kecil berwarna coklat muda dengan mahkota coklat dan paruh runcing kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0035_110138.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a gray bird with a orange crown and brown on the secondaries",
+          "indo": "burung abu-abu dengan mahkota oranye dan coklat di bagian bulu sekunder"
+        },
+        {
+          "english": "the bird has grey side and breast with black and brown coverts, as well as a brown crown.",
+          "indo": "burung ini memiliki sisi dan dada berwarna abu-abu dengan bulu berwarna hitam dan coklat, serta mahkota berwarna coklat."
+        },
+        {
+          "english": "bird has orange larsus and small feet,grey small beak orange head light grey belly and white throat and brown black wings.",
+          "indo": "burung mempunyai larsus berwarna jingga dan kaki kecil, paruh kecil berwarna abu-abu, kepala berwarna jingga, perut berwarna abu-abu muda, tenggorokan berwarna putih, dan sayap berwarna coklat kehitaman."
+        },
+        {
+          "english": "white breast and belly, with a orange crown and a brown and light orange streaked wings, back, and tail.",
+          "indo": "dada dan perut berwarna putih, dengan mahkota berwarna oranye dan sayap, punggung, dan ekor bergaris coklat dan oranye muda."
+        },
+        {
+          "english": "a small bird that has tones of grey and a short bill",
+          "indo": "burung kecil berwarna abu-abu dan paruh pendek"
+        },
+        {
+          "english": "read on top of head.",
+          "indo": "membaca di atas kepala."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a orange crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna oranye dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a grey belly with a brown crown and brown wing guards.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan mahkota berwarna coklat dan pelindung sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0036_107695.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a crisp, pretty sparrow whose bright rufous cap both provides a splash of color and makes adults fairly easy to identify",
+          "indo": "seekor burung gereja yang cantik dan segar dengan topi berwarna merah cerah memberikan percikan warna dan membuat burung dewasa cukup mudah dikenali"
+        },
+        {
+          "english": "a brown plump bird with an unusual eye-catching crown on its head.",
+          "indo": "seekor burung gempal berwarna coklat dengan mahkota mencolok yang tidak biasa di kepalanya."
+        },
+        {
+          "english": "a brown bird with a brown beak and light brown breast.",
+          "indo": "burung berwarna coklat dengan paruh coklat dan dada coklat muda."
+        },
+        {
+          "english": "this bird is white with brown on its back and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan punggung berwarna coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small brown bird has a light gray breast, belly and abdomen",
+          "indo": "burung kecil berwarna coklat ini memiliki dada, perut dan perut berwarna abu-abu muda"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are tan and have some brown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan ada sedikit warna coklat"
+        },
+        {
+          "english": "this bird has wings that are brownb and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a white bird with brown crown and grey striped wings.",
+          "indo": "burung berwarna putih dengan mahkota coklat dan sayap bergaris abu-abu."
+        },
+        {
+          "english": "this bird has a cream breast, a light brown side and flank, a chestnut crown and a brown malar stripe.",
+          "indo": "burung ini memiliki dada berwarna krem, bagian samping dan panggul berwarna coklat muda, mahkota kastanye, dan garis malar berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0037_109851.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a grey belly and chest and a brown crown with a short pointed orange bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu serta mahkota berwarna coklat dengan paruh pendek berwarna oranye."
+        },
+        {
+          "english": "this is a grey bird with a brown wing, brown crown on its head and a small beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat, mahkota coklat di kepala dan paruh kecil."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feathers and thin beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna putih dan paruh tipis"
+        },
+        {
+          "english": "a small bird with a gray belly, and a scissor tail, with a brown spot on its head.",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu, dan ekor gunting, dengan bintik coklat di kepalanya."
+        },
+        {
+          "english": "a small round bird with a big belly and breast that are both light grey, dark eyes, a short, pointy beak and a red orange crown.",
+          "indo": "burung bulat kecil dengan perut dan dada besar berwarna abu-abu muda, mata gelap, paruh pendek runcing, dan mahkota berwarna oranye merah."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small gray bird has brown wings and brown crown, the beak is pointed.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki sayap berwarna coklat dan mahkota berwarna coklat, paruhnya runcing."
+        },
+        {
+          "english": "the bird has an amber crown, grey breast and belly and small bill.",
+          "indo": "burung itu memiliki mahkota kuning, dada dan perut berwarna abu-abu, serta paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0038_109234.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has small beak when compared to its body, with gray throat, breast and belly with brown crown.",
+          "indo": "burung ini memiliki paruh yang kecil jika dibandingkan dengan tubuhnya, dengan tenggorokan berwarna abu-abu, dada dan perut dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "a small bird with a gray belly and chest, a brown crown and tiny bill.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna abu-abu, mahkota berwarna coklat dan paruh kecil."
+        },
+        {
+          "english": "this bird has a brown striped crown, a white breast and belly, and a short straight bill.",
+          "indo": "burung ini mempunyai mahkota bergaris coklat, dada dan perut berwarna putih, serta paruh pendek dan lurus."
+        },
+        {
+          "english": "a small, dull colored bird with a white body, and brown colored head and wings",
+          "indo": "burung kecil berwarna kusam dengan tubuh putih, kepala dan sayap berwarna coklat"
+        },
+        {
+          "english": "a brown and black bird with a grey belly and a pointy bill.",
+          "indo": "burung berwarna coklat dan hitam dengan perut abu-abu dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this is a grey bird with a brown wing and head and a dark brown eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan sayap dan kepala berwarna coklat serta alis berwarna coklat tua."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a grey and white breast and a pinkish colored bill",
+          "indo": "burung ini memiliki dada berwarna abu-abu putih dan paruh berwarna merah muda"
+        },
+        {
+          "english": "this bird is grey with brown and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0039_107864.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a white bird with vivid red and yellow striations along its wing and tail-feather.",
+          "indo": "seekor burung berwarna putih dengan garis-garis merah dan kuning cerah di sepanjang sayap dan bulu ekornya."
+        },
+        {
+          "english": "this is a bird with a white belly, brown wing and brown stripes on its head.",
+          "indo": "ini adalah burung dengan perut berwarna putih, sayap berwarna coklat dan garis-garis coklat di kepalanya."
+        },
+        {
+          "english": "the bird has grey throat, breast, belly and abdomen while it's coverts are in brown, white and light brown.",
+          "indo": "burung ini memiliki tenggorokan, dada, perut, dan perut berwarna abu-abu, sedangkan bulunya berwarna coklat, putih, dan coklat muda."
+        },
+        {
+          "english": "this bird is white with brown on its wings and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan sayap berwarna coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the birds has a grey throat, breast, belly and abdomen with brown coverts.",
+          "indo": "burung ini memiliki tenggorokan, dada, perut, dan perut berwarna abu-abu dengan bulu berwarna coklat."
+        },
+        {
+          "english": "this small sort beaked gray bird features red stripes on the head and brown. red and white feathers on the birds multi-colored wings.",
+          "indo": "Burung kecil berwarna abu-abu berparuh ini memiliki garis-garis merah di kepala dan coklat. bulu merah putih pada sayap burung beraneka warna."
+        },
+        {
+          "english": "this bird has a grey belly, a brown wing and a brown eyebrow.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, sayap berwarna coklat, dan alis berwarna coklat."
+        },
+        {
+          "english": "a small bird with a pointy black beak and a white breast.",
+          "indo": "seekor burung kecil dengan paruh hitam runcing dan dada berwarna putih."
+        },
+        {
+          "english": "this is a small gray bird with light brown wings with white wingbars.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan sayap coklat muda dengan garis sayap putih."
+        },
+        {
+          "english": "this small bird has red and white stripes on its' crown.",
+          "indo": "burung kecil ini memiliki garis-garis merah putih pada mahkotanya."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0041_108370.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small bird with a white belly, brown wings and head, with a black stripe between its eyes.",
+          "indo": "burung kecil dengan perut berwarna putih, sayap dan kepala berwarna coklat, dengan garis hitam di antara matanya."
+        },
+        {
+          "english": "this bird has a red crown, grey and white striped forehead and cheek patch, and a solid white breast and belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah, dahi dan pipi bergaris abu-abu putih, serta dada dan perut berwarna putih solid."
+        },
+        {
+          "english": "the bird ha a black eyering and a white throat and breast.",
+          "indo": "burung itu memiliki cincin mata hitam dan tenggorokan serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a bird with a white breast and a brown wing and crown.",
+          "indo": "ini adalah burung dengan dada putih dan sayap serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the small bird has a white breast and orange wings and feet with a short black beck.",
+          "indo": "burung kecil memiliki dada berwarna putih dan sayap serta kaki berwarna oranye dengan paruh hitam pendek."
+        },
+        {
+          "english": "this bird has a white breast and belly, and multicolored brown and gray wings with a brown crown.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, serta sayap beraneka warna berwarna coklat dan abu-abu dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a orange crown, black bill, white belly and breast",
+          "indo": "burung ini mempunyai mahkota berwarna jingga, paruh berwarna hitam, perut dan dada berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0042_107791.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small bird has a striped crown, light brown cheek patches, and a striped back.",
+          "indo": "seekor burung kecil memiliki mahkota bergaris, bercak pipi berwarna coklat muda, dan punggung bergaris."
+        },
+        {
+          "english": "small bird with brown and black head light brown belly throat and small beak.",
+          "indo": "burung kecil dengan kepala berwarna coklat dan hitam, perut berwarna coklat muda, tenggorokan dan paruh kecil."
+        },
+        {
+          "english": "this bird has a white belly and breast with a speckled crown and a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berbintik-bintik dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a small grey bird with a brown back and head.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan punggung dan kepala berwarna coklat."
+        },
+        {
+          "english": "this is a grey bird with brown stripes on the crown and wingbars.",
+          "indo": "ini adalah burung berwarna abu-abu dengan garis-garis coklat di bagian ubun-ubun dan sayap."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "brown and white stripes on head white body sharp beak.",
+          "indo": "garis-garis coklat dan putih di kepala, badan putih, paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0043_109509.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small bird with long tail, and a gray feathers.",
+          "indo": "seekor burung kecil dengan ekor panjang, dan bulu berwarna abu-abu."
+        },
+        {
+          "english": "the bird is small with a brown crown and a white eyebrows with a grey belly.",
+          "indo": "burung itu berukuran kecil dengan mahkota berwarna coklat dan alis berwarna putih dengan perut berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a grey breast, brown back and a small beak.",
+          "indo": "ini adalah burung dengan dada abu-abu, punggung coklat dan paruh kecil."
+        },
+        {
+          "english": "this bird is brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small brown bird has a grey belly, with a brown stripe near its eye.",
+          "indo": "burung kecil berwarna coklat ini memiliki perut berwarna abu-abu, dengan garis coklat di dekat matanya."
+        },
+        {
+          "english": "the breast of the bird is beige. his wing is a mixture of black and grey. his his crown is beige and brown. his eyes are black. he is comouflaged with the plant so it is easy for it to hide.",
+          "indo": "dada burung itu berwarna krem. sayapnya adalah campuran hitam dan abu-abu. mahkotanya berwarna krem ​​​​dan coklat. matanya hitam. Ia menyatu dengan tanaman tersebut sehingga mudah untuk disembunyikan."
+        },
+        {
+          "english": "this bird has brown primaries with a brown crown and grey belly.",
+          "indo": "burung ini memiliki warna bulu primer berwarna coklat dengan mahkota berwarna coklat dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a very small bill, brown on the wings and crown, and gray coloring on the rest of the body.",
+          "indo": "burung ini mempunyai paruh yang sangat kecil, berwarna coklat pada sayap dan mahkotanya, serta warna abu-abu pada seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a red crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey underbelly with brown wings and crown, its has black streaks over its eyes with a very small bill.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan sayap dan mahkota berwarna coklat, memiliki guratan hitam di atas matanya dengan paruh yang sangat kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0045_109985.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the head of the bird is tan while the belly is grey and the wings are brown.",
+          "indo": "kepala burung berwarna coklat, sedangkan perutnya berwarna abu-abu dan sayapnya berwarna coklat."
+        },
+        {
+          "english": "this is a grey bird with a brown wing and a brown crown.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan mahkota coklat."
+        },
+        {
+          "english": "small triangular beak with very light blue breast, long tail, tan and wing feathers with white and black tips, and a rusty crown swooped back.",
+          "indo": "paruh segitiga kecil dengan dada berwarna biru muda, ekor panjang, bulu sayap dan coklat dengan ujung putih dan hitam, serta mahkota berkarat yang menukik ke belakang."
+        },
+        {
+          "english": "this bird has a white belly and a brown wing with a brown crown.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap berwarna coklat dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "small grey and brown bird with long orange tarsus and short beak",
+          "indo": "burung kecil berwarna abu-abu dan coklat dengan tarsus oranye panjang dan paruh pendek"
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and brown and tan secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna coklat dan cokelat"
+        },
+        {
+          "english": "this bird is white and brown in color, with a sharp beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh yang runcing."
+        },
+        {
+          "english": "on the crown is a group of long orange feathers and the body and wings are white to tan and grey.",
+          "indo": "pada bagian mahkota terdapat kumpulan bulu berwarna jingga panjang dan badan serta sayap berwarna putih sampai coklat keabu-abuan."
+        },
+        {
+          "english": "this bird is a gray coloring with brown primary wings and tail and also has a rust colored nape that stands straight up.",
+          "indo": "Burung ini berwarna abu-abu dengan sayap dan ekor bulu primer berwarna coklat serta memiliki tengkuk berwarna karat yang berdiri tegak."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and the belly is white.",
+          "indo": "burungnya kecil dengan paruh runcing, dan perutnya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0050_108441.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this bird has a small bill, a grey side, belly, and wingbars, and brown crown and wings.",
+          "indo": "burung ini memiliki paruh kecil, sisi abu-abu, perut, dan garis sayap, serta mahkota dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a short beak, a light grey breast, and shades of brown on its head and wings.",
+          "indo": "burung ini memiliki paruh yang pendek, dada berwarna abu-abu muda, serta corak warna coklat pada kepala dan sayapnya."
+        },
+        {
+          "english": "a small bird with a grey and whtie throat, neck, nape, and belly, with brown feathers and white wingbars.",
+          "indo": "seekor burung kecil dengan tenggorokan, leher, tengkuk, dan perut berwarna abu-abu dan pucat, dengan bulu berwarna coklat dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small round bird with brown on its head and wings.",
+          "indo": "seekor burung bulat kecil dengan warna coklat di kepala dan sayapnya."
+        },
+        {
+          "english": "a mostly white bird with brown areas on top of its head and wings.",
+          "indo": "burung yang sebagian besar berwarna putih dengan area coklat di atas kepala dan sayapnya."
+        },
+        {
+          "english": "a white breasted bird with a reddish brown crown, white wingbars adorning multi-colored wings, and a smallish beak.",
+          "indo": "burung berdada putih dengan mahkota berwarna coklat kemerahan, garis sayap berwarna putih menghiasi sayap beraneka warna, dan paruh bertubuh kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a brown crown and nape",
+          "indo": "seekor burung dengan mahkota dan tengkuk berwarna coklat"
+        },
+        {
+          "english": "a small round bird with a gray belly and a brown top of the head.",
+          "indo": "burung bulat kecil dengan perut abu-abu dan kepala bagian atas berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0052_109874.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a small grey bird with brown wings and a brown streak on its head.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan sayap coklat dan guratan coklat di kepalanya."
+        },
+        {
+          "english": "the bird has white abdomen with a grey colored breast as well as a very bright brown crown.",
+          "indo": "Burung ini memiliki perut berwarna putih dengan dada berwarna abu-abu serta mahkota berwarna coklat cerah."
+        },
+        {
+          "english": "a small bird with a gray chest, white belly, brown back and rectrices, a black eyering, and pale pink beak.",
+          "indo": "burung kecil dengan dada abu-abu, perut putih, punggung dan rectrices  berwarna coklat, cincin mata hitam, dan paruh merah muda pucat."
+        },
+        {
+          "english": "a small bird with gray breast, brown crown, long legs, and brown and black striped wings.",
+          "indo": "burung kecil dengan dada berwarna abu-abu, mahkota berwarna coklat, kaki panjang, dan sayap bergaris coklat dan hitam."
+        },
+        {
+          "english": "a small bird with a brown and gray head, gray chest and the bill is short and pointed.",
+          "indo": "seekor burung kecil dengan kepala berwarna coklat dan abu-abu, dada berwarna abu-abu dan paruhnya pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with grey and has a very short beak.",
+          "indo": "burung ini berwarna coklat kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is white, brown, and black in color, with a brown beak.",
+          "indo": "burung ini berwarna putih, coklat, dan hitam, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this small bird has brown and black wings with white wingbars.",
+          "indo": "burung kecil ini mempunyai sayap berwarna coklat kehitaman dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "the bird has a gray belly and a brown spot on head .",
+          "indo": "burung itu memiliki perut berwarna abu-abu dan bintik coklat di kepala."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0053_109774.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "bird with red and white feathers, sharp pointed beak, and medium length tail feathers.",
+          "indo": "burung dengan bulu berwarna merah putih, paruh runcing runcing, dan bulu ekor berukuran sedang."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a short pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing pendek"
+        },
+        {
+          "english": "a small bird with long body, and a black and white coloration.",
+          "indo": "burung kecil berbadan panjang dan berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird does not have bright colors and it has a very small pointed bill, long tail feathers and outer rectrices, and a white cheek patch.",
+          "indo": "burung ini tidak mempunyai warna yang cerah dan mempunyai paruh runcing yang sangat kecil, bulu ekor panjang dan outer rectrices, serta bercak pipi berwarna putih."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this small bird has a light brown belly and a small bill.",
+          "indo": "burung kecil ini memiliki perut berwarna coklat muda dan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are black and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "a small yet tall bird with a black and a white body.",
+          "indo": "seekor burung kecil namun tinggi dengan tubuh hitam dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0061_109113.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small bird with light orange tarsus, feet and small beak, white breast area with neutral coloring over rest of body.",
+          "indo": "burung kecil dengan tarsus oranye terang, kaki dan paruh kecil, area dada berwarna putih dengan warna netral di seluruh tubuh."
+        },
+        {
+          "english": "a small bird with a grey breast and brown wings and a small bill",
+          "indo": "seekor burung kecil dengan dada abu-abu dan sayap coklat serta paruh kecil"
+        },
+        {
+          "english": "bird has brown body feathers, white breast feather, and pointed beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna putih, dan paruh runcing"
+        },
+        {
+          "english": "the bird has a white breast and belly and a small bill.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta paruh kecil."
+        },
+        {
+          "english": "this is a bird with a white breast and belly, brown wings and a brown head with a white eyebrow.",
+          "indo": "ini adalah burung dengan dada dan perut berwarna putih, sayap berwarna coklat dan kepala berwarna coklat dengan alis berwarna putih."
+        },
+        {
+          "english": "a small bird containing grey along its inner and outer rectrices, grey along its breast belly and vent, and a brown, grey and black face .",
+          "indo": "seekor burung kecil yang berwarna abu-abu di sepanjang rectrices inner dan outer rectrices, abu-abu di sepanjang perut dan lubang dadanya, dan muka berwarna coklat, abu-abu dan hitam."
+        },
+        {
+          "english": "a small bird with a dark gray belly and a brown head.",
+          "indo": "seekor burung kecil dengan perut abu-abu tua dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird is white and brown in color, with a sharp stubby beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh pendek dan gemuk."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has striping on its head and the belly is white.",
+          "indo": "Burung ini berukuran kecil dengan paruh runcing, memiliki garis-garis di kepala dan perut berwarna putih."
+        },
+        {
+          "english": "this bird's breast and belly are white, while it's back appears to be brown.",
+          "indo": "dada dan perut burung ini berwarna putih, sedangkan punggungnya tampak berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0062_110187.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a grey bird that has a small beak and a red crown.",
+          "indo": "ini adalah burung berwarna abu-abu yang memiliki paruh kecil dan mahkota berwarna merah."
+        },
+        {
+          "english": "this is a white bird with a red crown and a black eyebrow.",
+          "indo": "ini burung berwarna putih dengan mahkota merah dan alis hitam."
+        },
+        {
+          "english": "a bird with a gray belly and a gray back, a copper crown and a black bill.",
+          "indo": "seekor burung dengan perut abu-abu dan punggung abu-abu, mahkota tembaga dan paruh hitam."
+        },
+        {
+          "english": "a small bird with a brown mohawk and gray beak.",
+          "indo": "seekor burung kecil dengan mohawk coklat dan paruh abu-abu."
+        },
+        {
+          "english": "a medium sized bird that has a dark orange head and a short pointed bill",
+          "indo": "burung berukuran sedang yang memiliki kepala berwarna jingga tua dan paruh runcing pendek"
+        },
+        {
+          "english": "the bird has a red crown, black bill that is small and grey breast.",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh berwarna hitam yang kecil dan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird is greywith red and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small gray bird has a short, thick bill, a brown crown, and orange tarsus and feet.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki paruh pendek dan tebal, mahkota berwarna coklat, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is grey with red and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has red on its crown and it has a short pointed black bill.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah dan paruh pendek berwarna hitam dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0063_108139.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this small bird has a grey belly and side but brown and white wings and head.",
+          "indo": "burung kecil ini memiliki perut dan samping berwarna abu-abu tetapi sayap dan kepala berwarna coklat dan putih."
+        },
+        {
+          "english": "a small bird with a grey breast, belly, vent and rectrices, and tan and brown wings with two white wing bars.",
+          "indo": "seekor burung kecil dengan dada, perut, lubang kloaka dan rectrices  berwarna abu-abu, dan sayap berwarna coklat dan coklat dengan dua garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is white and brown in color with a sharp small beak and white eye ring.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil runcing dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a grey body, brown wing, and white wingbar.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu, sayap berwarna coklat, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a white bird with brown wingbars and an orange crown.",
+          "indo": "ini adalah burung berwarna putih dengan garis sayap berwarna coklat dan mahkota berwarna oranye."
+        },
+        {
+          "english": "this bird is grey with brown wings and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan sayap berwarna coklat dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "a bird with white belly and breast, brown wingbars and the bill is short and pointed",
+          "indo": "burung dengan perut dan dada berwarna putih, garis sayap berwarna coklat, serta paruh pendek dan runcing"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a grey belly, small bill and brown back that is spotted.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, paruh kecil, dan punggung berwarna coklat yang berbintik."
+        },
+        {
+          "english": "this bird has white and brown stripes on its head, a striped wing, a long tail, short legs, and a short pointy beak.",
+          "indo": "Burung ini mempunyai ciri-ciri belang putih coklat di kepala, sayap belang, ekor panjang, kaki pendek, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0064_108204.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a grey bird with a brown crown and his beak is short and pointed.",
+          "indo": "ini adalah burung berwarna abu-abu dengan mahkota berwarna coklat dan paruhnya pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a red head, white eye rang, and grey breast belly and tarsus.",
+          "indo": "seekor burung kecil dengan kepala merah, mata putih bercincin, perut dada dan tarsus berwarna abu-abu."
+        },
+        {
+          "english": "this is a small bird with white belly feathers and brown wings.",
+          "indo": "ini adalah burung kecil dengan bulu perut berwarna putih dan sayap berwarna coklat."
+        },
+        {
+          "english": "a bird with a short pointed cylindrical bill with a brown crown",
+          "indo": "burung dengan paruh silindris runcing pendek dengan mahkota berwarna coklat"
+        },
+        {
+          "english": "this white breasted bird has long brown wings with black stripes.",
+          "indo": "burung berdada putih ini mempunyai sayap panjang berwarna coklat dengan garis-garis hitam."
+        },
+        {
+          "english": "this small bird has a gray breast, brown and black striped wings, and a brown cap.",
+          "indo": "burung kecil ini memiliki dada berwarna abu-abu, sayap bergaris coklat dan hitam, serta topi berwarna coklat."
+        },
+        {
+          "english": "the crown is brown with black patches, the belly is white while the coverts are brown.",
+          "indo": "ubun-ubun berwarna coklat dengan bercak hitam, perut berwarna putih sedangkan bulunya berwarna coklat."
+        },
+        {
+          "english": "a small bird with brown crown, grey throat and chest, brown coverts with white secondaries.",
+          "indo": "seekor burung kecil dengan mahkota berwarna coklat, tenggorokan dan dada berwarna abu-abu, bulu berwarna coklat dengan bulu sekunder berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, a white breast, and brown wings with grey streaks.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berwarna putih, dan sayap berwarna coklat dengan guratan abu-abu."
+        },
+        {
+          "english": "this bird has a pointed bill, with a white breast.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0066_109187.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small brown bird with black and white streaks throughout its feathers",
+          "indo": "seekor burung kecil berwarna coklat dengan guratan hitam putih di seluruh bulunya"
+        },
+        {
+          "english": "a small, light brown bird with black stripes, black eyes, and a short brown bill.",
+          "indo": "burung kecil berwarna coklat muda dengan garis-garis hitam, mata hitam, dan paruh pendek berwarna coklat."
+        },
+        {
+          "english": "this bird has brown and black striped primaries, secondaries and belly, black rectrices and a light brown bill.",
+          "indo": "burung ini mempunyai ciri utama bergaris coklat dan hitam, bulu sekunder dan perut, rectrices  hitam dan paruh coklat muda."
+        },
+        {
+          "english": "this is a brown and black spotted bird with a small and pointy beak.",
+          "indo": "ini adalah burung berbintik coklat dan hitam dengan paruh kecil dan runcing."
+        },
+        {
+          "english": "small brown and grey bird with long orange tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat dan abu-abu dengan tarsus oranye panjang dan paruh sedang"
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is spotted brown and black in color, with a brown beak.",
+          "indo": "burung ini berbintik warna coklat kehitaman, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with wings that have hints of black and white, its beak is short and narrow.",
+          "indo": "burung kecil berwarna coklat dengan sayap berwarna hitam putih, paruhnya pendek dan sempit."
+        },
+        {
+          "english": "this bird has wings that are brown and has a striped belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang belang"
+        },
+        {
+          "english": "brown black and white wings, and white chest with black spots, pudgy and fluffy bird.",
+          "indo": "sayap coklat hitam putih, dan dada putih dengan bintik hitam, burung gemuk dan berbulu halus."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0067_107508.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small bird has brown feathers, a dark brown crown, and a short beak.",
+          "indo": "seekor burung kecil memiliki bulu berwarna coklat, mahkota berwarna coklat tua, dan paruh pendek."
+        },
+        {
+          "english": "a small bird with a small bill and black eyes and a grey breast.",
+          "indo": "seekor burung kecil dengan paruh kecil dan mata hitam serta dada abu-abu."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feather, and thick beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berwarna putih, dan paruh tebal"
+        },
+        {
+          "english": "white and black speckled bird with brown and black striped wings and white eyebrow.",
+          "indo": "burung berbintik putih dan hitam dengan sayap bergaris coklat dan hitam serta alis putih."
+        },
+        {
+          "english": "this is a small brown and white speckled bird with a slightly tufted head and small beak.",
+          "indo": "ini adalah burung kecil berbintik coklat dan putih dengan kepala agak berumbai dan paruh kecil."
+        },
+        {
+          "english": "this bird has a grey and white vent and belly a swell as brown white and black feathers covering the rest of its body.",
+          "indo": "burung ini mempunyai lubang kloaka berwarna abu-abu putih dan perutnya bulat seperti bulu berwarna coklat putih dan hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a beige belly, with pale green and brown secondaries.",
+          "indo": "burung ini memiliki perut berwarna krem, dengan warna bulu sekunder berwarna hijau pucat dan coklat."
+        },
+        {
+          "english": "a small brown bird, with a light colored breast, and a small bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan dada berwarna terang, dan paruh kecil."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a bird with a small beak, white belly and brown wings.",
+          "indo": "seekor burung dengan paruh kecil, perut putih dan sayap coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0070_108281.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has small beak when compared to its body, with gray throat, breast and belly, and brown tarsus and feet.",
+          "indo": "burung ini memiliki paruh yang kecil jika dibandingkan dengan tubuhnya, dengan tenggorokan, dada dan perut berwarna abu-abu, serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "the bird has a white abdomen and breast with brown tarsus and brown crown too.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan tarsus berwarna coklat dan mahkota berwarna coklat juga."
+        },
+        {
+          "english": "this small bird has a gray belly and brown crown, coverts and secondaries.",
+          "indo": "burung kecil ini memiliki perut berwarna abu-abu dan mahkota berwarna coklat, bulu penutup dan bulu penutup."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small grey white and brown bird with long tarsus and medium orange beak",
+          "indo": "burung kecil berwarna abu-abu putih dan coklat dengan tarsus panjang dan paruh oranye sedang"
+        },
+        {
+          "english": "this bird is white and grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a grey bird with brown wings and crown and a small pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap dan mahkota berwarna coklat serta paruh kecil yang runcing."
+        },
+        {
+          "english": "a small bird with a light grey belly and dark grey breast.",
+          "indo": "seekor burung kecil dengan perut abu-abu muda dan dada abu-abu tua."
+        },
+        {
+          "english": "the bird is small in size and has a white belly with a sharp pointed beak.",
+          "indo": "burung ini berukuran kecil dan memiliki perut berwarna putih dengan paruh runcing runcing."
+        },
+        {
+          "english": "this tiny bird has a grey and white belly and breast with brown and orange on its wings and head.",
+          "indo": "Burung mungil ini memiliki perut dan dada berwarna abu-abu putih dengan sayap dan kepalanya berwarna coklat dan oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0071_108735.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small bird with grey wings and tail with a red head and breast.",
+          "indo": "seekor burung kecil dengan sayap dan ekor abu-abu dengan kepala dan dada berwarna merah."
+        },
+        {
+          "english": "this bird is brown with red on its head and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna merah pada kepalanya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is mostly mottled gray with a bit of red in its neck and crown.",
+          "indo": "burung ini sebagian besar berbintik abu-abu dengan sedikit warna merah pada bagian leher dan ubun-ubunnya."
+        },
+        {
+          "english": "the plumage is white with small black streaks and the breast, throat and superciliary are bright red and orange, surrounding a very short, thick, pointed-tipped bill.",
+          "indo": "bulunya berwarna putih dengan garis-garis hitam kecil dan bagian dada, tenggorokan, dan superciliary berwarna merah cerah dan oranye, mengelilingi paruh yang sangat pendek, tebal, dan berujung runcing."
+        },
+        {
+          "english": "this bird has a gray and black striped breast, red throat and crown and short pointed black bill.",
+          "indo": "burung ini memiliki dada bergaris abu-abu hitam, tenggorokan dan mahkota berwarna merah, serta paruh pendek berwarna hitam runcing."
+        },
+        {
+          "english": "this bird has wings that are white and has a orange chest",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan dada berwarna oranye"
+        },
+        {
+          "english": "this particular bird has a gray gelly and red thorat",
+          "indo": "burung ini memiliki gelly abu-abu dan thorat merah"
+        },
+        {
+          "english": "a small bird with a grey belly and orange throat and eyebrow.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan tenggorokan serta alis berwarna oranye."
+        },
+        {
+          "english": "a small bird with a black and white speckled body and a red head.",
+          "indo": "seekor burung kecil dengan tubuh berbintik hitam putih dan kepala berwarna merah."
+        },
+        {
+          "english": "a bird with white primaries, black secondaries and a bright red superciliary.",
+          "indo": "seekor burung dengan warna bulu primer putih, warna bulu sekunder hitam, dan superciliary merah terang."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0073_108881.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a grey belly and short black beak with black feet.",
+          "indo": "burung itu memiliki perut berwarna abu-abu dan paruh pendek berwarna hitam dengan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has a short black bill, black feet, and a white belly and breast.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, kaki berwarna hitam, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white belly, grey breast and a small pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, dada abu-abu dan paruh kecil runcing."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small white grey and black bird with short tarsus and short black and yellow beak",
+          "indo": "burung kecil berwarna putih abu-abu dan hitam dengan tarsus pendek dan paruh pendek berwarna hitam kuning"
+        },
+        {
+          "english": "a medium sized bird with a small bill, and a grey breast",
+          "indo": "burung berukuran sedang dengan paruh kecil, dan dada berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small gray bird with a yellow bill and white breast, darker rectrices and wings, the wings have white wingbars",
+          "indo": "seekor burung kecil berwarna abu-abu dengan paruh kuning dan dada putih, rectrices  dan sayap lebih gelap, sayapnya memiliki garis sayap putih"
+        },
+        {
+          "english": "this bird has a grey breast, with a white belly.",
+          "indo": "burung ini memiliki dada berwarna abu-abu, dengan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a white breast and a black crown.",
+          "indo": "seekor burung dengan dada putih dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0074_108401.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a bird with brown and black wings and a red crown.",
+          "indo": "ini adalah burung dengan sayap coklat dan hitam dan mahkota merah."
+        },
+        {
+          "english": "this bird has a brown crown and small black eyes too.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan mata kecil berwarna hitam juga."
+        },
+        {
+          "english": "this bird has a brown crown, dark grey cheek patches, and a short bill.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bercak abu-abu tua di pipi, dan paruh pendek."
+        },
+        {
+          "english": "a brown and gray bird with a short bill and an orange spot on it's crown.",
+          "indo": "burung berwarna coklat dan abu-abu dengan paruh pendek dan bintik oranye di mahkotanya."
+        },
+        {
+          "english": "a small bird with light brown and dark brown wings, gray face, and brown crown.",
+          "indo": "burung kecil dengan sayap coklat muda dan coklat tua, muka abu-abu, dan mahkota coklat."
+        },
+        {
+          "english": "this black and brown bird has a brown crown and a small, black, pointy beak.",
+          "indo": "burung berwarna hitam dan coklat ini memiliki mahkota berwarna coklat dan paruh kecil berwarna hitam dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a short pointed black bill, and orange feet.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam runcing, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0075_108348.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a red crowed bird with short black beak and white chest with orange and black secondaries.",
+          "indo": "burung berkokok merah dengan paruh pendek berwarna hitam dan dada berwarna putih dengan bulu sekunder berwarna jingga dan hitam."
+        },
+        {
+          "english": "this is a bird with a grey belly, brown wings and a brown crown on its head.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap coklat dan mahkota coklat di kepalanya."
+        },
+        {
+          "english": "this bird has a greyish white belly and a rusty red cap on its head",
+          "indo": "burung ini memiliki perut berwarna putih keabu-abuan dan topi berwarna merah berkarat di kepalanya"
+        },
+        {
+          "english": "this is a grey bird with a red crown and black and brown on the wingbars.",
+          "indo": "ini adalah burung berwarna abu-abu dengan mahkota merah dan sayap berwarna hitam dan coklat."
+        },
+        {
+          "english": "a bird with a brown crown and a gray belly.",
+          "indo": "seekor burung dengan mahkota coklat dan perut abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly and red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat serta mempunyai perut berwarna putih dan mahkota berwarna merah"
+        },
+        {
+          "english": "a small bird with tan and brown secondaries, grey and white on its chest, and a red crown.",
+          "indo": "seekor burung kecil dengan bulu sekunder berwarna coklat dan coklat, dada berwarna abu-abu dan putih, dan mahkota berwarna merah."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is gray with black and brown striped wings with an orange spot on its head it has a very small",
+          "indo": "burung ini berwarna abu-abu dengan sayap bergaris hitam coklat dengan bintik oranye di kepalanya yang berukuran sangat kecil"
+        },
+        {
+          "english": "the bird has striped brown secondaries and a small bill.",
+          "indo": "burung itu mempunyai bulu sekunder bergaris coklat dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0076_108919.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a small bill that is brown and a small eyering.",
+          "indo": "burung itu mempunyai paruh kecil berwarna coklat dan cincin mata kecil."
+        },
+        {
+          "english": "this is a grey and brown bird with a pointy orange beak.",
+          "indo": "ini adalah burung berwarna abu-abu dan coklat dengan paruh oranye runcing."
+        },
+        {
+          "english": "compact bird with yellow dots on brown feathers short orange pointed bill.",
+          "indo": "burung kompak dengan titik-titik kuning pada bulu coklat, paruh pendek berwarna oranye."
+        },
+        {
+          "english": "this small bird has a brown-streaked upper body, gray belly and an pink bill and feet.",
+          "indo": "burung kecil ini memiliki tubuh bagian atas bergaris coklat, perut abu-abu, serta paruh dan kaki berwarna merah muda."
+        },
+        {
+          "english": "small gray and brown bird with pinkish bill and legs. some slight black in wings.",
+          "indo": "burung kecil berwarna abu-abu dan coklat dengan paruh dan kaki berwarna merah muda. beberapa sayapnya agak hitam."
+        },
+        {
+          "english": "a small bird with coffee colored feathers, and black eyes.",
+          "indo": "seekor burung kecil dengan bulu berwarna kopi, dan mata hitam."
+        },
+        {
+          "english": "the bird has a brown bill and a brown crown",
+          "indo": "burung itu memiliki paruh berwarna coklat dan mahkota berwarna coklat"
+        },
+        {
+          "english": "a small brown bird, with darker wings, and a small bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan sayap lebih gelap, dan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0079_110449.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this bird has a large round body in comparison to it's head, a white eyebrow and varying brown stripes on it's wing feathers.",
+          "indo": "burung ini mempunyai badan bulat yang besar dibandingkan dengan kepalanya, alis berwarna putih dan garis-garis coklat yang bervariasi pada bulu sayapnya."
+        },
+        {
+          "english": "the bird has a brown crown and a small grey bill.",
+          "indo": "burung itu memiliki mahkota berwarna coklat dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this is a small round bird with a brown crown, and white eyebrow.",
+          "indo": "ini adalah burung bulat kecil dengan mahkota coklat, dan alis putih."
+        },
+        {
+          "english": "this bird has a brown crown, a tan breast, and a tan abdomen",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berwarna coklat, dan perut berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird contains a grey and white breast belly and vent, reddish orange and grey crown and white wing bars.",
+          "indo": "Burung kecil ini memiliki perut dan lubang dada berwarna abu-abu dan putih, mahkota berwarna oranye kemerahan dan abu-abu, serta garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a brown bird with a light gray breast, belly and abdomen and a gray eyebrow",
+          "indo": "ini adalah burung berwarna coklat dengan dada, perut dan perut berwarna abu-abu muda serta alis berwarna abu-abu"
+        },
+        {
+          "english": "a small brown bird with a white breast and a short pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada putih dan paruh runcing pendek."
+        },
+        {
+          "english": "this bird is brown with whtie and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan whtie dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a dirty white breast color and a reddish brown crown",
+          "indo": "burung ini mempunyai warna dada putih kotor dan mahkota coklat kemerahan"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0080_108685.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has small head and beak when compared to its body, with reddish brown crown, and black and white wingbars.",
+          "indo": "Burung ini memiliki kepala dan paruh yang kecil jika dibandingkan dengan tubuhnya, dengan mahkota berwarna coklat kemerahan, dan garis sayap berwarna hitam putih."
+        },
+        {
+          "english": "this small bird with a short pointed beak has a light gray breast with some brown in its wings and on its crown.",
+          "indo": "Burung kecil dengan paruh runcing pendek ini memiliki dada berwarna abu-abu muda dengan sedikit warna coklat pada sayap dan mahkotanya."
+        },
+        {
+          "english": "this bird has a rounded head, and a rounded belly, with small feet",
+          "indo": "burung ini mempunyai kepala membulat, perut membulat, dan kaki kecil"
+        },
+        {
+          "english": "a small brown bird with orange on its head and beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan warna oranye di kepala dan paruhnya."
+        },
+        {
+          "english": "a light blue-grey bird with a large body and small head that has a brown crown.",
+          "indo": "burung berwarna biru muda abu-abu dengan tubuh besar dan kepala kecil yang memiliki mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is white and tinted brown throughout with a light brown spot on its head.",
+          "indo": "burung ini berwarna putih dan seluruhnya berwarna coklat dengan bintik coklat muda di kepalanya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "a small brown bird, with a darker crown, and a short bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan mahkota lebih gelap, dan paruh pendek."
+        },
+        {
+          "english": "a small bird with a white belly, breast and head along with an orange crown.",
+          "indo": "seekor burung kecil dengan perut, dada dan kepala berwarna putih serta mahkota berwarna jingga."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0085_109506.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this little bird has a light gray belly and breast, brown crown, with white wingbars.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu muda, mahkota berwarna coklat, dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown crown and white wingbars.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna coklat dan garis sayap berwarna putih."
+        },
+        {
+          "english": "the plump bird has a grey belly with a brown crown and black eyebrow.",
+          "indo": "burung gempal ini memiliki perut berwarna abu-abu dengan mahkota berwarna coklat dan alis berwarna hitam."
+        },
+        {
+          "english": "this small bird with a large chest has brown with black stripes on it's wings, white body, small beak with small feet.",
+          "indo": "Burung kecil berdada besar ini memiliki warna coklat dengan garis-garis hitam pada sayapnya, badan berwarna putih, paruh kecil dengan kaki kecil."
+        },
+        {
+          "english": "this bird has a tiny beak, brown mottled feathers, a white eye stripe and a black eyeline, with a rusty brown cap.",
+          "indo": "burung ini mempunyai paruh yang mungil, bulu berbintik-bintik coklat, garis mata berwarna putih dan garis mata hitam, dengan tutup berwarna coklat berkarat."
+        },
+        {
+          "english": "this small bird has a grey belly with wings of brown and black, and the top of its head has a small brown patch as well.",
+          "indo": "Burung kecil ini memiliki perut berwarna abu-abu dengan sayap berwarna coklat dan hitam, dan di bagian atas kepalanya juga terdapat bercak kecil berwarna coklat."
+        },
+        {
+          "english": "this bird is grey with brown and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a short pointy beak and a bright brown crown. the body is light grey and the wings are dark brown with light brown edges.",
+          "indo": "burung ini memiliki paruh pendek, runcing, dan mahkota berwarna coklat cerah. badannya berwarna abu-abu muda dan sayapnya berwarna coklat tua dengan pinggiran berwarna coklat muda."
+        },
+        {
+          "english": "a white bird with yellow and black striped wings, red crown and short black bill.",
+          "indo": "burung berwarna putih dengan sayap bergaris kuning dan hitam, mahkota merah dan paruh hitam pendek."
+        },
+        {
+          "english": "a small bird with a grey belly and short beak.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0086_109022.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a sparrow male with brown spotted wings, crest and back, and having off-white colored cheek, throat, breast and belly.",
+          "indo": "burung pipit jantan dengan sayap, jambul dan punggung berbintik coklat, serta pipi, tenggorokan, dada dan perut berwarna putih pucat."
+        },
+        {
+          "english": "this bird is kind of plain looking with a gray breast and belly and shades of brown, black and white on his head and wings.",
+          "indo": "Burung ini berpenampilan polos dengan dada dan perut berwarna abu-abu serta corak warna coklat, hitam dan putih pada kepala dan sayapnya."
+        },
+        {
+          "english": "this bird has a brown crown, a white breast, and white wingbars.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berwarna putih, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a white belly and brown striped wings, tail and head.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap, ekor dan kepala bergaris coklat."
+        },
+        {
+          "english": "this bird has a nice brown on it's wings and crown with a white brow underneath the crown, followed by a black superciliary underneath that.",
+          "indo": "burung ini memiliki warna coklat yang bagus pada sayap dan mahkotanya dengan superciliary putih di bawah mahkota, diikuti oleh superciliary hitam di bawahnya."
+        },
+        {
+          "english": "this bird has a gray breast with brown and white wings.",
+          "indo": "burung ini memiliki dada berwarna abu-abu dengan sayap berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is orange white with small hands of black onyx wing its head is brown chest is white and wings are brown and black speckled",
+          "indo": "burung ini berwarna putih jingga dengan tangan kecil bersayap onyx hitam, kepalanya berwarna coklat, dada berwarna putih, sayap berwarna coklat berbintik hitam"
+        },
+        {
+          "english": "this small bird has a dark red crown, a white breast and belly, and brown wings with black and white streaks.",
+          "indo": "Burung kecil ini memiliki mahkota berwarna merah tua, dada dan perut berwarna putih, serta sayap berwarna coklat dengan guratan hitam putih."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0088_107562.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a bird with a red crest on top of the head with brown wings and a gray body.",
+          "indo": "burung dengan jambul merah di atas kepala, sayap coklat, dan badan abu-abu."
+        },
+        {
+          "english": "the bird has a plump grey breast with a brown crown and long tail feather.",
+          "indo": "burung ini memiliki dada gempal berwarna abu-abu dengan mahkota berwarna coklat dan bulu ekor yang panjang."
+        },
+        {
+          "english": "medium sized bird with a grey belly and dark brown feathers on its wing and tail and burnt orange hair on its head.",
+          "indo": "burung berukuran sedang dengan perut abu-abu dan bulu coklat tua di sayap dan ekornya serta rambut oranye terbakar di kepalanya."
+        },
+        {
+          "english": "this small gray bird has brown feathers, a russet patch on the top of its head, and a short black beak.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki bulu berwarna coklat, bercak coklat kemerahan di bagian atas kepalanya, dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a red crown, a small dark beak and brown wings.",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh kecil berwarna gelap dan sayap berwarna coklat."
+        },
+        {
+          "english": "this puffy-chested bird has a very pale grey breast, light brown and dark brown wing and tail feathers, small eyes, a sharp, flat, black beak, and a thatch of chestnut feathers on its crown.",
+          "indo": "Burung berdada gembung ini memiliki dada berwarna abu-abu pucat, bulu sayap dan ekor berwarna coklat muda dan coklat tua, mata kecil, paruh runcing, pipih, berwarna hitam, dan bulu ilalang berwarna kastanye di mahkotanya."
+        },
+        {
+          "english": "the crown is brown with black beak, the belly is gray and the wingbars are brown with white line.",
+          "indo": "mahkota berwarna coklat dengan paruh berwarna hitam, perut berwarna abu-abu dan garis sayap berwarna coklat dengan garis putih."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and has brown secondaries",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan memiliki bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird has a short black pointed bill,e with a light grey breast.",
+          "indo": "Burung ini mempunyai paruh pendek berwarna hitam dan runcing dengan dada berwarna abu-abu muda."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0089_107535.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "small grey bird with black and orange pattern on head and wings, medium to short tarsus",
+          "indo": "burung kecil berwarna abu-abu dengan pola hitam dan oranye di kepala dan sayap, tarsus sedang hingga pendek"
+        },
+        {
+          "english": "this light gray colored bird has a red beak and red crown.",
+          "indo": "burung berwarna abu-abu muda ini memiliki paruh berwarna merah dan mahkota berwarna merah."
+        },
+        {
+          "english": "a small bird with a rust-colored crown, bill, and feet that stand out from its white belly and throat.",
+          "indo": "seekor burung kecil dengan mahkota, paruh, dan kaki berwarna karat yang menonjol dari perut dan tenggorokannya yang berwarna putih."
+        },
+        {
+          "english": "a small bird with a yellow bill and a maroon colored crown.",
+          "indo": "seekor burung kecil dengan paruh kuning dan mahkota berwarna merah marun."
+        },
+        {
+          "english": "small round bird with small pointed bill and bright black eyes.",
+          "indo": "burung bulat kecil dengan paruh runcing kecil dan mata hitam cerah."
+        },
+        {
+          "english": "this bird has a bright and colorful crown, white eyerings, and a fluffy belly.",
+          "indo": "burung ini memiliki mahkota yang cerah dan berwarna-warni, cincin mata berwarna putih, dan perut buncit."
+        },
+        {
+          "english": "this bird is white with black and red and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam dan merah serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a fat belly a orange legs.",
+          "indo": "burung ini memiliki perut gendut dan kaki berwarna oranye."
+        },
+        {
+          "english": "the bird has an amber crown, a grey belly and a small bill.",
+          "indo": "burung itu memiliki mahkota kuning, perut abu-abu, dan paruh kecil."
+        },
+        {
+          "english": "a small bird, with a white belly, red crown, and a sharp bill.",
+          "indo": "seekor burung kecil, dengan perut putih, mahkota merah, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0090_14718.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a small bird with a blue back, orange belly, and a stubby grey beak.",
+          "indo": "ini adalah burung kecil dengan punggung biru, perut oranye, dan paruh abu-abu gemuk."
+        },
+        {
+          "english": "this bird has a short wide bill, a bright blue crown, and an orange breast.",
+          "indo": "burung ini memiliki paruh pendek dan lebar, mahkota berwarna biru cerah, dan dada berwarna oranye."
+        },
+        {
+          "english": "this bright multicolored bird has a blue head and rump, with a white belly and brown chest.",
+          "indo": "burung beraneka warna cerah ini memiliki kepala dan pantat berwarna biru, dengan perut berwarna putih dan dada berwarna coklat."
+        },
+        {
+          "english": "a colorful bird with a black eye patch and a short sharp bill",
+          "indo": "burung berwarna-warni dengan penutup mata hitam dan paruh pendek dan tajam"
+        },
+        {
+          "english": "this blue bird has a white belly and yellowish breast, black wings, and a blue head.",
+          "indo": "burung berwarna biru ini memiliki perut berwarna putih dan dada kekuningan, sayap berwarna hitam, dan kepala berwarna biru."
+        },
+        {
+          "english": "this blue bird has a white and orange breast with black secondaries and white wing bars.",
+          "indo": "Burung berwarna biru ini memiliki dada berwarna putih dan oranye dengan sayap bulu sekunder berwarna hitam dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is primarily blue with a white and rust brown breast area, dark brown wings, round head, and pointy beak.",
+          "indo": "burung ini terutama berwarna biru dengan area dada berwarna putih dan coklat karat, sayap berwarna coklat tua, kepala bulat, dan paruh runcing."
+        },
+        {
+          "english": "a colorful bird with brown and teal secondaries, a blue flank, red throat, blue and green head, and a white chest.",
+          "indo": "burung berwarna-warni dengan warna coklat dan biru kehijauan, sayap biru, tenggorokan merah, kepala biru dan hijau, dan dada putih."
+        },
+        {
+          "english": "this bird has a blue crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna biru dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a blue crown and a short pointed beak and blue tail feathers.",
+          "indo": "burung dengan mahkota biru dan paruh runcing pendek serta bulu ekor biru."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0091_108308.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a brown crown and a grey body with a black bill.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan tubuh berwarna abu-abu dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a gray male sparrow with orange-brown crown and has brown and black striped wings.",
+          "indo": "burung pipit jantan berwarna abu-abu dengan mahkota berwarna oranye kecokelatan dan mempunyai sayap bergaris coklat dan hitam."
+        },
+        {
+          "english": "this bird has a grey face, nape, throat and belly, with a red head, and tan and black wings with white wingbars.",
+          "indo": "burung ini memiliki muka, tengkuk, tenggorokan dan perut berwarna abu-abu, dengan kepala berwarna merah, dan sayap berwarna coklat kecokelatan dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a brown crown and black superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna coklat dan superciliary berwarna hitam."
+        },
+        {
+          "english": "this bird has a grey body with brown and black wings, the head head has a rusty brown cao and there is a black mark across the head aligned with the eye.",
+          "indo": "burung ini mempunyai badan berwarna abu-abu dengan sayap berwarna coklat dan hitam, kepala kepalanya terdapat cao berwarna coklat karatan dan terdapat tanda hitam pada bagian kepala sejajar dengan matanya."
+        },
+        {
+          "english": "a small bird that is yellowish and black on its wings and grey on its chest.",
+          "indo": "burung kecil yang sayapnya berwarna kekuningan dan hitam, serta dada berwarna abu-abu."
+        },
+        {
+          "english": "this is a grey bird with black and yellow feathers, a brown crown and a black eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan bulu hitam dan kuning, mahkota coklat dan alis hitam."
+        },
+        {
+          "english": "this is a short, stout bird with a grey chest and neck, and striped yellow and black wings.",
+          "indo": "ini adalah burung pendek dan gagah dengan dada dan leher abu-abu, serta sayap bergaris kuning dan hitam."
+        },
+        {
+          "english": "this bird has a grey belly with a brown crown and a white wing guard.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan mahkota berwarna coklat dan pelindung sayap berwarna putih."
+        },
+        {
+          "english": "a plump little bird with a reddish or rust color on the top of it's head. the wings look to be striped brown and yellow.",
+          "indo": "burung kecil gempal dengan warna kemerahan atau karat di bagian atas kepalanya. sayapnya terlihat bergaris coklat dan kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0096_109853.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a gray bird with brown feathers in its wings and on its head.",
+          "indo": "ini adalah burung abu-abu dengan bulu coklat di sayap dan kepalanya."
+        },
+        {
+          "english": "a small bird with a brown crown and white superciliary with light taupe throat and breast.",
+          "indo": "seekor burung kecil dengan mahkota coklat dan superciliary putih dengan tenggorokan dan dada berwarna kelabu tua."
+        },
+        {
+          "english": "this small bird has a light grey body, a reddish brown cap, black narrow eye patches and barred wings.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna abu-abu muda, topi berwarna coklat kemerahan, penutup mata sipit berwarna hitam, dan sayap berjeruji."
+        },
+        {
+          "english": "this small brown bird has a tiny beak and short legs.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh kecil dan kaki pendek."
+        },
+        {
+          "english": "this is a small, fat bird with a red crown and white breast.",
+          "indo": "ini adalah burung kecil gemuk dengan mahkota merah dan dada putih."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and brown",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan coklat"
+        },
+        {
+          "english": "this bird has a brown crown with a black superciliary and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan superciliary berwarna hitam dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is brown and white in color, with a small stubby beak.",
+          "indo": "burung ini berwarna coklat dan putih, dengan paruh kecil yang gemuk."
+        },
+        {
+          "english": "this bird is grey with brown and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0097_107678.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the crown of the head is a deep brown, with an off white eyebrow and a black superciliary, the bill is short and pointed and the body is a variety of browns.",
+          "indo": "ubun-ubun kepala berwarna coklat tua, superciliary berwarna putih pucat dan superciliary berwarna hitam, paruh pendek dan runcing serta badan berwarna coklat bervariasi."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feathers and black beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna putih dan paruh berwarna hitam"
+        },
+        {
+          "english": "a small bird with a light chest, brown variegated wings and tail feathers and gray cheek patches.",
+          "indo": "seekor burung kecil dengan dada terang, sayap dan bulu ekor beraneka ragam berwarna coklat, serta bercak abu-abu di pipi."
+        },
+        {
+          "english": "a small bird with light brown, black, and white wings with a brown crown and black eyeline.",
+          "indo": "seekor burung kecil dengan sayap berwarna coklat muda, hitam, dan putih dengan mahkota coklat dan garis mata hitam."
+        },
+        {
+          "english": "this bird has a black and yellow striped back with a white belly.",
+          "indo": "burung ini memiliki punggung bergaris hitam kuning dengan perut berwarna putih."
+        },
+        {
+          "english": "a small sparrow-like bird with orange/brown crown, small beak, and black/brown wings with white wing-bars.",
+          "indo": "burung kecil mirip burung pipit dengan mahkota jingga/coklat, paruh kecil, dan sayap hitam/coklat dengan garis sayap putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a multicolored set of feathers that include beige and black streaks on its primaries and secondaries.",
+          "indo": "burung ini memiliki rangkaian bulu warna-warni yang memiliki garis-garis krem ​​​​dan hitam pada bulu primer dan sekundernya."
+        },
+        {
+          "english": "this bird has a white body, very detailed brown wings, and a small head",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap berwarna coklat sangat detail, dan kepala kecil"
+        },
+        {
+          "english": "a small bird with a long striped tail, a short leg, a small head, and a short pointy beak.",
+          "indo": "burung kecil dengan ekor panjang bergaris, kaki pendek, kepala kecil, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0098_108644.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "the bird has a grey breast and brown and dark brown wings.",
+          "indo": "burung itu memiliki dada berwarna abu-abu dan sayap berwarna coklat dan coklat tua."
+        },
+        {
+          "english": "the light tan wings have two dark winger own wings back, a red streak on its head and a white belly.",
+          "indo": "sayap berwarna coklat muda memiliki dua sayap di punggung sayap berwarna gelap, garis merah di kepala dan perut putih."
+        },
+        {
+          "english": "what is the length of the feathers in realtionship to the overall length of the bird?",
+          "indo": "berapa panjang bulunya dibandingkan dengan panjang keseluruhan burung tersebut?"
+        },
+        {
+          "english": "a small bird with a rust colored crown, white superciliary, black eyebrow and grey cheek patch.",
+          "indo": "burung kecil dengan mahkota berwarna karat, superciliary putih, superciliary hitam, dan pipi abu-abu."
+        },
+        {
+          "english": "small bird, short pointed beak, white belly, red crown, black eye ring and brown speckled wings.",
+          "indo": "burung kecil, paruh pendek runcing, perut putih, mahkota merah, cincin mata hitam, dan sayap berbintik coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "orange white and black stripes head with brown black and white wings and a white chest.",
+          "indo": "kepala bergaris oranye putih dan hitam dengan sayap coklat hitam putih dan dada putih."
+        },
+        {
+          "english": "this bird has a brown crown with a grey belly and grey eyebrow.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan perut berwarna abu-abu dan alis berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a white belly and short, pointed beak.",
+          "indo": "seekor burung kecil dengan perut putih dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0103_109529.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a small, grey bird with brown wings and a rust colored crown.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan sayap coklat dan mahkota berwarna karat."
+        },
+        {
+          "english": "the bird has a red crown, a white belly, white breast, and brown and white streaked wings.",
+          "indo": "burung ini memiliki mahkota berwarna merah, perut berwarna putih, dada berwarna putih, dan sayap bergaris coklat putih."
+        },
+        {
+          "english": "this small, white bird has a red-brown crown and black eyebrows.",
+          "indo": "burung kecil berwarna putih ini memiliki mahkota berwarna merah kecokelatan dan alis berwarna hitam."
+        },
+        {
+          "english": "this small bird has a grey belly and breast, a white eyebrow and its cornw and feathers are brown.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna abu-abu, alis berwarna putih, jagung serta bulunya berwarna coklat."
+        },
+        {
+          "english": "a really small bird with a small brown bill and a brown crown.",
+          "indo": "seekor burung yang sangat kecil dengan paruh kecil berwarna coklat dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the small bird has an amber crown, grey belly and striped brown back.",
+          "indo": "burung kecil ini memiliki mahkota berwarna kuning, perut berwarna abu-abu, dan punggung berwarna coklat bergaris."
+        },
+        {
+          "english": "this small bird has brown feathers on its head, gray feathers on its chest, along with black, brown, and white feathers on its wings.",
+          "indo": "Burung kecil ini memiliki bulu berwarna coklat di kepalanya, bulu abu-abu di dadanya, serta bulu berwarna hitam, coklat, dan putih di sayapnya."
+        },
+        {
+          "english": "this bird has pointed black bill, with a grey belly and breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, dengan perut dan dada berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a grey bill, amber crown and full belly.",
+          "indo": "burung itu memiliki paruh berwarna abu-abu, mahkota berwarna kuning, dan perut penuh."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0109_108162.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this bird has a red crown synonymous with chickens and matching read feet, it has a large, puffed, grey breast and secondary feathers that are black, white and red.",
+          "indo": "burung ini memiliki mahkota berwarna merah yang identik dengan ayam dan kaki yang serasi, memiliki dada yang besar, menggembung, berwarna abu-abu dan bulu sekunder berwarna hitam, putih dan merah."
+        },
+        {
+          "english": "the head of the bird is orange with a plump grey body and white wingbars.",
+          "indo": "kepala burung berwarna jingga dengan badan gempal berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "a small sized bird that has a dark orange tipped head and pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki kepala berujung oranye gelap dan paruh runcing"
+        },
+        {
+          "english": "the birds has an orange crown with a grey throat, belly, breast and abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna jingga dengan tenggorokan, perut, dada, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this brown has an orange crown, black stripe across the cheek, white belly, and orange feet, while its wings are black and white stripes on brown.",
+          "indo": "Coklat ini mempunyai mahkota jingga, garis hitam di pipi, perut putih, dan kaki jingga, sedangkan sayapnya bergaris hitam putih di atas coklat."
+        },
+        {
+          "english": "a round shaped bird with a bright orange crown, orange feet, and a grayish white belly.",
+          "indo": "burung berbentuk bulat dengan mahkota berwarna jingga cerah, kaki berwarna jingga, dan perut berwarna putih keabu-abuan."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has a very small beak and head compared to its body and the head stands out because it is orange and the beak is blue.",
+          "indo": "burung ini mempunyai paruh dan kepala yang sangat kecil dibandingkan dengan tubuhnya dan kepalanya menonjol karena berwarna jingga dan paruhnya berwarna biru."
+        },
+        {
+          "english": "this small bird has a red crown and light colored belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah dan perut berwarna terang."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0110_108974.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "this is a grey bird with brown wings and a black beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan paruh hitam."
+        },
+        {
+          "english": "a small bird with gray breast and throat, brown crown, white superciliary, and short black beak.",
+          "indo": "seekor burung kecil dengan dada dan tenggorokan berwarna abu-abu, mahkota berwarna coklat, superciliary berwarna putih, dan paruh hitam pendek."
+        },
+        {
+          "english": "this fat bird has a grey belly, brown and white wings and a dark grey cheek patch, its bill is tiny.",
+          "indo": "burung gemuk ini memiliki perut berwarna abu-abu, sayap berwarna coklat dan putih serta bercak abu-abu tua di pipi, paruhnya kecil."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has a white belly and eyebrows with a brown crown",
+          "indo": "burung kecil ini memiliki perut berwarna putih dan alis dengan mahkota berwarna coklat"
+        },
+        {
+          "english": "this small bird has a grey chest and underbelly and some brown feathers.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna abu-abu serta beberapa bulu berwarna coklat."
+        },
+        {
+          "english": "the bird has a small black bill, striped brown wingbars and a grey belly.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam, garis sayap berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird is gray and brown in color, with a black beak.",
+          "indo": "burung ini berwarna abu-abu coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a puffy grey belly and small bill.",
+          "indo": "burung itu memiliki perut abu-abu menggembung dan paruh kecil."
+        },
+        {
+          "english": "this small, fat, gray bird has brown wings and a small beak.",
+          "indo": "burung kecil, gemuk, berwarna abu-abu ini memiliki sayap berwarna coklat dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Chipping_Sparrow_0111_108515.jpg",
+      "class_id": 115,
+      "captions": [
+        {
+          "english": "a bird with a small pointed bill, red crown, black eyebrow, and shaggy white on its belly.",
+          "indo": "burung dengan paruh kecil runcing, mahkota berwarna merah, alis berwarna hitam, dan perut berwarna putih berbulu."
+        },
+        {
+          "english": "this bird is white, black and red in color with a small pointy beak and white eye rings.",
+          "indo": "burung ini berwarna putih, hitam dan merah dengan paruh kecil runcing dan cincin mata berwarna putih."
+        },
+        {
+          "english": "a grey and brown mottled bird with an orange/brown crest.",
+          "indo": "burung berbintik abu-abu dan coklat dengan jambul oranye/coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is mostly gray, but has black on its wings, a black eye stripe, and an orange crown.",
+          "indo": "burung ini sebagian besar berwarna abu-abu, namun memiliki sayap berwarna hitam, garis mata hitam, dan mahkota berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are black and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "a small bird with brown wingbars and orange crown and the bill is short and pointed",
+          "indo": "seekor burung kecil dengan garis sayap berwarna coklat dan mahkota berwarna oranye, serta paruhnya pendek dan runcing"
+        },
+        {
+          "english": "this bird has a reddish brown crown with white and grey plumage on its breast.",
+          "indo": "burung ini memiliki mahkota berwarna coklat kemerahan dengan bulu berwarna putih dan abu-abu di bagian dadanya."
+        },
+        {
+          "english": "the bird has large wingbars and an amber crown.",
+          "indo": "burung itu memiliki garis sayap yang besar dan mahkota berwarna kuning."
+        },
+        {
+          "english": "the bird has a red crown, a brown bill, and a grey belly and breast.",
+          "indo": "burung itu memiliki mahkota berwarna merah, paruh berwarna coklat, serta perut dan dada berwarna abu-abu."
+        }
+      ]
+    }
+  ]
+}

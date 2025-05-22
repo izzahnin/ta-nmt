@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "White_Breasted_Kingfisher_0002_73491.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this long billed bird has a white breast and blue primary and rectrices  feathers.",
+          "indo": "burung berparuh panjang ini memiliki dada berwarna putih dan bulu primer dan bulu lurus berwarna biru."
+        },
+        {
+          "english": "this strange bird has a brown belly, white breast, blue primaries, and a long pointy bill.",
+          "indo": "burung aneh ini memiliki perut berwarna coklat, dada berwarna putih, paruh berwarna biru, dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a brown bird with a white breast and a blue wing.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan sayap biru."
+        },
+        {
+          "english": "this brown bird has a long pink beak and blue wings.",
+          "indo": "burung berwarna coklat ini memiliki paruh panjang berwarna merah muda dan sayap berwarna biru."
+        },
+        {
+          "english": "this brown and white bird has a very long orange beak.",
+          "indo": "burung berwarna coklat putih ini mempunyai paruh berwarna jingga yang sangat panjang."
+        },
+        {
+          "english": "this brown bird has blue primaries, a white breast and a long beak.",
+          "indo": "burung berwarna coklat ini memiliki warna bulu primer berwarna biru, dada berwarna putih dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a black crown as well as a bright blue wingbar and orange bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam serta garis sayap berwarna biru cerah dan paruh berwarna oranye"
+        },
+        {
+          "english": "this long-billed bird has a brown body, white breast, and bright blue wings.",
+          "indo": "burung berparuh panjang ini memiliki tubuh berwarna coklat, dada berwarna putih, dan sayap berwarna biru cerah."
+        },
+        {
+          "english": "this is a very distinctive bird, it has a very large bill which extends far in front of its face, it has bright blue primaries and brown to tan body.",
+          "indo": "Ini adalah burung yang sangat khas, memiliki paruh yang sangat besar yang memanjang jauh di depan wajahnya, memiliki warna bulu primer berwarna biru cerah dan tubuh berwarna coklat hingga kecoklatan."
+        },
+        {
+          "english": "this bird is blue with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0003_73195.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a small sized bird with blue tipped wings and a very large and stout bill",
+          "indo": "seekor burung berukuran kecil dengan sayap berujung biru dan paruh yang sangat besar dan kokoh"
+        },
+        {
+          "english": "this little bird has a white belly and breast, brown crown, and a large pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, mahkota berwarna coklat, dan paruh besar yang runcing."
+        },
+        {
+          "english": "a smallish black and white bird that has a large compared to its body pointed bill.",
+          "indo": "burung bertubuh kecil berwarna hitam putih yang memiliki paruh runcing yang besar dibandingkan tubuhnya."
+        },
+        {
+          "english": "this bird has a long orange, pointed bill, and long, vibrant blue tail feathers.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye, runcing, dan bulu ekor panjang berwarna biru cerah."
+        },
+        {
+          "english": "this bird is blue, black, and white in color with a large red beak, and black eye rings.",
+          "indo": "burung ini berwarna biru, hitam, dan putih dengan paruh besar berwarna merah, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is green with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a long standing bird that has a black body and a very long beak.",
+          "indo": "burung yang berdiri lama, memiliki tubuh berwarna hitam dan paruh yang sangat panjang."
+        },
+        {
+          "english": "this primarily dark brown bird has teal primaries and rectrices, a white breast, and a long orange bill.",
+          "indo": "burung yang sebagian besar berwarna coklat tua ini memiliki warna bulu primer dan rectrices, dada putih, dan paruh oranye panjang."
+        },
+        {
+          "english": "the bird has a large bill, white belly and blue back.",
+          "indo": "burung ini mempunyai paruh yang besar, perut berwarna putih dan punggung berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0004_73741.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a small bird with a long orange bill, and a brown crown, and a blue tail.",
+          "indo": "seekor burung kecil dengan paruh panjang berwarna oranye, mahkota berwarna coklat, dan ekor berwarna biru."
+        },
+        {
+          "english": "this is a bird with a brown belly and head, blue wings and back and a large orange beak.",
+          "indo": "ini adalah burung dengan perut dan kepala berwarna coklat, sayap dan punggung berwarna biru, serta paruh besar berwarna oranye."
+        },
+        {
+          "english": "a small colorful bird, with a long orange beak, blue wing and tail feathers, and a black and orange under belly and head.",
+          "indo": "burung kecil berwarna-warni, dengan paruh panjang berwarna oranye, sayap dan bulu ekor berwarna biru, serta berwarna hitam dan oranye di bawah perut dan kepala."
+        },
+        {
+          "english": "this small colorful bird has a long orange bill relative to its small body.",
+          "indo": "burung kecil berwarna-warni ini memiliki paruh berwarna oranye yang panjang dibandingkan dengan tubuhnya yang kecil."
+        },
+        {
+          "english": "this is a dark brown bird with a red bill, long crown, and blue wings.",
+          "indo": "ini adalah burung berwarna coklat tua dengan paruh merah, mahkota panjang, dan sayap biru."
+        },
+        {
+          "english": "this is a brown bird with a bright teal back and tail, it also has a very large red beak.",
+          "indo": "Ini adalah burung berwarna coklat dengan punggung dan ekor berwarna biru kehijauan cerah, juga memiliki paruh berwarna merah yang sangat besar."
+        },
+        {
+          "english": "bird has a bright blue back and tail, black had and wings, with a very large, long orange beak.",
+          "indo": "Burung ini memiliki punggung dan ekor berwarna biru cerah, sayap dan sayap berwarna hitam, dengan paruh berwarna oranye yang sangat besar dan panjang."
+        },
+        {
+          "english": "this small bird has a beak that is large compared to the size of its body, and bright blue feathers along the back and rump, extending all the way down to the inner and outer rectrices.",
+          "indo": "Burung kecil ini memiliki paruh yang besar dibandingkan dengan ukuran tubuhnya, dan bulu berwarna biru cerah di sepanjang punggung dan pantat, memanjang hingga ke inner dan outer rectrices."
+        },
+        {
+          "english": "this bird has a brown head and long orange bill with a bright blue streak running down its back and tail feather.",
+          "indo": "burung ini memiliki kepala berwarna coklat dan paruh panjang berwarna oranye dengan guratan biru cerah di punggung dan bulu ekornya."
+        },
+        {
+          "english": "this bird has a long orang-red beak and a bright blue wings and tail.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah jingga serta sayap dan ekor berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0011_73267.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has bright blue back and primary feathers, with a red crown and large bill.",
+          "indo": "burung ini memiliki punggung dan bulu utama berwarna biru cerah, dengan mahkota berwarna merah dan paruh besar."
+        },
+        {
+          "english": "this is a small bird with a huge beak, blue on his backside, brown on his head and a white neck.",
+          "indo": "ini adalah burung kecil dengan paruh besar, bagian belakang berwarna biru, kepala berwarna coklat, dan leher berwarna putih."
+        },
+        {
+          "english": "a small colorful bird with blue feathers, a brown nape and large straight beak.",
+          "indo": "burung kecil berwarna-warni dengan bulu biru, tengkuk coklat dan paruh besar lurus."
+        },
+        {
+          "english": "a vibrant blue colored bird, with brownish red head and markings, including distinctive long sturdy beak",
+          "indo": "burung berwarna biru cerah, dengan kepala dan corak berwarna merah kecoklatan, termasuk paruh panjang dan kokoh yang khas"
+        },
+        {
+          "english": "this is a small bird with a large long drooping beak a blue back and a brown head and lighter belly.",
+          "indo": "ini adalah burung kecil dengan paruh besar yang panjang dan terkulai, punggung berwarna biru, kepala berwarna coklat, dan perut berwarna lebih terang."
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna biru kecokelatan serta paruh berwarna jingga"
+        },
+        {
+          "english": "the wings are brown and bright blue, the blue extends down into the tail feathers, the brown extends up into the head with a white chest and long, flat, orange beak.",
+          "indo": "sayapnya berwarna coklat dan biru cerah, warna biru memanjang hingga ke bulu ekor, warna coklat memanjang hingga ke kepala dengan dada berwarna putih dan paruh panjang, rata, berwarna oranye."
+        },
+        {
+          "english": "the small bird has a thick orange bill with a brown head and a partially blue body.",
+          "indo": "burung kecil ini memiliki paruh berwarna jingga tebal dengan kepala berwarna coklat dan tubuh sebagian berwarna biru."
+        },
+        {
+          "english": "this brown and bright blue bird has a white throat and a very long, dull pointed bill.",
+          "indo": "burung berwarna coklat dan biru cerah ini memiliki tenggorokan berwarna putih dan paruh yang sangat panjang dan runcing kusam."
+        },
+        {
+          "english": "this bird has a long beak, brown head and breast and vivid blue feathers for its tail, rump and wings.",
+          "indo": "burung ini memiliki paruh yang panjang, kepala dan dada berwarna coklat serta bulu berwarna biru cerah pada ekor, pantat dan sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0012_73367.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has a very long bill relative to its body and is orange.",
+          "indo": "burung ini memiliki paruh yang sangat panjang dibandingkan tubuhnya dan berwarna oranye."
+        },
+        {
+          "english": "this bird has a long red beak with a dip in the middle, a brown head, and large light blue feathers down to its tail.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah dengan cekungan di tengahnya, kepala berwarna coklat, dan bulu besar berwarna biru muda hingga ke ekornya."
+        },
+        {
+          "english": "this is a blue bird with a brown head and a long red beak.",
+          "indo": "ini adalah burung biru dengan kepala coklat dan paruh merah panjang."
+        },
+        {
+          "english": "this beautiful bird features a light blue back and red around its head, as well as a huge orange beak.",
+          "indo": "burung cantik ini memiliki punggung berwarna biru muda dan kepala berwarna merah, serta paruh besar berwarna oranye."
+        },
+        {
+          "english": "bird with long, fat and sharp pointed beak that is reddish brown color, brown crown, nape and side, and brown tarsus and feet",
+          "indo": "burung dengan paruh yang panjang, gemuk, dan runcing, berwarna coklat kemerahan, mahkota, tengkuk dan samping berwarna coklat, serta tarsus dan kaki berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with blue wings and tail and a long, thick, pointed red beak.",
+          "indo": "burung ini berwarna coklat dengan sayap dan ekor berwarna biru serta paruh panjang, tebal, dan runcing berwarna merah."
+        },
+        {
+          "english": "this bird has a large orange pointed beak, light blue primary wings and tail feathers, brown head, side and secondary wings, with a cream throat.",
+          "indo": "burung ini memiliki paruh besar runcing berwarna jingga, sayap bulu primer dan bulu ekor berwarna biru muda, kepala berwarna coklat, sayap samping dan sayap bulu sekunder, dengan tenggorokan berwarna krem."
+        },
+        {
+          "english": "a brown bird with a light blue back, wings and tail feathers, the orange bill very long and thick.",
+          "indo": "burung berwarna coklat dengan punggung, sayap dan bulu ekor berwarna biru muda, paruh berwarna jingga sangat panjang dan tebal."
+        },
+        {
+          "english": "beautiful, bright blue bird with a brown crown and nape and an extremely large bill.",
+          "indo": "burung cantik berwarna biru cerah dengan mahkota dan tengkuk berwarna coklat serta paruh yang sangat besar."
+        },
+        {
+          "english": "a bird with a pale blue uppertail covert, a completely brown crown with pale blue primaries.",
+          "indo": "seekor burung dengan bulu penutup ekor atas berwarna biru pucat, mahkota berwarna coklat seluruhnya dengan warna bulu primer biru pucat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0015_73192.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a big wide open beak and a body colored blue and brown.",
+          "indo": "burung ini mempunyai paruh besar yang terbuka lebar dan badan berwarna biru dan coklat."
+        },
+        {
+          "english": "the bird has teal wing fringes with a black wing center, a white neck and small necklace, and a long, nearly flat beak with rust colored head.",
+          "indo": "burung ini memiliki pinggiran sayap berwarna biru kehijauan dengan bagian tengah sayap berwarna hitam, leher berwarna putih dan kalung kecil, serta paruh panjang hampir rata dengan kepala berwarna karat."
+        },
+        {
+          "english": "this colorful bird has a brown head, white breast and neck, light blue wings with brown mixed in.",
+          "indo": "burung berwarna-warni ini memiliki kepala berwarna coklat, dada dan leher berwarna putih, sayap berwarna biru muda dengan campuran coklat."
+        },
+        {
+          "english": "this bird has a brown body, blue wing, and extreme pointy bill.",
+          "indo": "burung ini memiliki tubuh berwarna coklat, sayap berwarna biru, dan paruh yang sangat runcing."
+        },
+        {
+          "english": "this bird features a bright blue back,white breast,and a burgundy colored belly.",
+          "indo": "burung ini memiliki punggung berwarna biru cerah, dada berwarna putih, dan perut berwarna merah anggur."
+        },
+        {
+          "english": "this bird has beautiful light blue and dark blue feathers on its wings, brown feathers on its belly and a white plumage, and brown feathered head. it also has blue tailfeathers and black eyes and dark brown feet and long beak.",
+          "indo": "burung ini memiliki bulu indah berwarna biru muda dan biru tua pada sayapnya, bulu coklat pada perutnya dan bulu putih, serta kepala berbulu coklat. ia juga memiliki bulu ekor biru dan mata hitam serta kaki coklat tua dan paruh panjang."
+        },
+        {
+          "english": "this bird has wings that are blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam biru dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a small colorful bird with brown belly and head, white breast, and brown and blue wings.",
+          "indo": "burung kecil berwarna-warni dengan perut dan kepala berwarna coklat, dada putih, dan sayap berwarna coklat dan biru."
+        },
+        {
+          "english": "this bird has a brown head a brown body blue wings and a white color around it's neck he also has a very large beak",
+          "indo": "burung ini memiliki kepala berwarna coklat, badan berwarna coklat, sayap biru dan warna putih disekitar lehernya ia juga memiliki paruh yang sangat besar"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0017_73355.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a long pointy black bill, a back that is bright blue, and outer rectrices that are bright blue.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam runcing, punggung berwarna biru cerah, dan outer rectrices berwarna biru cerah."
+        },
+        {
+          "english": "bird has blue body feather and black breast feather and long beak",
+          "indo": "Burung ini mempunyai bulu badan berwarna biru dan bulu dada berwarna hitam serta paruh yang panjang"
+        },
+        {
+          "english": "a gorgeous black and blue bird with a black beak that is extremely long compared to the body.",
+          "indo": "seekor burung cantik berwarna hitam dan biru dengan paruh hitam yang sangat panjang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "a small bird with a black body and head, bright blue wings and rectrices, and large bill.",
+          "indo": "burung kecil dengan badan dan kepala berwarna hitam, sayap dan rectrices  berwarna biru cerah, serta paruh besar."
+        },
+        {
+          "english": "this is a black bird with blue wingbars and a long bill.",
+          "indo": "ini adalah burung hitam dengan sayap biru dan paruh panjang."
+        },
+        {
+          "english": "this black bird has a very long pointed beak and blue wings and tail.",
+          "indo": "burung berwarna hitam ini memiliki paruh runcing yang sangat panjang serta sayap dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has a elegant blue back and long rectrices with a very narrow and long bill.",
+          "indo": "burung ini memiliki punggung berwarna biru anggun dan rectrices  dengan paruh yang sangat sempit dan panjang."
+        },
+        {
+          "english": "this bird has wings that are blue and has a black body",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai badan yang berwarna hitam"
+        },
+        {
+          "english": "this black and blue bird has a very long black bill and a head that is slightly smaller than it's body.",
+          "indo": "burung berwarna hitam biru ini mempunyai paruh berwarna hitam yang sangat panjang dan kepala yang sedikit lebih kecil dari badannya."
+        },
+        {
+          "english": "this striking bird has a long straight bill, is black along the head, throat and coverts, and has bright blue along the back, secondaries, and rectrices.",
+          "indo": "Burung yang mencolok ini memiliki paruh yang panjang dan lurus, berwarna hitam di sepanjang kepala, tenggorokan dan bulunya, serta berwarna biru cerah di sepanjang punggung, bulu sekunder, dan rectrices ."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0018_71137.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has a blue wingbar and a long billl that is black.",
+          "indo": "burung ini memiliki garis sayap berwarna biru dan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "this colorful bird has a copper belly and head, but its wing feathers are a bright blue.",
+          "indo": "burung berwarna-warni ini memiliki perut dan kepala berwarna tembaga, namun bulu sayapnya berwarna biru cerah."
+        },
+        {
+          "english": "a small bird with a brown belly and head and bright blue wings and rectrices.",
+          "indo": "seekor burung kecil dengan perut dan kepala berwarna coklat serta sayap dan rectrices  berwarna biru cerah."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with an extremely large bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang sangat besar."
+        },
+        {
+          "english": "a small bird with a large, elongated nose, blue wings and rectrices, and darker blue wingbars.",
+          "indo": "seekor burung kecil dengan hidung besar memanjang, sayap dan rectrices  berwarna biru, serta garis sayap berwarna biru tua."
+        },
+        {
+          "english": "this bird is red with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the large, long beak and bright blue wings and tail feathers are distinct on this bird.",
+          "indo": "Paruhnya yang besar, panjang, serta sayap dan bulu ekor berwarna biru cerah menjadi ciri khas burung ini."
+        },
+        {
+          "english": "a small brown bird with bright blue wings and long beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan sayap biru cerah dan paruh panjang."
+        },
+        {
+          "english": "the bird has a brown head and chest and wings that are blue in color.",
+          "indo": "burung ini memiliki kepala dan dada berwarna coklat serta sayap yang berwarna biru."
+        },
+        {
+          "english": "this bird has a very large pointed bill, with a blue back.",
+          "indo": "burung ini memiliki paruh runcing yang sangat besar, dengan punggung berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0019_73306.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a brown crown, blue primary and secondaries, and tail.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer dan bulu sekunder berwarna biru, serta ekor."
+        },
+        {
+          "english": "this bird is blue and black in color, with a long orange beak and a black eye ring.",
+          "indo": "burung ini berwarna biru kehitaman, dengan paruh panjang berwarna jingga dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a brown crown, and a long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan mahkota berwarna coklat, dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with a massive pointed bill, blue wings and rectrices and brown head",
+          "indo": "seekor burung dengan paruh runcing besar, sayap dan rectrices  berwarna biru, serta kepala berwarna coklat"
+        },
+        {
+          "english": "this bird is blue and black in color with a very large beak, and black eye rings.",
+          "indo": "burung ini berwarna biru kehitaman dengan paruh yang sangat besar, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a long red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh yang panjang berwarna merah"
+        },
+        {
+          "english": "a bird with a rather large red beak, brown head feathers and tail and wings being a teal color.",
+          "indo": "burung dengan paruh agak besar berwarna merah, bulu kepala berwarna coklat, dan ekor serta sayap berwarna biru kehijauan."
+        },
+        {
+          "english": "this bird has an unusual look, with a very long beak for its overall size.",
+          "indo": "burung ini mempunyai penampilan yang tidak biasa, dengan paruh yang sangat panjang untuk ukuran keseluruhannya."
+        },
+        {
+          "english": "this bird has wings that are blue and has a orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "a small bird with a very long pointed beak and bright blue wings and tail.",
+          "indo": "seekor burung kecil dengan paruh runcing yang sangat panjang serta sayap dan ekor berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0022_73459.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this colorful little bird has a very large red bill for its size, with a rich brown head and an orange belly, and a sky blue back and tail.",
+          "indo": "burung kecil berwarna-warni ini memiliki paruh berwarna merah yang sangat besar untuk ukurannya, dengan kepala berwarna coklat tua dan perut berwarna oranye, serta punggung dan ekor berwarna biru langit."
+        },
+        {
+          "english": "a small colorful bird with a bright blue back, coverts, secondaries, and tail, along with a reddish brown head and nape, black and blue side, and orange breast and belly.",
+          "indo": "burung kecil berwarna-warni dengan punggung, bulu, bulu sekunder, dan ekor berwarna biru cerah, serta kepala dan tengkuk berwarna coklat kemerahan, bagian samping berwarna hitam dan biru, serta dada dan perut berwarna oranye."
+        },
+        {
+          "english": "the bird has a red belly with blue wings and a red head.",
+          "indo": "burung itu memiliki perut berwarna merah dengan sayap biru dan kepala berwarna merah."
+        },
+        {
+          "english": "colorful bird with long, fat and sharp pointed beak that is orange, and brown crown and nape, and black eye",
+          "indo": "Burung berwarna-warni dengan paruh panjang, gemuk, dan runcing berwarna jingga, serta mahkota dan tengkuk berwarna coklat, serta mata berwarna hitam"
+        },
+        {
+          "english": "this bird is mostly brown with bright blue wings and tail and a long, chunky red bill.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan sayap dan ekor berwarna biru cerah serta paruh panjang berwarna merah tebal."
+        },
+        {
+          "english": "this colorful bird has a brilliant blue on it's tail back and primary/secondary wing feathers and a highly contrasting rusty brown head & belly with rust colored coverts and an oversized pointy bill.",
+          "indo": "burung berwarna-warni ini memiliki warna biru cemerlang di bagian belakang ekornya dan bulu sayap bulu primer/bulu sekunder serta kepala & perut berwarna coklat berkarat yang sangat kontras dengan bulu berwarna karat dan paruh runcing yang besar."
+        },
+        {
+          "english": "the bird has teal wing bars, a long red bill and an amber crown.",
+          "indo": "burung itu memiliki garis sayap berwarna biru kehijauan, paruh merah panjang, dan mahkota kuning."
+        },
+        {
+          "english": "this colorful bird has a bright blue back that extends all the way down to the tail with a long and wide red beak.",
+          "indo": "burung berwarna-warni ini memiliki punggung berwarna biru cerah yang memanjang hingga ke ekor dengan paruh berwarna merah yang panjang dan lebar."
+        },
+        {
+          "english": "this light blue color of this bird's wings is a huge contrast to the reddish brown of the head and body and it has a very long red bill.",
+          "indo": "Warna biru muda pada sayap burung ini sangat kontras dengan warna coklat kemerahan pada kepala dan badan serta memiliki paruh berwarna merah yang sangat panjang."
+        },
+        {
+          "english": "this bird has a brown crown with blue back and long pink beak.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan punggung berwarna biru dan paruh panjang berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0023_73230.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the crown is white, the bill is long and brown, and the belly is white.",
+          "indo": "ubun-ubunnya berwarna putih, paruhnya panjang berwarna coklat, dan perutnya berwarna putih."
+        },
+        {
+          "english": "this bird has a large straight bill, a white breast and belly, and a brown cheek patch.",
+          "indo": "burung ini memiliki paruh besar dan lurus, dada dan perut berwarna putih, serta bercak di pipi berwarna coklat."
+        },
+        {
+          "english": "bird with disproportionately large head and big beak on a branch",
+          "indo": "burung dengan kepala besar yang tidak proporsional dan paruh besar di dahan"
+        },
+        {
+          "english": "this bird has a white belly and breast with a black wing and hooked bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap berwarna hitam dan paruh bengkok."
+        },
+        {
+          "english": "a white and dark grey bird with a large head and brown superciliary.",
+          "indo": "burung berwarna putih dan abu-abu tua dengan kepala besar dan superciliary berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white throat, breast and belly and gray/black wings with white speckled on them.",
+          "indo": "burung ini memiliki tenggorokan, dada, dan perut berwarna putih serta sayap berwarna abu-abu/hitam dengan bintik-bintik putih di atasnya."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has striping on its head, the body is white and the wings are black.",
+          "indo": "Burung ini berukuran kecil dengan paruh runcing, memiliki garis-garis di kepala, badan berwarna putih, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this birds head appears larger than on most birds, and it has a long beak and white belly.",
+          "indo": "Kepala burung ini tampak lebih besar daripada kebanyakan burung, dan memiliki paruh panjang serta perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0024_73736.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a long red bill and a brown body with blue on its wings.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah dan tubuh berwarna coklat dengan sayap berwarna biru."
+        },
+        {
+          "english": "this bird has a large pink-purple bill, a rusty-red head, and light blue wings and tail feathers.",
+          "indo": "burung ini memiliki paruh besar berwarna merah muda keunguan, kepala berwarna merah karat, serta sayap dan bulu ekor berwarna biru muda."
+        },
+        {
+          "english": "a colorful bird with bright teal wings, red coverts, nape, face, and side, and a white breast.",
+          "indo": "burung berwarna-warni dengan sayap berwarna biru kehijauan cerah, bulu merah, tengkuk, muka, dan samping, serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has a white breast neon blue tailfeathers and a long wide beak.",
+          "indo": "burung ini memiliki bulu ekor berwarna putih neon biru neon dan paruh panjang lebar."
+        },
+        {
+          "english": "this tiny bird has beautiful blue wings and white chest with the rest of him a dark brown.",
+          "indo": "burung mungil ini memiliki sayap biru yang indah dan dada berwarna putih dengan bagian tubuhnya yang lain berwarna coklat tua."
+        },
+        {
+          "english": "this bird has feathers that are blue and has a long brown bill",
+          "indo": "burung ini mempunyai bulu yang berwarna biru dan mempunyai paruh yang panjang berwarna coklat"
+        },
+        {
+          "english": "this bird is red, blue, and black in color, with a large red beak.",
+          "indo": "burung ini berwarna merah, biru, dan hitam, dengan paruh besar berwarna merah."
+        },
+        {
+          "english": "this bird is blue with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan warna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a blue wingbar and white belly",
+          "indo": "burung ini memiliki garis sayap berwarna biru dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has red bill",
+          "indo": "burung ini mempunyai sayap berwarna biru kecokelatan serta paruh berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0026_73201.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "small bird with a long beak and blue wing feathers with brown body feathes",
+          "indo": "burung kecil dengan paruh panjang dan bulu sayap berwarna biru dengan bulu badan berwarna coklat"
+        },
+        {
+          "english": "the wings are blue and black, the bill is long and wide, and the feet and tarsus is black.",
+          "indo": "sayapnya berwarna biru kehitaman, paruhnya panjang dan lebar, serta kaki dan tarsusnya berwarna hitam."
+        },
+        {
+          "english": "a colorful bird with blue, black and purple coverts and secondaries along with an extremely large brown bill compared to its body size.",
+          "indo": "seekor burung berwarna-warni dengan bulu berwarna biru, hitam dan ungu serta paruh kedua berwarna coklat yang sangat besar dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "this bird is brown with blue on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna biru pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this stout bird has a comparatively large head, a large dagger-shaped bill, and is colored mostly dark brown with bright blue wings and tail.",
+          "indo": "Burung gagah ini memiliki kepala yang relatif besar, paruh besar berbentuk belati, dan sebagian besar berwarna coklat tua dengan sayap dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "a short light blue wingtipped bird with a long thick bill",
+          "indo": "burung pendek berujung sayap berwarna biru muda dengan paruh panjang dan tebal"
+        },
+        {
+          "english": "this bird has a brown head and body and a large brown beak, the throat and breast are white and the wings and rectrices are blue.",
+          "indo": "burung ini memiliki kepala dan badan berwarna coklat serta paruh besar berwarna coklat, tenggorokan dan dada berwarna putih serta sayap dan rectrices berwarna biru."
+        },
+        {
+          "english": "a small bird with a long, wide red bill, blue and black secondaries, and inner and outer rectrices, and a brown head.",
+          "indo": "seekor burung kecil dengan paruh panjang dan lebar berwarna merah, bulu sekunder berwarna biru dan hitam, serta rectrices bagian dalam dan outer rectrices, serta kepala berwarna coklat."
+        },
+        {
+          "english": "a bird with a blue and black wings and rectrices, white throat, brown crown and the bill is long and pointed",
+          "indo": "burung dengan sayap dan rectrices berwarna biru hitam, tenggorokan berwarna putih, mahkota berwarna coklat, serta paruh panjang dan runcing"
+        },
+        {
+          "english": "this is a small brown and white bird with a very long beak with a pointy tip, blue and black wings, and a short tail.",
+          "indo": "Ini adalah burung kecil berwarna coklat dan putih dengan paruh yang sangat panjang dengan ujung runcing, sayap biru dan hitam, dan ekor pendek."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0029_73233.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "sporting a long orange beak, this bird has a beautiful white breast and gorgeous blue back.",
+          "indo": "Dengan paruh berwarna oranye yang panjang, burung ini memiliki dada berwarna putih yang indah dan punggung berwarna biru yang indah."
+        },
+        {
+          "english": "small to medium brown and white bird with blue wings, large eyes and a very large orange beak",
+          "indo": "burung kecil berwarna coklat dan putih dengan sayap biru, mata besar dan paruh oranye yang sangat besar"
+        },
+        {
+          "english": "bird has long red beak head and white belly orange feet.",
+          "indo": "Burung ini memiliki kepala paruh panjang berwarna merah dan kaki berwarna oranye perut berwarna putih."
+        },
+        {
+          "english": "this is a dark brown bird with a long, orange bill and a white throat and breast.",
+          "indo": "ini adalah burung berwarna coklat tua dengan paruh panjang berwarna oranye dan tenggorokan serta dada berwarna putih."
+        },
+        {
+          "english": "a bird with a massive pointed orange bill, white breast, blue secondaries and brown plumage eeverywere else.",
+          "indo": "seekor burung dengan paruh besar berwarna jingga, dada berwarna putih, bulu sekunder berwarna biru, dan bulu berwarna coklat, semua burung lainnya."
+        },
+        {
+          "english": "this tiny bird is mostly reddish brown, with a white throat and breast, and it has a distinctive long, thick, and pointed orange-red bill.",
+          "indo": "Burung mungil ini sebagian besar berwarna coklat kemerahan, tenggorokan dan dada berwarna putih, serta memiliki paruh khas berwarna oranye-merah yang panjang, tebal, dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is black, blue, and white in color, with a over sized orange beak.",
+          "indo": "burung ini berwarna hitam, biru, dan putih, dengan paruh berukuran besar berwarna jingga."
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has a super long and flat orange bill.",
+          "indo": "burung ini mempunyai paruh berwarna oranye yang super panjang dan pipih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0030_73335.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a small bird has a long and orange beak with a bright white belly, and it's back is bright turquoise.",
+          "indo": "seekor burung kecil memiliki paruh panjang berwarna oranye dengan perut berwarna putih cerah, dan punggungnya berwarna pirus cerah."
+        },
+        {
+          "english": "a small multicolored bird with a long orange bill, and a brown head",
+          "indo": "seekor burung kecil beraneka warna dengan paruh panjang berwarna oranye, dan kepala berwarna coklat"
+        },
+        {
+          "english": "the exotic bird has teal wings and a long orange beak with small orange feet.",
+          "indo": "burung eksotik ini memiliki sayap berwarna biru kehijauan dan paruh berwarna oranye panjang dengan kaki kecil berwarna oranye."
+        },
+        {
+          "english": "this small bird has a very large and long red and orange bill, it has short tarsus with feet close to its body, it is mostly brown except for a white breast and its secondaries and rectrices are a bright turquoise color.",
+          "indo": "Burung kecil ini memiliki paruh yang sangat besar dan panjang berwarna merah jingga, memiliki tarsus pendek dengan kaki dekat dengan badannya, sebagian besar berwarna coklat kecuali dada berwarna putih dan bagian bulu sekunder serta rectrices  berwarna pirus cerah."
+        },
+        {
+          "english": "this brown bird has a white chest, an orange, very large narrow beak for its size and bright teal wings.",
+          "indo": "burung berwarna coklat ini memiliki dada berwarna putih, paruh sempit berwarna oranye, sangat besar untuk ukurannya dan sayap berwarna biru kehijauan."
+        },
+        {
+          "english": "this bird has wings that are blue with an orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dengan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird is vivid blue, brown and white in color, with a bright red beak.",
+          "indo": "burung ini berwarna biru cerah, coklat dan putih, dengan paruh berwarna merah cerah."
+        },
+        {
+          "english": "this bird is dark red with light blue feathers and a very large red beak.",
+          "indo": "burung ini berwarna merah tua dengan bulu berwarna biru muda dan paruh berwarna merah yang sangat besar."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has a bill that is long and the breast is white.",
+          "indo": "Burung ini berukuran kecil dengan paruh yang runcing, mempunyai paruh yang panjang dan bagian dada berwarna putih."
+        },
+        {
+          "english": "a small bird with a orange beak that is bigger then its body and blue wings.",
+          "indo": "seekor burung kecil dengan paruh berwarna jingga yang lebih besar dari badannya dan sayapnya berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0032_73248.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a colorful bird with a white breast and a blue wing.",
+          "indo": "ini adalah burung berwarna-warni dengan dada putih dan sayap biru."
+        },
+        {
+          "english": "a vibrant colored bird of copper color, orange and blue with a very large orange bill compared to the size of the bird.",
+          "indo": "burung berwarna cerah warna tembaga, oranye dan biru dengan paruh oranye yang sangat besar dibandingkan dengan ukuran burung."
+        },
+        {
+          "english": "this is a bird with a white breast, brown and blue wings and a large orange beak.",
+          "indo": "ini adalah burung dengan dada berwarna putih, sayap berwarna coklat dan biru serta paruh besar berwarna oranye."
+        },
+        {
+          "english": "the bird is primarily a dark, royal red color, with black wings and light blue primaries.",
+          "indo": "burung ini pada dasarnya berwarna gelap, merah tua, dengan sayap hitam dan warna bulu primer biru muda."
+        },
+        {
+          "english": "this bird has a large, orange, flat bill, a white breast, a red crown and flank, and bright blue coloring along the tip of its' wings.",
+          "indo": "Burung ini mempunyai paruh besar berwarna oranye, pipih, dada berwarna putih, mahkota dan panggul berwarna merah, serta warna biru cerah di sepanjang ujung sayapnya."
+        },
+        {
+          "english": "this bird has wings that are black and blue and has a long beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam biru dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has a long red bill with a dark red crown and blue secondaries",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah dengan mahkota berwarna merah tua dan paruh kedua berwarna biru"
+        },
+        {
+          "english": "this bird is red with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is white with brown sides",
+          "indo": "burung ini memiliki perut yang berwarna putih dengan sisi berwarna coklat"
+        },
+        {
+          "english": "a small bird, with a white chest, light blue primaries, and a long flat bill.",
+          "indo": "seekor burung kecil, dengan dada putih, warna bulu primer biru muda, dan paruh datar panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0035_73290.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a bird with a large, red bill that ends in an orange point, a red head and nape, blue back, and orange breast",
+          "indo": "burung dengan paruh besar berwarna merah yang ujungnya berwarna oranye, kepala dan tengkuk berwarna merah, punggung biru, dan dada berwarna oranye"
+        },
+        {
+          "english": "a colorful small bird with a large bright red and orange bill, bright blue colored coverts and secondaries, and an orange belly.",
+          "indo": "seekor burung kecil berwarna-warni dengan paruh besar berwarna merah dan oranye terang, bulu dan bulu sekunder berwarna biru cerah, dan perut oranye."
+        },
+        {
+          "english": "a colorful strange looking small bird with a bright blue back, wings, and tail.",
+          "indo": "seekor burung kecil berwarna-warni yang tampak aneh dengan punggung, sayap, dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "this little bird has a brown head, blue bakc and wing, and a long pointy bill.",
+          "indo": "Burung kecil ini mempunyai kepala berwarna coklat, badan dan sayap berwarna biru, serta paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown belly, blue back, brown head and a red bill.",
+          "indo": "burung ini memiliki perut berwarna coklat, punggung berwarna biru, kepala berwarna coklat dan paruh berwarna merah."
+        },
+        {
+          "english": "a medium sized bird with a long bill and blue wings",
+          "indo": "burung berukuran sedang dengan paruh panjang dan sayap biru"
+        },
+        {
+          "english": "this is a blue bird with a brown head and a large red pointed beak",
+          "indo": "ini adalah burung biru dengan kepala coklat dan paruh besar runcing berwarna merah"
+        },
+        {
+          "english": "an unusual bird in appearance with a mainly blue body and a large red beak.",
+          "indo": "burung yang berpenampilan tidak biasa dengan tubuh sebagian besar berwarna biru dan paruh merah besar."
+        },
+        {
+          "english": "a pint-sized bird ablaze with beautiful cerulean wings, a goldish-red crown, and an extended beak.",
+          "indo": "seekor burung berukuran kecil dengan sayap berwarna biru langit yang indah, mahkota berwarna merah keemasan, dan paruh yang memanjang."
+        },
+        {
+          "english": "this bird has a brown crown, blue primaries, and a blue secondaries.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, burung bulu primer berwarna biru, dan bulu sekunder berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0036_73403.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a small colorful bird with a long beak, with blue wingbars, and a red head.",
+          "indo": "burung kecil berwarna-warni dengan paruh panjang, sayap biru, dan kepala merah."
+        },
+        {
+          "english": "this bird has blue wings and tail fathers with a very large bill.",
+          "indo": "burung ini mempunyai sayap dan ekor berwarna biru bapaknya dengan paruh yang sangat besar."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a blue wing and long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan sayap berwarna biru dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this plump bird has a dark breast and blue wings with a long red beak.",
+          "indo": "burung gempal ini memiliki dada berwarna gelap dan sayap berwarna biru dengan paruh panjang berwarna merah."
+        },
+        {
+          "english": "the unique bird has a brown belly with blue wings and a brown beak.",
+          "indo": "burung unik ini memiliki perut berwarna coklat dengan sayap berwarna biru dan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are blue and has a long redbill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh merah yang panjang"
+        },
+        {
+          "english": "this bird has wings that are blue and has a bornw belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan memiliki perut yang bulat"
+        },
+        {
+          "english": "the bird has a long bill compared to its body size, a rust head and body along with blue wings and tail.",
+          "indo": "burung ini memiliki paruh yang panjang dibandingkan ukuran tubuhnya, kepala dan badannya berkarat serta sayap dan ekornya berwarna biru."
+        },
+        {
+          "english": "this bird is brown with bblue and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna biru kebiruan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the small bird has a large beak that is thick and long, and the wingbars are mostly blue with spots of brown that match the belly, crown and neck.",
+          "indo": "burung kecil ini memiliki paruh besar yang tebal dan panjang, serta garis sayap sebagian besar berwarna biru dengan bintik-bintik coklat yang serasi dengan bagian perut, ubun-ubun, dan leher."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0037_73220.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a small reddish brown bird with a bright green wing and brown beak.",
+          "indo": "ini adalah burung kecil berwarna coklat kemerahan dengan sayap hijau cerah dan paruh coklat."
+        },
+        {
+          "english": "a brown bird with a wide long thick brown beak and white breast.",
+          "indo": "burung berwarna coklat dengan paruh lebar, panjang, tebal berwarna coklat dan dada berwarna putih."
+        },
+        {
+          "english": "this is a brown bird with a white breast and a large beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan paruh besar."
+        },
+        {
+          "english": "this bird is red with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah dengan warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with white breast, brown sides, teal wings, and a short, fat bill.",
+          "indo": "seekor burung besar dengan dada putih, sisi coklat, sayap biru kehijauan, dan paruh pendek dan gemuk."
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kecokelatan serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is small with brown wings,a rather large brown beak and whites breast.",
+          "indo": "burung ini berukuran kecil dengan sayap berwarna coklat, paruh agak besar berwarna coklat dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has a white belly with brown and green feathers, a larger and rounder beak.",
+          "indo": "burung ini mempunyai perut berwarna putih dengan bulu berwarna coklat dan hijau, paruh lebih besar dan bulat."
+        },
+        {
+          "english": "the bird has green on the secondaries, and a large brown bill.",
+          "indo": "burung itu memiliki warna hijau pada paruh kedua, dan paruh besar berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0040_73266.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a bird with a very large pointed bill, rust red head and nape, white throat and breast, and blue rectrices.",
+          "indo": "burung dengan paruh runcing sangat besar, kepala dan tengkuk berwarna merah karat, tenggorokan dan dada berwarna putih, serta rectrices  berwarna biru."
+        },
+        {
+          "english": "medium to small brown and white bird with blue and brown wings, large red and white beak and short tarsus",
+          "indo": "Burung berwarna coklat dan putih berukuran sedang hingga kecil dengan sayap biru dan coklat, paruh besar berwarna merah dan putih serta tarsus pendek"
+        },
+        {
+          "english": "this bird has a large, long, red bill, a white throat and breast, and brown feet.",
+          "indo": "burung ini memiliki paruh besar, panjang, berwarna merah, tenggorokan dan dada berwarna putih, serta kaki berwarna coklat."
+        },
+        {
+          "english": "this large-billed brown and blue bird has dark, beady eyes.",
+          "indo": "burung berparuh besar berwarna coklat dan biru ini memiliki mata yang gelap dan seperti manik-manik."
+        },
+        {
+          "english": "this bird has a brown belly, white breast, long thick bill, and blue wings.",
+          "indo": "burung ini memiliki perut berwarna coklat, dada berwarna putih, paruh panjang tebal, dan sayap berwarna biru."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast, a long thick reddish-white bill, light yellow wings, and a turquoise blue back and outer rectrices.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, paruh panjang berwarna putih kemerahan, sayap kuning muda, dan punggung serta outer rectrices berwarna pirus"
+        },
+        {
+          "english": "this is a brown bird with a blue wing and a white breast.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap biru dan dada putih."
+        },
+        {
+          "english": "this particular bird has a belly that is brown with a white throat",
+          "indo": "burung ini memiliki perut berwarna coklat dengan tenggorokan berwarna putih"
+        },
+        {
+          "english": "this multiple colored, long billed bird, offers teal colored rectrices, and a white breast.",
+          "indo": "burung dengan banyak warna dan paruh panjang ini, memiliki rectrices  yang panjang berwarna biru kehijauan, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is brown, blue and white in color, and has a very large red and brown beak.",
+          "indo": "burung ini berwarna coklat, biru dan putih, serta mempunyai paruh yang sangat besar berwarna merah dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0045_73600.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a colorful bird with blue wings and brown belly, head and nape has white throat and breast, and has bright orange colored legs.",
+          "indo": "burung berwarna-warni dengan sayap biru dan perut coklat, kepala dan tengkuk, tenggorokan dan dada berwarna putih, serta kaki berwarna oranye cerah."
+        },
+        {
+          "english": "this brown bird has a wide beak, a white breast and blue wings.",
+          "indo": "burung berwarna coklat ini memiliki paruh yang lebar, dada berwarna putih dan sayap berwarna biru."
+        },
+        {
+          "english": "this bird has a wide light brown bill, red feet, and a dark brown crown.",
+          "indo": "burung ini memiliki paruh lebar berwarna coklat muda, kaki berwarna merah, dan mahkota berwarna coklat tua."
+        },
+        {
+          "english": "this colorful bird has a white chest and a brown crown.",
+          "indo": "burung berwarna-warni ini memiliki dada berwarna putih dan mahkota berwarna coklat."
+        },
+        {
+          "english": "the brown bird has a white breast and blue on its wings.",
+          "indo": "burung berwarna coklat memiliki dada berwarna putih dan sayapnya berwarna biru."
+        },
+        {
+          "english": "this multicolored bird has a brown head and chest, orange feet, and turquoise blue and black wings.",
+          "indo": "burung beraneka warna ini memiliki kepala dan dada berwarna coklat, kaki berwarna oranye, dan sayap berwarna pirus dan hitam."
+        },
+        {
+          "english": "this bird has wings that are blue and has a brown belly",
+          "indo": "burung ini memiliki sayap yang berwarna biru dan memiliki perut berwarna coklat"
+        },
+        {
+          "english": "a small, colorful bird with a brown head and belly, and white chest.",
+          "indo": "burung kecil berwarna-warni dengan kepala dan perut berwarna coklat, serta dada berwarna putih."
+        },
+        {
+          "english": "this brown bird has a white breast and light blue secondaries and primaries.",
+          "indo": "burung berwarna coklat ini memiliki dada berwarna putih dan bulu sekunder dan bulu primer berwarna biru muda."
+        },
+        {
+          "english": "a black and white breasted bird with a short beak",
+          "indo": "burung berdada hitam putih dengan paruh pendek"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0047_73251.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird with a long bill has brown feathers for the majority of its coloring, except for teal which is present on its tail, rump and back.",
+          "indo": "Burung berparuh panjang ini memiliki sebagian besar bulu berwarna coklat, kecuali warna teal yang terdapat pada ekor, pantat dan punggungnya."
+        },
+        {
+          "english": "this bird has a large orange bill that is nearly the length of its body, turquoise primaries and brown crown and back.",
+          "indo": "burung ini memiliki paruh besar berwarna jingga yang hampir sepanjang tubuhnya, warna bulu primer berwarna pirus serta mahkota dan punggung berwarna coklat."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feathers, and very long brown beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berwarna putih, dan paruh berwarna coklat sangat panjang"
+        },
+        {
+          "english": "this bird has a brown crown, a long bill, and a teal colored back",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh panjang, dan punggung berwarna biru kehijauan"
+        },
+        {
+          "english": "this small brown bird has a white throat, a large orange bill, and bright teal accents on the tips of it's wing and tail feathers.",
+          "indo": "burung kecil berwarna coklat ini memiliki tenggorokan berwarna putih, paruh besar berwarna oranye, dan aksen warna biru kehijauan cerah di ujung sayap dan bulu ekornya."
+        },
+        {
+          "english": "this particular bird has a brown belly and white throat with turquoise secondaries",
+          "indo": "burung ini memiliki perut berwarna coklat dan tenggorokan putih dengan warna pirus"
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kecokelatan serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a small brown bird with a very large flat bill and blue feathers down its back and tip of the wings, white throat and breast.",
+          "indo": "burung kecil berwarna coklat dengan paruh pipih yang sangat besar dan bulu biru di punggung dan ujung sayap, tenggorokan dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown as well as a long brown bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat serta paruh panjang berwarna coklat"
+        },
+        {
+          "english": "this particular bird has a belly that is brown and has blue secondaries",
+          "indo": "burung ini memiliki perut berwarna coklat dan memiliki warna bulu sekunder berwarna biru"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0048_73292.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a bird with a brown belly, blue wings and a large beak.",
+          "indo": "ini adalah burung dengan perut coklat, sayap biru dan paruh besar."
+        },
+        {
+          "english": "the tropical bird has a large orange beak with a blue body and a brown belly.",
+          "indo": "burung tropis ini memiliki paruh besar berwarna oranye dengan tubuh berwarna biru dan perut berwarna coklat."
+        },
+        {
+          "english": "this is a colorful bird with a brown belly, blue wing and a large beak.",
+          "indo": "ini adalah burung berwarna-warni dengan perut coklat, sayap biru dan paruh besar."
+        },
+        {
+          "english": "this little bird has a brown belly and white breast, with a blue wing and long pointy bill.",
+          "indo": "Burung kecil ini memiliki perut berwarna coklat dan dada berwarna putih, dengan sayap berwarna biru dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "bird with large blunted bill, red head, blue wings, and red flank.",
+          "indo": "burung dengan paruh besar tumpul, kepala merah, sayap biru, dan sayap merah."
+        },
+        {
+          "english": "this bird has wings that are blue and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "the small bird is tropical in color with bright blue wings.",
+          "indo": "burung kecil berwarna tropis dengan sayap biru cerah."
+        },
+        {
+          "english": "this is a small bird, with blue primaries, red flank and crown, with a large bill for its body.",
+          "indo": "ini adalah burung kecil, dengan warna bulu primer biru, sayap dan mahkota merah, dengan paruh besar di tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the bird is small with large beak and bright blue secondaries and tail.",
+          "indo": "burung itu kecil dengan paruh besar dan paruh serta ekor berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0049_73420.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a brown bird with blue wings and a very large beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap biru dan paruh yang sangat besar."
+        },
+        {
+          "english": "this bird is blue, brown, and white in color with a large red beak and brown eye rings.",
+          "indo": "burung ini berwarna biru, coklat, dan putih dengan paruh besar berwarna merah dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this tiny bird has a rust-colored body, white throat, blue primaries and outer rectrices, and a proportionally over-long red bill.",
+          "indo": "burung mungil ini memiliki tubuh berwarna karat, tenggorokan putih, warna bulu primer biru dan rectrices luar, serta paruh merah yang terlalu panjang secara proporsional."
+        },
+        {
+          "english": "this is an extremely distinctive bird with bright light blue on the right side of its lateral and posterior wings, and a very large slowly tapering red bill.",
+          "indo": "ini adalah burung yang sangat khas dengan warna biru muda terang di sisi kanan sayap lateral dan posteriornya, dan paruh merah yang sangat besar dan meruncing perlahan."
+        },
+        {
+          "english": "small brown white black and blue bird with short tarsus and long orange beak",
+          "indo": "burung kecil berwarna coklat putih hitam dan biru dengan tarsus pendek dan paruh oranye panjang"
+        },
+        {
+          "english": "this is a small red bird with black on it's wings and white on it's belly and a large pointed orange beak.",
+          "indo": "Ini adalah burung kecil berwarna merah dengan warna hitam di sayapnya dan putih di perutnya serta paruh besar berwarna oranye yang runcing."
+        },
+        {
+          "english": "a bird with a long beak and bright blue on its back and wings.",
+          "indo": "seekor burung dengan paruh panjang dan berwarna biru cerah di punggung dan sayapnya."
+        },
+        {
+          "english": "this is a brown bird with blue wings and tail and a large red pointed beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap dan ekor biru serta paruh besar dan runcing berwarna merah."
+        },
+        {
+          "english": "a small bird with white breast and throat and bright blue wings.",
+          "indo": "seekor burung kecil dengan dada dan tenggorokan berwarna putih serta sayap biru cerah."
+        },
+        {
+          "english": "this petite dark brown bird has a large, red bill and bright blue rectrices.",
+          "indo": "burung mungil berwarna coklat tua ini memiliki paruh besar berwarna merah dan rectrices  berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0050_73682.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a small bird primarily black bodied bird with a white breast, a bright blue stripe on the wings and a very long beak.",
+          "indo": "seekor burung kecil yang sebagian besar bertubuh hitam dengan dada putih, garis biru cerah di sayap dan paruh yang sangat panjang."
+        },
+        {
+          "english": "this is a brown bird with a white breast, blue wing and a large pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih, sayap biru dan paruh runcing besar."
+        },
+        {
+          "english": "a small bird with a long orange bill, and a white breast",
+          "indo": "seekor burung kecil dengan paruh panjang berwarna oranye, dan dada berwarna putih"
+        },
+        {
+          "english": "this bird has a brown body with a white patch on its breast and a really long thick bill.",
+          "indo": "burung ini mempunyai tubuh berwarna coklat dengan bercak putih di dadanya dan paruh yang sangat panjang dan tebal."
+        },
+        {
+          "english": "this small brown bird has a long fat bill and a short stubby tail with a blue streak on its wing.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh yang panjang dan gemuk serta ekor yang pendek dan gemuk dengan guratan biru di sayapnya."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the bird has a long beak and a white breast.",
+          "indo": "burung itu memiliki paruh panjang dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small red bird with blue wings, a white breast, and long red beak.",
+          "indo": "burung kecil berwarna merah dengan sayap biru, dada putih, dan paruh merah panjang."
+        },
+        {
+          "english": "a small bird with a long beak compared to its body.",
+          "indo": "seekor burung kecil dengan paruh yang panjang dibandingkan dengan tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0052_73446.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "it is a beautiful orange-brown bird with bright blue wings, flank and tail, and white throat.",
+          "indo": "Ia adalah burung cantik berwarna oranye kecokelatan dengan sayap, panggul dan ekor berwarna biru cerah, serta tenggorokan berwarna putih."
+        },
+        {
+          "english": "the bird has blue body with a brown belly and a long beak.",
+          "indo": "burung ini memiliki tubuh berwarna biru dengan perut berwarna coklat dan paruh yang panjang."
+        },
+        {
+          "english": "a medium sized bird with a orange breast and blue wings.",
+          "indo": "burung berukuran sedang dengan dada oranye dan sayap biru."
+        },
+        {
+          "english": "this colorful bird has blue wingbars and secondaries, with brown covering the rest of its body.",
+          "indo": "burung berwarna-warni ini memiliki garis sayap dan sayap bulu sekunder berwarna biru, dengan warna coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this colorful bird is brown, white, and has shiny blue feathers in the back.",
+          "indo": "burung berwarna-warni ini berwarna coklat, putih, dan memiliki bulu berwarna biru mengkilat di bagian punggung."
+        },
+        {
+          "english": "this bird has wings that are blue with orange belly and black bill",
+          "indo": "burung ini mempunyai sayap berwarna biru dengan perut berwarna oranye dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan perutnya berwarna merah"
+        },
+        {
+          "english": "the bill of the colorful bird is long, wide and pointed, and the breast of the bird has red, orange, black and white throughout.",
+          "indo": "paruh burung berwarna-warni itu panjang, lebar dan runcing, dan seluruh dada burung berwarna merah, oranye, hitam dan putih."
+        },
+        {
+          "english": "this colorful bird has blue wings and a white throat and brown crown.",
+          "indo": "burung berwarna-warni ini memiliki sayap berwarna biru dan tenggorokan berwarna putih serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and blue in color, and has a multi colored beak.",
+          "indo": "burung ini berwarna coklat dan biru, serta memiliki paruh yang beraneka warna."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0053_73476.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the colorful bird has big head and beak when compared to its body, with brown crown and nape, blue color wings with two wingbars and red feet.",
+          "indo": "Burung berwarna-warni ini memiliki kepala dan paruh yang besar jika dibandingkan dengan tubuhnya, dengan mahkota dan tengkuk berwarna coklat, sayap berwarna biru dengan dua garis sayap dan kaki berwarna merah."
+        },
+        {
+          "english": "a medium sized bird with a long red bill and a brown crown",
+          "indo": "burung berukuran sedang dengan paruh panjang berwarna merah dan mahkota berwarna coklat"
+        },
+        {
+          "english": "a colorful bird with teal and brown secondaries and coverts, and a bright red bill that is very large for its body and head size.",
+          "indo": "burung berwarna-warni dengan bulu dan bulu sekunder berwarna biru kehijauan dan coklat, serta paruh berwarna merah cerah yang sangat besar untuk ukuran tubuh dan kepalanya."
+        },
+        {
+          "english": "this is a bird with a green wing, a brown head and a red bill.",
+          "indo": "ini adalah burung dengan sayap hijau, kepala coklat dan paruh merah."
+        },
+        {
+          "english": "bird with long, fat, and sharp beak that is red, brown crown and nape, and white throat and red tarsus and feet",
+          "indo": "burung dengan paruh panjang, gemuk, dan runcing berwarna merah, mahkota dan tengkuk berwarna coklat, serta tenggorokan berwarna putih, serta tarsus dan kaki berwarna merah"
+        },
+        {
+          "english": "medium sized bird with red crown, black sides, grey wings, and a beak that is long compared to its body.",
+          "indo": "burung berukuran sedang dengan mahkota merah, sisi hitam, sayap abu-abu, dan paruh yang panjang dibandingkan tubuhnya."
+        },
+        {
+          "english": "this colorful bird has a red tarsus, feet and beak, brown crown and green back and the bill is long and pointed",
+          "indo": "burung berwarna-warni ini memiliki tarsus merah, kaki dan paruh, mahkota berwarna coklat dan punggung berwarna hijau serta paruhnya panjang dan runcing"
+        },
+        {
+          "english": "the bird has a bill that is color red and pointed, the wing is colored blue and blue colored tail, and the head colored brown.",
+          "indo": "burung tersebut mempunyai paruh yang berwarna merah dan runcing, sayap berwarna biru dan ekor berwarna biru, serta kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, green primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna hijau, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is pastel blue and a long red bill",
+          "indo": "burung ini memiliki perut berwarna biru pastel dan paruh panjang berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0054_73587.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this small bird has beautiful brown and blue feathers. the beak is black and red, is long and large enough to hold a medium sized lizard.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat dan biru yang indah. paruhnya berwarna hitam dan merah, panjang dan cukup besar untuk menampung kadal berukuran sedang."
+        },
+        {
+          "english": "the bird has a brown and blue body with a long beak.",
+          "indo": "burung ini memiliki tubuh berwarna coklat kebiruan dengan paruh yang panjang."
+        },
+        {
+          "english": "a small bird with a long bill and black and blue wings",
+          "indo": "seekor burung kecil dengan paruh panjang dan sayap hitam biru"
+        },
+        {
+          "english": "this bird has a bright blue outline on its coverts and rectrices.",
+          "indo": "burung ini memiliki garis luar berwarna biru cerah pada bulu dan rectrices."
+        },
+        {
+          "english": "this bird has a long orange beak, brown crown, and blue tail.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga, mahkota berwarna coklat, dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are blue and has a brown belly and lonjg orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut berwarna coklat serta paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this colorful bird has a white breast, black head,black and blue wings.",
+          "indo": "burung berwarna-warni ini memiliki dada berwarna putih, kepala berwarna hitam, sayap berwarna hitam dan biru."
+        },
+        {
+          "english": "a brown feathered bird with blue streaked wings and a long beak attached to a head proportionally larger than normal to the body.",
+          "indo": "burung berbulu coklat dengan sayap bergaris biru dan paruh panjang menempel di kepala yang proporsional lebih besar dari ukuran normal tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the colorful bird has colorful wingbars and a large bill.",
+          "indo": "burung berwarna-warni memiliki garis sayap berwarna-warni dan paruh yang besar."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0056_73353.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a black bird with a patch of white on its breast and throat and a long red tinted beak.",
+          "indo": "burung berwarna hitam dengan bercak putih di dada dan tenggorokannya serta paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird has a large red bill, small brown feet, and a white throat and breast.",
+          "indo": "burung ini memiliki paruh besar berwarna merah, kaki kecil berwarna coklat, serta tenggorokan dan dada berwarna putih."
+        },
+        {
+          "english": "this black bird has a long, wide, pointed beak, and a white breast.",
+          "indo": "burung berwarna hitam ini memiliki paruh yang panjang, lebar, runcing, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown belly, white breast, and very large pointy bill for it's size.",
+          "indo": "burung ini mempunyai perut berwarna coklat, dada berwarna putih, dan paruh runcing yang sangat besar untuk ukurannya."
+        },
+        {
+          "english": "the mostly brown bird sports a white underbelly and a rather larger, straight, sharp beak.",
+          "indo": "burung yang sebagian besar berwarna coklat memiliki perut berwarna putih dan paruh yang agak besar, lurus, dan tajam."
+        },
+        {
+          "english": "this bird has a rust colored large straight bill, black crown, white throat and chest, brown belly and brown foot under coverts.",
+          "indo": "burung ini memiliki paruh besar lurus berwarna karat, mahkota berwarna hitam, tenggorokan dan dada berwarna putih, perut berwarna coklat, dan kaki di bawah bulu penutup berwarna coklat."
+        },
+        {
+          "english": "this bird has a very long beak and a yellowish breast.",
+          "indo": "burung ini memiliki paruh yang sangat panjang dan dada berwarna kekuningan."
+        },
+        {
+          "english": "the bird has a long bill, white breast and brown back.",
+          "indo": "burung ini memiliki paruh yang panjang, dada berwarna putih, dan punggung berwarna coklat."
+        },
+        {
+          "english": "a small black bird, with a white breast, and a long thick bill.",
+          "indo": "seekor burung kecil berwarna hitam, dengan dada berwarna putih, dan paruh yang panjang dan tebal."
+        },
+        {
+          "english": "this bird is a bigger bird it has a massive bill, the bird is red and has a white breast.",
+          "indo": "burung ini merupakan burung yang lebih besar, paruhnya besar, burungnya berwarna merah dan dadanya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0062_73425.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a brown bird with a white underbelly with tones of blue in the wings. long, thick beak",
+          "indo": "burung berwarna coklat dengan perut bagian bawah berwarna putih dengan corak biru pada sayapnya. paruhnya panjang dan tebal"
+        },
+        {
+          "english": "the small bird has a long red beak, brown plumage on its head and body with a white feathers at the breast and an accent of aquamarine feathers on its wing.",
+          "indo": "Burung kecil ini memiliki paruh panjang berwarna merah, bulu berwarna coklat di kepala dan badan dengan bulu berwarna putih di bagian dada dan aksen bulu biru laut pada sayapnya."
+        },
+        {
+          "english": "this bird had a brown head and belly, a white breast and throat, a long red bill, and light blue on the edges of its wings.",
+          "indo": "burung ini memiliki kepala dan perut berwarna coklat, dada dan tenggorokan berwarna putih, paruh panjang berwarna merah, dan tepi sayapnya berwarna biru muda."
+        },
+        {
+          "english": "this brown bird has a white breast and long pointed red bill.",
+          "indo": "burung berwarna coklat ini memiliki dada berwarna putih dan paruh merah runcing panjang."
+        },
+        {
+          "english": "the bird has a brown body with turquoise wings, a white breast, and a long red beak.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan sayap berwarna pirus dada berwarna putih, dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this particular bird has a brown belly and white chest and neck",
+          "indo": "burung ini memiliki perut berwarna coklat dan dada serta leher berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kecokelatan serta mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "a brown bird with white trim and white breast with red beak.",
+          "indo": "burung berwarna coklat dengan garis putih dan dada putih dengan paruh merah."
+        },
+        {
+          "english": "this small bird has a long red bill, a brown crown and a white throat.",
+          "indo": "burung kecil ini memiliki paruh panjang berwarna merah, mahkota berwarna coklat, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a red beak with brown crown and white belly.",
+          "indo": "burung ini memiliki paruh berwarna merah dengan mahkota berwarna coklat dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0063_73365.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the birds body is brown with blue wings. the birds beak is too big for the birds body, it is long and flat.",
+          "indo": "tubuh burung berwarna coklat dengan sayap biru. paruh burung terlalu besar untuk tubuh burung, panjang dan rata."
+        },
+        {
+          "english": "this is a orange bird with a blue secondaries with a white belly and a pink bill",
+          "indo": "ini adalah burung oranye dengan bulu sekunder berwarna biru dengan perut putih dan paruh merah muda"
+        },
+        {
+          "english": "this bird has a long red beak and brown and blue body",
+          "indo": "burung ini memiliki paruh panjang berwarna merah dan tubuh berwarna coklat dan biru"
+        },
+        {
+          "english": "this bird has a brown body, blue wing, and long thick pointy bill.",
+          "indo": "burung ini mempunyai badan berwarna coklat, sayap berwarna biru, dan paruh panjang tebal dan runcing."
+        },
+        {
+          "english": "this bird has a very long red beak with bright blue wings",
+          "indo": "burung ini mempunyai paruh yang sangat panjang berwarna merah dengan sayap berwarna biru cerah"
+        },
+        {
+          "english": "this bird has wings that are blue with a long red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dengan paruh yang panjang berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang berwarna merah"
+        },
+        {
+          "english": "this is a small mainly brown bird with a white spot on its breast and blue wings, it has a very large red bill for its size.",
+          "indo": "ini adalah burung kecil yang sebagian besar berwarna coklat dengan bintik putih di dada dan sayap biru, ia memiliki paruh merah yang sangat besar untuk ukurannya."
+        },
+        {
+          "english": "a small bird with a large red beak, brown head and belly, white breast, and bright blue on the wings and tail.",
+          "indo": "burung kecil dengan paruh besar berwarna merah, kepala dan perut berwarna coklat, dada berwarna putih, serta sayap dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "a bird with a very large red beak, blue wings and brown belly.",
+          "indo": "seekor burung dengan paruh merah yang sangat besar, sayap biru dan perut coklat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0065_73372.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a deep chocolate brown crown, cheek and belly with a white throat, bright blue primary wing feathers on brown wings, brown tail and a very large brown beak.",
+          "indo": "burung ini mempunyai mahkota, pipi dan perut berwarna coklat tua dengan tenggorokan berwarna putih, bulu sayap bulu primer berwarna biru cerah pada sayap berwarna coklat, ekor berwarna coklat dan paruh berwarna coklat yang sangat besar."
+        },
+        {
+          "english": "this small bird has bright blue wingbars and a beak that looks strangely large and flat.",
+          "indo": "burung kecil ini memiliki garis sayap berwarna biru cerah dan paruh yang anehnya tampak besar dan rata."
+        },
+        {
+          "english": "the bird has an extremely long bill and very tiny feet.",
+          "indo": "burung itu mempunyai paruh yang sangat panjang dan kaki yang sangat kecil."
+        },
+        {
+          "english": "this long and flat billed bird has a white breast and black belly.",
+          "indo": "burung berparuh panjang dan pipih ini memiliki dada berwarna putih dan perut berwarna hitam."
+        },
+        {
+          "english": "this brown bird has blue feathers and a large pointy beak.",
+          "indo": "burung berwarna coklat ini memiliki bulu berwarna biru dan paruh besar yang runcing."
+        },
+        {
+          "english": "this is a small reddish brown colored bird with a white spot under its beak and a striking teal stripe on its wing, it has an extremely long, flattish red colored beak.",
+          "indo": "Ini adalah burung kecil berwarna coklat kemerahan dengan bintik putih di bawah paruhnya dan garis biru kehijauan yang mencolok di sayapnya, paruhnya sangat panjang dan berwarna merah rata."
+        },
+        {
+          "english": "this bird is brown with white and blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan biru serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is a dark brown with a white chest and a blue tipped wing it has a very large flat",
+          "indo": "burung ini berwarna coklat tua dengan dada berwarna putih dan sayap berujung biru, mempunyai pipih yang sangat besar"
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna biru kecokelatan serta paruh berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0067_73300.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has a long red beak and a mixture of blue and brown body feathers.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah dan bulu badan campuran berwarna biru dan coklat."
+        },
+        {
+          "english": "this multi-colored bird has blue feathers on its back, brown and yellow on its chest, dark red on its head, and a long narrow brighter red beak.",
+          "indo": "Burung beraneka warna ini memiliki bulu berwarna biru di punggung, coklat dan kuning di dada, kepala berwarna merah tua, dan paruh panjang dan sempit berwarna merah cerah."
+        },
+        {
+          "english": "a small bird with with a long pointy red bill and a brown crown with a bright blue in the primaries and secondaries",
+          "indo": "seekor burung kecil dengan paruh panjang berwarna merah dan runcing serta mahkota berwarna coklat dengan warna biru cerah di bagian bulu primer dan bulu sekunder"
+        },
+        {
+          "english": "this small bird has a long red colored beak, dark red head feathers, brown breast with blue to dark blue wings and tail feathers.",
+          "indo": "Burung kecil ini memiliki paruh panjang berwarna merah, bulu kepala berwarna merah tua, dada berwarna coklat dengan sayap dan bulu ekor berwarna biru hingga biru tua."
+        },
+        {
+          "english": "the bird has a red head and side, black coverts with blue primaries, secondaries, back and tail; it's beak is long and pointed.",
+          "indo": "burung itu memiliki kepala dan samping berwarna merah, bulu hitam dengan warna bulu primer, bulu sekunder, punggung dan ekor berwarna biru; paruhnya panjang dan runcing."
+        },
+        {
+          "english": "this colorful bird has blue wingbars,a darker abdomen,with a very long sturdy red beak.",
+          "indo": "burung berwarna-warni ini memiliki garis sayap berwarna biru, perut lebih gelap, dengan paruh merah kokoh yang sangat panjang."
+        },
+        {
+          "english": "this bird has a very long bill and bright blue feathers on his wings and rectrices and an orange breast and belly.",
+          "indo": "burung ini memiliki paruh yang sangat panjang dan bulu berwarna biru cerah di sayap dan rectrices  serta dada dan perut berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are blue and brown with an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna biru kecokelatan dengan paruh berwarna jingga"
+        },
+        {
+          "english": "this medium sized bird is blessed with color. sky blue wings and tail, beautiful brown head and belly, long fat strange shaped red beak, with orange legs",
+          "indo": "burung berukuran sedang ini diberkati dengan warna. sayap dan ekor berwarna biru langit, kepala dan perut berwarna coklat yang indah, paruh panjang berwarna merah berbentuk aneh dan gemuk, dengan kaki berwarna jingga"
+        },
+        {
+          "english": "this bird has a blue back with a brown crown and a red beak.",
+          "indo": "burung ini memiliki punggung berwarna biru dengan mahkota berwarna coklat dan paruh berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0071_73236.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a bird with a white breast and a large beak.",
+          "indo": "ini adalah burung dengan dada putih dan paruh besar."
+        },
+        {
+          "english": "the bill/beak of the bird is large and pointy the tarsus is red in color",
+          "indo": "paruh/paruh burung besar dan runcing, tarsusnya berwarna merah"
+        },
+        {
+          "english": "this bird is very colorful, having a brown head, a long, thick yellow beak, blue wings, yellow tarsus, black belly and a white chest.",
+          "indo": "burung ini sangat berwarna, mempunyai kepala berwarna coklat, paruh panjang dan tebal berwarna kuning, sayap berwarna biru, tarsus kuning, perut berwarna hitam dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a very large bill, a brown crown, and a white breast",
+          "indo": "burung ini memiliki paruh yang sangat besar, mahkota berwarna coklat, dan dada berwarna putih"
+        },
+        {
+          "english": "a large bird with a white chest, black tail, brownish head, and a long red and black beak",
+          "indo": "burung besar dengan dada berwarna putih, ekor hitam, kepala kecoklatan, dan paruh panjang berwarna merah hitam"
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has a long red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru kecokelatan serta mempunyai paruh yang panjang berwarna merah"
+        },
+        {
+          "english": "a black bird with a white breast, it has bright orange legs and a very long red beak.",
+          "indo": "burung berwarna hitam dengan dada berwarna putih, kaki berwarna jingga cerah dan paruh berwarna merah sangat panjang."
+        },
+        {
+          "english": "this is a brown bird with a white breast and blue wings, a large brown head and an oversized red and gray beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan sayap biru, kepala coklat besar dan paruh besar berwarna merah dan abu-abu."
+        },
+        {
+          "english": "this bird has a very long beak it has a brown head white cheats and brown body",
+          "indo": "Burung ini memiliki paruh yang sangat panjang, memiliki kepala berwarna coklat, putih curang, dan badan berwarna coklat"
+        },
+        {
+          "english": "this small red, white and blue bird has a red and white beak that is twice as long as it's head.",
+          "indo": "Burung kecil berwarna merah, putih dan biru ini memiliki paruh berwarna merah putih yang panjangnya dua kali lipat kepalanya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0073_73498.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this brown bird has a large red beak and blue secondaries and outer rectrices.",
+          "indo": "Burung berwarna coklat ini memiliki paruh besar berwarna merah, bulu sekunder berwarna biru, serta rectrices luar."
+        },
+        {
+          "english": "this small brown bird has bright blue tips on the end of its wing and a long red beak with a dip in the middle.",
+          "indo": "burung kecil berwarna coklat ini memiliki ujung sayap berwarna biru cerah dan paruh panjang berwarna merah dengan cekungan di tengahnya."
+        },
+        {
+          "english": "this small brown bird has blue feathers and a long red beak.",
+          "indo": "burung kecil berwarna coklat ini memiliki bulu berwarna biru dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "bird with a large dark peach colored bill, primarily dark maroon in color with a white breast and two tone blue on its outer rectrices, primaries and coverts",
+          "indo": "burung dengan paruh besar berwarna persik gelap, sebagian besar berwarna merah marun gelap dengan dada putih dan biru dua rona pada outer rectrices yang rectrices, bulu primer dan bulu penutup"
+        },
+        {
+          "english": "this is an unusual looking bird with orange bill and turquoise wingbars.",
+          "indo": "ini adalah burung yang tampak tidak biasa dengan paruh oranye dan sayap pirus."
+        },
+        {
+          "english": "this colorful bird has a white belly, brown body, wings that are tipped with bright blue as a primary and a strip of darker blue, and its beak is long and wide.",
+          "indo": "Burung berwarna-warni ini memiliki perut berwarna putih, badan berwarna coklat, sayap dengan ujung utama berwarna biru cerah dan garis biru tua, serta paruhnya panjang dan lebar."
+        },
+        {
+          "english": "the bird has a bill that is very large in comparison to its body and has wings that are blue in color.",
+          "indo": "burung tersebut mempunyai paruh yang sangat besar dibandingkan dengan tubuhnya dan mempunyai sayap yang berwarna biru."
+        },
+        {
+          "english": "this little bird had a brown crown, a long pink beak, and blue primaries.",
+          "indo": "burung kecil ini memiliki mahkota berwarna coklat, paruh panjang berwarna merah muda, dan warna bulu primer berwarna biru."
+        },
+        {
+          "english": "this bird has a brown crown, blue primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna biru, dan perut berwarna coklat."
+        },
+        {
+          "english": "small red/brown bird, with an overly large bill, with outlines of turquoise on the wings and tail feathers.",
+          "indo": "burung kecil berwarna merah/cokelat, dengan paruh yang terlalu besar, dengan garis-garis pirus pada sayap dan bulu ekor."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0074_73408.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this brown bird has a red long beak and a white breast area.",
+          "indo": "burung berwarna coklat ini memiliki paruh panjang berwarna merah dan area dada berwarna putih."
+        },
+        {
+          "english": "this red bird has a white breast and a bright red long pointed beak.",
+          "indo": "burung berwarna merah ini memiliki dada berwarna putih dan paruh runcing panjang berwarna merah cerah."
+        },
+        {
+          "english": "the bird has a massive red beak, for it's small brown body size",
+          "indo": "burung ini memiliki paruh besar berwarna merah, karena ukuran tubuhnya yang kecil berwarna coklat"
+        },
+        {
+          "english": "this bird has a brown body with a really long thick pointy bill.",
+          "indo": "burung ini mempunyai tubuh berwarna coklat dengan paruh yang sangat panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a red head and wings, a white breast and a long, red beak",
+          "indo": "burung kecil ini memiliki kepala dan sayap berwarna merah, dada berwarna putih, dan paruh panjang berwarna merah"
+        },
+        {
+          "english": "this red bird has a long tail, a white throat, and a long red bill.",
+          "indo": "Burung berwarna merah ini memiliki ekor yang panjang, tenggorokan berwarna putih, dan paruh berwarna merah yang panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest and red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat serta mempunyai dada berwarna putih dan paruh berwarna merah"
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this stocky, mostly chocolate brown bird has a white breast and unusually long, straight orange break.",
+          "indo": "burung kekar, sebagian besar berwarna coklat coklat ini memiliki dada berwarna putih dan patahan lurus berwarna oranye yang sangat panjang."
+        },
+        {
+          "english": "a small bird with an extremely large, orange bill, red crown and blank, with a white breast.",
+          "indo": "seekor burung kecil dengan paruh yang sangat besar, berwarna oranye, mahkota berwarna merah dan kosong, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0078_73373.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a long wide billed bird with a white chest, shiny blue primaries, and brown sides.",
+          "indo": "burung berparuh panjang dan lebar dengan dada putih, warna bulu primer biru mengkilat, dan sisi coklat."
+        },
+        {
+          "english": "this bird has a brown beak, black eyes, a white throat and breast, brown sides and bright blue wings.",
+          "indo": "burung ini memiliki paruh berwarna coklat, mata hitam, tenggorokan dan dada berwarna putih, sisi samping berwarna coklat dan sayap berwarna biru cerah."
+        },
+        {
+          "english": "this bird is brown with blue on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna biru pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this colorful bird which is primarily brown has blue primaries and black secondaries, blue rectrices, a white throat and breast, and long thick bill which is the length of half it's body.",
+          "indo": "Burung berwarna-warni yang sebagian besar berwarna coklat ini memiliki bulu primer biru dan bulu sekunder hitam, rectrices  biru, tenggorokan dan dada berwarna putih, serta paruh panjang dan tebal yang panjangnya separuh tubuhnya."
+        },
+        {
+          "english": "the bird has a brown body with a white breast and blue feathers and red beak.",
+          "indo": "burung ini berbadan coklat dengan dada berwarna putih dan bulu berwarna biru serta paruh berwarna merah."
+        },
+        {
+          "english": "the bird in the following image has a long beak similar that to a duck,, it is double the size of the birds head. it's body is covered in brown feathers and it possesses blue feathers on its wings and tail feathers.",
+          "indo": "Burung pada gambar berikut mempunyai paruh yang panjang mirip bebek, ukurannya dua kali lipat kepala burung. tubuhnya ditutupi bulu berwarna coklat dan memiliki bulu berwarna biru pada sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird is white, brown, and blue in color, with a very large beak.",
+          "indo": "burung ini berwarna putih, coklat, dan biru, dengan paruh yang sangat besar."
+        },
+        {
+          "english": "small bird with long bill like red beak, brown body and head, white breast and throat, and bright teal wings and tail",
+          "indo": "burung kecil dengan paruh panjang seperti paruh berwarna merah, badan dan kepala berwarna coklat, dada dan tenggorokan berwarna putih, serta sayap dan ekor berwarna biru kehijauan cerah"
+        },
+        {
+          "english": "this bird has a brown crown, blue primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna biru, dan perut berwarna putih."
+        },
+        {
+          "english": "a brown bird with bright blue wings and rectrices, a white breast, and a very long flat bill.",
+          "indo": "burung berwarna coklat dengan sayap dan rectrices  berwarna biru cerah, dada berwarna putih, dan paruh pipih yang sangat panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0084_73247.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "small bird with a brown belly and abdomen, white and black breast, light aqua tail feather,wing tips, and back, orange-red broad,sharp bil.",
+          "indo": "burung kecil dengan perut dan perut berwarna coklat, dada putih dan hitam, bulu ekor aqua muda, ujung sayap, dan punggung, lebar oranye-merah, bil tajam."
+        },
+        {
+          "english": "a colorful bird that has aquamarine wings and tail, along with a large beak compared to its body size.",
+          "indo": "burung berwarna-warni yang memiliki sayap dan ekor berwarna biru laut, serta paruh yang besar dibandingkan ukuran tubuhnya."
+        },
+        {
+          "english": "this colorful bird has a turquoise back, which match its tail feathers and the ends of its wings, contrasting the reddish brown of the rest of its body.",
+          "indo": "burung berwarna-warni ini memiliki punggung berwarna pirus serasi dengan bulu ekor dan ujung sayapnya, kontras dengan warna coklat kemerahan pada seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a brown crown, a light blue back, and a flat orange bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, punggung berwarna biru muda, dan paruh berwarna oranye pipih"
+        },
+        {
+          "english": "this bird has a brown belly and crown with blue wings and tail, and a long thick pointy bill.",
+          "indo": "burung ini memiliki perut dan mahkota berwarna coklat dengan sayap dan ekor berwarna biru, serta paruh panjang dan runcing."
+        },
+        {
+          "english": "a brown bird with blue wings and tail with a long sharp, orange beak.",
+          "indo": "seekor burung berwarna coklat dengan sayap dan ekor biru dengan paruh panjang berwarna oranye yang tajam."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this smallish medium bird has a teal green back and tail, teal and dark and medium brown striped wings, a white throat, and a medium brown head and belly, orange feet, and a very long straight sharp thick orange beak, about a fourth the length of its body including the tail.",
+          "indo": "burung berukuran sedang bertubuh kecil ini memiliki punggung dan ekor berwarna hijau kehijauan, sayap bergaris-garis berwarna biru kehijauan dan coklat tua dan coklat sedang, tenggorokan berwarna putih, dan kepala dan perut berwarna coklat sedang, kaki berwarna oranye, dan paruh berwarna oranye tebal yang sangat panjang, lurus, dan tajam, sekitar seperempatnya. panjang tubuhnya termasuk ekornya."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a small bird with a long, thick beak compared to its body.",
+          "indo": "seekor burung kecil dengan paruh yang panjang dan tebal dibandingkan dengan tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0085_73363.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a brown head with a red bull and under belly, also a black and blue body.",
+          "indo": "Burung ini memiliki kepala berwarna coklat dengan perut banteng berwarna merah dan bagian bawah, serta badan berwarna hitam dan biru."
+        },
+        {
+          "english": "this magnificent specimen has a brown belly and breast, white neck, brown crest and back, with blue primaries and tail.",
+          "indo": "Spesimen yang luar biasa ini memiliki perut dan dada berwarna coklat, leher putih, jambul dan punggung berwarna coklat, dengan warna bulu primer dan ekor berwarna biru."
+        },
+        {
+          "english": "a bird with a large orange bill, red crown, white throat and blue secondaries.",
+          "indo": "burung dengan paruh besar berwarna jingga, mahkota merah, tenggorokan putih, dan bulu sekunder berwarna biru."
+        },
+        {
+          "english": "this bird is vivid red, blue, and white in color with a large red beak, and red eye rings.",
+          "indo": "burung ini berwarna merah cerah, biru, dan putih dengan paruh besar berwarna merah, dan cincin mata berwarna merah."
+        },
+        {
+          "english": "a burnt orange and blue bird with a very large orange beak.",
+          "indo": "burung berwarna jingga dan biru terbakar dengan paruh jingga yang sangat besar."
+        },
+        {
+          "english": "an orange, blue, and white bird with a thick orange beak.",
+          "indo": "burung berwarna jingga, biru, dan putih dengan paruh jingga tebal."
+        },
+        {
+          "english": "this particular bird has a belly that is red and black and white",
+          "indo": "burung ini memiliki perut yang berwarna merah dan hitam putih"
+        },
+        {
+          "english": "the colorful bird has a breast comprised of white, red and black tones.",
+          "indo": "burung berwarna-warni ini memiliki dada yang terdiri dari warna putih, merah dan hitam."
+        },
+        {
+          "english": "a very colorful bird with a large red bill and blue wings and tail.",
+          "indo": "burung yang sangat berwarna dengan paruh besar berwarna merah serta sayap dan ekor berwarna biru."
+        },
+        {
+          "english": "this colorful bird has markings of blue, orange, and white, with a bright red bill that is long and thick.",
+          "indo": "burung berwarna-warni ini memiliki corak warna biru, jingga, dan putih, dengan paruh berwarna merah cerah yang panjang dan tebal."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0087_73264.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a long red beaked bird with a white breast and turquoise secondaries.",
+          "indo": "seekor burung berparuh merah panjang dengan dada putih dan bulu sekunder berwarna pirus"
+        },
+        {
+          "english": "a small bird with a dark red head and belly, with an off white breast, and a disproportionately long and narrow orange bill compared to its head.",
+          "indo": "seekor burung kecil dengan kepala dan perut berwarna merah tua, dengan dada berwarna putih pucat, dan paruh berwarna oranye yang panjang dan sempit tidak proporsional dibandingkan dengan kepalanya."
+        },
+        {
+          "english": "this is a bird with a green wing, brown side and head and a white breast.",
+          "indo": "ini adalah burung dengan sayap berwarna hijau, sisi dan kepala berwarna coklat serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown body, white breast, blue wing, and long thick pointy bill.",
+          "indo": "burung ini mempunyai badan berwarna coklat, dada berwarna putih, sayap berwarna biru, dan paruh panjang tebal dan runcing."
+        },
+        {
+          "english": "the bird has a long large red beak and blue wings",
+          "indo": "burung itu memiliki paruh panjang berwarna merah dan sayap berwarna biru"
+        },
+        {
+          "english": "this bird has wings that are red and blue and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan biru serta mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is brown and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan putih"
+        },
+        {
+          "english": "the bird has various colors on its feathers including green, brown and white and a thick red bill.",
+          "indo": "burung ini memiliki warna bulu yang bermacam-macam diantaranya hijau, coklat dan putih serta paruh berwarna merah tebal."
+        },
+        {
+          "english": "this bird is red with whtie and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this colorful bird has a red and yellow belly, and has a long red bill.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna merah dan kuning, serta paruh panjang berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0088_73386.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this is a small bird with a large red beak, auburn colored head and stomach with some white in its stomach, and vibrant electric blue back and feathers.",
+          "indo": "ini adalah burung kecil dengan paruh besar berwarna merah, kepala dan perut berwarna coklat kemerahan dengan sedikit warna putih di perutnya, serta punggung dan bulu berwarna biru elektrik cerah."
+        },
+        {
+          "english": "this colorful bird has a long orange beek that matches its orange feet, a white throat and breast, a brown head, and a bright blue back and primaries with a black wing bar.",
+          "indo": "burung berwarna-warni ini memiliki paruh berwarna jingga panjang yang serasi dengan kaki jingga, tenggorokan dan dada berwarna putih, kepala berwarna coklat, serta punggung berwarna biru cerah dan bulu primer dengan garis sayap berwarna hitam."
+        },
+        {
+          "english": "the bird has a peach bill that is very long and large.",
+          "indo": "burung tersebut mempunyai paruh buah persik yang sangat panjang dan besar."
+        },
+        {
+          "english": "this colorful bird has a teal back and wings and rectrices and the rest of it is brown with white breast and throat.",
+          "indo": "burung berwarna-warni ini memiliki punggung, sayap, dan rectrices berwarna biru kehijauan dan sisanya berwarna coklat dengan dada dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "a unique bird with a long bill and blue wingbars.",
+          "indo": "burung unik dengan paruh panjang dan sayap berwarna biru."
+        },
+        {
+          "english": "this colorful bird has a long, flat beak and blue feathers.",
+          "indo": "burung berwarna-warni ini memiliki paruh yang panjang dan rata serta bulu berwarna biru."
+        },
+        {
+          "english": "petite bird with a large red beak, white breast, brown head and side, and turquoise wings and back.",
+          "indo": "burung mungil dengan paruh besar berwarna merah, dada putih, kepala dan samping berwarna coklat, serta sayap dan punggung berwarna pirus"
+        },
+        {
+          "english": "the colorful bird has a large red bill and teal wingbars.",
+          "indo": "burung berwarna-warni ini memiliki paruh besar berwarna merah dan sayap berwarna biru kehijauan."
+        },
+        {
+          "english": "this colorful bird has a turquoise color back, brown head, white chest with a long red bill.",
+          "indo": "burung warna warni ini memiliki punggung berwarna pirus kepala berwarna coklat, dada berwarna putih dengan paruh panjang berwarna merah."
+        },
+        {
+          "english": "the blue wings on this small bird have black wingbars, and the long bill protrudes from it's brown colored head.",
+          "indo": "Sayap biru pada burung kecil ini memiliki garis sayap berwarna hitam, dan paruh panjang menonjol dari kepalanya yang berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0089_73371.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has a red bill and a small black eyering.",
+          "indo": "burung itu mempunyai paruh berwarna merah dan cincin mata kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly and head, vivid blue wings and tail, and a long red, flat, bill.",
+          "indo": "burung ini memiliki perut dan kepala berwarna coklat, sayap dan ekor berwarna biru cerah, serta paruh panjang berwarna merah dan rata."
+        },
+        {
+          "english": "this bird is red with blue on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah dengan warna biru pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the birds has a brown overall color with a huge red bill and bright blue tail.",
+          "indo": "burung ini memiliki warna keseluruhan coklat dengan paruh besar berwarna merah dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "this bird has a vibrant blue tail and a long red pointed beak.",
+          "indo": "burung ini memiliki ekor berwarna biru cerah dan paruh panjang berwarna merah runcing."
+        },
+        {
+          "english": "this bird's lively coloration ranges from a russet brown on its face, cap, and belly to a brilliant blue on its tail and wingtips and its oversized red bill.",
+          "indo": "Warna cerah burung ini berkisar dari coklat kemerahan pada wajah, tutup, dan perutnya hingga biru cemerlang pada ekor dan ujung sayap serta paruhnya yang besar berwarna merah."
+        },
+        {
+          "english": "this bird has a belly that is brown and orange",
+          "indo": "burung ini mempunyai perut yang berwarna coklat dan oranye"
+        },
+        {
+          "english": "the bird has a brown head, black breast, a red beak and feet, and blue wings and a blue tail.",
+          "indo": "burung tersebut memiliki kepala berwarna coklat, dada berwarna hitam, paruh dan kaki berwarna merah, serta sayap dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is mostly copper in color with a red bill and blue wings and tail.",
+          "indo": "burung ini sebagian besar berwarna tembaga dengan paruh merah serta sayap dan ekor berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0093_73311.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has an orange beak that is long when compared to its body, it has white throat, brown belly and abdomen.",
+          "indo": "burung ini memiliki paruh berwarna jingga yang panjang jika dibandingkan dengan tubuhnya, tenggorokannya berwarna putih, perut dan abdomen berwarna coklat."
+        },
+        {
+          "english": "this is a brown bird with a white breast and a large beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan paruh besar."
+        },
+        {
+          "english": "the bird has a large red bill that is also long.",
+          "indo": "burung tersebut mempunyai paruh besar berwarna merah yang juga panjang."
+        },
+        {
+          "english": "this bird has a brown body, white breast, and long thick pointy bill.",
+          "indo": "burung ini mempunyai badan berwarna coklat, dada berwarna putih, dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this brown bird has a white throat and upper breast, and a large orange bill.",
+          "indo": "burung berwarna coklat ini memiliki tenggorokan dan dada bagian atas berwarna putih, serta paruh besar berwarna oranye."
+        },
+        {
+          "english": "this particular bird has a brown belly and white breasts and throat with a red bill",
+          "indo": "burung ini memiliki perut berwarna coklat dan dada serta tenggorokan berwarna putih dengan paruh berwarna merah"
+        },
+        {
+          "english": "a mostly brown bird with a white breast and a large pink bill.",
+          "indo": "burung yang sebagian besar berwarna coklat dengan dada putih dan paruh besar berwarna merah muda."
+        },
+        {
+          "english": "a large bill bird that is pink with a long tail.",
+          "indo": "burung paruh besar berwarna merah muda dengan ekor panjang."
+        },
+        {
+          "english": "a red bird with white belly and throat, black crown and long red bill.",
+          "indo": "burung berwarna merah dengan perut dan tenggorokan berwarna putih, mahkota hitam dan paruh merah panjang."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0096_73552.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird is brown and has a white breast with a red bill",
+          "indo": "burung ini berwarna coklat dan mempunyai dada berwarna putih dengan paruh berwarna merah"
+        },
+        {
+          "english": "this bird is black with a white chest and a red beak.",
+          "indo": "burung ini berwarna hitam dengan dada berwarna putih dan paruh berwarna merah."
+        },
+        {
+          "english": "this is a colorful bird with a long red, pointed beak in relation to its body. it has a patch of white fom under its beak to its belly, it has a long tail and red feet.",
+          "indo": "ini adalah burung berwarna-warni dengan paruh panjang berwarna merah dan runcing di tubuhnya. ia memiliki bercak putih di bawah paruh hingga perutnya, ia memiliki ekor panjang dan kaki berwarna merah."
+        },
+        {
+          "english": "this bird has a white breast, brown body otherwise, and a long thick pointy bill.",
+          "indo": "burung ini memiliki dada berwarna putih, tubuh sebaliknya berwarna coklat, dan paruh panjang dan runcing."
+        },
+        {
+          "english": "it is a dark colored bird with a white stomach and a very long red beak.",
+          "indo": "burung ini berwarna gelap dengan perut berwarna putih dan paruh berwarna merah yang sangat panjang."
+        },
+        {
+          "english": "a bird that is sitting on a branch with a very long beak that is red, the bird is dark brown with a white chest. it is sitting on a branch with thorns.",
+          "indo": "burung yang duduk di dahan dengan paruh yang sangat panjang berwarna merah, burung tersebut berwarna coklat tua dengan dada berwarna putih. ia duduk di dahan yang berduri."
+        },
+        {
+          "english": "this small bird has a long red bill, dark red brown crown and white breast.",
+          "indo": "burung kecil ini memiliki paruh panjang berwarna merah, mahkota berwarna merah tua berwarna coklat, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is medium in size, has a white breast, and a long pointed bill.",
+          "indo": "burung ini berukuran sedang, mempunyai dada berwarna putih, dan paruh runcing panjang."
+        },
+        {
+          "english": "a small black bird with a white breast and large orange beak.",
+          "indo": "seekor burung hitam kecil dengan dada putih dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird has a long, thick red bill that is very large compared to its body.",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah tebal yang ukurannya sangat besar jika dibandingkan dengan tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0098_73227.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird is bright blue and black with a large bill.",
+          "indo": "burung ini berwarna biru cerah dan hitam dengan paruh yang besar."
+        },
+        {
+          "english": "this is a blue bird with a black head and a large pointy black beak.",
+          "indo": "ini adalah burung biru dengan kepala hitam dan paruh hitam besar dan runcing."
+        },
+        {
+          "english": "this bird has a dark brown beak, a light brown eyering, dark brown tarsus and feet, blue coverts, and brown wingbars.",
+          "indo": "burung ini memiliki paruh berwarna coklat tua, cincin mata berwarna coklat muda, tarsus dan kaki berwarna coklat tua, bulu berwarna biru, dan garis sayap berwarna coklat."
+        },
+        {
+          "english": "strange looking bird with bright blue wings,, body and tail and brown belly with a beak that looks toi big for its body.",
+          "indo": "burung berpenampilan aneh dengan sayap berwarna biru cerah, badan dan ekor serta perut berwarna coklat dengan paruh yang terlihat terlalu besar untuk tubuhnya."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a blue wing and back and large pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan sayap dan punggung berwarna biru serta paruh besar yang runcing."
+        },
+        {
+          "english": "this bird has feathers that are blue and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna biru dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a teal and black bird with a narrow head and an elongated black bill.",
+          "indo": "burung berwarna teal dan hitam dengan kepala sempit dan paruh hitam memanjang."
+        },
+        {
+          "english": "bird brown bird long beat blue feathers standing on branch",
+          "indo": "burung burung coklat panjang mengalahkan bulu biru berdiri di dahan"
+        },
+        {
+          "english": "the bird has teal wingbars, a long bill and brown back.",
+          "indo": "burung itu memiliki garis sayap berwarna biru kehijauan, paruh panjang, dan punggung berwarna coklat."
+        },
+        {
+          "english": "a small bird very long large bill brown color except for wings which are a light blue.",
+          "indo": "seekor burung kecil, paruh sangat panjang, besar, berwarna coklat, kecuali sayapnya yang berwarna biru muda."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0101_73261.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this thick billed and blue winged bird has a very small body compared to its beak.",
+          "indo": "Burung berparuh tebal dan bersayap biru ini memiliki tubuh yang sangat kecil dibandingkan paruhnya."
+        },
+        {
+          "english": "a bird with a large straight orange bill, red head, blue secondaries, and red breast.",
+          "indo": "burung dengan paruh besar berwarna oranye lurus, kepala merah, paruh biru, dan dada merah."
+        },
+        {
+          "english": "a small colorful bird with a red head, bright blue wings, dark blue wingbars and tips of the feathers, and a white throat, with a red belly.",
+          "indo": "burung kecil berwarna-warni dengan kepala merah, sayap biru cerah, garis sayap dan ujung bulu berwarna biru tua, dan tenggorokan putih, dengan perut merah."
+        },
+        {
+          "english": "this bird has a medium beak and blue and brown feathers",
+          "indo": "burung ini memiliki paruh berukuran sedang dan bulu berwarna biru dan coklat"
+        },
+        {
+          "english": "this colorful bird has a blue and magenta body with a long purple beak.",
+          "indo": "burung berwarna-warni ini memiliki tubuh berwarna biru keunguan dengan paruh panjang berwarna ungu."
+        },
+        {
+          "english": "this bird is blue with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru dengan warna merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a brown bird with blue wings and tail and a large pointed red beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap dan ekor biru serta paruh besar berwarna merah."
+        },
+        {
+          "english": "this bird has distinctively bright blue wings, with a large pinkish bill.",
+          "indo": "burung ini memiliki sayap khas berwarna biru cerah, dengan paruh besar berwarna merah muda."
+        },
+        {
+          "english": "this bird has wings that are blue and has a brown belly",
+          "indo": "burung ini memiliki sayap yang berwarna biru dan memiliki perut berwarna coklat"
+        },
+        {
+          "english": "a small bird with brown head and blue wings and tail.",
+          "indo": "seekor burung kecil dengan kepala berwarna coklat dan sayap serta ekor berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0103_73316.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a medium brown bird with a big beak and black feathers.",
+          "indo": "burung berwarna coklat sedang dengan paruh besar dan bulu hitam."
+        },
+        {
+          "english": "a mottled brown bird that has black eyes with iridescent blue wings and a white splotched underbelly.",
+          "indo": "seekor burung coklat berbintik-bintik yang memiliki mata hitam dengan sayap biru berwarna-warni dan perut bercak putih."
+        },
+        {
+          "english": "this bird is mainly brown in color with a white breast, and long pointed bill",
+          "indo": "burung ini sebagian besar berwarna coklat dengan dada berwarna putih, dan paruh runcing panjang"
+        },
+        {
+          "english": "this is a brown bird with a white breast and a blue wing.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan sayap biru."
+        },
+        {
+          "english": "a bird with a orange-ish belly, blue-green wings, and a long skinny beak.",
+          "indo": "burung dengan perut berwarna jingga, sayap biru kehijauan, dan paruh panjang dan kurus."
+        },
+        {
+          "english": "this bird has a long pointed bill, brown crown feathers, white with brown spots chest, side and belly.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, bulu mahkota berwarna coklat, dada, samping dan perut berwarna putih dengan bintik-bintik coklat."
+        },
+        {
+          "english": "a colorful bird with a wide, long red bill, red and orange speckled flank, blue and black coverts, and a cream colored chest.",
+          "indo": "burung berwarna-warni dengan paruh lebar dan panjang berwarna merah, sayap berbintik-bintik merah dan oranye, bulu biru dan hitam, dan dada berwarna krem."
+        },
+        {
+          "english": "a small bird with a white belly, and a thick beak.",
+          "indo": "seekor burung kecil dengan perut putih, dan paruh tebal."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this large brown and white bird has black wings and a very long black beak.",
+          "indo": "burung besar berwarna coklat dan putih ini memiliki sayap hitam dan paruh hitam yang sangat panjang."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0104_73398.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "black bird with white throat and blue back that has a pointed bill with a fairly thick base.",
+          "indo": "burung berwarna hitam dengan tenggorokan berwarna putih dan punggung berwarna biru yang memiliki paruh runcing dengan pangkal yang cukup tebal."
+        },
+        {
+          "english": "this is a bird with a brown belly and head, a blue back and an orange beak.",
+          "indo": "ini adalah burung dengan perut dan kepala berwarna coklat, punggung biru dan paruh oranye."
+        },
+        {
+          "english": "this bird has a very large red bill, a white throat, and black crown, breast, and belly.",
+          "indo": "burung ini memiliki paruh berwarna merah yang sangat besar, tenggorokan berwarna putih, dan mahkota, dada, dan perut berwarna hitam."
+        },
+        {
+          "english": "this bird has a black breast and head, blue primaries, secondaries and rectrices and a long orange bill.",
+          "indo": "burung ini mempunyai dada dan kepala berwarna hitam, burung bulu primer, bulu sekunder dan rectrices  berwarna biru, serta paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this multicolored bird has blue wings and a blue tail with a brown body and head.",
+          "indo": "burung beraneka warna ini memiliki sayap berwarna biru dan ekor berwarna biru dengan badan dan kepala berwarna coklat."
+        },
+        {
+          "english": "the side primaries of the bird are blue in color while the chest is brown.",
+          "indo": "bagian samping burung berwarna biru sedangkan bagian dada berwarna coklat."
+        },
+        {
+          "english": "this colorful bird has bright blue wings and tail along with a long, pointed beak.",
+          "indo": "burung berwarna-warni ini memiliki sayap dan ekor berwarna biru cerah serta paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a long, pointed dark orange bill, bright blue wings and tail, and a dark brown head and belly.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye tua yang runcing, sayap dan ekor berwarna biru cerah, serta kepala dan perut berwarna coklat tua."
+        },
+        {
+          "english": "a very small bird with a long tan beak and a blue back.",
+          "indo": "seekor burung yang sangat kecil dengan paruh panjang berwarna coklat dan punggung berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0107_73265.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a medium sized bird with a very large and thick red bill",
+          "indo": "burung berukuran sedang dengan paruh berwarna merah yang sangat besar dan tebal"
+        },
+        {
+          "english": "this is a small multicolored bird with blue wings, mostly brown elsewhere and a large beak.",
+          "indo": "ini adalah burung kecil beraneka warna dengan sayap biru, sebagian besar berwarna coklat di tempat lain dan paruh besar."
+        },
+        {
+          "english": "this striking bird is a medium brown but with bright turquoise wings, a white chest, and a disproportionately large reddish-orange beak that matches its feet.",
+          "indo": "burung yang mencolok ini berwarna coklat sedang tetapi dengan sayap pirus cerah, dada putih, dan paruh oranye kemerahan besar yang tidak proporsional serasi dengan kakinya."
+        },
+        {
+          "english": "a bord with a brown body, bright blue wings and a long beak",
+          "indo": "perbatasan dengan tubuh coklat, sayap biru cerah dan paruh panjang"
+        },
+        {
+          "english": "a bird with teal secondaries, a long bill and white throat.",
+          "indo": "seekor burung dengan warna biru kehijauan, paruh panjang dan tenggorokan putih."
+        },
+        {
+          "english": "a medium sized bird, with a white neck, blueish primaries and secondaries, 1 black wingbar, and the rest of the bird is red.",
+          "indo": "seekor burung berukuran sedang, dengan leher berwarna putih, burung bulu primer dan bulu sekunder berwarna kebiruan, 1 garis sayap berwarna hitam, dan selebihnya berwarna merah."
+        },
+        {
+          "english": "this small bird has a red beak and a teal, brown, and white colored body.",
+          "indo": "burung kecil ini memiliki paruh berwarna merah dan tubuh berwarna biru kehijauan, coklat, dan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is brown with turquoise wings",
+          "indo": "burung ini memiliki perut berwarna coklat dengan sayap berwarna pirus"
+        },
+        {
+          "english": "this bird has a brown and white breast and a large red bill",
+          "indo": "burung ini memiliki dada berwarna coklat putih dan paruh besar berwarna merah"
+        },
+        {
+          "english": "a small bird with gorgeous blue feathers and a long,large bill.",
+          "indo": "seekor burung kecil dengan bulu biru yang indah dan paruh yang panjang dan besar."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0109_73683.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "brightly colored bird with an extremely long red bill and orange legs",
+          "indo": "burung berwarna cerah dengan paruh merah yang sangat panjang dan kaki oranye"
+        },
+        {
+          "english": "a beautiful bright blue makes the wings of this bird stand out against the brown flanks and black head with a most unique red beak that seems larger than its head.",
+          "indo": "warna biru cerah yang indah membuat sayap burung ini menonjol di antara sisi coklat dan kepala hitam dengan paruh paling unik berwarna merah yang tampak lebih besar dari kepalanya."
+        },
+        {
+          "english": "this is a blue bird with a black head and a large red beak.",
+          "indo": "ini adalah burung biru dengan kepala hitam dan paruh merah besar."
+        },
+        {
+          "english": "this bird has a brown belly and breast, blue wing and tail, and large thick pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat, sayap dan ekor berwarna biru, serta paruh besar dan runcing."
+        },
+        {
+          "english": "a small bird with a big beak and blue and black feathers.",
+          "indo": "seekor burung kecil dengan paruh besar dan bulu berwarna biru dan hitam."
+        },
+        {
+          "english": "this bird has a very long bill and is mostly black with bright blue secondaries and outer rectrices.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dan sebagian besar berwarna hitam dengan paruh kedua berwarna biru cerah dan outer rectrices."
+        },
+        {
+          "english": "this bird is blue, black and brown in color, with a very large red beak.",
+          "indo": "burung ini berwarna biru, hitam dan coklat, dengan paruh berwarna merah yang sangat besar."
+        },
+        {
+          "english": "a small bird, with purple secondaries and tail, and a beak that is long for its body.",
+          "indo": "seekor burung kecil, dengan bagian samping dan ekor berwarna ungu, dan paruh yang panjang untuk tubuhnya."
+        },
+        {
+          "english": "this medium-sized bird has a long bill, aqua colored feathers, and orange feet.",
+          "indo": "burung berukuran sedang ini memiliki paruh yang panjang, bulu berwarna aqua, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a think pointed red bill, with a blue back.",
+          "indo": "burung ini mempunyai paruh runcing berwarna merah, dengan punggung berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0111_73369.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "with a very large - in comparison to its overall size - red beak, this bird features a white breast and a rust colored body.",
+          "indo": "dengan paruh berwarna merah yang sangat besar - dibandingkan dengan ukuran keseluruhannya, burung ini memiliki ciri dada berwarna putih dan badan berwarna karat."
+        },
+        {
+          "english": "the bird has a long thin bill that is red and large for its body.",
+          "indo": "burung ini mempunyai paruh yang panjang dan tipis berwarna merah dan besar untuk tubuhnya."
+        },
+        {
+          "english": "a small bird with a brown head and body, a white chest, white wingtips and a long red bill.",
+          "indo": "burung kecil dengan kepala dan badan berwarna coklat, dada berwarna putih, ujung sayap berwarna putih dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird is black with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this beautiful bird has a brown body and thick, long red beak.",
+          "indo": "burung cantik ini memiliki tubuh berwarna coklat dan paruh tebal berwarna merah panjang."
+        },
+        {
+          "english": "a small brown and white bird with a long, red beak.",
+          "indo": "seekor burung kecil berwarna coklat dan putih dengan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "small bird with long pointed red bill, orange crown, and white belly.",
+          "indo": "burung kecil dengan paruh merah panjang runcing, mahkota oranye, dan perut putih."
+        },
+        {
+          "english": "this bird has a large beak and a white throat and belly.",
+          "indo": "burung ini memiliki paruh yang besar serta tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "this brown bird has a white belly, and a proportional head; the whole bird is small. this bird's beak, however, is long, straight, and red. the beak is relatively large compared to the body.",
+          "indo": "burung berwarna coklat ini memiliki perut berwarna putih, dan kepala proporsional; seluruh burung itu kecil. Namun paruh burung ini panjang, lurus, dan berwarna merah. paruhnya relatif besar dibandingkan dengan tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0115_73252.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a colorful bird with blue on its back and tail and a large beak.",
+          "indo": "burung berwarna-warni dengan warna biru di punggung dan ekornya serta paruh besar."
+        },
+        {
+          "english": "this bird has a blue back and a very large red bill.",
+          "indo": "burung ini memiliki punggung berwarna biru dan paruh berwarna merah yang sangat besar."
+        },
+        {
+          "english": "this bird has a long, conical red bill and reddish-brown plumage with bright blue back, primaries, coverts, and rectrices.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah berbentuk kerucut dan bulu berwarna coklat kemerahan dengan punggung, bulu primer, bulu penutup, dan rectrices berwarna biru cerah."
+        },
+        {
+          "english": "a kingfisher with huge and long red beak, brown head, breast, belly and wings, and has blue back and tail.",
+          "indo": "burung pekakak dengan paruh besar dan panjang berwarna merah, kepala, dada, perut dan sayap berwarna coklat, serta punggung dan ekor berwarna biru."
+        },
+        {
+          "english": "this marvelous bird has a glossy blue black, brown elsewhere, and a giant, straight, red beak.",
+          "indo": "burung yang luar biasa ini memiliki warna biru hitam mengkilap, coklat di bagian lain, dan paruh raksasa, lurus, dan berwarna merah."
+        },
+        {
+          "english": "this particular bird has a red bill and blue secondaries",
+          "indo": "burung ini memiliki paruh merah dan paruh biru"
+        },
+        {
+          "english": "this bird has primarily brown plumage, blue back and tail, and a very large reddish beak.",
+          "indo": "burung ini memiliki bulu utama berwarna coklat, punggung dan ekor berwarna biru, serta paruh kemerahan yang sangat besar."
+        },
+        {
+          "english": "this particular bird has a belly that is browh with white sides and blue wings",
+          "indo": "Burung ini mempunyai perut yang superciliary dengan sisi berwarna putih dan sayap berwarna biru"
+        },
+        {
+          "english": "this bird is red with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are blue and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh yang panjang berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0116_73295.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a uniquely colored bird, quite small but with a particularly long red beak, and aqua feathers on its back.",
+          "indo": "burung berwarna unik, cukup kecil tetapi dengan paruh merah panjang, dan bulu aqua di punggungnya."
+        },
+        {
+          "english": "a long bird with brown body and water blue wings and tail, and a long orange beck.",
+          "indo": "burung panjang dengan tubuh coklat dan sayap serta ekor berwarna biru air, dan burung beck oranye panjang."
+        },
+        {
+          "english": "this is a brown bird with a blue back and a large orange beak.",
+          "indo": "ini adalah burung berwarna coklat dengan punggung biru dan paruh oranye besar."
+        },
+        {
+          "english": "this colorful bird has a long, flat orange bill, a brown head, and a blue back & rump",
+          "indo": "burung berwarna-warni ini memiliki paruh panjang berwarna oranye pipih, kepala berwarna coklat, serta punggung & pantat berwarna biru"
+        },
+        {
+          "english": "a bird with a large red beak and blue tipped wings and tail with a red head and back.",
+          "indo": "seekor burung dengan paruh besar berwarna merah dan sayap berujung biru serta ekor dengan kepala dan punggung berwarna merah."
+        },
+        {
+          "english": "this brown and teal bird has a wide, long bill compared to the rest of its body.",
+          "indo": "burung berwarna coklat dan biru kehijauan ini memiliki paruh yang lebar dan panjang dibandingkan bagian tubuhnya yang lain."
+        },
+        {
+          "english": "this bird's head and especially its red beak are very large for its body, bright blue in the wings and tail and reddish-brown elsewhere",
+          "indo": "kepala burung ini dan terutama paruhnya yang berwarna merah sangat besar untuk tubuhnya, berwarna biru cerah pada sayap dan ekornya serta berwarna coklat kemerahan di tempat lain"
+        },
+        {
+          "english": "this bird has a brightly colored teal back and rectrices, chestnut brown head and breast and a very long, flat orange bill.",
+          "indo": "burung ini memiliki punggung dan rectrices  berwarna biru kehijauan, kepala dan dada berwarna coklat kastanye, serta paruh berwarna oranye yang sangat panjang dan rata."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has beautiful blue rump and secondaries and a red crown",
+          "indo": "burung ini memiliki pantat dan bulu sekunder berwarna biru yang indah serta mahkota berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0117_73283.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a long red bill with a brown body, a spot of white on the under belly and blue in the wings.",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah dengan badan berwarna coklat, bercak putih pada perut bawah dan biru pada sayap."
+        },
+        {
+          "english": "this small bird is dark brown with a white blaze on the breast and brilliant turquoise primaries with a very large, long beak and tiny feet.",
+          "indo": "burung kecil ini berwarna coklat tua dengan nyala putih di bagian dada dan warna dasar pirus cemerlang dengan paruh yang sangat besar dan panjang serta kaki yang kecil."
+        },
+        {
+          "english": "a small bird with red bill and the head of the bird is large compared to its body and the blue primaries",
+          "indo": "burung kecil dengan paruh berwarna merah dan kepala burung lebih besar dibandingkan dengan badannya dan burung bulu primer berwarna biru"
+        },
+        {
+          "english": "this colorful bird has a long beak and short little feet.",
+          "indo": "burung berwarna-warni ini memiliki paruh yang panjang dan kaki kecil yang pendek."
+        },
+        {
+          "english": "this brown bird has a white breast, long, red, pointy beak and blue wingbars.",
+          "indo": "burung berwarna coklat ini memiliki dada berwarna putih, paruh panjang, merah, runcing, dan garis sayap berwarna biru."
+        },
+        {
+          "english": "this bird has wings that are black and blue with a long red beak",
+          "indo": "burung ini mempunyai sayap berwarna hitam biru dengan paruh panjang berwarna merah"
+        },
+        {
+          "english": "this is a colorful bird with a red beak and feet a brown and white body and a splash of blue on its wings.",
+          "indo": "ini adalah burung berwarna-warni dengan paruh dan kaki berwarna merah, tubuh berwarna coklat dan putih serta percikan warna biru pada sayapnya."
+        },
+        {
+          "english": "the bird has a large red bill, white throat and red crown.",
+          "indo": "burung ini memiliki paruh besar berwarna merah, tenggorokan berwarna putih, dan mahkota berwarna merah."
+        },
+        {
+          "english": "a small mostly black bird with a white spot in the middle of it breast, it has a very large red bill, and a stripe of blue on its wings.",
+          "indo": "burung kecil yang sebagian besar berwarna hitam dengan bintik putih di tengah dadanya, paruhnya sangat besar berwarna merah, dan ada garis biru di sayapnya."
+        },
+        {
+          "english": "this bird has wings that are blue and brown and has a red bill",
+          "indo": "burung ini mempunyai sayap berwarna biru kecokelatan serta mempunyai paruh berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0118_73511.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "the bird has a very lage knifelike bill, a brown crown and nape, and blue plumage across its back and primaries and secondaries",
+          "indo": "burung ini memiliki paruh yang sangat besar seperti pisau, mahkota dan tengkuk berwarna coklat, dan bulu biru di punggungnya serta bulu primer dan bulu sekunder."
+        },
+        {
+          "english": "the bird has a long black bill and a blue wingbar.",
+          "indo": "burung itu mempunyai paruh hitam panjang dan garis sayap berwarna biru."
+        },
+        {
+          "english": "this little bird has a white belly and breast, brown neck and crown, and blue wings.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, leher dan mahkota berwarna coklat, serta sayap berwarna biru."
+        },
+        {
+          "english": "the birds has a brown head and nape with a blue coverts and rectrices area.",
+          "indo": "burung ini memiliki kepala dan tengkuk berwarna coklat dengan area bulu dan rectrices berwarna biru."
+        },
+        {
+          "english": "a colorful bird with a white stomach, brown head, and light blue wings",
+          "indo": "burung berwarna-warni dengan perut putih, kepala coklat, dan sayap biru muda"
+        },
+        {
+          "english": "a small bird with an all-brown head, light blue wings, back, and tail, and an extra long thick black beak.",
+          "indo": "burung kecil dengan kepala serba coklat, sayap, punggung, dan ekor berwarna biru muda, serta paruh hitam tebal ekstra panjang."
+        },
+        {
+          "english": "this bird is blue, brown, and white in color, with a large black beak.",
+          "indo": "burung ini berwarna biru, coklat, dan putih, dengan paruh besar berwarna hitam."
+        },
+        {
+          "english": "a small bird with a brown head and white breast along with bright blue wings and tail.",
+          "indo": "seekor burung kecil dengan kepala berwarna coklat dan dada berwarna putih serta sayap dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "the long beak is black while the head is brwon and the wings are blue",
+          "indo": "paruhnya yang panjang berwarna hitam sedangkan kepalanya berwarna coklat dan sayapnya berwarna biru"
+        },
+        {
+          "english": "a brown bird with bright blue back, wings and rectrices, as well as a prominently long black bill.",
+          "indo": "burung berwarna coklat dengan punggung, sayap dan rectrices  berwarna biru cerah, serta paruh hitam panjang yang mencolok."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0119_73401.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this brightly colored has a red crown and belly, blue wings, and a long, flat red bill.",
+          "indo": "berwarna cerah ini memiliki mahkota dan perut berwarna merah, sayap biru, dan paruh panjang berwarna merah pipih."
+        },
+        {
+          "english": "this is a brown bird and a blue wingbar and pink bill",
+          "indo": "ini adalah burung berwarna coklat dengan garis sayap biru dan paruh merah muda"
+        },
+        {
+          "english": "this is a bird with a brown belly, blue back and a large beak.",
+          "indo": "ini adalah burung dengan perut berwarna coklat, punggung biru dan paruh besar."
+        },
+        {
+          "english": "small colorful bird with light blue wings, a purplish brown head and chest, and a very large beak",
+          "indo": "burung kecil berwarna-warni dengan sayap biru muda, kepala dan dada berwarna coklat keunguan, dan paruh yang sangat besar"
+        },
+        {
+          "english": "a small bird with a red belly and face, long pink bill and bright blue wings.",
+          "indo": "seekor burung kecil dengan perut dan wajah merah, paruh panjang berwarna merah muda dan sayap biru cerah."
+        },
+        {
+          "english": "small bird with long red beak, bright blue wings and brown body.",
+          "indo": "burung kecil dengan paruh panjang berwarna merah, sayap biru cerah dan tubuh coklat."
+        },
+        {
+          "english": "this bird is blue, brown, and black in color, with a very large red beak.",
+          "indo": "burung ini berwarna biru, coklat, dan hitam, dengan paruh berwarna merah yang sangat besar."
+        },
+        {
+          "english": "this brown bird has a long, dark orange beak and bright blue wings.",
+          "indo": "burung berwarna coklat ini memiliki paruh panjang berwarna oranye tua dan sayap berwarna biru cerah."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and blue",
+          "indo": "burung ini memiliki perut berwarna oranye dan biru"
+        },
+        {
+          "english": "this colorful bird has a large, brown head compared to its body, a long, wide beak, and bright blue wings.",
+          "indo": "burung berwarna-warni ini memiliki kepala besar berwarna coklat dibandingkan tubuhnya, paruh panjang dan lebar, serta sayap berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0120_73439.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this magnificent specimen has a red belly and breast with blue wings and tail.",
+          "indo": "spesimen luar biasa ini memiliki perut dan dada berwarna merah dengan sayap dan ekor berwarna biru."
+        },
+        {
+          "english": "this bird has a large red bill, a white throat, and a black crown.",
+          "indo": "burung ini mempunyai paruh besar berwarna merah, tenggorokan berwarna putih, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "the bird has blue and orange feathers on his body and long thick beak in contrast to it's body.",
+          "indo": "burung ini memiliki bulu berwarna biru dan oranye di tubuhnya serta paruh panjang yang tebal berbeda dengan tubuhnya."
+        },
+        {
+          "english": "this bird has a long red bill, a bright orange back and wing, and a brown crown.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah, punggung dan sayap berwarna oranye terang, serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has an blue iridescent back and tail feathers that surround a dark brown head and is equipped with a distinct, sharp orange-red pointed beak and bright-orange feet.",
+          "indo": "Burung ini memiliki bulu punggung dan ekor berwarna biru yang mengelilingi kepala berwarna coklat tua serta dilengkapi dengan paruh runcing berwarna oranye-merah yang khas serta kaki berwarna oranye terang."
+        },
+        {
+          "english": "this bird is green with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long red pointed beak, turquoise back and primary wings, dark red head and breast and cream throat.",
+          "indo": "burung ini memiliki paruh panjang runcing berwarna merah, punggung dan sayap utama berwarna pirus kepala serta dada berwarna merah tua dan tenggorokan berwarna krem."
+        },
+        {
+          "english": "a small bird with a large, long, orange beak and bright blue wings and tail.",
+          "indo": "seekor burung kecil dengan paruh besar, panjang, berwarna oranye serta sayap dan ekor berwarna biru cerah."
+        },
+        {
+          "english": "this is a very distinctive small bird with a long orange bill, some bright neon blue wings and white throat.",
+          "indo": "ini adalah burung kecil yang sangat khas dengan paruh oranye panjang, beberapa sayap biru neon cerah, dan tenggorokan putih."
+        },
+        {
+          "english": "this bird has a large strong orange beak and blue feathers on its back.",
+          "indo": "burung ini memiliki paruh besar berwarna oranye yang kuat dan bulu berwarna biru di punggungnya."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0121_73258.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this bird has a white breast, red crown, black superciliary, with orange, black, and blue wings.",
+          "indo": "burung ini mempunyai dada berwarna putih, mahkota berwarna merah, superciliary berwarna hitam, sayap berwarna jingga, hitam, dan biru."
+        },
+        {
+          "english": "a small multicolored with a long orange bill. and a white breast",
+          "indo": "warna-warni kecil dengan paruh oranye panjang. dan dada putih"
+        },
+        {
+          "english": "bird is oddly long red beak and blue feathers and small feet like claws",
+          "indo": "Burung ini anehnya memiliki paruh berwarna merah panjang dan bulu berwarna biru serta kaki kecil seperti cakar"
+        },
+        {
+          "english": "a small bird with multi colored feathers and a big beak.",
+          "indo": "seekor burung kecil dengan bulu beraneka warna dan paruh besar."
+        },
+        {
+          "english": "this little bird has a white breast, brown crown, and large thick bright orange bill.",
+          "indo": "Burung kecil ini memiliki dada berwarna putih, mahkota berwarna coklat, dan paruh besar berwarna jingga cerah."
+        },
+        {
+          "english": "this bird has wings that are brown and blue and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan biru serta mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "the bird has a large red bill, white breast and colorful back.",
+          "indo": "burung ini memiliki paruh besar berwarna merah, dada berwarna putih, dan punggung berwarna-warni."
+        },
+        {
+          "english": "a long biled bird with a red head and white neck and upper belly.",
+          "indo": "burung berparuh panjang dengan kepala merah, leher putih, dan perut bagian atas."
+        },
+        {
+          "english": "this bird has a very long red bill, with red and blue wings and a blue rump.",
+          "indo": "burung ini mempunyai paruh berwarna merah yang sangat panjang, dengan sayap berwarna merah dan biru serta pantat berwarna biru."
+        },
+        {
+          "english": "the bird has a large orange beak and a bright blue tail and secondaries.",
+          "indo": "burung ini memiliki paruh besar berwarna oranye dan ekor serta bulu sekunder berwarna biru cerah."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0122_73199.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "a colorful brown and blue bird with a large head and long red bill.",
+          "indo": "burung berwarna coklat dan biru dengan kepala besar dan paruh merah panjang."
+        },
+        {
+          "english": "this is a blue and brown bird with a white breast and a large red beak.",
+          "indo": "ini adalah burung berwarna biru dan coklat dengan dada putih dan paruh besar berwarna merah."
+        },
+        {
+          "english": "here is a colorful bird of beautiful browns, blues, and white, with a long orange and purple beak.",
+          "indo": "di sini ada burung berwarna-warni dengan warna coklat, biru, dan putih yang indah, dengan paruh panjang berwarna oranye dan ungu."
+        },
+        {
+          "english": "this small bird has blue colors on it's wings and inner and outer rectrices.",
+          "indo": "Burung kecil ini mempunyai warna biru pada sayapnya serta inner dan outer rectrices."
+        },
+        {
+          "english": "a small bird with brown plumage, bright blue wings, and an abnormally large head and eyes- with an even larger orange beak.",
+          "indo": "seekor burung kecil dengan bulu coklat, sayap biru cerah, dan kepala serta mata yang sangat besar - dengan paruh oranye yang lebih besar."
+        },
+        {
+          "english": "this bird has wings that are black and blue with a long beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam biru dengan paruh yang panjang"
+        },
+        {
+          "english": "this particular bird has a brown belly and white and brown breasts and blue sides",
+          "indo": "burung ini memiliki perut berwarna coklat dan dada berwarna putih dan coklat serta sisi berwarna biru"
+        },
+        {
+          "english": "a small brown bird with tufted feathers on his head, with a long red beak, white breast, and brilliant blue-tipped wings.",
+          "indo": "seekor burung kecil berwarna coklat dengan bulu berumbai di kepalanya, dengan paruh merah panjang, dada putih, dan sayap berujung biru cemerlang."
+        },
+        {
+          "english": "a small bird with a very long pointed bill blue on its wings and tail",
+          "indo": "seekor burung kecil dengan paruh runcing sangat panjang berwarna biru pada sayap dan ekornya"
+        },
+        {
+          "english": "this bird is blue with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "White_Breasted_Kingfisher_0123_73211.jpg",
+      "class_id": 82,
+      "captions": [
+        {
+          "english": "this colorful specimen has a rust colored belly, crown, and nape accented with blue primaries and secondaries, and tail.",
+          "indo": "Spesimen berwarna-warni ini memiliki perut, mahkota, dan tengkuk berwarna karat dengan aksen warna bulu primer dan bulu sekunder berwarna biru, serta ekor."
+        },
+        {
+          "english": "bird has a very large red beak and blue wing feather and dark red breast and head",
+          "indo": "Burung ini mempunyai paruh yang sangat besar berwarna merah dan bulu sayap berwarna biru serta dada dan kepala berwarna merah tua"
+        },
+        {
+          "english": "this is a colorful bird with a blue back, brown belly and head and a large red beak.",
+          "indo": "ini adalah burung berwarna-warni dengan punggung biru, perut dan kepala berwarna coklat, serta paruh besar berwarna merah."
+        },
+        {
+          "english": "the bird is primarily a dark red color, with a very long, bright red bill, and blue and black secondary wings.",
+          "indo": "burung ini pada dasarnya berwarna merah tua, dengan paruh yang sangat panjang dan berwarna merah cerah, serta sayap bulu sekunder berwarna biru dan hitam."
+        },
+        {
+          "english": "a bird with a brown crown and a red bill.",
+          "indo": "seekor burung dengan mahkota coklat dan paruh merah."
+        },
+        {
+          "english": "this unusual little bird has an oversized red bill, a deep rust color, and brilliant turquoise wings and tail.",
+          "indo": "burung kecil yang tidak biasa ini memiliki paruh merah yang sangat besar, warna karat yang dalam, serta sayap dan ekor berwarna pirus yang cemerlang."
+        },
+        {
+          "english": "this bird is red with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah hijau dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is brown in color with light blue side feathers and a thick red bill.",
+          "indo": "burung ini berwarna coklat dengan bulu samping berwarna biru muda dan paruh berwarna merah tebal."
+        },
+        {
+          "english": "this bird has brown and teal feathers and a long, very prominent red beak.",
+          "indo": "burung ini memiliki bulu berwarna coklat kehijauan serta paruh panjang berwarna merah yang sangat menonjol."
+        },
+        {
+          "english": "this bird has wings that are blue and has a bornw body and a large red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai badan lahir serta paruh yang besar berwarna merah"
+        }
+      ]
+    }
+  ]
+}

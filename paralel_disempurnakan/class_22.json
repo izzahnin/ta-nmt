@@ -1,0 +1,2718 @@
+{
+  "dataset": [
+    {
+      "filename": "Brandt_Cormorant_0001_23398.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this completely black bird has a very straight and rather long beak and a surprisingly large wingspan.",
+          "indo": "burung yang benar-benar hitam ini memiliki paruh yang sangat lurus dan agak panjang serta rentang sayap yang sangat besar."
+        },
+        {
+          "english": "all black bird with long neck and long and pointed beak.",
+          "indo": "semua burung berwarna hitam dengan leher panjang dan paruh panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a narrow, small head and beak for the size of its body, is covered with black feathers.",
+          "indo": "seekor burung besar dengan kepala dan paruh sempit, kecil untuk ukuran tubuhnya, ditutupi bulu berwarna hitam."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird is all black with a long neck and long, skinny beak.",
+          "indo": "burung itu serba hitam dengan leher panjang dan paruh panjang kurus."
+        },
+        {
+          "english": "large black bird with a long neck and a large black bill",
+          "indo": "burung hitam besar dengan leher panjang dan paruh hitam besar"
+        },
+        {
+          "english": "this particular bird has an all black body and a long narrow black bill",
+          "indo": "burung ini memiliki tubuh serba hitam dan paruh hitam panjang dan sempit"
+        },
+        {
+          "english": "pitch black bird with an elongated neck and streamlined body shape, medium-sized wingspan, and large feet.",
+          "indo": "burung berwarna hitam pekat dengan leher memanjang dan bentuk tubuh ramping, rentang sayap berukuran sedang, dan kaki besar."
+        },
+        {
+          "english": "the bird is all black with large wings and large black eyes, and has a longer bill.",
+          "indo": "burung itu serba hitam dengan sayap besar dan mata hitam besar, serta paruh lebih panjang."
+        },
+        {
+          "english": "the bird is all black with long wings and a dark black bill.",
+          "indo": "burung itu serba hitam dengan sayap panjang dan paruh hitam pekat."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0002_23072.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bill is very pointed, the head and long neck are grey and the body and wings are tan and grey.",
+          "indo": "paruhnya sangat runcing, kepala dan leher panjang berwarna abu-abu, serta badan dan sayap berwarna cokelat keabu-abuan."
+        },
+        {
+          "english": "this bird is in the water and is blue and grey in color.",
+          "indo": "burung ini ada di dalam air dan berwarna biru dan abu-abu."
+        },
+        {
+          "english": "this bird has grey primaries and a dark blue back.",
+          "indo": "burung ini memiliki warna bulu primer abu-abu dan punggung berwarna biru tua."
+        },
+        {
+          "english": "this bird has a long gray neck and back with a brown wing, and long pointy bill.",
+          "indo": "burung ini memiliki leher dan punggung panjang berwarna abu-abu dengan sayap berwarna coklat, serta paruh panjang dan runcing."
+        },
+        {
+          "english": "a bird with a long graceful neck and flat bill",
+          "indo": "seekor burung dengan leher panjang anggun dan paruh rata"
+        },
+        {
+          "english": "this gray and brown shore bird has a long pointed beak and webbed feet and features mostly brown wings that contrast with the dark gray body feathers.",
+          "indo": "Burung pantai berwarna abu-abu dan coklat ini memiliki paruh panjang runcing dan kaki berselaput serta sebagian besar memiliki sayap berwarna coklat yang kontras dengan bulu tubuh berwarna abu-abu tua."
+        },
+        {
+          "english": "a bird with a very long neck and large body.",
+          "indo": "seekor burung dengan leher yang sangat panjang dan tubuh yang besar."
+        },
+        {
+          "english": "the crown of the bird is mostly gray, with white and blue tones throughout.",
+          "indo": "mahkota burung sebagian besar berwarna abu-abu, dengan corak putih dan biru di seluruh bagiannya."
+        },
+        {
+          "english": "this small bird has a dark colored neck, and brown colored wings.",
+          "indo": "burung kecil ini memiliki leher berwarna gelap, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this is a water bird that is dark brown and black in color.",
+          "indo": "ini adalah burung air yang berwarna coklat tua dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0003_22922.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a bird with a downward hooked bill, blue eyes, a long neck and black covering its body.",
+          "indo": "burung dengan paruh bengkok ke bawah, bermata biru, berleher panjang dan berwarna hitam menutupi badannya."
+        },
+        {
+          "english": "this bird is shiny black in color with a long black beak that is curved at the end.",
+          "indo": "burung ini berwarna hitam mengkilat dengan paruh panjang berwarna hitam yang ujungnya melengkung."
+        },
+        {
+          "english": "a large bird with a large downward pointed beak, bright blue eyes, that is covered in black and grey feathers all over its body.",
+          "indo": "burung besar dengan paruh besar runcing ke bawah, mata biru cerah, ditutupi bulu hitam abu-abu di sekujur tubuhnya."
+        },
+        {
+          "english": "this deep-blue-eyed, large billed bird has a feather coat of black and cool, blue and yellow dabs under its face.",
+          "indo": "Burung bermata biru tua dan berparuh besar ini memiliki bulu berwarna hitam dan sejuk, olesan biru dan kuning di bawah wajahnya."
+        },
+        {
+          "english": "this bird is black in color with a curved black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh hitam melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a very oblong black neck with a gray body",
+          "indo": "burung ini memiliki leher berwarna hitam sangat lonjong dengan tubuh berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "this bird has a long neck and has a black bill",
+          "indo": "burung ini berleher panjang dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "this bird is black in color, with a long curved beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh panjang melengkung."
+        },
+        {
+          "english": "this large bird has a long neck, a black head, and a long bill pointed downwards.",
+          "indo": "burung besar ini memiliki leher panjang, kepala berwarna hitam, dan paruh panjang mengarah ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0006_22925.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird has a greenish tint with small orange cheek patches.",
+          "indo": "burung ini memiliki warna kehijauan dengan bercak kecil berwarna oranye di pipi."
+        },
+        {
+          "english": "a small bird with a black head and black nape, with black and grey covering the rest of its body, and grey tarsus and feet.",
+          "indo": "seekor burung kecil dengan kepala berwarna hitam dan tengkuk berwarna hitam, seluruh tubuhnya berwarna hitam dan abu-abu, serta tarsus dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "a large black bird with tan cheek patch.",
+          "indo": "seekor burung hitam besar dengan bercak coklat di pipinya."
+        },
+        {
+          "english": "this black bird has webbed feet and a long straight beak.",
+          "indo": "Burung berwarna hitam ini memiliki kaki berselaput dan paruh lurus panjang."
+        },
+        {
+          "english": "this black bird has a small head with a long rounded beak and webbed feet.",
+          "indo": "burung berwarna hitam ini memiliki kepala kecil dengan paruh panjang membulat dan kaki berselaput."
+        },
+        {
+          "english": "this bird has wings that are black and has a green belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna hijau"
+        },
+        {
+          "english": "this particular bird has a belly that is black and brown",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan coklat"
+        },
+        {
+          "english": "this darkly colored bird has shiny, black plumage, large dark gray feet and a long dark gray bill, and blue eyes.",
+          "indo": "burung berwarna gelap ini memiliki bulu hitam mengkilat, kaki besar berwarna abu-abu tua dan paruh panjang berwarna abu-abu tua, serta mata berwarna biru."
+        },
+        {
+          "english": "a black bird with green sides and long black bill.",
+          "indo": "seekor burung hitam dengan sisi hijau dan paruh hitam panjang."
+        },
+        {
+          "english": "this large bodied black bird has a long neck with a long narrow bill, it has a white malar stripe.",
+          "indo": "burung hitam bertubuh besar ini mempunyai leher yang panjang dengan paruh yang panjang dan sempit, mempunyai garis malar berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0007_22934.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird is mostly black with a white and blue neck.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan leher berwarna putih dan biru."
+        },
+        {
+          "english": "this larger bird is almost completely black with a white patch and a blue patch on its neck.",
+          "indo": "burung yang lebih besar ini hampir seluruhnya berwarna hitam dengan bercak putih dan bercak biru di lehernya."
+        },
+        {
+          "english": "this bird has an all black body, black face, and bill with the bottom bill being bright blue.",
+          "indo": "burung ini mempunyai tubuh serba hitam, muka dan paruh berwarna hitam dengan paruh bagian bawah berwarna biru cerah."
+        },
+        {
+          "english": "this is a large black bird with a curved yellow and blue bill and blue eyes.",
+          "indo": "ini adalah burung hitam besar dengan paruh melengkung berwarna kuning dan biru serta mata biru."
+        },
+        {
+          "english": "this large bird has a mostly black body with black wings, a large, thin bill, and a bright blue and white neck.",
+          "indo": "burung besar ini memiliki tubuh sebagian besar berwarna hitam dengan sayap hitam, paruh besar dan tipis, serta leher berwarna biru cerah dan putih."
+        },
+        {
+          "english": "a bird that is black colored all over except for its throat that is blue and white, also has a long downward curved black beak.",
+          "indo": "burung yang seluruh tubuhnya berwarna hitam kecuali tenggorokannya yang berwarna biru putih, juga mempunyai paruh panjang berwarna hitam melengkung ke bawah."
+        },
+        {
+          "english": "this bird has a blue throat, grey around its mouth, a blue eye ring and black feathers covering the rest of its body.",
+          "indo": "burung ini memiliki tenggorokan berwarna biru, disekitar mulutnya berwarna abu-abu, cincin mata berwarna biru dan bulu berwarna hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a large black bird with blue eyes and a long black pointed beak.",
+          "indo": "seekor burung hitam besar dengan mata biru dan paruh runcing hitam panjang."
+        },
+        {
+          "english": "this bird has a long black bill and a black breast and black wings.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam, dada berwarna hitam, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this big bird is black throughout it's whole body with a blue throat and eyes.",
+          "indo": "burung besar ini berwarna hitam di sekujur tubuhnya dengan tenggorokan dan mata berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0009_22890.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "bird with long beak with blue eyes and dark gray and black feathers",
+          "indo": "burung dengan paruh panjang, mata biru, dan bulu berwarna abu-abu tua dan hitam"
+        },
+        {
+          "english": "this large bird has striking blue eyes with black pupils, a long black bill, black head, and white throat.",
+          "indo": "burung besar ini mempunyai mata biru mencolok dengan pupil hitam, paruh hitam panjang, kepala hitam, dan tenggorokan putih."
+        },
+        {
+          "english": "a bird with a dark brown face, white throat, long brown neck and blue eyes.",
+          "indo": "burung berwajah coklat tua, tenggorokan putih, leher panjang coklat dan mata biru."
+        },
+        {
+          "english": "bird with a long grayish black neck, a cream colored chin, and blue eyes",
+          "indo": "burung dengan leher panjang berwarna hitam keabu-abuan, dagu berwarna krem, dan mata biru"
+        },
+        {
+          "english": "this bird has bright blue eyes, white around the bill, and a brown body.",
+          "indo": "burung ini mempunyai mata berwarna biru cerah, sekeliling paruh berwarna putih, dan badan berwarna coklat."
+        },
+        {
+          "english": "this bird has a large black head and beak with white-yellow color under the chin. also, the bird has bright blue eyes.",
+          "indo": "burung ini memiliki kepala besar berwarna hitam dan paruh dengan warna putih kuning di bawah dagu. juga, burung itu memiliki mata biru cerah."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long neck and has bue eyes and a flat bill",
+          "indo": "burung ini berleher panjang, bermata biru, dan paruh rata"
+        },
+        {
+          "english": "this bird has a long grey bill, a grey throat, and blue eyes.",
+          "indo": "burung ini memiliki paruh panjang berwarna abu-abu, tenggorokan berwarna abu-abu, dan mata berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0013_23391.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird is black and has a curved neck with thick tarsus.",
+          "indo": "burung ini berwarna hitam dan memiliki leher melengkung dengan tarsus yang tebal."
+        },
+        {
+          "english": "this is a large black bird with a long neck and beak.",
+          "indo": "ini adalah burung hitam besar dengan leher dan paruh panjang."
+        },
+        {
+          "english": "thin medium sized black bird has a long beack and a long neck.",
+          "indo": "burung hitam kurus berukuran sedang ini mempunyai paruh yang panjang dan leher yang panjang."
+        },
+        {
+          "english": "this is a large black bird with a long throat and a large beak.",
+          "indo": "ini adalah burung hitam besar dengan tenggorokan panjang dan paruh besar."
+        },
+        {
+          "english": "this bird has a long beak with mostly bornw feathers",
+          "indo": "burung ini mempunyai paruh yang panjang dengan sebagian besar bulu yang dilahirkan"
+        },
+        {
+          "english": "this is a dark colored bird that stands tall with a long neck.",
+          "indo": "ini adalah burung berwarna gelap yang berdiri tegak dengan leher panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "this bird has a rounded beak and a black body.",
+          "indo": "burung ini memiliki paruh membulat dan tubuh berwarna hitam."
+        },
+        {
+          "english": "a large black bird with a long neck.",
+          "indo": "seekor burung hitam besar dengan leher panjang."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0014_23050.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "large black bird with thin bill and white whiskers feathers are large",
+          "indo": "burung hitam besar dengan paruh tipis dan bulu kumis putih besar"
+        },
+        {
+          "english": "a large all black bird with an orange throat, and white feathers on its face and wings.",
+          "indo": "seekor burung besar berwarna hitam dengan tenggorokan oranye, dan bulu putih di wajah dan sayapnya."
+        },
+        {
+          "english": "this bird has a long neck, black feathers, and an orange patch on its throat.",
+          "indo": "burung ini memiliki leher yang panjang, bulu berwarna hitam, dan bercak oranye di tenggorokannya."
+        },
+        {
+          "english": "this bird is black in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large bird with an almost entirely black body, with a small amount of brown feathers on its chin",
+          "indo": "seekor burung besar dengan tubuh hampir seluruhnya berwarna hitam, dengan sedikit bulu berwarna coklat di dagunya"
+        },
+        {
+          "english": "a black bird with blue eyes and a short beak.",
+          "indo": "seekor burung hitam dengan mata biru dan paruh pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is almost entirely black.",
+          "indo": "burung ini hampir seluruhnya berwarna hitam."
+        },
+        {
+          "english": "a medium sized black bird, with a long neck, and a pointed bill.",
+          "indo": "burung hitam berukuran sedang, berleher panjang, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0015_23198.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird is brown with a curved neck and flat bill.",
+          "indo": "burung itu berwarna coklat dengan leher melengkung dan paruh rata."
+        },
+        {
+          "english": "a large bird that is brown with a long neck and a long bill.",
+          "indo": "burung besar berwarna coklat dengan leher panjang dan paruh panjang."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a long, and a bill that curves downwards",
+          "indo": "seekor burung besar dengan paruh yang panjang dan melengkung ke bawah"
+        },
+        {
+          "english": "large brown and black bird with medium brown tarsus, long neck and long brown beak",
+          "indo": "burung besar berwarna coklat dan hitam dengan tarsus coklat sedang, leher panjang dan paruh coklat panjang"
+        },
+        {
+          "english": "this large bird is brown and has a long neck, small head and long beak.",
+          "indo": "burung besar ini berwarna coklat dan mempunyai leher panjang, kepala kecil dan paruh panjang."
+        },
+        {
+          "english": "a very large standing bird with a long curvy neck and long beak.",
+          "indo": "burung berdiri yang sangat besar dengan leher panjang melengkung dan paruh panjang."
+        },
+        {
+          "english": "this bird is brown in color, with a long flat beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh yang panjang dan rata."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "a big brown bird with a long thin neck and bill.",
+          "indo": "seekor burung besar berwarna coklat dengan leher dan paruh yang panjang dan tipis."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0016_23077.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this big black bird has water proof body and feeds in water.",
+          "indo": "burung hitam besar ini memiliki tubuh kedap air dan memakan air."
+        },
+        {
+          "english": "this waterbound bird is all black with a long skinny neck and a long slender body.",
+          "indo": "burung yang hidup di air ini berwarna serba hitam dengan leher panjang kurus dan badan ramping panjang."
+        },
+        {
+          "english": "a larger sized aquatic bird that has multiple tones of brown and grey with blue eyes",
+          "indo": "burung akuatik berukuran lebih besar yang memiliki banyak warna coklat dan abu-abu dengan mata biru"
+        },
+        {
+          "english": "a bird with a long black neck, the bill is short and curved,with a black covering the rest of its body",
+          "indo": "burung dengan leher panjang berwarna hitam, paruhnya pendek dan melengkung, dengan warna hitam menutupi seluruh tubuhnya"
+        },
+        {
+          "english": "this is a water bird with blue eyes and a brown body.",
+          "indo": "ini adalah burung air dengan mata biru dan tubuh coklat."
+        },
+        {
+          "english": "this dark gray shore bird features a long pointed black beak, webbed feet and bright blue eyes that are set off when compared to the dark colored feathers around the bird's eyes.",
+          "indo": "Burung pantai berwarna abu-abu tua ini memiliki paruh hitam panjang dan runcing, kaki berselaput, dan mata biru cerah yang menonjol jika dibandingkan dengan bulu berwarna gelap di sekitar mata burung."
+        },
+        {
+          "english": "this bird has wings that are brown and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "a large bird with a black covering, long neck, and long, pointed beak.",
+          "indo": "seekor burung besar dengan penutup hitam, leher panjang, dan paruh panjang runcing."
+        },
+        {
+          "english": "this bird has a grey crown and throat and a grey bill.",
+          "indo": "burung ini memiliki mahkota dan tenggorokan berwarna abu-abu serta paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0017_23141.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird has jet black feathers and a hooked beak.",
+          "indo": "burung ini mempunyai bulu berwarna hitam legam dan paruh yang bengkok."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and brown hooked beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh bengkok berwarna coklat"
+        },
+        {
+          "english": "a bird with a tall neck has inky black feathers and a yellow beak.",
+          "indo": "seekor burung dengan leher tinggi memiliki bulu hitam pekat dan paruh kuning."
+        },
+        {
+          "english": "a black bird specked with blue across the wings, a green eye and a longer beak that's curved at the tip.",
+          "indo": "seekor burung hitam berbintik-bintik biru di sayapnya, mata hijau dan paruh lebih panjang yang ujungnya melengkung."
+        },
+        {
+          "english": "this is a large black bird with a blue eye and large orange beak.",
+          "indo": "ini adalah burung hitam besar dengan mata biru dan paruh oranye besar."
+        },
+        {
+          "english": "this large bird is all black with a very large, orange beak and very large wings",
+          "indo": "burung besar ini berwarna serba hitam dengan paruh yang sangat besar berwarna oranye dan sayap yang sangat besar"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna kuning"
+        },
+        {
+          "english": "this bird is black in color, with a curved yellow beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this very large, long necked bird is mostly black, but has distinctive blue eyes, and yellow bill.",
+          "indo": "Burung yang sangat besar dan berleher panjang ini sebagian besar berwarna hitam, namun memiliki mata biru yang khas, dan paruh berwarna kuning."
+        },
+        {
+          "english": "this bird has a long orange bill, with a long black neck.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga, dengan leher panjang berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0018_23090.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the tall black bird has a green tone throughout the head and body with a long black beak.",
+          "indo": "burung hitam tinggi memiliki warna hijau di seluruh kepala dan badan dengan paruh hitam panjang."
+        },
+        {
+          "english": "the bird has a black overall body color aside from a purple patch on his throat.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan hitam selain bercak ungu di tenggorokannya."
+        },
+        {
+          "english": "this bird is predominantly black, with splashes of blue along its neck, and green and black secondaries .",
+          "indo": "burung ini didominasi warna hitam, dengan cipratan warna biru di sepanjang lehernya, dan bulu sekunder berwarna hijau dan hitam."
+        },
+        {
+          "english": "this large bird is mostly black with a long neck and long hooked bill.",
+          "indo": "burung besar ini sebagian besar berwarna hitam dengan leher panjang dan paruh bengkok panjang."
+        },
+        {
+          "english": "this bird has a black crown, a long bill, and a long neck",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, paruh yang panjang, dan leher yang panjang"
+        },
+        {
+          "english": "this particular bird has a green and black colored body and a long neck",
+          "indo": "burung ini memiliki tubuh berwarna hijau dan hitam serta leher yang panjang"
+        },
+        {
+          "english": "this bird is black with a long neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan leher yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a mediums sized black bird, with a patch of purple on its throat, and a flat bill.",
+          "indo": "burung hitam berukuran sedang, dengan bercak ungu di tenggorokannya, dan paruh rata."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0019_23058.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a large bird has curly hair on its nape, and a long and sharp bill that is black.",
+          "indo": "seekor burung besar memiliki bulu keriting di tengkuknya, dan paruh panjang dan tajam berwarna hitam."
+        },
+        {
+          "english": "a bird with a long bill that curves downwards and small eyes",
+          "indo": "burung dengan paruh panjang melengkung ke bawah dan bermata kecil"
+        },
+        {
+          "english": "this is a brown bird with a black face and a large pointy black beak.",
+          "indo": "ini adalah burung berwarna coklat dengan wajah hitam dan paruh hitam besar dan runcing."
+        },
+        {
+          "english": "this large bird has brown fur and a large black beak",
+          "indo": "burung besar ini memiliki bulu berwarna coklat dan paruh besar berwarna hitam"
+        },
+        {
+          "english": "this is a bird that appears to be young with brown patchy downy feathers and a long hooked bill and black face.",
+          "indo": "ini adalah burung yang tampak masih muda dengan bulu halus berwarna coklat dan paruh bengkok panjang serta muka hitam."
+        },
+        {
+          "english": "a dark colored bird with short fuzzy feathers starting toward the back of its crown and a bald face and throat and a long black bill that is open and the top curves down at the end.",
+          "indo": "burung berwarna gelap dengan bulu pendek berbulu halus mulai dari bagian belakang ubun-ubunnya, muka dan tenggorokannya botak, serta paruh hitam panjang yang terbuka dan bagian atasnya melengkung ke bawah di ujungnya."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and black",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan hitam"
+        },
+        {
+          "english": "this bird has a long black bill and has brown fur",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam dan mempunyai bulu berwarna coklat"
+        },
+        {
+          "english": "this bird has a very long bill that tapers down to a point, it has black eyes and brown fluff on it's crown.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang hingga meruncing ke bawah, matanya berwarna hitam dan bulu halus berwarna coklat di bagian ubun-ubunnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0021_23097.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird has a black bill and head with some black secondary wing feathers.",
+          "indo": "burung ini memiliki paruh dan kepala berwarna hitam dengan beberapa bulu sayap bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this is a brown bird with a long neck and copper colored wing feathers.",
+          "indo": "ini adalah burung berwarna coklat dengan leher panjang dan bulu sayap berwarna tembaga."
+        },
+        {
+          "english": "this bird has a long, brown, curved bill, a brown crown, and a narrow head.",
+          "indo": "burung ini memiliki paruh yang panjang, berwarna coklat, melengkung, mahkota berwarna coklat, dan kepala yang sempit."
+        },
+        {
+          "english": "this large bird has a medium sized beak, it's head is black while the rest of its body fades to a dark brown.",
+          "indo": "Burung besar ini memiliki paruh berukuran sedang, bagian kepalanya berwarna hitam sedangkan bagian tubuh lainnya memudar menjadi coklat tua."
+        },
+        {
+          "english": "this bird is black and brown in color with a long flat beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam kecokelatan dengan paruh panjang yang rata, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird is black with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is large in size and has a black head with a wings that are large in span.",
+          "indo": "burung ini berukuran besar dan mempunyai kepala berwarna hitam dengan sayap yang lebar membentang."
+        },
+        {
+          "english": "this bird is brown in color, and has a long curved beak.",
+          "indo": "burung ini berwarna coklat, dan mempunyai paruh yang panjang dan melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0022_23157.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has two large wingbars that are black and a long throat.",
+          "indo": "burung ini memiliki dua garis sayap besar berwarna hitam dan tenggorokan yang panjang."
+        },
+        {
+          "english": "this bird has a long straight bill, a black head, and dark brown wings.",
+          "indo": "burung ini memiliki paruh panjang lurus, kepala berwarna hitam, dan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this bird is black in color with a black beak and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with a long black neck and a pointy black beak.",
+          "indo": "ini adalah burung berwarna hitam dengan leher hitam panjang dan paruh hitam runcing."
+        },
+        {
+          "english": "a jet black colored bird with large wings and a long neck",
+          "indo": "burung berwarna hitam legam dengan sayap besar dan leher panjang"
+        },
+        {
+          "english": "this bird with its feet in the water has gray wingbars with a black crown.",
+          "indo": "burung yang kakinya di dalam air ini memiliki garis sayap berwarna abu-abu dengan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "bird with blunt beak, has long neck, whole body of the body including the thigh and feet are black.",
+          "indo": "burung berparuh tumpul, berleher panjang, seluruh badan termasuk paha dan kaki berwarna hitam."
+        },
+        {
+          "english": "a water bird with dark brown to black head, wings and body.",
+          "indo": "burung air dengan kepala, sayap dan badan berwarna coklat tua sampai hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0023_23254.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this is overall a dark bird with a very round mid-section, a black head and neck with blue eyes, a black and blue beak, white \"whiskers\", a hint of tan around the face, a charcoal gray body, and a charcoal gray and black fanned tail.",
+          "indo": "ini secara keseluruhan adalah burung berwarna gelap dengan bagian tengah yang sangat bulat, kepala dan leher berwarna hitam dengan mata biru, paruh hitam dan biru, \"kumis\" putih, sedikit warna kecokelatan di sekitar wajah, tubuh abu-abu arang, dan arang ekor mengipasi abu-abu dan hitam."
+        },
+        {
+          "english": "a medium sized bird that has mostly grey tones with a blue marking on its bill",
+          "indo": "burung berukuran sedang yang sebagian besar berwarna abu-abu dengan tanda biru di paruhnya"
+        },
+        {
+          "english": "the bird has a black head, breast, wingbars, beak, and the molar stripe is turquoise.",
+          "indo": "burung ini memiliki kepala, dada, garis sayap, paruh berwarna hitam, dan garis gerahamnya berwarna pirus"
+        },
+        {
+          "english": "this is a black bird with brown cheek patches and blue on the bill.",
+          "indo": "ini adalah burung berwarna hitam dengan bercak pipi coklat dan paruh berwarna biru."
+        },
+        {
+          "english": "this bird has a vibrant but light blue throat (or bottom of its beak) and eyes. it is wider with a more duck-like body and is black and dark-gray for most of its body.",
+          "indo": "burung ini memiliki tenggorokan (atau bagian bawah paruh) dan mata yang cerah namun berwarna biru muda. ia lebih lebar dengan tubuh lebih mirip bebek dan berwarna hitam dan abu-abu tua di sebagian besar tubuhnya."
+        },
+        {
+          "english": "this particular bird has a black throat and a turquoise cheek patch and eye rings",
+          "indo": "burung ini memiliki tenggorokan hitam dan penutup pipi berwarna pirus serta cincin mata"
+        },
+        {
+          "english": "the bird has a blue eyering, long curved black bill and a teal throat.",
+          "indo": "burung ini memiliki cincin mata biru, paruh hitam panjang melengkung dan tenggorokan berwarna biru kehijauan."
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a black bird with blue eyes, brown and blue throat and long black bill.",
+          "indo": "burung hitam bermata biru, tenggorokan coklat dan biru serta paruh hitam panjang."
+        },
+        {
+          "english": "this bird has a long black bill, with a black breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam, dengan dada berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0025_22820.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a large cormorant of the pacific coast, the brandt's cormorant is found only in marine environments",
+          "indo": "burung kormoran besar di pantai pasifik, burung kormoran brandt hanya ditemukan di lingkungan laut"
+        },
+        {
+          "english": "this bird has a flat bill, a long brown neck, and a white belly",
+          "indo": "burung ini memiliki paruh yang rata, leher panjang berwarna coklat, dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a curved neck and a grey flat bill with thick tarsus.",
+          "indo": "burung ini memiliki leher melengkung dan paruh datar berwarna abu-abu dengan tarsus yang tebal."
+        },
+        {
+          "english": "this bird is brown and black in color with a long curved beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh panjang melengkung, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "a large very thing bird, with a long neck and long bill",
+          "indo": "burung yang sangat besar, dengan leher panjang dan paruh panjang"
+        },
+        {
+          "english": "this is a dark brown bird with a lighter brown breast and throat, a long neck compared to body and a long black beak.",
+          "indo": "ini adalah burung berwarna coklat tua dengan dada dan tenggorokan berwarna coklat muda, leher yang panjang dibandingkan dengan badannya dan paruh yang panjang berwarna hitam."
+        },
+        {
+          "english": "this is a long dark bird, with a long neck and a long bill.",
+          "indo": "ini adalah burung panjang berwarna gelap, dengan leher panjang dan paruh panjang."
+        },
+        {
+          "english": "this bird has a long beak and thick legs with a long neck.",
+          "indo": "burung ini mempunyai paruh yang panjang dan kaki yang tebal serta leher yang panjang."
+        },
+        {
+          "english": "this bird has very long neck and a very long beak it is black with a little bit of brown in its feathers it also has a very long tail feather",
+          "indo": "burung ini mempunyai leher yang sangat panjang dan paruh yang sangat panjang, bulunya berwarna hitam dengan sedikit coklat, bulu ekornya juga sangat panjang."
+        },
+        {
+          "english": "this bird is brown in color, and has a long curved beak.",
+          "indo": "burung ini berwarna coklat, dan mempunyai paruh yang panjang dan melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0026_22913.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this is a darker bird, with a longer bill, and tan feathers at the base of the bill.",
+          "indo": "ini adalah burung yang lebih gelap, dengan paruh yang lebih panjang, dan bulu berwarna coklat di dasar paruhnya."
+        },
+        {
+          "english": "large dark brown or black bird with giant webbed feet, long neck, elongated bill and blueish throat.",
+          "indo": "burung besar berwarna coklat tua atau hitam dengan kaki berselaput raksasa, leher panjang, paruh memanjang dan tenggorokan kebiruan."
+        },
+        {
+          "english": "a large bird that is black with a long neck and a long beak with a small pouch under the beak.",
+          "indo": "burung besar berwarna hitam dengan leher panjang dan paruh panjang dengan kantong kecil di bawah paruhnya."
+        },
+        {
+          "english": "this seabird has a long bill with predominantly black coloring. it has a yellow-brown throat patch.",
+          "indo": "burung laut ini mempunyai paruh panjang dengan warna dominan hitam. ia memiliki bercak tenggorokan berwarna kuning kecokelatan."
+        },
+        {
+          "english": "this bird has a peculiar head on a long neck, with what appears to be a pouch attached to the bottom of its long. sleek beak.",
+          "indo": "burung ini mempunyai kepala yang khas pada leher yang panjang, dengan apa yang tampak seperti sebuah kantong yang menempel di bagian bawahnya yang panjang. paruh yang ramping."
+        },
+        {
+          "english": "large black body bird with long neck, with blue throat and black beak.",
+          "indo": "burung berbadan besar berwarna hitam dengan leher panjang, tenggorokan biru, dan paruh hitam."
+        },
+        {
+          "english": "this bird has a long gray bill, and black head, wings, and rectrices.",
+          "indo": "burung ini memiliki paruh panjang berwarna abu-abu, kepala, sayap, dan rectrices berwarna hitam."
+        },
+        {
+          "english": "this all black bird has a long neck leading to its head that has a long black bill.",
+          "indo": "Burung serba hitam ini mempunyai leher yang panjang hingga ke kepalanya yang mempunyai paruh yang panjang berwarna hitam."
+        },
+        {
+          "english": "this medium sized bird is of a greyish-black color all over with a long neck and a long pointy beak that turns downward at it's tip.",
+          "indo": "Burung berukuran sedang ini berwarna hitam keabu-abuan seluruh tubuhnya dengan leher panjang dan paruh panjang runcing yang ujungnya mengarah ke bawah."
+        },
+        {
+          "english": "the bird is large with a long neck and large bill.",
+          "indo": "burung itu berukuran besar dengan leher panjang dan paruh besar."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0028_22892.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this beautiful bird has a nice small bright blue eyering and a rather large beak that matches a black color on it's head.",
+          "indo": "burung cantik ini memiliki cincin mata kecil berwarna biru cerah dan paruh agak besar yang serasi dengan warna hitam di kepalanya."
+        },
+        {
+          "english": "this is a larger black bird with a white cheek patch and a blue throat and a blue eye.",
+          "indo": "ini adalah burung hitam yang lebih besar dengan pipi putih dan tenggorokan biru serta mata biru."
+        },
+        {
+          "english": "this is a black bird with a black bill and a blue throat",
+          "indo": "ini adalah burung hitam dengan paruh hitam dan tenggorokan biru"
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is large with black feathers and a long beak.",
+          "indo": "burung ini berukuran besar dengan bulu berwarna hitam dan paruh yang panjang."
+        },
+        {
+          "english": "this bird is mostly black with a gold spot on its neck.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan bintik emas di lehernya."
+        },
+        {
+          "english": "this bird's coloring is iridescent, appearing black but also appearing blue-greenish.",
+          "indo": "Warna burung ini berwarna-warni, tampak hitam tetapi juga tampak biru kehijauan."
+        },
+        {
+          "english": "this bird has bright blue eyes, a blue throat, and is covered in black and green feathers.",
+          "indo": "burung ini memiliki mata berwarna biru cerah, tenggorokan berwarna biru, dan ditutupi bulu berwarna hitam dan hijau."
+        },
+        {
+          "english": "this black bird has a long body, a slender neck, and a patch of blue along its throat.",
+          "indo": "burung berwarna hitam ini memiliki tubuh yang panjang, leher yang ramping, dan bercak biru di sepanjang tenggorokannya."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0029_23043.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this water bird is mostly darkly brown with a long neck and long, hooked yellow bill.",
+          "indo": "burung air ini sebagian besar berwarna coklat tua dengan leher panjang dan paruh panjang berwarna kuning bengkok."
+        },
+        {
+          "english": "bird with long neck, beak is long and yellow, throat is grey, head, nape, secondaries and tail is black, eyes are black.",
+          "indo": "burung berleher panjang, paruh panjang berwarna kuning, tenggorokan berwarna abu-abu, kepala, tengkuk, bulu sekunder dan ekor berwarna hitam, mata berwarna hitam."
+        },
+        {
+          "english": "a bird covered in brown feathers with a very long neck and small head and beak compared to its body's size.",
+          "indo": "seekor burung yang ditutupi bulu berwarna coklat dengan leher yang sangat panjang serta kepala dan paruh yang kecil dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "a medium aquatic bird with an orange beak and long neck.",
+          "indo": "burung akuatik berukuran sedang dengan paruh oranye dan leher panjang."
+        },
+        {
+          "english": "this bird is mostly gray with a long neck, and long hooked bill.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan leher panjang, dan paruh bengkok panjang."
+        },
+        {
+          "english": "the bird is all black with a large beak that is curved downward.",
+          "indo": "burung tersebut berwarna serba hitam dengan paruh besar yang melengkung ke bawah."
+        },
+        {
+          "english": "this bird is brown in color, with a curved yellow beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh melengkung berwarna kuning."
+        },
+        {
+          "english": "this bird is brown in color, with a large beak curved at the tip.",
+          "indo": "burung ini berwarna coklat, dengan paruh besar melengkung di bagian ujungnya."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this bird has a long brown neck and a yellow curved downward bill",
+          "indo": "burung ini memiliki leher panjang berwarna coklat dan paruh berwarna kuning melengkung ke bawah"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0030_22926.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has an s-shaped neck and a blue eye with a flat shaped bill.",
+          "indo": "burung ini memiliki leher berbentuk s dan mata berwarna biru dengan paruh berbentuk pipih."
+        },
+        {
+          "english": "the black colored crown and covert of the bird is highlighted only by the blue colored eyes of the avian.",
+          "indo": "mahkota dan bulu burung yang berwarna hitam hanya ditonjolkan oleh mata burung yang berwarna biru."
+        },
+        {
+          "english": "a black bird with a large black head and long black bill, a blue eye and blue neck.",
+          "indo": "seekor burung hitam dengan kepala hitam besar dan paruh hitam panjang, mata biru dan leher biru."
+        },
+        {
+          "english": "this bird has a long black bill, black crown, long throat and fluffy black crown.",
+          "indo": "burung ini mempunyai paruh hitam panjang, mahkota hitam, tenggorokan panjang dan mahkota hitam berbulu halus."
+        },
+        {
+          "english": "black bird with pretty blue eyes and a brownish bill with a hook shape at the end.",
+          "indo": "burung berwarna hitam bermata biru cantik dan paruh berwarna kecoklatan dengan bentuk kait di ujungnya."
+        },
+        {
+          "english": "this bird has wings that are black with a long beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh yang panjang"
+        },
+        {
+          "english": "a black bird with blue eyes and a long beak.",
+          "indo": "seekor burung hitam dengan mata biru dan paruh panjang."
+        },
+        {
+          "english": "this bird has a long neck and a long black bill",
+          "indo": "burung ini mempunyai leher yang panjang dan paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "a bird with a long bill and blue eyes.",
+          "indo": "seekor burung dengan paruh panjang dan mata biru."
+        },
+        {
+          "english": "a black bird with a curved neck, and a long silver beak with blue eyes.",
+          "indo": "seekor burung hitam dengan leher melengkung, dan paruh panjang berwarna perak dengan mata biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0032_22886.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a black bird spreading its brown wings to dry has yellow cheek patch and long slender beak.",
+          "indo": "burung hitam yang melebarkan sayap coklatnya hingga kering memiliki bercak kuning di pipi dan paruh ramping panjang."
+        },
+        {
+          "english": "this bird has black crown with yellow eyepatch and black bill and brown coverts.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dengan bulu penutup mata berwarna kuning, paruh berwarna hitam, dan bulu penutup berwarna coklat."
+        },
+        {
+          "english": "a long-beaked bird, with a blue head and body, and grayish and brownish wings.",
+          "indo": "burung berparuh panjang, kepala dan badan berwarna biru, serta sayap berwarna keabu-abuan dan kecoklatan."
+        },
+        {
+          "english": "this bird has a long black beak and long black wings.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam dan sayap berwarna hitam panjang."
+        },
+        {
+          "english": "the bird has large angled wings that feather out in lines as well as a long head and beak extending out from its body",
+          "indo": "burung ini mempunyai sayap bersudut besar yang bulunya berjajar serta kepala dan paruh yang panjang menjulur keluar dari tubuhnya"
+        },
+        {
+          "english": "this brown and black bird has a long, flat beak.",
+          "indo": "burung berwarna coklat dan hitam ini memiliki paruh yang panjang dan rata."
+        },
+        {
+          "english": "this bird has a black body and head with dark brown wings.",
+          "indo": "burung ini memiliki tubuh dan kepala berwarna hitam dengan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan hitam"
+        },
+        {
+          "english": "this bird's body is primarily black with brown wings and a medium sized beak.",
+          "indo": "tubuh burung ini sebagian besar berwarna hitam dengan sayap berwarna coklat dan paruh berukuran sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0033_22975.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a large bird with a long neck, and black feathers.",
+          "indo": "seekor burung besar dengan leher panjang, dan bulu hitam."
+        },
+        {
+          "english": "medium sized all black bird with a long thin pink beak.",
+          "indo": "burung serba hitam berukuran sedang dengan paruh panjang berwarna merah muda tipis."
+        },
+        {
+          "english": "this bird is all black with black, flat tarsus and a long skinny neck and pointy bill.",
+          "indo": "burung ini serba hitam dengan tarsus hitam pipih dan leher panjang kurus serta paruh runcing."
+        },
+        {
+          "english": "black shiny feathers on this bird with webbed feet and pink bill.",
+          "indo": "bulu hitam mengkilat pada burung ini dengan kaki berselaput dan paruh berwarna merah muda."
+        },
+        {
+          "english": "this is a black bird with webbed feet, a long neck, and a long pointed white bill.",
+          "indo": "ini adalah burung berwarna hitam dengan kaki berselaput, leher panjang, dan paruh putih runcing panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is black in color, with a light pink beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna merah muda terang."
+        },
+        {
+          "english": "this bird is black in color, with a long curved beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh panjang melengkung."
+        },
+        {
+          "english": "this particular bird has a belly that is blck with white spots on its throat",
+          "indo": "burung ini mempunyai perut berwarna hitam dengan bintik-bintik putih di tenggorokannya"
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0035_23000.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has a yellow bill that is long and also black.",
+          "indo": "burung tersebut memiliki paruh berwarna kuning yang panjang dan juga berwarna hitam."
+        },
+        {
+          "english": "a larger bird that is brown and has an orange flat bill.",
+          "indo": "burung yang lebih besar berwarna coklat dan memiliki paruh pipih berwarna oranye."
+        },
+        {
+          "english": "a medium sized bird covered in dark brown and black feathers on its wings, speckled with white on its coverts.",
+          "indo": "seekor burung berukuran sedang yang ditutupi bulu berwarna coklat tua dan hitam pada sayapnya, berbintik-bintik putih pada bulu penutupnya."
+        },
+        {
+          "english": "this large bird is mostly black with a long flat bill.",
+          "indo": "burung besar ini sebagian besar berwarna hitam dengan paruh pipih yang panjang."
+        },
+        {
+          "english": "medium to large black bird with medium black tarsus, long neck and long black and orange beak",
+          "indo": "burung hitam sedang hingga besar dengan tarsus hitam sedang, leher panjang, dan paruh panjang berwarna hitam jingga"
+        },
+        {
+          "english": "this bird is completely black, including the tarsus; it has medium length, wide wings, a long neck, a small head ending in a relatively long, blunt, orange bill.",
+          "indo": "burung ini berwarna hitam seluruhnya, termasuk tarsusnya; ia mempunyai panjang sedang, sayap lebar, leher panjang, kepala kecil dengan ujung paruh oranye yang relatif panjang, tumpul."
+        },
+        {
+          "english": "a medium sized webbed feet with small thick tarsus and a dark chest.",
+          "indo": "kaki berselaput berukuran sedang dengan tarsus kecil tebal dan dada berwarna gelap."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black and brown in color, with a flat beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh yang rata."
+        },
+        {
+          "english": "the bird has two large wingbars and a brown belly.",
+          "indo": "burung itu memiliki dua garis sayap besar dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0036_22937.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird has a black belly, breast and head with a grey throat.",
+          "indo": "burung ini memiliki perut, dada, dan kepala berwarna hitam dengan tenggorokan berwarna abu-abu."
+        },
+        {
+          "english": "a large bird with a speckled brown, white and black throat and breast, with black covering its belly, and wings.",
+          "indo": "seekor burung besar dengan tenggorokan dan dada berbintik-bintik coklat, putih dan hitam, dengan warna hitam menutupi perut dan sayapnya."
+        },
+        {
+          "english": "this bird has a brown crown, a long orange bill, and a dark brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh panjang berwarna oranye, dan perut berwarna coklat tua."
+        },
+        {
+          "english": "medium to large black and grey bird with large black tarsus, webbed feet and a long beak",
+          "indo": "burung berwarna hitam dan abu-abu berukuran sedang hingga besar dengan tarsus hitam besar, kaki berselaput, dan paruh panjang"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long hooked bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this bird has webbed feet, a long white hooked-tip beak that is yellow at the base, and has mostly black plumage with mottled white throat coloring.",
+          "indo": "Burung ini memiliki kaki berselaput, paruh panjang berujung bengkok berwarna putih dengan pangkal berwarna kuning, dan bulu sebagian besar berwarna hitam dengan warna tenggorokan berbintik-bintik putih."
+        },
+        {
+          "english": "a mostly black bird with a large curved beak, with a black head and body.",
+          "indo": "burung yang sebagian besar berwarna hitam dengan paruh besar melengkung, dengan kepala dan badan berwarna hitam."
+        },
+        {
+          "english": "this distinct-looking bird is black with a yellow and white beak.",
+          "indo": "burung yang tampak berbeda ini berwarna hitam dengan paruh kuning dan putih."
+        },
+        {
+          "english": "a large black bird with white throat and long yellow bill.",
+          "indo": "seekor burung hitam besar dengan tenggorokan putih dan paruh kuning panjang."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0038_23110.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a dark brown and black bird with a large head and long flat beak.",
+          "indo": "burung berwarna coklat tua dan hitam dengan kepala besar dan paruh datar panjang."
+        },
+        {
+          "english": "the bird has a curved neck with grey feathers and a black bill.",
+          "indo": "burung ini memiliki leher melengkung dengan bulu berwarna abu-abu dan paruh berwarna hitam."
+        },
+        {
+          "english": "this is a brown and black bird with a long neck and a large beak.",
+          "indo": "ini adalah burung berwarna coklat dan hitam dengan leher panjang dan paruh besar."
+        },
+        {
+          "english": "this bird has a long neck and a beak to go along with its brown color.",
+          "indo": "burung ini memiliki leher yang panjang dan paruh yang serasi dengan warna coklatnya."
+        },
+        {
+          "english": "the bird has a long black spotted neck and a black head.",
+          "indo": "burung itu memiliki leher panjang berbintik hitam dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a very long neck that is brown and black, black bill, black eyes with black eyering and black crown.",
+          "indo": "burung ini mempunyai leher yang sangat panjang berwarna coklat kehitaman, paruh berwarna hitam, mata berwarna hitam dengan cincin mata bermata hitam dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "a medium size bird with a long neck and a black head.",
+          "indo": "burung berukuran sedang dengan leher panjang dan kepala berwarna hitam."
+        },
+        {
+          "english": "a large black bird with brown nape.",
+          "indo": "seekor burung hitam besar dengan tengkuk coklat."
+        },
+        {
+          "english": "this bird has a black crown with a narrow black bill and long brown and black throat.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dengan paruh sempit berwarna hitam dan tenggorokan panjang berwarna coklat kehitaman."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0039_22945.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has a long rounded bill, a rounded crown, and a black breast",
+          "indo": "burung ini memiliki paruh yang panjang dan membulat, mahkota yang membulat, dan dada yang berwarna hitam"
+        },
+        {
+          "english": "the bird has a long black bill that is curved as well as a small throat.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam yang melengkung serta tenggorokan yang kecil."
+        },
+        {
+          "english": "a medium to large black duck with black bill and beige throat.",
+          "indo": "bebek hitam berukuran sedang hingga besar dengan paruh hitam dan tenggorokan berwarna krem."
+        },
+        {
+          "english": "this bird has a black crown, a flat bill, and a black breast",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh rata, dan dada berwarna hitam"
+        },
+        {
+          "english": "this is a black bird with a large black pointy beak.",
+          "indo": "ini adalah burung hitam dengan paruh besar dan runcing berwarna hitam."
+        },
+        {
+          "english": "a bird with a very long straight beak, black, with several white hairs on it's head, and it's very shiny!",
+          "indo": "burung dengan paruh lurus sangat panjang, berwarna hitam, dengan beberapa helai rambut putih di kepalanya, dan sangat berkilau!"
+        },
+        {
+          "english": "this bird has a long black bill, large head with black crown and black breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam, kepala besar dengan mahkota berwarna hitam dan dada berwarna hitam."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a very long black bill, with a black head.",
+          "indo": "burung ini mempunyai paruh berwarna hitam yang sangat panjang, dengan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0040_23144.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a black bird with a white wing and a black beak.",
+          "indo": "seekor burung hitam dengan sayap putih dan paruh hitam."
+        },
+        {
+          "english": "this bird is nearly all black with white covers, and a short narrow bill.",
+          "indo": "burung ini hampir seluruhnya berwarna hitam dengan penutup berwarna putih, dan paruh pendek dan sempit."
+        },
+        {
+          "english": "this bird is covered with black feathers with the exception of its wings, which have some white feathers on it.",
+          "indo": "burung ini ditutupi bulu berwarna hitam kecuali pada sayapnya yang terdapat beberapa bulu berwarna putih."
+        },
+        {
+          "english": "a bird with medium pointed bill, medium head, white coverts and black plumage.",
+          "indo": "burung dengan paruh runcing sedang, kepala sedang, bulu putih dan bulu hitam."
+        },
+        {
+          "english": "this black bird with a long neck has a short, pointed beak, dark black eyes, and black and white wings.",
+          "indo": "Burung berleher panjang berwarna hitam ini memiliki paruh pendek runcing, mata berwarna hitam pekat, dan sayap berwarna hitam putih."
+        },
+        {
+          "english": "this particular bird has a black body and white secondaries",
+          "indo": "burung ini memiliki tubuh berwarna hitam dan bulu sekunder berwarna putih"
+        },
+        {
+          "english": "this black bird has a long neck with a white colored wing and flat beak.",
+          "indo": "burung berwarna hitam ini memiliki leher yang panjang dengan sayap berwarna putih dan paruh yang rata."
+        },
+        {
+          "english": "this bird has a back head with white flanks, dark black eyes and long neck.",
+          "indo": "burung ini memiliki kepala belakang dengan panggul berwarna putih, mata hitam pekat, dan leher panjang."
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black and white",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0042_23151.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird floats underneath the surface of the lake with a long black neck, thin black beak and pitch black eyes.",
+          "indo": "burung ini mengapung di bawah permukaan danau dengan leher panjang berwarna hitam, paruh hitam tipis, dan mata hitam pekat."
+        },
+        {
+          "english": "a large bird with with a black crown and the bird has a long neck and long bill",
+          "indo": "burung berukuran besar dengan mahkota berwarna hitam dan burung tersebut memiliki leher yang panjang dan paruh yang panjang"
+        },
+        {
+          "english": "this black bird has a light gray malor stripe and a long neck.",
+          "indo": "burung berwarna hitam ini memiliki garis malor berwarna abu-abu muda dan leher yang panjang."
+        },
+        {
+          "english": "this bird is mostly black with a long hooked bill.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "medium to large black bird with long neck and long black beak",
+          "indo": "burung hitam berukuran sedang hingga besar dengan leher panjang dan paruh hitam panjang"
+        },
+        {
+          "english": "the bird is under water from his nape down.",
+          "indo": "burung itu terendam air dari tengkuknya ke bawah."
+        },
+        {
+          "english": "a black winged bird with a long thin black neck and bill.",
+          "indo": "burung bersayap hitam dengan leher dan paruh panjang berwarna hitam tipis."
+        },
+        {
+          "english": "this bird has a long neck and a long black bill",
+          "indo": "burung ini mempunyai leher yang panjang dan paruh yang panjang berwarna hitam"
+        },
+        {
+          "english": "this bird is black in color, and has a black beak.",
+          "indo": "burung ini berwarna hitam, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a long, sleek black neck with a long black beak.",
+          "indo": "burung ini memiliki leher panjang ramping berwarna hitam dengan paruh panjang berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0044_22884.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "bird with long neck, short tail feathers, thick legs, and long beak that curves downward.",
+          "indo": "burung berleher panjang, bulu ekor pendek, kaki tebal, dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "a large bird containing a long neck but small head compared to the rest of its body size, and black feathers.",
+          "indo": "burung besar dengan leher panjang tetapi kepala kecil dibandingkan ukuran tubuhnya yang lain, dan bulu berwarna hitam."
+        },
+        {
+          "english": "this is a blue and black bird with a long pointy black beak.",
+          "indo": "ini adalah burung berwarna biru dan hitam dengan paruh hitam panjang dan runcing."
+        },
+        {
+          "english": "this brown bird has a long neck and a long, flat bill.",
+          "indo": "burung berwarna coklat ini memiliki leher yang panjang dan paruh yang panjang dan rata."
+        },
+        {
+          "english": "this medium sized bird has an all black body with a white throat and a long beak.",
+          "indo": "Burung berukuran sedang ini memiliki tubuh serba hitam dengan tenggorokan berwarna putih dan paruh yang panjang."
+        },
+        {
+          "english": "this black bird has black webbed feet and a thin long beak.",
+          "indo": "burung hitam ini memiliki kaki berselaput hitam dan paruh tipis panjang."
+        },
+        {
+          "english": "this bird is black in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this dark colored bird has a very short, stubby tail and a very long neck and beak.",
+          "indo": "burung berwarna gelap ini memiliki ekor yang sangat pendek, gemuk, serta leher dan paruh yang sangat panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "a mostly black bird with a brown malar stripe, it has a larger body but a long neck with a thin head and long thin bill.",
+          "indo": "burung yang sebagian besar berwarna hitam dengan garis malar coklat, memiliki tubuh lebih besar tetapi leher panjang dengan kepala tipis dan paruh panjang dan tipis."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0045_22916.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a black bird with a long neck, short legs, and a distinctive blue wattle.",
+          "indo": "burung berwarna hitam dengan leher panjang, kaki pendek, dan pial biru yang khas."
+        },
+        {
+          "english": "a large bird with a bright blue throat, with black feathers covering the rest of its body.",
+          "indo": "seekor burung besar dengan tenggorokan berwarna biru cerah, dengan bulu hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this is a large black bird with a blue throat and a pointed beak.",
+          "indo": "ini adalah burung hitam besar dengan tenggorokan biru dan paruh runcing."
+        },
+        {
+          "english": "this large bird has a black body, long neck, and blue accented bill.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna hitam, leher panjang, dan paruh beraksen biru."
+        },
+        {
+          "english": "this larger bird is mostly all black from head to tail, with the exception of a bright blue small pouch under the black bill.",
+          "indo": "burung yang lebih besar ini sebagian besar berwarna hitam dari kepala hingga ekor, kecuali kantong kecil berwarna biru cerah di bawah paruh hitam."
+        },
+        {
+          "english": "this bird is mostly black with a few white feathers on its back and a bright blue throat.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan sedikit bulu putih di punggungnya dan tenggorokan berwarna biru cerah."
+        },
+        {
+          "english": "this particular bird has a belly that is all black with a blue patch by the beak",
+          "indo": "burung ini memiliki perut yang serba hitam dengan bercak biru di paruhnya"
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a black throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a black color and blue throat.",
+          "indo": "seekor burung besar dengan warna hitam dan tenggorokan biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0047_23337.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has head and beak proportional to its body, and the whole body is covered in black.",
+          "indo": "burung ini memiliki kepala dan paruh yang proporsional dengan tubuhnya, dan seluruh tubuhnya ditutupi warna hitam."
+        },
+        {
+          "english": "the bird's feet are black and white white the rest of the body is black",
+          "indo": "kaki burung berwarna hitam dan putih putih, selebihnya badannya berwarna hitam"
+        },
+        {
+          "english": "this is a black bird with large black feet and a white cheek patch.",
+          "indo": "ini adalah burung hitam dengan kaki hitam besar dan pipi berwarna putih."
+        },
+        {
+          "english": "this bird is nearly all black with a long pointy bill, and wide webbed feet.",
+          "indo": "burung ini hampir seluruhnya berwarna hitam dengan paruh panjang runcing, dan kaki berselaput lebar."
+        },
+        {
+          "english": "medium to large black bird with medium black tarsus, long neck and long black beak",
+          "indo": "burung hitam sedang sampai besar dengan tarsus hitam sedang, leher panjang dan paruh hitam panjang"
+        },
+        {
+          "english": "this particular bird has a black body with a white cheek patch and long black bill",
+          "indo": "burung ini memiliki tubuh berwarna hitam dengan bercak putih di pipi dan paruh panjang berwarna hitam"
+        },
+        {
+          "english": "the bird has a long black throat and black back.",
+          "indo": "burung itu memiliki tenggorokan hitam panjang dan punggung hitam."
+        },
+        {
+          "english": "this bird is black in color, with a long black beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "a medium sized black bird, with webbed feet, and a long pointed bill.",
+          "indo": "seekor burung hitam berukuran sedang, dengan kaki berselaput, dan paruh runcing panjang."
+        },
+        {
+          "english": "a medium sized bird with black feet and a black breast and a large rounded beak.",
+          "indo": "burung berukuran sedang dengan kaki hitam dan dada hitam serta paruh bulat besar."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0049_22924.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a bird with a long downward hooked bill and charcoal gray covering the rest of its body.",
+          "indo": "seekor burung dengan paruh panjang bengkok ke bawah dan warna abu-abu arang menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this is a black bird with a long black neck and a large beak.",
+          "indo": "ini adalah burung berwarna hitam dengan leher hitam panjang dan paruh besar."
+        },
+        {
+          "english": "big bird with long neck and beak, tail, foot, tarsus, secondaries, belly, abdomen and throat are black.",
+          "indo": "burung besar dengan leher dan paruh panjang, ekor, kaki, tarsus, bulu sekunder, perut, perut dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "the bird has a black belly, head, tail, and wings, with a black striped neck.",
+          "indo": "burung ini memiliki perut, kepala, ekor, dan sayap berwarna hitam, dengan leher bergaris hitam."
+        },
+        {
+          "english": "the bird is grey towards its back and black towards the front, and also has a long brown beak.",
+          "indo": "burung ini berwarna abu-abu di bagian punggung dan hitam di bagian depan, serta memiliki paruh panjang berwarna coklat."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown as well as a black belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna hitam"
+        },
+        {
+          "english": "this bird has a bright blue eye, a long neck, and a solid black body.",
+          "indo": "burung ini memiliki mata berwarna biru cerah, leher panjang, dan tubuh berwarna hitam pekat."
+        },
+        {
+          "english": "this bird has a black crown as well as a long black throat",
+          "indo": "burung ini mempunyai mahkota berwarna hitam serta tenggorokan yang panjang dan berwarna hitam"
+        },
+        {
+          "english": "this large black bird has a long neck relative to its body and blue eyes.",
+          "indo": "burung hitam besar ini memiliki leher yang panjang dibandingkan tubuhnya dan mata biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0052_23356.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this large bird has a long neck and a long beak, with dark brown wings and a long, black tail.",
+          "indo": "burung besar ini mempunyai leher yang panjang dan paruh yang panjang, sayap berwarna coklat tua dan ekor yang panjang berwarna hitam."
+        },
+        {
+          "english": "the bird has a yellow bill that is long and curved.",
+          "indo": "burung ini memiliki paruh berwarna kuning yang panjang dan melengkung."
+        },
+        {
+          "english": "a large bird with brown and touches of white plumage that has a long white bill.",
+          "indo": "burung berukuran besar dengan bulu berwarna coklat dan sentuhan putih yang memiliki paruh panjang berwarna putih."
+        },
+        {
+          "english": "brown bird with a white bill and blue eyes and black primaries.",
+          "indo": "burung coklat dengan paruh putih dan mata biru serta warna bulu primer hitam."
+        },
+        {
+          "english": "this large bird has a brown body and a long yellow beak",
+          "indo": "burung besar ini memiliki tubuh berwarna coklat dan paruh panjang berwarna kuning"
+        },
+        {
+          "english": "a medium sized bird which is mostly dark grey and it has a long neck. the bird has a long bill with a downward point at the tip and yellow-orange coloring under its eye.",
+          "indo": "burung berukuran sedang yang sebagian besar berwarna abu-abu tua dan berleher panjang. burung ini memiliki paruh yang panjang dengan ujung mengarah ke bawah dan warna kuning-oranye di bawah matanya."
+        },
+        {
+          "english": "the bird has a curved throat, long brown wingbars, and a long yellow curved bill.",
+          "indo": "burung ini memiliki tenggorokan melengkung, garis sayap panjang berwarna coklat, dan paruh panjang melengkung berwarna kuning."
+        },
+        {
+          "english": "the long tarsus by the under tail of the bird with a white and gold bill",
+          "indo": "tarsus panjang di bagian bawah ekor burung dengan paruh berwarna putih dan emas"
+        },
+        {
+          "english": "this large bird has large wing span and a light colored bill.",
+          "indo": "burung besar ini memiliki rentang sayap yang besar dan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has a brown body with a white bill and yellow stripes under its eyes.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan paruh berwarna putih dan garis-garis kuning di bawah matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0053_22957.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the head of the bird is green and has a blue eye withe long beak.",
+          "indo": "Kepala burung berwarna hijau dan bermata biru dengan paruh panjang."
+        },
+        {
+          "english": "the head of a black bird with a tan throat and long, narrow bill.",
+          "indo": "kepala burung hitam dengan tenggorokan berwarna coklat dan paruh panjang dan sempit."
+        },
+        {
+          "english": "this bird has bright blue eyes, a black head, and light brown throat along with a long grey beak.",
+          "indo": "burung ini memiliki mata berwarna biru cerah, kepala berwarna hitam, dan tenggorokan berwarna coklat muda serta paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this is a black bird with a blue eye and a large black beak.",
+          "indo": "ini adalah burung hitam dengan mata biru dan paruh hitam besar."
+        },
+        {
+          "english": "this bird has a long neck, mostly dark grey appearance, with bright blue eyes and long hooked bill.",
+          "indo": "burung ini mempunyai leher panjang, sebagian besar berpenampilan abu-abu tua, dengan mata biru cerah dan paruh bengkok panjang."
+        },
+        {
+          "english": "this bird has blue and dark eyes, a long grey neck and a dark green nape",
+          "indo": "burung ini memiliki mata berwarna biru dan gelap, leher panjang berwarna abu-abu, dan tengkuk berwarna hijau tua"
+        },
+        {
+          "english": "this bird is black with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has an elongated beak with beautiful blue eyes and small head with some light brown feathers just under the beak.",
+          "indo": "burung ini memiliki paruh memanjang dengan mata biru yang indah dan kepala kecil dengan beberapa bulu berwarna coklat muda tepat di bawah paruhnya."
+        },
+        {
+          "english": "this bird is black in color, with a long curved beak.",
+          "indo": "burung ini berwarna hitam, dengan paruh panjang melengkung."
+        },
+        {
+          "english": "the bird has a blue eyering, long curved bill and long throat.",
+          "indo": "burung ini memiliki cincin mata biru, paruh melengkung panjang, dan tenggorokan panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0061_22902.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this is a black bird with a white throat and a long pointy beak.",
+          "indo": "ini adalah burung berwarna hitam dengan tenggorokan putih dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this is a black bird with a white cheek patch and a large beak.",
+          "indo": "ini adalah burung hitam dengan pipi putih dan paruh besar."
+        },
+        {
+          "english": "a large bird with a black neck, and a bill that curves downwards",
+          "indo": "seekor burung besar dengan leher hitam, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this is a black bird with a long neck and white hairs coming out of his face and back and a lighter colored marking on its throat.",
+          "indo": "ini adalah burung berwarna hitam dengan leher panjang dan bulu putih keluar dari wajah dan punggungnya serta tanda berwarna lebih terang di tenggorokannya."
+        },
+        {
+          "english": "this i bird has a yellow cheek patch a black body and a long bill.",
+          "indo": "Burung i ini mempunyai bercak pipi kuning, badan hitam dan paruh panjang."
+        },
+        {
+          "english": "this particular bird has a black body and white eyebrows",
+          "indo": "burung ini memiliki tubuh berwarna hitam dan alis berwarna putih"
+        },
+        {
+          "english": "this black bird has a long neck and a tuft of white feathers at its nape.",
+          "indo": "burung berwarna hitam ini memiliki leher yang panjang dan seberkas bulu berwarna putih di bagian tengkuknya."
+        },
+        {
+          "english": "this bird has wings that are black and has a brown throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai tenggorokan berwarna coklat"
+        },
+        {
+          "english": "a long necked dark colored bird with bushy white feathers from its cheek patches.",
+          "indo": "burung berleher panjang berwarna gelap dengan bulu putih lebat di bagian pipinya."
+        },
+        {
+          "english": "this bird is a larger bird, it is almost all black with a big bill.",
+          "indo": "burung ini merupakan burung yang berukuran lebih besar, hampir seluruhnya berwarna hitam dengan paruh yang besar."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0062_23038.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a big bird that's black in color, with a long bill and neck.",
+          "indo": "seekor burung besar berwarna hitam, dengan paruh dan leher yang panjang."
+        },
+        {
+          "english": "the bird has a black bill, white eyering and black wingbar.",
+          "indo": "burung ini mempunyai paruh berwarna hitam, cincin mata berwarna putih, dan garis sayap berwarna hitam."
+        },
+        {
+          "english": "a big bird with a long black bill and a long black nape and throat.",
+          "indo": "seekor burung besar dengan paruh hitam panjang dan tengkuk serta tenggorokan hitam panjang."
+        },
+        {
+          "english": "this birds wing feathers are long and it has a long neck and pointed beak.",
+          "indo": "Bulu sayap burung ini panjang, leher panjang, dan paruh runcing."
+        },
+        {
+          "english": "this dark bodied bird has a match dark colored beak, a stout body, pointed tail and wide wingspan.",
+          "indo": "Burung berbadan gelap ini mempunyai paruh berwarna gelap senada, badan kekar, ekor runcing dan rentang sayap lebar."
+        },
+        {
+          "english": "this bird is black and has long wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dan mempunyai sayap yang panjang serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is black in color, and has a flat beak.",
+          "indo": "burung ini berwarna hitam, dan mempunyai paruh yang rata."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0063_22865.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a brown bird with a long neck and long beak.",
+          "indo": "seekor burung berwarna coklat dengan leher panjang dan paruh panjang."
+        },
+        {
+          "english": "this is a dark brown bird with a brown eye and a long beak.",
+          "indo": "ini adalah burung berwarna coklat tua dengan mata coklat dan paruh panjang."
+        },
+        {
+          "english": "a dull brown large bird with a long neck and a long beak with a downward tip on the end of the beak.",
+          "indo": "burung besar berwarna coklat kusam dengan leher panjang dan paruh panjang dengan ujung paruh mengarah ke bawah."
+        },
+        {
+          "english": "this bird has a long pointed bill with the lower bill pointed down, a long neck, and a brown head & body.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing dengan paruh bagian bawah mengarah ke bawah, leher yang panjang, serta kepala & badan berwarna coklat."
+        },
+        {
+          "english": "this large bird has a brown body, long neck, and long hooked bill.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna coklat, leher panjang, dan paruh bengkok panjang."
+        },
+        {
+          "english": "this gray bird has a thin, long beak that curves down at the tip.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh tipis panjang yang ujungnya melengkung ke bawah."
+        },
+        {
+          "english": "a black body bird with an averagely sized head in comparison to the body.",
+          "indo": "burung berbadan hitam dengan ukuran kepala rata-rata dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "bird has a large brown bill, dark brown color elsewhere, with a long neck and large body.",
+          "indo": "Burung ini mempunyai paruh besar berwarna coklat, warna coklat tua di bagian lain, dengan leher panjang dan badan besar."
+        },
+        {
+          "english": "the bird has a curved brown throat and a curved bill.",
+          "indo": "burung itu memiliki tenggorokan berwarna coklat yang melengkung dan paruh yang melengkung."
+        },
+        {
+          "english": "a large bird with a long neck and long beak.",
+          "indo": "seekor burung besar dengan leher panjang dan paruh panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0064_22849.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a large bird with brown tones all over and a stout beak",
+          "indo": "seekor burung besar dengan seluruh warna coklat dan paruh yang kokoh"
+        },
+        {
+          "english": "this bird is brown with a white spot and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bintik putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long slender neck with it's whole head and body covered in black feathers.",
+          "indo": "burung ini memiliki leher yang panjang dan ramping dengan seluruh kepala dan badannya ditutupi bulu berwarna hitam."
+        },
+        {
+          "english": "a large bird with brown wings and a long neck, and a long bill",
+          "indo": "seekor burung besar dengan sayap berwarna coklat dan leher panjang, serta paruh yang panjang"
+        },
+        {
+          "english": "this bird is mostly brown with long neck and long hooked bill.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan leher panjang dan paruh bengkok panjang."
+        },
+        {
+          "english": "this bird has wide, long brown wings and a long neck.",
+          "indo": "burung ini mempunyai sayap lebar berwarna coklat panjang dan leher panjang."
+        },
+        {
+          "english": "this mostly brown bird has a large wingspan and long neck and bill.",
+          "indo": "burung yang sebagian besar berwarna coklat ini memiliki rentang sayap yang besar serta leher dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "this bird is brown in color, and has a long curved beak.",
+          "indo": "burung ini berwarna coklat, dan mempunyai paruh yang panjang dan melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0065_23118.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird is all black with a flat beak and a long neck.",
+          "indo": "burung itu berwarna serba hitam dengan paruh rata dan leher panjang."
+        },
+        {
+          "english": "this is a black bird with a long neck and a large black beak.",
+          "indo": "ini adalah burung berwarna hitam dengan leher panjang dan paruh hitam besar."
+        },
+        {
+          "english": "this grey bird has rather a long neck, rather a roundish head, and a rather flat grey bill.",
+          "indo": "burung berwarna abu-abu ini memiliki leher yang agak panjang, kepala agak bulat, dan paruh berwarna abu-abu agak pipih."
+        },
+        {
+          "english": "this is a large, grey bird with a long, skinny throat.",
+          "indo": "ini adalah burung besar berwarna abu-abu dengan tenggorokan panjang dan kurus."
+        },
+        {
+          "english": "this bird is black in color with a flat beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh rata, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a flat bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pipih"
+        },
+        {
+          "english": "this bird has wings that are black and has a a flat bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pipih"
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck and bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai leher dan paruh yang panjang"
+        },
+        {
+          "english": "this bird has a flat black bill, with a full black body.",
+          "indo": "burung ini mempunyai paruh berwarna hitam pipih, dengan tubuh penuh berwarna hitam."
+        },
+        {
+          "english": "this bird has dark colored feathers and a long neck with a large dark flat bill.",
+          "indo": "burung ini memiliki bulu berwarna gelap dan leher panjang dengan paruh besar berwarna gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0067_23352.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a black scalloped feathered bird with a long pale beak and an eye at the end of its beak closest to its head.",
+          "indo": "burung berbulu hitam bergigi dengan paruh panjang pucat dan mata di ujung paruh paling dekat dengan kepalanya."
+        },
+        {
+          "english": "the bird has a teal eyering and a long bill that is curved.",
+          "indo": "burung itu memiliki cincin mata berwarna biru kehijauan dan paruh panjang yang melengkung."
+        },
+        {
+          "english": "a bird with a mass downward hooked bill and coarse brown feathers covering its body.",
+          "indo": "seekor burung dengan paruh besar yang bengkok ke bawah dan bulu kasar berwarna coklat menutupi tubuhnya."
+        },
+        {
+          "english": "a black bird with a long down turned bill and bright blue eyes.",
+          "indo": "seekor burung hitam dengan paruh panjang dan mata biru cerah."
+        },
+        {
+          "english": "a large black bird with a yellow and white beak, and blue eyes",
+          "indo": "seekor burung hitam besar dengan paruh kuning dan putih, serta mata biru"
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is black with white patches",
+          "indo": "Burung ini mempunyai perut yang berwarna hitam dengan bercak putih"
+        },
+        {
+          "english": "this bird has a brown crown, blue primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna biru, dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0068_23019.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this medium sized bird has dark feathers, long wings, a long beak and a long, curved neck.",
+          "indo": "burung berukuran sedang ini memiliki bulu berwarna gelap, sayap panjang, paruh panjang, dan leher panjang melengkung."
+        },
+        {
+          "english": "this large bird is mostly gray with a long flat bill.",
+          "indo": "burung besar ini sebagian besar berwarna abu-abu dengan paruh pipih yang panjang."
+        },
+        {
+          "english": "this large bird is brown with a long bill and neck.",
+          "indo": "burung besar ini berwarna coklat dengan paruh dan leher yang panjang."
+        },
+        {
+          "english": "this bird has a flat bill, a long neck, and large brown wings",
+          "indo": "burung ini memiliki paruh yang pipih, leher yang panjang, dan sayap besar berwarna coklat"
+        },
+        {
+          "english": "medium to large grey and black bird with long neck and long black beak",
+          "indo": "burung berwarna abu-abu dan hitam berukuran sedang hingga besar dengan leher panjang dan paruh hitam panjang"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is large with large wings and a scooped neck all in just the color grey.",
+          "indo": "burung ini berukuran besar dengan sayap yang besar dan leher yang cekung, semuanya berwarna abu-abu."
+        },
+        {
+          "english": "a large black bird with a long bill, long neck, and large wingspan.",
+          "indo": "burung hitam besar dengan paruh panjang, leher panjang, dan rentang sayap besar."
+        },
+        {
+          "english": "this bird has a narrow black bill with dark brown crown and black nape.",
+          "indo": "burung ini mempunyai paruh sempit berwarna hitam dengan mahkota berwarna coklat tua dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "a medium sized black bird, with a long pointed bill.",
+          "indo": "seekor burung hitam berukuran sedang, dengan paruh runcing panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0070_23137.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has a curved black bill and blue eyering.",
+          "indo": "burung itu mempunyai paruh hitam melengkung dan cincin mata biru."
+        },
+        {
+          "english": "a black bird with a long neck, blue eyes and a long beak with a downward curve to the end of the top beak.",
+          "indo": "burung berwarna hitam dengan leher panjang, mata biru dan paruh panjang melengkung ke bawah hingga ujung paruh atas."
+        },
+        {
+          "english": "this bird is black in color with a long curved beak and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh panjang melengkung dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the black head of a bird with a long black hooked bill, blue eye, and white throat.",
+          "indo": "burung berkepala hitam dengan paruh bengkok hitam panjang, mata biru, dan tenggorokan putih."
+        },
+        {
+          "english": "this bird is black with brown on its neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna coklat pada bagian lehernya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black, long neck with a hooked beak.",
+          "indo": "burung ini memiliki leher panjang berwarna hitam dengan paruh bengkok."
+        },
+        {
+          "english": "this particular bird has a long black neck and throat and thin black bill",
+          "indo": "burung ini memiliki leher dan tenggorokan hitam panjang serta paruh hitam tipis"
+        },
+        {
+          "english": "this bird has a long neck and blue eyes with a long bill",
+          "indo": "burung ini mempunyai leher yang panjang dan mata berwarna biru dengan paruh yang panjang"
+        },
+        {
+          "english": "this particular bird has blue eye rings and tan cheek patches",
+          "indo": "burung ini memiliki cincin mata biru dan bercak pipi cokelat"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0071_23007.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird is mostly black but with a bright blue coloring under its beak.",
+          "indo": "burung ini sebagian besar berwarna hitam namun dengan warna biru cerah di bawah paruhnya."
+        },
+        {
+          "english": "enchanting blue iridescent throat and eyes on this large breasted black water fowl.",
+          "indo": "tenggorokan dan mata warna-warni biru yang mempesona pada unggas air hitam berdada besar ini."
+        },
+        {
+          "english": "this large, mostly black bird has blue eyes, an iridescent blue malar stripe, an orange throat, and a long bill which curves downward at the tip.",
+          "indo": "burung besar yang sebagian besar berwarna hitam ini memiliki mata biru, garis malar biru warna-warni, tenggorokan oranye, dan paruh panjang yang ujungnya melengkung ke bawah."
+        },
+        {
+          "english": "mostly black bird with blue under bill along with orange and blue eyes.",
+          "indo": "sebagian besar burung berwarna hitam dengan paruh bawah biru serta mata oranye dan biru."
+        },
+        {
+          "english": "a bird with a large downward hooked bill, blue eyes, orange throat and black neck.",
+          "indo": "burung dengan paruh besar bengkok ke bawah, mata biru, tenggorokan oranye, dan leher hitam."
+        },
+        {
+          "english": "this bird has a bright blue eye ring, blue throat, and black covering the rest of its body except for the orange on its neck and its brown and grey secondaries.",
+          "indo": "burung ini mempunyai cincin mata berwarna biru cerah, tenggorokan berwarna biru, dan warna hitam menutupi seluruh tubuhnya kecuali warna jingga pada bagian lehernya serta warna sekundernya yang berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has blue eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata biru"
+        },
+        {
+          "english": "the bird has brown wings, a black breast, a blue beak, blue eye, and orange around the beak",
+          "indo": "burung tersebut mempunyai sayap berwarna coklat, dada berwarna hitam, paruh berwarna biru, mata berwarna biru, dan sekeliling paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are black and has blue eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata biru"
+        },
+        {
+          "english": "this large bird has a long black bill, bright blue throat, and black all over.",
+          "indo": "burung besar ini memiliki paruh panjang berwarna hitam, tenggorokan berwarna biru cerah, dan seluruh tubuhnya berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0072_23069.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "large mostly black bird, light brown patch by his throat/beak, black eyes, and black long beak with a slight hook at the end.",
+          "indo": "burung besar sebagian besar berwarna hitam, bercak coklat muda di tenggorokan/paruh, mata hitam, dan paruh hitam panjang dengan sedikit kait di ujungnya."
+        },
+        {
+          "english": "a large bird with a long neck, black all over except for a yellowish-golden cheek patch.",
+          "indo": "seekor burung besar dengan leher panjang, seluruh tubuhnya berwarna hitam kecuali bagian pipinya berwarna keemasan kekuningan."
+        },
+        {
+          "english": "a small bird with a black head and black nape, with black covering the rest of its body, and black tarsus and feet.",
+          "indo": "seekor burung kecil dengan kepala berwarna hitam dan tengkuk berwarna hitam, seluruh tubuhnya berwarna hitam, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "the bird has a curved black throat and a pure black back.",
+          "indo": "burung itu memiliki tenggorokan hitam melengkung dan punggung hitam murni."
+        },
+        {
+          "english": "this bird is black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has feathers that are black and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "a very tall black bird with a curved neck.",
+          "indo": "seekor burung hitam yang sangat tinggi dengan leher melengkung."
+        },
+        {
+          "english": "the bird is black in color and has black webbed feet.",
+          "indo": "burung itu berwarna hitam dan mempunyai kaki berselaput hitam."
+        },
+        {
+          "english": "the large, long bird is solid black with large webbed feet, the neck is long and the beak is thick, there is a patch of white under the beak and on the bird's neck.",
+          "indo": "burung berukuran besar dan panjang berwarna hitam pekat dengan kaki berselaput besar, leher panjang dan paruh tebal, terdapat bercak putih di bawah paruh dan pada leher burung."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0073_23259.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this is a diving bird with dark plumage, thigh, and tarsus, a long neck, beak, and tail feathers are also featured.",
+          "indo": "ini adalah burung selam dengan bulu, paha, dan tarsus berwarna gelap, juga terdapat bulu leher, paruh, dan ekor yang panjang."
+        },
+        {
+          "english": "this bird is black with longs claws and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan cakar yang panjang dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird covered n mostly black feathers all over its body except for its back which has some light blue over the tops of its coverts.",
+          "indo": "seekor burung besar yang ditutupi sebagian besar bulu hitam di sekujur tubuhnya kecuali punggungnya yang memiliki sedikit warna biru muda di bagian atas bulunya."
+        },
+        {
+          "english": "a long neck protrudes from this black bird as well as lengthy tarsus and huge, webbed feet.",
+          "indo": "leher panjang menonjol dari burung hitam ini serta tarsus panjang dan kaki berselaput besar."
+        },
+        {
+          "english": "this bird has a black bill and a black feathers.",
+          "indo": "burung ini mempunyai paruh berwarna hitam dan bulu berwarna hitam."
+        },
+        {
+          "english": "this bird is black with green and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam kehijauan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is entirely black, with webbed feet and a long pointed beak.",
+          "indo": "burung ini seluruhnya berwarna hitam, dengan kaki berselaput dan paruh runcing panjang."
+        },
+        {
+          "english": "this is a completely black bird with a long neck and webbed feet.",
+          "indo": "ini adalah burung yang benar-benar hitam dengan leher panjang dan kaki berselaput."
+        },
+        {
+          "english": "this bird has a very long neck, some black wings with some white stripes and a long black bill.",
+          "indo": "burung ini mempunyai leher yang sangat panjang, sebagian sayap berwarna hitam dengan sebagian garis putih dan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "this bird has a long, black neck and large, black feet.",
+          "indo": "burung ini memiliki leher panjang berwarna hitam dan kaki besar berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0074_22881.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has a grey body and small grey webbed feet.",
+          "indo": "burung itu memiliki tubuh berwarna abu-abu dan kaki berselaput kecil berwarna abu-abu."
+        },
+        {
+          "english": "this is a grey bird with large webbed feet and a large beak.",
+          "indo": "ini adalah burung abu-abu dengan kaki berselaput besar dan paruh besar."
+        },
+        {
+          "english": "this is a large bird that is fully gray, including its beak that lightly turns downwards at the tip and its webbed feet.",
+          "indo": "Ini adalah burung besar yang seluruhnya berwarna abu-abu, termasuk paruhnya yang ujungnya agak mengarah ke bawah dan kakinya berselaput."
+        },
+        {
+          "english": "medium sized bird with large webbed black feet and brown body with white triangle in the center of the breast.",
+          "indo": "burung berukuran sedang dengan kaki hitam berselaput besar dan badan berwarna coklat dengan segitiga putih di tengah dada."
+        },
+        {
+          "english": "a large bird with huge black feet, a brown body, long neck and long bill.",
+          "indo": "seekor burung besar dengan kaki besar berwarna hitam, badan berwarna coklat, leher panjang dan paruh panjang."
+        },
+        {
+          "english": "this large bird is drab brown with large, webbed feet, and a long, slender bill that is slightly hooked at the end.",
+          "indo": "burung besar ini berwarna coklat kusam dengan kaki besar berselaput, dan paruh panjang ramping yang ujungnya agak bengkok."
+        },
+        {
+          "english": "this bird is has brown all over it with a long sharp looking bill, and flat feet.",
+          "indo": "Burung ini berwarna coklat di sekujur tubuhnya, paruhnya panjang dan tampak runcing, serta kakinya rata."
+        },
+        {
+          "english": "this bird is all grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long necka and bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai leher dan paruh yang panjang"
+        },
+        {
+          "english": "a large bird iwth a brown coloring a long, pointed beak.",
+          "indo": "seekor burung besar dengan warna coklat, paruhnya panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0075_22970.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "an all black sea bird with a long neck and long beak",
+          "indo": "burung laut serba hitam dengan leher panjang dan paruh panjang"
+        },
+        {
+          "english": "this water fowl has a long bill, the upper bill forming a hook at the end.",
+          "indo": "unggas air ini mempunyai paruh yang panjang, paruh bagian atas membentuk pengait di ujungnya."
+        },
+        {
+          "english": "this bird looks large; has a long lean black neck with a long curved beak.",
+          "indo": "burung ini kelihatannya besar; memiliki leher panjang ramping berwarna hitam dengan paruh panjang melengkung."
+        },
+        {
+          "english": "it is a black bird with a very long neck and black beak.",
+          "indo": "itu adalah burung hitam dengan leher yang sangat panjang dan paruh hitam."
+        },
+        {
+          "english": "a medium black bird with a long neck and black beak.",
+          "indo": "burung berwarna hitam sedang dengan leher panjang dan paruh hitam."
+        },
+        {
+          "english": "this bird has a long neck with a long black bill",
+          "indo": "burung ini mempunyai leher panjang dengan paruh panjang berwarna hitam"
+        },
+        {
+          "english": "this bird has a black, neck, throat and coverts, and a long white speckled black bill.",
+          "indo": "burung ini mempunyai paruh, leher, tenggorokan, dan bulu berwarna hitam, serta paruh panjang berwarna putih berbintik-bintik hitam."
+        },
+        {
+          "english": "this particular bird has a neck that is long and thing and black",
+          "indo": "burung ini memiliki leher yang panjang dan berwarna hitam"
+        },
+        {
+          "english": "this bird has a black crown as well as a long black bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam serta paruh panjang berwarna hitam"
+        },
+        {
+          "english": "large bird with black head and neck, pale orange cheek patch, and webbed feet.",
+          "indo": "burung besar dengan kepala dan leher berwarna hitam, pipi berwarna oranye pucat, dan kaki berselaput."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0076_23021.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has whole body covered in black expect for the throat in white, the beak is pointy and curved.",
+          "indo": "Burung ini seluruh tubuhnya ditutupi warna hitam, sedangkan tenggorokannya berwarna putih, paruhnya runcing dan melengkung."
+        },
+        {
+          "english": "this larger bird is nearly all black with a white neck and long hooked bill.",
+          "indo": "burung yang lebih besar ini hampir seluruhnya berwarna hitam dengan leher putih dan paruh bengkok panjang."
+        },
+        {
+          "english": "this bird is black and white in color with a very long black beak made for fishing.",
+          "indo": "burung ini berwarna hitam putih dengan paruh hitam yang sangat panjang yang dibuat untuk memancing."
+        },
+        {
+          "english": "a very unique bird with a long, black neck, large beak, and a blue and white throat.",
+          "indo": "burung yang sangat unik dengan leher panjang berwarna hitam, paruh besar, dan tenggorokan berwarna biru putih."
+        },
+        {
+          "english": "this bird is black with white on its mouth and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan mulut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black body and throat but it's throat is white and the bottom of the bill is blue.",
+          "indo": "burung ini mempunyai badan dan tenggorokan berwarna hitam namun tenggorokannya berwarna putih dan bagian bawah paruhnya berwarna biru."
+        },
+        {
+          "english": "the bird has a long bill with a blue section on bottom, and dark plumage elsewhere.",
+          "indo": "burung itu mempunyai paruh panjang dengan bagian biru di bagian bawah, dan bulu gelap di bagian lain."
+        },
+        {
+          "english": "this is a black bird with a white throat and a long beak that curves downward at the tip.",
+          "indo": "ini adalah burung berwarna hitam dengan tenggorokan berwarna putih dan paruh panjang yang ujungnya melengkung ke bawah."
+        },
+        {
+          "english": "this small bird is mostly black with a white throat and long bill",
+          "indo": "burung kecil ini sebagian besar berwarna hitam dengan tenggorokan berwarna putih dan paruh panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0078_23203.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a larger sized bird that has multiple tones of brown with a long narrow bill",
+          "indo": "burung berukuran lebih besar yang memiliki banyak warna coklat dengan paruh panjang dan sempit"
+        },
+        {
+          "english": "this is a mostly dark grey to black medium sized bird with a long flat bill",
+          "indo": "ini adalah burung berukuran sedang berwarna abu-abu tua hingga hitam dengan paruh datar yang panjang"
+        },
+        {
+          "english": "the bird has a black overall body color, even it's long bill is black too.",
+          "indo": "burung ini mempunyai warna tubuh keseluruhan hitam, bahkan paruhnya yang panjang juga berwarna hitam."
+        },
+        {
+          "english": "this bird has a white master stripe and a dark gray crown.",
+          "indo": "burung ini memiliki garis induk berwarna putih dan mahkota berwarna abu-abu tua."
+        },
+        {
+          "english": "medium brown bird with long neck and long brown beak",
+          "indo": "burung berwarna coklat sedang dengan leher panjang dan paruh coklat panjang"
+        },
+        {
+          "english": "this bird has feathers that are brown and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is all black and has a long, pointy beak.",
+          "indo": "burung ini berwarna serba hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a flat bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pipih"
+        },
+        {
+          "english": "this bird has wings that are black and has a flat bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pipih"
+        },
+        {
+          "english": "this bird is basically covered in black all over and it has a long pointed beak.",
+          "indo": "burung ini pada dasarnya seluruhnya ditutupi warna hitam dan memiliki paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0079_22874.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a large black bird has a long hooked bill, large blue eyes, and a light blue throat.",
+          "indo": "seekor burung hitam besar memiliki paruh bengkok panjang, mata biru besar, dan tenggorokan biru muda."
+        },
+        {
+          "english": "the bird has a black crown, neck and breast area with a blue patch on it's throat.",
+          "indo": "burung ini memiliki mahkota, leher, dan dada berwarna hitam dengan bercak biru di tenggorokannya."
+        },
+        {
+          "english": "this is a brown bird with a blue eye and a blue beak.",
+          "indo": "ini adalah burung coklat dengan mata biru dan paruh biru."
+        },
+        {
+          "english": "a bird with a black crown and a blue neck.",
+          "indo": "seekor burung dengan mahkota hitam dan leher biru."
+        },
+        {
+          "english": "this bird has a long neck, a blue throat and a beak that curves downward on the end.",
+          "indo": "burung ini memiliki leher yang panjang, tenggorokan berwarna biru, dan paruh yang ujungnya melengkung ke bawah."
+        },
+        {
+          "english": "this bird has wings that are black with a long black and blue beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh panjang berwarna hitam dan biru"
+        },
+        {
+          "english": "the blue bill runs into the grey throat of the bird",
+          "indo": "paruh biru mengalir ke tenggorokan burung yang berwarna abu-abu"
+        },
+        {
+          "english": "this bird is black and brown in color, with a skinny black curved beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh melengkung berwarna hitam kurus."
+        },
+        {
+          "english": "this bird has a blue throat, blue eyes and a black crown.",
+          "indo": "burung ini mempunyai tenggorokan berwarna biru, mata biru dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this large bird has a long, dark hooked bill, and a blue throat.",
+          "indo": "burung besar ini memiliki paruh panjang, bengkok berwarna gelap, dan tenggorokan berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0080_23002.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "large black bird, black eyes and feet, black thin blunted bil.",
+          "indo": "burung hitam besar, mata dan kaki hitam, bil hitam tipis tumpul."
+        },
+        {
+          "english": "a pure black bird stands on a rock as it points its long narrow beak out into the distance.",
+          "indo": "seekor burung hitam murni berdiri di atas batu sambil mengarahkan paruhnya yang panjang dan sempit ke kejauhan."
+        },
+        {
+          "english": "this is a large black bird with a long neck and a pointy beak.",
+          "indo": "ini adalah burung hitam besar dengan leher panjang dan paruh runcing."
+        },
+        {
+          "english": "this is a black bird with a long, skinny throat and white on the wingbars.",
+          "indo": "ini adalah burung berwarna hitam dengan tenggorokan panjang dan kurus serta sayap berwarna putih."
+        },
+        {
+          "english": "this black bird has a long neck and flat bill.",
+          "indo": "burung berwarna hitam ini memiliki leher yang panjang dan paruh yang rata."
+        },
+        {
+          "english": "a black bird with a long neck and a large beak.",
+          "indo": "seekor burung hitam dengan leher panjang dan paruh besar."
+        },
+        {
+          "english": "this particular bird has a belly that is black and white",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan putih"
+        },
+        {
+          "english": "this bird has a black body, black wings, and a long beak.",
+          "indo": "burung ini memiliki tubuh berwarna hitam, sayap berwarna hitam, dan paruh yang panjang."
+        },
+        {
+          "english": "this bird has a black crown as well as a long black throat",
+          "indo": "burung ini mempunyai mahkota berwarna hitam serta tenggorokan yang panjang dan berwarna hitam"
+        },
+        {
+          "english": "this large bird is black all over, has a large webbed feet and white wingbars peaking through its secondaries.",
+          "indo": "burung besar ini seluruhnya berwarna hitam, memiliki kaki berselaput besar dan garis sayap putih yang menonjol melalui sayap sekundernya."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0082_22978.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the long neck bird has a white bill and blue eyering.",
+          "indo": "burung berleher panjang memiliki paruh berwarna putih dan bermata biru."
+        },
+        {
+          "english": "this is a brown bird with a long neck and a pointy brown beak.",
+          "indo": "ini adalah burung berwarna coklat dengan leher panjang dan paruh coklat runcing."
+        },
+        {
+          "english": "large bird with long brown neck, white cheek patch, and long beak.",
+          "indo": "burung besar dengan leher panjang berwarna coklat, bercak putih di pipi, dan paruh panjang."
+        },
+        {
+          "english": "this bird is brown with some white speckling, and has a long beak that is sharply curved at the end.",
+          "indo": "burung ini berwarna coklat dengan sedikit bercak putih, dan mempunyai paruh panjang yang ujungnya melengkung tajam."
+        },
+        {
+          "english": "bird with sharp and curved beak, with brown crown and nape, blue eye, gray beak",
+          "indo": "burung dengan paruh runcing dan melengkung, mahkota dan tengkuk berwarna coklat, mata biru, paruh abu-abu"
+        },
+        {
+          "english": "this bird has feathers that are brown and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this brown bird has a long neck, blue eye and a light brown beak that curves down at the tip",
+          "indo": "burung berwarna coklat ini memiliki leher panjang, mata biru dan paruh berwarna coklat muda yang ujungnya melengkung ke bawah"
+        },
+        {
+          "english": "this brown bird has a long beak, brown head, and blue eyering.",
+          "indo": "burung berwarna coklat ini memiliki paruh yang panjang, kepala berwarna coklat, dan cincin mata berwarna biru."
+        },
+        {
+          "english": "this bird has a brown crown, brown throat, and a brown beak.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, tenggorokan berwarna coklat, dan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0083_23156.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has sharp and curved tip beak, and the whole bird is black in color.",
+          "indo": "burung ini mempunyai ujung paruh yang runcing dan melengkung, dan keseluruhan burung berwarna hitam."
+        },
+        {
+          "english": "a large bird with a long wingspan that is covered in black feathers over its entire body.",
+          "indo": "seekor burung besar dengan rentang sayap panjang yang ditutupi bulu hitam di sekujur tubuhnya."
+        },
+        {
+          "english": "this is a large black bird with a pointy black beak.",
+          "indo": "ini adalah burung hitam besar dengan paruh hitam runcing."
+        },
+        {
+          "english": "this large bird is mostly black with a long hooked bill.",
+          "indo": "burung besar ini sebagian besar berwarna hitam dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this is a large black bird with a downward pointing black bill.",
+          "indo": "ini adalah burung hitam besar dengan paruh hitam mengarah ke bawah."
+        },
+        {
+          "english": "this bird has feathers that are black and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the bird has a black back and two large black wingbars.",
+          "indo": "burung itu memiliki punggung berwarna hitam dan dua sayap hitam besar."
+        },
+        {
+          "english": "this particular bird has a belly that is black with some spots of white",
+          "indo": "Burung ini mempunyai perut yang berwarna hitam dengan beberapa bintik putih"
+        },
+        {
+          "english": "this bird has black wings and a black crown and a black bill.",
+          "indo": "burung ini mempunyai sayap berwarna hitam, mahkota berwarna hitam, dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a black bill, two large black wingbars and a black back.",
+          "indo": "burung itu mempunyai paruh berwarna hitam, dua garis sayap besar berwarna hitam, dan punggung berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0084_23265.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "the bird has a large pointed bill, a long neck, and brown plumage",
+          "indo": "burung ini memiliki paruh besar yang runcing, leher panjang, dan bulu berwarna coklat"
+        },
+        {
+          "english": "this is a gray bird with a long neck and a pointy beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan leher panjang dan paruh runcing."
+        },
+        {
+          "english": "this bird is brown in color, with a long orange beak and a dark eye ring.",
+          "indo": "burung ini berwarna coklat, dengan paruh panjang berwarna jingga dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "dark brown all over with a whiteish brown spotted back and breast.",
+          "indo": "berwarna coklat tua di sekujur tubuh dengan bintik coklat keputihan di punggung dan dada."
+        },
+        {
+          "english": "this is a gray and white bird with a yellow bill",
+          "indo": "ini adalah burung berwarna abu-abu putih dengan paruh kuning"
+        },
+        {
+          "english": "this bird is brown with a very long neck and a long, flat yellow beak.",
+          "indo": "burung ini berwarna coklat dengan leher yang sangat panjang dan paruh yang panjang dan pipih berwarna kuning."
+        },
+        {
+          "english": "the bird has a long curved neck, orange bill that is thin and brown back.",
+          "indo": "burung ini memiliki leher panjang melengkung, paruh berwarna oranye yang tipis, dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "long neck, brown around head and neck, long orange bill with white and brown body.",
+          "indo": "leher panjang, sekitar kepala dan leher berwarna coklat, paruh panjang berwarna oranye dengan badan berwarna putih dan coklat."
+        },
+        {
+          "english": "this bird has a long tail, large black and white spotted body, long curved neck, small head, and long orange pointy beak.",
+          "indo": "Burung ini mempunyai ekor yang panjang, badan besar berbintik hitam putih, leher panjang melengkung, kepala kecil, dan paruh panjang runcing berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0087_23126.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this bird has a long brown neck and brown head, with a dark brown beak and eyes.",
+          "indo": "burung ini memiliki leher panjang berwarna coklat dan kepala berwarna coklat, dengan paruh dan mata berwarna coklat tua."
+        },
+        {
+          "english": "a fairly large bird with a long neck, head and beak, along with brown and white speckled feathers covering its body.",
+          "indo": "burung yang cukup besar dengan leher, kepala dan paruh yang panjang, serta bulu berbintik-bintik coklat dan putih menutupi tubuhnya."
+        },
+        {
+          "english": "medium to large brown bird with long neck, long brown beak and large brown eye",
+          "indo": "burung berwarna coklat sedang hingga besar dengan leher panjang, paruh coklat panjang dan mata coklat besar"
+        },
+        {
+          "english": "this brown bird has an long neck and elongated black bill with round black eyes.",
+          "indo": "burung berwarna coklat ini memiliki leher panjang dan paruh hitam memanjang dengan mata bulat berwarna hitam."
+        },
+        {
+          "english": "the large bird has a very long beak and a brown neck.",
+          "indo": "burung besar ini memiliki paruh yang sangat panjang dan leher berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long neck and big black bill",
+          "indo": "burung ini mempunyai leher panjang dan paruh besar berwarna hitam"
+        },
+        {
+          "english": "a large bird with a long brown neck and long black beak.",
+          "indo": "seekor burung besar dengan leher panjang berwarna coklat dan paruh hitam panjang."
+        },
+        {
+          "english": "large, speckled brown bird with very long bill.",
+          "indo": "burung besar berwarna coklat berbintik dengan paruh yang sangat panjang."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0088_22948.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this is a large black bird with blue eyes and a bright blue patch on its throat.",
+          "indo": "ini adalah burung hitam besar dengan mata biru dan bercak biru cerah di tenggorokannya."
+        },
+        {
+          "english": "this is a black, medium sized bird with a long thin bill and a blue throat. the area just below the throat is light brown.",
+          "indo": "ini adalah burung berwarna hitam berukuran sedang dengan paruh panjang tipis dan tenggorokan biru. area tepat di bawah tenggorokan berwarna coklat muda."
+        },
+        {
+          "english": "this black bird has a bright blue stripe under its long black beak, bright aqua blue eyes, and whisker-like feathers coming off of the side of its head.",
+          "indo": "burung hitam ini memiliki garis biru cerah di bawah paruhnya yang panjang dan berwarna hitam, mata biru aqua cerah, dan bulu mirip kumis yang mencuat di sisi kepalanya."
+        },
+        {
+          "english": "this bird has a black crown, a blue throat, and a blue eye",
+          "indo": "burung ini memiliki mahkota berwarna hitam, tenggorokan berwarna biru, dan mata berwarna biru"
+        },
+        {
+          "english": "this long-necked bird is rather large, almost completely black, with a blue and tan throat marking and blue eyes.",
+          "indo": "burung berleher panjang ini berukuran agak besar, hampir seluruhnya berwarna hitam, dengan tanda tenggorokan berwarna biru kecokelatan serta mata biru."
+        },
+        {
+          "english": "this bird is mostly black in color with a white patch near its throat and bright blue eyes and a bright blue patch under its bill.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan bercak putih di dekat tenggorokannya dan mata berwarna biru cerah serta bercak biru cerah di bawah paruhnya."
+        },
+        {
+          "english": "a large black bird, with a purple throat, and a long black bill.",
+          "indo": "burung hitam besar, tenggorokan ungu, dan paruh hitam panjang."
+        },
+        {
+          "english": "this dark colored bird has a turquoise color under its beak and in its eyes with a black head and chest.",
+          "indo": "burung berwarna gelap ini memiliki warna pirus di bawah paruhnya dan di matanya dengan kepala dan dada berwarna hitam."
+        },
+        {
+          "english": "this large black bird with a long bill has a white throat and bright blue eyes that match the underside of it's bill.",
+          "indo": "Burung besar berwarna hitam dengan paruh yang panjang ini memiliki tenggorokan berwarna putih dan mata berwarna biru cerah yang serasi dengan bagian bawah paruhnya."
+        },
+        {
+          "english": "a beautiful black bird, with a vivid blue lower beak and eye, and a tan throat.",
+          "indo": "seekor burung hitam yang cantik, dengan paruh dan mata bagian bawah berwarna biru cerah, dan tenggorokan berwarna cokelat."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0091_22825.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "a brown bird with blue eyes and a black beak.",
+          "indo": "seekor burung coklat dengan mata biru dan paruh hitam."
+        },
+        {
+          "english": "this bird is black in color and has an oddly shaped black bill along with a black eye ring and blue eyes. .",
+          "indo": "burung ini berwarna hitam dan memiliki paruh berwarna hitam berbentuk aneh serta cincin mata hitam dan mata biru. ."
+        },
+        {
+          "english": "a big brown bird that has blue eyes, long and strong beak curved at the tip, and brownish white throat.",
+          "indo": "burung besar berwarna coklat bermata biru, paruh panjang dan kuat melengkung di ujung, serta tenggorokan berwarna putih kecoklatan."
+        },
+        {
+          "english": "this bird is black with blue eyes and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam, bermata biru, dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has small blue eyes, a long black beak and a black head.",
+          "indo": "burung ini mempunyai mata biru kecil, paruh hitam panjang dan kepala hitam."
+        },
+        {
+          "english": "this bird has a very colorful eye",
+          "indo": "burung ini mempunyai mata yang sangat berwarna"
+        },
+        {
+          "english": "this bird has a bill that curves at the end, and a light colored throat.",
+          "indo": "burung ini mempunyai paruh yang melengkung di ujungnya, dan tenggorokan berwarna terang."
+        },
+        {
+          "english": "this bird has a greyish-brown throat and a long hooked beak.",
+          "indo": "burung ini memiliki tenggorokan berwarna coklat keabu-abuan dan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has a large black bill that curves downward.",
+          "indo": "burung ini mempunyai paruh besar berwarna hitam yang melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Brandt_Cormorant_0092_23061.jpg",
+      "class_id": 22,
+      "captions": [
+        {
+          "english": "this large black bird has a very unique, royal blue neck and white whiskers caking the side of its face.",
+          "indo": "burung hitam besar ini memiliki leher yang sangat unik berwarna biru royal dan kumis putih yang menggumpal di sisi wajahnya."
+        },
+        {
+          "english": "the bird has a long curved bill and a black eyering.",
+          "indo": "burung itu mempunyai paruh panjang melengkung dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a blue throat, and a long and flat bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam, tenggorokan berwarna biru, dan paruh yang panjang dan rata"
+        },
+        {
+          "english": "this odd-looking bird features a glossy patch of blue under its long gray bill.",
+          "indo": "burung yang tampak aneh ini memiliki bercak biru mengkilap di bawah paruh abu-abunya yang panjang."
+        },
+        {
+          "english": "a medium sized bird that has a blue marking on its large sized bill",
+          "indo": "burung berukuran sedang yang memiliki tanda biru pada paruhnya yang berukuran besar"
+        },
+        {
+          "english": "a small black bird, with a long beak, and blue throat.",
+          "indo": "seekor burung kecil berwarna hitam, dengan paruh panjang, dan tenggorokan berwarna biru."
+        },
+        {
+          "english": "this is a large bird with a dark blue body and a lighter blue and white beak.",
+          "indo": "ini adalah burung besar dengan tubuh biru tua dan paruh biru muda dan putih."
+        },
+        {
+          "english": "this bird is black and blue in color, with a long curved beak.",
+          "indo": "burung ini berwarna hitam biru, dengan paruh panjang melengkung."
+        },
+        {
+          "english": "this bird is black with a black belly and a blue malar stripe.",
+          "indo": "burung ini berwarna hitam dengan perut hitam dan garis malar biru."
+        },
+        {
+          "english": "this bird is black with blue and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    }
+  ]
+}

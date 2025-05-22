@@ -1,0 +1,2718 @@
+{
+  "dataset": [
+    {
+      "filename": "Yellow_Breasted_Chat_0001_21928.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this small bird has fluffy feathers, a yellow torso and a white body, with skinny black legs.",
+          "indo": "burung kecil ini memiliki bulu yang halus, badan berwarna kuning dan badan berwarna putih, dengan kaki yang kurus berwarna hitam."
+        },
+        {
+          "english": "this is a small bird with a white belly, yellow breast and a grey head.",
+          "indo": "ini adalah burung kecil dengan perut putih, dada kuning dan kepala abu-abu."
+        },
+        {
+          "english": "this round and fluffy bird has three colors in layers - green, bright yellow, and white with some gray around his eyes and a pointed beak.",
+          "indo": "burung bulat dan berbulu halus ini memiliki tiga warna berlapis - hijau, kuning cerah, dan putih dengan sedikit warna abu-abu di sekitar matanya dan paruh runcing."
+        },
+        {
+          "english": "this tiny bird has a small, pointy beak with a yellow throat that extends down into the breast.",
+          "indo": "burung mungil ini memiliki paruh kecil runcing dengan tenggorokan berwarna kuning yang menjulur hingga ke dada."
+        },
+        {
+          "english": "this bird has a yellow chest and chin with a white belly and small beak.",
+          "indo": "burung ini memiliki dada dan dagu berwarna kuning dengan perut berwarna putih dan paruh kecil."
+        },
+        {
+          "english": "this bird has a very distinct bright colored yellow belly with a tinted gray crown.",
+          "indo": "burung ini memiliki perut berwarna kuning cerah yang sangat khas dengan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the small bird is yellow in color with skinny legs and a crown that is grey.",
+          "indo": "burung kecil berwarna kuning dengan kaki kurus dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the bird had a yellow breast and grey belly as well as small bill.",
+          "indo": "burung itu memiliki dada kuning dan perut abu-abu serta paruh kecil."
+        },
+        {
+          "english": "this bird has a fluffy feathered yellow breast and skinny tarsus",
+          "indo": "burung ini mempunyai dada kuning berbulu halus dan tarsus kurus"
+        },
+        {
+          "english": "this is a tiny round bird with a yellow breast, white belly, and long thin tarsus.",
+          "indo": "ini adalah burung bulat kecil dengan dada kuning, perut putih, dan tarsus tipis panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0002_21819.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the small bird has a yellow breast and a brown head.",
+          "indo": "burung kecil itu memiliki dada berwarna kuning dan kepala berwarna coklat."
+        },
+        {
+          "english": "a small bird that is brown and white with a vivid yellow throat,breast and belly.",
+          "indo": "seekor burung kecil berwarna coklat dan putih dengan tenggorokan, dada dan perut berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a yellow breast, a grey crown, and a black bill",
+          "indo": "burung ini memiliki dada berwarna kuning, mahkota berwarna abu-abu, dan paruh berwarna hitam"
+        },
+        {
+          "english": "a small bird with a white and yellow belly and neck, with a grayish head and wings",
+          "indo": "burung kecil dengan perut dan leher berwarna putih kuning, kepala dan sayap berwarna keabu-abuan"
+        },
+        {
+          "english": "this is a small bird with a yellow breast, white belly and a grey wing and head.",
+          "indo": "ini adalah burung kecil dengan dada kuning, perut putih dan sayap serta kepala abu-abu."
+        },
+        {
+          "english": "this long-tailed gray-brown bird is white around the eyes and on the abdomen, and bright yellow on the belly and breast.",
+          "indo": "burung ekor panjang berwarna abu-abu kecokelatan ini berwarna putih di sekitar mata dan perutnya, serta berwarna kuning cerah di perut dan dadanya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a pointy head and stands out because of its very bright yellow chest.",
+          "indo": "burung ini memiliki kepala yang runcing dan menonjol karena dadanya yang berwarna kuning sangat cerah."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow chest",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan dada berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0005_21828.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and belly as well as a small bill.",
+          "indo": "burung tersebut memiliki dada dan perut berwarna kuning serta paruh yang kecil."
+        },
+        {
+          "english": "this is a bird with a yellow breast, grey belly and a brown back.",
+          "indo": "ini adalah burung dengan dada kuning, perut abu-abu, dan punggung coklat."
+        },
+        {
+          "english": "this small bird is light brown with a bright yellow throat and belly.",
+          "indo": "burung kecil ini berwarna coklat muda dengan tenggorokan dan perut berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a yellow belly, breast, throat and abdomen with a brown back, nape and coverts.",
+          "indo": "burung ini memiliki perut, dada, tenggorokan dan perut berwarna kuning dengan punggung, tengkuk dan bulu berwarna coklat."
+        },
+        {
+          "english": "small grey bird with a bright yellow belly and breast and small black bill",
+          "indo": "burung kecil berwarna abu-abu dengan perut dan dada berwarna kuning cerah serta paruh kecil berwarna hitam"
+        },
+        {
+          "english": "this bird is grey with yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a yellow breast and throat with grey wings.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna kuning dengan sayap berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a grey body with a bright yellow chest.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan dada berwarna kuning cerah."
+        },
+        {
+          "english": "a small yellow breasted bird with a white belly and abdomen that also has a black bill and white cheekpatch.",
+          "indo": "burung kecil berdada kuning dengan perut dan perut berwarna putih, juga memiliki paruh hitam dan penutup pipi berwarna putih."
+        },
+        {
+          "english": "this bird is yellow with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0008_21856.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has sharp pointed beak, with yellow throat and breast, dark green nape and black feet.",
+          "indo": "Burung ini memiliki paruh yang runcing, tenggorokan dan dada berwarna kuning, tengkuk berwarna hijau tua, dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has a lot of yellow on the underside and grey on the top including it's wings.",
+          "indo": "burung ini mempunyai banyak warna kuning di bagian bawah dan abu-abu di bagian atas termasuk sayapnya."
+        },
+        {
+          "english": "this bird has yellow breast and white abdomen as well as brown coverts and black bill.",
+          "indo": "burung ini memiliki dada berwarna kuning dan perut berwarna putih serta bulu berwarna coklat dan paruh berwarna hitam."
+        },
+        {
+          "english": "yellow and gray bird with an average size beak and head.",
+          "indo": "burung berwarna kuning dan abu-abu dengan ukuran paruh dan kepala rata-rata."
+        },
+        {
+          "english": "bird with black beak that is sharp and slightly curved, and yellow throat, breast, and gray crown and nape",
+          "indo": "burung dengan paruh berwarna hitam yang runcing dan agak melengkung, serta tenggorokan, dada berwarna kuning, serta ubun-ubun dan tengkuk berwarna abu-abu"
+        },
+        {
+          "english": "the small bird has a belly that is yellow in color and a back that is grey.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this bird is black and yellow in color, with a curved black beak.",
+          "indo": "burung ini berwarna hitam kuning, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "this little bird has a bright yellow breast and belly, while having green wings and head, along with white eyerings.",
+          "indo": "Burung kecil ini memiliki dada dan perut berwarna kuning cerah, sayap dan kepala berwarna hijau, serta cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this is a green bird with a yellow and white underbelly and white streaks around its eyes.",
+          "indo": "ini adalah burung berwarna hijau dengan perut berwarna kuning dan putih serta guratan putih di sekitar matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0010_21777.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast as well as belly that is fluffy.",
+          "indo": "burung tersebut memiliki dada berwarna kuning serta perut yang mengembang."
+        },
+        {
+          "english": "this bird has a small bill, a yellow breast, and a white abodomen",
+          "indo": "burung ini memiliki paruh kecil, dada berwarna kuning, dan perut berwarna putih"
+        },
+        {
+          "english": "this is a green and yellow bird it has a yellow belly",
+          "indo": "ini adalah burung berwarna hijau dan kuning, perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a bright yellow breast with a white belly but is otherwise dark grey with a white circle around its eye.",
+          "indo": "Burung ini memiliki dada berwarna kuning cerah dengan perut berwarna putih, namun sebaliknya berwarna abu-abu tua dengan lingkaran putih di sekeliling matanya."
+        },
+        {
+          "english": "this small bird has a yellow belly and grey head and back with large black eyes.",
+          "indo": "burung kecil ini memiliki perut kuning dan kepala serta punggung berwarna abu-abu dengan mata hitam besar."
+        },
+        {
+          "english": "this is a small bird, grey in color with a bright yellow breast",
+          "indo": "ini burung kecil berwarna abu-abu dengan dada kuning cerah"
+        },
+        {
+          "english": "this color bird has a yellow breast, white stomach, black and white beak.",
+          "indo": "burung berwarna ini memiliki dada kuning, perut putih, paruh hitam putih."
+        },
+        {
+          "english": "this bird is yellow with green and has a very short beak.",
+          "indo": "burung ini berwarna kuning hijau dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this small yellow breasted bird has a grey back and small bill.",
+          "indo": "burung kecil berdada kuning ini memiliki punggung berwarna abu-abu dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0011_21820.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a small bird has a golden belly, a short white beak and a white vent.",
+          "indo": "seekor burung kecil memiliki perut emas, paruh pendek berwarna putih, dan lubang kloaka berwarna putih."
+        },
+        {
+          "english": "a colorful, small bird with a yellow throat, breast and belly, white vent, and green on its back and rectrices",
+          "indo": "burung kecil berwarna-warni dengan tenggorokan kuning, dada dan perut, lubang putih, dan hijau di punggung dan rectrices "
+        },
+        {
+          "english": "this is a bird with a grey belly, yellow breast and a green back.",
+          "indo": "ini adalah burung dengan perut abu-abu, dada kuning, dan punggung hijau."
+        },
+        {
+          "english": "this bird is white, black, and yellow in color with a white beak, and white rings.",
+          "indo": "burung ini berwarna putih, hitam, dan kuning dengan paruh berwarna putih, dan cincin berwarna putih."
+        },
+        {
+          "english": "the bird has a yellow breast and belly and a black eyering.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is green with white and yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna hijau dengan warna putih dan kuning serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a green bird with a yellow throat, breast and belly and a white abdomen",
+          "indo": "ini adalah burung berwarna hijau dengan tenggorokan, dada dan perut berwarna kuning, serta perut berwarna putih"
+        },
+        {
+          "english": "a bird with yellow breast and white belly and the head is small compared to its body",
+          "indo": "burung dengan dada kuning dan perut putih serta kepala lebih kecil dibandingkan badannya"
+        },
+        {
+          "english": "this small, rounded bird has a bright yellow and white belly, and is gray across the top.",
+          "indo": "burung kecil berbentuk bulat ini memiliki perut berwarna kuning cerah dan putih, serta bagian atasnya berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow belly and green wings and tail.",
+          "indo": "seekor burung kecil dengan perut kuning dan sayap serta ekor berwarna hijau."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0012_21961.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow belly and chest and a black bill that is slightly curved.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning serta paruh berwarna hitam yang agak melengkung."
+        },
+        {
+          "english": "a small sized bird that has a yellow chest and a medium sized pointed bill",
+          "indo": "burung berukuran kecil yang memiliki dada berwarna kuning dan paruh runcing berukuran sedang"
+        },
+        {
+          "english": "a bird with black crown,back and tail, yellow breast, throat and body, the bill is black and pointed",
+          "indo": "burung dengan mahkota, punggung dan ekor berwarna hitam, dada, tenggorokan dan badan berwarna kuning, paruhnya berwarna hitam dan runcing"
+        },
+        {
+          "english": "a small grey bird with a yellow belly and breast, and black bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan perut dan dada berwarna kuning, serta paruh berwarna hitam."
+        },
+        {
+          "english": "a small dark brown bird with a bright yellow breasts, a long tail feather and a short and rounded black beak.",
+          "indo": "burung kecil berwarna coklat tua dengan dada kuning cerah, bulu ekor panjang dan paruh hitam pendek bulat."
+        },
+        {
+          "english": "this small bird has a white superciliary surrounded by light yellow-brown with a yellow throat and breast which fade into a cream colored belly.",
+          "indo": "Burung kecil ini memiliki superciliary berwarna putih dikelilingi warna kuning kecoklatan muda dengan tenggorokan dan dada berwarna kuning yang memudar menjadi perut berwarna krem."
+        },
+        {
+          "english": "this bird has a belly that is white near the rump and yellow up to the throat",
+          "indo": "Burung ini mempunyai perut yang berwarna putih di dekat pantat dan berwarna kuning sampai ke tenggorokan"
+        },
+        {
+          "english": "this bird is brown on the crown, nape, and back and yellow on the throat and belly with white on the abdomen and superciliary.",
+          "indo": "burung ini berwarna coklat pada bagian ubun-ubun, tengkuk, dan punggung serta berwarna kuning pada bagian tenggorokan dan perut dengan warna putih pada bagian perut dan superciliary."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a yellow belly and breast, gray head, and yellowish gray wings and tail.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning, kepala berwarna abu-abu, serta sayap dan ekor berwarna abu-abu kekuningan."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0013_22008.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this small bird has a yellow belly with dark gray and yellow flecked back markings.",
+          "indo": "Burung kecil ini memiliki perut berwarna kuning dengan corak punggung berwarna abu-abu tua dan bintik kuning."
+        },
+        {
+          "english": "a small bird with a yellow belly, and a silver bill.",
+          "indo": "seekor burung kecil dengan perut kuning, dan paruh perak."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a white eyebrow and gray crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan alis berwarna putih dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this small round-breasted bird has a vivid yellow throat and abdomen with accents of gray on it's head and feathers.",
+          "indo": "burung kecil berdada bulat ini memiliki tenggorokan dan perut berwarna kuning cerah dengan aksen abu-abu di kepala dan bulunya."
+        },
+        {
+          "english": "this is a bird with a yellow belly and throat and a grey back and head.",
+          "indo": "ini adalah burung dengan perut dan tenggorokan berwarna kuning serta punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this colorful bird has a yellow belly and breast, brown and yellow wings, the bill is short and pointed, and black tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna kuning, sayap berwarna coklat dan kuning, paruh pendek dan runcing, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this small gray bird has a bright neon green throat and breast and a pointed gray beak",
+          "indo": "burung kecil berwarna abu-abu ini memiliki tenggorokan dan dada berwarna hijau neon terang serta paruh abu-abu yang runcing"
+        },
+        {
+          "english": "this bird has a bright yellow belly and throat, green back and wings, and a white eyering.",
+          "indo": "burung ini memiliki perut dan tenggorokan berwarna kuning cerah, punggung dan sayap berwarna hijau, serta cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this small bird has a yellow throat and breast and yellow striped primaries with a light gray wing and a white eyering.",
+          "indo": "burung kecil ini memiliki tenggorokan dan dada berwarna kuning serta bulu primer bergaris kuning dengan sayap abu-abu muda dan cincin mata berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0014_21970.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and belly as well as a black bill.",
+          "indo": "burung tersebut memiliki dada dan perut berwarna kuning serta paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a bright yellow breast with black wings, head, and tail and white around the eye.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah dengan sayap, kepala, dan ekor berwarna hitam, serta sekeliling mata berwarna putih."
+        },
+        {
+          "english": "this bird is white, yellow and black in color with a black curved beak and black eye rings.",
+          "indo": "burung ini berwarna putih, kuning dan hitam dengan paruh melengkung hitam dan cincin mata hitam."
+        },
+        {
+          "english": "a bird with a yellow belly and chin, a black tail, wings, and head",
+          "indo": "burung dengan perut dan dagu berwarna kuning, ekor, sayap, dan kepala berwarna hitam"
+        },
+        {
+          "english": "this bird is yellow with blue on its back and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan punggung berwarna biru dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has feathers that are blue and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna biru dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a yellow chest, its head is small, and its beak is pointed.",
+          "indo": "burung kecil berdada kuning, kepalanya kecil, dan paruhnya runcing."
+        },
+        {
+          "english": "this bird has a distinctive bright yellow neck, side, and belly with steel grey wing and tail feathers and a steel grey covering on its head with a white patch around its eye.",
+          "indo": "burung ini memiliki ciri khas leher, samping, dan perut berwarna kuning cerah dengan sayap dan bulu ekor berwarna abu-abu baja serta penutup kepala berwarna abu-abu baja dengan bercak putih di sekitar matanya."
+        },
+        {
+          "english": "this bird has yellow breast and belly, with a white cheek patch.",
+          "indo": "burung ini memiliki dada dan perut berwarna kuning, dengan bercak pipi berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and yellow",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0017_21719.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and brown wings and brown tail feathers.",
+          "indo": "burung ini memiliki dada berwarna kuning dan sayap berwarna coklat serta bulu ekor berwarna coklat."
+        },
+        {
+          "english": "this greenish-gray bird has a yellow throat, breast and belly.",
+          "indo": "burung berwarna abu-abu kehijauan ini memiliki tenggorokan, dada, dan perut berwarna kuning."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a grey back.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan punggung abu-abu."
+        },
+        {
+          "english": "a yellow and brown bird with a white superciliary, a yellow throat, breast, and belly, a white abdomen, and light brown wings.",
+          "indo": "burung berwarna kuning dan coklat dengan superciliary berwarna putih, tenggorokan, dada, dan perut berwarna kuning, perut berwarna putih, dan sayap berwarna coklat muda."
+        },
+        {
+          "english": "a small angry bird with a bright yellow belly and a shirt pointy black bill.",
+          "indo": "seekor burung pemarah kecil dengan perut kuning cerah dan kemeja paruh hitam runcing."
+        },
+        {
+          "english": "this greenish-gray bird has a yellow breast and belly and a black pointed beak.",
+          "indo": "burung berwarna abu-abu kehijauan ini memiliki dada dan perut berwarna kuning serta paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this greyish bird has a mustard yellow throat and belly, thin white eyebrow and shaded yellow secondaries.",
+          "indo": "Burung berwarna keabu-abuan ini memiliki tenggorokan dan perut berwarna kuning sawi, alis tipis berwarna putih, dan bulu sekunder berwarna kuning."
+        },
+        {
+          "english": "this bird has a bright yellow belly and a brown back and wings.",
+          "indo": "burung ini memiliki perut berwarna kuning cerah serta punggung dan sayap berwarna coklat."
+        },
+        {
+          "english": "grey and yellow bird in mid chirp on a caretakers hand.",
+          "indo": "burung berwarna abu-abu dan kuning di tengah kicauan di tangan pengasuh."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a yellow breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, dengan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0022_21944.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a black bird with yellow belly with a small beak and average sized head.",
+          "indo": "seekor burung hitam dengan perut kuning dengan paruh kecil dan kepala berukuran sedang."
+        },
+        {
+          "english": "this is a brown bird with a yellow breast and a small beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada kuning dan paruh kecil."
+        },
+        {
+          "english": "this is a brown bird with a yellow belly with a white eyering",
+          "indo": "ini adalah burung berwarna coklat dengan perut kuning dengan cincin mata berwarna putih"
+        },
+        {
+          "english": "this bird has a brown head, back, nape and coverts.",
+          "indo": "burung ini memiliki kepala, punggung, tengkuk dan bulu berwarna coklat."
+        },
+        {
+          "english": "this bird is yellow and brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna kuning kecokelatan dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this gray bird has a white eyebrow and yellow throat, breast and belly.",
+          "indo": "burung berwarna abu-abu ini memiliki alis berwarna putih dan tenggorokan, dada, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a small downward-curved beak and it also has an orange belly and chest.",
+          "indo": "burung ini memiliki paruh kecil yang melengkung ke bawah dan juga memiliki perut dan dada berwarna oranye."
+        },
+        {
+          "english": "this small brown bird has a yellow neck and chest, white undertail coverts, and white above and below it's eyes.",
+          "indo": "Burung kecil berwarna coklat ini memiliki leher dan dada berwarna kuning, bulu bagian bawah berwarna putih, serta berwarna putih di atas dan di bawah matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0023_21664.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a yellow belly and neck with a gray crest, nape, wings, and tail.",
+          "indo": "burung ini memiliki perut dan leher berwarna kuning dengan jambul, tengkuk, sayap, dan ekor berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a yellow breast with a short black beak and a grey crown.",
+          "indo": "burung ini memiliki dada berwarna kuning dengan paruh pendek berwarna hitam dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a dark back and head.",
+          "indo": "ini adalah burung dengan perut berwarna putih, dada kuning, serta punggung dan kepala berwarna gelap."
+        },
+        {
+          "english": "this bird has a bright yellow breast and a small bill.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah dan paruh kecil."
+        },
+        {
+          "english": "this bright bird is mostly gray and white from crown to wings, but bright yellow at its breast.",
+          "indo": "burung cerah ini sebagian besar berwarna abu-abu dan putih dari ubun-ubun hingga sayap, tetapi berwarna kuning cerah di bagian dadanya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this small gray bird has a yellow throat and breast with a white belly.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki tenggorokan dan dada berwarna kuning dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "black crown, nape and back; black winglets; yellow throat and breast' white abdomen; short bill, short tarsus",
+          "indo": "mahkota hitam, tengkuk dan punggung; sayap hitam; tenggorokan kuning dan perut putih dada; paruh pendek, tarsus pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0026_21845.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a yellow breast and a dark grey face.",
+          "indo": "burung ini memiliki dada berwarna kuning dan wajah berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has a yellow breast turning into white near its tail with a gray head and a black beak.",
+          "indo": "burung ini memiliki dada berwarna kuning berubah menjadi putih di dekat ekornya dengan kepala berwarna abu-abu dan paruh berwarna hitam."
+        },
+        {
+          "english": "small yellow brown and white bird with long tarsus and medium black beak",
+          "indo": "burung kecil berwarna kuning coklat dan putih dengan tarsus panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "a medium sized bird that has a yellow chest and a medium sized bill",
+          "indo": "burung berukuran sedang yang memiliki dada berwarna kuning dan paruh berukuran sedang"
+        },
+        {
+          "english": "this bird has a lush yellow belly, with white near its hide, and black along its head and back, and it also has dark black eyes.",
+          "indo": "Burung ini memiliki perut berwarna kuning subur, warna putih di dekat kulitnya, dan warna hitam di sepanjang kepala dan punggungnya, serta memiliki mata berwarna hitam pekat."
+        },
+        {
+          "english": "a small colorful bird comprising of a white eye ring, charcoal grey face, head and back, and bright yellow along its throat, cheek, breast and belly, and also has white along its rump and vent.",
+          "indo": "seekor burung kecil berwarna-warni yang terdiri dari cincin mata berwarna putih, muka, kepala dan punggung berwarna abu-abu arang, dan berwarna kuning cerah di sepanjang tenggorokan, pipi, dada dan perutnya, serta berwarna putih di sepanjang pantat dan lubang anginnya."
+        },
+        {
+          "english": "this bird has a black bill as well as brown coverts",
+          "indo": "burung ini mempunyai paruh berwarna hitam dan juga bulu berwarna coklat"
+        },
+        {
+          "english": "a bird with a yellow breast and a short pointed beak.",
+          "indo": "seekor burung dengan dada kuning dan paruh runcing pendek."
+        },
+        {
+          "english": "a bird with a white abdomen, yellow breast, and grey topside.",
+          "indo": "seekor burung dengan perut putih, dada kuning, dan bagian atas berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0029_22017.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a yellow breast and a grey belly with a small black beak.",
+          "indo": "burung ini memiliki dada berwarna kuning dan perut berwarna abu-abu dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a bird with a tiny triangular bill, whtie eyering, and orange breast.",
+          "indo": "seekor burung dengan paruh kecil berbentuk segitiga, cincin mata berair, dan dada berwarna oranye."
+        },
+        {
+          "english": "gray bird with brownish wings, fluffy orange breast and throat and a sharp black beak.",
+          "indo": "burung berwarna abu-abu dengan sayap kecoklatan, dada dan tenggorokan berbulu jingga, serta paruh hitam tajam."
+        },
+        {
+          "english": "this small bird is predominantly gray with a yellow breast and a black slightly curved bill.",
+          "indo": "Burung kecil ini didominasi warna abu-abu dengan dada berwarna kuning dan paruh berwarna hitam agak melengkung."
+        },
+        {
+          "english": "this bird is yellow brown and white in color with a sharp black beak, and white eye rings.",
+          "indo": "burung ini berwarna kuning coklat putih dengan paruh hitam runcing, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this particular bird has a yellow belly and breast with gray secondaries and rump",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan bagian bulu sekunder dan pantat berwarna abu-abu"
+        },
+        {
+          "english": "the small bird has a green back, small straight bill and yellow belly.",
+          "indo": "burung kecil memiliki punggung berwarna hijau, paruh kecil lurus dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a white eye ring, green and black secondaries and grey coverts.",
+          "indo": "burung ini memiliki cincin mata berwarna putih, bulu sekunder berwarna hijau dan hitam, serta bulu berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow bellyt",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellowbody",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0030_21964.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has yellow throat, breast and white abdomen and superciliary, black beak, wings, tarsus and feet.",
+          "indo": "burung ini mempunyai tenggorokan berwarna kuning, dada dan perut berwarna putih serta superciliary, paruh, sayap, tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "a small bird with a yellow breast, throat and belly, and a light grey vent and tarsus.",
+          "indo": "seekor burung kecil dengan dada, tenggorokan dan perut berwarna kuning, serta lubang kloaka dan tarsus berwarna abu-abu muda."
+        },
+        {
+          "english": "this little bird has a white belly, yellow breast, white eyebrows, and a short pointy bill.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, dada berwarna kuning, alis berwarna putih, dan paruh pendek yang runcing."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a bird with a white belly, a yellow breast and a gray wing and head.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, sayap serta kepala abu-abu."
+        },
+        {
+          "english": "the neckline is yellow, the beak is short and pointed, and the head is small compared to the body.",
+          "indo": "garis lehernya berwarna kuning, paruhnya pendek dan runcing, serta kepalanya kecil dibandingkan badannya."
+        },
+        {
+          "english": "this small bird is yellow and white underneath with a very dark brown color on top except for above and below the eye which shows a white stripe.",
+          "indo": "Burung kecil ini bagian bawahnya berwarna kuning putih dengan warna coklat sangat tua di bagian atas kecuali bagian atas dan bawah matanya yang menunjukkan garis putih."
+        },
+        {
+          "english": "the breast is a bright yellow, belly is white while the beak is short and brown like the rest of the body.",
+          "indo": "dada berwarna kuning cerah, perut berwarna putih sedangkan paruhnya pendek dan berwarna coklat seperti bagian tubuh lainnya."
+        },
+        {
+          "english": "this medium-sized bird has bright yellow belly, and bright green feathers.",
+          "indo": "burung berukuran sedang ini memiliki perut berwarna kuning cerah, dan bulu berwarna hijau cerah."
+        },
+        {
+          "english": "the yellow belly bird has dark wingbars, crown and beak, with a patch of white above it's eyes.",
+          "indo": "burung perut kuning memiliki garis sayap, mahkota dan paruh berwarna gelap, dengan bercak putih di atas matanya."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0032_21823.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "small yellow and white bird with grey feathers from the head down to the tail.",
+          "indo": "burung kecil berwarna kuning putih dengan bulu abu-abu dari kepala hingga ekor."
+        },
+        {
+          "english": "the bird has an orange chest, a white abdomen, and dark gray wings and a dark face.",
+          "indo": "burung itu memiliki dada berwarna oranye, perut berwarna putih, dan sayap berwarna abu-abu tua serta wajah berwarna gelap."
+        },
+        {
+          "english": "this bird has a grey crown yellow breasts and white abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, dada kuning, dan perut berwarna putih."
+        },
+        {
+          "english": "a long bodied bird with a yellow chest, white stomach, and gray tail",
+          "indo": "burung berbadan panjang dengan dada kuning, perut putih, dan ekor abu-abu"
+        },
+        {
+          "english": "this is a gray bird with a yellow chest and white belly.",
+          "indo": "ini adalah burung abu-abu dengan dada kuning dan perut putih."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna kuning"
+        },
+        {
+          "english": "the bird has a yellow belly and a grey back.",
+          "indo": "burung itu memiliki perut kuning dan punggung abu-abu."
+        },
+        {
+          "english": "this bird has a bright yellow chest with a grey crown and a long tail.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah dengan mahkota berwarna abu-abu dan ekor yang panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "yellow throated, white bellied small bird with a short beak and broad chest.",
+          "indo": "burung kecil bertenggorokan kuning, perut putih dengan paruh pendek dan dada lebar."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0033_21873.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the little bird has a bright yellow chest accompanied by a grey and brown backside with white circles around its eyes.",
+          "indo": "Burung kecil ini memiliki dada berwarna kuning cerah disertai punggung berwarna abu-abu coklat dengan lingkaran putih di sekitar matanya."
+        },
+        {
+          "english": "a brown bird with a yellow throat and belly, and white eyebrows is sitting on a branch.",
+          "indo": "seekor burung coklat dengan tenggorokan dan perut kuning, dan alis putih sedang duduk di dahan."
+        },
+        {
+          "english": "this is a yellow bird with grey wings and a large black beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh hitam besar."
+        },
+        {
+          "english": "this bird is yellow with grey on its back and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan punggung berwarna abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a yellow belly and breast and a short bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna kuning serta paruh yang pendek."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow and brown in color, with a black beak.",
+          "indo": "burung ini berwarna kuning kecokelatan, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this tiny bird has a golden breast and belly with brown wings.",
+          "indo": "burung mungil ini memiliki dada dan perut berwarna emas dengan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a bright orange gradienting to yellow breast, white abdomen, medium brown tinged with yellow body, and a black and white banded face, with a short sharp black beak.",
+          "indo": "Burung ini memiliki dada berwarna jingga cerah gradasi hingga kuning, perut berwarna putih, badan berwarna coklat sedang dengan tubuh kuning, dan muka bergaris hitam putih, dengan paruh pendek berwarna hitam runcing."
+        },
+        {
+          "english": "this bright bird has a bright yellow and orange breast, with a gray nape and white eye brows.",
+          "indo": "burung berwarna cerah ini memiliki dada berwarna kuning cerah dan oranye, dengan tengkuk berwarna abu-abu dan superciliary mata berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0034_21955.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has small and sharp beak, with yellow throat, yellow breast and belly, with brown wingbars.",
+          "indo": "Burung ini memiliki paruh yang kecil dan tajam, tenggorokan berwarna kuning, dada dan perut berwarna kuning, dengan garis sayap berwarna coklat."
+        },
+        {
+          "english": "this little bird has a bright yellow belly and breast with a black crown and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna kuning cerah dengan mahkota berwarna hitam dan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small yellow bird with dark gray wings, green vent and a short black bill.",
+          "indo": "burung kecil berwarna kuning dengan sayap abu-abu tua, lubang hijau, dan paruh hitam pendek."
+        },
+        {
+          "english": "this is a small bird with a medium sized black bill and a yellow belly with tan colored inner and outer rectrices.",
+          "indo": "ini adalah burung kecil dengan paruh hitam berukuran sedang dan perut kuning dengan rectrices inner dan outer rectrices berwarna cokelat."
+        },
+        {
+          "english": "this bird is yellow with black on its head and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan kepala berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a yellow belly and abdoment with a black bill and crown and darker grey outer rectrices.",
+          "indo": "burung ini memiliki perut dan perut berwarna kuning dengan paruh dan mahkota berwarna hitam serta outer rectrices berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow with black wings",
+          "indo": "burung ini memiliki perut berwarna kuning dengan sayap berwarna hitam"
+        },
+        {
+          "english": "this gray bird has a yellow throat, breast and belly and a a long tail.",
+          "indo": "burung berwarna abu-abu ini memiliki tenggorokan, dada dan perut berwarna kuning serta ekor yang panjang."
+        },
+        {
+          "english": "this bird is yellow-breasted, with a curved bill.",
+          "indo": "burung ini berdada kuning, dengan paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0035_21870.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a grey head with a yellow body and white abdomen and rump.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu dengan tubuh kuning dan perut serta pantat berwarna putih."
+        },
+        {
+          "english": "a small bird with a yellow breast, and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan dada kuning, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird is yellow in color, and has a sharp black beak with a white eye ring.",
+          "indo": "burung ini berwarna kuning, dan mempunyai paruh berwarna hitam runcing dengan cincin mata berwarna putih."
+        },
+        {
+          "english": "small bird with a yellow breast and a bill that curves downwards",
+          "indo": "burung kecil dengan dada kuning dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird is yellow with grey on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan kepala berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a bright yellow throat and chest, white belly, and is gray from cap to tail.",
+          "indo": "burung kecil ini memiliki tenggorokan dan dada berwarna kuning cerah, perut berwarna putih, dan berwarna abu-abu dari tutup hingga ekor."
+        },
+        {
+          "english": "the small bird has a gray crown, a yellow throat, and a white belly.",
+          "indo": "burung kecil memiliki mahkota berwarna abu-abu, tenggorokan kuning, dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with white belly, yellow breast, and grey head.",
+          "indo": "seekor burung kecil dengan perut putih, dada kuning, dan kepala abu-abu."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and the body is yellow.",
+          "indo": "burungnya kecil, paruhnya runcing, dan badannya berwarna kuning."
+        },
+        {
+          "english": "yellow breasted bird, yellow and white wings, gray wing bar, gray head, back and tail.",
+          "indo": "burung dada kuning, sayap kuning putih, garis sayap abu abu, kepala abu abu, punggung dan ekor."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0039_21654.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a white belly, yellow breast, and a gray crown.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna kuning, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "a small colorful bird with a yellow throat, and breast, with a grey belly and vent.",
+          "indo": "seekor burung kecil berwarna-warni dengan tenggorokan dan dada berwarna kuning, dengan perut dan lubang kloaka berwarna abu-abu."
+        },
+        {
+          "english": "a medium sized bird with a yellow breast, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan dada kuning, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "the bird has a grey back, nape, and rump, with a yellow belly and throat, and white abdomen.",
+          "indo": "burung ini memiliki punggung, tengkuk, dan pantat berwarna abu-abu, dengan perut dan tenggorokan berwarna kuning, serta perut berwarna putih."
+        },
+        {
+          "english": "bird with white eyering, slender pointed bill, and yellow breast.",
+          "indo": "burung bermata putih, paruh runcing ramping, dan dada kuning."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this is a grey bird with a white superciliary, yellow throat and breast, white abdomen to undertail coverts.",
+          "indo": "ini adalah burung abu-abu dengan superciliary putih, tenggorokan dan dada kuning, perut putih hingga bulu ekor bawah."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this large gray bird has a white belly and a vivid yellow throat and breast.",
+          "indo": "burung besar berwarna abu-abu ini memiliki perut berwarna putih dan tenggorokan serta dada berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0041_21683.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a pointy black bill, with yellow breast leading down to a grey tail.",
+          "indo": "burung ini mempunyai paruh berwarna hitam runcing, dengan dada berwarna kuning mengarah ke bawah hingga ekor berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a black eyering and a yellow breast and belly.",
+          "indo": "burung itu memiliki cincin mata hitam dan dada serta perut berwarna kuning."
+        },
+        {
+          "english": "a small grey bird with a grey crown, white superciliary, black cheek patch and yellow throat and breast.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan mahkota abu-abu, superciliary berwarna putih, bercak pipi hitam, serta tenggorokan dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird has a grey belly, yellow breast, white eyebrows, and short pointy bill.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, dada berwarna kuning, alis berwarna putih, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this vibrant bird features orange and greens colors, as well as a stout, sharp beak.",
+          "indo": "burung yang cerah ini memiliki warna oranye dan hijau, serta paruh yang kokoh dan tajam."
+        },
+        {
+          "english": "this small bird has a bright yellow belly and breast, long gray tail and a short black beak.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna kuning cerah, ekor panjang berwarna abu-abu, dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and yellow on the breasts and throat",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan kuning pada bagian dada dan tenggorokan"
+        },
+        {
+          "english": "the bird has a yellow belly and breast and a grey torso.",
+          "indo": "burung itu memiliki perut dan dada berwarna kuning serta badan berwarna abu-abu."
+        },
+        {
+          "english": "this bird is white, yellow, and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna putih, kuning, dan coklat, serta memiliki paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0044_22106.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a bird with a half yellow, half white breast, short black pointed bill and gray-brown primaries.",
+          "indo": "seekor burung dengan dada setengah kuning, setengah putih, paruh pendek hitam runcing dan warna bulu primer abu-abu coklat."
+        },
+        {
+          "english": "small bird with yellow bally and throat black head small flat beak and brown secondaries.",
+          "indo": "burung kecil dengan bola kuning dan tenggorokan, kepala hitam, paruh kecil datar dan bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "the bird has a brown back, tail and wings, a bright yellow throat, breast and belly, a white abdomen and a black bill.",
+          "indo": "burung ini memiliki punggung, ekor dan sayap berwarna coklat, tenggorokan, dada dan perut berwarna kuning cerah, perut berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with a black beak and white face, along with a orange-yellow chin, chest and belly.",
+          "indo": "seekor burung kecil dengan paruh hitam dan wajah putih, serta dagu, dada, dan perut berwarna oranye-kuning."
+        },
+        {
+          "english": "this bird has a narrow black bill and a yellow breast",
+          "indo": "burung ini memiliki paruh sempit berwarna hitam dan dada berwarna kuning"
+        },
+        {
+          "english": "this colorful bird has a dominant a golden yellow breast offset by a white belly, grey back, and white eyering with a pointed, black beak.",
+          "indo": "Burung berwarna-warni ini memiliki dada dominan berwarna kuning keemasan diimbangi dengan perut berwarna putih, punggung berwarna abu-abu, dan cincin mata berwarna putih dengan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this gray bird has a yellow throat, breast and belly, white abdomen and a black pointed beak",
+          "indo": "burung berwarna abu-abu ini memiliki tenggorokan, dada dan perut berwarna kuning, perut berwarna putih dan paruh runcing berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow chest with white and brown feathers covering the rest of it's body.",
+          "indo": "burung ini memiliki dada berwarna kuning dengan bulu berwarna putih dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0048_21797.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a yellow belly with a black back and a white eyering.",
+          "indo": "burung ini memiliki perut berwarna kuning dengan punggung berwarna hitam dan cincin mata berwarna putih."
+        },
+        {
+          "english": "bird has brown body feathers, yellow breast feather, and slight curve beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna kuning, dan paruh agak melengkung"
+        },
+        {
+          "english": "this colorful bird has a yellow belly and throat, green nape, back, and crown, white eye ring, black cheekpatch, and a white rump.",
+          "indo": "burung berwarna-warni ini memiliki perut dan tenggorokan berwarna kuning, tengkuk, punggung, dan ubun-ubun berwarna hijau, cincin mata berwarna putih, penutup pipi hitam, dan pantat berwarna putih."
+        },
+        {
+          "english": "small grey bird with yellow belly and a small beak",
+          "indo": "burung kecil berwarna abu-abu dengan perut kuning dan paruh kecil"
+        },
+        {
+          "english": "this bird has a yellow throat, belly, abdomen and side, with a brown colored covert and head.",
+          "indo": "burung ini memiliki tenggorokan, perut, perut dan samping berwarna kuning, dengan bulu dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "a small bird with a yellow belly, short beak, and long tail feathers.",
+          "indo": "burung kecil dengan perut kuning, paruh pendek, dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird has a green crown as well as a yellow belly",
+          "indo": "burung ini memiliki mahkota berwarna hijau dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a bright yellow under belly and a white eyebrow",
+          "indo": "burung ini memiliki perut bagian bawah berwarna kuning cerah dan alis berwarna putih"
+        },
+        {
+          "english": "this bird has a dark beck with green on top of the head, yellow chest with white tale.",
+          "indo": "burung ini memiliki paruh berwarna gelap dengan warna hijau di atas kepala, dada berwarna kuning dengan kisah putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0052_21866.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a grey bird with a yellow neck and belly.",
+          "indo": "seekor burung abu-abu dengan leher dan perut kuning."
+        },
+        {
+          "english": "a brown and yellow bird with a grey beak and yellow breast.",
+          "indo": "burung berwarna coklat dan kuning dengan paruh abu-abu dan dada kuning."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a grey head.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan kepala abu-abu."
+        },
+        {
+          "english": "a small bird with a round yellow and gray colored feathers.",
+          "indo": "seekor burung kecil dengan bulu bulat berwarna kuning dan abu-abu."
+        },
+        {
+          "english": "small bird with a white eye ring, bright yellow breast and chest, white vent, and an olive-colored back.",
+          "indo": "burung kecil dengan cincin mata berwarna putih, dada dan dada berwarna kuning cerah, lubang kloaka putih, dan punggung berwarna zaitun."
+        },
+        {
+          "english": "this small bird has gray wings and head with black patch around the eye, white body and feet, yellow breast and a white beak.",
+          "indo": "Burung kecil ini memiliki sayap dan kepala berwarna abu-abu dengan bercak hitam di sekitar mata, badan dan kaki berwarna putih, dada berwarna kuning, dan paruh berwarna putih."
+        },
+        {
+          "english": "this bird is brown, and yellow in color, with a sharp beak.",
+          "indo": "burung ini berwarna coklat, dan berwarna kuning, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow breast and belly",
+          "indo": "burung ini memiliki dada dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has grey wings, a grey crown, and a yellow breast.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu, mahkota berwarna abu-abu, dan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0058_21864.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a yellow belly and breast, with gray crown and white eyebrows.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning, dengan mahkota berwarna abu-abu dan alis berwarna putih."
+        },
+        {
+          "english": "this bird is yellow with black on its back and white stripes on its face.",
+          "indo": "burung ini berwarna kuning dengan warna hitam pada punggungnya dan garis putih pada wajahnya."
+        },
+        {
+          "english": "this small bird has a black beak, yellow body, tan feathers covering its back, wings and tail feathers.",
+          "indo": "burung kecil ini memiliki paruh berwarna hitam, badan berwarna kuning, bulu berwarna coklat menutupi punggung, sayap dan bulu ekor."
+        },
+        {
+          "english": "this small gray bird has a bright yellow throat and belly and a thick black beak.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki tenggorokan dan perut berwarna kuning cerah serta paruh berwarna hitam tebal."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast, with a black superciliary and white eyebrow.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna kuning, dengan superciliary berwarna hitam dan superciliary berwarna putih."
+        },
+        {
+          "english": "this small gray bird has white flanks and eyebrows, a short black bill, and yellow throat, breast, and primary wing feathers.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki panggul dan alis berwarna putih, paruh pendek berwarna hitam, serta bulu tenggorokan, dada, dan sayap utama berwarna kuning."
+        },
+        {
+          "english": "this is a small bird, with a yellow breast, green wings, white eyebrows, and a short bill.",
+          "indo": "ini burung kecil, dengan dada kuning, sayap hijau, alis putih, dan paruh pendek."
+        },
+        {
+          "english": "a bird with a black beak and a yellow breast and belly with long tail feathers.",
+          "indo": "burung dengan paruh berwarna hitam dan dada serta perut berwarna kuning dengan bulu ekor yang panjang."
+        },
+        {
+          "english": "a small bird, with a yellow chest, white eyebrows, and a sharp bill.",
+          "indo": "seekor burung kecil, dengan dada kuning, alis putih, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0061_21967.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and belly and a black eyering.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a bright yellow chest, a black beak, white circle around its eyes and brown wings.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah, paruh berwarna hitam, lingkaran putih di sekitar matanya, dan sayap berwarna coklat."
+        },
+        {
+          "english": "a multicolored bird of gray, white, and brown with a striking yellow throat and breast.",
+          "indo": "burung beraneka warna berwarna abu-abu, putih, dan coklat dengan tenggorokan dan dada berwarna kuning mencolok."
+        },
+        {
+          "english": "a colorful bird with a yellow on it's belly and neck, that also has gray wing and tail feathers.",
+          "indo": "burung berwarna-warni dengan warna kuning di perut dan lehernya, serta memiliki bulu sayap dan ekor berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a bright yellow throat, breast and nape area with a white belly and abdomen.",
+          "indo": "burung ini memiliki daerah tenggorokan, dada dan tengkuk berwarna kuning cerah dengan perut dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is yellow with grey and brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan warna abu-abu dan coklat serta memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "the throat down to the belly ate yellow, the bill is short and black.",
+          "indo": "tenggorokan sampai ke perut makan berwarna kuning, paruhnya pendek dan berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow, white, and gray in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, putih, dan abu-abu, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and an orange belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna oranye."
+        },
+        {
+          "english": "a brilliant yellow-throated and chested bird with a short blue hued beak and legs.",
+          "indo": "burung bertenggorokan dan berdada kuning cemerlang dengan paruh dan kaki pendek berwarna biru."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0062_21673.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has white eyerings, a green neck and yellow beast.",
+          "indo": "burung ini mempunyai cincin mata berwarna putih, leher berwarna hijau dan binatang berwarna kuning."
+        },
+        {
+          "english": "a yellow and brown bird with a short black beak and bright yellow breast.",
+          "indo": "burung berwarna kuning coklat dengan paruh pendek berwarna hitam dan dada berwarna kuning cerah."
+        },
+        {
+          "english": "the bird has a grey head and brown and yellow feathers with a short black beak.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu dan bulu berwarna coklat kuning dengan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "a small brown bird with white markings around the eyes.",
+          "indo": "seekor burung kecil berwarna coklat dengan tanda putih di sekitar matanya."
+        },
+        {
+          "english": "a yellow breasted bird with highlight of yellow in the wing bar.",
+          "indo": "burung berdada kuning dengan sentuhan warna kuning pada garis sayap."
+        },
+        {
+          "english": "this particular bird has brown secondaries and a gray bill",
+          "indo": "burung ini memiliki paruh berwarna coklat dan paruh abu-abu"
+        },
+        {
+          "english": "this bird has a white belly, a yellow breast and a brown wing and head.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna kuning, serta sayap dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow breast and a small grey bill",
+          "indo": "burung ini memiliki dada berwarna kuning dan paruh kecil berwarna abu-abu"
+        },
+        {
+          "english": "this bird is brown, yellow, and white in color, and has a black beak.",
+          "indo": "burung ini berwarna coklat, kuning, dan putih, serta memiliki paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0063_21783.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this colorful smaller bird has a white belly, yellow breast, and white eyerings.",
+          "indo": "burung kecil berwarna-warni ini memiliki perut berwarna putih, dada kuning, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this is a bird with an orange breast and a black back.",
+          "indo": "ini adalah burung dengan dada oranye dan punggung hitam."
+        },
+        {
+          "english": "bird with black stripes, yellow breast, and triangular, medium-sized bill.",
+          "indo": "burung bergaris hitam, dada kuning, dan paruh berbentuk segitiga berukuran sedang."
+        },
+        {
+          "english": "the bird has a black crown and a yellow breast and belly.",
+          "indo": "burung itu memiliki mahkota berwarna hitam dan dada serta perut berwarna kuning."
+        },
+        {
+          "english": "this is a bird with a yellow breast, brown wing, black head and a white eyering.",
+          "indo": "ini adalah burung dengan dada kuning, sayap coklat, kepala hitam dan cincin mata putih."
+        },
+        {
+          "english": "small bird with brown feathers, orange belly, black eyes, and a black short beak.",
+          "indo": "burung kecil dengan bulu coklat, perut oranye, mata hitam, dan paruh pendek hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow throat",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan tenggorokannya berwarna kuning"
+        },
+        {
+          "english": "this is a gray bird with a yellow throat and breast and a pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan dan dada kuning serta paruh runcing."
+        },
+        {
+          "english": "the bill is curved and balck, the crown, patches, corverts, secondaries, and primaries are brown.",
+          "indo": "paruhnya melengkung dan hitam, mahkota, bercak, korvert, bulu sekunder, dan bulu primer berwarna coklat."
+        },
+        {
+          "english": "this large bird has feathers in shades of brown, with a bright yellow throat.",
+          "indo": "burung berukuran besar ini memiliki bulu bernuansa coklat, dengan tenggorokan berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0065_22137.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a brown crown, a small and short black bill, and a bright yellow breast and belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh kecil dan pendek berwarna hitam, serta dada dan perut berwarna kuning cerah."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a brown back.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan punggung coklat."
+        },
+        {
+          "english": "this is a small brown bird with a yellow belly and small head.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan perut kuning dan kepala kecil."
+        },
+        {
+          "english": "this bird is yellow, brown and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna kuning, coklat dan putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a yellow breast with brown wingbars and secondaries.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning dengan garis sayap dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a yellow throat and breast with a white abdomen and a grey crown, nape, and back.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna kuning dengan perut berwarna putih dan mahkota, tengkuk, dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this gray bird has a yellow throat, breast and belly and a white abdomen.",
+          "indo": "burung berwarna abu-abu ini memiliki tenggorokan, dada dan perut berwarna kuning, serta perut berwarna putih."
+        },
+        {
+          "english": "this bird is is smaller, it has a yellow breast and belly, the top feathers are brown and white.",
+          "indo": "burung ini berukuran lebih kecil, dada dan perutnya berwarna kuning, bulu bagian atas berwarna coklat dan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "this small bird has a yellow breast, brown crest, and a small bill.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning, jambul coklat, dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0066_21839.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this small bird has a brown body with a bright yellow belly and white eyebrows and eye rings.",
+          "indo": "burung kecil ini memiliki tubuh berwarna coklat dengan perut berwarna kuning cerah serta alis dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird is black with yellow on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna kuning pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a yellow throat, yellow breast and belly, as well as a grey beak, grey feet and tarsus and grey wings.",
+          "indo": "burung ini memiliki tenggorokan berwarna kuning, dada dan perut berwarna kuning, serta paruh berwarna abu-abu, kaki dan tarsus berwarna abu-abu, serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "bird with black eye, and gray beak, tarsus and feet, and yellow throat, breast and belly, and white abdomen",
+          "indo": "burung bermata hitam, paruh abu-abu, tarsus dan kaki, tenggorokan kuning, dada dan perut, serta perut putih"
+        },
+        {
+          "english": "this bird has a bright yellow beautiful belly and breast and throat, a white superciliary with black side patch and cheek patch, and brown wings.",
+          "indo": "burung ini memiliki perut, dada, dan tenggorokan indah berwarna kuning cerah, superciliary berwarna putih dengan bercak samping dan bercak pipi berwarna hitam, serta sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a bright yellow breast, short black and white pointy beak, and white eyebrows.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah, paruh pendek runcing berwarna hitam putih, dan alis berwarna putih."
+        },
+        {
+          "english": "the small bird has a yellow belly, curved black bill and brown back.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning, paruh melengkung berwarna hitam, dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird is grey with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and brown",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0068_21860.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a bird with a white abdomen, yellow breast, belly and throat, and black crown, bill and wings.",
+          "indo": "burung dengan perut berwarna putih, dada kuning, perut dan tenggorokan, serta mahkota, paruh dan sayap berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and grey head.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan kepala abu-abu."
+        },
+        {
+          "english": "a small bird with a green crown, white eyering, yellow throat, breast and belly.",
+          "indo": "burung kecil dengan mahkota hijau, cincin mata putih, tenggorokan kuning, dada dan perut."
+        },
+        {
+          "english": "this striking bird has a chunky black bill. the throat and breast are bright yellow, and the crown and top of the head are black. belly is pale yellow. wings are black.",
+          "indo": "burung yang mencolok ini memiliki paruh berwarna hitam tebal. tenggorokan dan dada berwarna kuning cerah, dan ubun-ubun serta kepala bagian atas berwarna hitam. perutnya berwarna kuning pucat. sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly, yellow breast and a grey head and wings.",
+          "indo": "burung ini memiliki perut berwarna putih, dada kuning, serta kepala dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this small bird has a bright yellow breast and belly and a small but wide black beak.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna kuning cerah serta paruh kecil namun lebar berwarna hitam."
+        },
+        {
+          "english": "this bird has a grey crown and yellow neck, breast and belly, with grey tail feathers.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dan leher, dada dan perut berwarna kuning, dengan bulu ekor berwarna abu-abu."
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is small with a pointed bill, its breast is yellow and its head and wings brown.",
+          "indo": "burungnya kecil dengan paruh runcing, dadanya berwarna kuning, kepala serta sayapnya berwarna coklat."
+        },
+        {
+          "english": "this bird has yellow belly,black eyes with red spot on black bill .",
+          "indo": "burung ini mempunyai perut berwarna kuning, mata berwarna hitam dengan bintik merah pada paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0071_22129.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the small bird has an orange belly and a black rounded bill.",
+          "indo": "burung kecil itu memiliki perut berwarna oranye dan paruh bulat berwarna hitam."
+        },
+        {
+          "english": "this bird has a white eyebrow, a bright orange and yellow throat and breast, and a wide curved bill.",
+          "indo": "burung ini memiliki alis berwarna putih, tenggorokan dan dada berwarna oranye terang dan kuning, serta paruh melengkung lebar."
+        },
+        {
+          "english": "this bird has a bright orange belly and throat, black bill and black malar stripe.",
+          "indo": "burung ini memiliki perut dan tenggorokan berwarna jingga cerah, paruh berwarna hitam, dan garis malar hitam."
+        },
+        {
+          "english": "this bird has a black head, bill, and wings, white eye ring, and a bright red orange throat, breast, and belly.",
+          "indo": "burung ini memiliki kepala, paruh, dan sayap berwarna hitam, cincin mata berwarna putih, serta tenggorokan, dada, dan perut berwarna oranye terang."
+        },
+        {
+          "english": "this bird has a yellow throat, breast, belly and abdomen and a brown head, nape and covert.",
+          "indo": "burung ini mempunyai tenggorokan, dada, perut dan perut berwarna kuning serta kepala, tengkuk dan tengkuk berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a yellow and orange belly and a black bill",
+          "indo": "burung ini memiliki perut berwarna kuning dan oranye serta paruh berwarna hitam"
+        },
+        {
+          "english": "the bird has a small straight black bill and an orange belly.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam lurus dan perut berwarna oranye."
+        },
+        {
+          "english": "this is a small bird with yellow and orange throat, breast, belly and abdomen and greenish-gray head, wings and tail.",
+          "indo": "ini adalah burung kecil dengan tenggorokan, dada, perut dan perut berwarna kuning dan oranye serta kepala, sayap dan ekor berwarna abu-abu kehijauan."
+        },
+        {
+          "english": "a small bird with orange throat, belly, and green abdomen, the coverts are brown, and the beak is black.",
+          "indo": "burung kecil dengan tenggorokan, perut, dan perut berwarna jingga, bulunya berwarna coklat, dan paruhnya berwarna hitam."
+        },
+        {
+          "english": "a small bird with gray back, yellow-orange belly, white superciliary, and small black beak.",
+          "indo": "burung kecil dengan punggung berwarna abu-abu, perut kuning-oranye, superciliary berwarna putih, dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0072_21830.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this colorful bird stands out with it's bright yellow body, black beak, and white around its eyes.",
+          "indo": "burung berwarna-warni ini menonjol dengan tubuhnya yang berwarna kuning cerah, paruhnya yang hitam, dan matanya yang berwarna putih."
+        },
+        {
+          "english": "this is a yellow bird with grey wings and a small pointy beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh kecil runcing."
+        },
+        {
+          "english": "a medium sized bird with a black bill and a yellow breast and a white nape",
+          "indo": "burung berukuran sedang dengan paruh hitam, dada kuning, dan tengkuk putih"
+        },
+        {
+          "english": "a pretty bird with bright yellow breast black feathers with a white outline around their face, and small black beak.",
+          "indo": "seekor burung cantik dengan bulu hitam di dada berwarna kuning cerah dengan garis putih di sekeliling wajahnya, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a grey crown and wingbars and a yellow throat and breast.",
+          "indo": "burung ini memiliki mahkota dan garis sayap berwarna abu-abu serta tenggorokan dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "this bird is yellow with white and has a very short beak.",
+          "indo": "burung ini berwarna kuning putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and the belly is yellow.",
+          "indo": "burungnya kecil dengan paruh runcing, dan perutnya berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0073_21932.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the eyering of the small bird is white, with a small patch of black under the black eye, the crown and nape are brown and the throat and belly are yellow.",
+          "indo": "Mata burung kecil berwarna putih, dengan bercak kecil hitam di bawah cincin mata hitam, ubun-ubun dan tengkuk berwarna coklat, serta tenggorokan dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a tan head and back with a yellow throat and breast, a touch of white and a white ring around his eyes.",
+          "indo": "burung ini memiliki kepala dan punggung berwarna coklat dengan tenggorokan dan dada berwarna kuning, sentuhan warna putih dan lingkaran putih di sekitar matanya."
+        },
+        {
+          "english": "this bird has a yellow belly with a grey head and back.",
+          "indo": "burung ini memiliki perut berwarna kuning dengan kepala dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a yellow breast and throat with a grey back and head.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna kuning dengan punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this small bird has a yellow belly, a brown crown, back and wings, and a white ring around the eye.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning, mahkota berwarna coklat, punggung dan sayap, serta lingkaran putih di sekitar matanya."
+        },
+        {
+          "english": "a small bird with a small bill, and a white eye ring",
+          "indo": "seekor burung kecil dengan paruh kecil, dan cincin mata berwarna putih"
+        },
+        {
+          "english": "the bright yellow breast and belly contrast with the bird's muted gray crown and back.",
+          "indo": "dada dan perut berwarna kuning cerah kontras dengan mahkota dan punggung burung yang berwarna abu-abu kalem."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has a bill that is short and the breast is yellow.",
+          "indo": "Burungnya berukuran kecil, paruhnya runcing, paruhnya pendek, dan dadanya berwarna kuning."
+        },
+        {
+          "english": "this yellow and gray bird has a white eyering, as well as a smaller pointed bill.",
+          "indo": "burung berwarna kuning dan abu-abu ini memiliki cincin mata berwarna putih, serta paruh runcing yang lebih kecil."
+        },
+        {
+          "english": "this gray bird has a bright yellow underbelly and a white eyering.",
+          "indo": "burung abu-abu ini memiliki perut berwarna kuning cerah dan cincin mata berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0075_21715.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a grey bird with a yellow coloring running down its breast and stomach.",
+          "indo": "burung berwarna abu-abu dengan warna kuning di dada dan perutnya."
+        },
+        {
+          "english": "a medium sized bird with a yellow u see belly, green wing feathers, and a short curved bill.",
+          "indo": "burung berukuran sedang dengan perut berwarna kuning, bulu sayap berwarna hijau, dan paruh pendek melengkung."
+        },
+        {
+          "english": "this bird is yellow and grey in color with a black beak and black eye rings.",
+          "indo": "burung ini berwarna kuning dan abu-abu dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "bird has grey flat beak and yellow throat breast belly and brown wings.",
+          "indo": "Burung ini memiliki paruh datar berwarna abu-abu dan perut dada tenggorokan berwarna kuning serta sayap berwarna coklat."
+        },
+        {
+          "english": "this bird is yellow, white, and brown in color with a sharp beak, and grey eye rings.",
+          "indo": "burung ini berwarna kuning, putih, dan coklat dengan paruh runcing, dan cincin mata berwarna abu-abu."
+        },
+        {
+          "english": "this bird is yellow with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a yellow throat, belly and breast, a white eye ring and a tan colored vent.",
+          "indo": "burung ini memiliki tenggorokan, perut dan dada berwarna kuning, cincin mata berwarna putih dan lubang kloaka berwarna coklat."
+        },
+        {
+          "english": "this bird is grey with a yellow breast, white belly and a point beak.",
+          "indo": "burung ini berwarna abu-abu dengan dada kuning, perut putih dan paruh runcing."
+        },
+        {
+          "english": "this medium-sized bird has a yellow belly, and dark green wings.",
+          "indo": "burung berukuran sedang ini memiliki perut berwarna kuning, dan sayap berwarna hijau tua."
+        },
+        {
+          "english": "a small bird, with a yellow breast, green primaries, and a pointed bill.",
+          "indo": "seekor burung kecil, dengan dada kuning, paruh hijau, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0077_21986.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a yellow breast and wing.",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada dan sayap berwarna kuning."
+        },
+        {
+          "english": "a yellow breasted medium size bird with abdomen and a short grey bill.",
+          "indo": "burung berukuran sedang berdada kuning dengan perut dan paruh pendek berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a yellow breast, white belly and a grey head.",
+          "indo": "ini adalah burung dengan dada kuning, perut putih dan kepala abu-abu."
+        },
+        {
+          "english": "small bird with bright yellow breast, white belly, and greenish colored wings.",
+          "indo": "burung kecil dengan dada kuning cerah, perut putih, dan sayap berwarna kehijauan."
+        },
+        {
+          "english": "this vibrant bird features a yellow plumage covering its belly and a striped black through its eye region.",
+          "indo": "burung yang semarak ini memiliki bulu kuning yang menutupi perutnya dan garis hitam di bagian matanya."
+        },
+        {
+          "english": "this bird is yellow with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has bright yellow feathers on it's chest, and white on the rest of it's flank, abdomen,and vent.",
+          "indo": "burung ini memiliki bulu berwarna kuning cerah di bagian dadanya, dan berwarna putih di bagian panggul, perut, dan lubang kloaka lainnya."
+        },
+        {
+          "english": "this beautiful bird has gray head, yellow throat and breast, greenish brown wings, and white belly and abdomen.",
+          "indo": "burung cantik ini memiliki kepala berwarna abu-abu, tenggorokan dan dada berwarna kuning, sayap berwarna coklat kehijauan, serta perut dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crown as well as a yellow throat",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dan tenggorokan berwarna kuning"
+        },
+        {
+          "english": "this bird has a breast that is bright yellow and a belly that is yellow and white and a white eyering.",
+          "indo": "burung ini mempunyai dada yang berwarna kuning cerah dan perut yang berwarna kuning putih serta cincin mata yang berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0079_21978.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this colorful bird has a yellow chest,a white inalar stripe,and black tarsus and feet",
+          "indo": "burung berwarna-warni ini memiliki dada kuning, garis inalar putih, dan tarsus serta kaki hitam"
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a grey back.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan punggung abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow throat, breast, white belly and white vent, this bird also has grey and white feathers covering its body.",
+          "indo": "burung kecil dengan tenggorokan kuning, dada, perut putih dan lubang kloaka putih, burung ini juga memiliki bulu berwarna abu-abu putih menutupi tubuhnya."
+        },
+        {
+          "english": "a little bird with a yellow spot on its breast, and a silver bill.",
+          "indo": "seekor burung kecil dengan bintik kuning di dadanya, dan paruhnya berwarna perak."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a gray wing and and crown.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna kuning dengan sayap dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this bird is grey with yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow and white belly and brown wings.",
+          "indo": "burung ini memiliki perut berwarna kuning putih dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has a yellow belly and a gray and brown back and a short beak.",
+          "indo": "burung ini memiliki perut berwarna kuning, punggung berwarna abu-abu coklat, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0081_21829.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the yellow underbelly of this bird makes it stand out in comparison to its bland, tan body and black, beady eyes.",
+          "indo": "perut kuning burung ini membuatnya menonjol dibandingkan dengan tubuhnya yang berwarna coklat dan mata hitam seperti manik-manik."
+        },
+        {
+          "english": "this bird has a curved gray bill, a white eyebrow, and a yellow throat and breast.",
+          "indo": "burung ini memiliki paruh melengkung berwarna abu-abu, alis berwarna putih, serta tenggorokan dan dada berwarna kuning."
+        },
+        {
+          "english": "the head and wings are light brown, the top part of the bird's chest, down to the belly, is a bright yellow which then abruptly turns white around the lower belly and on to the underside of the tail feathers.",
+          "indo": "kepala dan sayap berwarna coklat muda, dada burung bagian atas hingga perut berwarna kuning cerah yang kemudian tiba-tiba berubah menjadi putih di sekitar perut bagian bawah hingga bagian bawah bulu ekor."
+        },
+        {
+          "english": "the small bird has a yellow belly and a gray back",
+          "indo": "burung kecil itu memiliki perut berwarna kuning dan punggung berwarna abu-abu"
+        },
+        {
+          "english": "this bird is yellow with grey on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan punggung berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "light tan bird with a white eyebrow, yellow throat and breast, white abdomen and belly and a small short bill.",
+          "indo": "burung berwarna coklat muda dengan alis putih, tenggorokan dan dada kuning, perut dan perut putih serta paruh pendek kecil."
+        },
+        {
+          "english": "the grey bird has a bright yellow belly, and a small grey bill.",
+          "indo": "burung abu-abu memiliki perut kuning cerah, dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yelwo belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a beautiful bird having a yellow breast, green crown and wings, and white abdomen.",
+          "indo": "burung cantik dengan dada kuning, mahkota dan sayap berwarna hijau, serta perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0084_22082.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a small bird with a yellow and white underbelly and green wings.",
+          "indo": "seekor burung kecil dengan perut berwarna kuning dan putih serta sayap berwarna hijau."
+        },
+        {
+          "english": "the bird has a small black bill and a yellow breast.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan dada berwarna kuning."
+        },
+        {
+          "english": "a small bird with white eyebrows, yellow breast, golden coverts and wingbars and white primaries,abdomen, and vent.",
+          "indo": "seekor burung kecil dengan alis putih, dada kuning, bulu dan garis sayap berwarna emas, serta bagian dasar, perut, dan lubang kloaka berwarna putih."
+        },
+        {
+          "english": "this small gray bird has a yellow breast and white eyebrows.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki dada berwarna kuning dan alis berwarna putih."
+        },
+        {
+          "english": "a yellow belly bird with a dark black back and a white marking around the eyes.",
+          "indo": "burung perut berwarna kuning dengan punggung hitam tua dan tanda putih di sekitar matanya."
+        },
+        {
+          "english": "a brown and white bird with a bright yellow breast and a short, wide beak.",
+          "indo": "burung berwarna coklat putih dengan dada kuning cerah dan paruh pendek lebar."
+        },
+        {
+          "english": "this cute little bird has a short bill, with a yellow throat, breast and white eyebrows with black eyering.",
+          "indo": "Burung kecil yang lucu ini mempunyai paruh pendek, tenggorokan kuning, dada dan alis putih dengan cincin mata hitam."
+        },
+        {
+          "english": "a small bird with a yellow breast and brown wings.",
+          "indo": "seekor burung kecil dengan dada kuning dan sayap coklat."
+        },
+        {
+          "english": "the small colorful bird has a breast that is a vibrant yellow color, and a crown that is mostly olive green.",
+          "indo": "burung kecil berwarna-warni ini memiliki dada berwarna kuning cerah, dan mahkota yang sebagian besar berwarna hijau zaitun."
+        },
+        {
+          "english": "a very small bird with a bright yellow throat and breast, it has white eyebrowns and eyering, its bill is very small and grey.",
+          "indo": "burung yang sangat kecil dengan tenggorokan dan dada berwarna kuning cerah, alis dan cincin mata berwarna putih, paruhnya sangat kecil dan berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0085_21899.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this is a gray bird with a bright yellow chest and a light gray abdomen.",
+          "indo": "ini adalah burung abu-abu dengan dada kuning cerah dan perut abu-abu muda."
+        },
+        {
+          "english": "a medium sized bird with a yellow breast, and a white belly, and a small bill",
+          "indo": "burung berukuran sedang dengan dada kuning, perut putih, dan paruh kecil"
+        },
+        {
+          "english": "a small, round bird of brown and white with a vivid yellow throat and breast.",
+          "indo": "seekor burung kecil bulat berwarna coklat dan putih dengan tenggorokan dan dada berwarna kuning cerah."
+        },
+        {
+          "english": "a bird with a yellow throat, white breast, white eyering and small black bill.",
+          "indo": "burung dengan tenggorokan kuning, dada putih, cincin mata putih, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "long bird with large yellow stomach; has a long brown & white tail.",
+          "indo": "burung panjang dengan perut kuning besar; memiliki ekor panjang berwarna coklat & putih."
+        },
+        {
+          "english": "this bird is white, yellow, and brown and has a very short beak.",
+          "indo": "burung ini berwarna putih, kuning, dan coklat serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a white belly and yellow breasts and small black bill",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna kuning serta paruh kecil berwarna hitam"
+        },
+        {
+          "english": "this bird has a yellow throat and breast, brown and green coverts and secondaries and a white vent.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna kuning, bulu berwarna coklat dan hijau serta bulu sekunder dan lubang kloaka berwarna putih."
+        },
+        {
+          "english": "the bird has a grey head with white eyebrows, a bright yellow breast and chin, a white belly and grey feet.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu dengan alis berwarna putih, dada dan dagu berwarna kuning cerah, perut berwarna putih, dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow chest",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan dada berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0086_21877.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "small bird with white patch around the eyes, yellow breast and white under feathers.",
+          "indo": "burung kecil dengan bercak putih di sekitar mata, dada kuning, dan bulu bawah putih."
+        },
+        {
+          "english": "this bird has a white belly and yellow breast, with a gray crown and nape.",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna kuning, dengan mahkota dan tengkuk berwarna abu-abu."
+        },
+        {
+          "english": "this bird is brown with yellow and white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna kuning dan putih serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird that has white markings around its eyes, a yellow-orange breast with grey-green plumage.",
+          "indo": "burung kecil dengan tanda putih di sekitar matanya, dada kuning-oranye dengan bulu abu-abu kehijauan."
+        },
+        {
+          "english": "this bird is white, yellow, and brown in color with a small beak, and white eye rings.",
+          "indo": "burung ini berwarna putih, kuning, dan coklat dengan paruh kecil, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "the is colorful bird has a yellow neck with a white belly",
+          "indo": "Burung berwarna-warni ini memiliki leher berwarna kuning dengan perut berwarna putih"
+        },
+        {
+          "english": "the bird has ayellow chest, and olive green secondaries and coverts.",
+          "indo": "burung itu memiliki dada kuning, dan bulu sekunder serta bulu berwarna hijau zaitun."
+        },
+        {
+          "english": "a small bird with a white belly, yellow breast, green wings, and white eyerings.",
+          "indo": "seekor burung kecil dengan perut putih, dada kuning, sayap hijau, dan cincin mata putih."
+        },
+        {
+          "english": "this bird has yellow breast with a white belly and a brown back.",
+          "indo": "burung ini memiliki dada berwarna kuning dengan perut berwarna putih dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0087_21695.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a small head, gray wings, a white belly, and a bright yellow breast.",
+          "indo": "burung ini memiliki kepala kecil, sayap berwarna abu-abu, perut berwarna putih, dan dada berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a white belly, yellow breast and a grey back and beak.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna kuning, serta punggung dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white eyebrow, a bright orange and yellow throat and breast, and a brown head and wings.",
+          "indo": "burung ini memiliki alis berwarna putih, tenggorokan dan dada berwarna oranye terang dan kuning, serta kepala dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird is white, black, and yellow in color with a black curved beak, and white eye rings.",
+          "indo": "burung ini berwarna putih, hitam, dan kuning dengan paruh melengkung hitam, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "the bird has a grey belly, a yellow breast, a golden neck, and a grey back.",
+          "indo": "burung itu memiliki perut berwarna abu-abu, dada kuning, leher emas, dan punggung abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow and white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan badan berwarna kuning dan putih"
+        },
+        {
+          "english": "this little round bird has dark grey wings, tail, and head, and yellow and white breast.",
+          "indo": "burung bulat kecil ini memiliki sayap, ekor, dan kepala berwarna abu-abu tua, serta dada berwarna kuning dan putih."
+        },
+        {
+          "english": "a small brown bird with a white belly and yellow breast.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut putih dan dada kuning."
+        },
+        {
+          "english": "a small gray bird with a yellow breast and short pointed beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan dada kuning dan paruh runcing pendek."
+        },
+        {
+          "english": "this bird has a bright yellow breast and neck, small black bill and light gray crown and primaries.",
+          "indo": "burung ini memiliki dada dan leher berwarna kuning cerah, paruh kecil berwarna hitam, serta mahkota dan pendahuluan berwarna abu-abu muda."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0088_21686.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this small bird has a bright yellow breast, grey belly, and long curved beak.",
+          "indo": "burung kecil ini memiliki dada berwarna kuning cerah, perut berwarna abu-abu, dan paruh melengkung panjang."
+        },
+        {
+          "english": "a small bird that has a yellow breast and a long flat bill",
+          "indo": "seekor burung kecil yang memiliki dada berwarna kuning dan paruh yang panjang dan rata"
+        },
+        {
+          "english": "this bird has a yellow breast and chest, with a white belly and black wings.",
+          "indo": "burung ini memiliki dada dan dada berwarna kuning, dengan perut berwarna putih dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird, yellow on top with a gray bottom half and dark gray head, sitting on the branch of a leafy tree.",
+          "indo": "seekor burung kecil, berwarna kuning di bagian atas dengan bagian bawah berwarna abu-abu dan kepala berwarna abu-abu tua, duduk di dahan pohon yang rindang."
+        },
+        {
+          "english": "a black, white, and yellow bird with a thin black beak.",
+          "indo": "burung berwarna hitam, putih, dan kuning dengan paruh tipis berwarna hitam."
+        },
+        {
+          "english": "this bird has a narrow black bill with yellow breast and grey crown.",
+          "indo": "burung ini memiliki paruh sempit berwarna hitam dengan dada kuning dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this is a small bird with a yellow orange breast, dark wings and tailfeathers and a small beak.",
+          "indo": "ini adalah burung kecil dengan dada kuning oranye, sayap dan bulu ekor berwarna gelap, serta paruh kecil."
+        },
+        {
+          "english": "this bird has a bright yellow throat with a white eyebrown and grey crown and back.",
+          "indo": "burung ini memiliki tenggorokan berwarna kuning cerah dengan alis berwarna putih dan mahkota serta punggung berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey head, a yellow throat and breast, and a sharp beak.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu, tenggorokan dan dada berwarna kuning, serta paruh yang tajam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0089_21804.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a white belly, yellow breast and a grey head.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna kuning, dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "a medium sized bird with a small bill and a orange breast",
+          "indo": "burung berukuran sedang dengan paruh kecil dan dada berwarna oranye"
+        },
+        {
+          "english": "bird has brown body feathers, yellow breast feather, and hooked beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna kuning, dan paruh bengkok"
+        },
+        {
+          "english": "this bird has a yellow throat and breast with its head in brown color.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna kuning dengan kepala berwarna coklat."
+        },
+        {
+          "english": "this is a small, brown bird with a yellow breast, and white rump.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada kuning, dan pantat putih."
+        },
+        {
+          "english": "a small bird with a brown head, back, wings and tail, a yellow throat, chest and belly, and a dull white abdomen.",
+          "indo": "burung kecil dengan kepala, punggung, sayap dan ekor berwarna coklat, tenggorokan, dada dan perut berwarna kuning, serta perut berwarna putih kusam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly and yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat serta mempunyai perut berwarna putih dan dada berwarna kuning"
+        },
+        {
+          "english": "the bird has a golden belly, brown back and small bill.",
+          "indo": "burung ini memiliki perut berwarna emas, punggung berwarna coklat dan paruh kecil."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a brown back.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan punggung berwarna coklat."
+        },
+        {
+          "english": "a bird with a brown head, yellow belly and neck with brown wings.",
+          "indo": "burung berkepala coklat, perut kuning dan leher bersayap coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0090_21931.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the small bird is brown with a yellow belly and skinny tarsus.",
+          "indo": "burung kecil berwarna coklat dengan perut kuning dan tarsus kurus."
+        },
+        {
+          "english": "yellow breasted bird with grey wings, white eyering and black bill",
+          "indo": "burung berdada kuning dengan sayap abu-abu, cincin mata putih dan paruh hitam"
+        },
+        {
+          "english": "this is a bird with a yellow belly, grey wings and a grey head.",
+          "indo": "ini adalah burung dengan perut kuning, sayap abu-abu, dan kepala abu-abu."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a gray wing and white wingbar.",
+          "indo": "Burung kecil ini mempunyai perut dan dada berwarna kuning dengan sayap berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "the gray bird has a yellow breast and belly, a big eye and a black pointed beak.",
+          "indo": "burung abu-abu memiliki dada dan perut berwarna kuning, mata besar dan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "the bird has a yellow breast, small brown wing bars and a black eyering.",
+          "indo": "burung ini memiliki dada berwarna kuning, garis sayap kecil berwarna coklat, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a small black bill with yellow breast and brown crown.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam dengan dada berwarna kuning dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this is a grey bird with yellow abdomen and belly, white throat, grey feet and black bill.",
+          "indo": "ini adalah burung abu-abu dengan perut dan perut kuning, tenggorokan putih, kaki abu-abu dan paruh hitam."
+        },
+        {
+          "english": "a small bird with a yellow underbelly and a brown coat with big, prominent eyes.",
+          "indo": "seekor burung kecil dengan perut bagian bawah berwarna kuning dan bulu berwarna coklat dengan mata besar dan menonjol."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0091_22111.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this colorful bird has a yellow breast and sides with a medium length, pointed bill.",
+          "indo": "burung berwarna-warni ini memiliki dada dan sisi berwarna kuning dengan paruh runcing dan panjang sedang."
+        },
+        {
+          "english": "a small gray bird with a bright yellow breast and yellow feathers under its wings.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan dada kuning cerah dan bulu kuning di bawah sayapnya."
+        },
+        {
+          "english": "the bird has sharp looking mouth and gray wing feathers and yellow breast feathers",
+          "indo": "burung ini memiliki mulut yang tampak runcing dan bulu sayap berwarna abu-abu serta bulu dada berwarna kuning"
+        },
+        {
+          "english": "this is a tiny, grey bird, with a yellow throat and breast.",
+          "indo": "ini adalah burung kecil berwarna abu-abu, dengan tenggorokan dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow with grey on its stomach and has a long, pointy beak.",
+          "indo": "Burung ini berwarna kuning dengan warna abu-abu pada bagian perutnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is yellow with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this beautiful bird has yellow and white breast, dark grey head and light grey wings.",
+          "indo": "burung cantik ini memiliki dada berwarna kuning dan putih, kepala berwarna abu-abu tua, dan sayap berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this is a very small bird with a yellow belly and throat, some grey primaries, and a green to grey cheek patch and crown.",
+          "indo": "ini adalah burung yang sangat kecil dengan perut dan tenggorokan berwarna kuning, beberapa warna bulu primer berwarna abu-abu, serta bagian pipi dan mahkota berwarna hijau hingga abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow chest",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan dada berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0094_21693.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this little guy has a yellow breast, gray crown, and a white belly.",
+          "indo": "lelaki kecil ini memiliki dada kuning, mahkota abu-abu, dan perut putih."
+        },
+        {
+          "english": "this bird is short with a brown head and bright yellow underside",
+          "indo": "burung ini pendek dengan kepala berwarna coklat dan bagian bawah berwarna kuning cerah"
+        },
+        {
+          "english": "a little bird with a yellow chest and throat, black tarsus, and a black crown.",
+          "indo": "seekor burung kecil dengan dada dan tenggorokan berwarna kuning, tarsus hitam, dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a white belly, yellow breast, and a short pointy bill.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berwarna kuning, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a bold yellow breast and a brown body covering.",
+          "indo": "seekor burung kecil dengan dada kuning tebal dan penutup tubuh berwarna coklat."
+        },
+        {
+          "english": "small bird with brown crown, yellow throat and breast, tarsus and feet are grey and even colored, the belly is white.",
+          "indo": "burung kecil dengan mahkota berwarna coklat, tenggorokan dan dada kuning, tarsus dan kaki berwarna abu-abu bahkan, perut berwarna putih."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a light brown beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this small bird has yellow breast and throat, white belly, and brown head.",
+          "indo": "burung kecil ini memiliki dada dan tenggorokan berwarna kuning, perut berwarna putih, dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a black pointed bill, with a yellow breast, and a white belly.",
+          "indo": "Burung ini mempunyai paruh runcing berwarna hitam, dada berwarna kuning, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a yellow breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna hitam, dengan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0095_21832.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a white belly with a clear line that has its upper body turn yellow leading to its head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan garis bening yang bagian atas tubuhnya menguning hingga ke kepala."
+        },
+        {
+          "english": "a bird with a bright yellow breast, white belly, black wings, white eyebrows, and gray rectrices.",
+          "indo": "burung dengan dada kuning cerah, perut putih, sayap hitam, alis putih, dan rectrices  abu-abu."
+        },
+        {
+          "english": "this bird is black yellow and white in color, with a black beak and a black eye ring.",
+          "indo": "burung ini berwarna hitam kuning putih, dengan paruh berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird that has a yellow chest and black facial marking",
+          "indo": "burung berukuran sedang yang memiliki dada berwarna kuning dan corak wajah berwarna hitam"
+        },
+        {
+          "english": "this noble bird has a yellow belly and black around its wings and back.",
+          "indo": "burung mulia ini memiliki perut berwarna kuning dan hitam di sekitar sayap dan punggungnya."
+        },
+        {
+          "english": "this bird is yellow with white and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan warna putih dan hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a large bird with a black head and wings and a yellow and white breast.",
+          "indo": "ini adalah burung besar dengan kepala dan sayap hitam serta dada kuning dan putih."
+        },
+        {
+          "english": "this bird is yellow with white and has a very short beak.",
+          "indo": "burung ini berwarna kuning putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a orange throat, black primaries, and a white belly.",
+          "indo": "burung ini memiliki tenggorokan berwarna oranye, bulu primer berwarna hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a orange throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan tenggorokan berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0097_21748.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this is a small, 3-5 inches, brightly colored bird with olive green wings, tail, and back, white crown, black face, and yellow belly.",
+          "indo": "ini adalah burung kecil berukuran 3-5 inci, berwarna cerah dengan sayap, ekor, dan punggung berwarna hijau zaitun, mahkota putih, muka hitam, dan perut kuning."
+        },
+        {
+          "english": "this little bird has the belly of a neon yellow golf ball, an all black face with a white rim and patterned wings.",
+          "indo": "Burung kecil ini memiliki perut sebesar bola golf berwarna kuning neon, muka serba hitam dengan pinggiran putih dan sayap bermotif."
+        },
+        {
+          "english": "a small bird with a black head perched on a branch.",
+          "indo": "seekor burung kecil berkepala hitam bertengger di dahan."
+        },
+        {
+          "english": "this little bird has a white crown, black superciliary and bright yellow throat, breast and belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna putih, superciliary berwarna hitam, serta tenggorokan, dada, dan perut berwarna kuning cerah."
+        },
+        {
+          "english": "a bird with a bright yellow chest, brown wings, and a black mask over its face.",
+          "indo": "seekor burung dengan dada kuning cerah, sayap coklat, dan topeng hitam menutupi wajahnya."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a small bird with a black face a yellow belly and brown wings and tail.",
+          "indo": "ini adalah burung kecil dengan wajah hitam, perut kuning, sayap serta ekor coklat."
+        },
+        {
+          "english": "a bird with a yellow belly and a black face with a pointed beak.",
+          "indo": "seekor burung dengan perut kuning dan muka hitam dengan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this is a yellow breasted bird with a black mask on its face brown wings and a brown tail.",
+          "indo": "Ini adalah burung berdada kuning dengan topeng hitam di wajahnya, sayap coklat dan ekor coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0098_21987.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has yellow breast feathers, a pointed beak, and long tail feathers.",
+          "indo": "burung ini memiliki bulu dada berwarna kuning, paruh runcing, dan bulu ekor panjang."
+        },
+        {
+          "english": "a very small bird whose predominant feature is its neon orange underbelly.",
+          "indo": "seekor burung yang sangat kecil yang ciri utamanya adalah perutnya yang berwarna jingga neon."
+        },
+        {
+          "english": "this bird yellow abdomen and breast with white eyering and black bill.",
+          "indo": "burung ini perut dan dadanya berwarna kuning dengan cincin mata berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with black eyes, black bill, gray eyebrows and a yellow belly.",
+          "indo": "seekor burung kecil bermata hitam, paruh hitam, alis abu-abu, dan perut kuning."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a gray crown and white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan mahkota berwarna abu-abu dan alis berwarna putih."
+        },
+        {
+          "english": "this bird has bright yellow chest a long tail and a thick black beak.",
+          "indo": "burung ini memiliki dada berwarna kuning cerah, ekor panjang dan paruh hitam tebal."
+        },
+        {
+          "english": "this bird is grey with yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a black beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a bright yellow belly and a small black beak.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning cerah dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this is a gray bird with a bright yellow throat, breast and belly, white eyebrows and eyerings and a black beak.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan, dada dan perut berwarna kuning cerah, alis dan cincin mata berwarna putih, serta paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0100_21913.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the bird has a yellow belly, white abdomen, and bill that is curved downwards.",
+          "indo": "burung ini memiliki perut berwarna kuning, perut berwarna putih, dan paruh melengkung ke bawah."
+        },
+        {
+          "english": "this bird has a very vibrant belly and brown plumaged head",
+          "indo": "burung ini memiliki perut yang sangat cerah dan kepala berbulu coklat"
+        },
+        {
+          "english": "this stout bird has a bright yellow breast and throat, gray crown and a short curved gray bill.",
+          "indo": "burung gagah ini memiliki dada dan tenggorokan berwarna kuning cerah, mahkota berwarna abu-abu, dan paruh pendek berwarna abu-abu melengkung."
+        },
+        {
+          "english": "this bird is yellow with grey on its head and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan kepala berwarna abu-abu dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this gray bird has a pointy beak with a vibrant, yellow breast and white vent.",
+          "indo": "burung berwarna abu-abu ini memiliki paruh runcing dengan dada berwarna kuning cerah dan lubang kloaka berwarna putih."
+        },
+        {
+          "english": "this particular bird has a white belly and yellow breast with a gray head",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna kuning dengan kepala berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a belly that is white and yellow and brown wings",
+          "indo": "burung ini mempunyai perut yang berwarna putih dan sayap berwarna kuning dan coklat"
+        },
+        {
+          "english": "this particular bird has a belly that is white with yellow breasts",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna kuning"
+        },
+        {
+          "english": "a small colorful bird, with a yellow belly, green head and wings, and a sharp bill.",
+          "indo": "burung kecil berwarna-warni, dengan perut kuning, kepala dan sayap hijau, serta paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0101_21677.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this is a bird with yellow hair in the breast with its bills open.",
+          "indo": "ini adalah burung dengan bulu kuning di bagian dada dengan paruh terbuka."
+        },
+        {
+          "english": "this bird is yellow and grey in color with a sharp black beak and white eye ring.",
+          "indo": "burung ini berwarna kuning abu-abu dengan paruh hitam runcing dan cincin mata berwarna putih."
+        },
+        {
+          "english": "a bird with a yellow throat and a grey head and back.",
+          "indo": "seekor burung dengan tenggorokan kuning dan kepala serta punggung berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with gray plumage except for the bright yellow feathers on its breast, it has a small black beak.",
+          "indo": "burung kecil berbulu abu-abu kecuali bulu kuning cerah di dadanya, paruhnya kecil berwarna hitam."
+        },
+        {
+          "english": "the bird has a small head with a bright yellow neck and breast and a larger round body.",
+          "indo": "burung ini memiliki kepala kecil dengan leher dan dada berwarna kuning cerah serta tubuh bulat yang lebih besar."
+        },
+        {
+          "english": "a grey and yellow bird with grey superciliary, black bill, and yellow throat.",
+          "indo": "burung berwarna abu-abu dan kuning dengan superciliary abu-abu, paruh hitam, dan tenggorokan kuning."
+        },
+        {
+          "english": "this bird is gray and yellow in color, with a curved black beak.",
+          "indo": "burung ini berwarna abu-abu kuning, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "a gray, light gray, bright yellow, and dark gray bird calls out sitting atop a branch.",
+          "indo": "seekor burung berwarna abu-abu, abu-abu muda, kuning cerah, dan abu-abu tua berseru sambil duduk di atas dahan."
+        },
+        {
+          "english": "this bird has a grey crown with a black bill and yellow throat.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan paruh berwarna hitam dan tenggorokan berwarna kuning."
+        },
+        {
+          "english": "a small bird with a white belly and yellow breast and throat.",
+          "indo": "seekor burung kecil dengan perut putih dan dada serta tenggorokan kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0102_21696.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a colorful bird with a vivid yellow throat, breast and belly with brown wings.",
+          "indo": "burung berwarna-warni dengan tenggorokan kuning cerah, dada dan perut dengan sayap coklat."
+        },
+        {
+          "english": "the bird has a yellow breast and belly and a black eyering.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a gray crown and primaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan mahkota dan bulu primer berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a golden throat and breast and a black head and wings.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna emas serta kepala dan sayap berwarna hitam."
+        },
+        {
+          "english": "a long bird with yellow along its underside and white and brown on its body.",
+          "indo": "seekor burung panjang dengan bagian bawah berwarna kuning dan badannya berwarna putih dan coklat."
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this yellow and brown bird has a long tail and a long pointed beak.",
+          "indo": "burung berwarna kuning coklat ini mempunyai ekor yang panjang dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird that has a bright yellow belly, and a silver beak.",
+          "indo": "seekor burung kecil yang memiliki perut berwarna kuning cerah, dan paruh berwarna perak."
+        },
+        {
+          "english": "this bird is yellow, brown and white in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, coklat dan putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird, with a yellow chest, green wings, and a pointed bill.",
+          "indo": "seekor burung kecil, dengan dada kuning, sayap hijau, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0103_21670.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the squat bird has a vibrant yellow chest and belly while the rest of its body is dull.",
+          "indo": "burung jongkok memiliki dada dan perut berwarna kuning cerah sedangkan seluruh tubuhnya kusam."
+        },
+        {
+          "english": "this bird is yellow with green on its back and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan warna hijau pada punggungnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has yellow throat, breast and belly with its crown and coverts in a dark yellow shade.",
+          "indo": "burung ini memiliki tenggorokan, dada, dan perut berwarna kuning dengan mahkota dan bulu berwarna kuning tua."
+        },
+        {
+          "english": "this small bird is mostly olive with a yellow throat and belly and a small bill.",
+          "indo": "burung kecil ini sebagian besar berwarna zaitun dengan tenggorokan dan perut berwarna kuning serta paruh kecil."
+        },
+        {
+          "english": "a small sized bird that has a yellow belly and chest with a pointed bill",
+          "indo": "burung berukuran kecil yang memiliki perut dan dada berwarna kuning dengan paruh runcing"
+        },
+        {
+          "english": "this particular bird has a yellow belly and breasts with brown secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan bagian bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "a small, round, gray colored bird with a yellow breast.",
+          "indo": "burung kecil, bulat, berwarna abu-abu dengan dada kuning."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "a round bird with a bright yellow belly and breast.",
+          "indo": "burung bulat dengan perut dan dada berwarna kuning cerah."
+        },
+        {
+          "english": "a small, round bird with small beak and head above a yellow throat and breast.",
+          "indo": "burung kecil bulat dengan paruh kecil dan kepala di atas tenggorokan dan dada berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0105_21714.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this long-tailed bird has a yellow breast and white abdomen and belly with black every else except for a white eyebrow.",
+          "indo": "burung ekor panjang ini mempunyai dada berwarna kuning dan perut serta perut berwarna putih dengan semua bagian berwarna hitam kecuali alisnya yang berwarna putih."
+        },
+        {
+          "english": "the throat and belly of the bird is yellow and the abdomen of the bird is white.",
+          "indo": "tenggorokan dan perut burung berwarna kuning dan perut burung berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a grey back and head.",
+          "indo": "ini adalah burung dengan perut berwarna putih, dada kuning, serta punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a bird with a yellow breast, and a white abdomen, and a white eyering",
+          "indo": "ini adalah burung dengan dada kuning, perut putih, dan cincin mata putih"
+        },
+        {
+          "english": "a white, green, and yellow bird with a small black beak.",
+          "indo": "burung berwarna putih, hijau, dan kuning dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and yellow throat and black bill",
+          "indo": "burung ini memiliki perut berwarna putih, tenggorokan kuning, dan paruh berwarna hitam"
+        },
+        {
+          "english": "a small bird with a white belly, yellow breast, white eyering and black cheek patch.",
+          "indo": "seekor burung kecil dengan perut putih, dada kuning, cincin mata putih dan pipi hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly and yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu serta mempunyai perut berwarna putih dan dada berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0106_22032.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "the small yellow breasted bird with a green tail has large wings considering it's small size overall.",
+          "indo": "burung kecil berdada kuning dengan ekor berwarna hijau ini mempunyai sayap yang besar mengingat ukurannya yang kecil secara keseluruhan."
+        },
+        {
+          "english": "small bird with a bright yellow chest and bright white eyebrows.",
+          "indo": "burung kecil dengan dada kuning cerah dan alis putih cerah."
+        },
+        {
+          "english": "this small bird has a bright yellow chest and belly, a black head, and white eyebrows.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna kuning cerah, kepala berwarna hitam, dan alis berwarna putih."
+        },
+        {
+          "english": "a bird with white superciliaries, black bill, and yellow breast.",
+          "indo": "seekor burung dengan superciliary berwarna putih, paruh hitam, dan dada kuning."
+        },
+        {
+          "english": "this is a tiny bird with yellow on the breast and sides and grey on the back.",
+          "indo": "ini adalah burung kecil dengan warna kuning di dada dan samping serta abu-abu di punggung."
+        },
+        {
+          "english": "a bird that has yellow throat, breast, belly and side with white eyebrows and black short bill.",
+          "indo": "burung yang mempunyai tenggorokan, dada, perut dan samping berwarna kuning, alis berwarna putih dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow, brown and black in color, with a small beak.",
+          "indo": "burung ini berwarna kuning, coklat dan hitam, dengan paruh kecil."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a yellow belly and breast and black head.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna kuning serta kepala berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0107_21698.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "this bird has a gray upper body, a yellow neck, a white belly, and a white eyebrow.",
+          "indo": "burung ini memiliki tubuh bagian atas berwarna abu-abu, leher berwarna kuning, perut berwarna putih, dan alis berwarna putih."
+        },
+        {
+          "english": "a small bird with a bright yellow throat and breast, with a white belly and vent, this bird has black covering the rest of its body.",
+          "indo": "burung kecil dengan tenggorokan dan dada berwarna kuning cerah, dengan perut dan lubang kloaka berwarna putih, burung ini berwarna hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this is a bird with a white belly, yellow breast and a grey back.",
+          "indo": "ini adalah burung dengan perut putih, dada kuning, dan punggung abu-abu."
+        },
+        {
+          "english": "a small bird has a bright yellow breast and a short black bill.",
+          "indo": "seekor burung kecil memiliki dada berwarna kuning cerah dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "a small bird with a white and yellow belly, and a white eyebrow.",
+          "indo": "seekor burung kecil dengan perut putih dan kuning, dan alis putih."
+        },
+        {
+          "english": "a small bird with gray wings and yellow on its belly.",
+          "indo": "seekor burung kecil dengan sayap abu-abu dan kuning di perutnya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white body and yellow chest",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna putih serta dada berwarna kuning"
+        },
+        {
+          "english": "this bird is grey with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black, yellow, and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam, kuning, dan putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head with a white by it it's got a yellow test in a white belly it has very long tail feathers",
+          "indo": "burung ini berkepala hitam putih, ada tes kuning di perut putih, bulu ekornya sangat panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0109_21796.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "small bird with yellow feathers covering its belly and grey tail feathers",
+          "indo": "burung kecil dengan bulu kuning menutupi perutnya dan bulu ekor berwarna abu-abu"
+        },
+        {
+          "english": "a small bird with a yellow under belly, green wing feathers, and a white nape.",
+          "indo": "burung kecil dengan perut bagian bawah berwarna kuning, bulu sayap berwarna hijau, dan tengkuk berwarna putih."
+        },
+        {
+          "english": "this beautiful bird has a yellow and white body with yellow wings and a white eyebrow.",
+          "indo": "burung cantik ini memiliki tubuh berwarna kuning putih dengan sayap kuning dan alis berwarna putih."
+        },
+        {
+          "english": "a bird with small bill white brow and yellow breast and belly.",
+          "indo": "seekor burung dengan paruh kecil, superciliary berwarna putih, serta dada dan perut berwarna kuning."
+        },
+        {
+          "english": "this vibrant bird has a yellow neck and breast with a white vent, brown wingbar and crown, and a white eyebrow.",
+          "indo": "burung yang semarak ini memiliki leher dan dada berwarna kuning dengan lubang kloaka berwarna putih, garis sayap dan mahkota berwarna coklat, serta alis berwarna putih."
+        },
+        {
+          "english": "this bird has a yellow belly, a white abdomen and eyebrow with brown wings.",
+          "indo": "burung ini memiliki perut berwarna kuning, perut berwarna putih dan alis dengan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a bright yellow throat and breast with a between back and white eyebrow.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna kuning cerah dengan bagian antara punggung dan alis berwarna putih."
+        },
+        {
+          "english": "a bird with a yellow breast and long tail feathers.",
+          "indo": "burung dengan dada kuning dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird has a brown crown as well as a yellow breast",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan dada berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow, white, and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna kuning, putih, dan coklat, serta memiliki paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Yellow_Breasted_Chat_0110_21871.jpg",
+      "class_id": 19,
+      "captions": [
+        {
+          "english": "a small bird with a yellow body, and a long tail.",
+          "indo": "seekor burung kecil dengan tubuh kuning, dan ekor panjang."
+        },
+        {
+          "english": "a small bird with a yellow body and a black bill.",
+          "indo": "seekor burung kecil dengan tubuh kuning dan paruh hitam."
+        },
+        {
+          "english": "this small bird has a yellow breast and small bill that curves downwards",
+          "indo": "burung kecil ini memiliki dada berwarna kuning dan paruh kecil yang melengkung ke bawah"
+        },
+        {
+          "english": "this bird has a distinctive bright yellow breast while the rest of the bird is in shades of white to grey.",
+          "indo": "burung ini memiliki ciri khas dada berwarna kuning cerah sedangkan bagian burung lainnya berwarna putih hingga abu-abu."
+        },
+        {
+          "english": "a small dark green and light yellow bird with a small black beak.",
+          "indo": "burung kecil berwarna hijau tua dan kuning muda dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "small bird with black and white eye marking. brown head, yellow breast, and white undertail.",
+          "indo": "burung kecil dengan tanda mata hitam putih. kepala coklat, dada kuning, dan ekor putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a green crown as well as a yellow breast",
+          "indo": "burung ini memiliki mahkota berwarna hijau dan dada berwarna kuning"
+        },
+        {
+          "english": "a small bird with a yellow belly and yellow breast with a small sharp beak.",
+          "indo": "seekor burung kecil dengan perut kuning dan dada kuning dengan paruh kecil yang tajam."
+        }
+      ]
+    }
+  ]
+}

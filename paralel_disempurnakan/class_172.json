@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Orange_Crowned_Warbler_0001_167660.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this bird has greenish-grey feathers with a short, pointy beak and very thin legs",
+          "indo": "burung ini mempunyai bulu berwarna abu-abu kehijauan dengan paruh pendek runcing dan kaki sangat kurus"
+        },
+        {
+          "english": "bird has green body feathers, green breast feather, and pointed beak",
+          "indo": "burung mempunyai bulu badan berwarna hijau, bulu dada berwarna hijau, dan paruh runcing"
+        },
+        {
+          "english": "the small white and grey bird has a small pointed beak.",
+          "indo": "burung kecil berwarna putih abu-abu memiliki paruh kecil yang runcing."
+        },
+        {
+          "english": "a small bird with a multiple shades of green on the body.",
+          "indo": "seekor burung kecil dengan banyak corak warna hijau di tubuhnya."
+        },
+        {
+          "english": "a bird with a small pointed bill and faded yellow plumage.",
+          "indo": "seekor burung dengan paruh kecil runcing dan bulu kuning pudar."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is green and gray wings",
+          "indo": "Burung ini mempunyai perut berwarna hijau dan sayap berwarna abu-abu"
+        },
+        {
+          "english": "this is a small green bird, with darker green primaries, and a pointed bill.",
+          "indo": "ini adalah burung hijau kecil, dengan warna bulu primer hijau tua, dan paruh runcing."
+        },
+        {
+          "english": "a small dull green body with a silver beak.",
+          "indo": "tubuh kecil berwarna hijau kusam dengan paruh berwarna perak."
+        },
+        {
+          "english": "a bird with a small beak, sort of greenish yellow feathers with black tail feathers.",
+          "indo": "burung dengan paruh kecil, bulu sejenis berwarna kuning kehijauan dengan bulu ekor berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0005_168314.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small bird with yellow and grey tones all over",
+          "indo": "seekor burung kecil dengan warna kuning dan abu-abu di sekujur tubuhnya"
+        },
+        {
+          "english": "a small yellowish green bird with a long narrow beak.",
+          "indo": "burung kecil berwarna hijau kekuningan dengan paruh panjang dan sempit."
+        },
+        {
+          "english": "small pale yellow/gray bird, gray bil, and black eyes.",
+          "indo": "burung kecil berwarna kuning pucat/abu-abu, bil abu-abu, dan mata hitam."
+        },
+        {
+          "english": "this bird has a pale yellow belly, breast throat, head, wings and pointed bill.",
+          "indo": "burung ini mempunyai perut berwarna kuning pucat, tenggorokan dada, kepala, sayap dan paruh runcing."
+        },
+        {
+          "english": "small yellow green and grey bird with short to medium beak and long tarsus",
+          "indo": "burung kecil berwarna kuning hijau dan abu-abu dengan paruh pendek hingga sedang dan tarsus panjang"
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow and gray in color, with a black beak.",
+          "indo": "burung ini berwarna kuning dan abu-abu, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with light yellow and grey coverts and secondaries, and grey outer rectrices.",
+          "indo": "seekor burung kecil dengan bulu dan bulu sekunder berwarna kuning muda dan abu-abu, serta rectrices luar berwarna abu-abu."
+        },
+        {
+          "english": "this little bird has a round belly, a small head, and is a dirty golden color all over.",
+          "indo": "burung kecil ini perutnya bulat, kepalanya kecil, dan seluruh tubuhnya berwarna emas kotor."
+        },
+        {
+          "english": "the bird is green and yellow with a short bill and small eyes.",
+          "indo": "burung itu berwarna hijau kuning dengan paruh pendek dan mata kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0006_167998.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a bird with a tiny pointed bill, white eyering, and green covering the rest of its body.",
+          "indo": "seekor burung dengan paruh kecil runcing, cincin mata berwarna putih, dan warna hijau menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small bird with various shades of green and a short beak.",
+          "indo": "seekor burung kecil dengan berbagai corak hijau dan paruh pendek."
+        },
+        {
+          "english": "the bird has a grey body that is plump and has long orange tarsus and round eyes.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu yang gempal dan memiliki tarsus panjang berwarna oranye serta mata bulat."
+        },
+        {
+          "english": "this is a tiny green bird with some dark green, it has a small pointy bill.",
+          "indo": "ini adalah burung kecil berwarna hijau dengan sedikit warna hijau tua, paruhnya kecil dan runcing."
+        },
+        {
+          "english": "this bird had a light green body with a small sharp beak.",
+          "indo": "burung ini memiliki tubuh berwarna hijau muda dengan paruh kecil yang tajam."
+        },
+        {
+          "english": "this greenish bird has a white ring around its eyes.",
+          "indo": "burung berwarna kehijauan ini memiliki lingkaran putih di sekitar matanya."
+        },
+        {
+          "english": "small brown and yellow bird with long orange tarsus and a medium brown beak.",
+          "indo": "burung kecil berwarna coklat dan kuning dengan tarsus oranye panjang dan paruh coklat sedang."
+        },
+        {
+          "english": "this small bird is soft green all over, with a light eyering, short wings and moderate tail.",
+          "indo": "burung kecil ini berwarna hijau lembut seluruhnya, dengan cincin mata tipis, sayap pendek dan ekor sedang."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a dirty yellow breast coloring and a small sharp bill",
+          "indo": "burung ini mempunyai warna dada kuning kotor dan paruh kecil yang runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0007_167545.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small bird has a brown crown and a belly that is golden yellow.",
+          "indo": "seekor burung kecil mempunyai mahkota berwarna coklat dan perut berwarna kuning keemasan."
+        },
+        {
+          "english": "this bird has a yellow belly, some yellow around his beak and eyes, and grey on the top of his head, his bake, and his wings and tail.",
+          "indo": "Burung ini mempunyai perut berwarna kuning, sebagian berwarna kuning di sekitar paruh dan matanya, serta berwarna abu-abu di bagian atas kepala, bagian dada, serta sayap dan ekornya."
+        },
+        {
+          "english": "this small bird has a black beak, black feet and tarsus, a yellowish throat, breast, and belly, as well as dark greenish crown and feathers.",
+          "indo": "burung kecil ini memiliki paruh berwarna hitam, kaki dan tarsus berwarna hitam, tenggorokan, dada, dan perut berwarna kekuningan, serta mahkota dan bulu berwarna kehijauan tua."
+        },
+        {
+          "english": "a small chubby bird with a yellowish gray lower body, and a light gray upper body and tail",
+          "indo": "burung kecil gemuk dengan tubuh bagian bawah berwarna abu-abu kekuningan, serta tubuh bagian atas dan ekor berwarna abu-abu muda"
+        },
+        {
+          "english": "this is a bird with a yellow belly and breast and a grey back and head.",
+          "indo": "ini adalah burung dengan perut dan dada berwarna kuning serta punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and yellow and has a rotund body",
+          "indo": "burung ini memiliki sayap berwarna abu-abu dan kuning serta memiliki tubuh yang bulat"
+        },
+        {
+          "english": "this bird has wings that are grey and has yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird is black with yellow and has a very short beak.",
+          "indo": "burung ini berwarna hitam kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna kuning kecokelatan, serta mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a yellow side, yellow breast and a brown crown.",
+          "indo": "burung itu memiliki sisi kuning, dada kuning, dan mahkota berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0009_168228.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this small yellow bird has a black eye and a flat gray beak and some gray and white wing feathers.",
+          "indo": "burung kecil berwarna kuning ini memiliki mata berwarna hitam dan paruh datar berwarna abu-abu serta beberapa bulu sayap berwarna abu-abu putih."
+        },
+        {
+          "english": "a small fat brown bird with a tiny black beak.",
+          "indo": "seekor burung kecil berwarna coklat gemuk dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small light green bird with black tarsus and feet.",
+          "indo": "seekor burung kecil berwarna hijau muda dengan tarsus dan kaki hitam."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a yellow and grey bird with a small grey bill.",
+          "indo": "ini adalah burung berwarna kuning dan abu-abu dengan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a yellow rotund body",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai badan bulat berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang bulat"
+        },
+        {
+          "english": "the small bird has a small bill, lime green feathers, and black eyes.",
+          "indo": "burung kecil memiliki paruh kecil, bulu berwarna hijau limau, dan mata hitam."
+        },
+        {
+          "english": "the little bird has dark skinny thighs and feet, a round yellow belly, and a golden colored eye ring.",
+          "indo": "Burung kecil itu memiliki paha dan kaki kurus berwarna gelap, perut bulat berwarna kuning, dan cincin mata berwarna emas."
+        },
+        {
+          "english": "a bird with a short pointed bill, black eyes, and yellow-grey head, and dull yellow body and wings.",
+          "indo": "burung dengan paruh pendek runcing, mata hitam, kepala kuning abu-abu, dan badan serta sayap kuning kusam."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0011_167615.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a yellow breast and belly as well as tiny tarsus.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta tarsus kecil."
+        },
+        {
+          "english": "this bird's body is yellow-black, with thin long black legs and a small, pointed bill.",
+          "indo": "tubuh burung ini berwarna kuning kehitaman, dengan kaki tipis panjang berwarna hitam dan paruh kecil runcing."
+        },
+        {
+          "english": "the bird has yellow color all over its body with a greyish yellow color for its coverts and nape.",
+          "indo": "Burung ini mempunyai warna kuning di sekujur tubuhnya dengan warna kuning keabu-abuan pada bulu dan tengkuknya."
+        },
+        {
+          "english": "this small bird has a yellow body with gray wings and a short black beak",
+          "indo": "burung kecil ini memiliki tubuh berwarna kuning dengan sayap berwarna abu-abu dan paruh pendek berwarna hitam"
+        },
+        {
+          "english": "this bird is yellow, and white in color with a skinny small beak, and yellow eye rings.",
+          "indo": "burung ini berwarna kuning, berwarna putih dengan paruh kecil kurus, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and white with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dengan perut berwarna kuning"
+        },
+        {
+          "english": "small colorful bird with small beak, throat, breast, belly and abdomen is light green, crown is blackish green.",
+          "indo": "burung kecil berwarna-warni dengan paruh kecil, tenggorokan, dada, perut dan perut berwarna hijau muda, mahkota berwarna hijau kehitaman."
+        },
+        {
+          "english": "this is a very small bird made up mainly of a yellowish-green feather scheme with some black accents.",
+          "indo": "ini adalah burung yang sangat kecil yang sebagian besar terdiri dari skema bulu berwarna hijau kekuningan dengan beberapa aksen hitam."
+        },
+        {
+          "english": "this tiny bird has a yellow belly and a grey bill and wings which are grey with yellow streaks.",
+          "indo": "Burung mungil ini memiliki perut berwarna kuning dan paruh berwarna abu-abu serta sayap berwarna abu-abu dengan guratan kuning."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0015_168196.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "yellow bird with brown wings on the side and a brown beak.",
+          "indo": "burung kuning dengan sayap coklat di samping dan paruh coklat."
+        },
+        {
+          "english": "this bird is yellow and brown in color with a sharp small beak and brown eye rings.",
+          "indo": "burung ini berwarna kuning kecokelatan dengan paruh kecil runcing dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a yellow bird with a grey wing and a pointy black beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh hitam runcing."
+        },
+        {
+          "english": "small yellow grey and brown bird with long tarsus and small black beak",
+          "indo": "burung kecil berwarna kuning abu-abu dan coklat dengan tarsus panjang dan paruh kecil berwarna hitam"
+        },
+        {
+          "english": "this small rounded bird has is almost entirely bright yellow, with its back and wings tinged with a soft brown, and its beak small and pointed.",
+          "indo": "Burung bulat kecil ini hampir seluruhnya berwarna kuning cerah, punggung dan sayapnya diwarnai dengan warna coklat lembut, serta paruhnya kecil dan runcing."
+        },
+        {
+          "english": "this bird has a brown bill, brown inner and outer rectrices, and uppertail coverts; its belly, side, flank, and abdomen is yellow, and its eyering is white.",
+          "indo": "burung ini memiliki paruh berwarna coklat, inner dan outer rectrices berwarna coklat, dan bulu penutup ekor atas; perut, samping, panggul, dan perutnya berwarna kuning, dan matanya berwarna putih."
+        },
+        {
+          "english": "a small yellow bird with a sharp blue beak and a small, recessed head",
+          "indo": "seekor burung kuning kecil dengan paruh biru tajam dan kepala kecil tersembunyi"
+        },
+        {
+          "english": "this bird is yellow with grey and has a very short beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow with grey and has a very short beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0016_168082.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the small tan bird blends in with its surroundings and has a sharp pointed beak.",
+          "indo": "burung kecil berwarna coklat menyatu dengan lingkungan sekitarnya dan memiliki paruh yang runcing dan tajam."
+        },
+        {
+          "english": "this tiny bird is different shades of green through out its body with tiny black eyes.",
+          "indo": "burung mungil ini memiliki corak hijau berbeda di seluruh tubuhnya dengan mata hitam kecil."
+        },
+        {
+          "english": "this is a small yellow bird with a grey head and a small pointy beak.",
+          "indo": "ini adalah burung kuning kecil dengan kepala abu-abu dan paruh kecil runcing."
+        },
+        {
+          "english": "a small lime green bird with a tiny gray bill that is short and sharp.",
+          "indo": "burung kecil berwarna hijau limau dengan paruh kecil berwarna abu-abu yang pendek dan tajam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0018_168126.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this tiny bird is fully masked in light green and it's beak is very thin",
+          "indo": "burung mungil ini sepenuhnya tertutup warna hijau muda dan paruhnya sangat tipis"
+        },
+        {
+          "english": "a small bird with sleek features, this lovely yellow bird has long slender legs and a beak.",
+          "indo": "seekor burung kecil dengan ciri-ciri ramping, burung kuning cantik ini memiliki kaki dan paruh yang panjang dan ramping."
+        },
+        {
+          "english": "this little bird is nearly all yellow with touches of green on its wings and tail.",
+          "indo": "Burung kecil ini hampir seluruhnya berwarna kuning dengan sentuhan warna hijau pada sayap dan ekornya."
+        },
+        {
+          "english": "this bird is yellow in color with a curved beak, and yellow eye rings.",
+          "indo": "burung ini berwarna kuning dengan paruh melengkung, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this is a small yellow and light brown bird with low set eyes and a pointed bill with darker yellow to light brown wings.",
+          "indo": "ini adalah burung kecil berwarna kuning dan coklat muda dengan mata rendah dan paruh runcing dengan sayap kuning tua hingga coklat muda."
+        },
+        {
+          "english": "this bird has wings that are brown with a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna kuning"
+        },
+        {
+          "english": "this bird is small in height and has a lime colored body.",
+          "indo": "burung ini berukuran kecil dan memiliki tubuh berwarna limau."
+        },
+        {
+          "english": "the bird has a yellow breast and belly and small black eyering.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta cincin mata kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow with a yellow belly, yellow crown and a brown beak.",
+          "indo": "burung ini berwarna kuning dengan perut kuning, mahkota kuning dan paruh coklat."
+        },
+        {
+          "english": "this bird is small and yellow with black streaks throughout its wings.",
+          "indo": "burung ini berukuran kecil berwarna kuning dengan guratan hitam di seluruh sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0019_167626.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and yellow breast and belly.",
+          "indo": "burung itu memiliki cincin mata hitam dan dada serta perut berwarna kuning."
+        },
+        {
+          "english": "this is a yellow and grey bird with a small grey beak.",
+          "indo": "ini adalah burung berwarna kuning dan abu-abu dengan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with yellow and gray feathers, a small head and small pointy beak.",
+          "indo": "burung kecil dengan bulu kuning dan abu-abu, kepala kecil dan paruh kecil runcing."
+        },
+        {
+          "english": "a small bird with a large breast the bird is green in color.",
+          "indo": "burung kecil dengan dada besar burungnya berwarna hijau."
+        },
+        {
+          "english": "the head is small compared to the body, with the body being a yellowish tint.",
+          "indo": "kepalanya kecil dibandingkan dengan tubuhnya, dengan warna tubuh yang kekuningan."
+        },
+        {
+          "english": "this bird has wings that are grey and green and has a yellow body",
+          "indo": "burung ini memiliki sayap berwarna abu-abu dan hijau serta memiliki tubuh berwarna kuning"
+        },
+        {
+          "english": "this is a small green bird with a gray head and gray pointed beak",
+          "indo": "ini adalah burung kecil berwarna hijau dengan kepala abu-abu dan paruh runcing abu-abu"
+        },
+        {
+          "english": "this",
+          "indo": "ini"
+        },
+        {
+          "english": "the bird is small in size and is grey and yellow in color.",
+          "indo": "burung itu berukuran kecil dan berwarna abu-abu dan kuning."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0021_168263.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small, completely yellow bird except for its white tailfeathers and small tan bill.",
+          "indo": "seekor burung kecil berwarna kuning kecuali bulu ekornya yang putih dan paruhnya yang kecil berwarna cokelat."
+        },
+        {
+          "english": "the bird has a small black eyering and a green breast and belly.",
+          "indo": "burung itu memiliki cincin mata hitam kecil dan dada serta perut berwarna hijau."
+        },
+        {
+          "english": "this is a small yellow bird with a grey head and a small beak.",
+          "indo": "ini adalah burung kuning kecil dengan kepala abu-abu dan paruh kecil."
+        },
+        {
+          "english": "bird with gray beak, tarsus and feet, green throat, breast, belly and abdomen, and black eye",
+          "indo": "burung dengan paruh abu-abu, tarsus dan kaki, tenggorokan hijau, dada, perut dan perut, dan mata hitam"
+        },
+        {
+          "english": "small yellow and green bird with long tarsus and medium to long beak",
+          "indo": "burung kecil berwarna kuning dan hijau dengan tarsus panjang dan paruh sedang hingga panjang"
+        },
+        {
+          "english": "this is a small yellow bird with gray stripes sitting in a tree.",
+          "indo": "ini adalah burung kuning kecil dengan garis abu-abu yang duduk di pohon."
+        },
+        {
+          "english": "this bird is yellow in color, with a sharp beak.",
+          "indo": "burung ini berwarna kuning, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is a solid shade of light yellow-green.",
+          "indo": "burung ini memiliki warna solid kuning-hijau muda."
+        },
+        {
+          "english": "yellow bird, with black markings on face and black and yellow wings.",
+          "indo": "burung kuning, dengan tanda hitam di muka dan sayap hitam kuning."
+        },
+        {
+          "english": "a small bird with a pale yellow belly, darker yellow back and nape, with a small pointed bill.",
+          "indo": "burung kecil dengan perut kuning pucat, punggung dan tengkuk kuning tua, dengan paruh kecil runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0027_168381.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small dosile bird with a light grayish brown back and a light gray belly, which has tiny wings.",
+          "indo": "burung kecil yang jinak dengan punggung berwarna coklat keabu-abuan dan perut abu-abu muda, yang memiliki sayap kecil."
+        },
+        {
+          "english": "this is a yellow bird with dark grey feathers and a pointy beak.",
+          "indo": "ini adalah burung kuning dengan bulu abu-abu tua dan paruh runcing."
+        },
+        {
+          "english": "this little bird has a yellow belly, breast, and eyebrow with a long needle like bill.",
+          "indo": "Burung kecil ini memiliki perut, dada, dan alis berwarna kuning dengan paruh berbentuk jarum panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with green crown, nape and throat, and grayish green breast, belly and abdomen, and black eye",
+          "indo": "burung dengan mahkota hijau, tengkuk dan tenggorokan, dan dada, perut dan perut berwarna hijau keabu-abuan, dan mata hitam"
+        },
+        {
+          "english": "this small bird is mostly green with some gray feathers.",
+          "indo": "burung kecil ini sebagian besar berwarna hijau dengan beberapa bulu berwarna abu-abu."
+        },
+        {
+          "english": "a small brown bird with a pointy black beak and eyes, with darker brown wings and tail.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh dan mata hitam runcing, dengan sayap dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "green and yellow body with black tail feathers",
+          "indo": "badannya berwarna hijau dan kuning dengan bulu ekor berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih dan kuning"
+        },
+        {
+          "english": "a small bird with a green coloring and pointed beak.",
+          "indo": "seekor burung kecil dengan warna hijau dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0028_167641.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a yellow and gray breasted bird with bluish gray back, and pointed black bill.",
+          "indo": "burung berdada kuning abu-abu, punggung abu-abu kebiruan, dan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is covered in grey and green feathers and has a yellow eye ring.",
+          "indo": "burung ini ditutupi bulu berwarna abu-abu dan hijau serta memiliki cincin mata berwarna kuning."
+        },
+        {
+          "english": "this small bird has gray and yellow feathers and a short, pointed bill.",
+          "indo": "burung kecil ini memiliki bulu berwarna abu-abu dan kuning serta paruh yang pendek dan runcing."
+        },
+        {
+          "english": "the bird has a yellow side and breast color with its back covered in greyish yellow feathers.",
+          "indo": "burung ini memiliki warna sisi dan dada berwarna kuning dengan punggung ditutupi bulu kuning keabu-abuan."
+        },
+        {
+          "english": "this small bird has a yellow eye ring, along with grey and yellow feathers along its back and nape, and dark green secondaries.",
+          "indo": "Burung kecil ini memiliki cincin mata berwarna kuning, bulu berwarna abu-abu dan kuning di sepanjang punggung dan tengkuknya, serta bulu sekunder berwarna hijau tua."
+        },
+        {
+          "english": "this petite bird has a small gray beak and is entirely yellow with a touch of gray mixed in.",
+          "indo": "burung mungil ini memiliki paruh kecil berwarna abu-abu dan seluruhnya berwarna kuning dengan sedikit campuran abu-abu."
+        },
+        {
+          "english": "a green chested bird with a tiny beak rest.",
+          "indo": "seekor burung berdada hijau dengan paruh kecil."
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        },
+        {
+          "english": "this little yellow bird has a thin, sharp bill and a bright yellow eyering.",
+          "indo": "burung kecil berwarna kuning ini memiliki paruh yang tipis dan tajam serta cincin mata berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0030_168376.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small bird with a tan body with a small gray bill.",
+          "indo": "seekor burung kecil berbadan kecokelatan dengan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a small head with no neck, and a small rounded belly",
+          "indo": "burung ini mempunyai kepala kecil tanpa leher, dan perut kecil membulat"
+        },
+        {
+          "english": "a chubby yellowish brown bird with striated wing and tail feathers",
+          "indo": "burung gemuk berwarna coklat kekuningan dengan bulu sayap dan ekor lurik"
+        },
+        {
+          "english": "the bird has a tan belly, neck, back, and head, with black striped wings and tail.",
+          "indo": "burung ini memiliki perut, leher, punggung, dan kepala berwarna coklat, dengan sayap dan ekor bergaris hitam."
+        },
+        {
+          "english": "this bird has a rounded belly, a short bill, and very long legs",
+          "indo": "burung ini mempunyai perut yang membulat, paruh yang pendek, dan kaki yang sangat panjang"
+        },
+        {
+          "english": "a very stubby and short bird that has a golden brown belly and wings.",
+          "indo": "burung yang sangat gemuk dan pendek yang memiliki perut dan sayap berwarna coklat keemasan."
+        },
+        {
+          "english": "the bird is mostly golden in color with spots of brown in the wings, and its very long brown legs.",
+          "indo": "burung ini sebagian besar berwarna emas dengan bintik-bintik coklat di sayap, dan kakinya yang sangat panjang berwarna coklat."
+        },
+        {
+          "english": "a small bird with a light brown and yellow mixture body covering.",
+          "indo": "burung kecil dengan penutup badan campuran coklat muda dan kuning."
+        },
+        {
+          "english": "the bird is yellow and has some brown highlights to the feathers.",
+          "indo": "burung itu berwarna kuning dan memiliki sedikit sentuhan warna coklat pada bulunya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0032_167589.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "birds bell is a yellow color head is tan beek is small and black wings are yellow and tan.",
+          "indo": "lonceng burung berwarna kuning, kepala berwarna coklat, paruh kecil dan sayap hitam berwarna kuning dan coklat."
+        },
+        {
+          "english": "the bird has yellow abdomen, brown coverts and a yellow eye ring.",
+          "indo": "burung itu memiliki perut berwarna kuning, bulu berwarna coklat dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this little bird had a bright yellow throat that turns green going to the breast and back and has grey tail feathers.",
+          "indo": "burung kecil ini memiliki tenggorokan berwarna kuning cerah yang berubah menjadi hijau di bagian dada dan punggung serta memiliki bulu ekor berwarna abu-abu."
+        },
+        {
+          "english": "this is a roused green bird with some gray on its primaries and tail.",
+          "indo": "ini adalah burung hijau terangsang dengan sedikit warna abu-abu di bagian bulu primer dan ekornya."
+        },
+        {
+          "english": "a small yellow bodied bird with grey highlights on its wings and rectrices with a black beak",
+          "indo": "burung kecil bertubuh kuning dengan sentuhan warna abu-abu di sayapnya dan rectrices dengan paruh hitam"
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a straight sharp bill and small wings.",
+          "indo": "burung ini mempunyai paruh yang lurus dan tajam serta sayap yang kecil."
+        },
+        {
+          "english": "this small bird has a small, pointed beak and a green body with an overshadow of black from the head area to the wing and tail area.",
+          "indo": "Burung berukuran kecil ini memiliki paruh yang kecil dan runcing serta badan yang berwarna hijau dengan bayang-bayang warna hitam mulai dari area kepala hingga area sayap dan ekor."
+        },
+        {
+          "english": "mostly yellow bird with darker yellow around head and wings.",
+          "indo": "kebanyakan burung berwarna kuning dengan warna kuning tua di sekitar kepala dan sayap."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai badan yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0033_167991.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this bird is almost completely green with gray primaries and secondaries.",
+          "indo": "burung ini hampir seluruhnya berwarna hijau dengan warna abu-abu bulu primer dan bulu sekunder."
+        },
+        {
+          "english": "this bird is green with black on its tail and has a very short beak.",
+          "indo": "burung ini berwarna hijau dengan ekor berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has pale green feathers with a small point beak and black eyes",
+          "indo": "burung ini mempunyai bulu berwarna hijau pucat dengan paruh runcing kecil dan mata berwarna hitam"
+        },
+        {
+          "english": "this is a small olive green colored bird with a slightly darker back and head.",
+          "indo": "ini adalah burung kecil berwarna hijau zaitun dengan punggung dan kepala sedikit lebih gelap."
+        },
+        {
+          "english": "this is a small lime-green colored bird with a pointed bill and tan tipped wings.",
+          "indo": "ini adalah burung kecil berwarna hijau limau dengan paruh runcing dan sayap berujung cokelat."
+        },
+        {
+          "english": "a semi colorful bird, mainly light green, with a short pointy beak, and a long tail",
+          "indo": "burung semi berwarna, sebagian besar berwarna hijau muda, dengan paruh pendek runcing, dan ekor panjang"
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a green body with brown wings and brown beak.",
+          "indo": "burung ini memiliki tubuh berwarna hijau dengan sayap berwarna coklat dan paruh berwarna coklat."
+        },
+        {
+          "english": "a small bird with a yellow wings and belly and the bill is short and pointed",
+          "indo": "seekor burung kecil dengan sayap dan perut berwarna kuning serta paruhnya pendek dan runcing"
+        },
+        {
+          "english": "this bird is a lime green with greyish wings and long legs.",
+          "indo": "burung ini berwarna hijau limau dengan sayap keabu-abuan dan kaki panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0034_168185.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the body is grey-yellow, with the back and wings more complete grey.",
+          "indo": "badannya berwarna abu-abu kuning, dengan punggung dan sayap lebih lengkap berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a black eyering and a yellow throat.",
+          "indo": "burung itu memiliki cincin mata hitam dan tenggorokan kuning."
+        },
+        {
+          "english": "this is a yellow bird with grey wings and a small grey beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey head and wings, the eyebrow is white and the throat and chest are a grey yellow color.",
+          "indo": "burung ini memiliki kepala dan sayap berwarna abu-abu, alis berwarna putih, serta tenggorokan dan dada berwarna kuning abu-abu."
+        },
+        {
+          "english": "the bird has a yellow belly and breast, the bill is short and pointed, with grey and yellow covering the rest of its body.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning, paruhnya pendek dan runcing, dengan warna abu-abu dan kuning menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this small bird is gray with a yellow breast, belly and undertail coverts.",
+          "indo": "burung kecil ini berwarna abu-abu dengan dada, perut, dan bulu ekor berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray and yellow",
+          "indo": "burung ini memiliki perut yang berwarna putih, abu-abu, dan kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and gray",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0037_167687.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a tiny, bird, with little head, small pointed bill, brown back, wings, and crown, and light tan from throat to abdomen.",
+          "indo": "seekor burung mungil, dengan kepala kecil, paruh runcing kecil, punggung, sayap, dan mahkota berwarna coklat, dan berwarna coklat muda dari tenggorokan hingga perut."
+        },
+        {
+          "english": "the bird is plump with a white belly and a sharp pointed beak.",
+          "indo": "burung itu gempal dengan perut berwarna putih dan paruh runcing runcing."
+        },
+        {
+          "english": "a small brown bird with small pointed beak and cream throat and breast.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh kecil runcing dan tenggorokan serta dada berwarna krem."
+        },
+        {
+          "english": "this small bird has a yellow breast and belly and dark yellow wings.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna kuning serta sayap berwarna kuning tua."
+        },
+        {
+          "english": "this bird is all brown but its undersides are a lighter brown, and it has a short very pointed bill.",
+          "indo": "burung ini seluruhnya berwarna coklat tetapi bagian bawahnya berwarna coklat muda, dan paruhnya pendek dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird is small and round with a tiny pointed beak.",
+          "indo": "burung ini berukuran kecil dan bulat dengan paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird is yellow with brown and has a very short beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a plump gray bird with a small head and a pointed beak.",
+          "indo": "ini adalah burung abu-abu gempal dengan kepala kecil dan paruh runcing."
+        },
+        {
+          "english": "a bird with a small beak, brown head and wings with a cream colored belly.",
+          "indo": "burung dengan paruh kecil, kepala dan sayap berwarna coklat dengan perut berwarna krem."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0038_168384.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this little fellow is nearly all yellow with a bit of gray in its secondaries.",
+          "indo": "anak kecil ini hampir semuanya berwarna kuning dengan sedikit abu-abu di bagian sekundernya."
+        },
+        {
+          "english": "this is a yellow bird with grey wings and a grey pointy beak.",
+          "indo": "ini adalah burung kuning dengan sayap abu-abu dan paruh runcing abu-abu."
+        },
+        {
+          "english": "a small yellow bird with little black eyes.",
+          "indo": "seekor burung kuning kecil dengan mata hitam kecil."
+        },
+        {
+          "english": "cute little yellow bird with gray on it's crown and bill.",
+          "indo": "burung kuning kecil yang lucu dengan warna abu-abu di mahkota dan paruhnya."
+        },
+        {
+          "english": "this bird is yellow in color with a sharp beak, and yellow eye rings.",
+          "indo": "burung ini berwarna kuning dengan paruh runcing, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "a small yellow bird with a grey pointed bill, black eyes, and it has a darker colored yellow head.",
+          "indo": "burung kecil berwarna kuning dengan paruh runcing berwarna abu-abu, bermata hitam, dan kepala berwarna kuning lebih gelap."
+        },
+        {
+          "english": "all yellow bird with darker nape and wings and a downward curved beak on a medium sized head.",
+          "indo": "burung semuanya berwarna kuning dengan tengkuk dan sayap lebih gelap serta paruh melengkung ke bawah pada kepala berukuran sedang."
+        },
+        {
+          "english": "this bird is yellow in color, with a small sharp beak.",
+          "indo": "burung ini berwarna kuning, dengan paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird is small and yellow throughout its entire body.",
+          "indo": "burung ini berukuran kecil dan berwarna kuning di seluruh tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0040_168029.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a puffy yellow breasted bird with short black bill.",
+          "indo": "burung berdada kuning menggembung dengan paruh hitam pendek."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a dark superciliary, and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna kuning dengan superciliary berwarna gelap, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "the bird has a yellow colored side and throat with a dark yellow and brown colored coverts.",
+          "indo": "burung ini memiliki bagian samping dan tenggorokan berwarna kuning dengan bulu berwarna kuning tua dan coklat."
+        },
+        {
+          "english": "small yellow bird with grey wings and small pointed bill.",
+          "indo": "burung kuning kecil dengan sayap abu-abu dan paruh runcing kecil."
+        },
+        {
+          "english": "this bird is yellow and black in color with a small sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna kuning kehitaman dengan paruh kecil runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow with black and has a very short beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a bird with a yellow and white belly, a grey tail and back, and a yellow and grey head.",
+          "indo": "burung dengan perut kuning dan putih, ekor dan punggung berwarna abu-abu, serta kepala berwarna kuning dan abu-abu."
+        },
+        {
+          "english": "this little bird is yellow, with brown accented wings, and a small bill.",
+          "indo": "burung kecil ini berwarna kuning, dengan sayap beraksen coklat, dan paruh kecil."
+        },
+        {
+          "english": "this yellow bird has various shades all over its body, orange feet, and a grey beak.",
+          "indo": "burung berwarna kuning ini memiliki corak yang beragam di sekujur tubuhnya, kaki berwarna jingga, dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "the small pointed bill on the yellow body are in proportion to the size of the head and body.",
+          "indo": "paruh kecil runcing pada badan kuning sebanding dengan ukuran kepala dan badan."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0042_167614.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this is a gray bird with yellow undertones, brightest at its undertail covert and eye patch, it has a long beak.",
+          "indo": "Ini adalah burung abu-abu dengan warna dasar kuning, paling terang pada bagian bawah dan bulu penutup matanya, ia memiliki paruh yang panjang."
+        },
+        {
+          "english": "this bird is a soft brown color with yellow that blends into the brown in the cheek patch area and is bright in the undertail coverts and has a long, thin, pointed bill.",
+          "indo": "Burung ini mempunyai warna coklat lembut dengan warna kuning yang menyatu dengan warna coklat pada daerah pipi dan cerah pada bulu ekornya serta mempunyai paruh yang panjang, tipis, dan runcing."
+        },
+        {
+          "english": "this little bird has a bright yellow vent and cheek patch along with a grey/tan breast and body.",
+          "indo": "burung kecil ini memiliki lubang hidung dan pipi berwarna kuning cerah serta dada dan tubuh berwarna abu-abu/cokelat."
+        },
+        {
+          "english": "this bird is grey and yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird is yellow and gray with a light gray eyebrow.",
+          "indo": "burung kecil ini berwarna kuning abu-abu dengan alis abu-abu muda."
+        },
+        {
+          "english": "this bird has wings that are brown and yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan kuning serta mempunyai paruh yang pendek"
+        },
+        {
+          "english": "the bird has a small black bill and grey belly.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this colorful bird has a yellow and gray chest and feathers with a short, dark-gray bill.",
+          "indo": "burung berwarna-warni ini memiliki dada berwarna kuning dan abu-abu serta bulu dengan paruh pendek berwarna abu-abu tua."
+        },
+        {
+          "english": "a small bird with a mostly dull green body and silver beak.",
+          "indo": "seekor burung kecil dengan tubuh sebagian besar berwarna hijau kusam dan paruh berwarna perak."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0048_167610.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the chest and belly of the bird is yellow the neck is white.",
+          "indo": "dada dan perut burung berwarna kuning, lehernya berwarna putih."
+        },
+        {
+          "english": "the bird has black eyes, a greyish-black beak, light grey tarsus and feet, and a yellow lower breast and abdomen.",
+          "indo": "burung ini memiliki mata hitam, paruh hitam keabu-abuan, tarsus dan kaki abu-abu muda, serta dada dan perut bagian bawah berwarna kuning."
+        },
+        {
+          "english": "a small yellow bird with a white face and small beak.",
+          "indo": "seekor burung kuning kecil dengan wajah putih dan paruh kecil."
+        },
+        {
+          "english": "a small, chubby yellow and white bird with small black eyes and a grayish white beak",
+          "indo": "burung kecil gemuk berwarna kuning putih dengan mata kecil berwarna hitam dan paruh berwarna putih keabu-abuan"
+        },
+        {
+          "english": "this little bird has a white breast, yellow belly, and a grey crown.",
+          "indo": "burung kecil ini memiliki dada berwarna putih, perut kuning, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a unique belly that is a stunning yellow color.",
+          "indo": "burung ini mempunyai perut yang unik yaitu warna kuning yang menawan."
+        },
+        {
+          "english": "this small bird has a short pointed beak, dark eyes, gray head and wings, and yellow on the chest and abdomen.",
+          "indo": "burung kecil ini memiliki paruh pendek runcing, mata berwarna gelap, kepala dan sayap berwarna abu-abu, serta berwarna kuning pada bagian dada dan perut."
+        },
+        {
+          "english": "this round, yellow bird has a very short, narrow beak and a white throat.",
+          "indo": "burung bulat berwarna kuning ini memiliki paruh yang sangat pendek, sempit, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crown with grey throat and yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan tenggorokan berwarna abu-abu dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0049_167974.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small bird greenish yellow all over has black eyes, small beak and its wingtips are bluish.",
+          "indo": "burung kecil berwarna kuning kehijauan, bermata hitam, paruh kecil, dan ujung sayap berwarna kebiruan."
+        },
+        {
+          "english": "this yellow bird has a short, pointed beak, and bluish-grey primaries.",
+          "indo": "burung kuning ini memiliki paruh pendek, runcing, dan warna bulu primer berwarna abu-abu kebiruan."
+        },
+        {
+          "english": "a small yellow bird with a small head and a pointy gray beak.",
+          "indo": "seekor burung kuning kecil dengan kepala kecil dan paruh abu-abu runcing."
+        },
+        {
+          "english": "this bird has a yello belly and breast with a short pointy bill.",
+          "indo": "Burung ini mempunyai perut dan dada berwarna kuning dengan paruh yang pendek dan runcing."
+        },
+        {
+          "english": "this bird has a yellow crown, a yellow breast, and a grey wing",
+          "indo": "burung ini memiliki mahkota berwarna kuning, dada berwarna kuning, dan sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a yellow bird with a black wingbars, rectrices and the bill is short and pointed",
+          "indo": "burung berwarna kuning dengan garis sayap hitam, rectrices, dan paruh pendek dan runcing"
+        },
+        {
+          "english": "a yellow bird with dirty colors including grey to brown and a short sharp bill.",
+          "indo": "burung berwarna kuning dengan warna kotor antara lain abu-abu sampai coklat dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a light beck, black eye and body colors are yellow, gray with black.",
+          "indo": "burung ini mempunyai paruh berwarna terang, mata berwarna hitam dan warna tubuh kuning, abu-abu dengan warna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0050_168166.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a yellow bird with a tint of black wings with an average head and sharp beak.",
+          "indo": "burung berwarna kuning dengan semburat sayap hitam dengan kepala sedang dan paruh runcing."
+        },
+        {
+          "english": "a small yellow bird with brown secondaries, rectrices, and bill.",
+          "indo": "seekor burung kuning kecil dengan bulu sekunder berwarna coklat, rectrices, dan paruh."
+        },
+        {
+          "english": "a small bird with gray beak, wings are yellow and gray, yellow covering the rest of the body.",
+          "indo": "burung kecil dengan paruh berwarna abu-abu, sayap berwarna kuning dan abu-abu, kuning menutupi seluruh tubuh."
+        },
+        {
+          "english": "this small, plump bird is yellow with hints of gray accents throughout, and a short, pointed black beak.",
+          "indo": "burung kecil dan gempal ini berwarna kuning dengan sedikit aksen abu-abu di seluruh bagiannya, dan paruh hitam pendek dan runcing."
+        },
+        {
+          "english": "this bird has a yellow breast, a yellow belly, and a short bill",
+          "indo": "burung ini memiliki dada berwarna kuning, perut berwarna kuning, dan paruh pendek"
+        },
+        {
+          "english": "this small bird has black eyes, a small gray beak, and a yellow green body.",
+          "indo": "burung kecil ini bermata hitam, paruh kecil berwarna abu-abu, dan badan berwarna kuning hijau."
+        },
+        {
+          "english": "a small colorful bird with a yellow head and body, with grey wing tips and tail feathers.",
+          "indo": "burung kecil berwarna-warni dengan kepala dan badan berwarna kuning, dengan ujung sayap dan bulu ekor berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a black eyering and a yellow belly.",
+          "indo": "burung itu mempunyai cincin mata hitam dan perut kuning."
+        },
+        {
+          "english": "a small lightly yellow shaded colored bird with light brown shades around its wing and back area, a long tail and a small pointed grey beak with black round eyes and white tarsus.",
+          "indo": "burung kecil berwarna kuning muda dengan corak coklat muda di sekitar sayap dan punggung, ekor panjang dan paruh kecil berwarna abu-abu runcing dengan mata bulat hitam dan tarsus putih."
+        },
+        {
+          "english": "this bird has a yellow crown, yellow primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota kuning, bulu primer kuning, dan perut kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0051_168002.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "short bird with green feathers, long tail feathers, and thin claws.",
+          "indo": "burung pendek dengan bulu berwarna hijau, bulu ekor panjang, dan cakar tipis."
+        },
+        {
+          "english": "this bird is brown with short legs and has a very short beak.",
+          "indo": "burung ini berwarna coklat, berkaki pendek dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a grey bird with a small pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan paruh runcing kecil."
+        },
+        {
+          "english": "small grey and yellow bird with long black tarsus and medium beak",
+          "indo": "burung kecil berwarna abu-abu dan kuning dengan tarsus hitam panjang dan paruh sedang"
+        },
+        {
+          "english": "the bird has a green body, thin black tarsus and small feet, and it's head is small compared to its body.",
+          "indo": "burung ini berbadan hijau, tarsus hitam tipis dan kaki kecil, serta kepalanya lebih kecil dibandingkan tubuhnya."
+        },
+        {
+          "english": "this bird is brown with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a black breast and a small pointed bill.",
+          "indo": "burung kecil ini memiliki dada berwarna hitam dan paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird has a small black bill that is thin and a green belly.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam yang tipis dan perut berwarna hijau."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a green belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna hijau."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0052_168013.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "here we have a tiny lemon-lime colored bird perched on a branch where the flowering part of the tree buds match him, as he has tiny eyes watching and his wing primaries and secondaries are a shade or two darker than his bright body and his beak is tiny and sharp looking green-brown in color.",
+          "indo": "di sini kita memiliki seekor burung kecil berwarna lemon-jeruk nipis yang bertengger di dahan di mana bagian berbunga dari kuncup pohon cocok dengannya, karena ia memiliki mata kecil yang mengawasi dan sayap bulu primer dan sekundernya satu atau dua warna lebih gelap daripada tubuh terang dan paruhnya. kecil dan tampak tajam berwarna hijau kecokelatan."
+        },
+        {
+          "english": "this bird is yellow and black in color with a skinny black beak and yellow eye rings.",
+          "indo": "burung ini berwarna kuning kehitaman dengan paruh hitam kurus dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this little bird is nearly all yellow with touches of green on its secondaries and tail.",
+          "indo": "Burung kecil ini hampir seluruhnya berwarna kuning dengan sentuhan hijau pada bagian bulu sekunder dan ekornya."
+        },
+        {
+          "english": "this bird is small, with a yellow belly, and grey wing tips and beak.",
+          "indo": "burung ini berukuran kecil, dengan perut berwarna kuning, serta ujung sayap dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with yellow body and a tip of yellow on the bill",
+          "indo": "seekor burung kecil berbadan kuning dan ujung paruhnya berwarna kuning"
+        },
+        {
+          "english": "this tiny bird is mostly yellow, with tinges of gray, and it has light brown wings, along with a brown pointed bill.",
+          "indo": "Burung mungil ini sebagian besar berwarna kuning, dengan semburat abu-abu, sayapnya berwarna coklat muda, dan paruhnya runcing berwarna coklat."
+        },
+        {
+          "english": "a bird with a black bill, yellow breast and yellow crown.",
+          "indo": "burung dengan paruh hitam, dada kuning, dan mahkota kuning."
+        },
+        {
+          "english": "a neon colored bird that is small in size, and has a silver beak.",
+          "indo": "burung berwarna neon yang berukuran kecil, dan memiliki paruh berwarna perak."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0055_168600.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small grey plain bird with a small pointed bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan paruh runcing kecil."
+        },
+        {
+          "english": "light green small bird with a light green beak and black eyes",
+          "indo": "burung kecil berwarna hijau muda dengan paruh hijau muda dan mata hitam"
+        },
+        {
+          "english": "the bird has greyish green crown and covert with a small yellow eyering.",
+          "indo": "burung itu mempunyai mahkota berwarna hijau keabu-abuan dan bulu penutup dengan cincin mata kecil berwarna kuning."
+        },
+        {
+          "english": "this little bird is mostly gray with a little pointy bill.",
+          "indo": "burung kecil ini sebagian besar berwarna abu-abu dengan paruh sedikit runcing."
+        },
+        {
+          "english": "this small grey bird has a black eye and a round head",
+          "indo": "burung kecil berwarna abu-abu ini memiliki mata hitam dan kepala bulat"
+        },
+        {
+          "english": "this bird is brown with grey and has a very short beak.",
+          "indo": "burung ini berwarna coklat kelabu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the small green bird has a short beak, green wingbars and brown foot and tarsus.",
+          "indo": "burung kecil berwarna hijau memiliki paruh pendek, garis sayap berwarna hijau, serta kaki dan tarsus berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with long, thin bill, its eyering is raised.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh panjang dan tipis, matanya terangkat."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a pointed bill, with a light grey back and breast.",
+          "indo": "burung ini memiliki paruh yang runcing, dengan punggung dan dada berwarna abu-abu muda."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0056_167876.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small green and grey bird with white underfeathers and a short, pointed beak.",
+          "indo": "burung kecil berwarna hijau dan abu-abu dengan bulu bagian bawah berwarna putih dan paruh pendek runcing."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and brown beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird has a grey head and body with a average sized head.",
+          "indo": "burung ini memiliki kepala dan tubuh berwarna abu-abu dengan ukuran kepala rata-rata."
+        },
+        {
+          "english": "a small sparrow-like greenish brown bird, that is lighter colored on its ventral side.",
+          "indo": "burung kecil berwarna coklat kehijauan seperti burung pipit, dengan warna lebih terang di sisi perutnya."
+        },
+        {
+          "english": "this small light grey bird has a short black beak and a smooth crown.",
+          "indo": "burung kecil berwarna abu-abu muda ini memiliki paruh pendek berwarna hitam dan mahkota halus."
+        },
+        {
+          "english": "a white and grey colored bird with a dark grey bill.",
+          "indo": "burung berwarna putih abu-abu dengan paruh abu-abu tua."
+        },
+        {
+          "english": "a bird with a black bill, white eyering and black secondaries.",
+          "indo": "seekor burung dengan paruh hitam, cincin mata putih, dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this small bird is light gray in color, with a short pointed dark gray bill.",
+          "indo": "burung kecil ini berwarna abu-abu muda, dengan paruh pendek berwarna abu-abu tua dan runcing."
+        },
+        {
+          "english": "this small bird has a black bill and eyes but a white breast and belly.",
+          "indo": "burung kecil ini memiliki paruh dan mata berwarna hitam tetapi dada dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a light yellow breast and a short black pointed beak.",
+          "indo": "seekor burung kecil dengan dada kuning muda dan paruh pendek runcing berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0057_168424.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this is a round green and yellow bird with a short narrow beak and black eyes.",
+          "indo": "ini adalah burung bulat berwarna hijau dan kuning dengan paruh pendek sempit dan mata hitam."
+        },
+        {
+          "english": "this is a bird with a yellow belly, grey head and a small beak.",
+          "indo": "ini adalah burung dengan perut kuning, kepala abu-abu dan paruh kecil."
+        },
+        {
+          "english": "a very round compact bird with short downward tuned beak, yellow chest and green head, back and wings.",
+          "indo": "burung kompak yang sangat bulat dengan paruh pendek mengarah ke bawah, dada kuning dan kepala, punggung, dan sayap berwarna hijau."
+        },
+        {
+          "english": "a small bird green bird with a yellow belly, bright yellow undertail coverts & long pointed beak.",
+          "indo": "burung kecil berwarna hijau dengan perut kuning, bulu ekor bawah berwarna kuning cerah & paruh runcing panjang."
+        },
+        {
+          "english": "this bird has a yelloe body.a small pointed bill and a small head compared to the body.",
+          "indo": "burung ini mempunyai badan yang kuning, paruh yang kecil dan runcing serta kepala yang kecil jika dibandingkan dengan badannya."
+        },
+        {
+          "english": "this is a small round bird that is yellow with a brighter yellow ring around its eye with a short tail that sticks out.",
+          "indo": "ini adalah burung bulat kecil berwarna kuning dengan lingkaran kuning cerah di sekitar matanya dengan ekor pendek yang menonjol."
+        },
+        {
+          "english": "the bird has a yellow bellow and darker wings with a short bill.",
+          "indo": "burung itu memiliki bagian bawah berwarna kuning dan sayap lebih gelap dengan paruh pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "a small bird with very large eyes, a plump body with a mustard yellow belly, olive green wings, and a small head with a slim pointed beak.",
+          "indo": "burung kecil bermata sangat besar, berbadan gempal dengan perut berwarna kuning sawi, sayap berwarna hijau zaitun, dan kepala kecil dengan paruh runcing ramping."
+        },
+        {
+          "english": "this bird has a pointed bill, with a yellow belly.",
+          "indo": "Burung ini mempunyai paruh yang runcing, dengan perut berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0059_168259.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has sharp pointed beak with its crown and nape in green and brown tarsus and feet.",
+          "indo": "burung ini memiliki paruh runcing tajam dengan mahkota dan tengkuknya berwarna hijau dan coklat tarsus serta kaki."
+        },
+        {
+          "english": "a tan bird with dark brown rail and wing feathers and white eyerings.",
+          "indo": "seekor burung berwarna coklat dengan bulu rel dan sayap berwarna coklat tua serta cincin mata berwarna putih."
+        },
+        {
+          "english": "a short yellow bird with a small beak, long tail feathers and no neck.",
+          "indo": "burung pendek berwarna kuning dengan paruh kecil, bulu ekor panjang dan tidak berleher."
+        },
+        {
+          "english": "a small sized bird that has tones of yellow with a narrow pointed bill",
+          "indo": "burung berukuran kecil bernuansa kuning dengan paruh runcing sempit"
+        },
+        {
+          "english": "this consistently yellow and black bird has a stern disposition and a slightly curved, narrow beak.",
+          "indo": "burung yang selalu berwarna kuning dan hitam ini memiliki watak yang tegas dan paruh yang agak melengkung dan sempit."
+        },
+        {
+          "english": "the bird has a light green crown, yellow eyerings, green and gray wings, and a pale yellow green breast.",
+          "indo": "burung ini memiliki mahkota berwarna hijau muda, cincin mata kuning, sayap hijau dan abu-abu, dan dada berwarna hijau kuning pucat."
+        },
+        {
+          "english": "this lime green bird has a small needle like beak, dark grey rectrices and primary wings.",
+          "indo": "burung berwarna hijau limau ini memiliki paruh seperti jarum kecil, rectrices abu-abu tua, dan sayap utama."
+        },
+        {
+          "english": "this bird is green with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna hijau abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow and gray in color, and has a sharp beak.",
+          "indo": "burung ini berwarna kuning keabu-abuan, serta mempunyai paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0062_168119.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "beautiful bird stands as its green breast sticks out and its black and green secondaries rest behind it.",
+          "indo": "burung cantik berdiri dengan dada hijaunya menonjol dan bulu sekunder berwarna hitam dan hijau berada di belakangnya."
+        },
+        {
+          "english": "the bird has a small bill and a black eyering.",
+          "indo": "burung itu mempunyai paruh kecil dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "one bird is green with a short beak and one is brown and white.",
+          "indo": "seekor burung berwarna hijau dengan paruh pendek dan satu lagi berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has plumage with different shades of green, with a lighter green belly, darker green wings, and dark eyes with a very short pointed beak.",
+          "indo": "burung ini memiliki bulu dengan corak hijau yang berbeda-beda, dengan perut berwarna hijau muda, sayap berwarna hijau tua, dan mata berwarna gelap dengan paruh runcing yang sangat pendek."
+        },
+        {
+          "english": "this is a bird with a yellow belly and breast and a grey back and head.",
+          "indo": "ini adalah burung dengan perut dan dada berwarna kuning serta punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this bird is green with black and has a very short beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "the small bird has is dark and light green.",
+          "indo": "burung kecil itu berwarna hijau tua dan hijau muda."
+        },
+        {
+          "english": "this bird has an all yellow body with a sharp pointed bill",
+          "indo": "Burung ini mempunyai tubuh serba kuning dengan paruh yang runcing dan runcing"
+        },
+        {
+          "english": "this bird has wings that are green and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hijau dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0064_166929.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a yellow bird with green on the crown and black eyering",
+          "indo": "burung berwarna kuning dengan warna hijau pada mahkotanya dan cincin mata berwarna hitam"
+        },
+        {
+          "english": "bird has yellow body feathers, yellow breast feathers, and black beak",
+          "indo": "burung mempunyai bulu badan berwarna kuning, bulu dada berwarna kuning, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this is a small yellow bird with grey wings and a pointy beak.",
+          "indo": "ini adalah burung kuning kecil dengan sayap abu-abu dan paruh runcing."
+        },
+        {
+          "english": "a small bird with a scruffy dull gold colored under belly, brighter gold eye ring and sharp short bill.",
+          "indo": "seekor burung kecil dengan perut bagian bawah berwarna emas kusam, cincin mata emas cerah, dan paruh pendek tajam."
+        },
+        {
+          "english": "this lush, yellow and black bird has a nice evenness to its coat and a decently long, sharp beak.",
+          "indo": "Burung yang subur, berwarna kuning dan hitam ini memiliki bulu yang rata dan paruh yang cukup panjang dan tajam."
+        },
+        {
+          "english": "this bird is yellow with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a light yellow eye ring, chest, belly and vent and black and white secondaries.",
+          "indo": "burung ini mempunyai cincin mata, dada, perut dan lubang kloaka berwarna kuning muda serta bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "this small bird has a yellow belly and black eyes.",
+          "indo": "burung kecil ini memiliki perut berwarna kuning dan mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a yellow back, eyering, breast and belly",
+          "indo": "burung ini mempunyai punggung, cincin mata, dada dan perut berwarna kuning"
+        },
+        {
+          "english": "this small bird is yellow all over and has a short pointed black bill.",
+          "indo": "burung kecil ini berwarna kuning seluruhnya dan memiliki paruh pendek berwarna hitam dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0065_167952.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "small pudgy bird with light green feathers and grey feathers from its head to its tail.",
+          "indo": "burung kecil gemuk dengan bulu berwarna hijau muda dan bulu abu-abu dari kepala hingga ekor."
+        },
+        {
+          "english": "this bird is yellow and grey in color with a sharp beak and grey eye rings.",
+          "indo": "burung ini berwarna kuning dan abu-abu dengan paruh runcing dan cincin mata berwarna abu-abu."
+        },
+        {
+          "english": "this bird has yellow sides and and black wings, a grey head and throat, and off white eyerings.",
+          "indo": "burung ini memiliki sisi kuning dan sayap hitam, kepala dan tenggorokan berwarna abu-abu, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crown, a yellow belly, and a pointed bill",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, perut berwarna kuning, dan paruh yang runcing"
+        },
+        {
+          "english": "this bird is white with grey on its head and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "small bird with yellow abdomen, yellowish grey primaries and secondaries, crown is grey color, throat and breast are light yellow color.",
+          "indo": "burung kecil dengan perut kuning, bulu primer dan bulu sekunder abu-abu kekuningan, mahkota berwarna abu-abu, tenggorokan dan dada berwarna kuning muda."
+        },
+        {
+          "english": "this bird has grey, green and black secondaries, a grey head, white eye ring and yellow breast.",
+          "indo": "burung ini memiliki bulu sekunder berwarna abu-abu, hijau dan hitam, kepala berwarna abu-abu, cincin mata berwarna putih, dan dada berwarna kuning."
+        },
+        {
+          "english": "this bird is white with grey and has a very short beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow and gray in color, with a sharp and skinny beak.",
+          "indo": "burung ini berwarna kuning dan abu-abu, dengan paruh yang runcing dan kurus."
+        },
+        {
+          "english": "a small bird with a yellow breast and a short pointed beak.",
+          "indo": "seekor burung kecil dengan dada kuning dan paruh runcing pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0066_167949.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this bird has a gray head and yellow breast and belly. the wings are black and white striped.",
+          "indo": "burung ini memiliki kepala berwarna abu-abu dan dada serta perut berwarna kuning. sayapnya bergaris hitam putih."
+        },
+        {
+          "english": "this is a bird with a yellow belly, gray back and a grey head.",
+          "indo": "ini adalah burung dengan perut kuning, punggung abu-abu, dan kepala abu-abu."
+        },
+        {
+          "english": "this bird has a yellow belly, a short and sharp bill, and a large tarsus.",
+          "indo": "burung ini memiliki perut berwarna kuning, paruh pendek dan tajam, serta tarsus yang besar."
+        },
+        {
+          "english": "this bird is grey and yellow in color with a sharp beak, and brown eye rings.",
+          "indo": "burung ini berwarna abu-abu kuning dengan paruh runcing, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a yellow throat, breast, belly and abdomen.",
+          "indo": "burung ini memiliki tenggorokan, dada, perut dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird is yellow and grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dan abu-abu serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is almost entirely a bright yellow, while the eyes are completely black and somewhat large.",
+          "indo": "burung ini hampir seluruhnya berwarna kuning cerah, sedangkan matanya serba hitam dan agak besar."
+        },
+        {
+          "english": "this bird has a yellowish gold belly and neck area with a greyish back.",
+          "indo": "burung ini mempunyai daerah perut dan leher berwarna emas kekuningan dengan punggung berwarna keabu-abuan."
+        },
+        {
+          "english": "this bird is yellow with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kelabu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this gray and yellow bird has long yellow tarsus and feet, and a short straight bill.",
+          "indo": "burung berwarna abu-abu dan kuning ini memiliki tarsus dan kaki berwarna kuning yang panjang, serta paruh yang pendek dan lurus."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0067_167588.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "green small bird with long tarsus and small to medium sized beak",
+          "indo": "burung kecil berwarna hijau dengan tarsus panjang dan paruh berukuran kecil hingga sedang"
+        },
+        {
+          "english": "this is a small yellow and grey bird with a pointy beak.",
+          "indo": "ini adalah burung kecil berwarna kuning dan abu-abu dengan paruh runcing."
+        },
+        {
+          "english": "this bird is light brown in color, with a light brown beak and a light brown eye ring.",
+          "indo": "burung ini berwarna coklat muda, dengan paruh berwarna coklat muda dan cincin mata berwarna coklat muda."
+        },
+        {
+          "english": "this is a tiny light green bird with small black bill and large black tarsus and feet.",
+          "indo": "ini adalah burung kecil berwarna hijau muda dengan paruh hitam kecil dan tarsus serta kaki hitam besar."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a very small yellowish brown bird of uniform color.",
+          "indo": "ini adalah burung kecil berwarna coklat kekuningan dengan warna seragam."
+        },
+        {
+          "english": "this is a small lmostly yellow bird with some grey on its wings.",
+          "indo": "ini adalah burung kecil yang hampir berwarna kuning dengan sedikit warna abu-abu di sayapnya."
+        },
+        {
+          "english": "a small brown bird, relatively all one color, with a pointed bill.",
+          "indo": "burung kecil berwarna coklat, warnanya relatif sama, dengan paruh runcing."
+        },
+        {
+          "english": "a small bird with a small beak, yellow head and neck with a yellow belly.",
+          "indo": "seekor burung kecil dengan paruh kecil, kepala kuning dan leher dengan perut kuning."
+        },
+        {
+          "english": "this bird has golden yellow markings with a short pointy bill.",
+          "indo": "burung ini memiliki corak kuning keemasan dengan paruh pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0068_167585.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this smaller bird is almost completely yellow with some brown primaries and secondaries.",
+          "indo": "burung yang lebih kecil ini hampir seluruhnya berwarna kuning dengan beberapa warna bulu primer dan bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "a small bird with a grey crown and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan mahkota abu-abu dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "the bird has a yellow belly with yellow wings and head.",
+          "indo": "burung itu memiliki perut berwarna kuning dengan sayap dan kepala berwarna kuning."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a yellow bird with a gray wing and head and a small pointy beak.",
+          "indo": "ini adalah burung kuning dengan sayap dan kepala abu-abu serta paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "a yellow bird has a pointed beak and white eyering.",
+          "indo": "seekor burung kuning memiliki paruh runcing dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a yellow crown as well as a yellow belly",
+          "indo": "burung ini memiliki mahkota berwarna kuning dan perut berwarna kuning"
+        },
+        {
+          "english": "small bird with small pointed brown beak, crown is brown, eye ring is white, abdomen and belly is yellow.",
+          "indo": "burung kecil dengan paruh kecil runcing berwarna coklat, mahkota berwarna coklat, lingkar mata berwarna putih, perut dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird is mostly brown and yellow with small wings.",
+          "indo": "burung ini sebagian besar berwarna coklat dan kuning dengan sayap kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0071_167595.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "small bird that is yellow-gray shades throughout his body, pale gray bil and feet, black eyes.",
+          "indo": "burung kecil bernuansa kuning keabu-abuan di sekujur tubuhnya, paruh dan kaki berwarna abu-abu pucat, mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a yellow crown, a yellow belly, and yellow feet.",
+          "indo": "burung ini memiliki mahkota berwarna kuning, perut berwarna kuning, dan kaki berwarna kuning."
+        },
+        {
+          "english": "this small light green bird has light gray wings and tail.",
+          "indo": "burung kecil berwarna hijau muda ini memiliki sayap dan ekor berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has a yellow breast, belly, abdomen and side with a brown covert area.",
+          "indo": "burung ini memiliki dada, perut, perut dan samping berwarna kuning dengan area bulu penutup berwarna coklat."
+        },
+        {
+          "english": "a medium sized bird with a green crown, and a small bill",
+          "indo": "seekor burung berukuran sedang dengan mahkota hijau, dan paruh kecil"
+        },
+        {
+          "english": "this bird is green with grey and has a very short beak.",
+          "indo": "burung ini berwarna hijau abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is lime green with light grey wings.",
+          "indo": "burung ini berwarna hijau limau dengan sayap abu-abu muda."
+        },
+        {
+          "english": "the bird has a small black bill, yellow belly and grey back.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam, perut kuning, dan punggung abu-abu."
+        },
+        {
+          "english": "this bird has a completely grayish yellow body, light gray wings, and a darkish yellow crown",
+          "indo": "burung ini memiliki tubuh berwarna kuning keabu-abuan, sayap berwarna abu-abu muda, dan mahkota berwarna kuning tua"
+        },
+        {
+          "english": "this bird has yellow and gray mixed on its head, back, and belly, and a yellow eyering.",
+          "indo": "burung ini memiliki warna campuran kuning dan abu-abu di kepala, punggung, dan perutnya, serta cincin mata berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0078_167964.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a yellow bird with a small beak compared to the body and average sized head.",
+          "indo": "burung berwarna kuning dengan paruh kecil dibandingkan badan dan kepala berukuran rata-rata."
+        },
+        {
+          "english": "this bird is yellow with black stripes and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan garis-garis hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this little bird is nearly all yellow with a touch of green in its wings.",
+          "indo": "burung kecil ini hampir seluruhnya berwarna kuning dengan sedikit sentuhan hijau pada sayapnya."
+        },
+        {
+          "english": "this small yellow bird has darker hued tones around the tail and primaries with a sharply pointed bill.",
+          "indo": "burung kecil berwarna kuning ini memiliki corak warna yang lebih gelap di sekitar ekornya dan paruhnya runcing."
+        },
+        {
+          "english": "this bird has a short beak and all of its feathers are yellow",
+          "indo": "burung ini mempunyai paruh yang pendek dan seluruh bulunya berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan kuning serta mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this bird is yellow in color, with a sharp skinny beak.",
+          "indo": "burung ini berwarna kuning, dengan paruh yang tajam dan kurus."
+        },
+        {
+          "english": "this tiny, almost entirely yellow bird has a short black beak, and light brown primaries and rectrices.",
+          "indo": "burung kecil yang hampir seluruhnya berwarna kuning ini memiliki paruh hitam pendek, serta paruh dan rectrices  berwarna coklat muda."
+        },
+        {
+          "english": "a small yellow bird with a tiny pointed beak and black highlights on the wing and tail.",
+          "indo": "burung kecil berwarna kuning dengan paruh kecil runcing dan sentuhan warna hitam pada sayap dan ekor."
+        },
+        {
+          "english": "this bird has an all yellow body with a black tipped tail matching its black tipped wings.",
+          "indo": "burung ini mempunyai tubuh serba kuning dengan ekor berujung hitam senada dengan sayap berujung hitamnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0079_168372.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a tiny bird with a little head, tiny bill, grey crown and back, yellowish throat and belly.",
+          "indo": "burung kecil berkepala kecil, paruh kecil, ubun-ubun dan punggung berwarna abu-abu, tenggorokan dan perut berwarna kekuningan."
+        },
+        {
+          "english": "this is a bird with a yellow belly and a grey head and back.",
+          "indo": "ini adalah burung dengan perut kuning dan kepala serta punggung berwarna abu-abu."
+        },
+        {
+          "english": "a round little bird has green feathers and yellow bits on its front side.",
+          "indo": "seekor burung kecil berbentuk bulat memiliki bulu berwarna hijau dan bagian depan berwarna kuning."
+        },
+        {
+          "english": "the bird has a yellow eyering and a yellow breast and belly.",
+          "indo": "burung itu memiliki cincin mata berwarna kuning dan dada serta perut berwarna kuning."
+        },
+        {
+          "english": "this bird is grey with yellow and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a plump bird with short pointed bill, yellow-grey belly and neck, and grey crown.",
+          "indo": "ini adalah burung gempal dengan paruh runcing pendek, perut dan leher berwarna kuning keabu-abuan, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the bird displays a gray and yellow crown, and a short pointed bill.",
+          "indo": "burung itu memperlihatkan mahkota berwarna abu-abu dan kuning, serta paruh runcing pendek."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "a puffy grey and brown colored bird with a short sharp beak.",
+          "indo": "burung menggembung berwarna abu-abu coklat dengan paruh pendek dan tajam."
+        },
+        {
+          "english": "this is a small brown bird, with a very short pointed bill.",
+          "indo": "ini adalah burung kecil berwarna coklat, dengan paruh runcing yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0080_167960.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a black bill that is small and short.",
+          "indo": "burung tersebut memiliki paruh berwarna hitam yang kecil dan pendek."
+        },
+        {
+          "english": "this small bird is mostly yellow in color and has a small eye and bill with some darker portions covering the wings.",
+          "indo": "Burung kecil ini sebagian besar berwarna kuning dan memiliki mata serta paruh kecil dengan beberapa bagian lebih gelap menutupi sayapnya."
+        },
+        {
+          "english": "a small, light green bird with gray wings, black eyes, and a short black bill.",
+          "indo": "seekor burung kecil berwarna hijau muda dengan sayap abu-abu, mata hitam, dan paruh hitam pendek."
+        },
+        {
+          "english": "this bird is yellow with black on its wings and has a very short beak.",
+          "indo": "burung ini berwarna kuning dengan warna hitam pada sayapnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with an entirely yellow body and a small black beak",
+          "indo": "seekor burung kecil dengan tubuh seluruhnya berwarna kuning dan paruh kecil berwarna hitam"
+        },
+        {
+          "english": "a small bird with a small pointed brown beak, black round eyes, and light yellow shades on its feathers with black streaks on its wings.",
+          "indo": "burung kecil dengan paruh kecil berwarna coklat runcing, mata bulat hitam, dan bulunya bernuansa kuning muda dengan guratan hitam pada sayapnya."
+        },
+        {
+          "english": "the bird has a small black bill, black eyering, and yellow belly.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam, cincin mata hitam, dan perut kuning."
+        },
+        {
+          "english": "this is a small mostly yellow colored bird. his head is small compared to his body. his beak is small,short and pointed",
+          "indo": "ini adalah burung kecil yang sebagian besar berwarna kuning. kepalanya kecil dibandingkan dengan tubuhnya. paruhnya kecil, pendek dan runcing"
+        },
+        {
+          "english": "this bird has a yellow crown, yellow primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota kuning, bulu primer kuning, dan perut kuning."
+        },
+        {
+          "english": "this bird has a large head compared to it's body and has yellow feathers with a hint of grey covering the rest of its body.",
+          "indo": "burung ini memiliki kepala yang besar dibandingkan dengan tubuhnya dan memiliki bulu berwarna kuning dengan sedikit warna abu-abu menutupi seluruh tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0081_167647.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a bird with bright greenish yellow from its breast to its tail, a grey-green head and wings, and a short pointed grey beak.",
+          "indo": "burung berwarna kuning kehijauan cerah dari dada hingga ekor, kepala dan sayap berwarna abu-abu kehijauan, serta paruh pendek berwarna abu-abu runcing."
+        },
+        {
+          "english": "this colorful bird is perched on a tree limb, its bill is pointed and it has yellow and brown colors.",
+          "indo": "Burung berwarna-warni ini bertengger di dahan pohon, paruhnya runcing dan berwarna kuning coklat."
+        },
+        {
+          "english": "a small yellow bird with long tail feathers in comparison to it's body.",
+          "indo": "seekor burung kecil berwarna kuning dengan bulu ekor yang panjang dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this small bird has dark yellow feathers, white thighs and a short black bill",
+          "indo": "burung kecil ini memiliki bulu berwarna kuning tua, paha berwarna putih, dan paruh pendek berwarna hitam"
+        },
+        {
+          "english": "a small, yellow-green bird with a pointed bill.",
+          "indo": "seekor burung kecil berwarna kuning kehijauan dengan paruh runcing."
+        },
+        {
+          "english": "this small, green bird has a small flat beak.",
+          "indo": "burung kecil berwarna hijau ini memiliki paruh kecil yang rata."
+        },
+        {
+          "english": "the bird has a green breast as well as a green back.",
+          "indo": "burung itu memiliki dada berwarna hijau dan punggung berwarna hijau."
+        },
+        {
+          "english": "the short black bill on the bird with a grey crown and green belly",
+          "indo": "paruh hitam pendek pada burung dengan mahkota abu-abu dan perut hijau"
+        },
+        {
+          "english": "this small bird has is lime green, and a small bill.",
+          "indo": "burung kecil ini berwarna hijau limau, dan paruhnya kecil."
+        },
+        {
+          "english": "a small bird with a little head, long legs, a short tail, is green in color, and has a short pointy beak.",
+          "indo": "burung kecil berkepala kecil, berkaki panjang, berekor pendek, berwarna hijau, dan berparuh pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0083_167948.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and skinny tarsus.",
+          "indo": "burung itu memiliki cincin mata hitam dan tarsus kurus."
+        },
+        {
+          "english": "this bird has a gray curved bill, a white eyering, and orange tarsus and feet.",
+          "indo": "burung ini memiliki paruh melengkung berwarna abu-abu, cincin mata berwarna putih, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is generally yellow in color, with a small white beak and a white eye ring.",
+          "indo": "burung ini umumnya berwarna kuning, dengan paruh kecil berwarna putih dan cincin mata berwarna putih."
+        },
+        {
+          "english": "grey smal bird with yellow bely, breast, and tail with pointy bill.",
+          "indo": "burung kecil berwarna abu-abu dengan perut kuning, dada, dan ekor dengan paruh runcing."
+        },
+        {
+          "english": "this bird has a small beak and mostly yellow feathers",
+          "indo": "burung ini mempunyai paruh yang kecil dan sebagian besar bulunya berwarna kuning"
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a yellow belly and yellowish brown feathers covering its body.",
+          "indo": "burung ini memiliki perut berwarna kuning dan bulu berwarna coklat kekuningan menutupi tubuhnya."
+        },
+        {
+          "english": "the bird is yellow and green in color and has orange feet.",
+          "indo": "burung itu berwarna kuning kehijauan dan berkaki jingga."
+        },
+        {
+          "english": "a small bird with a green breast and orange feet with a short sharp beak",
+          "indo": "seekor burung kecil dengan dada berwarna hijau dan kaki berwarna oranye dengan paruh pendek yang tajam"
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0087_168439.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this bird's primary color is similar to grey poupon mustard with a short, pointed beak and dark brown edges on its wings.",
+          "indo": "Warna dasar burung ini mirip dengan sawi poupon abu-abu dengan paruh pendek runcing dan tepi sayap berwarna coklat tua."
+        },
+        {
+          "english": "a fat round bird has green feathers with gray wings.",
+          "indo": "burung bulat gemuk mempunyai bulu berwarna hijau dengan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a black head and body, with short feet and tarsus",
+          "indo": "seekor burung kecil dengan kepala dan badan berwarna hitam, dengan kaki pendek dan tarsus"
+        },
+        {
+          "english": "very short fat bird, yellow belly with gray back, short flat beak.",
+          "indo": "burung gemuk sangat pendek, perut kuning dengan punggung abu-abu, paruh pendek rata."
+        },
+        {
+          "english": "a small bird with a yellowish tone and darker wings, black eyes and grey beak.",
+          "indo": "burung kecil dengan warna kekuningan dan sayap lebih gelap, mata hitam dan paruh abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey with a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this bird is green with black and has a very short beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this plump greyish bird has a yellow belly and a ring of blue on its beak.",
+          "indo": "burung gempal berwarna keabu-abuan ini memiliki perut berwarna kuning dan lingkaran biru pada paruhnya."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai badan yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0088_168052.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small yellow and grey bird with a black wingbar and a narrow pointed bill.",
+          "indo": "seekor burung kecil berwarna kuning dan abu-abu dengan garis sayap hitam dan paruh runcing sempit."
+        },
+        {
+          "english": "this is a small light gray bird with greenish yellow belly, rump and wings.",
+          "indo": "ini adalah burung kecil berwarna abu-abu muda dengan perut, pantat, dan sayap berwarna kuning kehijauan."
+        },
+        {
+          "english": "this small grey and green bird has a short bill with black, orange and white coloring.",
+          "indo": "burung kecil berwarna abu-abu dan hijau ini memiliki paruh pendek dengan warna hitam, oranye dan putih."
+        },
+        {
+          "english": "the yellow bird has a gray head and a somewhat long pointed beak.",
+          "indo": "burung kuning memiliki kepala berwarna abu-abu dan paruh agak panjang dan runcing."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a gray wing and white wingbar.",
+          "indo": "Burung kecil ini mempunyai perut dan dada berwarna kuning dengan sayap berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is brown with yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the little bird has a small black eye, a gray and orange bill, and a light green belly.",
+          "indo": "burung kecil itu memiliki mata kecil berwarna hitam, paruh berwarna abu-abu dan oranye, serta perut berwarna hijau muda."
+        },
+        {
+          "english": "this bird has a long, thin beak attached to a sloped head, with greenish yellow plumage and black eyes.",
+          "indo": "burung ini mempunyai paruh yang panjang dan tipis menempel pada kepala yang miring, dengan bulu berwarna kuning kehijauan dan mata berwarna hitam."
+        },
+        {
+          "english": "a very tiny bird with a yellow body, a white head, and a small pointed beak.",
+          "indo": "seekor burung yang sangat kecil dengan tubuh kuning, kepala putih, dan paruh kecil runcing."
+        },
+        {
+          "english": "this small bird is covered in yellow and white feathers with a short, orange bill.",
+          "indo": "burung kecil ini ditutupi bulu berwarna kuning dan putih dengan paruh pendek berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0090_167607.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small bird with a yellow underbelly and brown undertones all over",
+          "indo": "seekor burung kecil dengan perut bagian bawah berwarna kuning dan seluruh bagian bawah berwarna coklat"
+        },
+        {
+          "english": "the small yellow and grey bird has black eyes and a pointed beak.",
+          "indo": "burung kecil berwarna kuning dan abu-abu memiliki mata hitam dan paruh runcing."
+        },
+        {
+          "english": "the bird has a dark yellow colored abdomen and throat with a grey colored covert.",
+          "indo": "burung ini memiliki perut dan tenggorokan berwarna kuning tua dengan bulu berwarna abu-abu."
+        },
+        {
+          "english": "this bird is yellow with grey on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan punggung berwarna abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has shades of yellow and green on its belly and back.",
+          "indo": "burung ini memiliki corak warna kuning dan hijau pada bagian perut dan punggungnya."
+        },
+        {
+          "english": "this bird is small with a grey and yellow belly and mainly grey on its wings.",
+          "indo": "burung ini berukuran kecil dengan perut berwarna abu-abu dan kuning serta sebagian besar sayapnya berwarna abu-abu."
+        },
+        {
+          "english": "this is a small gray bird with a yellow belly, breast and abdomen.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan perut, dada, dan perut berwarna kuning."
+        },
+        {
+          "english": "this bird has green and brown secondaries, a yellow eye ring, and a grey and yellow belly.",
+          "indo": "burung ini memiliki bulu sekunder berwarna hijau dan coklat, cincin mata berwarna kuning, dan perut berwarna abu-abu dan kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and gray",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan abu-abu"
+        },
+        {
+          "english": "this bird has a green crown, green primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota berwarna hijau, bulu primer berwarna hijau, dan perut berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0091_167578.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this smaller bird has a yellow belly and breast with a gray crown and nape.",
+          "indo": "burung yang lebih kecil ini memiliki perut dan dada berwarna kuning dengan mahkota dan tengkuk berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a tan crown, a yellow belly, and a sharp bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, perut berwarna kuning, dan paruh yang runcing"
+        },
+        {
+          "english": "bird has bigger looking head and tarsus than the body",
+          "indo": "burung memiliki kepala dan tarsus yang tampak lebih besar daripada tubuhnya"
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a grey wing and head.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan sayap dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this yellow bird has a thin beak and jet black eyes and thin feet.",
+          "indo": "burung berwarna kuning ini memiliki paruh yang tipis dan mata berwarna hitam legam serta kaki yang kurus."
+        },
+        {
+          "english": "this bird has a yellow breast and belly with a little hint of green in it as well.",
+          "indo": "burung ini memiliki dada dan perut berwarna kuning dengan sedikit warna hijau di dalamnya juga."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "a small bird with a yellow breast and belly, its wings are a mixture of yellow and gray with black tips.",
+          "indo": "burung kecil dengan dada dan perut berwarna kuning, sayapnya campuran kuning dan abu-abu dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0094_167584.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this small yellow perching bird has a small bill and a head that is large in relation to its body size.",
+          "indo": "Burung bertengger kecil berwarna kuning ini memiliki paruh yang kecil dan kepala yang besar dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "this bird has a short straight bill, a bright yellow eyering, and a dark yellow crown, breast, and belly.",
+          "indo": "burung ini memiliki paruh pendek lurus, cincin mata kuning cerah, dan mahkota, dada, dan perut berwarna kuning tua."
+        },
+        {
+          "english": "this is a yellow bird with a black eye and a small pointed beak.",
+          "indo": "ini adalah burung kuning dengan mata hitam dan paruh kecil runcing."
+        },
+        {
+          "english": "this little bird is mostly yellow with a little pointy bill.",
+          "indo": "burung kecil ini sebagian besar berwarna kuning dengan paruh sedikit runcing."
+        },
+        {
+          "english": "a bright yellow bird with an elongated beak and a grayish-white undertail.",
+          "indo": "burung berwarna kuning cerah dengan paruh memanjang dan ekor berwarna putih keabu-abuan."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has a beautiful yellow color with a small head, and a black tail.",
+          "indo": "burung ini memiliki warna kuning yang indah dengan kepala kecil, dan ekor berwarna hitam."
+        },
+        {
+          "english": "a bird with a small beak, and the rest of the body is yellow.",
+          "indo": "burung yang paruhnya kecil, dan seluruh tubuhnya berwarna kuning."
+        },
+        {
+          "english": "this bird is mostly bright yellow, a black eye with a yellow eyering, and short beak.",
+          "indo": "burung ini sebagian besar berwarna kuning cerah, mata hitam dengan cincin mata kuning, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0097_168004.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small sized bird with a grey and yellow belly, and a short pointed bill",
+          "indo": "burung berukuran kecil dengan perut berwarna abu-abu dan kuning, serta paruh runcing pendek"
+        },
+        {
+          "english": "this bird is grey and light yellow in color with a small pointy beak and grey eye rings.",
+          "indo": "burung ini berwarna abu-abu dan kuning muda dengan paruh kecil runcing dan cincin mata berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a yellow belly and coverts, and a gray crown and throat.",
+          "indo": "seekor burung kecil dengan perut dan bulu berwarna kuning, serta mahkota dan tenggorokan berwarna abu-abu."
+        },
+        {
+          "english": "small roundish bird, gray head and bil, with black eyes, yellow fluffy feathers coming from the bottom portion of the bird.",
+          "indo": "burung kecil bulat, kepala dan bil berwarna abu-abu, bermata hitam, bulu halus berwarna kuning berasal dari bagian bawah burung."
+        },
+        {
+          "english": "this bird is grey and yellow in color with a sharp black beak, and grey eye rings.",
+          "indo": "burung ini berwarna abu-abu kuning dengan paruh hitam runcing, dan cincin mata abu-abu."
+        },
+        {
+          "english": "this particular bird has a yellow and gray belly",
+          "indo": "burung ini memiliki perut berwarna kuning dan abu-abu"
+        },
+        {
+          "english": "this bird has a grey throat, head and coverts, green and grey secondaries, and a green vent.",
+          "indo": "burung ini memiliki tenggorokan berwarna abu-abu, kepala dan bulu, bulu sekunder berwarna hijau dan abu-abu, serta lubang kloaka berwarna hijau."
+        },
+        {
+          "english": "a very small bird that has a dull green coloration.",
+          "indo": "seekor burung yang sangat kecil yang memiliki warna hijau kusam."
+        },
+        {
+          "english": "the bird has a green belly and breast with small bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna hijau dengan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0102_168189.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the small green bird has a white vent and yellow eyering.",
+          "indo": "burung kecil berwarna hijau memiliki lubang putih dan cincin mata kuning."
+        },
+        {
+          "english": "this is a yellow and grey bird with a small pointy beak.",
+          "indo": "ini adalah burung berwarna kuning dan abu-abu dengan paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird is light grey and yellow with a small black bill.",
+          "indo": "burung itu berwarna abu-abu muda dan kuning dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small bird with an even smaller pointed bill which has grayish-yellow plumage covering its body.",
+          "indo": "seekor burung kecil dengan paruh runcing lebih kecil yang memiliki bulu kuning keabu-abuan menutupi tubuhnya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small gray bird has a yellowish green abdomen and belly.",
+          "indo": "burung kecil berwarna abu-abu ini memiliki perut dan perut berwarna hijau kekuningan."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang bulat"
+        },
+        {
+          "english": "a olive and brown bird is small with a large head.",
+          "indo": "seekor burung berwarna zaitun dan coklat berukuran kecil dengan kepala besar."
+        },
+        {
+          "english": "this small bird has a small bill, indistinct colors, and a light tan belly.",
+          "indo": "burung kecil ini memiliki paruh kecil, warna tidak jelas, dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0103_168566.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this is a small grey bird with a yellow belly and a grey head.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan perut kuning dan kepala abu-abu."
+        },
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "the bird has a light brown belly, dark gray wings, and blue-ish white patches on their cheeks.",
+          "indo": "burung ini memiliki perut berwarna coklat muda, sayap abu-abu tua, dan bercak putih kebiruan di pipinya."
+        },
+        {
+          "english": "this bird has a yellowish gray body a light gray cheek patch and a light gray eyering.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu kekuningan, bercak pipi berwarna abu-abu muda, dan cincin mata berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird is covered in many yellow and grey undertones, and has a very small, sharp grey beak.",
+          "indo": "burung ini memiliki banyak warna dasar kuning dan abu-abu, serta memiliki paruh abu-abu yang sangat kecil dan tajam."
+        },
+        {
+          "english": "this small green bird has a gray head and a light gray eyering.",
+          "indo": "burung kecil berwarna hijau ini memiliki kepala berwarna abu-abu dan cincin mata berwarna abu-abu muda."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this is a small green bird with a gray head and a small gray beak.",
+          "indo": "ini adalah burung hijau kecil dengan kepala abu-abu dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a green belly, a black eyering and a small bill.",
+          "indo": "burung itu mempunyai perut berwarna hijau, cincin mata hitam dan paruh kecil."
+        },
+        {
+          "english": "this bird is green with black and has a very short beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0111_168040.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird is gold and the beak is pointy and sharp.",
+          "indo": "burung itu berwarna emas dan paruhnya runcing dan tajam."
+        },
+        {
+          "english": "this small bird has a dark head and wings, with yellow breast, belly, and undertail converts.",
+          "indo": "burung kecil ini memiliki kepala dan sayap berwarna gelap, dengan dada, perut, dan ekor bawah berwarna kuning."
+        },
+        {
+          "english": "the bird has orange patches on its tail, a tan belly, and brown wings.",
+          "indo": "burung itu memiliki bercak oranye di ekornya, perut berwarna coklat, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this is a yellow breasted, small bird with a round head and short pointed beak.",
+          "indo": "ini adalah burung kecil berdada kuning dengan kepala bulat dan paruh runcing pendek."
+        },
+        {
+          "english": "small yellow and brown bird with long brown tarsus and medium beak",
+          "indo": "burung kecil berwarna kuning dan coklat dengan tarsus coklat panjang dan paruh sedang"
+        },
+        {
+          "english": "this colorful small bird has a yellow belly and small bill.",
+          "indo": "burung kecil berwarna-warni ini memiliki perut berwarna kuning dan paruh kecil."
+        },
+        {
+          "english": "this is a yellow bird with a brown wing and a small and pointed beak.",
+          "indo": "ini adalah burung kuning dengan sayap coklat dan paruh kecil dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and brown",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "the bird is a yellowish-brown with a long flat beak and bright yellow rectrices.",
+          "indo": "burung itu berwarna coklat kekuningan dengan paruh panjang rata dan rectrices  berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0112_168437.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a round bird that is dark grey with a light grey belly and throat, and a short, straight beak.",
+          "indo": "burung berbentuk bulat berwarna abu-abu tua dengan perut dan tenggorokan berwarna abu-abu muda, serta paruh pendek lurus."
+        },
+        {
+          "english": "a dark gray bird with white streaks under its wings and black tarsus'.",
+          "indo": "burung berwarna abu-abu tua dengan garis-garis putih di bawah sayapnya dan tarsus hitam."
+        },
+        {
+          "english": "a small bird with a grey belly, and a flat bill",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu, dan paruh rata"
+        },
+        {
+          "english": "bird with gray beak, nape, crown, wing and light gray throat, breast, belly and abdomen, and black eye",
+          "indo": "burung dengan paruh abu-abu, tengkuk, mahkota, sayap dan tenggorokan abu-abu muda, dada, perut dan perut, serta mata hitam"
+        },
+        {
+          "english": "a small bird with a yellow eye ring, and a small bill",
+          "indo": "seekor burung kecil dengan cincin mata kuning, dan paruh kecil"
+        },
+        {
+          "english": "this is a little round bird with gray feathers all over its body, a flat head that runs in a straight line from its back and a very sharp pointed beak.",
+          "indo": "ini adalah burung bulat kecil dengan bulu abu-abu di sekujur tubuhnya, kepala datar yang memanjang lurus dari punggungnya dan paruh runcing yang sangat tajam."
+        },
+        {
+          "english": "the breast of the bird is a shade of gray, with yellow and white speckles throughout.",
+          "indo": "dada burung berwarna abu-abu, dengan bintik-bintik kuning dan putih di seluruh bagiannya."
+        },
+        {
+          "english": "this gray bird has a white eyering and a short, straight bill.",
+          "indo": "burung berwarna abu-abu ini memiliki cincin mata berwarna putih dan paruh pendek dan lurus."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a grey breast and belly.",
+          "indo": "burung ini memiliki paruh berwarna hitam runcing, dengan dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0113_167984.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this bird has a dusky gray plumage with mottled yellow breast and wings.",
+          "indo": "burung ini mempunyai bulu berwarna abu-abu kehitaman dengan dada dan sayap berbintik-bintik kuning."
+        },
+        {
+          "english": "this is a gray bird with a yellow belly and brown feet",
+          "indo": "ini adalah burung abu-abu dengan perut kuning dan kaki coklat"
+        },
+        {
+          "english": "this bird has a gray throat and crown, yellow breast and gray and yellow striped primaries.",
+          "indo": "burung ini memiliki tenggorokan dan mahkota berwarna abu-abu, dada berwarna kuning, dan bulu primer bergaris abu-abu kuning."
+        },
+        {
+          "english": "this is a grey and light yellow bird that has a small thick neck and a very small bill.",
+          "indo": "ini adalah burung berwarna abu-abu dan kuning muda yang memiliki leher kecil yang tebal dan paruh yang sangat kecil."
+        },
+        {
+          "english": "this bird has a yellow belly, grey wing and breast and a small beak.",
+          "indo": "burung ini memiliki perut berwarna kuning, sayap dan dada berwarna abu-abu, serta paruh yang kecil."
+        },
+        {
+          "english": "this bird is pastel colored and has a very short beak.",
+          "indo": "burung ini berwarna pastel dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with light yellow and gray coloring, and a small head compared to the rest of its body.",
+          "indo": "burung dengan warna kuning muda dan abu-abu, serta kepala yang kecil dibandingkan bagian tubuhnya yang lain."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a mosly grey bird with some yellowing and a long tail.",
+          "indo": "ini adalah burung berwarna abu-abu dengan sebagian menguning dan ekor panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0114_167732.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "bird with light green feathers, long tail feathers, and short pointed beak.",
+          "indo": "burung dengan bulu berwarna hijau muda, bulu ekor panjang, dan paruh runcing pendek."
+        },
+        {
+          "english": "this little bird has a yellow belly and breast with a green crown and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna kuning dengan mahkota berwarna hijau dan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small puffy bird with a greenish yellow body, a short sharp beak, and brown wing feathers.",
+          "indo": "burung kecil menggembung dengan tubuh kuning kehijauan, paruh pendek tajam, dan bulu sayap berwarna coklat."
+        },
+        {
+          "english": "the birds has a yellow throat, breast, side and belly area with it's coverts in brown color.",
+          "indo": "Burung ini mempunyai daerah tenggorokan, dada, samping dan perut berwarna kuning dengan bulu berwarna coklat."
+        },
+        {
+          "english": "this small plump note is yellow interspersed with flecks of black.",
+          "indo": "nada gempal kecil ini berwarna kuning diselingi bintik hitam."
+        },
+        {
+          "english": "small, bright yellow bird with a round body and small, pointed beak.",
+          "indo": "burung kecil berwarna kuning cerah dengan tubuh bulat dan paruh kecil runcing."
+        },
+        {
+          "english": "this bird is yellow with black and has a very short beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a small black beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is green with black and has a very short beak.",
+          "indo": "burung ini berwarna hijau kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0117_167987.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a light green bird with grey hues and a grey beak.",
+          "indo": "burung berwarna hijau muda dengan corak abu-abu dan paruh abu-abu."
+        },
+        {
+          "english": "bird has gray body feathers, yellow breast feather, and pointed beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna kuning, dan paruh runcing"
+        },
+        {
+          "english": "a small bird with grey crown, back and rectrices, black feet and tarsus the bill is short and pointed",
+          "indo": "seekor burung kecil dengan mahkota abu-abu, punggung dan rectrices, kaki dan tarsus hitam, paruhnya pendek dan runcing"
+        },
+        {
+          "english": "pea bellied small black billed bird, grey crown and wings.",
+          "indo": "burung paruh hitam kecil berperut kacang, mahkota dan sayap abu-abu."
+        },
+        {
+          "english": "this is a small, yellow bird with a grey crown and nape.",
+          "indo": "ini adalah burung kecil berwarna kuning dengan mahkota dan tengkuk abu-abu."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are gray and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        },
+        {
+          "english": "this small, round bird has think primaries and secondaries and a furry breast and belly.",
+          "indo": "burung kecil dan bulat ini memiliki pemikiran bulu primer dan bulu sekunder serta dada dan perut berbulu."
+        },
+        {
+          "english": "a small bird with a green belly and grey head, wings, and beak.",
+          "indo": "seekor burung kecil dengan perut hijau dan kepala, sayap, dan paruh abu-abu."
+        },
+        {
+          "english": "this is a small rounded gray bird with yellowish-gray belly and abdomen, while the eyering is light yellow.",
+          "indo": "Burung ini berbentuk bulat kecil berwarna abu-abu dengan bagian perut dan perut berwarna abu-abu kekuningan, sedangkan bagian matanya berwarna kuning muda."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0118_167640.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this is a yellow bird with a grey head and grey wings.",
+          "indo": "ini adalah burung kuning dengan kepala abu-abu dan sayap abu-abu."
+        },
+        {
+          "english": "a small yellowish brown bird with a small pointed beak.",
+          "indo": "burung kecil berwarna coklat kekuningan dengan paruh kecil runcing."
+        },
+        {
+          "english": "a small bird with a white breast, and a flat bill and a multicolored body",
+          "indo": "seekor burung kecil dengan dada berwarna putih, dan paruh rata serta tubuh beraneka warna"
+        },
+        {
+          "english": "this bird appears to be a beige color with black bead eyes.",
+          "indo": "burung ini tampak berwarna krem ​​​​dengan mata manik-manik hitam."
+        },
+        {
+          "english": "a small bird with a round belly and a small head.",
+          "indo": "seekor burung kecil dengan perut bulat dan kepala kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this small bird has a green yellow body, small black eyes, and a petite dark brown bill.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna hijau kuning, mata kecil berwarna hitam, dan paruh mungil berwarna coklat tua."
+        },
+        {
+          "english": "this bird has wings that are yellow and had a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is yellow with black patches",
+          "indo": "Burung ini mempunyai perut yang berwarna kuning dengan bercak hitam"
+        },
+        {
+          "english": "a small yellow bird with a long tail, long legs, a small head, black eye, and short pointy beak.",
+          "indo": "burung kecil berwarna kuning dengan ekor panjang, kaki panjang, kepala kecil, mata hitam, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0119_167658.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a small eyering that is black",
+          "indo": "burung itu memiliki cincin mata kecil berwarna hitam"
+        },
+        {
+          "english": "head indistinguishable from the body. tarsus are quite thin for body size",
+          "indo": "kepala tidak dapat dibedakan dengan badannya. tarsus cukup tipis untuk ukuran tubuh"
+        },
+        {
+          "english": "small golden bird with black stripes on its tail and darker secondaries.",
+          "indo": "burung emas kecil dengan garis-garis hitam di ekornya dan bulu sekunder yang lebih gelap."
+        },
+        {
+          "english": "yellow and black bird with small head and black and white beak",
+          "indo": "burung kuning dan hitam dengan kepala kecil dan paruh hitam putih"
+        },
+        {
+          "english": "bird with brown beak, tarsus and feet, and green crown, nape, and gray throat greenish yellow breast and belly",
+          "indo": "burung dengan paruh berwarna coklat, tarsus dan kaki, serta mahkota berwarna hijau, tengkuk, dan tenggorokan berwarna abu-abu, dada dan perut berwarna kuning kehijauan"
+        },
+        {
+          "english": "this small yellow and black bird also has a patch of white in its side and it has black and yellow wings.",
+          "indo": "burung kecil berwarna kuning dan hitam ini juga memiliki bercak putih di sisinya dan memiliki sayap berwarna hitam dan kuning."
+        },
+        {
+          "english": "this bird is yellow with black and has a very short beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small yellow bird has long skinny legs and black and white bars on it's wing tips and a darker tail.",
+          "indo": "burung kecil berwarna kuning ini memiliki kaki panjang kurus dan garis hitam putih di ujung sayapnya serta ekor yang lebih gelap."
+        },
+        {
+          "english": "a small colorful bird, with gree wings and head, and a small bill.",
+          "indo": "seekor burung kecil berwarna-warni, dengan sayap dan kepala hijau, dan paruh kecil."
+        },
+        {
+          "english": "this bird is brown, yellow, and black in color, with a multi colored beak.",
+          "indo": "burung ini berwarna coklat, kuning, dan hitam, dengan paruh beraneka warna."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0120_167587.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "a small yellow bird with a large belly and dark brown inner rectrices.",
+          "indo": "seekor burung kecil berwarna kuning dengan perut besar dan inner rectrices berwarna coklat tua."
+        },
+        {
+          "english": "this bird is a soft, fairly uniform yellow color with a plump belly and short bill.",
+          "indo": "burung ini berwarna kuning lembut, cukup seragam dengan perut gempal dan paruh pendek."
+        },
+        {
+          "english": "this small mustard yellow bird is very round with no neck and small wings.",
+          "indo": "burung kecil berwarna kuning sawi ini berbentuk sangat bulat, tidak memiliki leher dan sayap kecil."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with brown beak, tarsus and feet, and green throat, breast, belly and abdomen, and the beak is sharp and pointed",
+          "indo": "burung dengan paruh berwarna coklat, tarsus dan kaki, serta tenggorokan, dada, perut dan perut berwarna hijau, serta paruh runcing dan runcing"
+        },
+        {
+          "english": "the bulky green belly of the round bird in the tree",
+          "indo": "perut hijau besar dari burung bundar di pohon"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang bulat"
+        },
+        {
+          "english": "a small yellow bird with black eyes and a short pointed beak.",
+          "indo": "seekor burung kuning kecil dengan mata hitam dan paruh runcing pendek."
+        },
+        {
+          "english": "small green bird with a body bigger than the head and a tail where the inner and outer rectrices are dark brown and white.",
+          "indo": "burung kecil berwarna hijau dengan badan lebih besar dari kepala dan ekor yang inner dan outer rectrices berwarna coklat tua dan putih."
+        },
+        {
+          "english": "this greenish small bird has a very small, sharp beak and puffy appearance.",
+          "indo": "burung kecil berwarna kehijauan ini memiliki paruh yang sangat kecil, tajam, dan tampak menggembung."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0126_168445.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "this is a yellow bird with a grey tail and a small beak.",
+          "indo": "ini adalah burung kuning dengan ekor abu-abu dan paruh kecil."
+        },
+        {
+          "english": "this small, very round bird has a yellow breast and abdomen with light brown back and wings, a flat head and pointed beak.",
+          "indo": "Burung kecil sangat bulat ini memiliki dada dan perut berwarna kuning dengan punggung dan sayap berwarna coklat muda, kepala datar dan paruh runcing."
+        },
+        {
+          "english": "the bird has a yellow hue to all of its feathers, tiny feet, a short neck, with a small beak that is straight and conical.",
+          "indo": "burung ini memiliki corak kuning pada seluruh bulunya, kaki mungil, leher pendek, paruh kecil lurus berbentuk kerucut."
+        },
+        {
+          "english": "the bird has a yellow belly, the bill is short and pointed, the head is small compared to its body",
+          "indo": "burung ini perutnya berwarna kuning, paruhnya pendek dan runcing, kepalanya kecil dibandingkan badannya"
+        },
+        {
+          "english": "this bird has an efficient, short and sharp beak and consistently yellow plumage.",
+          "indo": "burung ini memiliki paruh yang efisien, pendek dan tajam serta bulu yang selalu berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black with a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna kuning"
+        },
+        {
+          "english": "this bird has a belly that is yellow and breasts that are yellow too",
+          "indo": "burung ini mempunyai perut yang berwarna kuning dan dada yang juga berwarna kuning"
+        },
+        {
+          "english": "this bird has a short point bill with dark grey brown head feathers and dark orange brown with black spots neck and belly colors.",
+          "indo": "burung ini mempunyai paruh runcing pendek dengan bulu kepala berwarna abu-abu tua berwarna coklat dan coklat jingga tua dengan warna bintik hitam pada leher dan perut."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and is yellow all over.",
+          "indo": "burung itu kecil dengan paruh runcing, dan seluruhnya berwarna kuning."
+        },
+        {
+          "english": "this colorful bird is a mix between green and yellow and has brown on the back.",
+          "indo": "Burung berwarna-warni ini merupakan perpaduan antara hijau dan kuning serta memiliki warna coklat pada bagian punggungnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orange_Crowned_Warbler_0128_168012.jpg",
+      "class_id": 172,
+      "captions": [
+        {
+          "english": "the bird has a small black eyering and a small bill.",
+          "indo": "burung itu memiliki cincin mata hitam kecil dan paruh kecil."
+        },
+        {
+          "english": "a bird with a very small pointed bill and dark yellow covering its body.",
+          "indo": "seekor burung dengan paruh runcing sangat kecil dan berwarna kuning tua menutupi tubuhnya."
+        },
+        {
+          "english": "this bird is a dirty yellow color and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kotor dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a small yellow bird with a grey head and small pointy beak.",
+          "indo": "ini adalah burung kuning kecil dengan kepala abu-abu dan paruh kecil runcing."
+        },
+        {
+          "english": "this bird is yellow in color with a sharp beak, and yellow eye rings.",
+          "indo": "burung ini berwarna kuning dengan paruh runcing, dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are yellow and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "a small olive green bird with some grey on the edges of the primaries and a small pointed bill.",
+          "indo": "seekor burung kecil berwarna hijau zaitun dengan sedikit warna abu-abu di tepi burung bulu primer dan paruh kecil yang runcing."
+        },
+        {
+          "english": "a small bird with a yellow eye ring, white and brown secondaries, and grey and yellow feathers on its chest.",
+          "indo": "burung kecil dengan cincin mata kuning, bulu sekunder berwarna putih dan coklat, serta bulu berwarna abu-abu dan kuning di dadanya."
+        },
+        {
+          "english": "this bird has a bright yellow breast and a sharp pointed bill",
+          "indo": "burung ini memiliki dada berwarna kuning cerah dan paruh runcing runcing"
+        },
+        {
+          "english": "this bird has a grey bill and crown, and a yellow breast and belly with grey flecks throughout.",
+          "indo": "burung ini memiliki paruh dan mahkota berwarna abu-abu, serta dada dan perut berwarna kuning dengan bintik-bintik abu-abu di seluruh bagiannya."
+        }
+      ]
+    }
+  ]
+}

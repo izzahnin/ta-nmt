@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "European_Goldfinch_0003_33066.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the bird has strong orange tarsus and a red crown with black eyebrows and a light brown body.",
+          "indo": "burung ini memiliki tarsus berwarna oranye yang kuat dan mahkota berwarna merah dengan alis hitam dan tubuh berwarna coklat muda."
+        },
+        {
+          "english": "this colorful bird has a red head and throat,a black eyering, and a white and tan colored nape and throat.",
+          "indo": "Burung berwarna-warni ini memiliki kepala dan tenggorokan berwarna merah, cincin mata berwarna hitam, serta tengkuk dan tenggorokan berwarna putih kecokelatan."
+        },
+        {
+          "english": "this is a brown bird with a yellow wing and a red face.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap kuning dan muka merah."
+        },
+        {
+          "english": "this small bird has brown coverts, black and white wings, a yellow stripe on the wing, and red on the throat, molar stripe and crown.",
+          "indo": "burung kecil ini mempunyai bulu berwarna coklat, sayap berwarna hitam putih, garis kuning pada sayap, dan warna merah pada tenggorokan, garis geraham dan mahkota."
+        },
+        {
+          "english": "this bird has a brown back, black secondaries and yellow-tipped primaries, a red and black cheek patch and white bill.",
+          "indo": "burung ini memiliki punggung berwarna coklat, bulu sekunder berwarna hitam dan burung bulu primer berujung kuning, bercak pipi berwarna merah dan hitam serta paruh berwarna putih."
+        },
+        {
+          "english": "the bird has red eyebrows, and cheek patches, and a light brown back with black and white tipped wings.",
+          "indo": "burung itu memiliki alis merah, dan bercak pipi, serta punggung berwarna coklat muda dengan sayap berujung hitam dan putih."
+        },
+        {
+          "english": "this bird has a short pale bill, red face, and creamy belly, the back is light brown with black and white wing tips edged with a touch of yellow.",
+          "indo": "burung ini mempunyai paruh pendek berwarna pucat, muka merah, dan perut berwarna krem, punggung berwarna coklat muda dengan ujung sayap berwarna hitam putih dengan pinggiran sentuhan kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "this is a wildly colored bird with bright yellow and orange spots on its head and wings.",
+          "indo": "ini adalah burung berwarna liar dengan bintik kuning cerah dan oranye di kepala dan sayapnya."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0004_33313.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a red, white, and black face, a tan body, black wings tipped with yellow and white.",
+          "indo": "burung ini mempunyai muka berwarna merah, putih, dan hitam, badan berwarna coklat, sayap berwarna hitam berujung kuning dan putih."
+        },
+        {
+          "english": "this is a colorful bird with a grey back, black and yellow wings and a red head.",
+          "indo": "ini adalah burung berwarna-warni dengan punggung abu-abu, sayap hitam dan kuning, serta kepala merah."
+        },
+        {
+          "english": "this bird has a white and red head with black and brown wings",
+          "indo": "burung ini memiliki kepala berwarna putih dan merah dengan sayap berwarna hitam dan coklat"
+        },
+        {
+          "english": "this bird has a red superciliary as well as the crown, yellow flanks and a white beak",
+          "indo": "burung ini memiliki superciliary dan mahkota berwarna merah, sayap berwarna kuning dan paruh berwarna putih"
+        },
+        {
+          "english": "a small light brown bird with a red face, a white neck and crown and black and yellow wing feathers.",
+          "indo": "burung kecil berwarna coklat muda dengan muka merah, leher dan mahkota berwarna putih serta bulu sayap berwarna hitam kuning."
+        },
+        {
+          "english": "this bird has wings that are black and brown and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam kecokelatan serta mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "a small bird with a gray body and breast, a small red, white and black head with a short, pointed beak, a white-barred, black tail and wing tips, and yellow covert feathers/",
+          "indo": "burung kecil berbadan dan dada berwarna abu-abu, kepala kecil berwarna merah, putih dan hitam dengan paruh pendek runcing, bergaris putih, ujung ekor dan sayap hitam, serta bulu penutup berwarna kuning/"
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a pointed white bill, with a brown back.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna putih, dengan punggung berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0005_33263.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this colorful pink billed bird has a buff back, yellow primaries against black and yellow secondaries, a bright red face with a black and white nape.",
+          "indo": "burung berparuh merah muda berwarna-warni ini memiliki punggung yang cerah, warna bulu primer kuning dengan warna bulu sekunder hitam dan kuning, wajah merah cerah dengan tengkuk hitam putih."
+        },
+        {
+          "english": "small multi-colored bird with long pointed beak, brown and white breast, white belly, red crown and cheek patch, black eyering and stripe across nape, bright yellow stripe on secondaries.",
+          "indo": "burung kecil beraneka warna dengan paruh panjang runcing, dada coklat dan putih, perut putih, mahkota merah dan penutup pipi, cincin mata hitam dan garis di tengkuk, garis kuning cerah di bulu sekunder."
+        },
+        {
+          "english": "a brown, red faced bird with black and yellow wings gets ready to eat.",
+          "indo": "seekor burung berwajah coklat dan merah dengan sayap hitam dan kuning bersiap untuk makan."
+        },
+        {
+          "english": "multi-colored bird has a red head, beige back, and yellow and black wings.",
+          "indo": "burung beraneka warna memiliki kepala berwarna merah, punggung berwarna krem, dan sayap berwarna kuning dan hitam."
+        },
+        {
+          "english": "this is a hard billed bird that sustains its nourishment on seeds.",
+          "indo": "ini adalah burung berparuh keras yang mempertahankan makanannya dari biji-bijian."
+        },
+        {
+          "english": "this bird has a red crown with yellow black and brown feathers on its wings",
+          "indo": "burung ini mempunyai mahkota berwarna merah dengan bulu berwarna kuning kehitaman dan coklat pada sayapnya"
+        },
+        {
+          "english": "this bird has a redcrown with black and red secondaries.",
+          "indo": "burung ini mempunyai mahkota berwarna merah dengan tanda bulu sekunder berwarna hitam dan merah."
+        },
+        {
+          "english": "a multicolored bird with an orange and white base color with black tips and a red head with a short beak.",
+          "indo": "burung warna warni dengan warna dasar jingga putih dengan ujung berwarna hitam dan kepala berwarna merah dengan paruh pendek."
+        },
+        {
+          "english": "this bird is white, yellow, and black in color, with a light colored beak.",
+          "indo": "burung ini berwarna putih, kuning, dan hitam, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this multi-colored bird has a white and tan body with a red face and black and white striped nape as well as black wings with a yellow patch.",
+          "indo": "Burung beraneka warna ini memiliki tubuh berwarna putih kecokelatan dengan muka berwarna merah dan tengkuk bergaris hitam putih serta sayap berwarna hitam dengan bercak kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0006_794661.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird has a white bill, brown coverts, and a yellow wingbar.",
+          "indo": "seekor burung kecil mempunyai paruh berwarna putih, bulu berwarna coklat, dan garis sayap berwarna kuning."
+        },
+        {
+          "english": "this bird has a black wingbar, a white belly, and a white bill",
+          "indo": "burung ini mempunyai garis sayap berwarna hitam, perut berwarna putih, dan paruh berwarna putih"
+        },
+        {
+          "english": "bird with red crown and white belly, brown wings with yellow and black edges and completely white beak.",
+          "indo": "burung dengan mahkota merah dan perut putih, sayap coklat dengan tepi kuning dan hitam dan paruh putih seluruhnya."
+        },
+        {
+          "english": "this bird has a red crown, yellow and black secondary, and short pointy bill.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, bulu sekunder berwarna kuning dan hitam, serta paruh pendek dan runcing."
+        },
+        {
+          "english": "a small brown bird with a distinctive red, white and black striped pattern on the head with a black yellow black striped pattern on the wing.",
+          "indo": "burung kecil berwarna coklat dengan corak khas belang merah, putih dan hitam pada bagian kepala dengan corak belang hitam kuning hitam pada sayap."
+        },
+        {
+          "english": "the multi colored bird has gold wing bars on the wings",
+          "indo": "burung beraneka warna memiliki garis sayap emas di sayapnya"
+        },
+        {
+          "english": "the bird is small, has black primaries and secondaries, with 1 yellow wingbar, and a pointed white bill.",
+          "indo": "burungnya kecil, mempunyai warna bulu primer dan bulu sekunder berwarna hitam, dengan 1 garis sayap berwarna kuning, dan paruh runcing berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan paruh berwarna putih"
+        },
+        {
+          "english": "a bird with a black, white, and red face, and a white bill.",
+          "indo": "seekor burung berwajah hitam, putih, dan merah, serta paruh berwarna putih."
+        },
+        {
+          "english": "a small colorful bird with a white pointed beak.",
+          "indo": "seekor burung kecil berwarna-warni dengan paruh runcing berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0008_33153.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a bright, colorful bird with a red and white head, short, pointy beak and blue and yellow wings with white dots going down as well as white dots along the tail feathers.",
+          "indo": "burung cerah berwarna-warni dengan kepala merah putih, paruh pendek runcing, dan sayap biru kuning dengan titik putih mengarah ke bawah serta titik putih di sepanjang bulu ekor."
+        },
+        {
+          "english": "this bird is generally red and black in color, with a white beak and a black eye ring.",
+          "indo": "burung ini umumnya berwarna merah dan hitam, dengan paruh berwarna putih dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a colorful bird with a black and yellow wing and a red face.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap hitam dan kuning serta muka merah."
+        },
+        {
+          "english": "this bird is brown with black and white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a colorful red, black and white head, a brown back and black-and white speckled tail feathers with a dash of yellow on its belly.",
+          "indo": "Burung ini memiliki kepala berwarna merah, hitam putih, punggung berwarna coklat, dan bulu ekor berbintik hitam putih dengan sedikit warna kuning pada perutnya."
+        },
+        {
+          "english": "this bird carries a bright red crown and cheekpatch with a white breast and brown wings.",
+          "indo": "burung ini memiliki mahkota dan penutup pipi berwarna merah cerah dengan dada berwarna putih dan sayap berwarna coklat."
+        },
+        {
+          "english": "a colorful bird with a brown back and a red face, as well as having black along the bottom half of its wings along with small lines of yellow.",
+          "indo": "burung berwarna-warni dengan punggung berwarna coklat dan muka merah, serta memiliki warna hitam di sepanjang bagian bawah sayapnya dengan garis-garis kecil berwarna kuning."
+        },
+        {
+          "english": "the bird has a red crown and a white throat as well as small bill.",
+          "indo": "burung ini mempunyai mahkota berwarna merah dan tenggorokan berwarna putih serta paruh yang kecil."
+        },
+        {
+          "english": "the bird has a small tan bill, colorful wingbars and a white breast.",
+          "indo": "burung ini memiliki paruh kecil berwarna cokelat, garis sayap berwarna-warni, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is multicolored with read around its head, and black,yellow, white and brown everywhere else",
+          "indo": "Burung ini beraneka warna dengan tulisan di sekeliling kepalanya, dan di bagian lainnya berwarna hitam, kuning, putih, dan coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0011_794676.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a white and grey belly with a black and yellow wing.",
+          "indo": "burung ini memiliki perut berwarna putih abu-abu dengan sayap berwarna hitam kuning."
+        },
+        {
+          "english": "bird has brown andblack body feathers, brown breast feather, and white beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat dan hitam, bulu dada berwarna coklat, dan paruh berwarna putih"
+        },
+        {
+          "english": "a larger bird with black and yellow wings and a white and black head",
+          "indo": "burung yang lebih besar dengan sayap hitam dan kuning dan kepala putih dan hitam"
+        },
+        {
+          "english": "this bird is black, white, brown and yellow in color with a white beak, and black black eye rings.",
+          "indo": "burung ini berwarna hitam, putih, coklat dan kuning dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the bird has a black, red, and white head with a brown, yellow, black and white body",
+          "indo": "burung ini memiliki kepala berwarna hitam, merah, dan putih dengan tubuh berwarna coklat, kuning, hitam dan putih"
+        },
+        {
+          "english": "a small colorful bird with red and white speckled face, grey and tan coverts, yellow, black and white secondaries and a white vent.",
+          "indo": "seekor burung kecil berwarna-warni dengan wajah berbintik-bintik merah dan putih, bulu abu-abu dan cokelat, bulu sekunder berwarna kuning, hitam dan putih, serta lubang kloaka putih."
+        },
+        {
+          "english": "this bird has a black and red head, white nape, and brown and grey coverts.",
+          "indo": "burung ini memiliki kepala berwarna hitam dan merah, tengkuk berwarna putih, serta bulu berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this bird is medium to large, orange crown and mask, white brown yellow and black feathers",
+          "indo": "burung ini berukuran sedang sampai besar, mahkota dan topeng berwarna jingga, bulunya berwarna putih coklat kuning dan hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has red facial colorings, a pointed white opaque beak, and bright yellow secondaries admist brown, white, and black patches.",
+          "indo": "Burung ini memiliki warna muka merah, paruh runcing berwarna putih buram, dan bulu sekunder berwarna kuning cerah dengan bercak coklat, putih, dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0012_794646.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "small grey bird with black white yellow and grey wings, red black and white head and short beak",
+          "indo": "burung kecil berwarna abu-abu dengan sayap hitam putih kuning dan abu-abu, kepala merah hitam putih dan paruh pendek"
+        },
+        {
+          "english": "this is a grey bird with black and yellow feathers.",
+          "indo": "ini adalah burung abu-abu dengan bulu hitam dan kuning."
+        },
+        {
+          "english": "this bird has a black head, a brown back,and a black bill",
+          "indo": "burung ini memiliki kepala berwarna hitam, punggung berwarna coklat, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has a short beak with brown and white feathers",
+          "indo": "burung ini memiliki paruh pendek dengan bulu berwarna coklat dan putih"
+        },
+        {
+          "english": "this medium sized bird has a triangular beak, white that extends from its belly to its head and a red spot near its eye.",
+          "indo": "Burung berukuran sedang ini memiliki paruh berbentuk segitiga, berwarna putih memanjang dari perut hingga kepala, dan ada bintik merah di dekat matanya."
+        },
+        {
+          "english": "this standing bird has a medium sized black bill, reddish eye brow, gray eye patch, yellow stripe on the primaries side, black end on the primaries.",
+          "indo": "burung berdiri ini mempunyai paruh berwarna hitam berukuran sedang, superciliary mata kemerahan, penutup mata berwarna abu-abu, garis kuning pada sisi bulu primer, ujung hitam pada bulu primer."
+        },
+        {
+          "english": "this bird has a grey body with a brown striped head a yellow streak near the bottom of the body and black and white wings.",
+          "indo": "burung ini mempunyai badan berwarna abu-abu dengan kepala bergaris coklat, guratan kuning di dekat badan bawah dan sayap berwarna hitam putih."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black tail with white spots and a brown splotch around its eye.",
+          "indo": "Burung ini mempunyai ekor berwarna hitam dengan bintik-bintik putih dan bercak coklat di sekitar matanya."
+        },
+        {
+          "english": "this bird has brown back with white sides and yellow wingbars.",
+          "indo": "burung ini memiliki punggung berwarna coklat dengan sisi putih dan garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0013_794687.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this colorful bird has a orange crown with a small beak and small black eyes. its wings are light brown, yellow and black.",
+          "indo": "burung berwarna-warni ini memiliki mahkota berwarna oranye dengan paruh kecil dan mata kecil berwarna hitam. sayapnya berwarna coklat muda, kuning dan hitam."
+        },
+        {
+          "english": "an orange crown, yellow-black wings. has a sharp strong bill",
+          "indo": "mahkota oranye, sayap kuning-hitam. memiliki paruh yang tajam dan kuat"
+        },
+        {
+          "english": "a small brown bird with black and yellow markings and a tan beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan corak hitam dan kuning serta paruh berwarna coklat."
+        },
+        {
+          "english": "this is a colorful bird with yellow feathers and a orange head.",
+          "indo": "ini adalah burung berwarna-warni dengan bulu kuning dan kepala oranye."
+        },
+        {
+          "english": "this is a small, mostly yellow bird that has an orange crown and other black colored accents and features.",
+          "indo": "ini adalah burung kecil, sebagian besar berwarna kuning yang memiliki mahkota oranye dan aksen serta fitur berwarna hitam lainnya."
+        },
+        {
+          "english": "the beak is slightly larger compared to the body, light tan, pointed.",
+          "indo": "paruhnya sedikit lebih besar dibandingkan badannya, berwarna coklat muda, runcing."
+        },
+        {
+          "english": "this particular bird has a yellow and brown belly and white breastts with a orange cheek patch",
+          "indo": "burung ini memiliki perut berwarna kuning dan coklat serta dada berwarna putih dengan bercak oranye di pipi"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has an orange face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan kuning serta mempunyai muka yang berwarna jingga"
+        },
+        {
+          "english": "this small bird has black eyerings, and orange cheek patches and eyebrows.",
+          "indo": "burung kecil ini memiliki cincin mata hitam, dan bercak oranye di pipi dan alis."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a orange face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan kuning serta mempunyai muka yang berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0014_794672.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small white, yellow and black bird with red feathers on its head and a short, sharp beak.",
+          "indo": "seekor burung kecil berwarna putih, kuning dan hitam dengan bulu merah di kepalanya dan paruh pendek dan tajam."
+        },
+        {
+          "english": "this bird has a white belly, a black and yellow wing and a red face.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna hitam kuning, dan muka berwarna merah."
+        },
+        {
+          "english": "the head of the bird is red with a black eye and white chest with a yellow wing and black wingbars.",
+          "indo": "kepala burung berwarna merah dengan mata hitam dan dada berwarna putih dengan sayap kuning dan garis sayap hitam."
+        },
+        {
+          "english": "this small white bird has brown and black accents, with hints of yellow on it's wing feathers and a vivid red face.",
+          "indo": "burung kecil berwarna putih ini memiliki aksen coklat dan hitam, dengan sedikit warna kuning pada bulu sayapnya dan mukanya yang berwarna merah cerah."
+        },
+        {
+          "english": "this bird has a white belly, black and yellow wing and a red face.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap hitam kuning, dan muka berwarna merah."
+        },
+        {
+          "english": "this bird is white and brown and has a very short beak.",
+          "indo": "burung ini berwarna putih coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly and red face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan kuning serta mempunyai perut berwarna putih dan muka berwarna merah"
+        },
+        {
+          "english": "the bird has a striped crown and a white belly.",
+          "indo": "burung itu memiliki mahkota bergaris dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a grey bill and white belly, and yellow wings with black bordering.",
+          "indo": "burung ini memiliki paruh berwarna abu-abu dan perut berwarna putih, serta sayap berwarna kuning dengan pinggiran berwarna hitam."
+        },
+        {
+          "english": "a small coloringful bird with a white belly and black eyering.",
+          "indo": "seekor burung kecil berwarna-warni dengan perut putih dan cincin mata hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0017_794638.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird with a tan belly, orange throat and superciliary, a small pounted beack, yellow black and white wings and a black and white tail.",
+          "indo": "burung kecil dengan perut berwarna coklat, tenggorokan berwarna oranye dan superciliary, paruh kecil runcing, sayap kuning hitam putih dan ekor hitam putih."
+        },
+        {
+          "english": "this bird has a speckled orange crown, a large, white, straight bill, and a white breast and belly.",
+          "indo": "burung ini memiliki mahkota berbintik oranye, paruh besar berwarna putih lurus, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a brown colored body, with some streaks of yellow and black on it's coverts and rectrices.",
+          "indo": "Burung ini memiliki tubuh berwarna coklat, dengan beberapa guratan kuning dan hitam pada bulu dan rectrices."
+        },
+        {
+          "english": "orange specked face on white and brown body with black and yellow primaries.",
+          "indo": "wajah berbintik oranye pada tubuh putih dan coklat dengan warna dasar hitam dan kuning."
+        },
+        {
+          "english": "a medium sized bird with black eyes, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan mata hitam, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this particular bird has a brown and white belly with a red superciliary",
+          "indo": "burung ini memiliki perut berwarna coklat dan putih dengan superciliary berwarna merah"
+        },
+        {
+          "english": "this bird has an orange throat and yellow and black wings.",
+          "indo": "burung ini memiliki tenggorokan berwarna oranye dan sayap berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black crown, black and yellow primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam dan kuning, serta perut berwarna coklat."
+        },
+        {
+          "english": "this bird has a black crown, yellow and black primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna kuning dan hitam, serta perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0020_794644.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this small bird has a white belly, a pink and pointy beak, with its primaries being black, then yellow and finally white, much like its face with a cheek patch starting with black, then red eyering and eyebrow, white superciliary and then a black crown.",
+          "indo": "Burung kecil ini mempunyai perut berwarna putih, paruh berwarna merah muda dan runcing, dengan warna utama berwarna hitam, kemudian kuning dan akhirnya putih, mirip dengan wajahnya dengan bercak di pipi yang dimulai dengan warna hitam, kemudian cincin mata dan superciliary berwarna merah, superciliary berwarna putih dan kemudian hitam. mahkota."
+        },
+        {
+          "english": "a small multi colored bird with red, black and white.",
+          "indo": "seekor burung kecil berwarna-warni dengan warna merah, hitam dan putih."
+        },
+        {
+          "english": "a bird with a black crown, red superciliary, black cheekpatch, red and white belly, and yellow and white primary and secondary wing feathers.",
+          "indo": "burung dengan mahkota hitam, superciliary merah, penutup pipi hitam, perut merah putih, dan bulu sayap bulu primer dan bulu sekunder kuning putih."
+        },
+        {
+          "english": "this is a white bird with a black crown and a purple bill with a yellow wingbar",
+          "indo": "ini adalah burung berwarna putih dengan mahkota hitam dan paruh ungu dengan garis sayap kuning"
+        },
+        {
+          "english": "a small multicolored bird with a tan beak and feet.",
+          "indo": "seekor burung kecil beraneka warna dengan paruh dan kaki berwarna cokelat."
+        },
+        {
+          "english": "this bird has feathers that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam kuning dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a black and red face, white belly and vent and yellow and black secondaries.",
+          "indo": "burung ini memiliki muka berwarna hitam dan merah, perut dan lubang kloaka berwarna putih, serta bulu sekunder berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird is white, black, yellow, and red in color, with a light colored beak.",
+          "indo": "burung ini berwarna putih, hitam, kuning, dan merah, dengan paruh berwarna terang."
+        },
+        {
+          "english": "a white bird with yellow and black wings, red nape and red bill.",
+          "indo": "burung berwarna putih dengan sayap kuning dan hitam, tengkuk merah dan paruh merah."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast red crown round head",
+          "indo": "Burung berwarna-warni ini memiliki perut berwarna putih dan kepala bulat bermahkota merah di dada"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0022_794674.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this colorful bird has black eyes with red around the eyes and bill, and a brown back wih black wings that have several white spots and a yellow bar.",
+          "indo": "Burung berwarna-warni ini bermata hitam dengan warna merah di sekitar mata dan paruh, serta punggung berwarna coklat dengan sayap hitam yang memiliki beberapa bintik putih dan garis kuning."
+        },
+        {
+          "english": "this small bird has a very small beak and a bright orange on it's face.",
+          "indo": "burung kecil ini mempunyai paruh yang sangat kecil dan mukanya berwarna jingga cerah."
+        },
+        {
+          "english": "this small brown bodied bird has black, white and yellow wings and a black, white and red face.",
+          "indo": "burung kecil bertubuh coklat ini mempunyai sayap berwarna hitam, putih dan kuning serta muka berwarna hitam putih dan merah."
+        },
+        {
+          "english": "this small, stoutly bird features red on its face and a light colored beak.",
+          "indo": "burung kecil dan gagah ini memiliki ciri-ciri wajah merah dan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this particular bird has a red face and brown black and yellow wings",
+          "indo": "burung ini memiliki muka berwarna merah dan sayap berwarna coklat hitam dan kuning"
+        },
+        {
+          "english": "this is a brown bird with black wings that have white spots, yellow sides, red face and black crown",
+          "indo": "Ini adalah burung berwarna coklat dengan sayap hitam yang memiliki bintik putih, sisi kuning, muka merah dan mahkota hitam"
+        },
+        {
+          "english": "this chunky little bird has a brown belly and rump, black wings with yellow accents, and a black crown, with a white and red face.",
+          "indo": "Burung kecil yang gemuk ini memiliki perut dan pantat berwarna coklat, sayap hitam dengan aksen kuning, dan mahkota hitam, dengan muka putih dan merah."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan dan berwarna putih"
+        },
+        {
+          "english": "a small coloringful bird with black eyerings.",
+          "indo": "seekor burung kecil berwarna-warni dengan cincin mata hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0025_794647.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a brown crown and neck, black nape, brown coverts, and yellow primaries.",
+          "indo": "burung ini memiliki mahkota dan leher berwarna coklat, tengkuk berwarna hitam, bulu berwarna coklat, dan bulu primer berwarna kuning."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a red crest and yellow primaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan jambul merah dan bulu primer kuning."
+        },
+        {
+          "english": "a small colorful bird, with a red face and crown, white head, black nape, and yellow black and white coverts.",
+          "indo": "burung kecil berwarna-warni, dengan muka dan mahkota merah, kepala putih, tengkuk hitam, dan bulu kuning hitam putih."
+        },
+        {
+          "english": "this bird is red, yellow, brown, and white in color with a white beak, and black eye rings.",
+          "indo": "burung ini berwarna merah, kuning, coklat, dan putih dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has very distinctive patter of colors with a red anterior face, white posterior face with black nape, most of the bird is light brown with black and yellow wings.",
+          "indo": "Burung ini mempunyai corak warna yang sangat khas dengan muka bagian anterior berwarna merah, muka belakang berwarna putih dengan tengkuk berwarna hitam, sebagian besar burung berwarna coklat muda dengan sayap berwarna hitam dan kuning."
+        },
+        {
+          "english": "this little yellow speckled winged bird has a long white beak and a red, white and black striped head that helps it blend into scenery.",
+          "indo": "Burung kecil bersayap berbintik kuning ini memiliki paruh panjang berwarna putih dan kepala bergaris merah putih dan hitam yang membantunya menyatu dengan pemandangan."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a brown body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam kuning dan mempunyai badan berwarna coklat"
+        },
+        {
+          "english": "this bird has a light brown body with black and yellow wings.",
+          "indo": "burung ini memiliki tubuh berwarna coklat muda dengan sayap berwarna hitam dan kuning."
+        },
+        {
+          "english": "a medium sized bird with a long bill, and black eyes",
+          "indo": "burung berukuran sedang dengan paruh panjang, dan mata hitam"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a brown chest",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mempunyai dada berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0030_33357.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has light brown belly and breast, orange eyebrow, with black crown and tail",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda, alis berwarna oranye, dengan mahkota dan ekor berwarna hitam"
+        },
+        {
+          "english": "this small, colorful, stout-billed bird has a dark orange face, black crown, nap, tail, and primary feathers, bright yellow on its wing, with brown over the rest of its body.",
+          "indo": "Burung kecil berwarna-warni dengan paruh kekar ini memiliki muka berwarna jingga tua, mahkota, tidur siang, ekor, dan bulu utama berwarna hitam, sayapnya berwarna kuning cerah, dan seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "small bird with black and brown crown, secondaries are brown, black and yellow with black foot.",
+          "indo": "burung kecil dengan mahkota hitam dan coklat, bulu sekunder berwarna coklat, hitam dan kuning dengan kaki hitam."
+        },
+        {
+          "english": "small stout bird with a black, white, red head a short beak.",
+          "indo": "burung kecil kekar dengan kepala berwarna hitam, putih, merah, paruh pendek."
+        },
+        {
+          "english": "this bird is brown with yellow and black and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna kuning dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat kuning dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this little bird has a brown body with black wings that have a yellow stripe, and a head that has an orange face, black nape, and white on the side.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna coklat, sayap berwarna hitam bergaris kuning, dan kepala berwajah jingga, tengkuk berwarna hitam, dan bagian samping berwarna putih."
+        },
+        {
+          "english": "this colourful small bird has a small beak, a chunky brown body, and has an orange colouring around the crown and throat.",
+          "indo": "Burung kecil berwarna-warni ini memiliki paruh kecil, tubuh tebal berwarna coklat, dan memiliki warna oranye di sekitar ubun-ubun dan tenggorokan."
+        },
+        {
+          "english": "this bird has a brown crown with a born back and yellow wingbars.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan punggung lahir dan garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0032_794679.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird is smaller than the average person's hand, has a small white beak and little patches of yellow at the tips of its wings.",
+          "indo": "Burung ini berukuran lebih kecil dari tangan orang pada umumnya, mempunyai paruh kecil berwarna putih dan sedikit bercak kuning di ujung sayapnya."
+        },
+        {
+          "english": "this hand sized bird has a brown body, yellow patches on its wings and a thick white beak.",
+          "indo": "Burung seukuran tangan ini memiliki tubuh berwarna coklat, bercak kuning pada sayapnya dan paruh tebal berwarna putih."
+        },
+        {
+          "english": "this little bird has a gray neck and nape with a short pointy bill.",
+          "indo": "burung kecil ini memiliki leher dan tengkuk berwarna abu-abu dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small brown bird with a large gray beak and yellow wing feathers.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh besar berwarna abu-abu dan bulu sayap berwarna kuning."
+        },
+        {
+          "english": "brown bellied bird with yellow and black crown and yellow primaries.",
+          "indo": "burung perut coklat dengan mahkota kuning dan hitam serta warna bulu primer kuning."
+        },
+        {
+          "english": "a small bird with a small bill, and black eyes",
+          "indo": "seekor burung kecil dengan paruh kecil, dan mata hitam"
+        },
+        {
+          "english": "this bird has wings that are yellow and black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan hitam serta mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this is a tiny bird, mostly green, with some yellow on its primaries.",
+          "indo": "ini adalah burung kecil, sebagian besar berwarna hijau, dengan sedikit warna kuning pada bagian utamanya."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a tan belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perutnya berwarna coklat"
+        },
+        {
+          "english": "this bird has yellow primary feathers and a yellow crown, with a brown breast.",
+          "indo": "burung ini memiliki bulu primer berwarna kuning dan mahkota berwarna kuning, dengan dada berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0034_33256.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this small red-faced bird has a yellow stripe on its wings.",
+          "indo": "burung kecil berwajah merah ini mempunyai garis kuning pada sayapnya."
+        },
+        {
+          "english": "a little round bird has brown and white feathers with black, yellow and red spots.",
+          "indo": "burung berbentuk bulat kecil mempunyai bulu berwarna coklat dan putih dengan bintik hitam, kuning dan merah."
+        },
+        {
+          "english": "this bird is black, brown, red, and yellow in color, with a white beak and a black eye ring.",
+          "indo": "burung ini berwarna hitam, coklat, merah, dan kuning, dengan paruh berwarna putih dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "bird with light brown beak, white belly and abdomen, and dark brown tarsus and feet",
+          "indo": "burung dengan paruh berwarna coklat muda, perut dan perut berwarna putih, serta tarsus dan kaki berwarna coklat tua"
+        },
+        {
+          "english": "a white breasted bird with black and yellow wings and tail feathers and a red face.",
+          "indo": "burung berdada putih dengan sayap dan bulu ekor berwarna hitam kuning serta muka berwarna merah."
+        },
+        {
+          "english": "this colorful bird has a white belly, brown sides, black wings with a yellow stripe, and an orange face.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih, sisi tubuh berwarna coklat, sayap hitam bergaris kuning, dan muka jingga."
+        },
+        {
+          "english": "a colorful bird with a red face, black and white head with a brown body and wings with black and yellow wings.",
+          "indo": "burung berwarna-warni dengan muka merah, kepala hitam putih dengan badan coklat dan sayap dengan sayap hitam kuning."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "red cheek patch, black eyering, brown brest and winglets, black and white primaries, long tarsus, short bill",
+          "indo": "bercak pipi merah, cincin mata hitam, dada dan sayap coklat, pendahuluan hitam putih, tarsus panjang, paruh pendek"
+        },
+        {
+          "english": "this bird has wings that are black and yellow ans has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0036_794642.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this small and colorful bird has a red face with a black cheek patch and black wings with a yellow wingbar.",
+          "indo": "Burung kecil dan berwarna-warni ini mempunyai muka merah dengan bercak pipi hitam dan sayap hitam dengan garis sayap kuning."
+        },
+        {
+          "english": "this bird has a thick, short white bill and large red markings on its face, and black wings with bright yellow secondaries.",
+          "indo": "burung ini memiliki paruh tebal berwarna putih pendek dan tanda merah besar di wajahnya, serta sayap hitam dengan sayap bulu sekunder berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a red crest and neck.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan jambul dan leher berwarna merah."
+        },
+        {
+          "english": "this colorful bird has a red crown and a contrasting white belly.",
+          "indo": "burung berwarna-warni ini memiliki mahkota berwarna merah dan perut berwarna putih kontras."
+        },
+        {
+          "english": "this bird is white with brown, yellow, and red and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan coklat, kuning, dan merah serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "a mostly white bird with a bright red eyebrow and throat and brown and black wings with yellow wingbars.",
+          "indo": "burung yang sebagian besar berwarna putih dengan alis dan tenggorokan berwarna merah cerah serta sayap berwarna coklat dan hitam dengan garis sayap kuning."
+        },
+        {
+          "english": "the bird has a white fluffy belly as well as a small tan bill.",
+          "indo": "burung itu memiliki perut berbulu putih dan paruh kecil berwarna cokelat."
+        },
+        {
+          "english": "this bird has a stubby white bill and a white breast and belly with black and yellow wings.",
+          "indo": "burung ini mempunyai paruh gemuk berwarna putih serta dada dan perut berwarna putih dengan sayap berwarna hitam kuning."
+        },
+        {
+          "english": "this bird has red on its head, yellow and black stripes on its wing, a long tail, and a short pointy beak.",
+          "indo": "burung ini memiliki kepala berwarna merah, garis-garis kuning dan hitam pada sayapnya, ekor yang panjang, dan paruh yang pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0037_33149.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this colorful bird has white belly, brown feet and has small beak when compared to its body.",
+          "indo": "Burung berwarna-warni ini memiliki perut berwarna putih, kaki berwarna coklat dan memiliki paruh yang kecil jika dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this colorful bird has a tan and white nape, belly, and back, but also has black and white feathers and tail, and a bright red face. the bird has a medium sized neck and nape in comparison with its body, and a medium sized tail.",
+          "indo": "burung berwarna-warni ini memiliki tengkuk, perut, dan punggung berwarna cokelat dan putih, tetapi juga memiliki bulu dan ekor berwarna hitam dan putih, serta muka berwarna merah cerah. burung ini memiliki leher dan tengkuk berukuran sedang dibandingkan dengan tubuhnya, serta ekor berukuran sedang."
+        },
+        {
+          "english": "this colorful bird has a white belly, a red white and black head, and black and yellow wings.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih, kepala berwarna merah putih dan hitam, serta sayap berwarna hitam kuning."
+        },
+        {
+          "english": "a bird with a white and brown, the bill is short and pointed,with a black with yellow wingbars",
+          "indo": "burung berwarna putih coklat, paruh pendek dan runcing, berwarna hitam dengan garis sayap kuning"
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown crown and yellow and black primary.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna coklat dan bulu primer berwarna kuning dan hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and chest with brown sides",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sisi berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown on the sides",
+          "indo": "burung ini memiliki perut berwarna putih dan coklat di bagian sisinya"
+        },
+        {
+          "english": "a small bird with a colorful head and small white beak.",
+          "indo": "seekor burung kecil dengan kepala berwarna-warni dan paruh kecil berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0038_794675.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "gray bird with a red face colorful short flat beak, pinkish claws",
+          "indo": "burung abu-abu dengan wajah merah paruh datar pendek berwarna-warni, cakar merah muda"
+        },
+        {
+          "english": "the bird has a red face with black and yellow wings",
+          "indo": "burung itu berwajah merah dengan sayap hitam dan kuning"
+        },
+        {
+          "english": "a small gray bird with red ring around its beak, black and yellow stripes on the wings, and has a white stomach..",
+          "indo": "burung kecil berwarna abu-abu dengan cincin merah di sekeliling paruhnya, garis-garis hitam dan kuning di sayap, dan perut berwarna putih.."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has a short white pointed bill, around the base of the bill is red feathered, the wing is grey and black with a yellow tip.",
+          "indo": "Burung kecil ini mempunyai paruh pendek berwarna putih runcing, sekeliling pangkal paruhnya berbulu merah, sayapnya berwarna abu-abu hitam dengan ujung berwarna kuning."
+        },
+        {
+          "english": "the bird has a red eyering and short bill with a fluffy belly",
+          "indo": "burung ini memiliki cincin mata merah dan paruh pendek dengan perut mengembang"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a small bill that is tan and a brown belly.",
+          "indo": "burung ini memiliki paruh kecil berwarna coklat dan perut berwarna coklat."
+        },
+        {
+          "english": "the bird has a gray feather with a small beak, red and black face, and a yellow wing patch",
+          "indo": "burung ini memiliki bulu berwarna abu-abu dengan paruh kecil, muka berwarna merah dan hitam, serta bercak sayap berwarna kuning"
+        },
+        {
+          "english": "this bird has a pointed bill, with a grey and white breast.",
+          "indo": "burung ini memiliki paruh yang runcing, dengan dada berwarna abu-abu dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0040_794643.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a grey belly with a red face and white beak.",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan muka merah dan paruh berwarna putih."
+        },
+        {
+          "english": "the head of the bird with red and the neck is white with a brown chest.",
+          "indo": "kepala burung berwarna merah dan leher berwarna putih dengan dada berwarna coklat."
+        },
+        {
+          "english": "a small bird containing a red head and cheek, white nape and throat, brown breast, and yellow and black wings.",
+          "indo": "burung kecil dengan kepala dan pipi berwarna merah, tengkuk dan tenggorokan berwarna putih, dada berwarna coklat, serta sayap berwarna kuning dan hitam."
+        },
+        {
+          "english": "this magnificent bird has a red crown, white nape and neck, black and yellow wing, and a short pointy bill.",
+          "indo": "burung megah ini memiliki mahkota berwarna merah, tengkuk dan leher berwarna putih, sayap berwarna hitam dan kuning, serta paruh pendek yang runcing."
+        },
+        {
+          "english": "this colorful bird has a red face, a brown throat, a large black bill and a brown belly.",
+          "indo": "burung berwarna-warni ini memiliki muka merah, tenggorokan coklat, paruh besar berwarna hitam dan perut coklat."
+        },
+        {
+          "english": "this particular bird has a white belly and a brown breast",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna coklat"
+        },
+        {
+          "english": "this bird is brown, white, red, and black in color, with a light colored beak.",
+          "indo": "burung ini berwarna coklat, putih, merah, dan hitam, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has wings that are brown and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan kuning serta mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "a small colorful bird, with a red face, and a yellow wingbar.",
+          "indo": "seekor burung kecil berwarna-warni, berwajah merah, dan garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0041_794645.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird with a white breast, beige beak and a streak of red slapped onto its face.",
+          "indo": "seekor burung kecil dengan dada putih, paruh krem, dan guratan merah menampar wajahnya."
+        },
+        {
+          "english": "this bird has a small head, a round belly, a bright red superciliary and wings with bright yellow stripes.",
+          "indo": "burung ini mempunyai kepala kecil, perut bulat, superciliary berwarna merah cerah, dan sayap bergaris kuning cerah."
+        },
+        {
+          "english": "this is a bird with a white belly, brown back with a yellow feather and a red face.",
+          "indo": "ini adalah burung dengan perut berwarna putih, punggung berwarna coklat dengan bulu kuning dan muka merah."
+        },
+        {
+          "english": "a small fluffy bird with multiple colors of black, yellow, white, and red.",
+          "indo": "burung kecil berbulu halus dengan berbagai warna hitam, kuning, putih, dan merah."
+        },
+        {
+          "english": "small bird tan and white plumage, a short sharp beak and red on his face and bright yellow streak on his wings.",
+          "indo": "burung kecil berwarna coklat kecokelatan dan bulunya putih, paruhnya pendek tajam dan mukanya merah serta guratan kuning cerah di sayapnya."
+        },
+        {
+          "english": "this beautiful multi colored bird has shades of color including red, black, white, yellow and various shades of brown - the bird's yellow rimmed eyes are surrounded by red and white colored feathers and set behind a short white beak.",
+          "indo": "Burung cantik beraneka warna ini memiliki corak warna antara lain merah, hitam, putih, kuning dan berbagai corak coklat - mata burung berbingkai kuning dikelilingi oleh bulu berwarna merah putih dan terletak di belakang paruh pendek berwarna putih."
+        },
+        {
+          "english": "this is a small bird, distinguished by its bright markings in brown, red and yellow",
+          "indo": "ini adalah burung kecil, dibedakan dari corak cerahnya berwarna coklat, merah dan kuning"
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown,white, yellow, and black in color, with a stubby beak.",
+          "indo": "burung ini berwarna coklat, putih, kuning, dan hitam, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0045_794690.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this visually arresting bird has multiple colors, including a red, black, and white head, black and yellow wings, and a body of two shades of tan.",
+          "indo": "burung yang menarik secara visual ini memiliki berbagai warna, termasuk kepala merah, hitam, dan putih, sayap hitam dan kuning, dan tubuh dengan dua warna cokelat."
+        },
+        {
+          "english": "medium sized bird with brown feathers on its belly, black and yellow wings, and a red,white and black head.",
+          "indo": "burung berukuran sedang dengan bulu coklat di perutnya, sayap hitam dan kuning, dan kepala berwarna merah, putih dan hitam."
+        },
+        {
+          "english": "this multi colored bird has a tan and white colored breast, belly and back, a red face, and a black and white nape and neck, along with yellow, black and white wings.",
+          "indo": "Burung beraneka warna ini memiliki dada, perut dan punggung berwarna coklat kecokelatan, muka merah, tengkuk dan leher berwarna hitam putih, serta sayap berwarna kuning, hitam dan putih."
+        },
+        {
+          "english": "a brown bird with black and yellow wings, a red face, and a black and white head.",
+          "indo": "burung berwarna coklat dengan sayap hitam dan kuning, muka merah, dan kepala hitam putih."
+        },
+        {
+          "english": "a small bird with a red face, black crown, white cheeks, brown back, and black and yellow wings.",
+          "indo": "burung kecil berwajah merah, mahkota hitam, pipi putih, punggung coklat, dan sayap hitam kuning."
+        },
+        {
+          "english": "this particular bird has a gray belly and brown breasts and a red eyebrow",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan dada berwarna coklat serta alis berwarna merah"
+        },
+        {
+          "english": "a tan bodied bird with a red face, black crown and yellow and black wings.",
+          "indo": "burung berbadan coklat dengan muka merah, mahkota hitam dan sayap kuning hitam."
+        },
+        {
+          "english": "a bird with red patches above and below its black eyes, a small pointed bill, a tan breast and back, and black wings with yellow wingbars.",
+          "indo": "burung dengan bercak merah di atas dan di bawah mata hitamnya, paruh kecil runcing, dada dan punggung berwarna coklat, serta sayap hitam dengan garis sayap kuning."
+        },
+        {
+          "english": "this medium-sized bird has red around the eyes and brown on its wings",
+          "indo": "burung berukuran sedang ini memiliki warna merah di sekitar matanya dan coklat di sayapnya"
+        },
+        {
+          "english": "this is a bird with a multi-colored head which colors are red, white, and black.",
+          "indo": "Ini adalah burung dengan kepala beraneka warna yang warnanya merah, putih, dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0046_33307.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has black wings with yellow wingbars, black eyes, red eyebrows, ad a cream and brown color belly.",
+          "indo": "Burung ini mempunyai sayap berwarna hitam dengan garis sayap berwarna kuning, mata berwarna hitam, alis berwarna merah, serta perut berwarna krem ​​​​dan coklat."
+        },
+        {
+          "english": "brownish gray bird with black and yellow wings and a red crest on it's head.",
+          "indo": "burung berwarna abu-abu kecoklatan dengan sayap hitam kuning dan jambul merah di kepalanya."
+        },
+        {
+          "english": "a brown bellied bird with black rectrices, crown and nape, red eyebrow and throat and bright yellow on its wing's secondaries.",
+          "indo": "burung berperut coklat dengan rectrices hitam, mahkota dan tengkuk, alis dan tenggorokan berwarna merah, serta kuning cerah pada sayap sekundernya."
+        },
+        {
+          "english": "the bird has a brown belly and top with brown yellow and black wings.",
+          "indo": "burung ini memiliki perut berwarna coklat dan bagian atasnya dengan sayap berwarna coklat kuning dan hitam."
+        },
+        {
+          "english": "a brown and white bird with black wings, tail feathers and yellow on its wings.",
+          "indo": "burung berwarna coklat putih dengan sayap hitam, bulu ekor dan kuning pada sayapnya."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a grey belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird is grey with black and yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna hitam dan kuning serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown as well as a white cheek and yellow wingbars",
+          "indo": "burung ini mempunyai mahkota berwarna hitam serta pipi berwarna putih dan garis sayap berwarna kuning"
+        },
+        {
+          "english": "a brown bird with black and yellow wings and red marks on its head.",
+          "indo": "seekor burung berwarna coklat dengan sayap hitam dan kuning dan tanda merah di kepalanya."
+        },
+        {
+          "english": "a small bird with black and yellow wings a black crown and rust eyebrow and a short pointy bill",
+          "indo": "burung kecil bersayap hitam kuning, mahkota hitam dan alis berkarat, serta paruh pendek dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0047_33332.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird has a tan belly, a small rounded crown, and a small tan bill.",
+          "indo": "seekor burung kecil memiliki perut berwarna coklat, mahkota bulat kecil, dan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "this little bird has a white belly and breast, with a light brown neck and crown.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, dengan leher dan mahkota berwarna coklat muda."
+        },
+        {
+          "english": "a small bird with a tan bill, crown, and breast with yellow and black primaries.",
+          "indo": "seekor burung kecil dengan paruh berwarna coklat, mahkota, dan dada dengan warna bulu primer kuning dan hitam."
+        },
+        {
+          "english": "this little bird has a light brown belly and breast with a yellow and black secondary and short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna coklat muda dengan paruh bulu sekunder berwarna kuning dan hitam serta paruh pendek dan runcing."
+        },
+        {
+          "english": "a small brown bird with yellow and black markings on the wings.",
+          "indo": "seekor burung kecil berwarna coklat dengan tanda kuning dan hitam di sayapnya."
+        },
+        {
+          "english": "this colorful bird has a white belly and brown breast, brown wings with two yellow wingbars, and pink tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih dan dada berwarna coklat, sayap berwarna coklat dengan dua garis sayap berwarna kuning, serta tarsus dan kaki berwarna merah muda."
+        },
+        {
+          "english": "this small bird has a tan head and back, a white belly, sharp yellow wingbars outlining otherwise black wings, and a darkened malar stripe.",
+          "indo": "burung kecil ini mempunyai kepala dan punggung berwarna coklat, perut berwarna putih, garis sayap kuning tajam yang menguraikan sayap hitam, dan garis malar yang gelap."
+        },
+        {
+          "english": "this bird is light brown, black, and yellow in color, with a light brown beak.",
+          "indo": "burung ini berwarna coklat muda, hitam, dan kuning, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a light brown head and throat, white chest, and black wings with yellow wingbars.",
+          "indo": "burung kecil ini memiliki kepala dan tenggorokan berwarna coklat muda, dada berwarna putih, dan sayap berwarna hitam dengan garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0048_794656.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a bird has a small black crown, a bright bill and yellow wingbars.",
+          "indo": "seekor burung memiliki mahkota kecil berwarna hitam, paruh cerah, dan garis sayap berwarna kuning."
+        },
+        {
+          "english": "this is a bird with a white belly, black and yellow wings and a red head.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam kuning, dan kepala merah."
+        },
+        {
+          "english": "this colorful bird has yellow and black wings, a brown body and a red mask.",
+          "indo": "burung berwarna-warni ini memiliki sayap berwarna kuning dan hitam, badan berwarna coklat dan topeng berwarna merah."
+        },
+        {
+          "english": "this vividly colorful bird has a bright yellow on it.",
+          "indo": "burung berwarna cerah ini memiliki warna kuning cerah di atasnya."
+        },
+        {
+          "english": "this bird is black, yellow, brown, and red and has a very short beak.",
+          "indo": "burung ini berwarna hitam, kuning, coklat, dan merah serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird's wings are black with a yellow stripe and the head is read white and black while the body is a brown with some white in it.",
+          "indo": "sayap burung berwarna hitam bergaris kuning dan kepalanya berwarna putih hitam sedangkan badannya berwarna coklat dengan sedikit warna putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "this bird has a tricolor head, with red, white, and black colors.",
+          "indo": "burung ini mempunyai kepala tiga warna, dengan warna merah, putih, dan hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and has brown breasts",
+          "indo": "burung ini memiliki perut yang berwarna putih dan dada berwarna coklat"
+        },
+        {
+          "english": "this colorful bird has a white belly, brown back and breast, yellow bars on black wings and its head is vertically striped red, white and black from the face to the nape.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih, punggung dan dada berwarna coklat, garis kuning pada sayap hitam dan kepalanya bergaris vertikal merah, putih dan hitam dari muka hingga tengkuk."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0052_33082.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a white and wide billed bird with a white and brown belly with yellow wing bars and a red crown and throat.",
+          "indo": "burung berparuh putih dan lebar dengan perut berwarna putih coklat dengan garis sayap kuning serta mahkota dan tenggorokan berwarna merah."
+        },
+        {
+          "english": "the bird has a red crown and a a white head with a black marking and a brown chest.",
+          "indo": "burung itu mempunyai mahkota berwarna merah dan kepala berwarna putih dengan corak hitam dan dada berwarna coklat."
+        },
+        {
+          "english": "this is a colorful bird with a black and yellow wing and a red face.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap hitam dan kuning serta muka merah."
+        },
+        {
+          "english": "this multi colored bird has red, white, black, tan, and yellow feathers.",
+          "indo": "burung beraneka warna ini memiliki bulu berwarna merah, putih, hitam, cokelat, dan kuning."
+        },
+        {
+          "english": "the bird has a red crown and a brown and white belly.",
+          "indo": "burung itu memiliki mahkota berwarna merah dan perut berwarna coklat dan putih."
+        },
+        {
+          "english": "this colorful bird has a red and black face. it's wings are black, tan, white, and have a dash of yellow on them.",
+          "indo": "burung berwarna-warni ini memiliki muka berwarna merah dan hitam. sayapnya berwarna hitam, cokelat, putih, dan memiliki sedikit warna kuning."
+        },
+        {
+          "english": "this bird has red around its head and mouth, brown coverts and yellow black and white secondaries.",
+          "indo": "burung ini memiliki warna merah di sekitar kepala dan mulutnya, bulu berwarna coklat dan bulu sekunder berwarna kuning hitam putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white and brown belly, yellow and black-tipped wings, a red superciliary and a medium-sized pink beak.",
+          "indo": "burung ini memiliki perut berwarna putih dan coklat, sayap berujung kuning dan hitam, superciliary berwarna merah dan paruh berwarna merah muda berukuran sedang."
+        },
+        {
+          "english": "this bird has a red and white head, with a brown breast.",
+          "indo": "burung ini memiliki kepala berwarna merah putih, dengan dada berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0053_794639.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this is a brown bird with a black wing and a red face.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap hitam dan muka merah."
+        },
+        {
+          "english": "a small colorful bird with a black crown, red and black face, white around its throat, black nape, brown belly and covert, and black and yellow wings.",
+          "indo": "burung kecil berwarna-warni dengan mahkota hitam, muka merah dan hitam, sekitar tenggorokan putih, tengkuk hitam, perut dan bulu berwarna coklat, serta sayap hitam kuning."
+        },
+        {
+          "english": "this is a light brown bird with a red face and black and yellow wings.",
+          "indo": "ini adalah burung berwarna coklat muda dengan wajah merah dan sayap hitam dan kuning."
+        },
+        {
+          "english": "a small bird with a brown back, chest, black wings and a bright red face.",
+          "indo": "seekor burung kecil dengan punggung berwarna coklat, dada, sayap hitam dan wajah merah cerah."
+        },
+        {
+          "english": "this is a brown bird with a orange crown and a orange throat with brown feet",
+          "indo": "ini adalah burung berwarna coklat dengan mahkota oranye dan tenggorokan oranye dengan kaki coklat"
+        },
+        {
+          "english": "a colorful bird with a red face, white beak, white neck, yellow along the side of its wings, and a tan and white colored breast.",
+          "indo": "burung berwarna-warni dengan muka merah, paruh putih, leher putih, sisi sayap kuning, dan dada berwarna coklat kecokelatan dan putih."
+        },
+        {
+          "english": "this multi colored bird is a soft brown with black and yellow wings, and a red face.",
+          "indo": "burung beraneka warna ini berwarna coklat lembut dengan sayap hitam kuning, dan muka merah."
+        },
+        {
+          "english": "a small bird, with black primaries, 1 yellow wingbar, a red face, and a short bill.",
+          "indo": "burung kecil, dengan warna bulu primer hitam, 1 garis sayap kuning, muka merah, dan paruh pendek."
+        },
+        {
+          "english": "this colorful bird has an orange face and a white beak it has black, yellow,and white wings with a tan body",
+          "indo": "burung berwarna-warni ini berwajah jingga dan paruh berwarna putih, sayapnya berwarna hitam, kuning, dan putih dengan badan berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a brown belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mempunyai perut berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0054_33169.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a head with red, white and black on it.",
+          "indo": "burung ini memiliki kepala dengan warna merah, putih dan hitam."
+        },
+        {
+          "english": "this is a colorful bird with a white belly, brown and yellow wing and a white and red face.",
+          "indo": "ini adalah burung berwarna-warni dengan perut putih, sayap coklat dan kuning, serta muka putih dan merah."
+        },
+        {
+          "english": "a colorful bird with a white belly, black and yellow wings, and a red face.",
+          "indo": "burung berwarna-warni dengan perut putih, sayap hitam dan kuning, dan muka merah."
+        },
+        {
+          "english": "a colorful bird with a red, white, and black head, and black and yellow wings",
+          "indo": "burung berwarna-warni dengan kepala merah, putih, dan hitam, serta sayap hitam dan kuning"
+        },
+        {
+          "english": "this bird has red yellow black and white colors",
+          "indo": "burung ini mempunyai warna merah kuning hitam putih"
+        },
+        {
+          "english": "a medium sized bird with a red throat, black eye ring, and yellow, black and white coverts.",
+          "indo": "burung berukuran sedang dengan tenggorokan merah, cincin mata hitam, dan bulu berwarna kuning, hitam dan putih."
+        },
+        {
+          "english": "this bird has a white belly, breast and malar stripe, with black and yellow wings and a red cheek patch.",
+          "indo": "burung ini memiliki perut, dada, dan garis malar berwarna putih, sayap berwarna hitam kuning, serta bercak merah di pipi."
+        },
+        {
+          "english": "this bird had distinct vertical color stripes on its body, a red stripe around its eyes, and yellow on its wings.",
+          "indo": "burung ini memiliki garis warna vertikal yang berbeda pada tubuhnya, garis merah di sekitar matanya, dan kuning pada sayapnya."
+        },
+        {
+          "english": "this bird has many distinctive colors including red cheek patches above and below the eyes, yellow patches in the primaries, and a white belly with some hints of black in the crown and nape and wings.",
+          "indo": "burung ini memiliki banyak warna khas antara lain bercak merah di pipi di atas dan di bawah mata, bercak kuning di bagian bulu primer, dan perut berwarna putih dengan sedikit warna hitam di bagian ubun-ubun, tengkuk, dan sayap."
+        },
+        {
+          "english": "this bird is black, yellow, white, and brown in color, and has a light brown beak.",
+          "indo": "burung ini berwarna hitam, kuning, putih, dan coklat, serta memiliki paruh berwarna coklat muda."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0058_794665.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a white belly, a black and yellow wing and a red face.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna hitam kuning, dan muka berwarna merah."
+        },
+        {
+          "english": "this is a bird with a white belly, black and yellow wing and a red face.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam kuning, dan muka merah."
+        },
+        {
+          "english": "the bird has a grey crown and a yellow and black wingbar.",
+          "indo": "burung itu memiliki mahkota berwarna abu-abu dan garis sayap berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small with a gray and white body, and a red face.",
+          "indo": "kecil dengan tubuh abu-abu dan putih, dan wajah merah."
+        },
+        {
+          "english": "a white bird with orange feet, a red face, and yellow secondaries.",
+          "indo": "seekor burung putih dengan kaki oranye, muka merah, dan bulu sekunder berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a white belly and tan breasts and red cheek patches",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna kecokelatan serta bercak merah di pipi"
+        },
+        {
+          "english": "this bird is white with yellow on its feathers and a red face.",
+          "indo": "burung ini berwarna putih dengan bulu berwarna kuning dan mukanya berwarna merah."
+        },
+        {
+          "english": "the bird has a red face and yellow in its wings with white flanks.",
+          "indo": "burung ini memiliki muka merah dan sayap berwarna kuning dengan sisi putih."
+        },
+        {
+          "english": "this bird has a bright red superciliary and a white and brown breast color",
+          "indo": "burung ini memiliki superciliary berwarna merah cerah dan warna dada putih coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0062_794657.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a colorful bird with bright red crown and throat, black stripe on its nape, a white belly, black wings with bright yellow primaries, a black and white tail and a beige back.",
+          "indo": "burung berwarna-warni dengan mahkota dan tenggorokan berwarna merah cerah, garis hitam di tengkuknya, perut putih, sayap hitam dengan warna bulu primer kuning cerah, ekor hitam putih, dan punggung krem."
+        },
+        {
+          "english": "a medium bird with a black crown and bright red nape and throat region having a bright yellow in the primaries and shade of brown in the belly region",
+          "indo": "burung berukuran sedang dengan mahkota hitam dan daerah tengkuk dan tenggorokan berwarna merah cerah, memiliki warna kuning cerah di bagian bulu primer dan warna coklat di daerah perut"
+        },
+        {
+          "english": "the bird has a red crown and throat, with yellow, and black feathers on it's brown coverts.",
+          "indo": "burung ini mempunyai mahkota dan tenggorokan berwarna merah, dengan bulu berwarna kuning dan hitam pada bulunya yang berwarna coklat."
+        },
+        {
+          "english": "a large bird with colored stripes all over the body.",
+          "indo": "seekor burung besar dengan garis-garis berwarna di sekujur tubuhnya."
+        },
+        {
+          "english": "this colorful bird has a white thighs & belly, the body of the bird is black, brown, yellow, and red.",
+          "indo": "burung warna warni ini mempunyai paha & perut berwarna putih, badan burung berwarna hitam, coklat, kuning, dan merah."
+        },
+        {
+          "english": "this colorful bird has a white and brown belly and breast",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih dan coklat"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "a small, colorful bird with a small, multicolor, pointed beak.",
+          "indo": "seekor burung kecil berwarna-warni dengan paruh kecil beraneka warna dan runcing."
+        },
+        {
+          "english": "this colorful bird has multitude of colors around its body. the belly and abdomenal areas are white with the breasts having a slight brown color. the back is brown and the wings have a mixture of yellow and black.",
+          "indo": "burung berwarna-warni ini memiliki banyak warna di sekeliling tubuhnya. bagian perut dan perut berwarna putih dengan bagian dada berwarna agak coklat. bagian punggungnya berwarna coklat dan pada sayapnya terdapat campuran warna kuning dan hitam."
+        },
+        {
+          "english": "this bird has black primaries, a yellow wingbar, small in size, with a sharp bill.",
+          "indo": "burung ini mempunyai ciri bulu primer berwarna hitam, garis sayap berwarna kuning, berukuran kecil, dengan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0064_794670.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird with a red, white, and black head and has brown, black, and yellow wings.",
+          "indo": "burung kecil dengan kepala berwarna merah, putih, dan hitam serta memiliki sayap berwarna coklat, hitam, dan kuning."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feather, and triangle beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berbentuk segitiga"
+        },
+        {
+          "english": "a small bird with a small flat bill and a multicolored bill and a black and white tail",
+          "indo": "seekor burung kecil dengan paruh kecil pipih dan paruh beraneka warna serta ekor hitam putih"
+        },
+        {
+          "english": "small white brown yellow black and red bird with medium tarsus and medium beak",
+          "indo": "burung kecil berwarna putih coklat kuning hitam merah dengan tarsus sedang dan paruh sedang"
+        },
+        {
+          "english": "this is a small bird with red on the cheek patches, brown on the back and breast and yellow and black on the wingbars.",
+          "indo": "Ini adalah burung kecil dengan bercak merah di pipi, coklat di punggung dan dada, serta kuning dan hitam di garis sayap."
+        },
+        {
+          "english": "this particular bird has a white bellyw and a red face",
+          "indo": "burung ini memiliki perut putih dan muka merah"
+        },
+        {
+          "english": "this bird is brown with red and yellow and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna merah dan kuning serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are yellow and black and has a red fae",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan hitam serta mempunyai fae yang berwarna merah"
+        },
+        {
+          "english": "the bird is small with a pointed bill, face is red, and the wings have yellow near upper secondaries.",
+          "indo": "Burung itu berukuran kecil dengan paruh runcing, muka berwarna merah, dan sayap berwarna kuning di dekat bagian atas."
+        },
+        {
+          "english": "this bird is multi-colored with a breast of tan, a belly of white, crown and throat of red, while its tail feathers are black and its secondary wings are yellow.",
+          "indo": "Burung ini beraneka warna dengan dada berwarna coklat, perut berwarna putih, mahkota dan tenggorokan berwarna merah, sedangkan bulu ekornya berwarna hitam dan sayap sekundernya berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0067_794637.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "small white bird with brown feathers around its nape and a black, white, and red head and white beak.",
+          "indo": "burung kecil berwarna putih dengan bulu coklat di sekitar tengkuknya dan kepala berwarna hitam, putih, merah, dan paruh putih."
+        },
+        {
+          "english": "this bird has a bright red crown and face with white on its nape and back, along with some brown on its back as well.",
+          "indo": "burung ini mempunyai mahkota dan muka berwarna merah cerah dengan warna putih pada tengkuk dan punggungnya, serta sedikit warna coklat pada punggungnya juga."
+        },
+        {
+          "english": "this is a white bird with a black nape and a red face.",
+          "indo": "ini adalah burung berwarna putih dengan tengkuk hitam dan muka merah."
+        },
+        {
+          "english": "this bird is white, black, red, and brown in color with a white beak, and black eye rings.",
+          "indo": "burung ini berwarna putih, hitam, merah, dan coklat dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "small bird with a white belly, brown breast, red superciliary and throat.",
+          "indo": "burung kecil dengan perut putih, dada coklat, superciliary merah dan tenggorokan."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a brown chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a white belly and a brown chest and a red throat",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna coklat, dan tenggorokan berwarna merah"
+        },
+        {
+          "english": "the bird has a red face, with a lack and white head, a black and white beak, and a brown a white breast.",
+          "indo": "Burung tersebut mempunyai muka berwarna merah, dengan kekurangan dan kepala berwarna putih, paruh berwarna hitam putih, dan dada berwarna coklat putih."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small white bellied bird with some brown on it's side, a red throat and black superciliary.",
+          "indo": "burung kecil berperut putih dengan sedikit warna coklat di sisinya, tenggorokan merah dan superciliary hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0068_33359.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this is a colorful bird that has a black crown, red eyebrows and malar stripes, brown back, brown and white chest and belly and black wings with a yellow covert.",
+          "indo": "Ini adalah burung berwarna-warni yang memiliki mahkota hitam, alis merah dan garis-garis malar, punggung coklat, dada dan perut coklat dan putih dan sayap hitam dengan bulu penutup kuning."
+        },
+        {
+          "english": "small brown and white bird with black and yellow wings, a red black and white head, medium tarsus",
+          "indo": "burung kecil berwarna coklat putih dengan sayap hitam kuning, kepala merah hitam putih, tarsus sedang"
+        },
+        {
+          "english": "small bird with white and tan colored breast with red and yellow coloring on the face and wings.",
+          "indo": "burung kecil dengan dada berwarna putih kecokelatan dengan warna merah dan kuning pada muka dan sayap."
+        },
+        {
+          "english": "a dramatically colored bird with a red circled face, black crown, and red hued feet.",
+          "indo": "burung berwarna dramatis dengan wajah dilingkari merah, mahkota hitam, dan kaki berwarna merah."
+        },
+        {
+          "english": "this bird has a white belly, brown breast, and red crown.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna coklat, dan mahkota berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are brown and black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan hitam kuning serta mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "this little bird has a striking plumage pattern of red on its face, a black cap, white nape, and yellow and black edged wings.",
+          "indo": "Burung kecil ini memiliki pola bulu mencolok berwarna merah di wajahnya, topi hitam, tengkuk putih, dan sayap bertepi kuning dan hitam."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black crown as well as a red cheek patch",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan juga bercak merah di pipi"
+        },
+        {
+          "english": "this colorful bird has a white and brown belly, brown chest, brown back, red face, black crown, and black and yellow wings.",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih coklat, dada coklat, punggung coklat, muka merah, mahkota hitam, dan sayap hitam kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0070_33084.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the bird has a brown breast, white throat and a small bill.",
+          "indo": "burung itu memiliki dada berwarna coklat, tenggorokan putih dan paruh kecil."
+        },
+        {
+          "english": "bird has multi-color body feathers, light blue breast feather, and pointed beak",
+          "indo": "Burung ini memiliki bulu badan beraneka warna, bulu dada berwarna biru muda, dan paruh runcing"
+        },
+        {
+          "english": "this is a colorful bird with yellow and black wings and a red face.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap kuning dan hitam serta muka merah."
+        },
+        {
+          "english": "this is a small, multicolored bird with several stripes and a white under belly and a light colored beak.",
+          "indo": "ini adalah burung kecil beraneka warna dengan beberapa garis dan perut bagian bawah berwarna putih serta paruh berwarna terang."
+        },
+        {
+          "english": "this is a very small bird with black and yellow on the wing bar and a red and white head.",
+          "indo": "ini adalah burung yang sangat kecil dengan garis sayap hitam dan kuning dan kepala merah putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow with a white body",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dengan badan berwarna putih"
+        },
+        {
+          "english": "this bird is predominantly white and beige with red accents on it face and wings that are decorated with yellow and blue.",
+          "indo": "Burung ini didominasi warna putih dan krem ​​​​dengan aksen merah pada muka dan sayapnya yang dihiasi warna kuning dan biru."
+        },
+        {
+          "english": "this bird is brown, red, yellow, white, and black in color, with a light colored beak.",
+          "indo": "burung ini berwarna coklat, merah, kuning, putih, dan hitam, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this colorful bird has a white belly and brown breast, yellow and black wingbars and the bill is short and pointed",
+          "indo": "burung berwarna-warni ini memiliki perut berwarna putih dan dada berwarna coklat, garis sayap berwarna kuning dan hitam serta paruhnya pendek dan runcing"
+        },
+        {
+          "english": "a small multicolored bird with a striped wing, long tail, short legs, and a short pointy beak.",
+          "indo": "burung kecil beraneka warna dengan sayap bergaris, ekor panjang, kaki pendek, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0073_794633.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this small bird has a white belly, black and yellow wings and a red head.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, sayap hitam kuning, dan kepala berwarna merah."
+        },
+        {
+          "english": "this bird has many colors; a red-orange face, white neck and below, brown back and breast, and black wings with yellow wing bands.",
+          "indo": "burung ini mempunyai banyak warna; muka berwarna merah jingga, leher dan bawah berwarna putih, punggung dan dada berwarna coklat, dan sayap hitam dengan pita sayap kuning."
+        },
+        {
+          "english": "this bird's belly is white with an orange patch, and it has a red face and a yellow patch on its wings.",
+          "indo": "Perut burung ini berwarna putih dengan bercak jingga, mukanya merah dan bercak kuning pada sayapnya."
+        },
+        {
+          "english": "this bird is white, yellow, red, and black in color with a white beak, and black eye rings.",
+          "indo": "burung ini berwarna putih, kuning, merah, dan hitam dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a red circled face, dramatic yellow and black primaries, and white underside.",
+          "indo": "burung kecil ini mempunyai muka yang dilingkari merah, warna dasar kuning dan hitam yang dramatis, dan bagian bawah berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly and breast, a yellow wingbar, long rectrices, and a red crown.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih, garis sayap berwarna kuning, rectrices  yang panjang, dan mahkota berwarna merah."
+        },
+        {
+          "english": "this brid has a white breast and belly, red head with a white beak, light brown sides and abdomen, and black and yellow wings.",
+          "indo": "pengantin ini memiliki dada dan perut berwarna putih, kepala berwarna merah dengan paruh berwarna putih, bagian samping dan perut berwarna coklat muda, serta sayap berwarna hitam dan kuning."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a red face with a white beak and yellow coverts.",
+          "indo": "burung ini mempunyai muka berwarna merah dengan paruh berwarna putih dan bulu berwarna kuning."
+        },
+        {
+          "english": "this bird has red superciliary and crown with a dark eyebrow, and yellow wingbars.",
+          "indo": "burung ini memiliki superciliary dan mahkota berwarna merah dengan superciliary berwarna gelap, serta garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0074_33348.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this brd has a small white head, a brown belly, yellow wing bars, and black secondaries.",
+          "indo": "brd ini memiliki kepala kecil berwarna putih, perut berwarna coklat, garis sayap kuning, dan sayap bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with yellow and black on its wings and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna kuning dan hitam pada sayapnya serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a yellow wingbar, black secondaries, and a reddish crown.",
+          "indo": "burung ini memiliki garis sayap berwarna kuning, sayap bulu sekunder berwarna hitam, dan mahkota berwarna kemerahan."
+        },
+        {
+          "english": "a light brown bird with yellow and black wings, white cheeks, and some reddish brown on its face.",
+          "indo": "burung berwarna coklat muda dengan sayap kuning dan hitam, pipi putih, dan sedikit coklat kemerahan di wajahnya."
+        },
+        {
+          "english": "a small multicolored bird with light brown chest and back and bright yellow and black wings and white, black and orange head.",
+          "indo": "seekor burung kecil beraneka warna dengan dada dan punggung berwarna coklat muda dan sayap kuning cerah dan hitam serta kepala putih, hitam dan oranye."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black and yellowpatch",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai bercak hitam dan kuning"
+        },
+        {
+          "english": "a tan bird with a red crown and yellow and black wings.",
+          "indo": "burung berwarna coklat dengan mahkota merah dan sayap kuning dan hitam."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a brown body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam putih dan memiliki tubuh berwarna coklat"
+        },
+        {
+          "english": "this medium-sized bird has yellow on its wings, with coffee colored belly.",
+          "indo": "burung berukuran sedang ini memiliki sayap berwarna kuning, dan perut berwarna kopi."
+        },
+        {
+          "english": "a small bird, with a yellow wingbar, green coverts, and a pointed bill.",
+          "indo": "seekor burung kecil, dengan garis sayap berwarna kuning, bulu berwarna hijau, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0075_794660.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "small bird with a white body and grey feathers with black spots, black and yellow wings, and an orange, white and black head.",
+          "indo": "burung kecil berbadan putih dan bulu abu-abu dengan bintik hitam, sayap hitam kuning, dan kepala jingga, putih dan hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, grey side, black and yellow wing and a brown head.",
+          "indo": "ini adalah burung dengan perut putih, sisi abu-abu, sayap hitam kuning, dan kepala berwarna coklat."
+        },
+        {
+          "english": "a small bird with a white belly, red throat, black crown and cheek patches, and yellow secondaries.",
+          "indo": "burung kecil dengan perut putih, tenggorokan merah, mahkota dan bercak pipi hitam, dan bulu sekunder berwarna kuning."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a white bill, a brown, white, and black striped head, with yellow and black wings and a tan and white body.",
+          "indo": "burung ini mempunyai paruh berwarna putih, kepala bergaris coklat, putih, dan hitam, sayap berwarna kuning dan hitam, serta badan berwarna coklat kecokelatan dan putih."
+        },
+        {
+          "english": "this bird is brown with red and yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna merah dan kuning serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a short beaked bird with orange and black on the head, white and brown breast, with wings of yellow/black.",
+          "indo": "burung berparuh pendek dengan kepala berwarna oranye dan hitam, dada berwarna putih dan coklat, dengan sayap berwarna kuning/hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a colorful bird with a curved white and black beak and white talons.",
+          "indo": "burung berwarna-warni dengan paruh melengkung berwarna putih dan hitam serta cakar berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0076_33173.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird thats mostly brown, with a red spot around its beak and eyes and black, white and yellow wings.",
+          "indo": "burung kecil yang sebagian besar berwarna coklat, dengan bintik merah di sekitar paruh dan matanya serta sayapnya berwarna hitam, putih dan kuning."
+        },
+        {
+          "english": "a bird with yellow and black wings and red on its face.",
+          "indo": "seekor burung dengan sayap kuning dan hitam dan merah di wajahnya."
+        },
+        {
+          "english": "the bird has a red crown and a small grey bill.",
+          "indo": "burung itu memiliki mahkota berwarna merah dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this is a tan bird with a yellow wing and a red face.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap kuning dan muka merah."
+        },
+        {
+          "english": "a medium sized bird that has tones of brown black yellow and orange",
+          "indo": "burung berukuran sedang yang memiliki warna coklat hitam kuning dan oranye"
+        },
+        {
+          "english": "this multicolored bird has a tan breast and belly, a tan back, yellow and black primaries and white and black spotted rectrices.",
+          "indo": "burung warna-warni ini memiliki dada dan perut berwarna coklat, punggung berwarna coklat, warna bulu primer kuning dan hitam serta rectrices berbintik putih dan hitam."
+        },
+        {
+          "english": "this bird has has a pointed beak coming from a red face, brown body, yellow wings, and a black and white tail.",
+          "indo": "Burung ini memiliki paruh runcing dengan muka berwarna merah, badan berwarna coklat, sayap berwarna kuning, dan ekor berwarna hitam putih."
+        },
+        {
+          "english": "this is a beautiful bird with a light brown and white belly, breast, and nape; black, white, and yellow wings and tail; and a red, white, and black head.",
+          "indo": "ini adalah burung cantik dengan perut, dada, dan tengkuk berwarna coklat muda dan putih; sayap dan ekor hitam, putih, dan kuning; dan kepala merah, putih, dan hitam."
+        },
+        {
+          "english": "this bird has a short pointed beak, a red and white striped face, yellow wingbars, and a predominately brown body.",
+          "indo": "burung ini mempunyai paruh pendek yang runcing, muka bergaris merah putih, garis sayap berwarna kuning, dan badan yang didominasi warna coklat."
+        },
+        {
+          "english": "this bird has a spotted tail that is short, a striped wing, a small head with red, white and black fur, and a pointy beak.",
+          "indo": "Burung ini mempunyai ekor tutul yang pendek, sayap bergaris, kepala kecil dengan bulu berwarna merah, putih dan hitam, serta paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0077_33346.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a yellow stripe on his black wing, along with white spots on his body and head.",
+          "indo": "burung ini memiliki garis kuning pada sayap hitamnya, serta bintik putih pada badan dan kepalanya."
+        },
+        {
+          "english": "a brown goldfinch with red crown and throat, white cheek patch, brown wings and black tail spotted with white.",
+          "indo": "burung pipit emas coklat dengan mahkota dan tenggorokan merah, pipi putih, sayap coklat dan ekor hitam berbintik putih."
+        },
+        {
+          "english": "a colorful bird that's body is mostly brown with black, white and yellow on its wings and has a white and carmel colored head.",
+          "indo": "burung berwarna-warni yang tubuhnya sebagian besar berwarna coklat dengan sayap berwarna hitam, putih dan kuning serta kepala berwarna putih karmel."
+        },
+        {
+          "english": "multi color bird, mainly brown, yellow and black, with a red face, small beak and head.",
+          "indo": "burung beraneka warna, sebagian besar berwarna coklat, kuning dan hitam, dengan muka merah, paruh dan kepala kecil."
+        },
+        {
+          "english": "small brown black yellow red and white bird with short tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat hitam kuning merah putih dengan tarsus pendek dan paruh sedang"
+        },
+        {
+          "english": "this bird has wings that are black and white and has a brown body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam putih dan memiliki tubuh berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white napr",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai napr berwarna putih"
+        },
+        {
+          "english": "this bird has red head, white nape, yellow black and white spotted secondaries and a tan vent.",
+          "indo": "Burung ini memiliki kepala berwarna merah, tengkuk berwarna putih, bulu sekunder berbintik kuning hitam putih, dan lubang kloaka berwarna coklat."
+        },
+        {
+          "english": "the crown is red while the nape is white, the corvets are brown, the secondaries and primaries are black with white dots",
+          "indo": "mahkota berwarna merah sedangkan tengkuk berwarna putih, korvet berwarna coklat, korvet bulu sekunder dan bulu primer berwarna hitam dengan titik-titik putih"
+        },
+        {
+          "english": "this multi-colored bird has a red crown, a white nape, brown sides and belly, yellow wingbar, and black and white spotted primaries and secondaries.",
+          "indo": "burung beraneka warna ini memiliki mahkota merah, tengkuk putih, sisi dan perut berwarna coklat, garis sayap kuning, serta bulu primer dan bulu sekunder berbintik hitam putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0078_33170.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird with yellow, black and brown markings and a red face.",
+          "indo": "seekor burung kecil dengan corak kuning, hitam dan coklat serta muka merah."
+        },
+        {
+          "english": "this bird has a grey belly, yellow wing and a red face.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, sayap kuning dan muka merah."
+        },
+        {
+          "english": "this is a multicolored, small bird with a black nape, white and red head, short bill, black wings with yellow primaries.",
+          "indo": "ini adalah burung kecil beraneka warna dengan tengkuk hitam, kepala putih dan merah, paruh pendek, sayap hitam dengan warna bulu primer kuning."
+        },
+        {
+          "english": "this bird is white, black, red, and yellow in color with a tan beak, and black eye rings.",
+          "indo": "burung ini berwarna putih, hitam, merah, dan kuning dengan paruh berwarna coklat, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with red around his eyes, and yellow on the tip of his wings and being primarily light brown and black on the back.",
+          "indo": "seekor burung kecil dengan warna merah di sekitar matanya, dan kuning di ujung sayapnya dan sebagian besar berwarna coklat muda dan hitam di punggung."
+        },
+        {
+          "english": "a small bird with a red crown, black rump, and yellow areas on the wings.",
+          "indo": "burung kecil dengan mahkota merah, pantat hitam, dan area sayap kuning."
+        },
+        {
+          "english": "a colorful bird with a read face, black and white head and body, with black wing tips and tail.",
+          "indo": "burung berwarna-warni dengan wajah seperti baca, kepala dan badan berwarna hitam putih, dengan ujung sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "a very colorful, small bird that has red, white, and black on its head and black, yellow, and white on the rest of the body.",
+          "indo": "seekor burung kecil yang sangat berwarna dengan warna merah, putih, dan hitam di kepalanya dan hitam, kuning, dan putih di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a tricolor head of red, white, and black.",
+          "indo": "burung ini memiliki kepala tiga warna yaitu merah, putih, dan hitam."
+        },
+        {
+          "english": "a bird with a white belly and breast, white crown and the bill is short and pointed",
+          "indo": "burung dengan perut dan dada berwarna putih, mahkota berwarna putih, dan paruh pendek serta runcing"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0080_33322.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this is a colorful bird with a white belly, yellow wings and a red face.",
+          "indo": "ini adalah burung berwarna-warni dengan perut putih, sayap kuning dan muka merah."
+        },
+        {
+          "english": "bird has gray body feathers, brown breast feather, and triangle beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna coklat, dan paruh berbentuk segitiga"
+        },
+        {
+          "english": "this is a colorful bird that has a red crown and cheeks, brown back and breast and yellow covert.",
+          "indo": "ini adalah burung berwarna-warni yang memiliki mahkota dan pipi berwarna merah, punggung dan dada berwarna coklat, serta bulu berwarna kuning."
+        },
+        {
+          "english": "this colorful bird has a red face, dull colored beak, and is brown in most areas other than its blue and yellow wings.",
+          "indo": "burung berwarna-warni ini memiliki muka merah, paruh berwarna kusam, dan sebagian besar wilayahnya berwarna coklat selain sayapnya yang berwarna biru dan kuning."
+        },
+        {
+          "english": "this small bird has wings colored brown, black, yellow and white, and has a dark red crown.",
+          "indo": "burung kecil ini mempunyai sayap berwarna coklat, hitam, kuning dan putih, serta mempunyai mahkota berwarna merah tua."
+        },
+        {
+          "english": "a small colorful bird with a bright red crown and face, black cheek patch and yellow black and white secondaries.",
+          "indo": "seekor burung kecil berwarna-warni dengan mahkota dan wajah berwarna merah cerah, bercak pipi hitam dan bulu sekunder berwarna kuning hitam putih."
+        },
+        {
+          "english": "a small colorful bird, with black primaries and crown, 1 yellow wingbar, and red eyebrows.",
+          "indo": "burung kecil berwarna-warni, dengan warna bulu primer dan mahkota hitam, 1 garis sayap kuning, dan alis merah."
+        },
+        {
+          "english": "a medium sized, very colorful bird with a small head compared to its body, red on its face with an alternating white spiral farther back on its head, small blue stripes, yellow and black on its wings, blue and white tail feathers, and a small, triangular beak.",
+          "indo": "burung berukuran sedang, sangat berwarna-warni dengan kepala lebih kecil dibandingkan tubuhnya, mukanya merah dengan spiral putih bergantian jauh di belakang kepalanya, garis-garis biru kecil, kuning dan hitam di sayapnya, bulu ekor biru dan putih, dan a paruh kecil berbentuk segitiga."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red crown",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this is a small bird, with 1 yellow wingbar, a red face, and a small bill.",
+          "indo": "Ini adalah burung kecil, dengan 1 garis sayap berwarna kuning, muka merah, dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0081_33259.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a colorful bird with a stripe of yellow on the wing, and a stripe of red running vertical along it's superciliary.",
+          "indo": "burung berwarna-warni dengan garis kuning di sayap, dan garis merah vertikal di sepanjang superciliarynya."
+        },
+        {
+          "english": "the bird has a black eyering and a peach bill and a white throat.",
+          "indo": "burung itu mempunyai cincin mata hitam, paruh buah persik, dan tenggorokan putih."
+        },
+        {
+          "english": "this bird has a beautiful spot located on its face around its eye, the bird is perched on a catus like tree, i love the light brown strip on its upper body. the head is tiny compared to its body.",
+          "indo": "burung ini mempunyai bintik indah yang terletak pada wajahnya di sekitar matanya, burung ini bertengger di atas pohon seperti catus, saya suka dengan garis coklat muda di bagian atas tubuhnya. kepalanya kecil dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "vibrant white bird with tan side, black primary with yellow wingbar and red, white and black face.",
+          "indo": "burung berwarna putih cerah dengan sisi kecoklatan, bulu primer hitam dengan garis sayap kuning dan muka merah, putih dan hitam."
+        },
+        {
+          "english": "this colorful bird has patterns across its body and a short beak.",
+          "indo": "burung berwarna-warni ini memiliki pola di seluruh tubuhnya dan paruh yang pendek."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "the red patch on the bird with a black crown and tan bill",
+          "indo": "bercak merah pada burung dengan mahkota hitam dan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "this bird has a white beak with black crown and white belly.",
+          "indo": "burung ini mempunyai paruh berwarna putih dengan mahkota berwarna hitam dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0084_33147.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a medium bird with white, brown, and grey markings with some yellow feathers.",
+          "indo": "burung berukuran sedang dengan corak putih, coklat, dan abu-abu dengan beberapa bulu kuning."
+        },
+        {
+          "english": "this fat bird has a white belly with a brown, black, and yellow stripe on its back and head.",
+          "indo": "burung gemuk ini memiliki perut berwarna putih dengan garis coklat, hitam, dan kuning di punggung dan kepalanya."
+        },
+        {
+          "english": "a small bird with a small head relative to its body and a small pointed beak and white underbelly",
+          "indo": "seekor burung kecil dengan kepala kecil dibandingkan dengan tubuhnya dan paruh kecil runcing serta perut berwarna putih"
+        },
+        {
+          "english": "this small bird has a very small bill relative to its plump body that is mostly white with bright yellow and red streaks on its wings.",
+          "indo": "burung kecil ini memiliki paruh yang sangat kecil dibandingkan dengan tubuhnya yang gempal yang sebagian besar berwarna putih dengan guratan kuning cerah dan merah di sayapnya."
+        },
+        {
+          "english": "a bird with multiple colors including white black yellow and red with a small head and beak.",
+          "indo": "burung dengan berbagai warna antara lain putih hitam kuning dan merah dengan kepala dan paruh kecil."
+        },
+        {
+          "english": "this multi-colored bird has yellow secondaries along with a brown and white belly.",
+          "indo": "burung beraneka warna ini memiliki bulu sekunder berwarna kuning dengan perut berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this colorful bird has a red face and a black and white head, also has a pointed yellow bill.",
+          "indo": "Burung berwarna-warni ini mempunyai muka berwarna merah dan kepala berwarna hitam putih, juga mempunyai paruh yang runcing berwarna kuning."
+        },
+        {
+          "english": "a small bird with a white belly and and white breast and a short sharp beak.",
+          "indo": "seekor burung kecil dengan perut putih dan dada putih serta paruh pendek dan tajam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0085_794682.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the multicolored bird has yellow, brown, and black feathers with a pointed beak.",
+          "indo": "burung beraneka warna ini memiliki bulu berwarna kuning, coklat, dan hitam dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is grey with yellow, black, and white on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan punggung berwarna kuning, hitam, dan putih serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a grey eye ring with black eyes, brown feathers covering its breast and belly, and black tips on its wings.",
+          "indo": "burung ini memiliki cincin mata berwarna abu-abu dengan mata berwarna hitam, bulu berwarna coklat menutupi dada dan perutnya, serta ujung sayapnya berwarna hitam."
+        },
+        {
+          "english": "the grey bird has a yellow wing bar, black rectrices, a sharp beak, and a brown crown and throat.",
+          "indo": "burung abu-abu memiliki garis sayap kuning, rectrices  hitam, paruh tajam, serta mahkota dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "a multi colored bird with a white yellow and black wing",
+          "indo": "burung beraneka warna dengan sayap putih kuning dan hitam"
+        },
+        {
+          "english": "bird that is multicolored with brown around the front face, white on the side face, and white and black wing feathers with a stripe of yellow.",
+          "indo": "burung yang beraneka warna dengan warna coklat pada sekeliling muka depan, putih pada muka samping, dan bulu sayap berwarna putih hitam bergaris kuning."
+        },
+        {
+          "english": "this bird is brown with black and yellow and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna hitam dan kuning serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the back is brown, the black wings have yellow wingbars, and the cheek patch and crown are a burnt orange color.",
+          "indo": "punggung berwarna coklat, sayap hitam memiliki garis sayap kuning, dan bagian pipi serta ubun-ubun berwarna oranye terbakar."
+        },
+        {
+          "english": "this bird has a red cheek patch with a black crown and a yellow wing guard.",
+          "indo": "burung ini memiliki bercak pipi berwarna merah dengan mahkota berwarna hitam dan pelindung sayap berwarna kuning."
+        },
+        {
+          "english": "this bird is various colors, but mostly brown, black and yellow wings, and a red and white face.",
+          "indo": "Burung ini beraneka warna, namun sebagian besar berwarna coklat, sayapnya hitam dan kuning, serta mukanya berwarna merah putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0087_794693.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this small, stumpy, multi-colored bird has red eyebrows, a white beak, nape, and breast, and yellow, black, and white on its wings.",
+          "indo": "Burung kecil, kekar, beraneka warna ini memiliki alis berwarna merah, paruh, tengkuk, dan dada berwarna putih, serta sayapnya berwarna kuning, hitam, dan putih."
+        },
+        {
+          "english": "the bird has a small bill that is peach and a black eyering.",
+          "indo": "burung itu mempunyai paruh kecil berwarna persik dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this colorful bird is predominantly grey but has black and white wings with yellow tips and a white head that has a patch of red around it.",
+          "indo": "Burung berwarna-warni ini didominasi warna abu-abu namun memiliki sayap berwarna hitam putih dengan ujung berwarna kuning dan kepala berwarna putih dengan bercak merah di sekelilingnya."
+        },
+        {
+          "english": "this small plump bird is varying shades of tan and taupe, with a black and red face, and black, white, and yellow accents on its wings.",
+          "indo": "burung kecil gempal ini memiliki corak warna coklat dan kelabu tua yang bervariasi, dengan muka hitam dan merah, serta aksen hitam, putih, dan kuning pada sayapnya."
+        },
+        {
+          "english": "a small tan bird with a red face, black cheek patches, and black and white wings with yellow primaries.",
+          "indo": "burung kecil berwarna coklat dengan muka merah, bercak pipi hitam, dan sayap hitam putih dengan warna bulu primer kuning."
+        },
+        {
+          "english": "this small colorful bird contains a red face, yellow along its coverts as well as black with white speckles, and tan along the rest of its body.",
+          "indo": "burung kecil berwarna-warni ini memiliki muka merah, kuning di sepanjang bulunya serta hitam dengan bintik-bintik putih, dan berwarna coklat di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "the bird has a round body that is tan in color with side bars that are black and white with yellow accents.",
+          "indo": "Burung ini mempunyai badan berbentuk bulat berwarna coklat dengan garis samping berwarna hitam putih dengan aksen kuning."
+        },
+        {
+          "english": "this bird has has a light brown body and yellow and black wings, along with a red ring around the beak.",
+          "indo": "Burung ini memiliki tubuh berwarna coklat muda dan sayap berwarna kuning dan hitam, serta lingkaran merah di sekeliling paruhnya."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0088_794651.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the bird has a red colored head with white and brown body.",
+          "indo": "Burung ini memiliki kepala berwarna merah dengan badan berwarna putih dan coklat."
+        },
+        {
+          "english": "a small bird with a red, white, black and brown striped head, small white bill and tips of yellow on its wings.",
+          "indo": "burung kecil dengan kepala bergaris merah, putih, hitam dan coklat, paruh kecil berwarna putih dan ujung sayap berwarna kuning."
+        },
+        {
+          "english": "a colorful, little perching bird with a stout pale pink bill, a reddish brown face, a black and white crown, bright yellow patches on its black wings, a black and white tail, and a white to light brown body.",
+          "indo": "burung bertengger kecil berwarna-warni dengan paruh kokoh berwarna merah muda pucat, muka coklat kemerahan, mahkota hitam putih, bercak kuning cerah di sayap hitamnya, ekor hitam putih, dan badan putih sampai coklat muda."
+        },
+        {
+          "english": "an off white bird with a light gray beak and dark red face.",
+          "indo": "seekor burung berwarna putih pucat dengan paruh abu-abu muda dan wajah merah tua."
+        },
+        {
+          "english": "this little bird has a white belly, brown breast, red crown, and little pointy bill.",
+          "indo": "Burung kecil ini mempunyai perut berwarna putih, dada berwarna coklat, mahkota berwarna merah, dan paruh kecil yang runcing."
+        },
+        {
+          "english": "this is a white bird with a gray strip and a dark orange stripe on the face and a yellow spot on its wing.",
+          "indo": "ini adalah burung berwarna putih dengan garis abu-abu dan garis oranye tua di muka serta bintik kuning di sayapnya."
+        },
+        {
+          "english": "a small bird with red, black and brown stripes clutching a branch.",
+          "indo": "seekor burung kecil bergaris merah, hitam dan coklat sedang memegangi dahan."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a pointed bill, with a red,white and black head.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan kepala berwarna merah, putih dan hitam."
+        },
+        {
+          "english": "a pretty bird with a mostly white throat, breast and belly, that also has a rust red, white, beige, and dark grey stripes on it's crown to its nape.",
+          "indo": "burung cantik dengan tenggorokan, dada, dan perut sebagian besar berwarna putih, juga memiliki garis-garis berwarna merah karat, putih, krem, dan abu-abu tua di ubun-ubun hingga tengkuknya."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0089_33279.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a short gray beak with a red, white, and black head. wings are gray, black, and yellow.",
+          "indo": "burung ini memiliki paruh pendek berwarna abu-abu dengan kepala berwarna merah, putih, dan hitam. sayap berwarna abu-abu, hitam, dan kuning."
+        },
+        {
+          "english": "small brown and white bird that has an orange circle around its eyes,white on the outside, and then turns to black.",
+          "indo": "burung kecil berwarna coklat dan putih yang mempunyai lingkaran jingga di sekeliling matanya, bagian luarnya berwarna putih, kemudian berubah menjadi hitam."
+        },
+        {
+          "english": "a beautiful colorful bird with orange throat and cheek patch, black crown, wingtips and tail, has yellow wingbars, brown back and white breast and belly..",
+          "indo": "burung cantik berwarna-warni dengan tenggorokan dan pipi berwarna jingga, mahkota, ujung sayap dan ekor berwarna hitam, mempunyai garis sayap berwarna kuning, punggung berwarna coklat, serta dada dan perut berwarna putih.."
+        },
+        {
+          "english": "a small brown bird with a red, white, and black head, and wings tipped with black and yellow.",
+          "indo": "burung kecil berwarna coklat dengan kepala berwarna merah, putih, dan hitam, serta sayap berujung hitam dan kuning."
+        },
+        {
+          "english": "colorful little bird with black, yellow and white on it's coverts and secondaries and white belly with tan breast, nape and back.",
+          "indo": "burung kecil berwarna-warni dengan bulu hitam, kuning dan putih pada bulu dan bulu sekunder serta perut putih dengan dada, tengkuk, dan punggung berwarna cokelat."
+        },
+        {
+          "english": "this bird had four colors on it; orange, white, brown, and yellow.",
+          "indo": "burung ini memiliki empat warna; oranye, putih, coklat, dan kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown",
+          "indo": "burung ini memiliki perut yang berwarna putih dan coklat"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown with orange face and yellow wingbars.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dengan muka jingga dan garis sayap berwarna kuning."
+        },
+        {
+          "english": "this bird is tricolored head of red, black, and white, and has a white bill and yellow tipped wings.",
+          "indo": "Burung ini berkepala tiga warna yaitu merah, hitam, dan putih, serta memiliki paruh berwarna putih dan sayap berujung kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0090_794648.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird has a light brown belly and breast, with a brown crown and neck and yellow primaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda, dengan mahkota dan leher berwarna coklat serta bulu primer berwarna kuning."
+        },
+        {
+          "english": "this little bird has a tan body, black and yellow wings, black tail feathers, and a red head.",
+          "indo": "burung kecil ini memiliki tubuh berwarna coklat, sayap berwarna hitam kuning, bulu ekor berwarna hitam, dan kepala berwarna merah."
+        },
+        {
+          "english": "brown body feathers on the bird with a red face and beak is open",
+          "indo": "bulu tubuh burung berwarna coklat dengan muka merah dan paruh terbuka"
+        },
+        {
+          "english": "this bird is brown, yellow, black, and red and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat, kuning, hitam, dan merah serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this very colorful bird has a brown nape and a white belly, with black and yellow wingbars.",
+          "indo": "burung yang sangat berwarna ini memiliki tengkuk berwarna coklat dan perut berwarna putih, dengan garis sayap berwarna hitam dan kuning."
+        },
+        {
+          "english": "a colorful bird with yellow and black on its wings, a brown back, and a tri-colored face with a dark orange patch on its face.",
+          "indo": "burung berwarna-warni dengan sayap kuning dan hitam, punggung berwarna coklat, dan wajah tiga warna dengan bercak oranye tua di wajahnya."
+        },
+        {
+          "english": "this particular bird has a belly that is white and tan with yellow and black wings",
+          "indo": "burung ini memiliki perut berwarna putih kecokelatan dengan sayap berwarna kuning dan hitam"
+        },
+        {
+          "english": "the bird has a small bill, spotted wingbars and a brown belly.",
+          "indo": "burung ini memiliki paruh kecil, garis sayap berbintik, dan perut berwarna coklat."
+        },
+        {
+          "english": "the bird is multicolored with a head that is black, red, and grey.",
+          "indo": "burung itu beraneka warna dengan kepala berwarna hitam, merah, dan abu-abu."
+        },
+        {
+          "english": "this colorful bird has a pale beak with a red face, brown shoulders, yellow and black wings with a brown underbelly.",
+          "indo": "burung berwarna-warni ini memiliki paruh pucat dengan wajah merah, bahu berwarna coklat, sayap kuning dan hitam dengan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0092_794671.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the front of the head is red towards the white and black beak and black eye, the crown is black and the throat is white, the nape has a black stripe, the back is tan, the wings are tan with yellow, black and white spots.",
+          "indo": "kepala bagian depan berwarna merah ke arah paruh berwarna putih hitam dan mata berwarna hitam, ubun-ubun berwarna hitam dan tenggorokan berwarna putih, tengkuk bergaris hitam, punggung berwarna kecoklatan, sayap berwarna kecoklatan dengan bintik-bintik kuning, hitam dan putih. ."
+        },
+        {
+          "english": "this bird has a white belly and breast, brown crown, white neck, and black nape.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, mahkota berwarna coklat, leher berwarna putih, dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with black, white, and yellow on its feathers and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bulu berwarna hitam, putih, dan kuning serta memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this multi colored bird has a thick beak and a white breast.",
+          "indo": "burung beraneka warna ini memiliki paruh tebal dan dada berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white belly, a yellow and black wing, a brown back and a red face.",
+          "indo": "ini adalah burung dengan perut putih, sayap kuning dan hitam, punggung coklat dan muka merah."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black, white, red, brown, and yellow in color, with a light colored beak.",
+          "indo": "burung ini berwarna hitam, putih, merah, coklat, dan kuning, dengan paruh berwarna terang."
+        },
+        {
+          "english": "a bird with a black eye, red spots above and below its eye, a white throat, black nape, light brown coverts, and black primaries with white spots.",
+          "indo": "burung bermata hitam, bintik merah di atas dan bawah mata, tenggorokan putih, tengkuk hitam, bulu coklat muda, dan bulu primer hitam berbintik putih."
+        },
+        {
+          "english": "this bird is brown, yellow, white, and red in color, with a light colored beak.",
+          "indo": "burung ini berwarna coklat, kuning, putih, dan merah, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has a brown and white body with black-tipped wings and tail, and a head sporting the colors red, white, and black.",
+          "indo": "Burung ini berbadan coklat putih dengan sayap dan ekor berujung hitam, serta kepala berwarna merah, putih, dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0093_794653.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a distinct small tan bird with a rust colored face, and black and white striped wings.",
+          "indo": "seekor burung kecil berwarna cokelat dengan wajah berwarna karat, dan sayap bergaris hitam putih."
+        },
+        {
+          "english": "a bird with a small triangular bill, red cheek patch, white throat, and black and white striped primaries.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, bercak merah di pipi, tenggorokan putih, dan bulu primer bergaris hitam putih."
+        },
+        {
+          "english": "the brown wing has black with white dots, the eyering is black and cheek patch is brown",
+          "indo": "Sayap berwarna coklat berwarna hitam dengan titik-titik putih, bagian cincin mata berwarna hitam dan bagian pipi berwarna coklat"
+        },
+        {
+          "english": "this bird has a brown breast, crown, and back with a black and white secondary and yellow primary.",
+          "indo": "burung ini memiliki dada, mahkota, dan punggung berwarna coklat dengan warna bulu sekunder hitam putih dan bulu primer kuning."
+        },
+        {
+          "english": "this small bird has a small, stout yellow beak and red plumage above its eyes.",
+          "indo": "burung kecil ini memiliki paruh kecil berwarna kuning kekar dan bulu merah di atas matanya."
+        },
+        {
+          "english": "this bird is brown with yellow, black, and white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna kuning, hitam, dan putih serta memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird is brown, yellow and black in color, with a stubby brown beak.",
+          "indo": "burung ini berwarna coklat, kuning dan hitam, dengan paruh gemuk berwarna coklat."
+        },
+        {
+          "english": "this colorful bird has a read face with black eyerings, beige breast and belly, with yellow and black on the wings.",
+          "indo": "burung berwarna-warni ini memiliki wajah seperti baca dengan cincin mata hitam, dada dan perut berwarna krem, dengan sayap kuning dan hitam."
+        },
+        {
+          "english": "this bird has a brown crown with light brown back and yellow wingbars.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan punggung berwarna coklat muda dan garis sayap berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0094_794673.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this colorful bird has orange crown and throat while having a brown back and black secondaries.",
+          "indo": "burung berwarna-warni ini memiliki mahkota dan tenggorokan berwarna oranye, serta memiliki punggung berwarna coklat dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this exotic looking bird has a variety of neutral colors such as: brown, black, white and tan, and a subtle mix of some more vibrant colors such as: yellow, orange and pink.",
+          "indo": "Burung berpenampilan eksotik ini memiliki variasi warna netral seperti: coklat, hitam, putih dan coklat, serta perpaduan halus dari beberapa warna yang lebih cerah seperti: kuning, orange dan pink."
+        },
+        {
+          "english": "a multicolored bird, with orange, white, and black on the face, brown on the back, yellow and black wings, with a small head and a very short bill.",
+          "indo": "burung beraneka warna, muka jingga, putih, dan hitam, punggung coklat, sayap kuning dan hitam, kepala kecil dan paruh sangat pendek."
+        },
+        {
+          "english": "this bird is brown, black, yellow, red, and white and has a very short beak.",
+          "indo": "burung ini berwarna coklat, hitam, kuning, merah, dan putih serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this interesting bird features colors including red, white, yellow, and black, as well as a small, short beak.",
+          "indo": "burung menarik ini memiliki warna-warna termasuk merah, putih, kuning, dan hitam, serta paruh kecil dan pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai muka yang berwarna merah"
+        },
+        {
+          "english": "this small, colorful bird has a black eye ring, orange, white, and black head.",
+          "indo": "burung kecil berwarna-warni ini memiliki cincin mata hitam, oranye, putih, dan kepala hitam."
+        },
+        {
+          "english": "this red-feathered faced bird has a combination of brown feathers on its back with black and yellow feathers on its wings.",
+          "indo": "Burung berwajah berbulu merah ini memiliki kombinasi bulu berwarna coklat pada punggungnya dengan bulu berwarna hitam dan kuning pada sayapnya."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a red face",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mukanya berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are yellow and has a brown bellyq",
+          "indo": "burung ini mempunyai sayap yang berwarna kuning dan perutnya yang berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0097_794688.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a small bird with white, yellow, and black colored feathers.",
+          "indo": "seekor burung kecil dengan bulu berwarna putih, kuning, dan hitam."
+        },
+        {
+          "english": "the bird has a red crown and a white throat that is small.",
+          "indo": "burung ini memiliki mahkota berwarna merah dan tenggorokan berwarna putih yang berukuran kecil."
+        },
+        {
+          "english": "a larger bird that has a short sharp beak and is brown and white with touches of yellow in its plumage.",
+          "indo": "burung lebih besar yang memiliki paruh pendek tajam dan berwarna coklat putih dengan sedikit sentuhan kuning pada bulunya."
+        },
+        {
+          "english": "white bird with red around it's bill stopping at it's eyes, long grey wings with some yellow on it.",
+          "indo": "burung putih dengan paruh merah berhenti di matanya, sayap abu-abu panjang dengan sedikit warna kuning di atasnya."
+        },
+        {
+          "english": "this bird is brown, and white in color with a brown beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat, dan berwarna putih dengan paruh berwarna coklat, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is fairly beige with a red crown and yellow stripes on the wings",
+          "indo": "burung ini berwarna krem ​​​​dengan mahkota berwarna merah dan garis-garis kuning pada sayapnya"
+        },
+        {
+          "english": "this bird has a red colored face to the nape, and yellow secondaries on its wings and orange colored tarsus and feet.",
+          "indo": "burung ini memiliki muka berwarna merah pada bagian tengkuknya, dan sayap bulu sekunder berwarna kuning serta tarsus dan kaki berwarna jingga."
+        },
+        {
+          "english": "this bird has white, yellow, and gray wings that highlight its red feathered face.",
+          "indo": "burung ini memiliki sayap berwarna putih, kuning, dan abu-abu yang menonjolkan wajahnya yang berbulu merah."
+        },
+        {
+          "english": "this bird has a brown head, gray breast and white belly and abdomen, the coverts are dark gray, secondaries are yellow and primaries are gray.",
+          "indo": "burung ini mempunyai kepala berwarna coklat, dada berwarna abu-abu, serta perut dan perut berwarna putih, bulunya berwarna abu-abu tua, bulu sekunder berwarna kuning, dan bulu primer berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0098_33152.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "small bird with a small head compared to body, and yellow primaries, grey breast and red crown.",
+          "indo": "burung kecil dengan kepala kecil dibandingkan badan, dan warna bulu primer kuning, dada abu-abu, dan mahkota merah."
+        },
+        {
+          "english": "this is a colorful bird with a white belly, brown breast, yellow wing and a red head.",
+          "indo": "ini adalah burung berwarna-warni dengan perut putih, dada coklat, sayap kuning dan kepala merah."
+        },
+        {
+          "english": "this bird's belly is white, with a brown patch on its breast, a red eyebrow patch, and a bright yellow patch on its wing.",
+          "indo": "Perut burung ini berwarna putih, dengan bercak coklat di dadanya, bercak alis berwarna merah, dan bercak kuning cerah di sayapnya."
+        },
+        {
+          "english": "this bird has a white belly and breast with a red eyebrow and yellow primary.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih dengan alis berwarna merah dan bulu primer berwarna kuning."
+        },
+        {
+          "english": "this bird has yellow-tipped primaries, red eyebrows, white bill and a white belly with brown patch near the throat.",
+          "indo": "burung ini mempunyai ciri utama berujung kuning, alis merah, paruh putih dan perut putih dengan bercak coklat di dekat tenggorokan."
+        },
+        {
+          "english": "this bird has wings that are brown and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan kuning serta mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has grey and white feathers on its breast and vent, yellow and black secondaries, and a red face.",
+          "indo": "burung ini memiliki bulu berwarna abu-abu dan putih di bagian dada dan lubang kloaka, bulu sekunder berwarna kuning dan hitam, serta muka berwarna merah."
+        },
+        {
+          "english": "a colorful bird with red and white on the head, a large beak with yellow and black wings.",
+          "indo": "burung berwarna-warni dengan kepala berwarna merah putih, paruh besar dengan sayap kuning dan hitam."
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown, black and yellow primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam dan kuning, serta perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0100_794685.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "bird is color ful belly is light brown and white wings are black with a yellow stripe heat is red and white and bee is small and white.",
+          "indo": "burung berwarna perut penuh coklat muda dan putih sayap hitam bergaris kuning panas merah putih dan lebah kecil putih."
+        },
+        {
+          "english": "a large bird with a white, black, red head, and a brown back.",
+          "indo": "seekor burung besar dengan kepala berwarna putih, hitam, merah, dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has a red crown, a sharp bill, and a tan abdomen",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh runcing, dan perut berwarna coklat"
+        },
+        {
+          "english": "this bird is black, brown, yellow, red, and white in color with a sharp light colored beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam, coklat, kuning, merah, dan putih dengan paruh tajam berwarna terang, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the beak is thick and very pointy, the throat, cheek patch and superciliary is red, the neck is white with a black nape, the back and side is light brown, and the wings and rectrices are black with a bright yellow stripe on the wings.",
+          "indo": "paruhnya tebal dan sangat runcing, tenggorokan, penutup pipi, dan superciliary berwarna merah, leher berwarna putih dengan tengkuk hitam, punggung dan samping berwarna coklat muda, serta sayap dan rectrices berwarna hitam dengan garis kuning cerah pada sayapnya. ."
+        },
+        {
+          "english": "this colorful bird has a red face, white throat and neck, a black nape, and black yellow and white wings.",
+          "indo": "Burung berwarna-warni ini memiliki muka merah, tenggorokan dan leher berwarna putih, tengkuk berwarna hitam, serta sayap berwarna hitam kuning putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small multicolored bird, with 1 yellow wingbar, black primaries, and a pointed bill.",
+          "indo": "seekor burung kecil beraneka warna, dengan 1 garis sayap kuning, paruh hitam, dan paruh runcing."
+        },
+        {
+          "english": "the european goldfinch has a rather long and narrow body and diverse coloring: red around the beak with white around the red and black at the back of the head; tan and white body, black wings with a occasional white spots and a yellow stripe.",
+          "indo": "goldfinch eropa memiliki tubuh yang agak panjang dan sempit serta warna yang beragam: merah di sekitar paruh dengan putih di sekitar merah dan hitam di bagian belakang kepala; tubuh coklat kecokelatan, sayap hitam dengan bintik-bintik putih sesekali dan garis kuning."
+        },
+        {
+          "english": "a bird with a white breast and a multicolored crown.",
+          "indo": "seekor burung dengan dada putih dan mahkota beraneka warna."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0101_33127.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "this bird is multicolored, with black eye rings and a red face, as well as yellow primaries highlighting a black wing and brown body.",
+          "indo": "burung ini beraneka warna, dengan cincin mata hitam dan muka merah, serta warna bulu primer kuning sentuhan warna sayap hitam dan badan coklat."
+        },
+        {
+          "english": "this is a brown bird with a yellow and black wing and a red face.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap kuning dan hitam serta muka merah."
+        },
+        {
+          "english": "the bird has a black and red crown with white on it's cheek and abdomen.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan merah dengan warna putih di pipi dan perutnya."
+        },
+        {
+          "english": "small brown white black yellow and red bird with medium tarsus and medium white and black beak",
+          "indo": "burung kecil berwarna coklat putih hitam kuning dan merah dengan tarsus sedang dan paruh sedang berwarna putih hitam"
+        },
+        {
+          "english": "this is a colorful bird with a yellow and black wing and a bright red head with a white bill.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap kuning dan hitam dan kepala merah cerah dengan paruh putih."
+        },
+        {
+          "english": "this bird has a red, white and black head and yellow tinged wings that are otherwise black with white spots.",
+          "indo": "burung ini memiliki kepala berwarna merah, putih dan hitam serta sayap berwarna kuning yang sebaliknya berwarna hitam dengan bintik-bintik putih."
+        },
+        {
+          "english": "this light brown bird has a red face, black crown, white pointed beak, black wings with white spots and yellow wingbars",
+          "indo": "Burung berwarna coklat muda ini mempunyai muka berwarna merah, mahkota berwarna hitam, paruh runcing berwarna putih, sayap berwarna hitam berbintik putih dan garis sayap berwarna kuning"
+        },
+        {
+          "english": "a small bird with white breast and red on face black on top of head.",
+          "indo": "seekor burung kecil dengan dada putih dan muka merah hitam di atas kepala."
+        },
+        {
+          "english": "this small colorful bird has a red and black face, white and black striped head, brown body, white belly, brown with a bright yellow band and black feathers with white spots wings, and black feathers with white circles tail.",
+          "indo": "Burung kecil berwarna-warni ini memiliki muka merah hitam, kepala bergaris putih hitam, badan coklat, perut putih, coklat bergaris kuning cerah, bulu hitam sayap bintik putih, dan bulu hitam ekor lingkaran putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a red face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mukanya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0103_794664.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "light brown and white bodied bird has bright yellow and black wings with a red, white an black head.",
+          "indo": "Burung berbadan coklat muda dan putih mempunyai sayap berwarna kuning cerah dan hitam dengan kepala berwarna merah putih dan hitam."
+        },
+        {
+          "english": "this bird has a black, white, and red crown, a white bill, and a wing with a yellow stripe.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, putih, dan merah, paruh berwarna putih, dan sayap bergaris kuning."
+        },
+        {
+          "english": "this is a colorful bird with a yellow wing, brown back and a white and red head.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap kuning, punggung coklat dan kepala putih dan merah."
+        },
+        {
+          "english": "this bird is black, brown, yellow, and white in color with a white beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam, coklat, kuning, dan putih dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a bird with a red crown and throat, the bill is short and pointed, with a black wing and yellow wingbar",
+          "indo": "burung dengan mahkota dan tenggorokan berwarna merah, paruhnya pendek dan runcing, dengan sayap berwarna hitam dan garis sayap berwarna kuning"
+        },
+        {
+          "english": "the bird has a striped crown that is amber, white and brown and striped wing bars.",
+          "indo": "Burung ini mempunyai mahkota bergaris berwarna kuning kecokelatan, putih coklat, dan jeruji sayap bergaris."
+        },
+        {
+          "english": "this bird is black, yellow, brown and red in color, with a white beak.",
+          "indo": "burung ini berwarna hitam, kuning, coklat dan merah, dengan paruh berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and gray and has a black crown",
+          "indo": "burung ini memiliki perut berwarna oranye dan abu-abu serta memiliki mahkota berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white with tan sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan sisi berwarna coklat"
+        },
+        {
+          "english": "this colorful bird has black and yellow wings, its head is orange, white and black, and it has a pointy white bill.",
+          "indo": "Burung berwarna-warni ini memiliki sayap berwarna hitam dan kuning, kepalanya berwarna oranye, putih dan hitam, serta paruhnya berwarna putih runcing."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0104_794634.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "small bird with a brown and white body, the head is orange, black, and white, and the feathers are black, white, and yellow on the wings.",
+          "indo": "burung kecil berbadan coklat putih, kepala berwarna jingga, hitam, dan putih, serta bulu pada sayapnya berwarna hitam, putih, dan kuning."
+        },
+        {
+          "english": "this bird is yellow, black, brown, white, and red in color with a white pointy beak and black eye rings.",
+          "indo": "burung ini berwarna kuning, hitam, coklat, putih, dan merah dengan paruh runcing berwarna putih dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with black cheek patch and red crow and throat.",
+          "indo": "seekor burung kecil dengan bercak hitam di pipi dan gagak serta tenggorokan merah."
+        },
+        {
+          "english": "this bird has a bright crown and wing with a short pointy bill.",
+          "indo": "burung ini mempunyai mahkota dan sayap berwarna cerah dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a colorful bird with a brown body, a red, white and black face, and black, blue, white and yellow wings.",
+          "indo": "burung berwarna-warni dengan tubuh coklat, muka merah, putih dan hitam, serta sayap hitam, biru, putih dan kuning."
+        },
+        {
+          "english": "the colorful bird has a white belly and breast, blue wings with two white wingbars, and yellow tarsus and feet",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap biru dengan dua garis sayap berwarna putih, serta tarsus dan kaki berwarna kuning"
+        },
+        {
+          "english": "this bird is orange, white, black, and yellow in color.",
+          "indo": "burung ini berwarna oranye, putih, hitam, dan kuning."
+        },
+        {
+          "english": "this bird is brown with and has a very short beak.",
+          "indo": "burung ini berwarna coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan dan berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and yellow and has a brown chest",
+          "indo": "burung ini mempunyai sayap berwarna hitam kuning dan mempunyai dada berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0106_33298.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "the bird has a tiny peach bill as well as a white breast.",
+          "indo": "burung itu memiliki paruh buah persik kecil dan dada berwarna putih."
+        },
+        {
+          "english": "the bird has a small bill, red and black crown, and skinny feet.",
+          "indo": "burung ini memiliki paruh kecil, mahkota berwarna merah dan hitam, serta kaki kurus."
+        },
+        {
+          "english": "this bird has a black red and white crown, and a spotted white and brown breast",
+          "indo": "burung ini mempunyai mahkota berwarna hitam merah putih, dan dada berbintik putih coklat"
+        },
+        {
+          "english": "it has a small white beak, many different colors, and red color around the beak.",
+          "indo": "paruhnya kecil berwarna putih, banyak warna berbeda, dan warna merah di sekitar paruhnya."
+        },
+        {
+          "english": "a white and brown bodied bird with yellow streaked fethers and a red ringed face.",
+          "indo": "burung berbadan putih coklat dengan bulu bergaris kuning dan muka cincin merah."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is multi colored with a black red and white face yellow on your breast and some yellow on the mostly black wings and tail.",
+          "indo": "burung ini beraneka warna dengan muka hitam merah putih kuning pada dada dan sebagian kuning pada sayap dan ekor yang sebagian besar berwarna hitam."
+        },
+        {
+          "english": "this bird is white, black, brown, red, and yellow in color, with a light pink beak.",
+          "indo": "burung ini berwarna putih, hitam, coklat, merah, dan kuning, dengan paruh berwarna merah muda terang."
+        },
+        {
+          "english": "this bird is white, brown, yellow, and red in color, with a light colored beak.",
+          "indo": "burung ini berwarna putih, coklat, kuning, dan merah, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this bird has a distinctive red circle on the front of its face, tan patches on its chest interspersed with white, and black and yellow wing and tail feathers.",
+          "indo": "burung ini memiliki ciri khas lingkaran merah pada bagian depan mukanya, bercak coklat pada dada diselingi bulu sayap dan ekor berwarna putih, serta hitam kuning."
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0107_794655.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "silky looking brown and white breast and body. it is red surrounding the bill and black on the crown. the cheek patch is brown.",
+          "indo": "dada dan tubuh berwarna coklat dan putih tampak halus. warnanya merah di sekeliling paruh dan hitam di mahkotanya. bercak pipi berwarna coklat."
+        },
+        {
+          "english": "a white bird has black tipped wings, brown spots on it's chest and a red spot on it's face.",
+          "indo": "burung berwarna putih mempunyai sayap berujung hitam, bintik coklat di dada dan bintik merah di muka."
+        },
+        {
+          "english": "bird has gold body feathers, gold breast feather, and gold and black beak",
+          "indo": "burung mempunyai bulu badan berwarna emas, bulu dada berwarna emas, serta paruh berwarna emas dan hitam"
+        },
+        {
+          "english": "a brown and white bird with black on top and a red face.",
+          "indo": "burung berwarna coklat putih dengan bagian atas berwarna hitam dan muka merah."
+        },
+        {
+          "english": "a small bird with shiny feathers and a gold bill.",
+          "indo": "seekor burung kecil dengan bulu berkilau dan paruh emas."
+        },
+        {
+          "english": "a small shiny bird, with white cheek patches and a black crown.",
+          "indo": "seekor burung kecil mengkilat, dengan bercak putih di pipi dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a white belly, a brown breast and a red face.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berwarna coklat dan muka berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and brown chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a short pointed break, a red mask covering it's face with brown and black covering the rest of it's body.",
+          "indo": "burung ini patahnya pendek dan runcing, topeng berwarna merah menutupi wajahnya, coklat dan hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a white belly blackhead orange face with hints of white on it",
+          "indo": "Burung ini memiliki perut berwarna putih, komedo, wajah oranye dengan sedikit warna putih di atasnya"
+        }
+      ]
+    },
+    {
+      "filename": "European_Goldfinch_0108_33176.jpg",
+      "class_id": 47,
+      "captions": [
+        {
+          "english": "a bird with black tail feathers, a white and brown chest and a red head.",
+          "indo": "burung dengan bulu ekor hitam, dada berwarna putih coklat, dan kepala berwarna merah."
+        },
+        {
+          "english": "the bird has red crown, with brown breast and side as well as a white belly and abdomen area.",
+          "indo": "burung ini memiliki mahkota berwarna merah, dengan dada dan samping berwarna coklat serta perut dan daerah perut berwarna putih."
+        },
+        {
+          "english": "a medium sized bird with a small bill and a red crown",
+          "indo": "burung berukuran sedang dengan paruh kecil dan mahkota merah"
+        },
+        {
+          "english": "a medium sized bird with red on head around beak, a yellow streak on wing and short pointed beak.",
+          "indo": "burung berukuran sedang dengan kepala sekitar paruh berwarna merah, sayap bergaris kuning, dan paruh runcing pendek."
+        },
+        {
+          "english": "brown bird with a red cheek patch and brown breast and white belly.",
+          "indo": "burung berwarna coklat dengan bercak merah di pipi, dada berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a bright red crown with a yellow, pointed beak and white cheek patch.",
+          "indo": "burung ini memiliki mahkota berwarna merah cerah dengan paruh kuning runcing dan bercak putih di pipi."
+        },
+        {
+          "english": "this bird has a very sharp beak with a red face.",
+          "indo": "burung ini mempunyai paruh yang sangat tajam dengan muka berwarna merah."
+        },
+        {
+          "english": "this bird has a red face with white, brown, and black accents covering the rest of his body.",
+          "indo": "burung ini memiliki muka berwarna merah dengan aksen putih, coklat, dan hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a red crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        }
+      ]
+    }
+  ]
+}

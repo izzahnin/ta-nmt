@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Cliff_Swallow_0003_133496.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird with white, orange body and some blue coloring on his head.",
+          "indo": "seekor burung kecil dengan tubuh berwarna putih oranye dan sedikit warna biru di kepalanya."
+        },
+        {
+          "english": "this bird has a black crown, a brown throat, and a white fluffy belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam, tenggorokan berwarna coklat, dan perut berbulu putih"
+        },
+        {
+          "english": "a small cream colored bird with brown feathers and black markings.",
+          "indo": "seekor burung kecil berwarna krem ​​​​dengan bulu coklat dan corak hitam."
+        },
+        {
+          "english": "a small bird with a white belly and black head, with a short beak.",
+          "indo": "seekor burung kecil dengan perut putih dan kepala hitam, dengan paruh pendek."
+        },
+        {
+          "english": "this little bird has a white belly and breast, brown neck, black crown, and a short pointy bill.",
+          "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, leher berwarna coklat, mahkota berwarna hitam, dan paruh pendek yang runcing."
+        },
+        {
+          "english": "a round bird with a white belly and breast, orange neck, and black head and wings with a short beak.",
+          "indo": "burung berbentuk bulat dengan perut dan dada berwarna putih, leher berwarna jingga, serta kepala dan sayap berwarna hitam dengan paruh pendek."
+        },
+        {
+          "english": "the bird has a white belly, black crown and brown wingbars.",
+          "indo": "burung ini memiliki perut berwarna putih, mahkota berwarna hitam, dan garis sayap berwarna coklat."
+        },
+        {
+          "english": "this small bird has a dark brown crown with a dark orange throat and small black bill.",
+          "indo": "burung kecil ini memiliki mahkota berwarna coklat tua dengan tenggorokan berwarna oranye tua dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a small bird with a white belly and orange throat with a black head.",
+          "indo": "seekor burung kecil dengan perut putih dan tenggorokan oranye dengan kepala hitam."
+        },
+        {
+          "english": "a small bird with a white belly and pointed beak.",
+          "indo": "seekor burung kecil dengan perut putih dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0005_133696.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bluish grey bird with orange areas on the side of the face and above the beak.",
+          "indo": "burung kecil berwarna abu-abu kebiruan dengan area oranye di sisi wajah dan di atas paruh."
+        },
+        {
+          "english": "elongated smaller bird with large head and pointed black beak and entirely gray body with orange crown and cheek patches.",
+          "indo": "burung kecil memanjang dengan kepala besar dan paruh hitam runcing dan tubuh seluruhnya berwarna abu-abu dengan mahkota oranye dan bercak pipi."
+        },
+        {
+          "english": "this is a black bird with a brown cheek patch and a brown nape.",
+          "indo": "ini adalah burung berwarna hitam dengan bercak pipi berwarna coklat dan tengkuk berwarna coklat."
+        },
+        {
+          "english": "this beautiful bird is a very sleek gray, black and brown head, small pointy bill, small white spot on breast, secondaries are the entire length of the bird.",
+          "indo": "burung cantik ini memiliki kepala abu-abu yang sangat ramping, hitam dan coklat, paruh kecil runcing, bintik putih kecil di dada, bulu sekunder adalah seluruh panjang burung."
+        },
+        {
+          "english": "this bird has a large head and short beak with grey and rust colored feathers.",
+          "indo": "burung ini memiliki kepala besar dan paruh pendek dengan bulu berwarna abu-abu dan karat."
+        },
+        {
+          "english": "a mostly black bird whose head, large in proportion to its body, has an orange crown and cheek.",
+          "indo": "burung yang sebagian besar berwarna hitam yang kepalanya, besar sebanding dengan tubuhnya, memiliki mahkota dan pipi berwarna oranye."
+        },
+        {
+          "english": "a bird with a black bill, black secondaries and an orange cheek patch.",
+          "indo": "seekor burung dengan paruh hitam, bulu sekunder berwarna hitam, dan bercak oranye di pipi."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna oranye"
+        },
+        {
+          "english": "a small bird with a black coloring and orange cheeks.",
+          "indo": "seekor burung kecil dengan warna hitam dan pipi oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0006_133489.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this large bird has a white belly and breast, with dark gray wings and tail.",
+          "indo": "burung besar ini memiliki perut dan dada berwarna putih, dengan sayap dan ekor berwarna abu-abu tua."
+        },
+        {
+          "english": "a light brown colored bird with white underbelly",
+          "indo": "burung berwarna coklat muda dengan perut berwarna putih"
+        },
+        {
+          "english": "bird with a red brown throat, white belly/chest and dark grey wings and tail.",
+          "indo": "burung dengan tenggorokan berwarna merah coklat, perut/dada berwarna putih, serta sayap dan ekor berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown neck and short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan leher berwarna coklat dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a white belly, brown wings and a pointy beak.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna coklat dan paruh yang runcing."
+        },
+        {
+          "english": "this bird has black and brown wings, a white breast and belly, and a red throat.",
+          "indo": "burung ini mempunyai sayap berwarna hitam coklat, dada dan perut berwarna putih, serta tenggorokan berwarna merah."
+        },
+        {
+          "english": "this bird has as red throat, white belly and vent, and brown and white wings.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah, perut dan lubang kloaka berwarna putih, serta sayap berwarna coklat dan putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and has black wings",
+          "indo": "burung ini memiliki perut yang berwarna putih dan sayap berwarna hitam"
+        },
+        {
+          "english": "a white bird with black wings, brown neck and small black bill.",
+          "indo": "burung berwarna putih dengan sayap hitam, leher coklat dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird, with a white belly, and a short bill.",
+          "indo": "burung berukuran sedang, perut berwarna putih, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0011_133033.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this colorful bird has a short beak with a black throat with brown and black coverts",
+          "indo": "burung berwarna-warni ini memiliki paruh pendek dengan tenggorokan berwarna hitam dengan bulu berwarna coklat dan hitam"
+        },
+        {
+          "english": "an average sized bird with a tan under be,my, dark brown wing and tail feathers, and a black superciliary.",
+          "indo": "seekor burung berukuran rata-rata dengan warna kecokelatan di bawah, sayap dan bulu ekor berwarna coklat tua, dan superciliary berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with a grey belly and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan perut berwarna abu-abu dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "a fluffy multicolored bird with a combination of white, brown, and blade feathers, it has a small light colored beak and beady black eyes",
+          "indo": "burung berbulu halus beraneka warna dengan kombinasi bulu putih, coklat, dan bilah, paruh kecil berwarna terang dan mata hitam seperti manik-manik"
+        },
+        {
+          "english": "this small bird has a black bill, white crown and breast.",
+          "indo": "burung kecil ini memiliki paruh berwarna hitam, mahkota dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is white with red and black and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna merah dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a small bird with brown back and wings, white belly and breast and a black throat.",
+          "indo": "ini adalah burung kecil dengan punggung dan sayap berwarna coklat, perut dan dada berwarna putih, serta tenggorokan berwarna hitam."
+        },
+        {
+          "english": "the bill of the bird is black and pointed, and the breast of the bird is a yellow tone.",
+          "indo": "paruh burung berwarna hitam dan runcing, dan dada burung berwarna kuning."
+        },
+        {
+          "english": "this bird has a stubby black bill and a white breast and belly.",
+          "indo": "burung ini memiliki paruh gemuk berwarna hitam serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a brown wings and white feathery breast, white and brown head, and short bills.",
+          "indo": "burung ini memiliki sayap berwarna coklat dan dada berbulu putih, kepala berwarna putih dan coklat, serta paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0012_133527.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has a small black bill and black eyering.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a small rounded head, a sharp and short bill, and a brown back",
+          "indo": "burung ini memiliki kepala kecil membulat, paruh runcing dan pendek, serta punggung berwarna coklat"
+        },
+        {
+          "english": "the bird has a black crown and black wings along with a white belly.",
+          "indo": "burung itu memiliki mahkota hitam dan sayap hitam serta perut berwarna putih."
+        },
+        {
+          "english": "a bid that has black wings, and several different dark shades on its head.",
+          "indo": "tawaran yang memiliki sayap hitam, dan beberapa corak gelap berbeda di kepalanya."
+        },
+        {
+          "english": "this small bird has copper cheek patches, brown wings and a black crown",
+          "indo": "burung kecil ini memiliki bercak tembaga di pipinya, sayapnya berwarna coklat, dan mahkotanya berwarna hitam"
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan putih"
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a small black bill, black coat and small eyering.",
+          "indo": "burung itu mempunyai paruh kecil berwarna hitam, bulu hitam dan mata kecil."
+        },
+        {
+          "english": "this bird has a black crown, brown primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0013_133169.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this orange and black bird has a small beak and looks very serious.",
+          "indo": "burung berwarna oranye dan hitam ini memiliki paruh yang kecil dan terlihat sangat serius."
+        },
+        {
+          "english": "a small bird with a black pointed beak, red nape with black crow, white colored breast.",
+          "indo": "burung kecil dengan paruh runcing hitam, tengkuk merah, gagak hitam, dada berwarna putih."
+        },
+        {
+          "english": "this bird has black and brown primaries with an orange rump and eyebrow with a flat pointed bill.",
+          "indo": "burung ini mempunyai warna bulu primer hitam coklat dengan pantat berwarna jingga dan alis dengan paruh runcing rata."
+        },
+        {
+          "english": "this bird has a black crown, a short black bill, and a brown wing",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh pendek berwarna hitam, dan sayap berwarna coklat"
+        },
+        {
+          "english": "a small brown, orange, white, and black bird with a black beak.",
+          "indo": "burung kecil berwarna coklat, oranye, putih, dan hitam dengan paruh hitam."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "has a black and red head and back",
+          "indo": "memiliki kepala dan punggung berwarna hitam dan merah"
+        },
+        {
+          "english": "this bird is black and brown in color, with a stubby beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this small bird with an orange ring around its nape has a short pointed bill.",
+          "indo": "Burung kecil dengan cincin oranye di sekitar tengkuknya ini memiliki paruh yang pendek dan runcing."
+        },
+        {
+          "english": "this is a brown bird with a black back with white spots, on orange-brown rump, and orange-brown head where the crown is black.",
+          "indo": "Burung ini berwarna coklat, punggung berwarna hitam dengan bintik-bintik putih, pada pantat berwarna oranye-coklat, dan kepala berwarna oranye-coklat dengan mahkota berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0015_133176.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the crown is black, the cheekpatch is dark brown, and the belly and breast is grey.",
+          "indo": "ubun-ubunnya berwarna hitam, penutup pipinya berwarna coklat tua, serta bagian perut dan dadanya berwarna abu-abu."
+        },
+        {
+          "english": "this is a tan bird with a black crown white eye brow and orange breast with an orange rump.",
+          "indo": "ini adalah burung berwarna coklat dengan superciliary mata putih mahkota hitam dan dada oranye dengan pantat oranye."
+        },
+        {
+          "english": "this bird is white with red on its neck and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna merah pada lehernya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "small bird but it has large wings for it's size. small head and beak, colors are gray black and burnt orange.",
+          "indo": "burung kecil tetapi mempunyai sayap yang besar untuk ukurannya. kepala dan paruhnya kecil, warnanya abu-abu hitam dan jingga gosong."
+        },
+        {
+          "english": "this is a white bird with a black crown and a orange throat",
+          "indo": "ini adalah burung berwarna putih dengan mahkota hitam dan tenggorokan oranye"
+        },
+        {
+          "english": "this bird is white with black and red and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam dan merah serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and orange throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan tenggorokan berwarna jingga"
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is white, brown, and black in color, with a dark colored beak.",
+          "indo": "burung ini berwarna putih, coklat, dan hitam, dengan paruh berwarna gelap."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white body",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan badannya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0017_133806.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a reddish face, black bill, brown wings, and an orange breast.",
+          "indo": "burung ini memiliki muka kemerahan, paruh berwarna hitam, sayap berwarna coklat, dan dada berwarna jingga."
+        },
+        {
+          "english": "a medium bird with brown and gray feathers.",
+          "indo": "burung berukuran sedang dengan bulu berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this is a bird with a white belly, brown throat and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, tenggorokan coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird is white and brown in color with a small beak, and black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small chubby bird, with a grayish white upper body, an orangish white chest, and a reddish black face and neck",
+          "indo": "burung kecil gemuk, tubuh bagian atas berwarna putih keabu-abuan, dada berwarna putih jingga, serta muka dan leher berwarna hitam kemerahan"
+        },
+        {
+          "english": "this small light orange bird has a orange-brown head that is flat at the crown.",
+          "indo": "burung kecil berwarna oranye terang ini memiliki kepala berwarna oranye kecokelatan yang rata di bagian ubun-ubunnya."
+        },
+        {
+          "english": "the throat is brown while the bill is black, s and curved at the end.",
+          "indo": "tenggorokannya berwarna coklat sedangkan paruhnya berwarna hitam, dan ujungnya melengkung."
+        },
+        {
+          "english": "this bird has a white spot on top of its head, with a rust colored throat and a light brown breast.",
+          "indo": "burung ini memiliki bintik putih di atas kepalanya, tenggorokan berwarna karat, dan dada berwarna coklat muda."
+        },
+        {
+          "english": "this bird is red, and mixed brown in color, with a stubby black beak.",
+          "indo": "Burung ini berwarna merah, warnanya campur coklat, dengan paruhnya yang gemuk berwarna hitam."
+        },
+        {
+          "english": "this little bird has a short, black bill, brown and black eyering, red throat and tan breast.",
+          "indo": "Burung kecil ini mempunyai paruh pendek berwarna hitam, cincin mata berwarna coklat dan hitam, tenggorokan berwarna merah dan dada berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0018_132974.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has brown and white feathers and long legs.",
+          "indo": "burung ini memiliki bulu berwarna coklat dan putih serta kaki yang panjang."
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown ring around its neck and a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan cincin coklat di sekitar lehernya dan paruh pendek dan runcing."
+        },
+        {
+          "english": "a medium sized bird with a maroon line wrapping around its neck.",
+          "indo": "seekor burung berukuran sedang dengan garis merah marun melingkari lehernya."
+        },
+        {
+          "english": "a small bird with a white belly and a red throat, with brown and black wingbars.",
+          "indo": "burung kecil dengan perut putih dan tenggorokan merah, dengan sayap berwarna coklat dan hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, black wing, brown face and black crown.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam, muka coklat dan mahkota hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and red throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan tenggorokan berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a white bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white with brown breasts",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a small black bill with brown throat and black crown.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam dengan tenggorokan berwarna coklat dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0022_133786.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a short, squared off tail of solid brown.",
+          "indo": "burung ini memiliki ekor pendek berbentuk persegi berwarna coklat pekat."
+        },
+        {
+          "english": "this bird is brown in color with a very large wing span.",
+          "indo": "burung ini berwarna coklat dengan rentang sayap yang sangat besar."
+        },
+        {
+          "english": "this is a brown bird with black wings and white spots.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap hitam dan bintik putih."
+        },
+        {
+          "english": "this bird has a brown and black overall color with a relatively big wingspan.",
+          "indo": "burung ini memiliki warna keseluruhan coklat kehitaman dengan rentang sayap yang relatif besar."
+        },
+        {
+          "english": "this medium-sized bird has a brighter brown rump, dull brown uppertail coverts, and dark brown tail and wings.",
+          "indo": "burung berukuran sedang ini memiliki pantat berwarna coklat cerah, bulu penutup ekor atas berwarna coklat kusam, serta ekor dan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this sitting bird has a brownish nape, dark grayish primaries, secondaries and wingbars, black back with a hint of white, brown rump and black outer rectrices.",
+          "indo": "burung duduk ini memiliki tengkuk kecoklatan, bulu primer keabu-abuan tua, bulu sekunder dan garis sayap, punggung berwarna hitam dengan sedikit warna putih, pantat berwarna coklat, dan outer rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a brown body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna coklat"
+        },
+        {
+          "english": "black and brown bird with orange and brown tail feathers.",
+          "indo": "burung berwarna hitam coklat dengan bulu ekor berwarna orange dan coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a brown body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna coklat"
+        },
+        {
+          "english": "this smaller bird is covered in black and brown feathers.",
+          "indo": "burung yang lebih kecil ini ditutupi bulu berwarna hitam dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0023_134314.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly, grey wings and a brown throat.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan tenggorokan coklat."
+        },
+        {
+          "english": "a small grey and brown bird with a white chest and a small head.",
+          "indo": "seekor burung kecil berwarna abu-abu dan coklat dengan dada putih dan kepala kecil."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a brown head.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan kepala coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a tiny bird with a gray back and wings; the wings are extended and longer than the body.",
+          "indo": "seekor burung kecil dengan punggung dan sayap berwarna abu-abu; sayapnya memanjang dan lebih panjang dari tubuhnya."
+        },
+        {
+          "english": "this tiny dark bird has a small black head with charcoal wings and tale, a peach rump and a white breast.",
+          "indo": "burung kecil berwarna gelap ini memiliki kepala kecil berwarna hitam dengan sayap dan dongeng arang, pantat buah persik, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has brown secondaries, a white chest, and a red face.",
+          "indo": "burung ini mempunyai bulu sekunder berwarna coklat, dada berwarna putih, dan muka berwarna merah."
+        },
+        {
+          "english": "this bird is grey with white and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a plump bird with a small head, the wings are dark gray and the nape is brown, while the beak is black, short and pointed.",
+          "indo": "Burung ini bertubuh gempal, berkepala kecil, sayap berwarna abu-abu tua, dan tengkuk berwarna coklat, sedangkan paruhnya berwarna hitam, pendek dan runcing."
+        },
+        {
+          "english": "this bird has a white line across its head and black spot on head with grey and orange with white in body.",
+          "indo": "burung ini mempunyai garis putih di kepalanya dan bintik hitam di kepala dengan warna abu-abu dan oranye dengan badan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0027_133203.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a white breasted bird with a blue crown and rust colored collar.",
+          "indo": "burung berdada putih dengan mahkota biru dan kerah berwarna karat."
+        },
+        {
+          "english": "a medium sized bird with a white under belly, black wing and tail feathers, and a yellow and red nape.",
+          "indo": "burung berukuran sedang dengan perut bagian bawah berwarna putih, bulu sayap dan ekor berwarna hitam, serta tengkuk berwarna kuning dan merah."
+        },
+        {
+          "english": "this medium size bird has a blue and white crown with a red nape and white breast and chest and his wings are blue and grey",
+          "indo": "burung berukuran sedang ini mempunyai mahkota berwarna biru putih dengan tengkuk berwarna merah dan dada serta dada berwarna putih serta sayapnya berwarna biru abu-abu"
+        },
+        {
+          "english": "the bird has a white belly and black spotted wings and tail with a orange, black, and white head.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap berbintik hitam serta ekor dengan kepala berwarna jingga, hitam, dan putih."
+        },
+        {
+          "english": "this bird has black wings, a black crown, red throat and nape, and white breast.",
+          "indo": "burung ini mempunyai sayap berwarna hitam, mahkota berwarna hitam, tenggorokan dan tengkuk berwarna merah, serta dada berwarna putih."
+        },
+        {
+          "english": "a small bird with a white breast with an orange nape and black wings.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dengan tengkuk oranye dan sayap hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a blue crown",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota berwarna biru"
+        },
+        {
+          "english": "this white bellied bird has a cobalt blue crown, red throat and nape and black wings.",
+          "indo": "burung perut putih ini memiliki mahkota berwarna biru kobalt, tenggorokan dan tengkuk berwarna merah, serta sayap berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0028_132365.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a light brown belly and breast with a blue crown and orange cheek patches.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat muda dengan mahkota berwarna biru dan bercak pipi berwarna oranye."
+        },
+        {
+          "english": "small bird with brown throat, beak is small and black, secondaries and tail is black color.",
+          "indo": "burung kecil dengan tenggorokan berwarna coklat, paruh kecil berwarna hitam, bulu sekunder dan ekor berwarna hitam."
+        },
+        {
+          "english": "the bird is blue with a brown throat and black pointed bill.",
+          "indo": "burung itu berwarna biru dengan tenggorokan coklat dan paruh runcing hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill, and blue crown and back",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek runcing, serta mahkota dan punggung berwarna biru"
+        },
+        {
+          "english": "this dark blue bird has gray wing tips and russet accents on its head and breast.",
+          "indo": "burung berwarna biru tua ini memiliki ujung sayap berwarna abu-abu dan aksen coklat kemerahan di kepala dan dadanya."
+        },
+        {
+          "english": "a black and blue bird with an orange face and neck with a pointed black beak",
+          "indo": "burung berwarna hitam biru dengan muka dan leher jingga dengan paruh hitam runcing"
+        },
+        {
+          "english": "this birds body is mostly blue with orange on its face and head and grey on its wing and tail.",
+          "indo": "Tubuh burung ini sebagian besar berwarna biru dengan warna oranye pada wajah dan kepala serta abu-abu pada sayap dan ekornya."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna kuning"
+        },
+        {
+          "english": "a small blue bird with a short pointed beak, black patches across the eyes and an orange throat.",
+          "indo": "seekor burung kecil berwarna biru dengan paruh pendek runcing, bercak hitam di matanya dan tenggorokan berwarna oranye."
+        },
+        {
+          "english": "this bird has a red face and a dark brown crown.",
+          "indo": "burung ini memiliki muka berwarna merah dan mahkota berwarna coklat tua."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0031_133164.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird, with a significant head, tiny pointed bill, red throat, grey nape, dark wings and back, and white breast, belly, and abdomen.",
+          "indo": "seekor burung kecil, dengan kepala besar, paruh runcing kecil, tenggorokan merah, tengkuk abu-abu, sayap dan punggung berwarna gelap, serta dada, perut, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly, black back and a brown cheek patch.",
+          "indo": "burung ini memiliki perut berwarna putih, punggung berwarna hitam, dan bercak pipi berwarna coklat."
+        },
+        {
+          "english": "a small bird with a navy blue crown, red throat, and grey breast and belly.",
+          "indo": "seekor burung kecil dengan mahkota biru tua, tenggorokan merah, dan dada serta perut abu-abu."
+        },
+        {
+          "english": "this bird has a blue crown, red-orange throat, white belly, gray nape, and blue-gray wings.",
+          "indo": "burung ini mempunyai mahkota berwarna biru, tenggorokan berwarna merah jingga, perut berwarna putih, tengkuk berwarna abu-abu, dan sayap berwarna biru keabu-abuan."
+        },
+        {
+          "english": "bird with small and sharp pointed beak, and black crown and back, brownish gray nape, gray belly and abdomen",
+          "indo": "burung dengan paruh kecil dan runcing, serta mahkota dan punggung berwarna hitam, tengkuk berwarna abu kecoklatan, perut dan perut berwarna abu-abu"
+        },
+        {
+          "english": "the bird's nape is a different color from its throat",
+          "indo": "tengkuk burung berbeda warna dengan tenggorokannya"
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown and black",
+          "indo": "burung ini memiliki perut yang berwarna putih, coklat, dan hitam"
+        },
+        {
+          "english": "this bird has a blue crown as well as a red cheek",
+          "indo": "burung ini memiliki mahkota berwarna biru dan pipi berwarna merah"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black back with a red chin and a black crown. its bill is very short.",
+          "indo": "burung ini memiliki punggung berwarna hitam dengan dagu berwarna merah dan mahkota berwarna hitam. tagihannya sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0033_133836.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a medium sized bird with a red neck and white bellow and wide brown wings.",
+          "indo": "burung berukuran sedang dengan leher merah dan bagian bawah putih serta sayap lebar berwarna coklat."
+        },
+        {
+          "english": "the grey and white bird has pointed wings and a brown head.",
+          "indo": "burung berwarna abu-abu putih memiliki sayap runcing dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a short bill, a brown crown, and a black throat.",
+          "indo": "burung ini memiliki paruh pendek, mahkota berwarna coklat, dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "bird is strong with big feet and a flat crown",
+          "indo": "burung kuat dengan kaki besar dan mahkota rata"
+        },
+        {
+          "english": "this odd looking bird with its copper colored throat and patch has a white belly, brown neck wingbars and undertail coverts with a little white going through the brown.",
+          "indo": "Burung yang tampak aneh dengan tenggorokan dan bercak berwarna tembaga ini memiliki perut berwarna putih, garis sayap leher berwarna coklat, dan bulu bagian bawah dengan sedikit warna putih menembus coklat."
+        },
+        {
+          "english": "the bird has two large brown wingbars and an amber throat.",
+          "indo": "burung itu memiliki dua garis sayap besar berwarna coklat dan tenggorokan berwarna kuning."
+        },
+        {
+          "english": "this particular bird has a belly that is white and has brown spots on it",
+          "indo": "Burung ini mempunyai perut yang berwarna putih dan terdapat bintik-bintik coklat di atasnya"
+        },
+        {
+          "english": "this bird has a red throat with a white belly and a black crown.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah dengan perut berwarna putih dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a large fan shaped tails, white belly and a red neck with a large head.",
+          "indo": "burung ini mempunyai ekor berbentuk kipas yang besar, perut berwarna putih dan leher berwarna merah dengan kepala yang besar."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0035_133097.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the long wings are brown, the superciliary is white, and the cheekspot is brown.",
+          "indo": "sayap panjang berwarna coklat, superciliary berwarna putih, dan pipi berwarna coklat."
+        },
+        {
+          "english": "this is a brown and white bird with a black crown",
+          "indo": "ini adalah burung berwarna coklat dan putih dengan mahkota hitam"
+        },
+        {
+          "english": "this bird has a black crown contrasted with a whitish patch above its stout bill, and has a reddish brown throat, a ligther brown neck, dark wings and tail, and a white belly.",
+          "indo": "Burung ini memiliki mahkota berwarna hitam kontras dengan bercak keputihan di atas paruhnya yang kokoh, serta memiliki tenggorokan berwarna coklat kemerahan, leher berwarna coklat muda, sayap dan ekor berwarna gelap, serta perut berwarna putih."
+        },
+        {
+          "english": "a strong and solid looking bird with big wings and black and white crown",
+          "indo": "seekor burung yang tampak kuat dan kokoh dengan sayap besar dan mahkota hitam putih"
+        },
+        {
+          "english": "this bird has a white belly, brown breast, and black crown.",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna coklat, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a large wingspan, a long tube-like body, and a wide fanned out tail.",
+          "indo": "burung ini mempunyai rentang sayap yang besar, badan berbentuk tabung yang panjang, dan ekor yang melebar lebar."
+        },
+        {
+          "english": "a large bird with a very large wingspan, and a black head.",
+          "indo": "seekor burung besar dengan rentang sayap yang sangat besar, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head with a yellow crown-shaped forehead, a white breast, and orang wings.",
+          "indo": "burung ini mempunyai kepala berwarna hitam dengan dahi berbentuk mahkota berwarna kuning, dada berwarna putih, dan sayap orang."
+        },
+        {
+          "english": "this bird has a black crown with brown throat and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tenggorokan berwarna coklat dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has beige eyebrows with a black crown and white belly.",
+          "indo": "burung ini memiliki alis berwarna krem ​​​​dengan mahkota berwarna hitam dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0036_133168.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this multi-colored bird has black on the top of its head, a small patch of tan between the eyes, and a burnt orange/red around its beak and neck.",
+          "indo": "burung beraneka warna ini memiliki warna hitam di bagian atas kepalanya, sedikit warna coklat di antara matanya, dan warna oranye/merah terbakar di sekitar paruh dan lehernya."
+        },
+        {
+          "english": "a small bird with a bill that curves downwards and a orange crown",
+          "indo": "seekor burung kecil dengan paruh melengkung ke bawah dan mahkota oranye"
+        },
+        {
+          "english": "this bird is red with black on its head and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan kepala berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a small bird in a hole with a tan forehead, a black crown, and red to brown throat and breast.",
+          "indo": "ini adalah burung kecil dalam lubang dengan dahi berwarna coklat, mahkota hitam, dan tenggorokan serta dada berwarna merah sampai coklat."
+        },
+        {
+          "english": "this bird has a black crown, tan superciliary and red throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, superciliary berwarna coklat, dan tenggorokan berwarna merah."
+        },
+        {
+          "english": "this bird has a tan colored crown, red throat breast and belly and black covering the rest of its body.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, tenggorokan, dada dan perut berwarna merah dan hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna merah"
+        },
+        {
+          "english": "this little bird has a black crown with brown blaze between its eyes and black bill with red and black spots neck markings.",
+          "indo": "Burung kecil ini memiliki mahkota berwarna hitam dengan kobaran api coklat di antara matanya dan paruh hitam dengan tanda leher berbintik merah dan hitam."
+        },
+        {
+          "english": "this bird has a black crown, a red throat and a small black bill.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, tenggorokan berwarna merah dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is black, rust and tan with a tan supiciliary, black crown and rust check patch with additional rust coloring under its bill.",
+          "indo": "burung ini berwarna hitam, karat dan coklat dengan supisiliary coklat, mahkota hitam dan tempelan tanda karat dengan tambahan pewarna karat di bawah paruhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0038_133701.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a grey bird with a white belly and a orange on its cheeks and throat.",
+          "indo": "burung berwarna abu-abu dengan perut putih dan warna oranye di pipi dan tenggorokannya."
+        },
+        {
+          "english": "this is a bird with a white belly, grey wing and a brown head.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan kepala coklat."
+        },
+        {
+          "english": "a flying bird with brown big wings, orange throat, and white breast and belly.",
+          "indo": "burung terbang dengan sayap besar berwarna coklat, tenggorokan berwarna jingga, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white body, gray wings and a brown head.",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap berwarna abu-abu, dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "the bird has brown wings, tan breast, tan belly, and a red cheek patch",
+          "indo": "burung itu memiliki sayap berwarna coklat, dada berwarna coklat, perut berwarna coklat, dan pipi berwarna merah"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a white chest and abdomen with a red throat and dark tail feathers.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan tenggorokan berwarna merah dan bulu ekor berwarna gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0039_133645.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird seems to be a medium size bird with very unique colors there is reddish brown, black, white, gray and gold/light brown color towards the backend of the bird this bird has a very small beak large eyes for its size and very long wings",
+          "indo": "burung ini nampaknya merupakan burung berukuran sedang dengan warna yang sangat unik ada coklat kemerahan, hitam, putih, abu-abu dan warna emas/coklat muda pada bagian punggung burung burung ini mempunyai paruh yang sangat kecil, mata yang besar untuk ukurannya dan sangat panjang sayap"
+        },
+        {
+          "english": "the bird has a black eyering and a black crown that has white.",
+          "indo": "burung tersebut memiliki cincin mata berwarna hitam dan mahkota berwarna hitam yang memiliki warna putih."
+        },
+        {
+          "english": "the bird has a black covert and crown with brown throat and cheek area.",
+          "indo": "burung ini memiliki bulu dan mahkota berwarna hitam dengan daerah tenggorokan dan pipi berwarna coklat."
+        },
+        {
+          "english": "a small bird with a very short black bill and a white patch between the eyes.",
+          "indo": "seekor burung kecil dengan paruh hitam yang sangat pendek dan bercak putih di antara kedua matanya."
+        },
+        {
+          "english": "this is a black bird with a brown throat and a black head.",
+          "indo": "ini adalah burung hitam dengan tenggorokan coklat dan kepala hitam."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small black bird has a white flank and superciliary marking, brown throat and rump, and a very small, pointed black bill.",
+          "indo": "burung hitam kecil ini memiliki sayap putih dan tanda superciliary, tenggorokan dan pantat berwarna coklat, dan paruh hitam yang sangat kecil dan runcing."
+        },
+        {
+          "english": "the head and wings are a dark blue with a maroon throat area along with a light orange above the tail and a short pointy beak.",
+          "indo": "kepala dan sayap berwarna biru tua dengan area tenggorokan berwarna merah marun dengan warna oranye muda di atas ekor dan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0041_134111.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird is in mid flight with a dark black nape and crown, white belly, and black wingbars and coverts.",
+          "indo": "burung ini sedang terbang dengan tengkuk dan ubun-ubun berwarna hitam tua, perut berwarna putih, serta garis sayap dan bulu berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, black wings and a black head.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "this bird has a white belly, black head and wings, and a white crown.",
+          "indo": "burung ini memiliki perut berwarna putih, kepala dan sayap berwarna hitam, serta mahkota berwarna putih."
+        },
+        {
+          "english": "this bird has black tarsus & feet, a brown & black mottled throat, and a white belly.",
+          "indo": "burung ini memiliki tarsus & kaki berwarna hitam, tenggorokan berbintik coklat & hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "dark gray and white bird with a small beak and small head.",
+          "indo": "burung berwarna abu-abu tua dan putih dengan paruh kecil dan kepala kecil."
+        },
+        {
+          "english": "this bird has a black face and neck which fades to white on its breast, and a small cap of white over its eyes.",
+          "indo": "Burung ini memiliki muka dan leher berwarna hitam yang memudar menjadi putih pada bagian dadanya, serta terdapat tutup kecil berwarna putih pada bagian matanya."
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown",
+          "indo": "burung ini memiliki perut yang berwarna putih dan coklat"
+        },
+        {
+          "english": "the bird has a thick body with a wide wingspan.",
+          "indo": "burung ini memiliki tubuh yang tebal dengan rentang sayap yang lebar."
+        },
+        {
+          "english": "the bird has two long wingbars and a long belly.",
+          "indo": "burung itu mempunyai dua garis sayap yang panjang dan perut yang panjang."
+        },
+        {
+          "english": "a bird with a black crown and throat, white belly and black rectrices and the bill is short and pointed",
+          "indo": "burung dengan mahkota dan tenggorokan berwarna hitam, perut berwarna putih dan rectrices  berwarna hitam, serta paruh pendek dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0042_133646.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird with multiple towns of brown with a small pointed beak",
+          "indo": "seekor burung kecil dengan banyak kota berwarna coklat dengan paruh kecil yang runcing"
+        },
+        {
+          "english": "this tiny bird has a short tail, short beak and pink legs.",
+          "indo": "burung mungil ini memiliki ekor pendek, paruh pendek, dan kaki berwarna merah muda."
+        },
+        {
+          "english": "this small bird has a short yellow beak, a white chest and light grey wings.",
+          "indo": "burung kecil ini memiliki paruh pendek berwarna kuning, dada berwarna putih, dan sayap berwarna abu-abu muda."
+        },
+        {
+          "english": "a bird with a tiny pointed bill, small head, and fluffy white breast.",
+          "indo": "seekor burung dengan paruh kecil runcing, kepala kecil, dan dada berbulu putih."
+        },
+        {
+          "english": "this bird has a white underside and a rounded head, with a small yellow beak.",
+          "indo": "burung ini memiliki bagian bawah berwarna putih dan kepala membulat, dengan paruh kecil berwarna kuning."
+        },
+        {
+          "english": "the is colorful bird has a short beak with short legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh pendek dan kaki pendek"
+        },
+        {
+          "english": "this very small bird has an off-white belly with gray wings and a brown and white crown.",
+          "indo": "burung yang sangat kecil ini memiliki perut berwarna putih pucat dengan sayap abu-abu dan mahkota berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has light brown belly and gr colored wings.",
+          "indo": "burung kecil ini memiliki perut berwarna coklat muda dan sayap berwarna gr."
+        },
+        {
+          "english": "this bird is white with brown and has a very short beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0044_133927.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird is black with a brown rump and cheek patch, and the bill is pointed and curved downwards.",
+          "indo": "burung ini berwarna hitam dengan pantat dan pipi berwarna coklat, serta paruhnya runcing dan melengkung ke bawah."
+        },
+        {
+          "english": "the bird has a black and white head and an orange throat and black wings.",
+          "indo": "burung itu memiliki kepala hitam putih, tenggorokan oranye, dan sayap hitam."
+        },
+        {
+          "english": "a bird with gray wings, a white bellow and eyebrows, light brown vent and neck, and dark gray crown.",
+          "indo": "burung dengan sayap abu-abu, bagian bawah dan alis berwarna putih, lubang dan leher berwarna coklat muda, serta mahkota berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has white, black, and orange stripes across its head, black wings, and a white breast with a patch of orange at the rear.",
+          "indo": "burung ini memiliki garis-garis putih, hitam, dan oranye di kepalanya, sayap hitam, dan dada berwarna putih dengan bercak oranye di bagian belakang."
+        },
+        {
+          "english": "bird with black eye, nape and wings, with brown throat and white belly and abdomen",
+          "indo": "burung bermata hitam, tengkuk dan sayap, tenggorokan berwarna coklat, serta perut dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a red and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang berwarna merah putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and orange patched",
+          "indo": "burung ini memiliki perut yang berwarna putih dan bercak oranye"
+        },
+        {
+          "english": "this particular bird has a belly that is orang and white",
+          "indo": "burung ini memiliki perut berwarna oranye dan putih"
+        },
+        {
+          "english": "this bird has reddish brown face, with a dark brown crown and white eyebrows.",
+          "indo": "burung ini mempunyai muka berwarna coklat kemerahan, dengan mahkota berwarna coklat tua dan alis berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0045_133591.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird has a dark brown back, dark brown secondaries, and a light brown rump.",
+          "indo": "seekor burung kecil memiliki punggung berwarna coklat tua, bulu sekunder berwarna coklat tua, dan pantat berwarna coklat muda."
+        },
+        {
+          "english": "this bird has black wing and tail feathers, white uppertail coverts, and a brown throat.",
+          "indo": "burung ini memiliki bulu sayap dan ekor berwarna hitam, penutup ekor atas berwarna putih, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this charcoal colored bird with a white rump and brown throat, has a small bill.",
+          "indo": "Burung berwarna arang dengan pantat berwarna putih dan tenggorokan berwarna coklat ini, memiliki paruh yang kecil."
+        },
+        {
+          "english": "this bird has shorter wings, a brown body with white under tail coverts.",
+          "indo": "burung ini mempunyai sayap yang lebih pendek, badan berwarna coklat dengan bulu bawah ekor berwarna putih."
+        },
+        {
+          "english": "this bird is black with white on its tail and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan ekor berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the black wings are spreaded on the bird with a black and white tail",
+          "indo": "sayap hitam terbentang pada burung dengan ekor hitam putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "a small bird with black and grey wings and body, a small spot of tufted muted yellow on the face, black eyes, black beak, and slight white just before the tail.",
+          "indo": "burung kecil dengan sayap dan badan berwarna hitam abu-abu, bintik kecil berumbai kuning kalem di bagian muka, mata hitam, paruh hitam, dan agak putih tepat di depan ekor."
+        },
+        {
+          "english": "this bird has wings that are brown and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "the bird has smooth feathers and a mostly dark body except the brown head and the small beak.",
+          "indo": "burung ini memiliki bulu halus dan sebagian besar tubuh berwarna gelap kecuali kepala berwarna coklat dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0046_133165.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a brown belly and superciliary and a black back",
+          "indo": "burung ini memiliki perut dan superciliary berwarna coklat serta punggung berwarna hitam"
+        },
+        {
+          "english": "this little bird has a brown neck and crown, black nape and back, and a short pointy bill.",
+          "indo": "burung kecil ini memiliki leher dan mahkota berwarna coklat, tengkuk dan punggung berwarna hitam, serta paruh pendek yang runcing."
+        },
+        {
+          "english": "the bird has a brown and black colored body with a black eyering and crown on its head.",
+          "indo": "Burung ini memiliki tubuh berwarna coklat kehitaman dengan cincin mata dan mahkota berwarna hitam di kepalanya."
+        },
+        {
+          "english": "this bird is black and red in color with a curved stubby beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam merah dengan paruh gemuk melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with red on the throat, breast, and on top of the bill.",
+          "indo": "ini adalah burung berwarna hitam dengan warna merah di tenggorokan, dada, dan di atas paruhnya."
+        },
+        {
+          "english": "the bird has an orange throat, an orange and black crown, and a black cheek patch.",
+          "indo": "burung itu memiliki tenggorokan berwarna oranye, mahkota berwarna oranye dan hitam, serta bercak di pipi berwarna hitam."
+        },
+        {
+          "english": "the bird is black on its back and the top of its head with a orange face and neck with a down-turned beak.",
+          "indo": "burung itu berwarna hitam pada punggung dan bagian atas kepalanya dengan wajah dan leher berwarna oranye dengan paruh menghadap ke bawah."
+        },
+        {
+          "english": "this bird has a orange face, the feathers are slick black with some white, its a smaller bird.",
+          "indo": "burung ini berwajah jingga, bulunya berwarna hitam licin dengan sedikit warna putih, burungnya lebih kecil."
+        },
+        {
+          "english": "this bird has a light brown neck, and a pointed black bill.",
+          "indo": "burung ini memiliki leher berwarna coklat muda, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "this bird, mostly hidden by its nest, has a black back and an orange throat and superciliary.",
+          "indo": "burung ini, sebagian besar tersembunyi di balik sarangnya, memiliki punggung berwarna hitam dan tenggorokan berwarna oranye serta superciliary."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0047_133955.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a white belly and black wings with a yellow throat.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap berwarna hitam dengan tenggorokan berwarna kuning."
+        },
+        {
+          "english": "a small bird with black wings, a blue and black side, and white throat, breast and belly.",
+          "indo": "seekor burung kecil dengan sayap hitam, sisi biru dan hitam, serta tenggorokan, dada dan perut berwarna putih."
+        },
+        {
+          "english": "this small bird has black on its back and white on its belly.",
+          "indo": "burung kecil ini memiliki warna hitam di punggungnya dan putih di perutnya."
+        },
+        {
+          "english": "this bird is black with red on its chest and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan warna merah pada dadanya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a white belly with a yellow neck and black wings, tail, and head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan leher kuning dan sayap, ekor, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird is black with blue and has a very short beak.",
+          "indo": "burung ini berwarna hitam biru dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with yellow belly and breast and black back and the bill is black and short",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna kuning serta punggung berwarna hitam dan paruhnya berwarna hitam dan pendek"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly and black wings with a blue splotch.",
+          "indo": "burung ini mempunyai perut berwarna putih dan sayap berwarna hitam dengan bercak biru."
+        },
+        {
+          "english": "this bird is small in size, has a white belly, black crown and wings, with a small bill.",
+          "indo": "Burung ini berukuran kecil, perutnya berwarna putih, mahkota dan sayapnya berwarna hitam, serta paruhnya kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0049_132965.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has black throat, white breast and belly with gray wings and black rectrices.",
+          "indo": "burung itu memiliki tenggorokan hitam, dada dan perut putih dengan sayap abu-abu dan rectrices  hitam."
+        },
+        {
+          "english": "a medium bird with black rectrices and wings, a copper throat, and a white belly.",
+          "indo": "burung berukuran sedang dengan rectrices  dan sayap hitam, tenggorokan tembaga, dan perut putih."
+        },
+        {
+          "english": "a large black bird with a white belly and crown.",
+          "indo": "seekor burung hitam besar dengan perut dan mahkota berwarna putih."
+        },
+        {
+          "english": "this large bird is predominately dark gray with a russet patch at its throat, and a white abdomen and breast.",
+          "indo": "burung besar ini didominasi warna abu-abu tua dengan bercak coklat kemerahan di tenggorokannya, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a bright white belly and a rufous colored throat as well as a small white patch atop the head.",
+          "indo": "burung ini memiliki perut berwarna putih cerah dan tenggorokan berwarna kemerahan serta bercak putih kecil di atas kepala."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is white and has spots of gray",
+          "indo": "Burung ini mempunyai perut yang berwarna putih dan terdapat bintik-bintik berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a white belly with brown feathers and a red cheek patch.",
+          "indo": "burung ini memiliki perut berwarna putih dengan bulu berwarna coklat dan bercak merah di pipi."
+        },
+        {
+          "english": "a large white bodied bird with a long wingspan and an orange beak.",
+          "indo": "seekor burung besar bertubuh putih dengan rentang sayap panjang dan paruh berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0050_134054.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird is round with a green crown and white belly.",
+          "indo": "burung itu berbentuk bulat dengan mahkota berwarna hijau dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white belly, gray secondaries, an orange superciliary and black cheek patch.",
+          "indo": "burung ini mempunyai perut berwarna putih, bulu sekunder berwarna abu-abu, superciliary berwarna jingga, dan bercak pipi berwarna hitam."
+        },
+        {
+          "english": "the bird has a white belly with gray striped wings and gray, red, and white head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap bergaris abu-abu dan kepala berwarna abu-abu, merah, dan putih."
+        },
+        {
+          "english": "a bird with a white belly, a blue crown with a red stripe and a blue to grey faded wings.",
+          "indo": "burung dengan perut putih, mahkota biru bergaris merah, dan sayap pudar biru hingga abu-abu."
+        },
+        {
+          "english": "this small bird has a beak, with a brown cheek patch and a bluish grey crown.",
+          "indo": "Burung kecil ini memiliki paruh, bercak pipi berwarna coklat, dan mahkota berwarna abu-abu kebiruan."
+        },
+        {
+          "english": "this bird has a large breast, a very small bill, and a red throat.",
+          "indo": "burung ini memiliki dada yang besar, paruh yang sangat kecil, dan tenggorokan yang berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a brown cheek patch and a white breast.",
+          "indo": "burung ini memiliki bercak pipi berwarna coklat dan dada berwarna putih."
+        },
+        {
+          "english": "this multi-colored bird has a white belly but a teal blue crown and rusty red cheek patch.",
+          "indo": "burung beraneka warna ini memiliki perut berwarna putih tetapi mahkota berwarna biru kehijauan dan pipi berwarna merah berkarat."
+        },
+        {
+          "english": "this small brown and white bird has a pale breast and russet accents on its cheeks.",
+          "indo": "burung kecil berwarna coklat dan putih ini memiliki dada pucat dan aksen coklat kemerahan di pipinya."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0052_133055.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this little bird has a white belly and breast, black crown, and brown wing.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih, mahkota berwarna hitam, dan sayap berwarna coklat."
+        },
+        {
+          "english": "the bird has a white belly and breast with a brown patch on its cheek and throat area.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bercak coklat di daerah pipi dan tenggorokannya."
+        },
+        {
+          "english": "this is a bird with a white belly, black wings and a brown head.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan kepala coklat."
+        },
+        {
+          "english": "this little bird has a white belly and breast with a gray wing and white wingbar.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna putih dengan sayap berwarna abu-abu dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this colorful bird has a short black bill, a white breast, belly & eyebrow, and an orange throat.",
+          "indo": "burung berwarna-warni ini memiliki paruh pendek berwarna hitam, dada, perut & alis berwarna putih, serta tenggorokan berwarna jingga."
+        },
+        {
+          "english": "this bird is brown with red and blue and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna merah dan biru serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this bird is white, brown, and black in color, with a very small beak.",
+          "indo": "burung ini berwarna putih, coklat, dan hitam, dengan paruh yang sangat kecil."
+        },
+        {
+          "english": "this small bird has a blue crown, bright around the eyes, and a white belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna biru, sekeliling mata cerah, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has brown wings, with a white belly and black back, along with a head that's adorned with red and black, and a short beak.",
+          "indo": "Burung ini mempunyai sayap berwarna coklat, perut berwarna putih dan punggung berwarna hitam, kepala berhiaskan warna merah dan hitam, serta paruh yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0054_133287.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a brown bird with spread brown wings and orange throat and orange spots on its flank has a white crown and blue nape.",
+          "indo": "burung berwarna coklat dengan sayap coklat terbentang dan tenggorokan berwarna oranye serta bintik oranye di sisinya memiliki mahkota berwarna putih dan tengkuk berwarna biru."
+        },
+        {
+          "english": "this small bird has a tri-colored head wa blue cap, a white forehead and a brown chin and neck.",
+          "indo": "Burung kecil ini memiliki kepala tiga warna dengan topi biru, dahi berwarna putih, serta dagu dan leher berwarna coklat."
+        },
+        {
+          "english": "this bird is white, blue, red and black in color with a black beak and black eye rings.",
+          "indo": "burung ini berwarna putih, biru, merah dan hitam dengan paruh hitam dan cincin mata hitam."
+        },
+        {
+          "english": "this bird is white with black on its wings and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan sayapnya berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white crown, grey nape, orange throat, and its belly is white with tinges of grey, while its flank is tinged orange on white.",
+          "indo": "Burung ini memiliki mahkota berwarna putih, tengkuk berwarna abu-abu, tenggorokan berwarna oranye, perutnya berwarna putih dengan semburat abu-abu, sedangkan bagian panggulnya berwarna oranye di atas putih."
+        },
+        {
+          "english": "this bird has a blue crown, brown cheek patch, white breast, belly and abdomen and gray wings and tail.",
+          "indo": "burung ini mempunyai mahkota berwarna biru, bercak pipi berwarna coklat, dada, perut dan perut berwarna putih serta sayap dan ekor berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has an orange throat",
+          "indo": "burung ini memiliki sayap berwarna abu-abu dan tenggorokan berwarna oranye"
+        },
+        {
+          "english": "a dark brown bird with a white belly, blue crown and a red throat.",
+          "indo": "burung berwarna coklat tua dengan perut putih, mahkota biru dan tenggorokan merah."
+        },
+        {
+          "english": "this bird is a smaller bird, the head is multi colored with orange and blue it has a white belly and the wings are a dark color.",
+          "indo": "burung ini merupakan burung yang berukuran lebih kecil, kepalanya beraneka warna dengan warna jingga dan biru, perutnya berwarna putih dan sayapnya berwarna gelap."
+        },
+        {
+          "english": "this bird is white and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna putih coklat, dan mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0055_133624.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has two large wingbars that are brown.",
+          "indo": "burung ini memiliki dua garis sayap besar berwarna coklat."
+        },
+        {
+          "english": "this bird had dark a dark brown crest, wings, and tail, and it has light brown rump and light brown ring around its nape.",
+          "indo": "burung ini memiliki jambul, sayap, dan ekor berwarna coklat tua, serta pantat berwarna coklat muda dan cincin coklat muda di sekitar tengkuknya."
+        },
+        {
+          "english": "a meduim sized bird with a multicolored body, and small flat bill",
+          "indo": "burung berukuran sedang dengan tubuh beraneka warna, dan paruh kecil pipih"
+        },
+        {
+          "english": "a large bird with a large wingspan, and a black and brown colored feathers.",
+          "indo": "burung besar dengan rentang sayap besar, dan bulu berwarna hitam coklat."
+        },
+        {
+          "english": "this bird is black and brown in color with a very stubby beak, and dark eye rings.",
+          "indo": "burung ini berwarna hitam kecokelatan dengan paruh yang sangat gemuk, dan lingkaran mata berwarna gelap."
+        },
+        {
+          "english": "this bird has wings that are black with a red throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan tenggorokan berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird has wings that are black and has a red throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna merah"
+        },
+        {
+          "english": "a dark green bird with red throat and yellow tail with black ends.",
+          "indo": "burung berwarna hijau tua dengan tenggorokan merah dan ekor kuning dengan ujung hitam."
+        },
+        {
+          "english": "this bird has a red and blue crown with a bluish colored backside",
+          "indo": "burung ini mempunyai mahkota berwarna merah dan biru dengan bagian belakang berwarna kebiruan"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0056_133921.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a bird with a short, hooked bill, brown breast, white belly, white wingbars with brown coverts, and a large head",
+          "indo": "burung dengan paruh pendek bengkok, dada berwarna coklat, perut berwarna putih, tulang sayap berwarna putih dengan bulu berwarna coklat, dan kepala besar"
+        },
+        {
+          "english": "this bird is white and brown in color with a small curved beak and brown eye ring.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil melengkung dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a black head, throat and rectrices, with white and grey on its breast, white on its belly, and black secondaries and coverts with white tips.",
+          "indo": "Burung ini memiliki kepala, tenggorokan, dan rectrices berwarna hitam, dengan warna putih dan abu-abu di bagian dada, warna putih di bagian perut, serta bulu sekunder dan bulu berwarna hitam dengan ujung berwarna putih."
+        },
+        {
+          "english": "this medium sized bird has a white breast and a short curved beak.",
+          "indo": "burung berukuran sedang ini memiliki dada berwarna putih dan paruh pendek melengkung."
+        },
+        {
+          "english": "the bird has a black crown, white breast and belly and a black back.",
+          "indo": "burung itu memiliki mahkota berwarna hitam, dada dan perut berwarna putih, serta punggung berwarna hitam."
+        },
+        {
+          "english": "this small hawk like bird has a short but slightly hooked beak, a dark head and body with a lighter colored breast and belly.",
+          "indo": "Burung kecil mirip elang ini memiliki paruh pendek namun agak bengkok, kepala dan badan berwarna gelap dengan dada dan perut berwarna lebih terang."
+        },
+        {
+          "english": "the bird has a grey breast, black back and small black bill.",
+          "indo": "burung ini memiliki dada berwarna abu-abu, punggung berwarna hitam, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a portly bird with a white belly and brown everywhere else that has a short head.",
+          "indo": "seekor burung gemuk dengan perut berwarna putih dan coklat di bagian lainnya yang memiliki kepala pendek."
+        },
+        {
+          "english": "this bird has a black and white bill with a black eye and a white belly.",
+          "indo": "burung ini mempunyai paruh berwarna hitam putih dengan mata hitam dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0058_133060.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has two long wingbars and a small crown.",
+          "indo": "burung itu memiliki dua garis sayap yang panjang dan sebuah mahkota kecil."
+        },
+        {
+          "english": "this bird is black, brown, and white and has a very short beak.",
+          "indo": "burung ini berwarna hitam, coklat, dan putih serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a big bird has grey feathers and a white spot on the front of it's head.",
+          "indo": "seekor burung besar mempunyai bulu berwarna abu-abu dan bintik putih di bagian depan kepalanya."
+        },
+        {
+          "english": "a small dark colored bird, its cap is white in the front 1/3 and black in the back 2/3, the rest of the head is brown.",
+          "indo": "burung kecil berwarna gelap, tutupnya 1/3 depan berwarna putih, 2/3 belakang hitam, sisa kepalanya berwarna coklat."
+        },
+        {
+          "english": "large bird with black wings, a whitish gray body, and a black and white head",
+          "indo": "burung besar bersayap hitam, badan abu-abu keputihan, dan kepala hitam putih"
+        },
+        {
+          "english": "a large colorful bird, with black wings and crown, and a white eyebrow.",
+          "indo": "seekor burung besar berwarna-warni, dengan sayap dan mahkota hitam, dan alis putih."
+        },
+        {
+          "english": "this bird has wings that are black and had a red nape",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tengkuknya berwarna merah"
+        },
+        {
+          "english": "a black and white bird with red around its nape, it has a small pointed bill and wide wingspan.",
+          "indo": "burung berwarna hitam putih dengan warna merah di sekitar tengkuknya, paruhnya kecil runcing dan lebar sayapnya lebar."
+        },
+        {
+          "english": "this bird has a white crown and a red chest",
+          "indo": "burung ini mempunyai mahkota berwarna putih dan dada berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0060_133280.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has large black eyes with a light eyering, a burgundy cheek patch, and a belly that is tan and white.",
+          "indo": "burung ini mempunyai mata hitam besar dengan cincin mata tipis, pipi berwarna merah anggur, dan perut berwarna coklat kecokelatan dan putih."
+        },
+        {
+          "english": "this colorful bird has a white head and face, a light orange throat, and a white belly and tarsus.",
+          "indo": "burung berwarna-warni ini memiliki kepala dan wajah berwarna putih, tenggorokan berwarna oranye muda, serta perut dan tarsus berwarna putih."
+        },
+        {
+          "english": "short in length this fluffy looking this brownish orange looking bird has a multi colored nape with a tiny bill.",
+          "indo": "panjangnya pendek, burung yang tampak berbulu halus ini tampak berwarna jingga kecoklatan, memiliki tengkuk multi-warna dengan paruh kecil."
+        },
+        {
+          "english": "this is a small bird with a white belly, a tan breast, a red cheek patch, a dark grey crown, and a small bill with a patch of tan just before the bill.",
+          "indo": "ini adalah burung kecil dengan perut putih, dada cokelat, bercak merah di pipi, mahkota abu-abu tua, dan paruh kecil dengan bercak cokelat tepat sebelum paruh."
+        },
+        {
+          "english": "this is a tan bird with a blue crown and burnt orange nape.",
+          "indo": "ini adalah burung berwarna coklat dengan mahkota biru dan tengkuk oranye terbakar."
+        },
+        {
+          "english": "this bird is white with red and has a very short beak.",
+          "indo": "burung ini berwarna putih merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a black eyering, white belly and tan breast.",
+          "indo": "burung ini memiliki cincin mata hitam, perut putih, dan dada berwarna coklat."
+        },
+        {
+          "english": "this small bird has a red throat, a light orange and grey chest, and white and grey belly with brown and grey coverts.",
+          "indo": "burung kecil ini memiliki tenggorokan berwarna merah, dada berwarna oranye muda dan abu-abu, serta perut berwarna putih dan abu-abu dengan bulu berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this multicolored bird has black eyes and crown, rust colored throat and collar, peach colored breast, white belly and abdomen, and has brown wings and tail.",
+          "indo": "Burung beraneka warna ini memiliki mata dan mahkota berwarna hitam, tenggorokan dan kerah berwarna karat, dada berwarna persik, perut dan perut berwarna putih, serta memiliki sayap dan ekor berwarna coklat."
+        },
+        {
+          "english": "this bird is white with red and has a very short beak.",
+          "indo": "burung ini berwarna putih merah dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0061_133259.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird with a dark brown tail and wings, with a squat black bill, a white belly and breast, and a red-brown head, as well as a cream crown.",
+          "indo": "burung kecil dengan ekor dan sayap berwarna coklat tua, paruh jongkok berwarna hitam, perut dan dada berwarna putih, kepala berwarna merah kecoklatan, serta mahkota berwarna krem."
+        },
+        {
+          "english": "this bird is brown and white in color with a sharp curled beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh melengkung tajam dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "a large bird with a black and white crown, brown throat and white belly.",
+          "indo": "burung besar dengan mahkota hitam putih, tenggorokan coklat dan perut putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is brown and white in color with a small beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh kecil, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a white belly and chest, greyish brown rectrices and wings, and brown cheek patches.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, rectrices  dan sayap berwarna coklat keabu-abuan, serta bercak di pipi berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white bell;y",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai lonceng berwarna putih;y"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has a bill that is short and the breast is white.",
+          "indo": "burung tersebut mempunyai paruh yang pendek dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0062_134383.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird is black on its back and wings and tan on its breast and belly.",
+          "indo": "burung ini berwarna hitam pada punggung dan sayapnya serta berwarna coklat pada bagian dada dan perutnya."
+        },
+        {
+          "english": "this small bird has a blue body and a white belly with a brown throat and a very small, thin bill.",
+          "indo": "burung kecil ini memiliki tubuh berwarna biru dan perut berwarna putih dengan tenggorokan berwarna coklat serta paruh yang sangat kecil dan tipis."
+        },
+        {
+          "english": "a small bird with brown throat, white breast and belly, and black crown, back, wings and tail.",
+          "indo": "burung kecil dengan tenggorokan berwarna coklat, dada dan perut berwarna putih, serta mahkota, punggung, sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has a short, stout beak and a white underbelly.",
+          "indo": "burung ini memiliki paruh yang pendek dan kokoh serta perut bagian bawah berwarna putih."
+        },
+        {
+          "english": "a bird with a cream belly and orange throat with a short black beak.",
+          "indo": "seekor burung dengan perut berwarna krem ​​​​dan tenggorokan berwarna oranye dengan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this is a small bird, with dark blue plumage on the back, white plumage on the belly, and a small amount of auburn feathers around the face and beak.",
+          "indo": "Ini adalah burung kecil, dengan bulu biru tua di punggung, bulu putih di perut, dan sedikit bulu kemerahan di sekitar wajah dan paruh."
+        },
+        {
+          "english": "this bird has a white belly, a black head and wing and a brown throat.",
+          "indo": "burung ini memiliki perut berwarna putih, kepala dan sayap berwarna hitam, serta tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a very small head and bill",
+          "indo": "burung ini mempunyai kepala dan paruh yang sangat kecil"
+        },
+        {
+          "english": "this bird is brown and black in color, and has a black beak.",
+          "indo": "burung ini berwarna coklat kehitaman, serta mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0063_133852.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has a black body and red rump.",
+          "indo": "burung itu memiliki tubuh hitam dan pantat merah."
+        },
+        {
+          "english": "the bird has has a dark brown to black colored crown and coverts with a small patch of brown near its rectrices.",
+          "indo": "burung ini memiliki mahkota berwarna coklat tua sampai hitam dan bulu dengan bercak kecil berwarna coklat di dekat rectrices-nya."
+        },
+        {
+          "english": "the bird has grey wings and a red tail with blue feathers on the body",
+          "indo": "burung ini memiliki sayap berwarna abu-abu dan ekor berwarna merah dengan bulu berwarna biru di badannya"
+        },
+        {
+          "english": "a bird with a brown rump, blue back, and gray wings.",
+          "indo": "seekor burung dengan pantat berwarna coklat, punggung biru, dan sayap abu-abu."
+        },
+        {
+          "english": "this is a greyish bird with a light brown rump, and a black crown.",
+          "indo": "ini adalah burung keabu-abuan dengan pantat coklat muda, dan mahkota hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a orange rumpp",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai pantat berwarna jingga"
+        },
+        {
+          "english": "this bird has a red rump, brown and cream wings, and a navy blue back.",
+          "indo": "burung ini memiliki pantat berwarna merah, sayap berwarna coklat dan krem, serta punggung berwarna biru laut."
+        },
+        {
+          "english": "this bird is black with a rusty red color covering its vent area.",
+          "indo": "burung ini berwarna hitam dengan warna merah berkarat menutupi area lubang anginnya."
+        },
+        {
+          "english": "the bird has two large brown wingbars that are long.",
+          "indo": "burung ini memiliki dua garis sayap besar berwarna coklat yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0065_133858.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "small bird with yellow belly and breast, the back and primary are dark blue, face is a mix of orange and blue, head is small compared to it's long body.",
+          "indo": "burung kecil dengan perut dan dada berwarna kuning, punggung dan pangkal berwarna biru tua, muka campuran jingga dan biru, kepala kecil dibandingkan badannya yang panjang."
+        },
+        {
+          "english": "this medium sized bird has white feathers on the belly and long black feathers on its wing but is orange around its beak.",
+          "indo": "Burung berukuran sedang ini memiliki bulu berwarna putih pada bagian perut dan bulu hitam panjang pada sayapnya namun berwarna jingga pada sekitar paruhnya."
+        },
+        {
+          "english": "the bird has a yellow breast and belly and orange crown.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta mahkota berwarna oranye."
+        },
+        {
+          "english": "this bird has a brown belly, breast, and crown with a black back and wing.",
+          "indo": "burung ini memiliki perut, dada, dan mahkota berwarna coklat dengan punggung dan sayap berwarna hitam."
+        },
+        {
+          "english": "this is a tiny bird with brown on the throat and crown and blue wings.",
+          "indo": "ini adalah burung kecil dengan warna coklat di tenggorokan dan mahkota serta sayap biru."
+        },
+        {
+          "english": "the slanted eyerings on the the bird stand out on the bronze color",
+          "indo": "cincin mata miring pada burung itu menonjol dengan warna perunggu"
+        },
+        {
+          "english": "this bird is black with tan and has a very short beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a tan breast with a dark blue wingbar and back.",
+          "indo": "burung ini memiliki dada berwarna coklat dengan garis sayap dan punggung berwarna biru tua."
+        },
+        {
+          "english": "this bird is brown and black in color, with a small beak.",
+          "indo": "burung ini berwarna coklat kehitaman, dengan paruh yang kecil."
+        },
+        {
+          "english": "this bird has wings that are blue and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai perut yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0066_133206.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a bird covered in a rich brown with a small bill, white superciliary and red undertail coverts.",
+          "indo": "seekor burung yang dibulu penutupi warna coklat tua dengan paruh kecil, superciliary putih dan bulu ekor bawah berwarna merah."
+        },
+        {
+          "english": "a small black bird with uppertail coverts, and a small black beak.",
+          "indo": "seekor burung hitam kecil dengan bulu penutup ekor atas, dan paruh hitam kecil."
+        },
+        {
+          "english": "this is a bird with black wings and a white crown on its head.",
+          "indo": "ini adalah burung dengan sayap hitam dan mahkota putih di kepalanya."
+        },
+        {
+          "english": "this bird has a red nape, dark and brown feathers on the wingbars",
+          "indo": "burung ini memiliki tengkuk berwarna merah, bulu berwarna gelap dan coklat pada bagian sayapnya"
+        },
+        {
+          "english": "this is a shiny blackish brown bird, with lighter cheek patches and under belly.",
+          "indo": "ini adalah burung berwarna coklat kehitaman mengkilat, dengan bercak pipi lebih terang dan di bawah perut."
+        },
+        {
+          "english": "this dark brown bird has brown uppertail coverts and a white crown.",
+          "indo": "burung berwarna coklat tua ini memiliki bulu ekor bagian atas berwarna coklat dan mahkota berwarna putih."
+        },
+        {
+          "english": "this bird has a dark brown body, wings and crown with a reddish-brown undertail covert.",
+          "indo": "burung ini memiliki tubuh, sayap, dan mahkota berwarna coklat tua dengan bulu bagian bawah berwarna coklat kemerahan."
+        },
+        {
+          "english": "this bird has a white crown, and a long pointed black bill.",
+          "indo": "burung ini mempunyai mahkota berwarna putih, dan paruh panjang berwarna hitam dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white nape",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tengkuknya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0068_134236.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has black wings with a white belly with a reddish outlines and a reddish head.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dengan perut berwarna putih dengan bulu tepi kemerahan dan kepala berwarna kemerahan."
+        },
+        {
+          "english": "the bill is quite short compared the rest of the head, no wingbars are visible, and the color of the body is mostly black.",
+          "indo": "paruhnya cukup pendek dibandingkan bagian kepala lainnya, tidak ada garis sayap yang terlihat, dan warna badannya sebagian besar hitam."
+        },
+        {
+          "english": "a medium sized bird with black wings and a small flat bill",
+          "indo": "burung berukuran sedang dengan sayap hitam dan paruh pipih kecil"
+        },
+        {
+          "english": "this small black bird has brown accents on its head, throat, and abdomen.",
+          "indo": "burung kecil berwarna hitam ini memiliki aksen coklat di kepala, tenggorokan, dan perutnya."
+        },
+        {
+          "english": "a brown bird that has pale brown color on its ventral side and has brown head, wings and tail.",
+          "indo": "burung berwarna coklat yang mempunyai warna coklat pucat pada sisi perutnya dan mempunyai kepala, sayap dan ekor berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "a bird with a black bill and a white and black throat with a brown and white belly.",
+          "indo": "burung dengan paruh hitam dan tenggorokan putih hitam dengan perut coklat putih."
+        },
+        {
+          "english": "this bird has a red throat, blue-green wings and a white belly.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah, sayap berwarna biru kehijauan, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is black with brown and has a very short beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black with brown and has a very short beak.",
+          "indo": "burung ini berwarna hitam kecoklatan dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0069_133521.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a bird with a very small needlelike beak, red nape, and white breast",
+          "indo": "seekor burung dengan paruh sangat kecil seperti jarum, tengkuk merah, dan dada putih"
+        },
+        {
+          "english": "this is a brown bird with a mix of white in the wings and a white around the neck.",
+          "indo": "ini adalah burung berwarna coklat dengan campuran warna putih pada sayap dan warna putih pada bagian leher."
+        },
+        {
+          "english": "this bird is brown and white in color with a small pointy beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh kecil runcing dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a brown bird with a white belly and small brown feet",
+          "indo": "ini adalah burung berwarna coklat dengan perut putih dan kaki kecil berwarna coklat"
+        },
+        {
+          "english": "this bird is really small and has a body consisting of a shift between brown and black, with a white belly and stubby legs.",
+          "indo": "Burung ini berukuran sangat kecil dan memiliki tubuh yang terdiri dari peralihan antara coklat dan hitam, dengan perut berwarna putih dan kaki yang gemuk."
+        },
+        {
+          "english": "this particular bird has a white belly and brown secondaries and brown throat",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna coklat serta tenggorokan berwarna coklat"
+        },
+        {
+          "english": "this bird's orange head has a black crown, and the bird also has a white belly.",
+          "indo": "Kepala burung ini berwarna jingga, mahkotanya berwarna hitam, dan perut burung ini juga berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white and brown in color, and has a very small beak.",
+          "indo": "burung ini berwarna putih kecokelatan, serta mempunyai paruh yang sangat kecil."
+        },
+        {
+          "english": "this bird has brown feathered wings and a copper colored head as well as a short stubby black beak.",
+          "indo": "burung ini mempunyai sayap berbulu coklat dan kepala berwarna tembaga serta paruh pendek pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0071_133742.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly, brown wings, a brown face with a brown crown.",
+          "indo": "ini adalah burung dengan perut putih, sayap coklat, muka coklat dengan mahkota coklat."
+        },
+        {
+          "english": "this bird has a white belly, black wings and a brown throat.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap hitam, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this is a small bird with a black head, a white breast and a short black bill.",
+          "indo": "ini adalah burung kecil dengan kepala hitam, dada putih dan paruh hitam pendek."
+        },
+        {
+          "english": "the bird has a black eyering and a white breast and belly.",
+          "indo": "burung itu memiliki cincin mata hitam dan dada serta perut berwarna putih."
+        },
+        {
+          "english": "this small, plump bird is predominately gray, with a black head and a white throat, breast, and abdomen.",
+          "indo": "burung kecil dan gempal ini sebagian besar berwarna abu-abu, dengan kepala berwarna hitam dan tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black with a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan perut berwarna putih"
+        },
+        {
+          "english": "dull colored bird with white underbelly, brown wings, and a small head compared to the rest of its body.",
+          "indo": "burung berwarna kusam dengan perut putih, sayap coklat, dan kepala kecil dibandingkan bagian tubuhnya yang lain."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bill of the bird is small, black, and pointed, and the body of the bird is a primarily white, with brown and orange tones throughout.",
+          "indo": "paruh burung itu kecil, hitam, dan runcing, dan tubuh burung itu sebagian besar berwarna putih, dengan corak coklat dan oranye di seluruh bagiannya."
+        },
+        {
+          "english": "this bird has a white belly, a black crown, and a short, black beak.",
+          "indo": "burung ini memiliki perut berwarna putih, mahkota berwarna hitam, dan paruh pendek berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0073_133116.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the brown and tan bird has a more colorful teal gray crown and reddish brown cheeks with a small beak covered in sand.",
+          "indo": "burung berwarna coklat kecokelatan memiliki mahkota berwarna abu-abu kehijauan yang lebih berwarna dan pipi berwarna coklat kemerahan dengan paruh kecil yang tertutup pasir."
+        },
+        {
+          "english": "a small bird with a head smaller than its body, it is brown and tan whit dark brown around its eyes.",
+          "indo": "burung kecil dengan kepala lebih kecil dari tubuhnya, warnanya coklat dan coklat tua di sekitar matanya."
+        },
+        {
+          "english": "this bird is brown with black eyes and has a very short beak.",
+          "indo": "burung ini berwarna coklat, bermata hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the crown is black, the cheek patch and throat are brown, the wings and tail are black.",
+          "indo": "ubun-ubun berwarna hitam, bagian pipi dan tenggorokan berwarna coklat, sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird is mostly tan with the exception darker brown coloring on the lower portion of the head and dark gray wind feathers.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan pengecualian warna coklat tua di bagian bawah kepala dan bulu angin abu-abu tua."
+        },
+        {
+          "english": "sand belly colored bird with brown throat and black crown.",
+          "indo": "burung berwarna perut pasir dengan tenggorokan coklat dan mahkota hitam."
+        },
+        {
+          "english": "a small bird containing a grey head nape and face, brown along its cheek and throat, and light grey and white along its breast and belly.",
+          "indo": "seekor burung kecil dengan kepala dan muka berwarna abu-abu, berwarna coklat di sepanjang pipi dan tenggorokannya, serta berwarna abu-abu muda dan putih di sepanjang dada dan perutnya."
+        },
+        {
+          "english": "a small bird with brown and black around its head with black wings and tail feathers.",
+          "indo": "seekor burung kecil dengan warna coklat dan hitam di sekeliling kepalanya dengan sayap dan bulu ekor berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown and gray",
+          "indo": "burung ini memiliki perut berwarna coklat kecokelatan dan abu-abu"
+        },
+        {
+          "english": "this bird has a brown crown as well as a brown rump",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan pantat berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0075_134516.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a black crown and grey wings.",
+          "indo": "burung ini memiliki perut berwarna putih dengan mahkota berwarna hitam dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a black crown, a white belly, and a brown wing.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, perut berwarna putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "the body of the bird is white with grey wings and a rust colored head.",
+          "indo": "badan burung berwarna putih dengan sayap berwarna abu-abu dan kepala berwarna karat."
+        },
+        {
+          "english": "this bird is white and brown in color with a sharp beak, and dark eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh runcing, dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "this is a large bird with a brown throat, white breast, and grey wings.",
+          "indo": "ini adalah burung besar dengan tenggorokan berwarna coklat, dada putih, dan sayap abu-abu."
+        },
+        {
+          "english": "this bird has a white belly, chest and vent, grey and white secondaries, a black crown and nape, and red face.",
+          "indo": "burung ini mempunyai perut, dada dan lubang kloaka berwarna putih, bulu sekunder berwarna abu-abu dan putih, mahkota dan tengkuk berwarna hitam, serta muka berwarna merah."
+        },
+        {
+          "english": "the crown is brown the wide coverts are light brown while the belly is white",
+          "indo": "ubun-ubunnya berwarna coklat, bulunya yang lebar berwarna coklat muda, sedangkan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is bigger with a big wing span, it has a white belly and the rest of it is black, grey, and white.",
+          "indo": "burung ini berukuran lebih besar dengan rentang sayap yang besar, perutnya berwarna putih dan selebihnya berwarna hitam, abu-abu, dan putih."
+        },
+        {
+          "english": "this bird is white and brown in color, and has a black beak.",
+          "indo": "burung ini berwarna putih coklat, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "a bird with large wings with a red head and white breast.",
+          "indo": "seekor burung bersayap besar dengan kepala merah dan dada putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0081_134119.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a small bird with a brown breast, dark blue wings, and a shot yellow beak",
+          "indo": "seekor burung kecil dengan dada berwarna coklat, sayap biru tua, dan paruh berwarna kuning"
+        },
+        {
+          "english": "the belly of the bird is tan, its throat is tan, its wings are gray and its bill is yellow.",
+          "indo": "perut burung berwarna kecokelatan, tenggorokannya kecokelatan, sayapnya berwarna abu-abu, dan paruhnya berwarna kuning."
+        },
+        {
+          "english": "this small bird has a dark brown body,a cream colored underbelly, and a small flat bill.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna coklat tua, perut berwarna krem, dan paruh kecil yang rata."
+        },
+        {
+          "english": "this is a brown bird with a grey wing and head.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this small bird features brown and orange plumage, as well as beady, black eyes.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat dan oranye, serta mata hitam seperti manik-manik."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has grey and white secondaries, grey and blue coverts, and a cream colored breast.",
+          "indo": "burung ini memiliki bulu sekunder berwarna abu-abu dan putih, bulu berwarna abu-abu dan biru, serta dada berwarna krem."
+        },
+        {
+          "english": "this bird is brown and black in color, with a light brown beak.",
+          "indo": "burung ini berwarna coklat kehitaman, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this small bird has a small blunt beak with a tan belly and grey head and wings.",
+          "indo": "burung kecil ini memiliki paruh kecil tumpul dengan perut berwarna coklat dan kepala serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0083_133771.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this is a dark gray bird with a light brown belly and tiny, sharp claws.",
+          "indo": "ini adalah burung abu-abu tua dengan perut berwarna coklat muda dan cakar kecil yang tajam."
+        },
+        {
+          "english": "this bird is brown, red, and black and has a very short beak.",
+          "indo": "burung ini berwarna coklat, merah, dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the small brown bird bird has lots of shades of brown on it.",
+          "indo": "burung burung kecil berwarna coklat memiliki banyak corak warna coklat di atasnya."
+        },
+        {
+          "english": "bird with brown throat, feet, and black eye and crown, and brown breast, belly and abdomen",
+          "indo": "burung dengan tenggorokan, kaki, dan mata serta mahkota berwarna coklat, serta dada, perut dan perut berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with black on its back and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan punggung berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with an orange and brown underbelly.",
+          "indo": "seekor burung kecil dengan perut berwarna oranye dan coklat."
+        },
+        {
+          "english": "this bird is tan with red and has a very short beak.",
+          "indo": "burung ini berwarna coklat kemerahan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this brown bird has a black crown and cheek patch as well as a sharp brown bill.",
+          "indo": "burung berwarna coklat ini memiliki mahkota dan bercak pipi berwarna hitam serta paruh berwarna coklat yang runcing."
+        },
+        {
+          "english": "a bird with brown belly and breast, the rectrices are black and black tarsus and feet",
+          "indo": "burung dengan perut dan dada berwarna coklat, tarsus dan kaki rectrices  berwarna hitam dan hitam"
+        },
+        {
+          "english": "this bird has a brown belly and a black cheek patch.",
+          "indo": "burung ini memiliki perut berwarna coklat dan bercak hitam di pipi."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0084_133974.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "medium sized bird with an off white underside, brown wings and tail, orange cheeks, black eyes.",
+          "indo": "burung berukuran sedang dengan bagian bawah berwarna putih pucat, sayap dan ekor berwarna coklat, pipi oranye, mata hitam."
+        },
+        {
+          "english": "small white and brown bird with brown wings, small beak and medium length tarsus",
+          "indo": "burung kecil berwarna putih coklat dengan sayap coklat, paruh kecil dan tarsus panjang sedang"
+        },
+        {
+          "english": "this bird has a white belly and chest, along with a black, red, and yellow head.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, serta kepala berwarna hitam, merah, dan kuning."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a long bird with brown neck, black head, white beak and belly, and black wings and tail.",
+          "indo": "burung panjang dengan leher coklat, kepala hitam, paruh dan perut putih, serta sayap dan ekor hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and gray breast with orange cheek patches",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna abu-abu dengan bercak oranye di pipi"
+        },
+        {
+          "english": "a bird with a dark head and back, red throat and white belly.",
+          "indo": "seekor burung dengan kepala dan punggung berwarna gelap, tenggorokan merah dan perut putih."
+        },
+        {
+          "english": "the bird has a small black bill, white breast and belly and black back.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam, dada dan perut berwarna putih, serta punggung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a white crown and belly, with brown wings.",
+          "indo": "burung ini memiliki mahkota dan perut berwarna putih, dengan sayap berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0085_134338.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a metallic blue-black back and an orange throat whose color extends above the bill.",
+          "indo": "burung ini memiliki punggung berwarna biru kehitaman metalik dan tenggorokan berwarna jingga yang warnanya melebihi paruh."
+        },
+        {
+          "english": "this bird is black, brown, and white in color with a small black beak and black eye rings.",
+          "indo": "burung ini berwarna hitam, coklat, dan putih dengan paruh kecil berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a grey wing, blue back and a brown head.",
+          "indo": "ini adalah burung dengan sayap abu-abu, punggung biru dan kepala coklat."
+        },
+        {
+          "english": "this bird is a smaller bird with blackish grey wings and a blue hue to the wing feathers, it also has a reddish orange colored throat and face.",
+          "indo": "burung ini merupakan burung yang berukuran lebih kecil dengan sayap berwarna abu-abu kehitaman dan corak bulu sayap berwarna biru, juga memiliki tenggorokan dan muka berwarna jingga kemerahan."
+        },
+        {
+          "english": "this bird has a black crown, a black back, and white thighs",
+          "indo": "burung ini memiliki mahkota berwarna hitam, punggung berwarna hitam, dan paha berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow face",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mukanya berwarna kuning"
+        },
+        {
+          "english": "this particular bird has a belly that is black and gray and brown",
+          "indo": "burung ini memiliki perut yang berwarna hitam, abu-abu, dan coklat"
+        },
+        {
+          "english": "this bird is blue with orange and has a very short beak.",
+          "indo": "burung ini berwarna biru jingga dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a tiny blue and orange bird with a white leg and a short, pointy, black beak.",
+          "indo": "seekor burung kecil berwarna biru dan oranye dengan kaki putih dan paruh pendek, runcing, berwarna hitam."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a dark blue back.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan punggung berwarna biru tua."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0087_133294.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a medium sized bird with a cream belly and a large stout bill",
+          "indo": "seekor burung berukuran sedang dengan perut berwarna krem ​​​​dan paruh yang besar dan kokoh"
+        },
+        {
+          "english": "this bird has a short black bill, a black crown, and a white throat, breast, and belly.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, mahkota berwarna hitam, serta tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "a medium sized bird with a light brown under belly, a tiny beak, and long tail feathers.",
+          "indo": "burung berukuran sedang dengan perut bagian bawah berwarna coklat muda, paruh kecil, dan bulu ekor panjang."
+        },
+        {
+          "english": "this bird has a white belly, a brown throat and a black crown.",
+          "indo": "burung ini memiliki perut berwarna putih, tenggorokan berwarna coklat, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird that has tones of brown with a short pointed bill",
+          "indo": "burung berukuran sedang bernuansa coklat dengan paruh runcing pendek"
+        },
+        {
+          "english": "this is a large bird, with a white belly, and compared to its body, a short pointed bill.",
+          "indo": "ini adalah burung besar, dengan perut berwarna putih, dan dibandingkan dengan tubuhnya, paruhnya pendek dan runcing."
+        },
+        {
+          "english": "the bill is small and pointed, the breast and belly are light brown, and the throat and cheek are chestnut brown.",
+          "indo": "paruhnya kecil dan runcing, dada dan perutnya berwarna coklat muda, dan tenggorokan serta pipinya berwarna coklat kastanye."
+        },
+        {
+          "english": "a multicolored bird with a lighter tan breast and belly, brown throat and a black crown.",
+          "indo": "burung beraneka warna dengan dada dan perut berwarna coklat muda, tenggorokan coklat dan mahkota hitam."
+        },
+        {
+          "english": "a small bird with a red neck and a predominately white underside.",
+          "indo": "seekor burung kecil dengan leher merah dan bagian bawah didominasi warna putih."
+        },
+        {
+          "english": "this bird has an orange brown throat and nape, a black crown, and a tan underside.",
+          "indo": "burung ini memiliki tenggorokan dan tengkuk berwarna coklat jingga, mahkota berwarna hitam, dan bagian bawah berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0088_134188.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this small brown bird has a short black beak and smooth feathers.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh pendek berwarna hitam dan bulu halus."
+        },
+        {
+          "english": "this bird is brown and black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird that is covered in various shades of brown all over its body except for its face which has a few speckles of white on it, and its chest which is grey.",
+          "indo": "seekor burung kecil yang seluruh tubuhnya ditutupi berbagai warna coklat, kecuali wajahnya yang memiliki sedikit bintik putih, dan dadanya yang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown, a short hooked bill, and a black eye",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, paruh bengkok pendek, dan mata berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a small black beak and small feet",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam dan kaki kecil"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white eblly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan memiliki eblly berwarna putih"
+        },
+        {
+          "english": "little baby bird black eyes gray belly dark brown back and wings",
+          "indo": "bayi burung kecil mata hitam perut abu-abu punggung dan sayap coklat tua"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0089_133545.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird has thick wingbars that are large relative to the body.",
+          "indo": "burung ini memiliki garis sayap tebal yang relatif besar dibandingkan tubuhnya."
+        },
+        {
+          "english": "a gray bird is taking flight in the sky. the bird has amber color nape and a black and white crown.",
+          "indo": "seekor burung abu-abu sedang terbang di langit. burung ini memiliki tengkuk berwarna kuning dan mahkota berwarna hitam putih."
+        },
+        {
+          "english": "the bird is neutral in color and has a white breast with a small beak.",
+          "indo": "burung ini berwarna netral dan memiliki dada berwarna putih dengan paruh kecil."
+        },
+        {
+          "english": "this is a bird with rounded wings, a white breast, short tail and round head.",
+          "indo": "ini adalah burung dengan sayap membulat, dada berwarna putih, ekor pendek dan kepala bulat."
+        },
+        {
+          "english": "this is a smaller grew bird with short tail feathers and a brown throat, and it has a black crown.",
+          "indo": "ini adalah burung yang tumbuh lebih kecil dengan bulu ekor pendek dan tenggorokan berwarna coklat, serta memiliki mahkota berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and gray breasts and a brown throat",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna abu-abu serta tenggorokan berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a cream colored belly and breast, and a dark brown crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna krem, serta mahkota berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a red throat, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0090_133144.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "the bird had a large white breast in regards to its head size.",
+          "indo": "burung itu memiliki dada putih yang besar dibandingkan dengan ukuran kepalanya."
+        },
+        {
+          "english": "this is a fat black bird with a white belly and a little tan in the wings.",
+          "indo": "ini adalah burung hitam gemuk dengan perut putih dan sayap sedikit kecokelatan."
+        },
+        {
+          "english": "a fat bird with tiny beak is white colored on its ventral side and black on its dorsal side.",
+          "indo": "burung gemuk dengan paruh kecil berwarna putih pada sisi perut dan hitam pada sisi punggung."
+        },
+        {
+          "english": "this bird has a white belly, black and brown tipped wings, and a yellow and black beak.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berujung hitam dan coklat, serta paruh berwarna kuning dan hitam."
+        },
+        {
+          "english": "this bird has a small bill, white breast and belly, with black and brown wings and crown.",
+          "indo": "burung ini memiliki paruh kecil, dada dan perut berwarna putih, dengan sayap dan mahkota berwarna hitam dan coklat."
+        },
+        {
+          "english": "this particular bird has a yellow belly and black breasts and a white beak",
+          "indo": "burung ini memiliki perut berwarna kuning, dada berwarna hitam, dan paruh berwarna putih"
+        },
+        {
+          "english": "a tiny pigeon like bird with black and white feathers and a short stubby beak.",
+          "indo": "seekor burung kecil seperti merpati dengan bulu hitam putih dan paruh pendek dan gemuk."
+        },
+        {
+          "english": "this small bird has a plump body that is covered with white, black, gray, and brown feathers.",
+          "indo": "Burung berukuran kecil ini memiliki tubuh gempal yang ditumbuhi bulu berwarna putih, hitam, abu-abu, dan coklat."
+        },
+        {
+          "english": "a black bird with a white breast and black crown.",
+          "indo": "seekor burung hitam dengan dada putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0092_132971.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a middle sized bird with white and brown feathers, and red and black face.",
+          "indo": "burung berukuran sedang dengan bulu berwarna putih dan coklat, serta muka berwarna merah dan hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, orange breast and a dark brown head.",
+          "indo": "ini adalah burung dengan perut putih, dada oranye, dan kepala coklat tua."
+        },
+        {
+          "english": "a small bird with a flat head colored both black and rust, and with a cream colored chest, and brown, long wings.",
+          "indo": "seekor burung kecil dengan kepala datar berwarna hitam dan karat, dada berwarna krem, dan sayap panjang berwarna coklat."
+        },
+        {
+          "english": "a small bird with orange throat,yellow breast and brown wings",
+          "indo": "seekor burung kecil dengan tenggorokan oranye, dada kuning, dan sayap coklat"
+        },
+        {
+          "english": "this bird has a white belly, brown wing, light brown throat and dark brown nape.",
+          "indo": "burung ini mempunyai perut berwarna putih, sayap berwarna coklat, tenggorokan berwarna coklat muda dan tengkuk berwarna coklat tua."
+        },
+        {
+          "english": "a bird with an orange cheek patch and throat, with a black bill.",
+          "indo": "seekor burung dengan bercak oranye di pipi dan tenggorokan, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a brown back and a cream colored belly.",
+          "indo": "burung itu memiliki punggung berwarna coklat dan perut berwarna krem."
+        },
+        {
+          "english": "the bird has a striped crown, amber throat and yellow belly.",
+          "indo": "burung itu memiliki mahkota bergaris, tenggorokan kuning, dan perut kuning."
+        },
+        {
+          "english": "this bird is brown and black in color, and has a black beak.",
+          "indo": "burung ini berwarna coklat kehitaman, serta mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0093_133052.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly, a black wing and a red face.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan muka merah."
+        },
+        {
+          "english": "the bird has a white crown and black head along with a red throat and white chest.",
+          "indo": "burung ini memiliki mahkota berwarna putih dan kepala berwarna hitam serta tenggorokan berwarna merah dan dada berwarna putih."
+        },
+        {
+          "english": "a small bird has a white crown, black nape, orange throat and with short tarsus.",
+          "indo": "burung kecil mempunyai mahkota berwarna putih, tengkuk hitam, tenggorokan berwarna jingga dan tarsus pendek."
+        },
+        {
+          "english": "this bird has an orange throat, small black bill, and a white crown and belly.",
+          "indo": "burung ini memiliki tenggorokan berwarna oranye, paruh kecil berwarna hitam, serta mahkota dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a red head, white belly and black nape and tail.",
+          "indo": "burung berkepala merah, perut putih, dan tengkuk serta ekor hitam."
+        },
+        {
+          "english": "this bird is white with black and red and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam dan merah serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a red throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna merah"
+        },
+        {
+          "english": "this bird is white with black and red and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan warna hitam dan merah serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small colorful bird with a white belly, breast and orange throat.",
+          "indo": "seekor burung kecil berwarna-warni dengan perut putih, dada dan tenggorokan oranye."
+        },
+        {
+          "english": "a bird with bright orange throat, white crown and black superciliaries.",
+          "indo": "burung dengan tenggorokan jingga cerah, mahkota putih, dan superciliary hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0094_133114.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "a flying bird with white under feathers and a large wingspan.",
+          "indo": "seekor burung terbang dengan bulu bawah berwarna putih dan rentang sayap yang besar."
+        },
+        {
+          "english": "this bird has wide wings that are black with grey accents, with black inner and outer coverts, and a grey-ish white underbelly.",
+          "indo": "Burung ini mempunyai sayap lebar berwarna hitam dengan aksen abu-abu, bulu dalam dan luar berwarna hitam, serta perut berwarna putih keabu-abuan."
+        },
+        {
+          "english": "the bird has black wings and coverts as well as grey colored abdomen.",
+          "indo": "burung ini memiliki sayap dan bulu berwarna hitam serta perut berwarna abu-abu."
+        },
+        {
+          "english": "a bird with a tiny pointed bill, tan breast, and black rectrices.",
+          "indo": "seekor burung dengan paruh kecil runcing, dada berwarna coklat, dan rectrices  berwarna hitam."
+        },
+        {
+          "english": "this bird is black with white on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white belly, a thin pointed bill, dark rectrices, and gray wings.",
+          "indo": "burung ini memiliki perut berwarna putih, paruh runcing tipis, rectrices berwarna gelap, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this brown bird has a large wingspan and a white breast and belly.",
+          "indo": "burung berwarna coklat ini memiliki rentang sayap yang besar serta dada dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0098_133130.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird is extremely small and has a yellow white body and various browns on its face.",
+          "indo": "burung ini berukuran sangat kecil dan memiliki tubuh berwarna kuning putih dan berbagai warna coklat pada wajahnya."
+        },
+        {
+          "english": "a very tiny bird with a cream body and brown head.",
+          "indo": "seekor burung yang sangat kecil dengan tubuh berwarna krem ​​​​dan kepala berwarna coklat."
+        },
+        {
+          "english": "this small bird has a pointed beak, a mostly white body with an orange throat and a black head.",
+          "indo": "burung kecil ini memiliki paruh yang runcing, tubuh sebagian besar berwarna putih dengan tenggorokan berwarna oranye dan kepala berwarna hitam."
+        },
+        {
+          "english": "this odd-colored bird has orange on its neck and yellow-white on its belly.",
+          "indo": "burung berwarna aneh ini memiliki warna oranye di lehernya dan kuning-putih di perutnya."
+        },
+        {
+          "english": "white body with a black crown and orange neck.",
+          "indo": "tubuh putih dengan mahkota hitam dan leher oranye."
+        },
+        {
+          "english": "a small bird with a cream colored breast and belly, a brown throat and black fce.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna krem, tenggorokan berwarna coklat dan wajah hitam."
+        },
+        {
+          "english": "the bird belly is white with short tarsus and tiny feet",
+          "indo": "perut burung berwarna putih dengan tarsus pendek dan kaki mungil"
+        },
+        {
+          "english": "this bird is white with red and has a very short beak.",
+          "indo": "burung ini berwarna putih merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a orange throat and black cheek patch, it has a white belly with a small hint of brown.",
+          "indo": "burung kecil dengan tenggorokan berwarna jingga dan bercak hitam di pipi, perutnya berwarna putih dengan sedikit warna coklat."
+        },
+        {
+          "english": "this bird has a white breast, with a black and yellow head.",
+          "indo": "burung ini memiliki dada berwarna putih, dengan kepala berwarna hitam dan kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0099_133948.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this small bird has a black back and orange stomach with a short beak.",
+          "indo": "burung kecil ini memiliki punggung berwarna hitam dan perut berwarna oranye dengan paruh yang pendek."
+        },
+        {
+          "english": "the bird has a red face, a white belly, and black tipped blue wings and crown.",
+          "indo": "burung itu mempunyai muka merah, perut putih, dan sayap serta mahkota biru berujung hitam."
+        },
+        {
+          "english": "a small bird with red throat and orange breast and belly.",
+          "indo": "seekor burung kecil dengan tenggorokan merah dan dada serta perut berwarna oranye."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has dark blue wings,with a light red-white breast,combined with long rectrices and a short,sharp blue beak.",
+          "indo": "burung ini mempunyai sayap berwarna biru tua, dengan dada berwarna merah putih muda, berpadu dengan rectrices  dan paruh pendek berwarna biru tajam."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black and brown in color, with a sharp beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is black and brown in color, with a stubby and curved beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh yang gemuk dan melengkung."
+        },
+        {
+          "english": "this bird has a black head black body and a brownish colored chest and underneath it has very long tail feathers",
+          "indo": "burung ini mempunyai kepala berwarna hitam, badan berwarna hitam dan dada berwarna kecoklatan serta dibawahnya mempunyai bulu ekor yang sangat panjang"
+        },
+        {
+          "english": "this bird has a blue crown, blue primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna biru, bulu primer berwarna biru, dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0100_133665.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this birds has a white belly, black wings and a brown throat.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap hitam, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a white belly, black and blue wings and a brown throat.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan biru, dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "the bird here has a white belly, black tail and wing feathers, and a red nape.",
+          "indo": "burung di sini memiliki perut berwarna putih, bulu ekor dan sayap berwarna hitam, serta tengkuk berwarna merah."
+        },
+        {
+          "english": "this bird is brown and white in color with a sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a fat bird with red on the cheek patches and black wingbars and crown.",
+          "indo": "ini adalah burung gemuk dengan bercak merah di pipi dan garis sayap serta mahkota hitam."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a white crown, blue head and red throat, and brown secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna putih, kepala berwarna biru dan tenggorokan berwarna merah, serta bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "a mid sized, brown bird with white belly and flanks, red about the throat, and a short beak.",
+          "indo": "burung berukuran sedang berwarna coklat dengan perut dan panggul berwarna putih, tenggorokan berwarna merah, dan paruh pendek."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0101_133069.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this small bird has a white body, orange head, and black tail and wings.",
+          "indo": "burung kecil ini memiliki tubuh berwarna putih, kepala berwarna oranye, serta ekor dan sayap berwarna hitam."
+        },
+        {
+          "english": "a large bird with gray wings and a light gray belly.",
+          "indo": "seekor burung besar dengan sayap abu-abu dan perut abu-abu muda."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a brown head.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan kepala coklat."
+        },
+        {
+          "english": "this white bird has a small bill, grey wings and rectrices, white eyebrows, and is red around its neck.",
+          "indo": "burung berwarna putih ini memiliki paruh kecil, sayap dan rectrices  berwarna abu-abu, alis berwarna putih, dan di sekeliling lehernya berwarna merah."
+        },
+        {
+          "english": "this bird has a red throat and white belly and breast with gray wings and rectrices.",
+          "indo": "burung ini memiliki tenggorokan berwarna merah dan perut serta dada berwarna putih dengan sayap dan rectrices berwarna abu-abu."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "a bird with a large wingspan, small beak, red neck and white belly, with grey wings.",
+          "indo": "burung dengan rentang sayap besar, paruh kecil, leher merah dan perut putih, sayap abu-abu."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a mostly grey bodied bird with some red on its face.",
+          "indo": "ini adalah burung yang sebagian besar berbadan abu-abu dengan sedikit warna merah di wajahnya."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0103_133882.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a mostly blue body with a white under belly and white around the bill.",
+          "indo": "Burung ini memiliki tubuh sebagian besar berwarna biru dengan bagian bawah perut berwarna putih dan bagian sekeliling paruh berwarna putih."
+        },
+        {
+          "english": "the small bird has a white belly with a small round head and a tiny beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih dengan kepala bulat kecil dan paruh kecil."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a very small pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing yang sangat kecil"
+        },
+        {
+          "english": "a small, cream-colored bird with dark wings and crown, with short legs.",
+          "indo": "burung kecil berwarna krem ​​​​dengan sayap dan mahkota berwarna gelap, dengan kaki pendek."
+        },
+        {
+          "english": "a black crown, white neck and breast, frame the plumage of this small, short-billed bird.",
+          "indo": "mahkota hitam, leher dan dada berwarna putih, membingkai bulu burung kecil berparuh pendek ini."
+        },
+        {
+          "english": "this is a white bird with brownish blue wings and head.",
+          "indo": "ini adalah burung berwarna putih dengan sayap dan kepala berwarna biru kecoklatan."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a black back, with a white breast.",
+          "indo": "burung ini memiliki punggung berwarna hitam, dengan dada berwarna putih."
+        },
+        {
+          "english": "this unique little bird has a orange and white mixture for its breast and belly/abdominal area. the back of this bird is black and the wings are also black as well.",
+          "indo": "Burung kecil unik ini memiliki warna campuran oranye dan putih pada bagian dada dan perut/perutnya. punggung burung ini berwarna hitam dan sayapnya juga berwarna hitam."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Cliff_Swallow_0108_133902.jpg",
+      "class_id": 136,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a brown breast and a black face.",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna coklat dan muka berwarna hitam."
+        },
+        {
+          "english": "the bird has a brown throat and breast with a black crown and coverts.",
+          "indo": "burung itu memiliki tenggorokan dan dada berwarna coklat dengan mahkota dan bulu berwarna hitam."
+        },
+        {
+          "english": "this bird has a black back and crown with a orange throat.",
+          "indo": "burung ini memiliki punggung dan mahkota berwarna hitam dengan tenggorokan berwarna oranye."
+        },
+        {
+          "english": "this bird has a black crown, a sharp bill, and a brown breast",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh runcing, dan dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is grey with black and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and brown",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan coklat"
+        },
+        {
+          "english": "the bird has a black crown, amber throat and black back.",
+          "indo": "burung itu memiliki mahkota hitam, tenggorokan kuning, dan punggung hitam."
+        },
+        {
+          "english": "this bird has a small head, a short tail, a yellow beak with a pointy tip, and brown fur on its neck.",
+          "indo": "burung ini memiliki kepala kecil, ekor pendek, paruh berwarna kuning dengan ujung runcing, dan bulu berwarna coklat di lehernya."
+        },
+        {
+          "english": "brown on top of head, with light brown under beak and white on chest and body.",
+          "indo": "berwarna coklat di bagian atas kepala, dengan warna coklat muda di bawah paruh dan putih di dada dan badan."
+        }
+      ]
+    }
+  ]
+}

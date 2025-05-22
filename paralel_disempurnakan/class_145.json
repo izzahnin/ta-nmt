@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Forsters_Tern_0001_152174.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a small white bird with a flat, orange beak.",
+          "indo": "ini adalah burung putih kecil dengan paruh datar berwarna oranye."
+        },
+        {
+          "english": "this bird is mostly white with a black crown and a long narrow bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan mahkota berwarna hitam dan paruh panjang dan sempit."
+        },
+        {
+          "english": "the head of the bird is black with a grey body and an orange beak with black tip.",
+          "indo": "Kepala burung berwarna hitam dengan badan berwarna abu-abu dan paruh berwarna jingga dengan ujung berwarna hitam."
+        },
+        {
+          "english": "a white bodied, grey feathered bird that has a black crown and orange beak.",
+          "indo": "burung bertubuh putih, berbulu abu-abu, memiliki mahkota hitam dan paruh oranye."
+        },
+        {
+          "english": "this bird has orange tarsus and white feathers.",
+          "indo": "burung ini mempunyai tarsus berwarna jingga dan bulu berwarna putih."
+        },
+        {
+          "english": "a white bird with a black crown and orange legs.",
+          "indo": "seekor burung putih dengan mahkota hitam dan kaki oranye."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this small bird has a long white and orange beak, a white body, and long orange feet.",
+          "indo": "burung kecil ini memiliki paruh panjang berwarna putih jingga, badan berwarna putih, dan kaki panjang berwarna jingga."
+        },
+        {
+          "english": "this bird is mostly white with a black crown and an orange bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan mahkota berwarna hitam dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0002_151622.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird has a white body, black ceown, and gray wings.",
+          "indo": "burung ini memiliki tubuh berwarna putih, ceown hitam, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a curved orange and black bill, a black crown, and orange tarsus and feet.",
+          "indo": "burung ini memiliki paruh melengkung berwarna jingga dan hitam, mahkota berwarna hitam, serta tarsus dan kaki berwarna jingga."
+        },
+        {
+          "english": "the bird has a smaller body with large wings and orange beak and feet",
+          "indo": "burung ini memiliki tubuh lebih kecil dengan sayap besar serta paruh dan kaki berwarna oranye"
+        },
+        {
+          "english": "long beak, wings spread wide, white with black head.",
+          "indo": "paruh panjang, sayap terbentang lebar, berwarna putih dengan kepala berwarna hitam."
+        },
+        {
+          "english": "large bird with primarily white body, white and gray wings, and a black and white head",
+          "indo": "burung besar dengan tubuh utama berwarna putih, sayap putih dan abu-abu, dan kepala hitam putih"
+        },
+        {
+          "english": "this particular bird has a white belly and white and gray secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna putih dan abu-abu"
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "a white bird with a black crown and orange pointed beak.",
+          "indo": "burung berwarna putih dengan mahkota hitam dan paruh runcing oranye."
+        },
+        {
+          "english": "this bird has a black crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0003_151547.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a long, thin bill, a black crown and nape, and white plumage across its body",
+          "indo": "burung ini memiliki paruh yang panjang dan tipis, mahkota dan tengkuk berwarna hitam, serta bulu berwarna putih di seluruh tubuhnya"
+        },
+        {
+          "english": "this bird is white with black on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown, white throat, breast and belly, and grey coverts and secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, tenggorokan berwarna putih, dada dan perut, serta bulu dan bulu sekunder berwarna abu-abu."
+        },
+        {
+          "english": "this is a white bird with a black crown and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan mahkota hitam dan kaki oranye."
+        },
+        {
+          "english": "this large bird has a white body, black crown, a slim yellow beak, and orange tarsi and feet.",
+          "indo": "Burung berukuran besar ini memiliki tubuh berwarna putih, mahkota berwarna hitam, paruh ramping berwarna kuning, serta tarsi dan kaki berwarna jingga."
+        },
+        {
+          "english": "this bird has a black head, white breast and body with light gray wings, a long pointed beak with a black tip and orange legs.",
+          "indo": "burung ini mempunyai kepala berwarna hitam, dada dan badan berwarna putih dengan sayap berwarna abu-abu muda, paruh panjang runcing dengan ujung berwarna hitam dan kaki berwarna jingga."
+        },
+        {
+          "english": "this is a large white and grey bird with orange feet and a black head.",
+          "indo": "ini adalah burung besar berwarna putih dan abu-abu dengan kaki oranye dan kepala hitam."
+        },
+        {
+          "english": "black and white bird standing on the sand by lack sleep",
+          "indo": "burung hitam putih berdiri di atas pasir karena kurang tidur"
+        },
+        {
+          "english": "a medium sized bird with a black crown, and a long bill",
+          "indo": "burung berukuran sedang dengan mahkota hitam, dan paruh panjang"
+        },
+        {
+          "english": "this small white bird has a black patch on the top of its head and a long sharp beak.",
+          "indo": "burung kecil berwarna putih ini memiliki bercak hitam di bagian atas kepalanya dan paruh yang panjang dan tajam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0004_152358.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a small water bird; white and grey in color with black markings over it's eyes.",
+          "indo": "ini burung air kecil; berwarna putih dan abu-abu dengan tanda hitam di atas matanya."
+        },
+        {
+          "english": "this bird has a long straight bill, a black cheek patch, and a light gray crown.",
+          "indo": "burung ini memiliki paruh lurus panjang, bercak pipi berwarna hitam, dan mahkota berwarna abu-abu muda."
+        },
+        {
+          "english": "this is a white bird with a grey wing and a black eye ring.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu dan cincin mata hitam."
+        },
+        {
+          "english": "a small bird with a black eyebrow, a white breast and belly, light grey primary and secondary feathers on the wings, and a long, pointed bill.",
+          "indo": "seekor burung kecil dengan alis hitam, dada dan perut berwarna putih, bulu primer dan bulu sekunder berwarna abu-abu muda di sayap, serta paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this flat billed bird has grey wings and a white breast and belly.",
+          "indo": "burung berparuh pipih ini memiliki sayap berwarna abu-abu serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "a medium sized bird with white breast and belly, light grey wings, dark grey to black on the tail, black around the eyes, with a flat black bill.",
+          "indo": "burung berukuran sedang dengan dada dan perut berwarna putih, sayap abu-abu muda, ekor abu-abu tua sampai hitam, sekitar mata hitam, paruh hitam rata."
+        },
+        {
+          "english": "small bird with black pointed beak, throat, breast, belly and abdomen is white, superciliary is black, crown is grey.",
+          "indo": "burung kecil dengan paruh runcing hitam, tenggorokan, dada, perut dan perut berwarna putih, superciliary berwarna hitam, mahkota berwarna abu-abu."
+        },
+        {
+          "english": "this white bird has a black cheek patch, a long pointy beak, and long orange tarsi.",
+          "indo": "burung berwarna putih ini memiliki bercak pipi berwarna hitam, paruh panjang runcing, dan tarsi panjang berwarna jingga."
+        },
+        {
+          "english": "this bird has a long black and orange bill, grey crown with black eyebrow and white and grey feathers.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam jingga, mahkota berwarna abu-abu dengan alis berwarna hitam, serta bulu berwarna putih abu-abu."
+        },
+        {
+          "english": "this bird has a grey crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0007_152110.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a white body with a black head and orange feet.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan kepala berwarna hitam dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a long, gray and white body with a black crown and an orange tarsus and feet.",
+          "indo": "burung ini memiliki tubuh panjang berwarna abu-abu putih dengan mahkota berwarna hitam serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "bird has gray body feathers, yellow breast feather, and orange and black beak",
+          "indo": "Burung ini memiliki bulu badan berwarna abu-abu, bulu dada berwarna kuning, serta paruh berwarna jingga dan hitam"
+        },
+        {
+          "english": "this bird is white with black on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has orange tarsus and feet, a white belly and breast, a grey back, and a black head.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna oranye, perut dan dada berwarna putih, punggung berwarna abu-abu, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a long beak that is orange and black at the tip and orange legs",
+          "indo": "burung ini mempunyai paruh panjang berwarna oranye dan hitam di bagian ujung serta kaki berwarna oranye"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray wings",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna abu-abu"
+        },
+        {
+          "english": "a small bird with grey wings and a white breast, its head is black from it cheek to its nape, and its legs and feet are a very bright orange.",
+          "indo": "seekor burung kecil bersayap abu-abu dan dada berwarna putih, kepalanya berwarna hitam mulai dari pipi hingga tengkuknya, dan tungkai serta kakinya berwarna jingga sangat cerah."
+        },
+        {
+          "english": "this bird has a black crown, white breast and belly, soft gray wings, and bright orange feet.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, dada dan perut berwarna putih, sayap berwarna abu-abu lembut, dan kaki berwarna oranye cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0010_151243.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a white body and black beak with orange feet and tarsus.",
+          "indo": "burung ini memiliki tubuh berwarna putih dan paruh berwarna hitam dengan kaki dan tarsus berwarna oranye."
+        },
+        {
+          "english": "a large white bird with black markings on either side of the face, and orange tarsus",
+          "indo": "burung putih besar dengan tanda hitam di kedua sisi wajahnya, dan tarsus ​​oranye"
+        },
+        {
+          "english": "this bird is white and black in color with a large black beak and black eye rings.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh besar berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a white overall body color aside from a patch of black near it's eyes.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan putih selain bercak hitam di dekat matanya."
+        },
+        {
+          "english": "this bird has long gray and white wingbars and red and black tarsus with a medium bill.",
+          "indo": "burung ini memiliki sayap panjang berwarna abu-abu putih serta tarsus merah hitam dengan paruh sedang."
+        },
+        {
+          "english": "white bird with long white wings and orange feet",
+          "indo": "burung putih dengan sayap putih panjang dan kaki oranye"
+        },
+        {
+          "english": "the wings of the bird are predominately white, with shades of gray and black.",
+          "indo": "sayap burung didominasi warna putih, dengan corak abu-abu dan hitam."
+        },
+        {
+          "english": "this is a white bird with a black pointed beak and red webbed feet.",
+          "indo": "ini adalah burung berwarna putih dengan paruh runcing hitam dan kaki berselaput merah."
+        },
+        {
+          "english": "this bird has wings that are white and has orange feet",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai kaki berwarna oranye"
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0012_151558.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird is nearly all white with orange beak, feet, and tarsus.",
+          "indo": "burung ini hampir seluruhnya berwarna putih dengan paruh, kaki, dan tarsus berwarna oranye."
+        },
+        {
+          "english": "this bird is medium sized and is all black from the eyes up, but the rest of the body is completely white, with yellow appendages.",
+          "indo": "burung ini berukuran sedang dan seluruhnya berwarna hitam mulai dari mata hingga ke atas, namun seluruh tubuhnya berwarna putih seluruhnya, dengan pelengkap berwarna kuning."
+        },
+        {
+          "english": "this white bird has red webbed feet, a black crown and a red beak that has a black tip.",
+          "indo": "burung berwarna putih ini memiliki kaki berselaput merah, mahkota berwarna hitam, dan paruh berwarna merah yang ujungnya berwarna hitam."
+        },
+        {
+          "english": "this is a white bird with large wings, a forked tail and a sharp two-toned beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap besar, ekor bercabang dua, dan paruh tajam dua warna."
+        },
+        {
+          "english": "the bird has a white breast and belly and long orange thighs.",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta paha panjang berwarna oranye."
+        },
+        {
+          "english": "this is large white bird with black head and orange bill and tarsus with huge long white colored wings.",
+          "indo": "ini adalah burung putih besar dengan kepala hitam dan paruh oranye serta tarsus dengan sayap besar berwarna putih panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this is a large white bird with black crown, red bill and red feet.",
+          "indo": "ini adalah burung putih besar dengan mahkota hitam, paruh merah dan kaki merah."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0016_152463.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a large bill that is curved as well as orange and black.",
+          "indo": "burung ini memiliki paruh besar yang melengkung serta berwarna oranye dan hitam."
+        },
+        {
+          "english": "a white bird with black head, pointed beak and orange feet.",
+          "indo": "burung berwarna putih dengan kepala hitam, paruh runcing dan kaki oranye."
+        },
+        {
+          "english": "this gray and white bird has a black crown and a red beak that matches its feet, as well as a black tip on its beak.",
+          "indo": "burung berwarna abu-abu putih ini memiliki mahkota berwarna hitam dan paruh berwarna merah senada dengan kakinya, serta ujung paruhnya berwarna hitam."
+        },
+        {
+          "english": "the bird has orange tarsus and feet, a long tail with grey feathers, and a white belly and breast.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna oranye, ekor panjang dengan bulu abu-abu, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a bright orange tarsus and feet as well as the base of it's bill",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna jingga cerah serta pangkal paruhnya"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this particular bird has a belly that is white and have gray wings",
+          "indo": "burung ini memiliki perut yang berwarna putih dan memiliki sayap berwarna abu-abu"
+        },
+        {
+          "english": "the bird has a curved bill that is orange and black with a white belly.",
+          "indo": "burung ini memiliki paruh melengkung berwarna oranye dan hitam dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is white and black in color, and has a black and orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta memiliki paruh berwarna hitam dan oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0017_152696.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has black crown and nape, white throat, breast, belly and abdomen, and red feet.",
+          "indo": "burung ini memiliki mahkota dan tengkuk berwarna hitam, tenggorokan, dada, perut dan perut berwarna putih, serta kaki berwarna merah."
+        },
+        {
+          "english": "this bird has a white colored body, covert, breast, belly, throat and abdomen with a black crown and nape.",
+          "indo": "burung ini mempunyai badan berwarna putih, bulu penutup, dada, perut, tenggorokan dan perut dengan mahkota dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "this is a white bird with a black head and orange feet and beak.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam dan kaki serta paruh berwarna oranye."
+        },
+        {
+          "english": "this is a large white bird with a black crown and a orange and black bill",
+          "indo": "ini adalah burung putih besar dengan mahkota hitam dan paruh oranye dan hitam"
+        },
+        {
+          "english": "a big bird with white feathers and a orange beak and feet.",
+          "indo": "seekor burung besar dengan bulu putih dan paruh serta kaki berwarna oranye."
+        },
+        {
+          "english": "this flying bird has a orange bill with black tip, orange feet, white throat, chest, belly and sides, black eye brow with black eye patch.",
+          "indo": "burung terbang ini mempunyai paruh berwarna jingga dengan ujung berwarna hitam, kaki berwarna jingga, tenggorokan berwarna putih, dada, perut dan samping, superciliary mata berwarna hitam dengan penutup mata berwarna hitam."
+        },
+        {
+          "english": "a large white bird with a wide 'v' tail, orange feet, black cap and a long orange bill tipped in black.",
+          "indo": "seekor burung putih besar dengan ekor lebar 'v', kaki oranye, topi hitam dan paruh oranye panjang berujung hitam."
+        },
+        {
+          "english": "large white bird with a black crown and cheek patch also has a long narrow orange beak with a black tip.",
+          "indo": "burung putih besar dengan mahkota hitam dan penutup pipi juga memiliki paruh panjang berwarna oranye dengan ujung hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "a bird with a black colored crown and the rest of its body is white colored.",
+          "indo": "burung yang mahkotanya berwarna hitam dan seluruh tubuhnya berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0021_144734.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a white bird with a black crown and superciliary and a bright reddish orange beak.",
+          "indo": "burung berwarna putih dengan mahkota hitam dan superciliary serta paruh berwarna jingga kemerahan cerah."
+        },
+        {
+          "english": "bird has a red long beek head is black breast is white wings are grey and tail is black.",
+          "indo": "burung mempunyai paruh panjang berwarna merah, kepala berwarna hitam, dada berwarna putih, sayap berwarna abu-abu dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has a long red bill and has a white belly and breast",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah serta perut dan dada berwarna putih"
+        },
+        {
+          "english": "this bird is white with black on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with black crown and large orange bill.",
+          "indo": "burung berwarna putih dengan mahkota hitam dan paruh besar berwarna jingga."
+        },
+        {
+          "english": "a white bird with a black crown and an orange beak.",
+          "indo": "seekor burung putih dengan mahkota hitam dan paruh oranye."
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "a black and white bird with a red bill",
+          "indo": "seekor burung hitam putih dengan paruh merah"
+        },
+        {
+          "english": "this bird has wings that are grey and has a black crown",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has a black crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna putih, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0027_151456.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "bird has a white body with light grey feathers from the wing to the tail, around the nape it is also grey and a black circle around the eye with a black beak.",
+          "indo": "Burung ini berbadan putih dengan bulu berwarna abu-abu muda dari sayap hingga ekor, di sekitar tengkuk juga berwarna abu-abu dan lingkaran hitam di sekitar mata dengan paruh berwarna hitam."
+        },
+        {
+          "english": "a bird with a white belly and throat, orange tarsus, and gray wings.",
+          "indo": "burung dengan perut dan tenggorokan berwarna putih, tarsus oranye, dan sayap abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black superciliary, gray wing, and a sharp narrow bill.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih dengan superciliary berwarna hitam, sayap berwarna abu-abu, dan paruh yang runcing dan sempit."
+        },
+        {
+          "english": "this bird has a white breast, belly & throat, orange tarsus & feet, and a long upper bill.",
+          "indo": "burung ini memiliki dada, perut & tenggorokan berwarna putih, tarsus & kaki berwarna oranye, serta paruh atas yang panjang."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black superciliary and long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan superciliary berwarna hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is primarily white with gray wings and some black markings.",
+          "indo": "burung ini sebagian besar berwarna putih dengan sayap abu-abu dan beberapa corak hitam."
+        },
+        {
+          "english": "this bird has a white crown with grey coverts and brown feet.",
+          "indo": "burung ini memiliki mahkota berwarna putih dengan bulu berwarna abu-abu dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0029_151228.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a bird with a snowy bright white belly and throat, a black crown, long orange bill with black tips, pale grey wings and bright orange tarsus and feet.",
+          "indo": "burung dengan perut dan tenggorokan berwarna putih cerah bersalju, mahkota hitam, paruh oranye panjang dengan ujung hitam, sayap abu-abu pucat, serta tarsus dan kaki oranye terang."
+        },
+        {
+          "english": "this bird is white with some grey on its wings, an orange beak, and a black head.",
+          "indo": "burung ini berwarna putih dengan sedikit warna abu-abu pada sayapnya, paruh berwarna jingga, dan kepala berwarna hitam."
+        },
+        {
+          "english": "a small bird containing a black head and white and grey body, this bird also has an orange beak with a black tip.",
+          "indo": "burung berukuran kecil dengan kepala berwarna hitam dan badan berwarna putih abu-abu, burung ini juga memiliki paruh berwarna jingga dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this white bird features a patch of black pluage on its head and also has a orange and black beak.",
+          "indo": "burung berwarna putih ini memiliki bercak bulu hitam di kepalanya dan juga memiliki paruh berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird is mostly white with a black crown and a long bright orange bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan mahkota berwarna hitam dan paruh panjang berwarna oranye terang."
+        },
+        {
+          "english": "this white and light gray bird has a black head with a orange bill with a black tip.",
+          "indo": "burung berwarna putih dan abu-abu muda ini memiliki kepala berwarna hitam dengan paruh berwarna jingga dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a black crown and orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this white bird has a black crown along with bright orange tarsus and feet, and a long orange and black bill.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dengan tarsus dan kaki berwarna jingga cerah, serta paruh panjang berwarna jingga dan hitam."
+        },
+        {
+          "english": "this white bird has a black crown and a distinct orange and black pointed bill.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh runcing berwarna oranye dan hitam."
+        },
+        {
+          "english": "a bird with a white breast and a black crown.",
+          "indo": "seekor burung dengan dada putih dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0032_151384.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a medium sized bird that has white feathers and a black tipped head",
+          "indo": "burung berukuran sedang yang memiliki bulu berwarna putih dan kepala berujung hitam"
+        },
+        {
+          "english": "the bird has a white breast and abdomen, as well as bright orange bill and feet, it also has a distinct black crown.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, serta paruh dan kaki berwarna oranye terang, serta mahkota berwarna hitam yang khas."
+        },
+        {
+          "english": "this bird is white with a black head and an orange beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird is black and white in color with a orange beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna jingga, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this primarily white bird has a long tail, black coloring on its head, and has a bright orange bill and legs.",
+          "indo": "Burung yang sebagian besar berwarna putih ini memiliki ekor yang panjang, warna kepala hitam, serta paruh dan kaki berwarna jingga cerah."
+        },
+        {
+          "english": "this is a white bodied bird with gray wings, black head, orange feet and a long, pointed orange beak that is black on the tip.",
+          "indo": "Ini adalah burung bertubuh putih dengan sayap abu-abu, kepala hitam, kaki oranye dan paruh panjang oranye runcing yang ujungnya berwarna hitam."
+        },
+        {
+          "english": "this bird is white and black in color, with a orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "a lovely orange and black beaked, white bodied, grey winged bird with orange webbed feet.",
+          "indo": "seekor burung cantik berparuh oranye dan hitam, bertubuh putih, bersayap abu-abu dengan kaki berselaput oranye."
+        },
+        {
+          "english": "a large bird with black fur on its head, a long tail, orange feet, a small head, and a long narrow pointy beak.",
+          "indo": "burung besar dengan bulu hitam di kepala, ekor panjang, kaki oranye, kepala kecil, dan paruh panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0034_152667.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the white bird has orange feet and a black eyebrow.",
+          "indo": "burung putih memiliki kaki oranye dan alis hitam."
+        },
+        {
+          "english": "this bird has a white crown, orange feet, and a large wingspan",
+          "indo": "burung ini memiliki mahkota berwarna putih, kaki berwarna oranye, dan rentang sayap yang besar"
+        },
+        {
+          "english": "bird with white wings, belly and head with black eyerings and long downward pointed black beak.",
+          "indo": "burung bersayap putih, perut dan kepala bermata hitam serta paruh hitam panjang runcing ke bawah."
+        },
+        {
+          "english": "this is a medium sized bird with elongated orange and black bill and bright orange feet and tarsus.",
+          "indo": "ini adalah burung berukuran sedang dengan paruh berwarna oranye dan hitam memanjang serta kaki dan tarsus berwarna oranye terang."
+        },
+        {
+          "english": "this medium-sized seabird is mostly white with bright orange legs. it has a greyish back with a distinctive black streak behind the eye.",
+          "indo": "burung laut berukuran sedang ini sebagian besar berwarna putih dengan kaki berwarna oranye terang. ia memiliki punggung berwarna keabu-abuan dengan guratan hitam khas di belakang matanya."
+        },
+        {
+          "english": "a white bird with orange legs and a pointed beak",
+          "indo": "seekor burung putih dengan kaki oranye dan paruh runcing"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white with orange legs",
+          "indo": "burung ini memiliki perut berwarna abu-abu putih dengan kaki berwarna oranye"
+        },
+        {
+          "english": "this bird is predominantly white with a black beak and orange feet.",
+          "indo": "burung ini didominasi warna putih dengan paruh berwarna hitam dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are grey and has a yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0035_151757.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird is predominantly white, with a black crown, and a long orange bill and orange tarsus and feet.",
+          "indo": "burung ini didominasi warna putih, mahkota berwarna hitam, paruh panjang berwarna oranye, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "a small bird with a black crown and white feathers covering the rest of its body.",
+          "indo": "seekor burung kecil dengan mahkota hitam dan bulu putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a medium sized mostly white bird, with a long, slightly curved, orange beak and orange, webbed feet.",
+          "indo": "burung berukuran sedang yang sebagian besar berwarna putih, dengan paruh panjang, agak melengkung, berwarna oranye, dan kaki berselaput berwarna oranye."
+        },
+        {
+          "english": "bird with orange and black beak, orange tarsus and feet, black crown and eye, and white throat, and breast",
+          "indo": "burung dengan paruh berwarna jingga dan hitam, tarsus dan kaki berwarna jingga, mahkota dan mata berwarna hitam, serta tenggorokan dan dada berwarna putih"
+        },
+        {
+          "english": "this bird is white and has a long bill, neck, and tail feathers.",
+          "indo": "burung ini berwarna putih dan mempunyai paruh, leher, dan bulu ekor yang panjang."
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "a white bird with an orange and black bill, black on the crown, and fully orange tarsus and feet.",
+          "indo": "burung berwarna putih dengan paruh berwarna jingga dan hitam, bagian ubun-ubun berwarna hitam, serta tarsus dan kaki berwarna jingga seluruhnya."
+        },
+        {
+          "english": "this bird has a orange bill with a black tip and a white throat.",
+          "indo": "burung ini memiliki paruh berwarna oranye dengan ujung berwarna hitam dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0041_149586.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a bird with a black crown, a long black and orange bill, orange tarsi, with an average sized head",
+          "indo": "burung bermahkota hitam, paruh panjang berwarna hitam jingga, tarsi jingga, dengan ukuran kepala rata-rata"
+        },
+        {
+          "english": "a beautiful completely white bird except its black crown and nape and orange beak and orange legs.",
+          "indo": "burung cantik berwarna putih seluruhnya kecuali mahkota dan tengkuknya yang hitam, paruh jingga, dan kaki jingga."
+        },
+        {
+          "english": "the medium-sized bird is white except for crown and nape, with a pointed orange bill tipped with black.",
+          "indo": "burung berukuran sedang berwarna putih kecuali mahkota dan tengkuknya, dengan paruh runcing berwarna oranye dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this colorful bird has a bright orange bill ending in a black point, orange tarsus & feet, a black crown, and a white body.",
+          "indo": "burung berwarna-warni ini memiliki paruh berwarna jingga cerah dengan ujung titik hitam, tarsus & kaki jingga, mahkota berwarna hitam, dan badan berwarna putih."
+        },
+        {
+          "english": "small white bird with a white belly and an orange peak",
+          "indo": "burung putih kecil dengan perut putih dan puncak oranye"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a black crown",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this is a white bird with a black crown, and orange tarsus and bill.",
+          "indo": "ini adalah burung putih dengan mahkota hitam, dan tarsus serta paruh oranye."
+        },
+        {
+          "english": "this bird has a black crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna putih, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a snow white breast color with orange tarsus and bill",
+          "indo": "burung ini memiliki warna dada seputih salju dengan tarsus dan paruh oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0042_151644.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird has a white belly, sides, and breast with black superciliary and secondary wing tips.",
+          "indo": "burung ini memiliki perut, samping, dan dada berwarna putih dengan ujung sayap bulu sekunder dan superciliary berwarna hitam."
+        },
+        {
+          "english": "the bird has very long wings with black feathers on the tips.",
+          "indo": "burung ini memiliki sayap yang sangat panjang dengan bulu berwarna hitam di ujungnya."
+        },
+        {
+          "english": "the bird has a long black bill and a white breast.",
+          "indo": "burung itu memiliki paruh hitam panjang dan dada berwarna putih."
+        },
+        {
+          "english": "a flying white tern has black beak and cheek patch, and black wing-tips and tail-tip.",
+          "indo": "burung laut putih terbang memiliki paruh dan penutup pipi berwarna hitam, serta ujung sayap dan ujung ekor berwarna hitam."
+        },
+        {
+          "english": "a bird with a black beak with a black patch around with eye with a white body.",
+          "indo": "burung yang paruhnya berwarna hitam dengan bercak hitam di sekelilingnya, matanya berbadan putih."
+        },
+        {
+          "english": "the is colorful bird has a black beak with orange legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh berwarna hitam dengan kaki berwarna oranye"
+        },
+        {
+          "english": "a large white bird with black on the tips of the wing and tail feathers.",
+          "indo": "burung besar berwarna putih dengan warna hitam pada ujung sayap dan bulu ekornya."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long black bill and a white throat and breast and belly.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam dan tenggorokan serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "a large white bird with a white and black wingspan and a long black beak.",
+          "indo": "seekor burung putih besar dengan rentang sayap putih dan hitam serta paruh hitam panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0043_151332.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a large white bird with large wings with white feathers, and a medium sized flat beak.",
+          "indo": "ini adalah burung putih besar dengan sayap besar dengan bulu putih, dan paruh datar berukuran sedang."
+        },
+        {
+          "english": "the bird has white feathers with a black crown and a sleek body with orange feet.",
+          "indo": "burung ini memiliki bulu berwarna putih dengan mahkota berwarna hitam dan tubuh ramping dengan kaki berwarna oranye."
+        },
+        {
+          "english": "a medium sized bird that is mostly white that has black head markings",
+          "indo": "burung berukuran sedang yang sebagian besar berwarna putih dengan corak kepala berwarna hitam"
+        },
+        {
+          "english": "this is a bird with a white body, grey wings, a black head and an orange beak.",
+          "indo": "ini adalah burung dengan tubuh putih, sayap abu-abu, kepala hitam dan paruh oranye."
+        },
+        {
+          "english": "a white bird with large grey wings, an orange and black beak, and orange feet.",
+          "indo": "burung berwarna putih dengan sayap besar berwarna abu-abu, paruh berwarna jingga dan hitam, serta kaki berwarna jingga."
+        },
+        {
+          "english": "this particular bird has a white belly breast and sides with gray wings",
+          "indo": "burung ini memiliki perut dada berwarna putih dan sisi sayap berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a orange beak with a black tip, orange legs, a white body with a black topped heac and black thin pointy tail.",
+          "indo": "burung ini mempunyai paruh berwarna jingga dengan ujung berwarna hitam, kaki berwarna jingga, badan berwarna putih dengan bagian atas heac berwarna hitam, dan ekor runcing tipis berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown with white belly and orange feet.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan perut berwarna putih dan kaki berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0045_151227.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast with a black crown and sharp bit.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna hitam dan paruh runcing."
+        },
+        {
+          "english": "a white bird with orange tarsus, and an orange bill with a black tip.",
+          "indo": "burung berwarna putih dengan tarsus oranye, dan paruh oranye dengan ujung hitam."
+        },
+        {
+          "english": "this is a white bird with gray wings, black head and bright orange webbed feet and beak, which has black on its tip.",
+          "indo": "Ini adalah burung berwarna putih dengan sayap abu-abu, kepala hitam, dan kaki serta paruh berselaput oranye terang, dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird has white feathers on its chest and a black head.",
+          "indo": "burung ini memiliki bulu berwarna putih di dadanya dan kepala berwarna hitam."
+        },
+        {
+          "english": "a small white bird with a black crown and nape as well as an orange beak with a black tip.",
+          "indo": "burung kecil berwarna putih dengan mahkota dan tengkuk berwarna hitam serta paruh berwarna jingga dengan ujung berwarna hitam."
+        },
+        {
+          "english": "a white breasted bird with an orange bill and dark black nape",
+          "indo": "burung berdada putih dengan paruh jingga dan tengkuk hitam tua"
+        },
+        {
+          "english": "a medium sized white bird, with grey wings, a black crown, webbed feet, and a pointy yellow bill.",
+          "indo": "seekor burung putih berukuran sedang, dengan sayap abu-abu, mahkota hitam, kaki berselaput, dan paruh runcing berwarna kuning."
+        },
+        {
+          "english": "this bird has wings that are black and grey and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna hitam abu-abu serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this white bird has black crown and tail, bright orange colored beak and legs.",
+          "indo": "burung berwarna putih ini memiliki mahkota dan ekor berwarna hitam, paruh dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "this bird has a orange bill, with dark orange feet.",
+          "indo": "burung ini mempunyai paruh berwarna jingga, dengan kaki berwarna jingga tua."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0049_151631.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a larger bird with an orange beak, a black nape and grey covering rest of his body",
+          "indo": "burung yang lebih besar dengan paruh oranye, tengkuk hitam dan abu-abu menutupi seluruh tubuhnya"
+        },
+        {
+          "english": "this is a large bird with bright orange feet, a black crown and bill tip, and a smoky grey-white colored body.",
+          "indo": "Ini adalah burung besar dengan kaki oranye terang, mahkota dan ujung paruh hitam, dan tubuh berwarna abu-abu berasap."
+        },
+        {
+          "english": "this bird is white with a black crowned head and a sharp, slightly curving yellow bill.",
+          "indo": "burung ini berwarna putih dengan kepala bermahkota hitam dan paruh runcing berwarna kuning agak melengkung."
+        },
+        {
+          "english": "this bird has really long wings, twice the size of it's body.",
+          "indo": "burung ini mempunyai sayap yang sangat panjang, dua kali ukuran tubuhnya."
+        },
+        {
+          "english": "a large grey bird with a black head and orange feet.",
+          "indo": "seekor burung abu-abu besar dengan kepala hitam dan kaki oranye."
+        },
+        {
+          "english": "this beautiful bird has a whitish grayish body with the top part of his head being black and long grayish wings.",
+          "indo": "burung cantik ini memiliki tubuh berwarna putih keabu-abuan dengan bagian atas kepalanya berwarna hitam dan sayap panjang berwarna keabu-abuan."
+        },
+        {
+          "english": "medium to large grey white and black bird with medium length orange tarsus and a long orange and black beak.",
+          "indo": "burung putih dan hitam abu-abu sedang hingga besar dengan tarsus oranye panjang sedang dan paruh panjang oranye dan hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is black with a gray throat",
+          "indo": "burung ini memiliki perut berwarna hitam dengan tenggorokan berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are white and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "the bird has neon orange bill and feet with a black crown as part of the white and grey body.",
+          "indo": "burung ini memiliki paruh dan kaki berwarna oranye neon dengan mahkota berwarna hitam sebagai bagian tubuh berwarna putih dan abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0053_152175.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a large skinny bill that is black, and large wingbars.",
+          "indo": "burung ini memiliki paruh besar dan kurus berwarna hitam, serta garis sayap yang besar."
+        },
+        {
+          "english": "a large bird has pure white feathers, red feet and a black circle on it's eye.",
+          "indo": "seekor burung besar mempunyai bulu berwarna putih bersih, kaki berwarna merah dan lingkaran hitam pada matanya."
+        },
+        {
+          "english": "this bird is completely white besides its black beak and orange claws.",
+          "indo": "burung ini serba putih selain paruhnya yang hitam dan cakarnya yang berwarna jingga."
+        },
+        {
+          "english": "a bird with a pointed black bill, black crown white body and webbed orange feet.",
+          "indo": "burung dengan paruh runcing berwarna hitam, badan mahkota hitam berwarna putih, dan kaki berselaput berwarna jingga."
+        },
+        {
+          "english": "this white bird has a large wingspan and a medium sized beak.",
+          "indo": "burung berwarna putih ini memiliki rentang sayap yang besar dan paruh berukuran sedang."
+        },
+        {
+          "english": "a predominantly all white bird with a black crown and cheek patch, that also has bright orange feet.",
+          "indo": "burung yang sebagian besar berwarna putih dengan mahkota dan pipi berwarna hitam, yang juga memiliki kaki berwarna oranye terang."
+        },
+        {
+          "english": "a large white bird, with black eyebrows, and a long pointed bill.",
+          "indo": "seekor burung putih besar, dengan alis hitam, dan paruh runcing panjang."
+        },
+        {
+          "english": "the bird is completely white except for orange feet, and a black bill and superciliary.",
+          "indo": "burung itu benar-benar putih kecuali kaki oranye, dan paruh hitam serta superciliary."
+        },
+        {
+          "english": "this majestic bird has a wide wingspan and is covered in white feathers with a long, black bill.",
+          "indo": "burung agung ini memiliki rentang sayap yang lebar dan ditutupi bulu berwarna putih dengan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "this bird has a white crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna putih, bulu primer berwarna putih, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0057_151570.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a large bird with a long beak, and a white and gray body.",
+          "indo": "seekor burung besar dengan paruh panjang, dan tubuh berwarna putih abu-abu."
+        },
+        {
+          "english": "a small bird with a white underbody, a black patch across the eyes and a long sharp beak.",
+          "indo": "seekor burung kecil dengan bagian bawah tubuh berwarna putih, bercak hitam di matanya, dan paruh panjang yang tajam."
+        },
+        {
+          "english": "this bird has a white belly and breast, light brown back and wings, and a black patch over its eyes.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, punggung dan sayap berwarna coklat muda, serta bercak hitam di atas matanya."
+        },
+        {
+          "english": "a small bird with long pointed bill, black cheek patch, and a white breast.",
+          "indo": "burung kecil dengan paruh panjang runcing, pipi hitam, dan dada putih."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black superciliary and long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan superciliary berwarna hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a white belly and brown secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird has a white belly, throat, breast, black eyering, and a thin tarsus.",
+          "indo": "burung ini memiliki perut, tenggorokan, dada berwarna putih, cincin mata berwarna hitam, dan tarsus tipis."
+        },
+        {
+          "english": "this off white bird has a black long beck and looks like a black eye",
+          "indo": "burung putih pucat ini memiliki paruh panjang berwarna hitam dan tampak seperti mata hitam"
+        },
+        {
+          "english": "this bird is white and brown in color, and has a large black beak.",
+          "indo": "burung ini berwarna putih kecokelatan, serta mempunyai paruh besar berwarna hitam."
+        },
+        {
+          "english": "this small bird has a long black beak and black eyerings with a white breast.",
+          "indo": "burung kecil ini memiliki paruh panjang berwarna hitam dan cincin mata berwarna hitam dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0059_151269.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this small bird has orange legs, white and grey feathers and a long, black beak.",
+          "indo": "burung kecil ini memiliki kaki berwarna oranye, bulu berwarna putih dan abu-abu serta paruh panjang berwarna hitam."
+        },
+        {
+          "english": "a medium white bird with a black cheek patch and bill and orange tarsus.",
+          "indo": "burung berwarna putih sedang dengan bercak dan paruh hitam di pipi dan tarsus oranye."
+        },
+        {
+          "english": "bird has a white breast feaher, orange legs, and gray feathers on its body",
+          "indo": "Burung ini memiliki bulu dada berwarna putih, kaki berwarna oranye, dan bulu berwarna abu-abu di badannya"
+        },
+        {
+          "english": "this is a larger bird with a white breast and head, orange feet, and a grey body.",
+          "indo": "ini adalah burung yang lebih besar dengan dada dan kepala berwarna putih, kaki oranye, dan tubuh abu-abu."
+        },
+        {
+          "english": "bird with black beak, white nape, throat, breast, belly and eye, brown tarsus and feet",
+          "indo": "burung dengan paruh hitam, tengkuk putih, tenggorokan, dada, perut dan mata, tarsus dan kaki coklat"
+        },
+        {
+          "english": "the white bird has a black beak and black around the eyes and tail feather.",
+          "indo": "burung berwarna putih memiliki paruh berwarna hitam dan di sekitar mata serta bulu ekornya berwarna hitam."
+        },
+        {
+          "english": "a small bird with black beak, orange feet and a white and grey body, with grey wings.",
+          "indo": "seekor burung kecil dengan paruh hitam, kaki oranye dan tubuh putih abu-abu, dengan sayap abu-abu."
+        },
+        {
+          "english": "a medium size bird with white head, black beak and superciliary and white throat and upper breast with silvery gray wings.",
+          "indo": "burung berukuran sedang dengan kepala putih, paruh hitam dan superciliary serta tenggorokan putih dan dada bagian atas dengan sayap abu-abu keperakan."
+        },
+        {
+          "english": "this bird has a black bill and eyes and a white throat and breast.",
+          "indo": "burung ini memiliki paruh dan mata berwarna hitam serta tenggorokan dan dada berwarna putih."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a black beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0060_152190.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "there is a white bird with a black head and orange feet.",
+          "indo": "ada seekor burung berwarna putih dengan kepala berwarna hitam dan kaki berwarna jingga."
+        },
+        {
+          "english": "this white bird has orange feet, yellow beak with black at the tip, a black on top of the head and around the eyes, and gray at the tips of the wings.",
+          "indo": "Burung berwarna putih ini memiliki kaki berwarna jingga, paruh berwarna kuning dengan ujung berwarna hitam, bagian atas kepala dan sekitar mata berwarna hitam, serta berwarna abu-abu di ujung sayap."
+        },
+        {
+          "english": "the bird has a black crown and nape area with wide white wings.",
+          "indo": "burung ini memiliki area mahkota dan tengkuk berwarna hitam dengan sayap lebar berwarna putih."
+        },
+        {
+          "english": "this white bird has a black crown and a yellow and black bill",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh berwarna kuning dan hitam"
+        },
+        {
+          "english": "this bird has orange beak and orange webbed feet with mostly white feathers, but a black head.",
+          "indo": "burung ini mempunyai paruh berwarna jingga dan kaki berselaput  berwarna jingga dengan sebagian besar bulu berwarna putih, namun kepalanya berwarna hitam."
+        },
+        {
+          "english": "a white bird with a black head orange feet and an orange and black pointed beak.",
+          "indo": "seekor burung putih dengan kepala hitam, kaki oranye, dan paruh runcing oranye dan hitam."
+        },
+        {
+          "english": "this bird is mostly white and gray, but has a black head.",
+          "indo": "burung ini sebagian besar berwarna putih dan abu-abu, namun memiliki kepala berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this large bird has an orange bill and black crown but has a white throat and belly.",
+          "indo": "burung berukuran besar ini memiliki paruh berwarna jingga dan mahkota berwarna hitam namun memiliki tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has an orange beak with a black head, a white body, and orange webbed feet.",
+          "indo": "burung ini memiliki paruh berwarna jingga dengan kepala berwarna hitam, badan berwarna putih, dan kaki berselaput berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0062_151780.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a white bird with a black cap on its head and a large orange bill.",
+          "indo": "ini adalah burung berwarna putih dengan topi hitam di kepalanya dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "a large bird with with white side and breast with black crown and orange bill",
+          "indo": "seekor burung besar dengan sisi dan dada berwarna putih, mahkota hitam dan paruh oranye"
+        },
+        {
+          "english": "a medium bird with an all white body, black crown, and large orange bill.",
+          "indo": "burung berukuran sedang dengan tubuh serba putih, mahkota hitam, dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this is a large, white bird with a black crown and orange bill.",
+          "indo": "ini adalah burung besar berwarna putih dengan mahkota hitam dan paruh oranye."
+        },
+        {
+          "english": "this is a large white bird with large white wings a black head and long multi colored beak.",
+          "indo": "ini adalah burung putih besar dengan sayap putih besar, kepala hitam dan paruh panjang berwarna-warni."
+        },
+        {
+          "english": "this white bird with big, long wings has a black head and an orange and black bill.",
+          "indo": "burung berwarna putih dengan sayap besar dan panjang ini memiliki kepala berwarna hitam dan paruh berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black crown",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "the bird has a white back and black crown",
+          "indo": "burung itu memiliki punggung berwarna putih dan mahkota berwarna hitam"
+        },
+        {
+          "english": "the bird has a long yellow bill, black crown, long white wingbars.",
+          "indo": "burung ini mempunyai paruh panjang berwarna kuning, mahkota berwarna hitam, dan garis sayap berwarna putih panjang."
+        },
+        {
+          "english": "this large white bird has a long wingspan and a black crown.",
+          "indo": "burung besar berwarna putih ini memiliki rentang sayap yang panjang dan mahkota berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0064_152047.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a medium sized bird with bright orange legs, feet and beak, the tip of the bill is black and the crown and half of the head is black, the chest and throat are white and the wings are and tail feathers are grey.",
+          "indo": "burung ini berukuran sedang dengan kaki, kaki dan paruh berwarna jingga cerah, ujung paruh berwarna hitam dan ubun-ubun serta separuh kepala berwarna hitam, dada dan tenggorokan berwarna putih serta sayap dan bulu ekor berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a white and grey overall color except from it's orange bill and black crown and nape.",
+          "indo": "burung ini memiliki warna keseluruhan putih dan abu-abu kecuali paruh oranye dan mahkota serta tengkuknya berwarna hitam."
+        },
+        {
+          "english": "this white bird has a black crown and a long pointed bill that is an orange with a bit of black.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh runcing panjang berwarna oranye dengan sedikit warna hitam."
+        },
+        {
+          "english": "this mostly light grey bird is medium sized and has a jet black crown, a long yellow bill with a black tip, and orange feet and tarsi.",
+          "indo": "burung yang sebagian besar berwarna abu-abu muda ini berukuran sedang dan memiliki mahkota berwarna hitam legam, paruh panjang berwarna kuning dengan ujung berwarna hitam, serta kaki dan tarsi berwarna oranye."
+        },
+        {
+          "english": "this large bird has a white body, grey wing, and black crown.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna putih, sayap berwarna abu-abu, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white with a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has a black crown, a white belly, and an orange and black bill.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, perut berwarna putih, dan paruh berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird has a black and white head, a short bill that is yellow with a black tip an grey and white feathers throughout its body.",
+          "indo": "Burung ini mempunyai kepala berwarna hitam putih, paruh pendek berwarna kuning dengan ujung berwarna hitam, serta bulu berwarna abu-abu dan putih diseluruh tubuhnya."
+        },
+        {
+          "english": "a white bird with grey wings, a black crown and a long orange bill with a black tip.",
+          "indo": "burung berwarna putih dengan sayap abu-abu, mahkota hitam dan paruh panjang berwarna oranye dengan ujung hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black crown",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai mahkota berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0065_152206.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a medium sized bird with bright orange feet and a long,orange, narrow, pointy bill, the chest is pure white and the majority of the head, until below the eye, is black feathered and the wings and tail of the bird are grey.",
+          "indo": "burung ini berukuran sedang dengan kaki berwarna jingga cerah dan paruh panjang, jingga, sempit, runcing, dada berwarna putih bersih dan sebagian besar kepala hingga bawah mata berbulu hitam serta sayap dan ekor burung tersebut. abu-abu."
+        },
+        {
+          "english": "a white bird with a black crown, gray rectrices and a long orange bill.",
+          "indo": "seekor burung putih dengan mahkota hitam, rectrices  abu-abu, dan paruh oranye panjang."
+        },
+        {
+          "english": "a gray bird with a white belly and a black crown with a yellow bill",
+          "indo": "burung berwarna abu-abu dengan perut putih dan mahkota hitam dengan paruh kuning"
+        },
+        {
+          "english": "this bird has a white belly and breast with a black crown and long pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird has a head that is top halved black and bottom halved white, the bill is long, skinny and very pointy, the throat and chest are also white.",
+          "indo": "burung ini mempunyai kepala yang dibelah dua bagian atas berwarna hitam dan bagian bawah berwarna putih, paruhnya panjang, kurus dan sangat runcing, tenggorokan dan dadanya juga berwarna putih."
+        },
+        {
+          "english": "this water bird has light gray upperparts, white to light gray belly and a black cap on its head.",
+          "indo": "burung air ini memiliki bagian atas berwarna abu-abu muda, perut berwarna putih hingga abu-abu muda, dan penutup kepala berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a black crown and nape, long and flat bill, pink feet and black, white and grey side, coverts and wingbars.",
+          "indo": "ini adalah burung dengan mahkota dan tengkuk berwarna hitam, paruh panjang dan rata, kaki berwarna merah muda dan sisi hitam, putih dan abu-abu, bulu dan sayap."
+        },
+        {
+          "english": "a white and grey bird with a black head and a long beak.",
+          "indo": "burung berwarna putih abu-abu dengan kepala hitam dan paruh panjang."
+        },
+        {
+          "english": "this bird is white and black in color, and has a orange and black beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna jingga dan hitam."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0066_151478.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this white bird has a long tail, and a black beak, and black around its eyes.",
+          "indo": "burung berwarna putih ini memiliki ekor yang panjang, paruh berwarna hitam, dan sekeliling matanya berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with grey wings, and orange feet, and a long bill",
+          "indo": "burung berukuran sedang dengan sayap abu-abu, kaki oranye, dan paruh panjang"
+        },
+        {
+          "english": "a medium sized bird that has grey wings and a long pointed bill",
+          "indo": "burung berukuran sedang yang memiliki sayap berwarna abu-abu dan paruh runcing panjang"
+        },
+        {
+          "english": "this bird is white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a white throat, grey wing, black eye and orange feet.",
+          "indo": "burung ini memiliki tenggorokan berwarna putih, sayap abu-abu, mata hitam, dan kaki berwarna oranye."
+        },
+        {
+          "english": "a medium sized grey bird, with black eyerings, and a long pointed black bill.",
+          "indo": "seekor burung abu-abu berukuran sedang, dengan cincin mata hitam, dan paruh hitam panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly and orange legs",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu serta mempunyai perut berwarna putih dan kaki berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are grey and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has orange tarsus' and a white breast body color",
+          "indo": "burung ini mempunyai tarsus oranye dan warna badan dada putih"
+        },
+        {
+          "english": "this bird has a pointed black bill, with a white back.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan punggung berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0068_152078.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird has a white breast and belly with gray wings, black eyebrows, black pointed beak, and orange feet.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan sayap berwarna abu-abu, alis berwarna hitam, paruh runcing hitam, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a white breast and belly, grey wings and a black patch around the eyes.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, sayap berwarna abu-abu, dan bercak hitam di sekitar matanya."
+        },
+        {
+          "english": "this bird has black eyebrows, a long black bill, with orange feet, and mostly white head and underbelly, contrasted by its grey wing, tail, side, and back feathers.",
+          "indo": "burung ini mempunyai alis berwarna hitam, paruh hitam panjang, kaki berwarna jingga, dan sebagian besar kepala dan perut berwarna putih, kontras dengan bulu sayap, ekor, samping, dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this medium sized bird has grey wings and a white breast",
+          "indo": "burung berukuran sedang ini memiliki sayap berwarna abu-abu dan dada berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly and breast with a long black pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan paruh panjang berwarna hitam dan runcing."
+        },
+        {
+          "english": "a medium sized bird with a very long black beak, the bird is white with a grey wing and grey very long tail feather.",
+          "indo": "burung berukuran sedang dengan paruh berwarna hitam sangat panjang, burung berwarna putih dengan sayap berwarna abu-abu dan bulu ekor berwarna abu-abu sangat panjang."
+        },
+        {
+          "english": "white bird with webbed feet, black bill and superciliary, grey back, wings and tailfeathers.",
+          "indo": "burung putih dengan kaki berselaput, paruh hitam dan superciliary, punggung abu-abu, sayap dan bulu ekor."
+        },
+        {
+          "english": "a small bird with a long pointy black beak and a white breast.",
+          "indo": "seekor burung kecil dengan paruh hitam panjang dan runcing serta dada berwarna putih."
+        },
+        {
+          "english": "this bird is great and white it has a very long web orange feet and legs it has a white head with a black spot around it i am a very long black beak",
+          "indo": "Burung putih besar ini mempunyai kaki dan tungkai berwarna jingga dengan selaput panjang, kepalanya berwarna putih dengan bintik hitam di sekelilingnya. Saya paruh berwarna hitam yang sangat panjang"
+        },
+        {
+          "english": "a gray and white bird with a black spot over its eye and a black pointed beak.",
+          "indo": "burung berwarna abu-abu putih dengan bintik hitam di atas matanya dan paruh runcing hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0069_151229.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a bird with downward curved black and orange bill, black crown, and white body.",
+          "indo": "burung dengan paruh melengkung ke bawah berwarna hitam jingga, mahkota berwarna hitam, dan badan berwarna putih."
+        },
+        {
+          "english": "this bird has a black crown, orange beaks, feet, and tarsus, and a white throat, breast and belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh, kaki, dan tarsus berwarna oranye, serta tenggorokan, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is white with a black head and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white tern with orange beak, long and strong wings that are white colored on the ventral side and black colored on the dorsal side.",
+          "indo": "burung laut berwarna putih dengan paruh berwarna jingga, sayap yang panjang dan kuat, berwarna putih pada bagian perut dan hitam pada bagian punggung."
+        },
+        {
+          "english": "the birds has a white overall color aside from the tip of its wings and top of its head which is in black.",
+          "indo": "burung ini memiliki warna keseluruhan putih selain ujung sayap dan atas kepalanya yang berwarna hitam."
+        },
+        {
+          "english": "the is colorful bird has a long black beak with orange feet",
+          "indo": "Burung berwarna-warni ini memiliki paruh hitam panjang dengan kaki berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has a white belly and long grey and black wings.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap panjang berwarna abu-abu dan hitam."
+        },
+        {
+          "english": "this bird has a pointed orange bill, with a white breast.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna jingga, dengan dada berwarna putih."
+        },
+        {
+          "english": "a white bird with a long beak and grey tinted wings.",
+          "indo": "seekor burung berwarna putih dengan paruh panjang dan sayap berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0070_152107.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird is white but with a black face and a pointed beak.",
+          "indo": "burung itu berwarna putih tetapi mukanya hitam dan paruhnya runcing."
+        },
+        {
+          "english": "this is a white bird with a black head and bright orange bill and feet.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam dan paruh serta kaki berwarna oranye terang."
+        },
+        {
+          "english": "this white bird has two outer rectrices that are grey and longer than their compatriots, orange feet, a black crown and superciliary, and a black-tipped orange bill.",
+          "indo": "burung berwarna putih ini memiliki dua rectrices luar yang berwarna abu-abu dan lebih panjang dari rekan senegaranya, kaki berwarna oranye, mahkota dan superciliary berwarna hitam, serta paruh berwarna oranye dengan ujung hitam."
+        },
+        {
+          "english": "this bird is black and white in color with a orange and black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna oranye dan hitam, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "a medium bird with a large wingspan, orange feet and an orange beak that's tipped with black.",
+          "indo": "burung berukuran sedang dengan rentang sayap besar, kaki berwarna oranye, dan paruh berwarna oranye dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white with a orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird is white and black in color, with a orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "a large white bird with a black head and orange beak, it has a very wide wingspan.",
+          "indo": "burung besar berwarna putih dengan kepala berwarna hitam dan paruh berwarna jingga, mempunyai rentang sayap yang sangat lebar."
+        },
+        {
+          "english": "the bird has a black crown with white wings.",
+          "indo": "burung itu memiliki mahkota berwarna hitam dengan sayap berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0071_152142.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the flying bird is pale white with black surrounding its eye area",
+          "indo": "burung terbang berwarna putih pucat dengan warna hitam di sekeliling area matanya"
+        },
+        {
+          "english": "a large bird with white breast and side having black cheek patch and the bill is medium and pointed",
+          "indo": "seekor burung besar dengan dada dan samping berwarna putih, bercak hitam di pipi, dan paruhnya sedang dan runcing"
+        },
+        {
+          "english": "this is a white bird with a black eye ring and orange feet.",
+          "indo": "ini adalah burung berwarna putih dengan cincin mata hitam dan kaki oranye."
+        },
+        {
+          "english": "this bird is white with grey on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna abu-abu pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with long primaries and secondaries and black around the eyering",
+          "indo": "seekor burung berwarna putih dengan bulu primer dan bulu sekunder yang panjang dan berwarna hitam di sekitar cincin mata"
+        },
+        {
+          "english": "this bird has wings that are grey with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white in color, with a large black beak.",
+          "indo": "burung ini berwarna putih, dengan paruh besar berwarna hitam."
+        },
+        {
+          "english": "this bird is white and black in color, with a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "a white bird with a black spot around its eye and orange feet.",
+          "indo": "burung berwarna putih dengan bintik hitam di sekitar mata dan kaki berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0075_152258.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird is white with orange legs and webbed feet and a black beak and eye.",
+          "indo": "burung itu berwarna putih dengan kaki oranye dan kaki berselaput serta paruh dan mata hitam."
+        },
+        {
+          "english": "a white bird with a black eye ring and long pointed black beak.",
+          "indo": "seekor burung berwarna putih dengan cincin mata hitam dan paruh hitam runcing panjang."
+        },
+        {
+          "english": "this bird has a large black bill, orange tarsus and feet, and a black cheek patch.",
+          "indo": "burung ini memiliki paruh besar berwarna hitam, tarsus dan kaki berwarna oranye, serta bercak di pipi berwarna hitam."
+        },
+        {
+          "english": "this bird has a large wingspan, a bright orange foot, and a back cheek patch",
+          "indo": "burung ini memiliki rentang sayap yang besar, kaki berwarna jingga cerah, dan bagian pipi belakang"
+        },
+        {
+          "english": "this bird has a white belly and breast, white wings with two white wingbars.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, sayap berwarna putih dengan dua garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is white with a black, pointed beak, and orange tarsus and feet.",
+          "indo": "burung ini berwarna putih dengan paruh hitam runcing, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is white and black in color, with a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has webbed feet, two long white wingbars and a white belly.",
+          "indo": "burung itu memiliki kaki berselaput, dua garis sayap panjang berwarna putih, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0076_151330.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has two long wingbars and a large bill.",
+          "indo": "burung ini mempunyai dua garis sayap yang panjang dan paruh yang besar."
+        },
+        {
+          "english": "this bird has a long pointed beak and is all white in color save for its tail, the tip of its beak, and around its eyes whichecked is black in color.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing dan seluruh warnanya putih kecuali ekornya, ujung paruhnya, dan sekitar matanya yang berbintik-bintik berwarna hitam."
+        },
+        {
+          "english": "the bird is white with a black crown and a yellow beak with a black tip.",
+          "indo": "burungnya berwarna putih dengan mahkota hitam dan paruh kuning dengan ujung hitam."
+        },
+        {
+          "english": "this is a grey bird with a black head and a pointy orange beak.",
+          "indo": "ini adalah burung abu-abu dengan kepala hitam dan paruh oranye runcing."
+        },
+        {
+          "english": "the bird has a white belly, the bill is long and pointed, with white wings and a black head.",
+          "indo": "burung ini perutnya berwarna putih, paruhnya panjang dan runcing, sayapnya berwarna putih dan kepalanya berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white with a black head",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan kepala berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and a orange bill",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta paruh berwarna oranye"
+        },
+        {
+          "english": "this is a large white bird the crown and nape are black and its bill and feet are orange.",
+          "indo": "ini adalah burung besar berwarna putih, mahkota dan tengkuknya berwarna hitam, serta paruh dan kakinya berwarna oranye."
+        },
+        {
+          "english": "a large bird with a white coloring and black head and orange beak with black tip.",
+          "indo": "burung besar dengan warna putih dan kepala hitam serta paruh oranye dengan ujung hitam."
+        },
+        {
+          "english": "a white bird with a black crown and orange pointed beak.",
+          "indo": "burung berwarna putih dengan mahkota hitam dan paruh runcing oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0077_152255.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this larger bird is almost all gray with darker wings and a black crest.",
+          "indo": "burung yang lebih besar ini hampir semuanya berwarna abu-abu dengan sayap lebih gelap dan jambul hitam."
+        },
+        {
+          "english": "this bird has an orange bill, a black crown, and large wings that are white",
+          "indo": "burung ini mempunyai paruh berwarna jingga, mahkota berwarna hitam, dan sayap besar berwarna putih"
+        },
+        {
+          "english": "a large bird with a curved long wingspan, and a black top on crown, and a long orange bill.",
+          "indo": "seekor burung besar dengan rentang sayap panjang melengkung, mahkota bagian atas berwarna hitam, dan paruh oranye panjang."
+        },
+        {
+          "english": "this bird has a black crown and nape area with the rest of its body covered in grey and white feathers.",
+          "indo": "burung ini memiliki area mahkota dan tengkuk berwarna hitam dengan seluruh tubuhnya ditutupi bulu berwarna abu-abu dan putih."
+        },
+        {
+          "english": "this is a white bird with grey wings, a black head and orange feet and beak.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu, kepala hitam dan kaki serta paruh oranye."
+        },
+        {
+          "english": "this bird has wings that are grey with a white belly and orange beak",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna putih dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has a black head and nape, black on the tip of its bill and white and grey feathers.",
+          "indo": "burung ini memiliki kepala dan tengkuk berwarna hitam, ujung paruhnya berwarna hitam, serta bulunya berwarna putih abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan sisi berwarna abu-abu"
+        },
+        {
+          "english": "this bird is white, black and gray in color, and has a sharp orange beak.",
+          "indo": "burung ini berwarna putih, hitam dan abu-abu, serta mempunyai paruh berwarna jingga runcing."
+        },
+        {
+          "english": "this bird is white and black in color, and has a orange beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0080_152521.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a small white bird with a long bill and a black crown.",
+          "indo": "seekor burung kecil berwarna putih dengan paruh panjang dan mahkota hitam."
+        },
+        {
+          "english": "this colorful bird has a black crown area, a blue chest area and a mixture of blue and white on the remainder of his body.",
+          "indo": "burung berwarna warni ini mempunyai area mahkota berwarna hitam, area dada berwarna biru serta perpaduan warna biru dan putih pada bagian tubuhnya yang lain."
+        },
+        {
+          "english": "a white bird with light gray wings, a black crown and eyes, and an orange bill and feet.",
+          "indo": "seekor burung putih dengan sayap abu-abu muda, mahkota dan mata hitam, serta paruh dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a light gray body, bright orange feet and legs, a long orange bill with a black tip and a black crown.",
+          "indo": "burung ini mempunyai badan berwarna abu-abu muda, kaki dan tungkai berwarna jingga cerah, paruh panjang berwarna jingga dengan ujung berwarna hitam, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a white throat and breast, grey wings, a black crown and nape, and a long pointed orange bill with a black tip.",
+          "indo": "burung ini memiliki tenggorokan dan dada berwarna putih, sayap berwarna abu-abu, mahkota dan tengkuk berwarna hitam, serta paruh panjang berwarna oranye dan runcing dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this bird is white and black in color, with a multi colored beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh beraneka warna."
+        },
+        {
+          "english": "this white-and-grey bird has a long, pointed black-tipped beak, black crown, and orange-red legs.",
+          "indo": "burung berwarna putih abu-abu ini memiliki paruh panjang berujung hitam runcing, mahkota berwarna hitam, dan kaki berwarna oranye-merah."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "black head, white throat, white breast, grey winglets, short tarsus, short bill",
+          "indo": "kepala hitam, tenggorokan putih, dada putih, sayap abu-abu, tarsus pendek, paruh pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0082_151937.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a white belly and breast and a black crown.",
+          "indo": "burung itu memiliki perut dan dada berwarna putih serta mahkota berwarna hitam."
+        },
+        {
+          "english": "a large white bird with a black face and long black beak",
+          "indo": "seekor burung putih besar dengan wajah hitam dan paruh hitam panjang"
+        },
+        {
+          "english": "this bird entirely white except for a black crown, black and orange bill and orange feet.",
+          "indo": "burung ini seluruhnya berwarna putih kecuali mahkota berwarna hitam, paruh berwarna hitam jingga, dan kaki jingga."
+        },
+        {
+          "english": "this larger bird is primarily white, with a black crown and eye, orange webbed feet and a pointed black and orange beak.",
+          "indo": "burung yang lebih besar ini sebagian besar berwarna putih, dengan mahkota dan mata hitam, kaki berselaput oranye, dan paruh runcing berwarna hitam dan oranye."
+        },
+        {
+          "english": "a large white bird with a long, black-tipped beak, with a black crown and black markings around its eyes.",
+          "indo": "seekor burung putih besar dengan paruh panjang berujung hitam, dengan mahkota hitam dan tanda hitam di sekitar matanya."
+        },
+        {
+          "english": "this flying bird has a white breast, a black crown, and blue and white wingbars.",
+          "indo": "burung terbang ini memiliki dada berwarna putih, mahkota berwarna hitam, dan sayap berwarna biru putih."
+        },
+        {
+          "english": "this bird has wings that are blue and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna biru dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "white bird with long bill, wings are blue on the outer feathers and white on the inner feathers, short, flat ended tail.",
+          "indo": "burung berwarna putih dengan paruh panjang, sayap berwarna biru pada bulu bagian luar dan putih pada bulu bagian dalam, ekor pendek dan ujungnya rata."
+        },
+        {
+          "english": "this bird has a orange tarsus color with a orange bill color",
+          "indo": "burung ini mempunyai warna tarsus oranye dengan warna paruh oranye"
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0083_151282.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "large bird with long skinny orange legs and mostly white feathers",
+          "indo": "burung besar dengan kaki panjang berwarna oranye kurus dan sebagian besar bulu berwarna putih"
+        },
+        {
+          "english": "this is a medium sized mainly white bird with a black crown.",
+          "indo": "ini adalah burung berukuran sedang yang sebagian besar berwarna putih dengan mahkota hitam."
+        },
+        {
+          "english": "a medium sized bird with a black crown and grey wings",
+          "indo": "burung berukuran sedang dengan mahkota hitam dan sayap abu-abu"
+        },
+        {
+          "english": "this grey and white bird has a long, pointed orange beak with a black tip and a black crown.",
+          "indo": "burung berwarna abu-abu putih ini memiliki paruh panjang berwarna oranye runcing dengan ujung berwarna hitam dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown and nape with grey coverts and white body.",
+          "indo": "burung ini mempunyai mahkota dan tengkuk berwarna hitam dengan bulu berwarna abu-abu dan badan berwarna putih."
+        },
+        {
+          "english": "a white bird with black crown and an orange and black beak.",
+          "indo": "seekor burung putih dengan mahkota hitam dan paruh oranye dan hitam."
+        },
+        {
+          "english": "this white bird has gray wings and tail, black head and nape and a pointed beak that's orange at the base and black at the tip",
+          "indo": "burung berwarna putih ini memiliki sayap dan ekor berwarna abu-abu, kepala dan tengkuk berwarna hitam serta paruh runcing berwarna oranye di bagian pangkal dan hitam di bagian ujung."
+        },
+        {
+          "english": "the bird has a white breast and belly, an orange bill and feet, and a black crown",
+          "indo": "burung ini memiliki dada dan perut berwarna putih, paruh dan kaki berwarna oranye, serta mahkota berwarna hitam"
+        },
+        {
+          "english": "the bird has a black crown and a long orange bill and black.",
+          "indo": "burung tersebut memiliki mahkota berwarna hitam dan paruh panjang berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird has a black crown with a white throat and orange feet.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tenggorokan berwarna putih dan kaki berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0086_152738.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has an orange bill and a black bill as well.",
+          "indo": "burung itu mempunyai paruh berwarna jingga dan juga paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a solid black crown and eyebrow area, some grey wing and inner rectrices, and orange feet and bill.",
+          "indo": "burung ini memiliki area mahkota dan alis berwarna hitam pekat, beberapa sayap abu-abu dan inner rectrices, serta kaki dan paruh berwarna oranye."
+        },
+        {
+          "english": "the bird has a white and grey abdomen and breast, as well as a black crown with orange bill with a black tip.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih abu-abu, serta mahkota berwarna hitam dengan paruh berwarna oranye dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this is a large bird with a black crown and orange bill and feet.",
+          "indo": "ini adalah burung besar dengan mahkota hitam dan paruh serta kaki oranye."
+        },
+        {
+          "english": "a bird with a large pointed bill tipped in black, black crown, and webbed orange feet.",
+          "indo": "seekor burung dengan paruh besar runcing berujung hitam, mahkota hitam, dan kaki berselaput oranye."
+        },
+        {
+          "english": "this bird has a white breast with large grey wings.",
+          "indo": "burung ini memiliki dada berwarna putih dengan sayap besar berwarna abu-abu."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the small bird has a long pointed orange bill with black tip, a black crown with grey white neck breaks and bell feathers, and grey wings with orange web feet.",
+          "indo": "burung kecil ini mempunyai paruh panjang berwarna jingga runcing dengan ujung berwarna hitam, mahkota berwarna hitam dengan patah leher berwarna abu-abu putih dan bulu lonceng, serta sayap berwarna abu-abu dengan kaki berselaput berwarna jingga."
+        },
+        {
+          "english": "this little bird has a black crown, grey primaries, and a white belly.",
+          "indo": "burung kecil ini memiliki mahkota berwarna hitam, warna bulu primer abu-abu, dan perut berwarna putih."
+        },
+        {
+          "english": "this large white bird has gray feathers on its wings, and a black patch atop its head.",
+          "indo": "burung putih besar ini memiliki bulu berwarna abu-abu di sayapnya, dan bercak hitam di atas kepalanya."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0087_151226.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the white and grey bird has a black beak and black eyebrows.",
+          "indo": "burung berwarna putih abu-abu memiliki paruh hitam dan alis hitam."
+        },
+        {
+          "english": "this bird has a white head, a black superciliary, and a pointed black bill.",
+          "indo": "burung ini mempunyai kepala berwarna putih, superciliary berwarna hitam, dan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "the bird has a black eye brown and ruffled feathers that are variegated in color.",
+          "indo": "Burung ini memiliki mata berwarna coklat kehitaman dan bulu acak-acakan yang warnanya beraneka ragam."
+        },
+        {
+          "english": "this bird is black and white in color with a skinny black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh hitam kurus, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with white feathers and a long black beak.",
+          "indo": "seekor burung kecil dengan bulu putih dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird has wings that are white with black tailfeathers",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dengan bulu ekor berwarna hitam"
+        },
+        {
+          "english": "the small bird has a pointy black bill, a small dark eye with orange feet.",
+          "indo": "burung kecil itu mempunyai paruh berwarna hitam runcing, mata kecil berwarna gelap dengan kaki berwarna jingga."
+        },
+        {
+          "english": "this bird is nearly completely white, with a black tail and black around the eyes.",
+          "indo": "burung ini hampir seluruhnya berwarna putih, dengan ekor berwarna hitam dan sekeliling matanya berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0088_151893.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a medium sized bird that has white feathers and a black tipped head",
+          "indo": "burung berukuran sedang yang memiliki bulu berwarna putih dan kepala berujung hitam"
+        },
+        {
+          "english": "this larger bird is nearly all white with a black crown, and orange bill and feet.",
+          "indo": "burung yang lebih besar ini hampir semuanya berwarna putih dengan mahkota hitam, serta paruh dan kaki berwarna oranye."
+        },
+        {
+          "english": "the bird has a white body with a black crown and orange feet.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan mahkota berwarna hitam dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird is white and black in color with a long curved orange beak, and black eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh panjang melengkung berwarna jingga, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this large bird has a white body, black crown and orange beak with a black tip.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna putih, mahkota berwarna hitam, dan paruh berwarna oranye dengan ujung berwarna hitam."
+        },
+        {
+          "english": "the bird has a black and orange beck white belly and black head with orange feet and grey wings",
+          "indo": "burung ini memiliki perut putih berwarna hitam dan oranye dan kepala hitam dengan kaki oranye dan sayap abu-abu"
+        },
+        {
+          "english": "the bird has a long bill that is yellow and black and has two large wingbars.",
+          "indo": "burung ini memiliki paruh panjang berwarna kuning dan hitam serta memiliki dua garis sayap yang besar."
+        },
+        {
+          "english": "this bird is white and black in color, with a multi colored beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh beraneka warna."
+        },
+        {
+          "english": "this large bird has a black crown, with a long thin orange bill that has a black tip.",
+          "indo": "burung berukuran besar ini memiliki mahkota berwarna hitam, dengan paruh panjang berwarna oranye yang ujungnya berwarna hitam."
+        },
+        {
+          "english": "this bird has a long beak that is orange and black, white body, white wings with grey primaries, and orange tarsus and feet.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dan hitam, badan berwarna putih, sayap berwarna putih dengan warna bulu primer abu-abu, serta tarsus dan kaki berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0089_152372.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the brownish bird has a mixture of white and brown on his crown, also majority of his body excluding his yellow feet.",
+          "indo": "Burung berwarna kecoklatan ini memiliki campuran warna putih dan coklat pada bagian ubun-ubunnya, juga sebagian besar tubuhnya kecuali kakinya yang berwarna kuning."
+        },
+        {
+          "english": "a small sized bird that has a cream belly and a short pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna krem ​​​​dan paruh runcing pendek"
+        },
+        {
+          "english": "this is a bird with a white breast and brown wings with a small beak.",
+          "indo": "ini adalah burung dengan dada putih dan sayap coklat dengan paruh kecil."
+        },
+        {
+          "english": "this bird is white with grey on its back and has a very short beak.",
+          "indo": "burung ini berwarna putih dengan punggung berwarna abu-abu dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a white belly and gray striped wings and head.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap serta kepala bergaris abu-abu."
+        },
+        {
+          "english": "this small bird has yellow feet, a black bill, and gray wings.",
+          "indo": "burung kecil ini memiliki kaki berwarna kuning, paruh berwarna hitam, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has tiny orange feet and round black eye.",
+          "indo": "burung ini memiliki kaki kecil berwarna oranye dan mata bulat berwarna hitam."
+        },
+        {
+          "english": "this is a gray bird with white throat, breast and belly and a small black pointed beak.",
+          "indo": "ini adalah burung abu-abu dengan tenggorokan, dada dan perut berwarna putih serta paruh kecil runcing berwarna hitam."
+        },
+        {
+          "english": "this bird has golden tarsus and feet, with a large white breast and belly.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna emas, dengan dada dan perut besar berwarna putih."
+        },
+        {
+          "english": "this bird has a grey crown with a white throat and yellow feet.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu dengan tenggorokan berwarna putih dan kaki berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0091_151895.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has an orange tarsus and an orange and black bill.",
+          "indo": "burung itu memiliki tarsus berwarna jingga dan paruh berwarna jingga dan hitam."
+        },
+        {
+          "english": "a medium sized white bird that has black head markings and a long pointed bill",
+          "indo": "burung berwarna putih berukuran sedang dengan corak kepala berwarna hitam dan paruh runcing panjang"
+        },
+        {
+          "english": "a large bird with long and curved wings, and a orange bill.",
+          "indo": "seekor burung besar dengan sayap panjang dan melengkung, serta paruh berwarna oranye."
+        },
+        {
+          "english": "the bird has orange tarsus, a very white body, a long tail, and a orange and black beak.",
+          "indo": "burung tersebut memiliki tarsus berwarna jingga, badan sangat putih, ekor panjang, dan paruh berwarna jingga dan hitam."
+        },
+        {
+          "english": "this large bird is white with a black head, has large wing span, large tail, and large feet.",
+          "indo": "burung besar ini berwarna putih dengan kepala berwarna hitam, mempunyai rentang sayap besar, ekor besar, dan kaki besar."
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and an orange bill with a black tip",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta paruh berwarna oranye dengan ujung berwarna hitam"
+        },
+        {
+          "english": "this large white seabird has a black crown and a sharp bill.",
+          "indo": "burung laut putih besar ini memiliki mahkota berwarna hitam dan paruh yang runcing."
+        },
+        {
+          "english": "this large bird has white feathers with a black crown and orange bill.",
+          "indo": "burung berukuran besar ini memiliki bulu berwarna putih dengan mahkota berwarna hitam dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has a black crown, white primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna putih, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has large wings, a white body, black fur on its head, orange legs, a long tail, and pointy beak.",
+          "indo": "burung ini mempunyai sayap yang besar, badan berwarna putih, bulu di kepala berwarna hitam, kaki berwarna jingga, ekor yang panjang, dan paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0092_152119.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has skinny tarsus that is red as well as a skinny bill.",
+          "indo": "burung itu mempunyai tarsus kurus yang berwarna merah dan paruhnya tipis."
+        },
+        {
+          "english": "the bird is white in color, crown solid black, wing tips shaded black, bright orange legs and beak.",
+          "indo": "burung berwarna putih, mahkota berwarna hitam pekat, ujung sayap berwarna hitam, kaki dan paruh berwarna jingga cerah."
+        },
+        {
+          "english": "this large white bird has orange feet, a black head and a long black and orange bill.",
+          "indo": "burung besar berwarna putih ini memiliki kaki berwarna jingga, kepala berwarna hitam, dan paruh panjang berwarna hitam jingga."
+        },
+        {
+          "english": "the white bird has a long orange beak and a black head.",
+          "indo": "burung berwarna putih memiliki paruh panjang berwarna oranye dan kepala berwarna hitam."
+        },
+        {
+          "english": "a bird with a white belly and a black crown.",
+          "indo": "seekor burung dengan perut putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a body and wings of white, and its head is a dark green.",
+          "indo": "Burung ini mempunyai badan dan sayap berwarna putih, serta kepalanya berwarna hijau tua."
+        },
+        {
+          "english": "this bird has wings that are white and has a black head",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan kepala berwarna hitam"
+        },
+        {
+          "english": "this white bellied bird features a black head with orange tarsus, feet and a long narrow beak that fades from orange to black.",
+          "indo": "burung berperut putih ini memiliki kepala berwarna hitam dengan tarsus oranye, kaki dan paruh sempit panjang yang memudar dari oranye menjadi hitam."
+        },
+        {
+          "english": "this bird has long sharp pointed bill orange foot, tarsus white colored widespread wing bars, rectrices",
+          "indo": "Burung ini mempunyai paruh panjang, runcing, kaki oranye, tarsus sayap lebar berwarna putih, berbentuk rectrices "
+        },
+        {
+          "english": "this bird has a black head, pink feet, a wide tail, large wings, and a very long, pointy and narrow beak.",
+          "indo": "burung ini memiliki kepala berwarna hitam, kaki berwarna merah muda, ekor lebar, sayap besar, dan paruh sangat panjang, runcing dan sempit."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0095_152067.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the head of the bird is black and the body is white while the beak is orange.",
+          "indo": "kepala burung berwarna hitam dan badan berwarna putih sedangkan paruhnya berwarna jingga."
+        },
+        {
+          "english": "this bird has white abdomen and breast, with black crown and black and orange bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, mahkota berwarna hitam, dan paruh berwarna hitam jingga."
+        },
+        {
+          "english": "a mostly white bird with black topped head and pointy beak",
+          "indo": "burung yang sebagian besar berwarna putih dengan kepala bagian atas berwarna hitam dan paruh runcing"
+        },
+        {
+          "english": "this white bird features shades of gray on its wings and a long, orange beak.",
+          "indo": "burung berwarna putih ini memiliki corak abu-abu pada sayapnya dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp beak, and black eye rings.",
+          "indo": "burung ini berwarna putih kehitaman dengan paruh runcing, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black crown",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "the bird has a white belly, thin orange bill and black crown.",
+          "indo": "burung ini memiliki perut berwarna putih, paruh tipis berwarna oranye, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "a white bird with gray wings, black head and long red bill.",
+          "indo": "burung berwarna putih dengan sayap abu-abu, kepala hitam dan paruh merah panjang."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0097_151731.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird is white with a black head and an orange beak.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan paruh berwarna oranye."
+        },
+        {
+          "english": "this is a white bird with a black head and an orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam dan paruh oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast with a black crown and long hooked bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna hitam dan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this is a white bird with grey wings, a black head and a pointy orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, kepala hitam dan paruh oranye runcing."
+        },
+        {
+          "english": "bird has a long flat black orange beak head is black the rest of the bird is white except the larsus and feet they are orange.",
+          "indo": "Burung mempunyai paruh panjang berwarna hitam jingga, kepala berwarna hitam, selebihnya berwarna putih kecuali larsus dan kaki berwarna jingga."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with grey wings, a black head and orange beak.",
+          "indo": "seekor burung putih dengan sayap abu-abu, kepala hitam dan paruh oranye."
+        },
+        {
+          "english": "a white bird with a black head and orange legs and beak.",
+          "indo": "seekor burung berwarna putih dengan kepala hitam dan kaki serta paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has large wings, a wide tail, black fur on its head, a long orange beak with a black tip, and pink feet.",
+          "indo": "burung ini mempunyai sayap yang besar, ekor yang lebar, bulu di kepala berwarna hitam, paruh panjang berwarna jingga dengan ujung berwarna hitam, dan kaki berwarna merah muda."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0098_151258.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this medium sized bird has a white body and short orange legs and feet.",
+          "indo": "Burung berukuran sedang ini memiliki tubuh berwarna putih dan tungkai serta kaki pendek berwarna oranye."
+        },
+        {
+          "english": "this bird has white body, white wings, a black crown, orange beak and orange feet and tarsus.",
+          "indo": "burung ini mempunyai badan berwarna putih, sayap berwarna putih, mahkota berwarna hitam, paruh berwarna jingga, serta kaki dan tarsus berwarna jingga."
+        },
+        {
+          "english": "a medium size bird with white feathers, a black head and orange beak, legs and feet.",
+          "indo": "burung berukuran sedang dengan bulu berwarna putih, kepala berwarna hitam dan paruh, tungkai dan kaki berwarna jingga."
+        },
+        {
+          "english": "this bird has a white body, black crown, and a long orange bill.",
+          "indo": "burung ini memiliki tubuh berwarna putih, mahkota berwarna hitam, dan paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this larger bird has white wings and a black crown",
+          "indo": "burung yang lebih besar ini memiliki sayap berwarna putih dan mahkota berwarna hitam"
+        },
+        {
+          "english": "this slender bird is almost all white, with the exception of it's solid black crown and orange beak.",
+          "indo": "burung ramping ini hampir seluruhnya berwarna putih, kecuali mahkotanya yang berwarna hitam pekat dan paruhnya yang berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this large bird has black colored crown and white feathers.",
+          "indo": "burung berukuran besar ini memiliki mahkota berwarna hitam dan bulu berwarna putih."
+        },
+        {
+          "english": "this bird is mostly white with red beak and legs and a long wingspan.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh dan kaki berwarna merah serta rentang sayap yang panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0099_152529.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this small, water-loving bird is like a miniature white gull but with a black skull cap and a black tip at the end of his orange beak, matching the orange of his legs and feet.",
+          "indo": "Burung kecil yang menyukai air ini terlihat seperti miniatur burung camar putih namun dengan tutup tengkorak berwarna hitam dan ujung paruh berwarna jingga yang berwarna hitam, senada dengan warna jingga pada tungkai dan kakinya."
+        },
+        {
+          "english": "this white bird has a black crown and an orange beak with black on the tip of it.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh berwarna oranye dengan ujung berwarna hitam."
+        },
+        {
+          "english": "this is a white bird with a black head and orange feet and beak.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam dan kaki serta paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has a white body with gray wing feathers and gray tail feathers, a black crown, a long orange bill with a black tip and orange webbed feet.",
+          "indo": "burung ini berbadan putih dengan bulu sayap berwarna abu-abu dan bulu ekor berwarna abu-abu, mahkota berwarna hitam, paruh panjang berwarna jingga dengan ujung berwarna hitam, dan kaki berselaput berwarna jingga."
+        },
+        {
+          "english": "this is a white bird with a grey wing, a black head and orange feet and beak.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu, kepala hitam dan kaki serta paruh oranye."
+        },
+        {
+          "english": "this particular bird has a white body with an orange bill and legs/feet",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan paruh dan tungkai/kaki berwarna oranye"
+        },
+        {
+          "english": "this bird is white and black in color, with a orange and black beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna oranye dan hitam."
+        },
+        {
+          "english": "this predominately white bird also has an orange bill that tapers to black also its webbed feet are orange and the crown is black.",
+          "indo": "Burung yang didominasi warna putih ini juga mempunyai paruh berwarna jingga yang mengecil hingga berwarna hitam, berselaput kakinya berwarna jingga, dan mahkotanya berwarna hitam."
+        },
+        {
+          "english": "a white water bird with orange feet, an orange bill with a black tip and a black crest that covers its eyes.",
+          "indo": "burung air berwarna putih berkaki jingga, paruh jingga dengan ujung hitam, dan jambul hitam menutupi matanya."
+        },
+        {
+          "english": "this bird has a black head, an orange beak, and a white body.",
+          "indo": "burung ini memiliki kepala berwarna hitam, paruh berwarna jingga, dan badan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0100_151774.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a long black bill, a black eyebrow, and orange tarsi",
+          "indo": "burung tersebut memiliki paruh panjang berwarna hitam, alis berwarna hitam, dan tarsi berwarna jingga"
+        },
+        {
+          "english": "this bird has white feathers with very large wings, short straight black beak and black feathers around the eyes",
+          "indo": "burung ini mempunyai bulu berwarna putih dengan sayap yang sangat besar, paruh pendek berwarna hitam lurus dan bulu hitam disekitar matanya"
+        },
+        {
+          "english": "shite bird with black around its eyes and gray on its wings",
+          "indo": "burung sialan dengan warna hitam di sekitar matanya dan abu-abu di sayapnya"
+        },
+        {
+          "english": "it is a big white bird with a black beak and black spot around the eyes.",
+          "indo": "itu adalah burung putih besar dengan paruh hitam dan bintik hitam di sekitar matanya."
+        },
+        {
+          "english": "this large white bird has a black superciliary and a long pointy bill.",
+          "indo": "burung putih besar ini memiliki superciliary berwarna hitam dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a white bird with a black cheek patch and beak, and long orange legs.",
+          "indo": "ini adalah burung berwarna putih dengan pipi dan paruh berwarna hitam, serta kaki panjang berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are white and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "this striking bird has a primarily white body, with gray rectrices and primaries and a sharp black beak.",
+          "indo": "burung yang mencolok ini memiliki tubuh yang sebagian besar berwarna putih, dengan rectrices dan bulu primer abu-abu, serta paruh hitam yang tajam."
+        },
+        {
+          "english": "a long winged water bird that's predominately white except for black eyes and cheek pattern.",
+          "indo": "burung air bersayap panjang yang didominasi warna putih kecuali mata dan pola pipinya berwarna hitam."
+        },
+        {
+          "english": "this bird is white all over minus its jet black bill and black cheek patch and orange feet.",
+          "indo": "burung ini seluruhnya berwarna putih kecuali paruhnya berwarna hitam legam, bercak hitam di pipi, dan kaki berwarna jingga."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0104_152666.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a white bird with a black head, orange feet, and a black and orange long pointed beak.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam, kaki oranye, dan paruh runcing panjang berwarna hitam dan oranye."
+        },
+        {
+          "english": "this bird has an orange bill with black and white on its tip, a white throat, breast, belly and side, and grey and white wings.",
+          "indo": "burung ini memiliki paruh berwarna jingga dengan ujung berwarna hitam putih, tenggorokan, dada, perut dan samping berwarna putih, serta sayap berwarna abu-abu putih."
+        },
+        {
+          "english": "a medium sized skinny flying bird with a black nape, an all white and light grey body, and orange claws.",
+          "indo": "burung terbang kurus berukuran sedang dengan tengkuk hitam, tubuh serba putih dan abu-abu muda, serta cakar oranye."
+        },
+        {
+          "english": "this is a white bird with a black head and orange feet and beak.",
+          "indo": "ini adalah burung berwarna putih dengan kepala hitam dan kaki serta paruh berwarna oranye."
+        },
+        {
+          "english": "bird with orange and black beak, orange tarsus, and white throat, breast, belly and abdomen",
+          "indo": "burung dengan paruh jingga dan hitam, tarsus jingga, dan tenggorokan, dada, perut, dan perut berwarna putih"
+        },
+        {
+          "english": "this white, large bird has bright orange legs, a long pointed black and orange beak and a black crown.",
+          "indo": "burung besar berwarna putih ini memiliki kaki berwarna oranye cerah, paruh panjang berwarna hitam dan oranye, serta mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a black cap on top of head, yellow and black beak and two white wings with white body.",
+          "indo": "burung ini mempunyai topi hitam di atas kepala, paruh kuning dan hitam serta dua sayap berwarna putih dengan badan berwarna putih."
+        },
+        {
+          "english": "a white bird with black head and orange beak tipped with black.",
+          "indo": "seekor burung berwarna putih dengan kepala hitam dan paruh oranye berujung hitam."
+        },
+        {
+          "english": "this bird is mostly white with a black crown and an orange beak.",
+          "indo": "burung ini sebagian besar berwarna putih dengan mahkota berwarna hitam dan paruh berwarna oranye."
+        },
+        {
+          "english": "this slender sea bird has slender wings and tail, red tarsus, a red and black beak and a black crown.",
+          "indo": "burung laut ramping ini memiliki sayap dan ekor ramping, tarsus merah, paruh merah hitam, dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0109_152094.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird is mostly white, with a black head, and a sharp pointed orange and black beak.",
+          "indo": "burung ini sebagian besar berwarna putih, dengan kepala berwarna hitam, dan paruh runcing berwarna oranye dan hitam."
+        },
+        {
+          "english": "this bird has bright red tarsus and feet, a black crown, and a large, long, orange and black bill.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna merah cerah, mahkota berwarna hitam, dan paruh besar, panjang, berwarna oranye dan hitam."
+        },
+        {
+          "english": "this large bird is all white with a black crown.",
+          "indo": "burung besar ini semuanya berwarna putih dengan mahkota berwarna hitam."
+        },
+        {
+          "english": "this is a white bird with long wings, a black head and an orange beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap panjang, kepala hitam dan paruh oranye."
+        },
+        {
+          "english": "the bird has a white body, with a black crown and orange tarsi and beak,",
+          "indo": "burung tersebut berbadan putih, dengan mahkota berwarna hitam dan tarsi serta paruh berwarna jingga,"
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "the bird has a long orange bill and two large white wingbars.",
+          "indo": "burung itu mempunyai paruh berwarna oranye yang panjang dan dua garis sayap besar berwarna putih."
+        },
+        {
+          "english": "this white bird features a black crown and a mostly orange bill with a black point.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh yang sebagian besar berwarna oranye dengan titik hitam."
+        },
+        {
+          "english": "this large white bird has a long wingspan and a black crest.",
+          "indo": "burung besar berwarna putih ini memiliki rentang sayap yang panjang dan jambul berwarna hitam."
+        },
+        {
+          "english": "this bird has a long black-tipped orange bill with a white belly and extended white outer rectrices.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye berujung hitam dengan perut berwarna putih dan outer rectrices berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0114_152768.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "grey wings and crown cover this white bodied bird with a black superciliary.",
+          "indo": "sayap dan mahkota abu-abu menutupi burung bertubuh putih ini dengan superciliary berwarna hitam."
+        },
+        {
+          "english": "a large bird with gray wings, a white breast and an long orange and black, slightly curvbed beak",
+          "indo": "seekor burung besar dengan sayap abu-abu, dada putih dan paruh panjang berwarna oranye dan hitam, agak melengkung"
+        },
+        {
+          "english": "the grey and white bird has long inner and outer rectrices",
+          "indo": "burung abu-abu dan putih memiliki rectrices inner dan outer rectrices yang panjang"
+        },
+        {
+          "english": "the large bird has a long black and orange bill with pointed end, the crown is grey, the eyebrow is black and the throat and belly are white.",
+          "indo": "burung berukuran besar memiliki paruh panjang berwarna hitam jingga dengan ujung runcing, mahkota berwarna abu-abu, alis berwarna hitam, serta tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "a large bird with gray wings, white breast and belly, orange and black bill, and black patch behind the eyes.",
+          "indo": "burung besar bersayap abu-abu, dada dan perut putih, paruh oranye dan hitam, serta bercak hitam di belakang mata."
+        },
+        {
+          "english": "this bird has a long, thin, orange beak with a white belly and chest, and light grey wings, and a black cheek patch.",
+          "indo": "burung ini memiliki paruh yang panjang, tipis, berwarna oranye dengan perut dan dada berwarna putih, sayap berwarna abu-abu muda, serta bercak di pipi berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white breast and long black and yellow beak, with black eyerings.",
+          "indo": "burung ini memiliki dada berwarna putih dan paruh panjang berwarna hitam kuning, dengan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this large bird has a large bill, white neck and belly with grey colored wings.",
+          "indo": "burung berukuran besar ini memiliki paruh yang besar, leher dan perut berwarna putih dengan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a bird with a white breast and gray wings and an orange beak.",
+          "indo": "seekor burung dengan dada putih dan sayap abu-abu serta paruh oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0116_151688.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a whitish bird with black patches around its eyes and a large black bill.",
+          "indo": "ini adalah burung berwarna keputihan dengan bercak hitam di sekitar matanya dan paruh hitam besar."
+        },
+        {
+          "english": "the bird has a black eyering and long black bill.",
+          "indo": "burung itu mempunyai cincin mata hitam dan paruh hitam panjang."
+        },
+        {
+          "english": "this white bird features eyes surrounded by a black streak extending back to the nape of the neck.",
+          "indo": "burung berwarna putih ini memiliki ciri mata yang dikelilingi guratan hitam memanjang hingga ke tengkuk."
+        },
+        {
+          "english": "this bird is mostly white with a long pointy bill.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a snowy white body, and a long black bill.",
+          "indo": "seekor burung besar dengan tubuh seputih salju, dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird has a white breast with a long pointy black bill.",
+          "indo": "burung ini memiliki dada berwarna putih dengan paruh panjang berwarna hitam dan runcing."
+        },
+        {
+          "english": "this mostly white bird has a black eye patch and a long dark beak that is thick relative to its head.",
+          "indo": "burung yang sebagian besar berwarna putih ini memiliki penutup mata berwarna hitam dan paruh panjang berwarna gelap yang relatif tebal dibandingkan kepalanya."
+        },
+        {
+          "english": "this bird is primarily white with a black beak and black eyebrow.",
+          "indo": "burung ini sebagian besar berwarna putih dengan paruh hitam dan alis hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0118_151564.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this is a white bird with grey wings and a black eyering.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan cincin mata hitam."
+        },
+        {
+          "english": "this white bodied bird has gray wings, orange feet and a black cheek patch.",
+          "indo": "burung berbadan putih ini memiliki sayap berwarna abu-abu, kaki berwarna jingga, dan bercak pipi berwarna hitam."
+        },
+        {
+          "english": "a large white bird with a wide wing span and a black patch over they eyes.",
+          "indo": "seekor burung putih besar dengan rentang sayap lebar dan bercak hitam di atas matanya."
+        },
+        {
+          "english": "this large bird is mostly white with a long pointy bill and black crown.",
+          "indo": "burung besar ini sebagian besar berwarna putih dengan paruh panjang runcing dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this is a white and gray bird with a black superciliary and orange feet and large wingbars",
+          "indo": "ini adalah burung berwarna putih dan abu-abu dengan kaki superciliary hitam dan oranye serta sayap besar"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bright white bird with long outer rectrices, bright orange feet, and black eye brows and cheek.",
+          "indo": "seekor burung berwarna putih cerah dengan outer rectrices yang panjang, kaki berwarna oranye terang, serta superciliary dan pipi berwarna hitam."
+        },
+        {
+          "english": "this bird is white with a black crown, black wingtips and a long bill.",
+          "indo": "burung ini berwarna putih dengan mahkota berwarna hitam, ujung sayap berwarna hitam dan paruh yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0119_152709.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a black bill that is long as well as black feet.",
+          "indo": "burung tersebut memiliki paruh berwarna hitam yang panjang serta kakinya yang berwarna hitam."
+        },
+        {
+          "english": "a white bird with no neck, a sharp black beak, and black feathers around the eyes.",
+          "indo": "burung berwarna putih tanpa leher, paruh hitam runcing, dan bulu hitam di sekitar mata."
+        },
+        {
+          "english": "this is a medium sized white bird that has black feet, black patches around its eyes, and a long pointy black beak.",
+          "indo": "Ini adalah burung putih berukuran sedang yang memiliki kaki hitam, bercak hitam di sekitar matanya, dan paruh hitam panjang dan runcing."
+        },
+        {
+          "english": "a large white bird with a black cheek patch, and a black bill.",
+          "indo": "seekor burung putih besar dengan bercak hitam di pipi, dan paruh hitam."
+        },
+        {
+          "english": "this bird is white and black in color with a sharp black beak, and black eye rings.",
+          "indo": "Burung ini berwarna putih kehitaman dengan paruh berwarna hitam runcing, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a white bird with the white belly and breast and black eyebrow and the bill is pointed",
+          "indo": "burung berwarna putih, perut dan dada berwarna putih, alis berwarna hitam, dan paruhnya runcing"
+        },
+        {
+          "english": "this bird has wings that are white and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "a white bird with black feet, tarsus, beak and eye markings.",
+          "indo": "seekor burung berwarna putih dengan kaki, tarsus, paruh dan tanda mata berwarna hitam."
+        },
+        {
+          "english": "this bird is mainly white with a striking black eyepatch and black beak.",
+          "indo": "burung ini sebagian besar berwarna putih dengan penutup mata hitam mencolok dan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0121_151385.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this white-bodied bird has wide, blade-like wings and a black head.",
+          "indo": "burung berbadan putih ini mempunyai sayap lebar seperti bilah dan kepala berwarna hitam."
+        },
+        {
+          "english": "this gray and white bird has a black crown and an orange beak with a black tip.",
+          "indo": "burung berwarna abu-abu putih ini memiliki mahkota berwarna hitam dan paruh berwarna jingga dengan ujung berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with a white breast and grey wings and a long bill that curves downwards",
+          "indo": "burung berukuran sedang dengan dada putih dan sayap abu-abu serta paruh panjang melengkung ke bawah"
+        },
+        {
+          "english": "this bird has a black crown and white under side with long gray wings.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan sisi bawah berwarna putih dengan sayap panjang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white body with grey wings and a black head.",
+          "indo": "burung ini memiliki tubuh berwarna putih dengan sayap berwarna abu-abu dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this is a large bird with a large wing span that has a white body with a grey head wings and tail.",
+          "indo": "Ini adalah burung besar dengan rentang sayap besar yang memiliki tubuh berwarna putih dengan sayap kepala dan ekor berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are white and has a black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown, grey primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna abu-abu, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0123_151789.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a bird with pointed, black tipped beak, black crown, and all white body.",
+          "indo": "burung dengan paruh runcing berujung hitam, mahkota hitam, dan seluruh tubuh berwarna putih."
+        },
+        {
+          "english": "this white bird has a long wingspan with black on its head and orange on its pointed beak and feet.",
+          "indo": "burung berwarna putih ini memiliki rentang sayap yang panjang dengan warna hitam pada bagian kepalanya dan warna orange pada paruh dan kakinya yang runcing."
+        },
+        {
+          "english": "large white bird with webbed feet, black crown matches black tip of its orange beak.",
+          "indo": "burung besar berwarna putih dengan kaki berselaput, mahkota berwarna hitam serasi dengan ujung paruh berwarna jingga yang berwarna hitam."
+        },
+        {
+          "english": "this flying bird has white wings, a black crown, and an orange and black bill.",
+          "indo": "burung terbang ini mempunyai sayap berwarna putih, mahkota berwarna hitam, dan paruh berwarna jingga dan hitam."
+        },
+        {
+          "english": "medium white and black bird with orange tarsus, webbed feet and a long orange and black beak",
+          "indo": "burung berukuran sedang berwarna putih dan hitam dengan tarsus oranye, kaki berselaput, dan paruh panjang berwarna oranye dan hitam"
+        },
+        {
+          "english": "this is an all white bird with a black crown and orange feet and bill.",
+          "indo": "ini adalah burung serba putih dengan mahkota hitam dan kaki serta paruh oranye."
+        },
+        {
+          "english": "the is colorful bird has a long beak with long legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh yang panjang dan kaki yang panjang"
+        },
+        {
+          "english": "a bird with white and gray feathers and a black top on head.",
+          "indo": "seekor burung dengan bulu putih dan abu-abu dan kepala bagian atas berwarna hitam."
+        },
+        {
+          "english": "this bird has black on the top of its head and its other feathers are white with a little gray.",
+          "indo": "burung ini mempunyai warna hitam pada bagian atas kepalanya dan bulu lainnya berwarna putih dengan sedikit abu-abu."
+        },
+        {
+          "english": "this bird has a black crown and nape with an orange beak with a black tip, with a white body.",
+          "indo": "burung ini mempunyai mahkota dan tengkuk berwarna hitam, paruh berwarna jingga dengan ujung berwarna hitam, dengan badan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0125_151399.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "a medium sized white bird with gray wings, black crown and nape, and bright orange legs and feet.",
+          "indo": "burung putih berukuran sedang dengan sayap abu-abu, mahkota dan tengkuk berwarna hitam, serta tungkai dan kaki berwarna jingga cerah."
+        },
+        {
+          "english": "this is a small bird with a white body and a black head.",
+          "indo": "ini adalah burung kecil dengan tubuh putih dan kepala hitam."
+        },
+        {
+          "english": "this is a white bird with grey wings and a black head.",
+          "indo": "ini adalah burung putih dengan sayap abu-abu dan kepala hitam."
+        },
+        {
+          "english": "a medium sized bird that has tones of grey with a black head marking",
+          "indo": "burung berukuran sedang berwarna abu-abu dengan corak kepala berwarna hitam"
+        },
+        {
+          "english": "gray, white and black bird with orange feet and a pointy beak.",
+          "indo": "burung abu-abu, putih dan hitam dengan kaki oranye dan paruh runcing."
+        },
+        {
+          "english": "this particular bird has a white belly and gray secondaries with a black crown",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna abu-abu dengan mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white body, gray wings, black crown, orange tarsus, and a black tipped orange bill.",
+          "indo": "burung ini mempunyai badan berwarna putih, sayap berwarna abu-abu, mahkota berwarna hitam, tarsus berwarna jingga, dan paruh berwarna jingga berujung hitam."
+        },
+        {
+          "english": "a bird with a black head and an orange beak and legs.",
+          "indo": "seekor burung dengan kepala hitam dan paruh serta kaki berwarna oranye."
+        },
+        {
+          "english": "this is a medium sized white bird, with a black crown, and a pointy bill.",
+          "indo": "ini adalah burung putih berukuran sedang, dengan mahkota hitam, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0126_151257.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "this bird has a white belly, a white chest and neck, a black and orange beak, and a black superciliary.",
+          "indo": "burung ini memiliki perut berwarna putih, dada dan leher berwarna putih, paruh berwarna hitam dan oranye, serta superciliary berwarna hitam."
+        },
+        {
+          "english": "a medium bird with a white belly and chest, light gray wings, and orange feet.",
+          "indo": "burung berukuran sedang dengan perut dan dada berwarna putih, sayap abu-abu muda, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this is a white bird with grey wings, a black eye ring and a pointy beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap abu-abu, cincin mata hitam dan paruh runcing."
+        },
+        {
+          "english": "the bird has a white crown and orange thighs.",
+          "indo": "burung itu memiliki mahkota berwarna putih dan paha berwarna oranye."
+        },
+        {
+          "english": "this white bird with grey wings has a black cheek patch, a pointed bill, and orange tarsus and feet.",
+          "indo": "burung berwarna putih bersayap abu-abu ini memiliki bercak hitam di pipi, paruh runcing, serta tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are whte and grey and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna putih kelabu dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are grey and has orange legs",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai kaki berwarna oranye"
+        },
+        {
+          "english": "this bird has a long beak with grey and white feathers and a splash of black accents behind it's eyes.",
+          "indo": "burung ini mempunyai paruh yang panjang dengan bulu berwarna abu-abu putih serta sedikit aksen hitam di belakang matanya."
+        },
+        {
+          "english": "a white colored bird with sharp pointed black colored beak, orange colored foot, grey colored wings and black eyebrows.",
+          "indo": "burung berwarna putih dengan paruh berwarna hitam runcing runcing, kaki berwarna oranye, sayap berwarna abu-abu dan alis berwarna hitam."
+        },
+        {
+          "english": "this bird is white and gray in color, and has a sharp black beak.",
+          "indo": "burung ini berwarna putih abu-abu, serta mempunyai paruh berwarna hitam runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Forsters_Tern_0127_150418.jpg",
+      "class_id": 145,
+      "captions": [
+        {
+          "english": "the bird has a white body and red feet and tarsus with a bill that is red and black.",
+          "indo": "burung ini memiliki tubuh berwarna putih dan kaki serta tarsus berwarna merah dengan paruh yang berwarna merah dan hitam."
+        },
+        {
+          "english": "the bird has a black tipped orange bil, white feathers, orange tarsus', and a black crown and nape.",
+          "indo": "burung ini mempunyai bil jingga berujung hitam, bulu putih, tarsus jingga, serta mahkota dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "this is a grey bird with a white belly and a black head.",
+          "indo": "ini adalah burung abu-abu dengan perut putih dan kepala hitam."
+        },
+        {
+          "english": "this bird is white with a black head and an elongated orange beak, which matches his sturdy orange feet.",
+          "indo": "burung ini berwarna putih dengan kepala berwarna hitam dan paruh berwarna jingga memanjang, serasi dengan kaki kokohnya yang berwarna jingga."
+        },
+        {
+          "english": "this bird has bright orange feet and legs and carries that color on its beak as well.",
+          "indo": "burung ini memiliki kaki dan tungkai berwarna oranye cerah dan membawa warna itu pada paruhnya juga."
+        },
+        {
+          "english": "a white and gray bird with a black crown and orange legs.",
+          "indo": "burung berwarna putih abu-abu dengan mahkota hitam dan kaki oranye."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long bill that is red and a grey back.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this is a white bird with a black head and white throat, the beak is pointed and red with a black tip",
+          "indo": "ini burung berwarna putih dengan kepala berwarna hitam dan tenggorokan berwarna putih, paruhnya runcing dan berwarna merah dengan ujung berwarna hitam"
+        },
+        {
+          "english": "this white bird has a black crown and a long pointed orange and black bill.",
+          "indo": "burung berwarna putih ini memiliki mahkota berwarna hitam dan paruh panjang berwarna oranye dan hitam."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Pomarine_Jaeger_0001_795772.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a big bird with black wings and a white underbelly.",
+          "indo": "seekor burung besar dengan sayap hitam dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a white belly with large black wings and a grey crown with a curved grey beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap hitam besar dan mahkota berwarna abu-abu dengan paruh melengkung berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a long black bill that is rounded at the end; along with a white belly, and white breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam yang ujungnya membulat; bersama dengan perut putih, dan dada putih."
+        },
+        {
+          "english": "a bird with black wings and tail, a gray crown, and a white belly, sides, and flanks.",
+          "indo": "seekor burung dengan sayap dan ekor hitam, mahkota abu-abu, dan perut, samping, dan panggul berwarna putih."
+        },
+        {
+          "english": "a bird with a dark bill and a white belly.",
+          "indo": "seekor burung dengan paruh berwarna gelap dan perut berwarna putih."
+        },
+        {
+          "english": "this large bird has a white throat, breast and belly with black wings, back and tail.",
+          "indo": "burung besar ini memiliki tenggorokan, dada dan perut berwarna putih dengan sayap, punggung dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the large bird has white belly, and a grey colored crown.",
+          "indo": "burung besar memiliki perut berwarna putih, dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "the black wings are long relative to its body, which is white, and the bill has a rounded tip.",
+          "indo": "sayap hitam lebih panjang dibandingkan tubuhnya yang berwarna putih, dan paruhnya memiliki ujung membulat."
+        },
+        {
+          "english": "this bird is black with wite and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0002_61361.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a large wingspan. the breast and belly are white, the nape is brown as is the crown.",
+          "indo": "burung ini mempunyai rentang sayap yang besar. dada dan perutnya berwarna putih, tengkuknya berwarna coklat, demikian pula bagian ubun-ubunnya."
+        },
+        {
+          "english": "this bird has a white belly, a short curved bill, and a black tarsus and foot.",
+          "indo": "burung ini memiliki perut berwarna putih, paruh pendek melengkung, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "bird has gray body feathers, gray breast feather, and long beak",
+          "indo": "burung mempunyai bulu badan berwarna abu-abu, bulu dada berwarna abu-abu, dan paruh panjang"
+        },
+        {
+          "english": "the bird has very large brown wings with black wingtips and a white belly and breast.",
+          "indo": "burung ini memiliki sayap coklat yang sangat besar dengan ujung sayap hitam serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "a big grey and white bird with a white underbelly and long wings",
+          "indo": "seekor burung besar berwarna abu-abu dan putih dengan perut berwarna putih dan sayap panjang"
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a grey bird with a white belly and a large wing span compared to its body.",
+          "indo": "burung berwarna abu-abu dengan perut berwarna putih dan rentang sayap yang besar dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0003_795778.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this is a medium sized bird with a stout, brown beak and brown crown, the belly is white with brown flecks, the wings and tail are dark brown.",
+          "indo": "Burung ini berukuran sedang dengan paruh kekar berwarna coklat dan mahkota berwarna coklat, perut berwarna putih dengan bintik coklat, sayap dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a curved bill, a white belly, and a black crown.",
+          "indo": "burung ini memiliki paruh melengkung, perut berwarna putih, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "the bird has white abdomen and side with black colored coverts and crown.",
+          "indo": "burung ini memiliki perut dan samping berwarna putih dengan bulu dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this large bird a long bill with a longer upper bill curved downward, a white belly, and black wings.",
+          "indo": "burung besar ini paruhnya panjang dengan paruh atas yang lebih panjang melengkung ke bawah, perut berwarna putih, dan sayap hitam."
+        },
+        {
+          "english": "a bird with a black crown and long brown wings.",
+          "indo": "seekor burung dengan mahkota hitam dan sayap coklat panjang."
+        },
+        {
+          "english": "medium to large bird with large wingspan of brown. black head white breast with a black undertail.",
+          "indo": "burung berukuran sedang hingga besar dengan rentang sayap besar berwarna coklat. kepala hitam, dada putih dengan ekor bawah hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly and black crown",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai perut berwarna putih dan mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird is very large with a average beak",
+          "indo": "burung ini berukuran sangat besar dengan paruh yang rata-rata"
+        },
+        {
+          "english": "a swift bird with some long, pointed wings and a white belly with a long bill and black head.",
+          "indo": "burung gesit dengan sayap panjang runcing dan perut putih dengan paruh panjang dan kepala hitam."
+        },
+        {
+          "english": "a bird with a white breast and a black crown and large wings span.",
+          "indo": "seekor burung dengan dada putih dan mahkota hitam serta rentang sayap besar."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0004_795796.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast with a dark gray crown and black back.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota berwarna abu-abu tua dan punggung berwarna hitam."
+        },
+        {
+          "english": "large bird with black wings and tail, black face, white belly, and black and white spotted throat area.",
+          "indo": "burung besar dengan sayap dan ekor hitam, muka hitam, perut putih, dan daerah tenggorokan berbintik hitam putih."
+        },
+        {
+          "english": "this is a white bird with black wings and a pointy beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap hitam dan paruh runcing."
+        },
+        {
+          "english": "medium to large white grey and black bird with medium black tarsus",
+          "indo": "burung putih abu-abu dan hitam sedang hingga besar dengan tarsus hitam sedang"
+        },
+        {
+          "english": "this bird is white and black in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna putih hitam dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large flying bird that has beautiful black wings, a black head, and white neck and belly.",
+          "indo": "seekor burung terbang berukuran besar yang memiliki sayap hitam yang indah, kepala berwarna hitam, serta leher dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is black and white in color, with a black beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a black back, wings and tail, with a white belly that has specks of black around its nape.",
+          "indo": "burung ini memiliki punggung, sayap dan ekor berwarna hitam, dengan perut berwarna putih yang memiliki bintik hitam di sekitar tengkuknya."
+        },
+        {
+          "english": "this particular bird has a belly that is white and black",
+          "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0006_795775.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird had a grey eye patch, a white belly and throat. the wings are dark grey with white wingbars. the tail is dark grey.",
+          "indo": "burung ini memiliki penutup mata berwarna abu-abu, perut dan tenggorokan berwarna putih. sayapnya berwarna abu-abu tua dengan garis sayap berwarna putih. ekornya berwarna abu-abu tua."
+        },
+        {
+          "english": "this is a bird with a white belly, black wings and a white beak.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan paruh putih."
+        },
+        {
+          "english": "this bird has a white beak, white belly and abdomen, a yellowish and gray breast, and dark gray wings with white secondaries.",
+          "indo": "burung ini mempunyai paruh berwarna putih, perut dan perut berwarna putih, dada berwarna kekuningan dan abu-abu, serta sayap berwarna abu-abu tua dengan sayap bulu sekunder berwarna putih."
+        },
+        {
+          "english": "a gray and white bird that has a very large belly and a barely visible light yellow circle below its throat.",
+          "indo": "seekor burung berwarna abu-abu dan putih yang memiliki perut sangat besar dan lingkaran kuning muda yang hampir tidak terlihat di bawah tenggorokannya."
+        },
+        {
+          "english": "this bird is white with black wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan sayap berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this streamline bird has a short, hooked beak, grey crown, white belly, and large wings.",
+          "indo": "burung streamline ini memiliki paruh pendek bengkok, mahkota berwarna abu-abu, perut berwarna putih, dan sayap besar."
+        },
+        {
+          "english": "a medium sized bird with a white belly, and a small bill",
+          "indo": "seekor burung berukuran sedang dengan perut berwarna putih, dan paruh kecil"
+        },
+        {
+          "english": "a bird with black head, white throat, nape and breast, black ring around throat and black wings and back.",
+          "indo": "burung berkepala hitam, tenggorokan putih, tengkuk dan dada, lingkaran hitam di sekitar tenggorokan, sayap dan punggung hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0007_795764.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird is brown with a white collar around the neck.",
+          "indo": "burung itu berwarna coklat dengan kerah putih di lehernya."
+        },
+        {
+          "english": "this larger bird is mostly gray with a white neck and nape.",
+          "indo": "burung yang lebih besar ini sebagian besar berwarna abu-abu dengan leher dan tengkuk berwarna putih."
+        },
+        {
+          "english": "this bird is brown with white on its neck and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian lehernya berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a sleek bird with a thick face and neck and a small bill with white cheek patches, dark grey wings, and white wingbars.",
+          "indo": "burung ramping dengan wajah dan leher tebal serta paruh kecil dengan bercak pipi putih, sayap abu-abu tua, dan garis sayap putih."
+        },
+        {
+          "english": "a flying bird completely brownish black except its white neck and white spots on wings and tail.",
+          "indo": "burung terbang berwarna hitam kecoklatan kecuali lehernya yang putih dan bintik putih pada sayap dan ekornya."
+        },
+        {
+          "english": "this is a medium sized bird, with a white throat and black everywhere else.",
+          "indo": "ini adalah burung berukuran sedang, dengan tenggorokan berwarna putih dan hitam di bagian lainnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white throat",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan tenggorokannya berwarna putih"
+        },
+        {
+          "english": "a bird covered primarily in black feathers with white located on the underside of its pointy wings and throughout its nape region up through the throat.",
+          "indo": "seekor burung yang sebagian besar ditutupi bulu hitam dengan bulu putih terletak di bagian bawah sayap runcingnya dan di seluruh daerah tengkuknya hingga ke tenggorokan."
+        },
+        {
+          "english": "this bird has wings that are black and has a white throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna putih"
+        },
+        {
+          "english": "this bird is black and white in color, and has a curved beak.",
+          "indo": "burung ini berwarna hitam putih, dan mempunyai paruh yang melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0008_61231.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this is a brown and white bird with a white bill with a brown crown",
+          "indo": "ini adalah burung berwarna coklat dan putih dengan paruh putih dengan mahkota coklat"
+        },
+        {
+          "english": "a bird with a large, downward curved bill, black crown, white nape, and black and brown dots covering its breast.",
+          "indo": "burung dengan paruh besar melengkung ke bawah, mahkota hitam, tengkuk putih, dan bintik-bintik hitam coklat menutupi dadanya."
+        },
+        {
+          "english": "a large bird containing a brown head, white neck, and brown and white throat, nape and belly, with brown feathers covering the rest of its body.",
+          "indo": "seekor burung besar dengan kepala berwarna coklat, leher berwarna putih, dan tenggorokan, tengkuk dan perut berwarna coklat dan putih, dengan bulu berwarna coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a black crown and head color with streaks of white along its nape, throat and side.",
+          "indo": "burung ini mempunyai warna mahkota dan kepala berwarna hitam dengan guratan putih di sepanjang tengkuk, tenggorokan, dan samping."
+        },
+        {
+          "english": "this bird is large with brown and white feathers and small beak.",
+          "indo": "burung ini berukuran besar dengan bulu berwarna coklat putih dan paruh kecil."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bill is short and stalky, the neck is white and the head is black with grey wings.",
+          "indo": "paruhnya pendek dan bertangkai, lehernya berwarna putih dan kepalanya berwarna hitam dengan sayap abu-abu."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with black wings and a black crown.",
+          "indo": "seekor burung dengan sayap hitam dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0009_795740.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the feathers are spotted and the tail is thick, fat and black.",
+          "indo": "bulunya berbintik-bintik dan ekornya tebal, gemuk dan hitam."
+        },
+        {
+          "english": "a bird with a large body and very long wings.",
+          "indo": "seekor burung dengan tubuh besar dan sayap yang sangat panjang."
+        },
+        {
+          "english": "this bird is brown with white on its wings and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan sayap berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long hooked bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this bird has a brown crown, a white breast, and a large wingspan",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berwarna putih, dan rentang sayap yang besar"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is blandly colored with mottled brown, black and white, with a medium sized beak and black tipped wings.",
+          "indo": "burung ini berwarna lembut dengan belang-belang coklat, hitam dan putih, dengan paruh berukuran sedang dan sayap berujung hitam."
+        },
+        {
+          "english": "this birds long wingspan is brown, black, and white with a white belly and long bill.",
+          "indo": "Burung ini memiliki rentang sayap yang panjang berwarna coklat, hitam, dan putih dengan perut berwarna putih dan paruh yang panjang."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a brown belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0010_61457.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird in flight has a mostly black body and wings, with a grey/white belly and a black bill.",
+          "indo": "burung yang sedang terbang ini sebagian besar memiliki tubuh dan sayap berwarna hitam, dengan perut berwarna abu-abu/putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "the bird has a small black bill that is curved and a white breast.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam yang melengkung dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a short curved bill, a white throat and breast, and a black crown.",
+          "indo": "burung ini memiliki paruh pendek melengkung, tenggorokan dan dada berwarna putih, serta mahkota berwarna hitam."
+        },
+        {
+          "english": "a medium bird with black wings and rectrices and a white chest and nape.",
+          "indo": "burung berukuran sedang dengan sayap dan rectrices  hitam serta dada dan tengkuk berwarna putih."
+        },
+        {
+          "english": "white and brown bird with long slender bill, brown crown and black back.",
+          "indo": "burung berwarna putih coklat dengan paruh panjang ramping, mahkota berwarna coklat dan punggung hitam."
+        },
+        {
+          "english": "a dark brown bird with an off-white abdomen, long wings with white primaries, and a long tail which ends in a bulb.",
+          "indo": "burung berwarna coklat tua dengan perut berwarna putih pucat, sayap panjang dengan warna bulu primer berwarna putih, dan ekor panjang yang ujungnya berbentuk umbi."
+        },
+        {
+          "english": "this bird has a black crown with dark brown coverts and a orange bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan bulu berwarna coklat tua dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird is white and black in color, with a black and brown beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam dan coklat."
+        },
+        {
+          "english": "this bird has a long black tail and dark brown wings.",
+          "indo": "burung ini memiliki ekor panjang berwarna hitam dan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this bird is mostly black with a white breast and nape and a black crown.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan dada dan tengkuk berwarna putih serta mahkota berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0011_795777.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "wide spread wings and a beautiful cocoa brown coat describes this medium sized bird with striped patterns all along its tail feathers.",
+          "indo": "Sayap yang terbentang lebar dan bulu berwarna coklat coklat yang indah menggambarkan burung berukuran sedang dengan pola garis-garis di sepanjang bulu ekornya."
+        },
+        {
+          "english": "the large brown bird has a large wingspan and pointed wings.",
+          "indo": "burung besar berwarna coklat memiliki rentang sayap yang besar dan sayap yang runcing."
+        },
+        {
+          "english": "the bird has a small body with very large wings and a large beak",
+          "indo": "burung tersebut mempunyai tubuh yang kecil dengan sayap yang sangat besar dan paruh yang besar"
+        },
+        {
+          "english": "a brown bird with black wings and a long beak that curves downward.",
+          "indo": "burung berwarna coklat dengan sayap hitam dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "this bird has a sharp beak,gray and white inner rectrices and the rest of the body is gray",
+          "indo": "Burung ini mempunyai paruh yang runcing, bagian dalam berwarna abu-abu putih dan bagian tubuh lainnya berwarna abu-abu"
+        },
+        {
+          "english": "this larger brown bird has a beak that curves down at the tip.",
+          "indo": "burung berwarna coklat yang lebih besar ini memiliki paruh yang ujungnya melengkung ke bawah."
+        },
+        {
+          "english": "this bird's small, stubby head blends right into its light brown body, its bill is long and curved downward, and the wings are dark grown and gray.",
+          "indo": "Kepala burung yang kecil dan gemuk ini menyatu dengan tubuhnya yang berwarna coklat muda, paruhnya panjang dan melengkung ke bawah, serta sayapnya berwarna gelap dan berwarna abu-abu."
+        },
+        {
+          "english": "this is a large bird with long black and white wings, a long downward curved beak, and a short but wide tail.",
+          "indo": "ini adalah burung besar dengan sayap panjang berwarna hitam putih, paruh panjang melengkung ke bawah, dan ekor pendek namun lebar."
+        },
+        {
+          "english": "this medium-sized bird has grey and dark colored feathers.",
+          "indo": "burung berukuran sedang ini memiliki bulu berwarna abu-abu dan gelap."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0012_795773.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this sea dwelling bird is mostly grey except for white around its neck and speckled throughout its belly.",
+          "indo": "burung yang hidup di laut ini sebagian besar berwarna abu-abu kecuali putih di sekitar lehernya dan berbintik-bintik di seluruh perutnya."
+        },
+        {
+          "english": "this bird has a long curved bill, a white throat, and a brown crown.",
+          "indo": "burung ini memiliki paruh panjang melengkung, tenggorokan berwarna putih, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this is a grey and brown bird with a white throat and a pointy beak.",
+          "indo": "ini adalah burung berwarna abu-abu dan coklat dengan tenggorokan putih dan paruh runcing."
+        },
+        {
+          "english": "the bird has a curved black bill and long brown secondaries.",
+          "indo": "burung ini memiliki paruh hitam melengkung dan paruh bulu sekunder berwarna coklat panjang."
+        },
+        {
+          "english": "this brown bird has a large wingspan and a brown and black beak.",
+          "indo": "burung berwarna coklat ini memiliki rentang sayap yang besar dan paruh berwarna coklat dan hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "a bird with large brown wings flying above the water, its body is brown with white spots, it has a white stripe close to its head.",
+          "indo": "burung bersayap besar berwarna coklat terbang di atas air, badannya berwarna coklat dengan bintik-bintik putih, terdapat garis putih di dekat kepalanya."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a grey bill with black tips, white nape throat and brown secondaries.",
+          "indo": "burung ini mempunyai paruh berwarna abu-abu dengan ujung berwarna hitam, tengkuk tenggorokan berwarna putih, dan paruh bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "a bird with a brown wings, rectrices, black crown and the bill is long and curved downwards",
+          "indo": "burung dengan sayap coklat, rectrices, mahkota hitam dan paruh panjang melengkung ke bawah"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0013_795759.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the wingspan of the bird is bigger than its body and the bill had a curve in its shape.",
+          "indo": "rentang sayap burung lebih besar dari tubuhnya dan paruhnya berbentuk melengkung."
+        },
+        {
+          "english": "this bird has a while belly and breast with a brown head, white neck, and white wing bars.",
+          "indo": "Burung ini mempunyai perut dan dada agak besar dengan kepala berwarna coklat, leher berwarna putih, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has a small tail compared to it's impressive wing span and white and brown coloring along the belly, breast and neck.",
+          "indo": "burung ini memiliki ekor yang kecil dibandingkan dengan rentang sayapnya yang mengesankan dan warna putih dan coklat di sepanjang perut, dada dan leher."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long hooked bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "a big flying bird is brown colored spotted with white, except its white unspotted belly.",
+          "indo": "seekor burung terbang besar berwarna coklat berbintik-bintik putih, kecuali perutnya yang putih tidak berbintik."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this is a brown bird with large wings with dark wings and a dark beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap besar dengan sayap gelap dan paruh gelap."
+        },
+        {
+          "english": "this bird has a white under belly and a grey head.",
+          "indo": "burung ini memiliki perut bagian bawah berwarna putih dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white belly and wings which are a mixture of brown and white.",
+          "indo": "burung ini memiliki perut dan sayap berwarna putih yang merupakan campuran warna coklat dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0014_61335.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has a curved bill that is black and long.",
+          "indo": "burung ini memiliki paruh melengkung yang berwarna hitam dan panjang."
+        },
+        {
+          "english": "a bird with a very long wingspan and is mostly black.",
+          "indo": "seekor burung dengan rentang sayap yang sangat panjang dan sebagian besar berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a black back, a long bill, and white wing bars.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, punggung berwarna hitam, paruh panjang, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is black with grey on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna abu-abu pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is large with dark feathers and a tiny beak.",
+          "indo": "burung ini berukuran besar dengan bulu berwarna gelap dan paruh yang kecil."
+        },
+        {
+          "english": "the is colorful bird has long brown wings and a long beak",
+          "indo": "Burung berwarna-warni ini memiliki sayap coklat panjang dan paruh panjang"
+        },
+        {
+          "english": "this bird has a black crown as well as a white wingbar",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan garis sayap berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is black and brown",
+          "indo": "burung ini memiliki perut yang berwarna hitam dan coklat"
+        },
+        {
+          "english": "a medium sized bird with a long bill, and black wings",
+          "indo": "seekor burung berukuran sedang dengan paruh panjang, dan sayap hitam"
+        },
+        {
+          "english": "this bird has large gray and white striped wings, a small head, a short tail, and a wide beak that curves downward.",
+          "indo": "burung ini mempunyai sayap besar bergaris abu-abu putih, kepala kecil, ekor pendek, dan paruh lebar melengkung ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0015_61429.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "dark brown bird with a large head and a sharp narrow curved beak.",
+          "indo": "burung berwarna coklat tua dengan kepala besar dan paruh melengkung sempit dan tajam."
+        },
+        {
+          "english": "large, predominantly brown bird with large wingspan, dark brown colored wings with white wing bars.",
+          "indo": "burung berukuran besar, didominasi warna coklat dengan rentang sayap besar, sayap berwarna coklat tua dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this large bird is mostly gray, large head, and has a long slightly curved beak.",
+          "indo": "burung besar ini sebagian besar berwarna abu-abu, kepalanya besar, dan mempunyai paruh yang panjang agak melengkung."
+        },
+        {
+          "english": "a medium size brown and black bird with a medium size wing span, short tail, brown head, short beak, and black and white striped feathers on wings and tail.",
+          "indo": "burung berukuran sedang berwarna coklat dan hitam dengan rentang sayap ukuran sedang, ekor pendek, kepala berwarna coklat, paruh pendek, serta bulu bergaris hitam putih pada sayap dan ekor."
+        },
+        {
+          "english": "this sleek bird is mostly dirty brown in color with hints of white in the wings that has more dark colored primary wings.",
+          "indo": "burung ramping ini sebagian besar berwarna coklat kotor dengan sedikit warna putih pada sayapnya yang memiliki sayap bulu primer berwarna lebih gelap."
+        },
+        {
+          "english": "this medium sized bird has a brown face and throat, and speckled brown, black and grey covering its belly, tail and vent.",
+          "indo": "Burung berukuran sedang ini memiliki muka dan tenggorokan berwarna coklat, serta berbintik coklat, hitam dan abu-abu menutupi perut, ekor dan lubang anginnya."
+        },
+        {
+          "english": "an elegant bird of sharp design with a slightly hooked beak and mottled coloring consisting of black, brown, tan and gray.",
+          "indo": "burung anggun berdesain runcing dengan paruh agak bengkok dan warna belang-belang terdiri dari hitam, coklat, coklat kecokelatan dan abu-abu."
+        },
+        {
+          "english": "a distinctive bird with an almost all brown body and a short beak.",
+          "indo": "burung khas dengan tubuh hampir seluruhnya berwarna coklat dan paruh pendek."
+        },
+        {
+          "english": "this medium-sized bird has brown and white feathers with a dark brown beak.",
+          "indo": "burung berukuran sedang ini memiliki bulu berwarna coklat dan putih dengan paruh berwarna coklat tua."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan mempunyai paruh berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0017_795782.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large bird with a long brown pair of wings, and a white belly.",
+          "indo": "seekor burung besar dengan sepasang sayap panjang berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white body and grey wings.",
+          "indo": "ini adalah burung dengan tubuh putih dan sayap abu-abu."
+        },
+        {
+          "english": "a medium size bird with a white underbelly and black wings.",
+          "indo": "burung berukuran sedang dengan perut berwarna putih dan sayap hitam."
+        },
+        {
+          "english": "this large bird is a smokey dark grey with a downward curved beak and white underbelly.",
+          "indo": "burung besar ini berwarna abu-abu tua berasap dengan paruh melengkung ke bawah dan perut berwarna putih."
+        },
+        {
+          "english": "a large bird with wide wingspans, and a white belly.",
+          "indo": "seekor burung besar dengan rentang sayap lebar, dan perut berwarna putih."
+        },
+        {
+          "english": "this particular bird has a white belly and patches of brown on its breast",
+          "indo": "burung ini memiliki perut berwarna putih dan bercak coklat di dadanya"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this larger bird has a hook on its beck, brown head, with white neck and chest, wings are brown with white.",
+          "indo": "burung yang lebih besar ini memiliki kait di bagian belakangnya, kepala berwarna coklat, leher dan dada berwarna putih, sayap berwarna coklat dengan putih."
+        },
+        {
+          "english": "a medium to large sized bird, with a curved beak, brown wings, brown back, brown head, and white breast and neck.",
+          "indo": "burung berukuran sedang hingga besar, dengan paruh melengkung, sayap berwarna coklat, punggung berwarna coklat, kepala berwarna coklat, serta dada dan leher berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0020_795761.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird is large in size has long legs and big feet a medium size beak little eyes very long and pretty wings and is white/gray and brown spotted in color",
+          "indo": "burung ini berukuran besar mempunyai kaki yang panjang dan kaki yang besar ukuran sedang paruh mata kecil sangat panjang dan sayap cantik serta berwarna putih/abu-abu dan coklat berbintik-bintik"
+        },
+        {
+          "english": "this bird is white and brown in color with a long curved beak and dark eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh panjang melengkung dan cincin mata berwarna gelap."
+        },
+        {
+          "english": "this water-fowl has a black body with white and black primaries, black webbed feet, and a black bill.",
+          "indo": "Unggas air ini memiliki tubuh berwarna hitam dengan warna bulu primer putih dan hitam, kaki berselaput hitam, dan paruh berwarna hitam."
+        },
+        {
+          "english": "bird with fat beak that is sharp and slightly curved at the tip, with grayish brown throat, breast, belly and abdomen",
+          "indo": "burung dengan paruh gemuk yang runcing dan ujungnya agak melengkung, dengan tenggorokan, dada, perut, dan perut berwarna coklat keabu-abuan"
+        },
+        {
+          "english": "a large bird with a speckled brown and white body, wings, and gray head.",
+          "indo": "seekor burung besar dengan tubuh berbintik-bintik coklat dan putih, sayap, dan kepala abu-abu."
+        },
+        {
+          "english": "this bird has feathers that are black and has a long bill",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "an all black bird excepting a white patch underneath the primary wing tips, very long wings and short tail.",
+          "indo": "burung yang seluruhnya berwarna hitam kecuali bercak putih di bawah ujung sayap utama, sayap sangat panjang dan ekor pendek."
+        },
+        {
+          "english": "this black bird has a large wing span and a long black beak.",
+          "indo": "burung berwarna hitam ini mempunyai rentang sayap yang besar dan paruh berwarna hitam yang panjang."
+        },
+        {
+          "english": "this bird has a black bill, large black wings with white wingbars, and black rectrices and feet.",
+          "indo": "burung ini memiliki paruh berwarna hitam, sayap hitam besar dengan garis sayap berwarna putih, serta rectrices  dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0021_795776.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this dark bird has a greyish-brown beak, greyish brown tarsus and feet, mostly brown wings with white secondaries, and brown and white belly.",
+          "indo": "Burung berwarna gelap ini memiliki paruh berwarna coklat keabu-abuan, tarsus dan kaki berwarna coklat keabu-abuan, sebagian besar sayap berwarna coklat dengan sayap bulu sekunder berwarna putih, serta perut berwarna coklat dan putih."
+        },
+        {
+          "english": "a big bird with a brown body and bill and brown and white coverts.",
+          "indo": "seekor burung besar dengan tubuh dan paruh berwarna coklat serta bulu berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird is mostly gray with some white speckles, and a large hooked bill.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan beberapa bintik putih, dan paruh bengkok besar."
+        },
+        {
+          "english": "the bird has a black wingbar, a black breast, and a black bill.",
+          "indo": "burung tersebut mempunyai garis sayap berwarna hitam, dada berwarna hitam, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this medium sized bird is mostly gray with a hint of white, and a downward bill.",
+          "indo": "burung berukuran sedang ini sebagian besar berwarna abu-abu dengan sedikit warna putih, dan paruhnya mengarah ke bawah."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this flying bird is primarily black, with white flecks on its rectrices.",
+          "indo": "burung terbang ini sebagian besar berwarna hitam, dengan bintik-bintik putih di bagian rectrices."
+        },
+        {
+          "english": "this bird in flight appears large, with a broad wingspan, a large curved beak, and dark brown feathers.",
+          "indo": "burung yang sedang terbang ini tampak besar, dengan rentang sayap lebar, paruh besar melengkung, dan bulu berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a dark grey beak with a brown nape and a white wing guard.",
+          "indo": "burung ini memiliki paruh berwarna abu-abu tua dengan tengkuk berwarna coklat dan pelindung sayap berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai paruh yang besar"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0022_795747.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird is large and brown with a lighter colored striped around the nape.",
+          "indo": "burung ini berukuran besar dan berwarna coklat dengan garis-garis berwarna lebih terang di sekitar tengkuknya."
+        },
+        {
+          "english": "a large bird with with a brown crown and large wingspan and long and pointy bill",
+          "indo": "seekor burung besar dengan mahkota berwarna coklat dan rentang sayap yang besar serta paruh yang panjang dan runcing"
+        },
+        {
+          "english": "this is a brown and white bird with a large downward pointing beak.",
+          "indo": "ini adalah burung berwarna coklat dan putih dengan paruh besar mengarah ke bawah."
+        },
+        {
+          "english": "this is a large, brown bird with grey on the nape and white on the wingbars.",
+          "indo": "ini adalah burung besar berwarna coklat dengan warna abu-abu di tengkuk dan putih di garis sayap."
+        },
+        {
+          "english": "a medium bird with large dark gray wings, rectrices, and a gray belly.",
+          "indo": "burung berukuran sedang dengan sayap besar berwarna abu-abu tua, rectrices, dan perut abu-abu."
+        },
+        {
+          "english": "this bird is black with white spots and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan bintik-bintik putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the long coverts, with white secondaries, the nape is light brown while the crown is dark brown.",
+          "indo": "bulunya panjang, dengan bulu sekunder berwarna putih, tengkuknya berwarna coklat muda sedangkan ubun-ubunnya berwarna coklat tua."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan putih"
+        },
+        {
+          "english": "this bird has dark brown feathers accented with white in its tail and wings.",
+          "indo": "burung ini memiliki bulu berwarna coklat tua dengan aksen putih pada bagian ekor dan sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0023_61431.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a white body with black head, wings, and tail as well as a a dark bill",
+          "indo": "tubuh berwarna putih dengan kepala, sayap, dan ekor berwarna hitam serta paruh berwarna gelap"
+        },
+        {
+          "english": "a large bird with a black crown and white throat and belly with taupe primaries.",
+          "indo": "seekor burung besar dengan mahkota hitam dan tenggorokan serta perut putih dengan warna bulu primer kelabu tua."
+        },
+        {
+          "english": "the bird has a white throat, breast, belly and abdomen, with the rest of it's body, covert and rectrices in black color.",
+          "indo": "burung ini mempunyai tenggorokan, dada, perut dan perut berwarna putih, dengan seluruh tubuhnya, bulu penutup dan rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a white belly, and a large wingspan",
+          "indo": "burung ini memiliki mahkota berwarna hitam, perut berwarna putih, dan rentang sayap yang besar"
+        },
+        {
+          "english": "this is a medium to large sized bird with a slightly curved bill, white abdomen, and large tarsus and feet.",
+          "indo": "Ini adalah burung berukuran sedang hingga besar dengan paruh agak melengkung, perut berwarna putih, serta tarsus dan kaki besar."
+        },
+        {
+          "english": "the bird has white and black feathers with black webbed feet.",
+          "indo": "burung ini memiliki bulu berwarna putih kehitaman dengan kaki berselaput hitam."
+        },
+        {
+          "english": "medium to large black white and grey bird with long black tarsus, webbed feet and a long black beak.",
+          "indo": "burung hitam putih dan abu-abu berukuran sedang hingga besar dengan tarsus hitam panjang, kaki berselaput, dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird has a white throat, breast and belly and a black head, wings and tail.",
+          "indo": "burung ini memiliki tenggorokan, dada dan perut berwarna putih serta kepala, sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird is black and white in color, and has a black beak.",
+          "indo": "burung ini berwarna hitam putih, dan mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a black long bill, with a white breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam, dengan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0024_61281.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a white belly, gray breast and crown.",
+          "indo": "burung ini memiliki perut berwarna putih, dada dan mahkota berwarna abu-abu."
+        },
+        {
+          "english": "a medium sized bird with a white belly, brown and white wings and very long tail feathers.",
+          "indo": "burung berukuran sedang dengan perut berwarna putih, sayap berwarna coklat dan putih serta bulu ekor yang sangat panjang."
+        },
+        {
+          "english": "this large bird has a mottled gray and white head and breast, with a white belly and gray wings.",
+          "indo": "burung besar ini memiliki kepala dan dada berbintik-bintik berwarna abu-abu putih, dengan perut berwarna putih dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this gray and white bird has a strong pointed beak.",
+          "indo": "burung berwarna abu-abu putih ini memiliki paruh runcing yang kuat."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has grey wings and tail, with a white belly and breast.",
+          "indo": "burung ini memiliki sayap dan ekor berwarna abu-abu, dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0026_61273.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large black bird with light gray wingbars and prominent tailfeathers",
+          "indo": "seekor burung hitam besar dengan sayap abu-abu muda dan bulu ekor menonjol"
+        },
+        {
+          "english": "this medium sized bird is black all over and has large wings that have white secondaries on them and a beak turned to the bottom.",
+          "indo": "burung berukuran sedang ini berwarna hitam seluruhnya dan memiliki sayap besar yang memiliki sayap bulu sekunder berwarna putih dan paruh menghadap ke bawah."
+        },
+        {
+          "english": "this is a large mostly dark colored bird with white on the tips of tips of its wings.",
+          "indo": "ini adalah burung besar yang sebagian besar berwarna gelap dengan warna putih di ujung sayapnya."
+        },
+        {
+          "english": "thisï¿½ï¿½birdï¿½ï¿½hasï¿½ï¿½aï¿½ï¿½blackï¿½ï¿½bodyï¿½ï¿½withï¿½ï¿½greyï¿½ï¿½feathersï¿½ï¿½onï¿½ï¿½theï¿½ï¿½bottomï¿½ï¿½halfï¿½ï¿½ofï¿½ï¿½theï¿½ï¿½wings.",
+          "indo": "burung ini mempunyai tubuh yang hitam dengan bulu yang berwarna abu-abu di bagian bawah sayapnya."
+        },
+        {
+          "english": "this is a black bird with a small bill and white on the secondaries.",
+          "indo": "ini adalah burung berwarna hitam dengan paruh kecil dan paruh kedua berwarna putih."
+        },
+        {
+          "english": "this bird has feathers that are black and has a black body",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan mempunyai badan yang berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and has a big bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "a large black bird, with a flat tail, and a short bill.",
+          "indo": "burung hitam besar, ekor rata, dan paruh pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0027_795767.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a thin, sharp bill, black crown and eyes.",
+          "indo": "burung ini memiliki paruh yang tipis dan tajam, mahkota dan mata berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this brownish bird has a white abdomen,and a short black beak.",
+          "indo": "burung berwarna kecoklatan ini memiliki perut berwarna putih, dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird is dark grey with some white feathers on its belly and breasts.",
+          "indo": "burung ini berwarna abu-abu tua dengan beberapa bulu berwarna putih di perut dan dadanya."
+        },
+        {
+          "english": "this particular bird has a white belly and breast and is a magenta color all over",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dan seluruh warnanya magenta"
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a large sharp-beaked bird with taupe brown coloring from crown to rectrices and wide wing span with white-beige side to abdomen.",
+          "indo": "burung besar berparuh runcing dengan warna coklat kelabu tua dari ubun-ubun sampai rectrices dan rentang sayap lebar dengan sisi hingga perut berwarna putih krem."
+        },
+        {
+          "english": "this bird has long brown wings and a brown head with a black eye and a cream colored chest.",
+          "indo": "burung ini mempunyai sayap panjang berwarna coklat dan kepala berwarna coklat dengan mata hitam dan dada berwarna krem."
+        },
+        {
+          "english": "a bird having a dark grey crown and wings with a speckled white and gray belly.",
+          "indo": "seekor burung yang mempunyai mahkota dan sayap berwarna abu-abu tua dengan perut berbintik-bintik putih dan abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0028_795797.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large sized bird with a white belly and a medium sized, hooked bill",
+          "indo": "seekor burung berukuran besar dengan perut berwarna putih dan paruh bengkok berukuran sedang"
+        },
+        {
+          "english": "the wingspan of this sharped beak bird is impressive.",
+          "indo": "rentang sayap burung paruh tajam ini sungguh mengesankan."
+        },
+        {
+          "english": "this bird contains a large wingspan for its' body's size, and brown, white and grey feathers throughout it's body with the exception of its belly which is mostly white.",
+          "indo": "burung ini memiliki rentang sayap yang besar untuk ukuran tubuhnya, serta bulu berwarna coklat, putih dan abu-abu di seluruh tubuhnya kecuali perutnya yang sebagian besar berwarna putih."
+        },
+        {
+          "english": "medium size bird with white belly and black grayscale wings and a small beak in relativity to its body.",
+          "indo": "burung berukuran sedang dengan perut putih dan sayap hitam abu-abu serta paruh kecil dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird has a white breast, black crown, and very large wings.",
+          "indo": "burung ini memiliki dada berwarna putih, mahkota berwarna hitam, dan sayap yang sangat besar."
+        },
+        {
+          "english": "the bird is large, with a white abdomen, black wings and crown, with a short bill compared to the body size.",
+          "indo": "burungnya berukuran besar, dengan perut berwarna putih, sayap dan mahkota berwarna hitam, dengan paruh yang pendek dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has two large black wingbars and a large belly.",
+          "indo": "burung itu memiliki dua sayap hitam besar dan perut besar."
+        },
+        {
+          "english": "this bird has a white belly, and a large wing span.",
+          "indo": "burung ini mempunyai perut berwarna putih, dan rentang sayap yang besar."
+        },
+        {
+          "english": "a bird with a white breast and a large wing span.",
+          "indo": "seekor burung dengan dada putih dan rentang sayap besar."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0029_61365.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a white belly and black and white abdomen, with the remaining of him black.",
+          "indo": "burung ini mempunyai perut berwarna putih dan perut berwarna hitam putih, sedangkan sisanya berwarna hitam."
+        },
+        {
+          "english": "a medium sized bird with a white belly and side, a black breast, black wings, and a thin long black bill.",
+          "indo": "burung berukuran sedang dengan perut dan samping berwarna putih, dada hitam, sayap hitam, dan paruh tipis panjang berwarna hitam."
+        },
+        {
+          "english": "a large bird with white side and breast with large black wings",
+          "indo": "seekor burung besar dengan sisi dan dada berwarna putih dengan sayap hitam besar"
+        },
+        {
+          "english": "this bird has a white breast and belly and the rest of it is black.",
+          "indo": "burung ini mempunyai dada dan perut berwarna putih dan selebihnya berwarna hitam."
+        },
+        {
+          "english": "the bird has large black wings, with a white belly and breast and a long beak.",
+          "indo": "burung ini mempunyai sayap hitam besar, perut dan dada berwarna putih serta paruh yang panjang."
+        },
+        {
+          "english": "a medium sized bird with with a white belly, and a long bill",
+          "indo": "burung berukuran sedang dengan perut berwarna putih, dan paruh panjang"
+        },
+        {
+          "english": "this is a black bird with a white belly and gray abdomen",
+          "indo": "ini adalah burung hitam dengan perut putih dan perut abu-abu"
+        },
+        {
+          "english": "this particular bird has a belly that is white and has black patches",
+          "indo": "Burung ini mempunyai perut yang berwarna putih dan terdapat bercak hitam"
+        },
+        {
+          "english": "this large black bird has a white belly and a thick bill.",
+          "indo": "burung hitam besar ini memiliki perut berwarna putih dan paruh yang tebal."
+        },
+        {
+          "english": "this bird has a white belly and black flank.",
+          "indo": "burung ini memiliki perut berwarna putih dan panggul berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0030_61447.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird had a black beak and the feathers are grey and ruffled.",
+          "indo": "burung itu mempunyai paruh berwarna hitam dan bulunya berwarna abu-abu serta acak-acakan."
+        },
+        {
+          "english": "this bird has a white belly, gray wings and a gray spotted head.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna abu-abu, dan kepala berbintik abu-abu."
+        },
+        {
+          "english": "a large bird with a white breast dark grey wing feathers, and a long black curved bill.",
+          "indo": "seekor burung besar dengan bulu sayap dada berwarna putih abu-abu tua, dan paruh panjang berwarna hitam melengkung."
+        },
+        {
+          "english": "this bird has a long dark bill, gray wings, a black tail and legs, white breast and belly, and some patchy gray on its white head.",
+          "indo": "burung ini memiliki paruh panjang berwarna gelap, sayap berwarna abu-abu, ekor dan kaki berwarna hitam, dada dan perut berwarna putih, serta sedikit bercak abu-abu di kepala putihnya."
+        },
+        {
+          "english": "this large bird has a white body, grey wing, and long hooked bill.",
+          "indo": "burung berukuran besar ini memiliki tubuh berwarna putih, sayap berwarna abu-abu, dan paruh bengkok panjang."
+        },
+        {
+          "english": "medium bird with a long crescent black beak, grey wings and a black tail, white belly and long legs",
+          "indo": "burung sedang dengan paruh panjang berwarna hitam sabit, sayap abu-abu dan ekor hitam, perut putih dan kaki panjang"
+        },
+        {
+          "english": "this bird has wings that are gray and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "a bird with a white breast and belly, gray wings and a longer downward turned bill.",
+          "indo": "burung dengan dada dan perut berwarna putih, sayap abu-abu, dan paruh lebih panjang mengarah ke bawah."
+        },
+        {
+          "english": "the bird is large with a pointed bill, has a bill that is long and the belly is white.",
+          "indo": "burungnya berukuran besar dengan paruh yang runcing, mempunyai paruh yang panjang dan perutnya berwarna putih."
+        },
+        {
+          "english": "a short white bird with a gray and white wing, long narrow legs, a short tail, and a long curved beak.",
+          "indo": "burung pendek berwarna putih dengan sayap berwarna abu-abu putih, kaki panjang sempit, ekor pendek, dan paruh panjang melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0031_61420.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "bird with wide wingspan and very long downward curved beak.",
+          "indo": "burung dengan rentang sayap lebar dan paruh melengkung ke bawah sangat panjang."
+        },
+        {
+          "english": "medium white and brown bird with long wingspan and medium to long brown beak",
+          "indo": "burung berwarna putih dan coklat sedang dengan rentang sayap panjang dan paruh coklat sedang hingga panjang"
+        },
+        {
+          "english": "this bird is black with white on its chest and on the end of its wings.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian dada dan ujung sayapnya."
+        },
+        {
+          "english": "a larger sized bird that has a white belly and a long hooked bill",
+          "indo": "burung berukuran lebih besar yang memiliki perut berwarna putih dan paruh bengkok yang panjang"
+        },
+        {
+          "english": "beautiful long wing spanned bird with a longer pointed bill",
+          "indo": "burung membentang sayap panjang yang indah dengan paruh runcing lebih panjang"
+        },
+        {
+          "english": "the is colorful bird has a long beak with wide wings",
+          "indo": "Burung berwarna-warni ini memiliki paruh yang panjang dengan sayap yang lebar"
+        },
+        {
+          "english": "this medium sized bird has long, black wings, a grey belly, black breast and a long bill.",
+          "indo": "burung berukuran sedang ini memiliki sayap panjang berwarna hitam, perut berwarna abu-abu, dada berwarna hitam, dan paruh yang panjang."
+        },
+        {
+          "english": "this is a large black bird with a long wing span its underbelly is white it has a long curved beak",
+          "indo": "Ini adalah burung besar berwarna hitam dengan rentang sayap yang panjang, perutnya berwarna putih, paruhnya panjang melengkung"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0032_795789.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this is a larger bird with black outer and inner rectrices, black wings, a white belly and flank, the breast is white and black patterned and the head is also black, the beak is black and curved at the tip.",
+          "indo": "ini adalah burung yang lebih besar dengan outer dan inner rectrices berwarna hitam, sayap hitam, perut dan panggul berwarna putih, dada bercorak putih dan hitam, kepala juga hitam, paruh hitam dan ujung melengkung."
+        },
+        {
+          "english": "a bird with long black wings, tail and white breast, the bill is short and black",
+          "indo": "burung bersayap hitam panjang, ekor dan dada berwarna putih, paruh pendek berwarna hitam"
+        },
+        {
+          "english": "the bird has a long white and black body with black wings and a curved beak.",
+          "indo": "burung ini memiliki tubuh panjang berwarna putih hitam dengan sayap hitam dan paruh melengkung."
+        },
+        {
+          "english": "this bird has a white belly, breast, and abdomen with a black covert and rectrices area.",
+          "indo": "burung ini memiliki perut, dada, dan perut berwarna putih dengan area bulu penutup dan rectrices berwarna hitam."
+        },
+        {
+          "english": "a large bird with a white abdomen, black wings, and a large bill.",
+          "indo": "seekor burung besar dengan perut berwarna putih, sayap hitam, dan paruh besar."
+        },
+        {
+          "english": "this bird has black wings, a speckled brown and white throat, and a white belly, with a brown vent.",
+          "indo": "burung ini mempunyai sayap berwarna hitam, tenggorokan berbintik-bintik coklat dan putih, serta perut berwarna putih dengan lubang kloaka berwarna coklat."
+        },
+        {
+          "english": "the white belly of the bird with grey breast with a hook for a bill",
+          "indo": "perut burung berwarna putih dengan dada abu-abu dengan pengait untuk paruh"
+        },
+        {
+          "english": "this black and white bird has a shape like a fish, with no delineation between its head and its body, a bill that hooks downward at the end and a very wide wingspan.",
+          "indo": "burung berwarna hitam putih ini mempunyai bentuk seperti ikan, tidak ada batas antara kepala dan badannya, paruh yang ujungnya mengait ke bawah dan rentang sayap yang sangat lebar."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "a large bird with a white and black body and a long curvy wingspan.",
+          "indo": "seekor burung besar dengan tubuh berwarna putih hitam dan rentang sayap melengkung panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0033_795749.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large bird has a brown back, a tan cheek patch, and white wingbars.",
+          "indo": "seekor burung besar memiliki punggung berwarna coklat, pipi berwarna coklat, dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is mainly brown and white in color, and contains a large head in comparison with its body size, and a white nape.",
+          "indo": "burung ini sebagian besar berwarna coklat dan putih, memiliki kepala yang besar dibandingkan dengan ukuran tubuhnya, dan tengkuknya berwarna putih."
+        },
+        {
+          "english": "this is a brown bird with a long wing span, a white nape and white secondaries.",
+          "indo": "ini adalah burung berwarna coklat dengan rentang sayap yang panjang, tengkuk berwarna putih dan bulu sekunder berwarna putih."
+        },
+        {
+          "english": "this bird has long wings with curves and a white stripe around the throat",
+          "indo": "burung ini mempunyai sayap yang panjang dengan lekukan dan garis putih di sekitar tenggorokannya"
+        },
+        {
+          "english": "large bird with short bill, dark gray crown and white throat.",
+          "indo": "burung besar dengan paruh pendek, mahkota abu-abu tua dan tenggorokan putih."
+        },
+        {
+          "english": "this bird is dark gray with white stripes in its wings and around its neck.",
+          "indo": "burung ini berwarna abu-abu tua dengan garis-garis putih pada sayap dan sekitar lehernya."
+        },
+        {
+          "english": "this large bird has gray wings and its rump is gray and white.",
+          "indo": "burung besar ini memiliki sayap berwarna abu-abu dan pantatnya berwarna abu-abu putih."
+        },
+        {
+          "english": "a gray bird with a ring of white around the neck, with a medium sized beak.",
+          "indo": "burung berwarna abu-abu dengan lingkaran putih di lehernya, dengan paruh berukuran sedang."
+        },
+        {
+          "english": "this bird has a long wingspan, with white plumage on it's nape and throat, and dark brown everywhere else.",
+          "indo": "burung ini mempunyai rentang sayap yang panjang, dengan bulu berwarna putih di tengkuk dan tenggorokannya, serta berwarna coklat tua di bagian lainnya."
+        },
+        {
+          "english": "a medium sized grey bird, with a white nape, and a pointed bill.",
+          "indo": "burung berwarna abu-abu berukuran sedang, dengan tengkuk berwarna putih, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0034_61247.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this is a large brown bird with a white patch on its throat and neck and a white belly.",
+          "indo": "ini adalah burung besar berwarna coklat dengan bercak putih di tenggorokan dan lehernya serta perut berwarna putih."
+        },
+        {
+          "english": "a medium sized bird with brown wings, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap berwarna coklat, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this is a white bird with black wings and a black head.",
+          "indo": "ini adalah burung putih dengan sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "this is a large white and black bird with a long bill, white abdomen, and black wings.",
+          "indo": "ini adalah burung besar berwarna putih dan hitam dengan paruh panjang, perut putih, dan sayap hitam."
+        },
+        {
+          "english": "this is a white bird with brown wings and a black head.",
+          "indo": "ini adalah burung berwarna putih dengan sayap coklat dan kepala hitam."
+        },
+        {
+          "english": "this bird contains a white throat, belly and breast, and brown white and grey wings.",
+          "indo": "burung ini memiliki tenggorokan, perut dan dada berwarna putih, serta sayap berwarna coklat putih dan abu-abu."
+        },
+        {
+          "english": "this is a brown and white bird with a long thin tail and white around the neck and breast.",
+          "indo": "Ini adalah burung berwarna coklat dan putih dengan ekor panjang tipis dan putih di sekitar leher dan dada."
+        },
+        {
+          "english": "a bird with white belly and grey wingbands with a downward facing beak",
+          "indo": "burung dengan perut berwarna putih dan pita sayap berwarna abu-abu dengan paruh menghadap ke bawah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0036_61410.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a black head, white belly, and brown wings.",
+          "indo": "burung ini memiliki kepala berwarna hitam, perut berwarna putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly, with long brown wings and black tail feathers.",
+          "indo": "burung ini memiliki perut berwarna putih, dengan sayap panjang berwarna coklat dan bulu ekor berwarna hitam."
+        },
+        {
+          "english": "a large bird with a large wingspan, containing a predominantly brown feathers with black tips, and a brown and white speckled throat and top portion of the belly.",
+          "indo": "seekor burung besar dengan rentang sayap yang besar, memiliki bulu yang didominasi warna coklat dengan ujung berwarna hitam, serta tenggorokan dan bagian atas perut yang berbintik coklat dan putih."
+        },
+        {
+          "english": "a large black color bird with a white belly.",
+          "indo": "burung besar berwarna hitam dengan perut putih."
+        },
+        {
+          "english": "this bird is black with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna putih"
+        },
+        {
+          "english": "the bird has a long white belly and long black wingbars.",
+          "indo": "burung ini memiliki perut putih panjang dan sayap hitam panjang."
+        },
+        {
+          "english": "the brown and white bird looks magnificent in flight, small bak and not a large body but it has a long wingspan.",
+          "indo": "burung berwarna coklat putih ini tampak megah saat terbang, baknya kecil dan badannya tidak besar namun mempunyai rentang sayap yang panjang."
+        },
+        {
+          "english": "the bird has a gray and black feather with a long beak and white body area",
+          "indo": "burung ini memiliki bulu berwarna abu-abu kehitaman dengan paruh panjang dan area tubuh berwarna putih"
+        },
+        {
+          "english": "the bird has a spotted white belly and two massive wingbars.",
+          "indo": "burung itu memiliki perut berwarna putih berbintik dan dua sayap besar."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0038_61446.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has a small curved bill and yellow breast.",
+          "indo": "burung itu memiliki paruh kecil melengkung dan dada berwarna kuning."
+        },
+        {
+          "english": "a medium bird with a white belly, black rectrices, and a bright yellow throat.",
+          "indo": "burung berukuran sedang dengan perut putih, kotak hitam, dan tenggorokan kuning cerah."
+        },
+        {
+          "english": "this bird has a short curved bill, a yellow throat, and a white belly.",
+          "indo": "burung ini memiliki paruh pendek melengkung, tenggorokan berwarna kuning, dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a small head, medium downward hooked bill, yellow throat and white belly.",
+          "indo": "burung berkepala kecil, paruh bengkok sedang ke bawah, tenggorokan kuning, dan perut putih."
+        },
+        {
+          "english": "the beak is small compared to the bird and hooks downward slightly.",
+          "indo": "paruhnya kecil dibandingkan burung dan sedikit mengarah ke bawah."
+        },
+        {
+          "english": "the bird has a black and white body with a yellow malar stripe and a yellow stripe on the tip of its tail",
+          "indo": "Burung ini berbadan hitam putih dengan garis malar kuning dan garis kuning di ujung ekornya"
+        },
+        {
+          "english": "this particular bird has a white belly and an orange neck",
+          "indo": "burung ini memiliki perut berwarna putih dan leher berwarna oranye"
+        },
+        {
+          "english": "this black bird has a white belly, yellow throat and short bill.",
+          "indo": "burung berwarna hitam ini memiliki perut berwarna putih, tenggorokan berwarna kuning, dan paruh pendek."
+        },
+        {
+          "english": "this bird is black and white with a yellow cheek patch and a white belly.",
+          "indo": "burung ini berwarna hitam putih dengan bercak kuning di pipi dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0039_61348.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has two large wingbars that are brown.",
+          "indo": "burung ini memiliki dua garis sayap besar berwarna coklat."
+        },
+        {
+          "english": "a large bird with curved bill tip, grey coverts, secondaries and primaries.",
+          "indo": "seekor burung besar dengan ujung paruh melengkung, bulu berwarna abu-abu, bulu sekunder dan bulu primer."
+        },
+        {
+          "english": "this large bird has a pure white belly, black speckles along its throat and side, and brown on its back and wings.",
+          "indo": "burung besar ini memiliki perut berwarna putih bersih, bintik hitam di sepanjang tenggorokan dan samping, serta berwarna coklat di punggung dan sayap."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long hooked bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "this is a white bird with black wings and a large beak.",
+          "indo": "ini adalah burung berwarna putih dengan sayap hitam dan paruh besar."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has long primaries and short rectrices with a white belly and black wings.",
+          "indo": "burung ini memiliki sayap bulu primer yang panjang dan rectrices  yang pendek dengan perut berwarna putih dan sayap hitam."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0041_61305.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a bird with a slightly hooked bill, white belly, and flat rectrices",
+          "indo": "burung dengan paruh agak bengkok, perut berwarna putih, dan rectrices  yang panjang rata"
+        },
+        {
+          "english": "this bird has a long bill, long wings, and a grey belly",
+          "indo": "burung ini memiliki paruh yang panjang, sayap yang panjang, dan perut berwarna abu-abu"
+        },
+        {
+          "english": "a large bird with a long wingspan, and curved bill.",
+          "indo": "seekor burung besar dengan rentang sayap yang panjang, dan paruh melengkung."
+        },
+        {
+          "english": "a large bird with a bluish gray body, and black wings",
+          "indo": "seekor burung besar dengan tubuh abu-abu kebiruan, dan sayap hitam"
+        },
+        {
+          "english": "this bird is black with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird in the air with a dark grey throat, white breast and grey primaries and secondaries.",
+          "indo": "seekor burung besar di udara dengan tenggorokan abu-abu tua, dada putih, serta bulu primer dan bulu sekunder abu-abu."
+        },
+        {
+          "english": "this i a large bird, with a white breast and dark grey wings and tail.",
+          "indo": "Ini adalah burung besar, dengan dada berwarna putih dan sayap serta ekor berwarna abu-abu tua."
+        },
+        {
+          "english": "this large bird has large wings thaty are colored black.",
+          "indo": "burung besar ini mempunyai sayap besar yang berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0042_795755.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this gray bird has a white belly and flanks, a short, hooked beak, and gray and white primary wing feathers.",
+          "indo": "burung abu-abu ini memiliki perut dan panggul berwarna putih, paruh pendek bengkok, dan bulu sayap utama berwarna abu-abu putih."
+        },
+        {
+          "english": "a larger black and brown with grey towns on its under belly.",
+          "indo": "warna hitam dan coklat yang lebih besar dengan kota abu-abu di bagian bawah perutnya."
+        },
+        {
+          "english": "this bird is black with white on its belly and on the ends of its wings.",
+          "indo": "burung ini berwarna hitam dengan warna putih pada bagian perut dan ujung sayapnya."
+        },
+        {
+          "english": "a large black bird with wide spreaded wings and gray belly.",
+          "indo": "seekor burung hitam besar dengan sayap terbentang lebar dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this medium sized bird has long black wings with white on the primaries, a short black beak, black feet and a white belly.",
+          "indo": "Burung berukuran sedang ini memiliki sayap hitam panjang dengan warna putih pada bagian bulu primer, paruh pendek berwarna hitam, kaki berwarna hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has long large brown wing bars and a small black bill.",
+          "indo": "burung itu memiliki garis sayap panjang berwarna coklat dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "a large bird with long wings and a black body covering.",
+          "indo": "seekor burung besar dengan sayap panjang dan penutup tubuh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has broad, grey wings, a grey crown, and a white belly.",
+          "indo": "burung ini memiliki sayap lebar berwarna abu-abu, mahkota berwarna abu-abu, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0043_61384.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a white body, gray wings and tail, and a gray crown.",
+          "indo": "burung ini memiliki tubuh berwarna putih, sayap dan ekor berwarna abu-abu, serta mahkota berwarna abu-abu."
+        },
+        {
+          "english": "a large bird with a white belly, mottled breast, and white throat with a large slightly hooked beak.",
+          "indo": "burung besar dengan perut putih, dada berbintik-bintik, dan tenggorokan putih dengan paruh besar agak bengkok."
+        },
+        {
+          "english": "a large grey and white bird with a large wing span and a small sharp beak.",
+          "indo": "seekor burung besar berwarna abu-abu putih dengan rentang sayap besar dan paruh kecil yang tajam."
+        },
+        {
+          "english": "a bird with a white belly and a black crown.",
+          "indo": "seekor burung dengan perut putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this large bird has a small hooked bill, a white body with black spots near the abdomen and breast, and gray wings with white tips.",
+          "indo": "Burung berukuran besar ini memiliki paruh kecil yang bengkok, badan berwarna putih dengan bintik hitam di dekat perut dan dada, serta sayap berwarna abu-abu dengan ujung berwarna putih."
+        },
+        {
+          "english": "this bird's white body resembles a 2-liter soda bottle in shape, and its wings and tail are gray with white tips.",
+          "indo": "Tubuh burung ini berwarna putih menyerupai botol soda ukuran 2 liter, sayap dan ekornya berwarna abu-abu dengan ujung berwarna putih."
+        },
+        {
+          "english": "this bird is white with black and has a very short beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0045_795750.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has a hooked bill, a white breast and belly, and long, black secondaries and primaries",
+          "indo": "burung itu memiliki paruh bengkok, dada dan perut berwarna putih, serta bulu sekunder dan bulu primer yang panjang dan berwarna hitam"
+        },
+        {
+          "english": "a medium sized bird that has a white belly and a medium sized bill",
+          "indo": "burung berukuran sedang yang memiliki perut berwarna putih dan paruh berukuran sedang"
+        },
+        {
+          "english": "this white-bellied bird has a white head that is small compared to the body, and black primaries and rectrices.",
+          "indo": "Burung berperut putih ini memiliki kepala putih yang lebih kecil dibandingkan tubuhnya, serta bulu primer dan rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird is white with grey on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna abu-abu pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white belly and head, with a dappled white and black band around its breast and predominantly black wings and rectrices.",
+          "indo": "burung ini memiliki perut dan kepala berwarna putih, dengan garis putih dan hitam belang-belang di sekitar dadanya serta sayap dan rectrices  yang didominasi warna hitam."
+        },
+        {
+          "english": "this bird has a white belly, gray and black wings and tail feathers, with black markings around its eyes.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap dan bulu ekor berwarna abu-abu dan hitam, dengan corak hitam di sekitar matanya."
+        },
+        {
+          "english": "a medium sized bird with a white body, and a black pointed bill.",
+          "indo": "burung berukuran sedang dengan tubuh berwarna putih, dan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white body, a very long black wingspan, and a very tiny black tail.",
+          "indo": "burung ini memiliki tubuh berwarna putih, rentang sayap hitam yang sangat panjang, dan ekor hitam yang sangat kecil."
+        },
+        {
+          "english": "this is a white bird with gray wings and a gray throat, while the beak is gray and turns downwards at the tip.",
+          "indo": "Burung ini berwarna putih dengan sayap berwarna abu-abu dan tenggorokan berwarna abu-abu, sedangkan paruhnya berwarna abu-abu dan ujungnya mengarah ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0046_61301.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this large bird has a white belly and spotted head. the wings and tail consist of black and white feathers.the beak is short and pointed.",
+          "indo": "burung besar ini memiliki perut berwarna putih dan kepala berbintik. sayap dan ekor terdiri dari bulu berwarna hitam putih. Paruhnya pendek dan runcing."
+        },
+        {
+          "english": "a large bird that is black and white with a large wingspan.",
+          "indo": "seekor burung besar berwarna hitam putih dengan rentang sayap yang besar."
+        },
+        {
+          "english": "this is a white bird with black wings and a black beak.",
+          "indo": "ini adalah burung putih dengan sayap hitam dan paruh hitam."
+        },
+        {
+          "english": "a large bird with a white underbelly and chest, with gray, black, and white wings",
+          "indo": "seekor burung besar dengan perut dan dada berwarna putih, dengan sayap abu-abu, hitam, dan putih"
+        },
+        {
+          "english": "the bird has a white breast and belly and a black bill",
+          "indo": "burung itu memiliki dada dan perut berwarna putih serta paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has a wide wingspan, with a white belly and speckled brown covering the rest of its body and tail.",
+          "indo": "burung ini mempunyai rentang sayap yang lebar, dengan perut berwarna putih dan berbintik coklat menutupi seluruh tubuh dan ekornya."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this large bird has a white breast and a very large wingspan.",
+          "indo": "burung berukuran besar ini memiliki dada berwarna putih dan rentang sayap yang sangat besar."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0048_795771.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this dove gray colored bird has a white throat that comes to the nape leaving the head to stand out in black coloring.",
+          "indo": "Burung merpati berwarna abu-abu ini memiliki tenggorokan berwarna putih hingga ke tengkuk, menyisakan kepala yang menonjol dengan warna hitam."
+        },
+        {
+          "english": "big bird with white and blaack beak with white throat and black nape with big wings.",
+          "indo": "burung besar dengan paruh berwarna putih dan hitam, tenggorokan putih dan tengkuk hitam, bersayap besar."
+        },
+        {
+          "english": "this bird is very large, with large wings, and a large sharp beak",
+          "indo": "burung ini berukuran sangat besar, dengan sayap yang besar, dan paruh yang besar dan tajam"
+        },
+        {
+          "english": "this gray and white bird has a moderate size beak broad wings.",
+          "indo": "burung berwarna abu-abu putih ini mempunyai paruh berukuran sedang dan sayap lebar."
+        },
+        {
+          "english": "medium straight beak with sharp hooked ends, smoke gray body with tan tinge, and white neck with black head.",
+          "indo": "Paruhnya lurus sedang dengan ujung bengkok tajam, badan berwarna abu-abu asap dengan semburat kecoklatan, dan leher berwarna putih dengan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird is mostly grey with a wide throat that is white and a black bill that is curved downward.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dengan tenggorokan lebar berwarna putih dan paruh berwarna hitam melengkung ke bawah."
+        },
+        {
+          "english": "a gray bird with a black head, white nape and throat, and a medium beak, pointed down at the tip.",
+          "indo": "burung berwarna abu-abu dengan kepala berwarna hitam, tengkuk dan tenggorokan berwarna putih, serta paruh berukuran sedang, ujungnya mengarah ke bawah."
+        },
+        {
+          "english": "this bird has wings that are black and has a white throat",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokannya berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is black and has a white throat",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna hitam dan tenggorokan yang berwarna putih"
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0049_795795.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a small black and white bird with a black beak.",
+          "indo": "seekor burung kecil berwarna hitam putih dengan paruh hitam."
+        },
+        {
+          "english": "this medium-sized bird has a black beak, black crown, white throat, black feathers, and white abdomen.",
+          "indo": "burung berukuran sedang ini memiliki paruh berwarna hitam, mahkota berwarna hitam, tenggorokan berwarna putih, bulu berwarna hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "a bird with a large downward hooked bill, black crown, and white throat.",
+          "indo": "burung dengan paruh besar bengkok ke bawah, mahkota hitam, dan tenggorokan putih."
+        },
+        {
+          "english": "this bird is white and brown in color with a black beak, black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh berwarna hitam, cincin mata berwarna hitam."
+        },
+        {
+          "english": "a bird with a black head, white neck, a gray nape, and darker gray-colored body that has a long, downward-pointed beak and a white belly.",
+          "indo": "burung berkepala hitam, leher putih, tengkuk abu-abu, dan badan berwarna abu-abu tua yang memiliki paruh panjang mengarah ke bawah dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a black bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has webbed feet, a black bill and crown, a white breast that tapers to brown and brown secondaries.",
+          "indo": "burung ini memiliki kaki berselaput, paruh dan mahkota berwarna hitam, dada berwarna putih yang meruncing ke bagian bulu sekunder berwarna coklat dan coklat."
+        },
+        {
+          "english": "a medium sized bird, grey in color, with a pointed bill.",
+          "indo": "burung berukuran sedang, berwarna abu-abu, dengan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0051_795738.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has two large wingbars and a white breast.",
+          "indo": "burung itu memiliki dua garis sayap besar dan dada berwarna putih."
+        },
+        {
+          "english": "a bird with a large wing span, white belly, and small, hooked bill.",
+          "indo": "burung dengan rentang sayap besar, perut putih, dan paruh kecil bengkok."
+        },
+        {
+          "english": "medium white and brown bird with medium to large eyes and medium black beak",
+          "indo": "burung berwarna putih dan coklat sedang dengan mata sedang hingga besar dan paruh hitam sedang"
+        },
+        {
+          "english": "this white-bellied bird has a black face and grey wings.",
+          "indo": "burung berperut putih ini memiliki muka berwarna hitam dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has black wings and a white belly.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a pure white throat, breast and belly, white and grey vent, and white and black wings",
+          "indo": "burung ini memiliki tenggorokan, dada dan perut berwarna putih bersih, lubang kloaka berwarna putih dan abu-abu, serta sayap berwarna putih dan hitam"
+        },
+        {
+          "english": "this bird has a white belly and breast, a grey and white vent,and grey, white and brown wings.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih, lubang kloaka berwarna abu-abu putih, serta sayap berwarna abu-abu putih dan coklat."
+        },
+        {
+          "english": "the large bird has a white breast and a long wingspan.",
+          "indo": "burung besar memiliki dada berwarna putih dan rentang sayap yang panjang."
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "this large bird has a white breast, grey wings and a relatively small head.",
+          "indo": "burung besar ini memiliki dada berwarna putih, sayap berwarna abu-abu dan kepala yang relatif kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0053_795792.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a white bellied bird with black secondaries and grayish white primaries.",
+          "indo": "burung berperut putih dengan bulu sekunder berwarna hitam dan burung bulu primer berwarna putih keabu-abuan."
+        },
+        {
+          "english": "this bird is gray with a white breast/belly and long wings",
+          "indo": "burung ini berwarna abu-abu dengan dada/perut berwarna putih dan sayap panjang"
+        },
+        {
+          "english": "this bird has large brown wings with a white belly.",
+          "indo": "burung ini mempunyai sayap besar berwarna coklat dengan perut berwarna putih."
+        },
+        {
+          "english": "medium to large white grey and brown bird with medium brown beak",
+          "indo": "burung berwarna putih abu-abu dan coklat sedang hingga besar dengan paruh coklat sedang"
+        },
+        {
+          "english": "this is a large bird with a tan crown and white on the nape, breast, and sides.",
+          "indo": "ini adalah burung besar dengan mahkota berwarna coklat dan putih di bagian tengkuk, dada, dan samping."
+        },
+        {
+          "english": "the bird has a grey crown, black eyering and two large wingbars.",
+          "indo": "burung itu mempunyai mahkota berwarna abu-abu, cincin mata hitam dan dua garis sayap besar."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a yellow beak with black on the tip and a white under belly / abdominal area.",
+          "indo": "burung ini mempunyai paruh berwarna kuning dengan warna hitam pada bagian ujungnya dan warna putih pada bagian bawah perut/abdomennya."
+        },
+        {
+          "english": "this large bird has a big wingspan, a white belly and nape, and a dark-colored crown.",
+          "indo": "burung besar ini memiliki rentang sayap yang besar, perut dan tengkuk berwarna putih, serta mahkota berwarna gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0054_795791.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "large bird with a mostly brown body, white secondaries, white neckring, black head.",
+          "indo": "burung besar dengan tubuh sebagian besar berwarna coklat, bulu sekunder berwarna putih, leher putih, kepala hitam."
+        },
+        {
+          "english": "this brown, gray, black and white bird has a long thin beak",
+          "indo": "burung berwarna coklat, abu-abu, hitam dan putih ini memiliki paruh yang panjang dan tipis"
+        },
+        {
+          "english": "this bird has a black head and bill and brown wings with the secondaries tipped in white",
+          "indo": "burung ini memiliki kepala dan paruh berwarna hitam serta sayap berwarna coklat dengan ujung bulu sekunder berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown, white neck, and gray body.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, leher berwarna putih, dan badan berwarna abu-abu."
+        },
+        {
+          "english": "this graceful bird has brown feathers on the body and long brown and white feathers on the wings with a distinctive white ring around his neck and black face and beak.",
+          "indo": "Burung anggun ini memiliki bulu berwarna coklat pada badannya dan bulu panjang berwarna coklat putih pada sayapnya dengan ciri khas cincin putih pada lehernya serta muka dan paruhnya yang berwarna hitam."
+        },
+        {
+          "english": "a brown bird with a large wingspan and a small black head.",
+          "indo": "seekor burung berwarna coklat dengan rentang sayap besar dan kepala kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is brown and white in color, with a large curved beak.",
+          "indo": "burung ini berwarna coklat dan putih, dengan paruh besar yang melengkung."
+        },
+        {
+          "english": "this large bird has long wing span, white neck, and black crown.",
+          "indo": "burung berukuran besar ini memiliki rentang sayap yang panjang, leher berwarna putih, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown with white nape and brown back.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tengkuk berwarna putih dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black face",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai muka yang berwarna hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0055_795762.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a mostly black bird with white around its neck down to its belly.",
+          "indo": "burung yang sebagian besar berwarna hitam dengan warna putih di sekeliling leher hingga perutnya."
+        },
+        {
+          "english": "this is a bird with a white belly, grey wings and a black head.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan kepala hitam."
+        },
+        {
+          "english": "a bird that is off-white colored on its ventral side with black head, tail and large black wings.",
+          "indo": "burung yang bagian perutnya berwarna putih pucat dengan kepala, ekor, dan sayap besar berwarna hitam."
+        },
+        {
+          "english": "this bird has a long wingspan that is mostly black colored with a white belly.",
+          "indo": "burung ini mempunyai rentang sayap panjang yang sebagian besar berwarna hitam dengan perut berwarna putih."
+        },
+        {
+          "english": "a bird with black wings, a light belly, and a black face.",
+          "indo": "seekor burung dengan sayap hitam, perut terang, dan wajah hitam."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black and white in color, with a black and curved beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam dan melengkung."
+        },
+        {
+          "english": "a bird that appears to be a gull with a hooked beak - he has a white belly and black back and wings.",
+          "indo": "seekor burung yang tampak seperti burung camar dengan paruh bengkok - ia memiliki perut putih dan punggung serta sayap hitam."
+        },
+        {
+          "english": "a large bird with black bill and head, white breast, and dark grey primaries, secondaries, and rectrices.",
+          "indo": "seekor burung besar dengan paruh dan kepala hitam, dada putih, dan warna bulu primer, bulu sekunder, dan rectrices abu-abu tua."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0056_795770.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this large bird has white wing bars and a white colored bill.",
+          "indo": "burung berukuran besar ini memiliki garis sayap berwarna putih dan paruh berwarna putih."
+        },
+        {
+          "english": "this is a black bird with white wings and a long downward pointing beak.",
+          "indo": "ini adalah burung hitam dengan sayap putih dan paruh panjang mengarah ke bawah."
+        },
+        {
+          "english": "the nape is light brown. the primaries are white and the inner rectrices are dark brown with white patches.",
+          "indo": "tengkuknya berwarna coklat muda. primernya berwarna putih dan inner rectrices berwarna coklat tua dengan bercak putih."
+        },
+        {
+          "english": "this bird has a medium sized beak and has brown and white feathers",
+          "indo": "burung ini mempunyai paruh berukuran sedang dan mempunyai bulu berwarna coklat dan putih"
+        },
+        {
+          "english": "this bird is mainly black, with a sharp curved beak, white wing bars, a bit of white speckling on back and outer tail, and dark eyes.",
+          "indo": "Burung ini sebagian besar berwarna hitam, dengan paruh melengkung tajam, garis sayap berwarna putih, sedikit bintik putih di punggung dan ekor luar, serta mata berwarna gelap."
+        },
+        {
+          "english": "this particular bird has dark brown feathers with white streaks on its wings",
+          "indo": "burung ini memiliki bulu berwarna coklat tua dengan guratan putih pada sayapnya"
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird is mainly black, it has white stripes on its wings, the bill is big.",
+          "indo": "burung ini sebagian besar berwarna hitam, memiliki garis-garis putih di sayapnya, paruhnya besar."
+        },
+        {
+          "english": "this bird has a brown breast with white primaries arranged in lines",
+          "indo": "burung ini mempunyai dada berwarna coklat dengan bulu primer berwarna putih yang tersusun berjajar"
+        },
+        {
+          "english": "this bird has a brown body and a black head with a curved bill.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dan kepala berwarna hitam dengan paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0058_795746.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird is brown with grey webbed feet and thick white tarsus.",
+          "indo": "burung itu berwarna coklat dengan kaki berselaput abu-abu dan tarsus putih tebal."
+        },
+        {
+          "english": "this medium-sized brown bird has webbed feet and a beak with a downward-turned tip.",
+          "indo": "burung berwarna coklat berukuran sedang ini memiliki kaki berselaput dan paruh dengan ujung mengarah ke bawah."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feather, and gray beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna abu-abu"
+        },
+        {
+          "english": "this large bird has a pale brown head and breast with darker brown feathers on it's wings and tail.",
+          "indo": "Burung berukuran besar ini memiliki kepala dan dada berwarna coklat pucat dengan bulu berwarna coklat tua pada sayap dan ekornya."
+        },
+        {
+          "english": "this bird is brown with black on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna hitam pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are gray and has a silver bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna perak"
+        },
+        {
+          "english": "this particular bird has a belly that is brown and white spotted",
+          "indo": "Burung ini mempunyai perut yang berwarna coklat dan berbintik putih"
+        },
+        {
+          "english": "the bird has a curved throat and a large curved bill.",
+          "indo": "burung ini memiliki tenggorokan yang melengkung dan paruh yang besar dan melengkung."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0059_61347.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has a small bill that is black as well as curved.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam dan melengkung."
+        },
+        {
+          "english": "the short bird has long, black and orange striped wings.",
+          "indo": "burung pendek memiliki sayap panjang bergaris hitam dan oranye."
+        },
+        {
+          "english": "large round bellied bird with large wingspan, black face, white belly, and dark brown wings",
+          "indo": "burung berperut bulat besar dengan rentang sayap besar, muka hitam, perut putih, dan sayap coklat tua"
+        },
+        {
+          "english": "a large bird with black and white feathers and a black beak.",
+          "indo": "seekor burung besar dengan bulu hitam putih dan paruh hitam."
+        },
+        {
+          "english": "this bird has a white belly, brown nape, and long hooked bill.",
+          "indo": "burung ini mempunyai perut berwarna putih, tengkuk berwarna coklat, dan paruh bengkok panjang."
+        },
+        {
+          "english": "the secondaries of the wings are brown and the belly of the bird is white",
+          "indo": "sayap bulu sekunder berwarna coklat dan perut burung berwarna putih"
+        },
+        {
+          "english": "a dark colored bird with a small black head and tail, long dark wings, white belly and throat, and medium black bill ending in a downwards point.",
+          "indo": "burung berwarna gelap dengan kepala dan ekor kecil berwarna hitam, sayap panjang berwarna gelap, perut dan tenggorokan berwarna putih, serta paruh berwarna hitam sedang dengan ujung mengarah ke bawah."
+        },
+        {
+          "english": "this bird is white and brown in color, with a curved black beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long thick bill, with a large wing span and a white belly.",
+          "indo": "burung ini mempunyai paruh yang panjang dan tebal, dengan rentang sayap yang besar dan perut yang berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0060_795756.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a bird with a small head, stubby bill, a charcoal crown, back, breast, coverts and secondaries, charcoal and white striped primaries, and a white belly and abdomen.",
+          "indo": "burung berkepala kecil, paruh pendek, mahkota arang, punggung, dada, bulu dan bulu sekunder, bulu primer bergaris arang dan putih, serta perut dan perut berwarna putih."
+        },
+        {
+          "english": "this large bird has an expnasive wing span compared to its body size, a cream colored belly and vent, and a white wing bar on its wings.",
+          "indo": "Burung berukuran besar ini memiliki rentang sayap yang lebih besar dibandingkan ukuran tubuhnya, perut dan lubang kloaka berwarna krem, serta garis sayap berwarna putih pada sayapnya."
+        },
+        {
+          "english": "this is a grey bird with a white belly and beak.",
+          "indo": "ini adalah burung berwarna abu-abu dengan perut dan paruh berwarna putih."
+        },
+        {
+          "english": "a brown colored bird with white on its wingbars and very large wings",
+          "indo": "burung berwarna coklat dengan warna putih pada garis sayapnya dan sayapnya sangat besar"
+        },
+        {
+          "english": "a large bird with black wings with white stripes, and a brownish white body",
+          "indo": "burung besar bersayap hitam bergaris putih, dan badan putih kecoklatan"
+        },
+        {
+          "english": "this particular bird has a white belly and breast and gray neck and head",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta leher dan kepala berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a small thin bill, a whitish belly, a medium light gray crown and nape, white wingbars, dark gray wings, and a black rectrices.",
+          "indo": "burung ini memiliki paruh kecil tipis, perut berwarna keputihan, mahkota dan tengkuk berwarna abu-abu muda sedang, garis sayap berwarna putih, sayap berwarna abu-abu tua, dan rectrices berwarna hitam."
+        },
+        {
+          "english": "this bird has long triangular grey wings with white striped secondaries, and a small grey beak.",
+          "indo": "burung ini mempunyai sayap panjang berbentuk segitiga berwarna abu-abu dengan sayap bulu sekunder bergaris putih, dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a large body, long gray and white striped wings, a short tail, and a long beak that curves downward.",
+          "indo": "Ini adalah burung dengan tubuh besar, sayap panjang bergaris abu-abu putih, ekor pendek, dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "a large grey bird, with a flat tail, and a sharp bill.",
+          "indo": "seekor burung besar berwarna abu-abu, dengan ekor rata, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0061_795788.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a medium sized bird with a long black wingspan, and a mostly white body.",
+          "indo": "burung berukuran sedang dengan rentang sayap hitam panjang, dan sebagian besar tubuh berwarna putih."
+        },
+        {
+          "english": "a large bird with a white breast, black, grey and white wings and tail, and a black head.",
+          "indo": "burung besar dengan dada berwarna putih, sayap dan ekor berwarna hitam, abu-abu dan putih, serta kepala berwarna hitam."
+        },
+        {
+          "english": "the bird has a white breast and belly with it's coverts in black color with some white streaks in between.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan bulu berwarna hitam dengan beberapa guratan putih di antaranya."
+        },
+        {
+          "english": "this bird has a very small head compared to its body, with a white breast and belly and black coverts, secondaries, and rectrices.",
+          "indo": "burung ini memiliki kepala yang sangat kecil dibandingkan dengan tubuhnya, dengan dada dan perut berwarna putih serta bulu hitam, bulu sekunder, dan rectrices ."
+        },
+        {
+          "english": "this black and white bird has a a long wingspan and a small beak.",
+          "indo": "burung berwarna hitam putih ini memiliki rentang sayap yang panjang dan paruh yang kecil."
+        },
+        {
+          "english": "the bird has a white belly, a small black head, and long black wings.",
+          "indo": "burung itu memiliki perut berwarna putih, kepala kecil berwarna hitam, dan sayap hitam panjang."
+        },
+        {
+          "english": "a large bird with a long wingspan and a white body.",
+          "indo": "seekor burung besar dengan rentang sayap panjang dan tubuh berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and breasts with black spots",
+          "indo": "Burung ini memiliki perut berwarna putih dan dada berbintik hitam"
+        },
+        {
+          "english": "a large black and white bird with wide wings, a very small head, a long tail, and a short beak that curves downward.",
+          "indo": "burung besar berwarna hitam putih dengan sayap lebar, kepala sangat kecil, ekor panjang, dan paruh pendek melengkung ke bawah."
+        },
+        {
+          "english": "this particular bird has a belly that is white and black",
+          "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0062_61351.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this long-billed bird has a blackish-grey body with a white nape and a very large wingspan.",
+          "indo": "burung berparuh panjang ini memiliki tubuh berwarna abu-abu kehitaman dengan tengkuk berwarna putih dan rentang sayap yang sangat besar."
+        },
+        {
+          "english": "this is a dark grey bird with a white head and a pointy beak.",
+          "indo": "ini adalah burung abu-abu gelap dengan kepala putih dan paruh runcing."
+        },
+        {
+          "english": "bird has black feathers and a medium wide wingspan and a sharp hooked bill",
+          "indo": "Burung ini memiliki bulu berwarna hitam dan rentang sayap sedang serta paruh bengkok yang tajam"
+        },
+        {
+          "english": "this bird has an entirely black body except for a white ring around its neck as well as a white patch on its downward-curved beak.",
+          "indo": "burung ini memiliki tubuh yang seluruhnya berwarna hitam kecuali cincin putih di sekitar lehernya serta bercak putih di paruhnya yang melengkung ke bawah."
+        },
+        {
+          "english": "this is a dark black bird with a white nape and a long pointy beak.",
+          "indo": "ini adalah burung berwarna hitam gelap dengan tengkuk putih dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this flying bird has a medium sized gray bill, light gray nape, black secondaries, black and white primaries and black back.",
+          "indo": "burung terbang ini mempunyai paruh berwarna abu-abu berukuran sedang, tengkuk abu-abu muda, bulu sekunder berwarna hitam, bulu primer hitam putih, dan punggung berwarna hitam."
+        },
+        {
+          "english": "this particular bird has black secondaries and a white throat",
+          "indo": "burung ini memiliki bulu sekunder berwarna hitam dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "a bird with a long beak, dark grey wings and long tail feathers with a white neck.",
+          "indo": "burung dengan paruh panjang, sayap berwarna abu-abu tua, dan bulu ekor panjang dengan leher berwarna putih."
+        },
+        {
+          "english": "this large bird has with grey feathers and a large bill.",
+          "indo": "burung besar ini memiliki bulu berwarna abu-abu dan paruh yang besar."
+        },
+        {
+          "english": "a gray bird with a long wing span flying through the air.",
+          "indo": "seekor burung abu-abu dengan rentang sayap panjang terbang di udara."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0063_61406.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has a white belly with grey wings and a pointy beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap berwarna abu-abu dan paruh yang runcing."
+        },
+        {
+          "english": "this bird is black and white in color, with a skinny long beak.",
+          "indo": "burung ini berwarna hitam putih, dengan paruh kurus panjang."
+        },
+        {
+          "english": "a grey bird with slightly curved bill on tip and a white belly.",
+          "indo": "burung berwarna abu-abu dengan paruh agak melengkung di ujung dan perut berwarna putih."
+        },
+        {
+          "english": "bird with gray beak, white throat, belly and abdomen, and black eye, the size of the head is proportional with the size of the body",
+          "indo": "burung dengan paruh berwarna abu-abu, tenggorokan berwarna putih, perut dan abdomen, serta bermata hitam, ukuran kepala proporsional dengan ukuran badan"
+        },
+        {
+          "english": "this is a bird with a white belly, grey wings and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan paruh runcing."
+        },
+        {
+          "english": "this bird is white and gray and has a pointed beak and large wings.",
+          "indo": "burung ini berwarna putih abu-abu serta memiliki paruh runcing dan sayap besar."
+        },
+        {
+          "english": "this bird has white on its breast and belly, black and grey wings, and a black vent.",
+          "indo": "burung ini memiliki warna putih pada dada dan perutnya, sayap berwarna hitam dan abu-abu, serta lubang kloaka berwarna hitam."
+        },
+        {
+          "english": "a large winged bird with a long tail",
+          "indo": "seekor burung bersayap besar dengan ekor panjang"
+        },
+        {
+          "english": "this is a medium sized grey bird, with a white belly, and a small bill.",
+          "indo": "ini adalah burung abu-abu berukuran sedang, dengan perut putih, dan paruh kecil."
+        },
+        {
+          "english": "this bird has a short pointed bill with a white belly and a head that is much smaller than it's body.",
+          "indo": "burung ini mempunyai paruh yang pendek dan runcing dengan perut berwarna putih dan kepala yang jauh lebih kecil dari badannya."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0066_795780.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has a brown crown as well as a curved bill.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat dan paruh yang melengkung."
+        },
+        {
+          "english": "this bird is mainly brown,with a long beak that is curved at the end.",
+          "indo": "burung ini sebagian besar berwarna coklat, dengan paruh panjang yang melengkung di ujungnya."
+        },
+        {
+          "english": "a gray bird with a large beak that curves downward, the beak is gray with a black tip.",
+          "indo": "burung berwarna abu-abu dengan paruh besar melengkung ke bawah, paruh berwarna abu-abu dengan ujung berwarna hitam."
+        },
+        {
+          "english": "a medium gray bird with some black feathers.",
+          "indo": "burung berwarna abu-abu sedang dengan beberapa bulu hitam."
+        },
+        {
+          "english": "this water bird has a rather thick, long beak with darker plumage towards its backside.",
+          "indo": "burung air ini memiliki paruh yang agak tebal dan panjang dengan bulu berwarna lebih gelap di bagian belakangnya."
+        },
+        {
+          "english": "this bird has a thick bill curved downward, a gray head, throat & belly, and black wings.",
+          "indo": "burung ini memiliki paruh tebal melengkung ke bawah, kepala, tenggorokan & perut berwarna abu-abu, serta sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a silverbill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna perak"
+        },
+        {
+          "english": "medium sized grey and black bird with medium length grey and black beak.",
+          "indo": "burung abu-abu dan hitam berukuran sedang dengan paruh abu-abu dan hitam berukuran sedang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0069_61381.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird is shades of grey with a lighter breast and belly and darker feathers on the head and wings.",
+          "indo": "burung ini berwarna abu-abu dengan dada dan perut lebih terang serta bulu lebih gelap di kepala dan sayap."
+        },
+        {
+          "english": "this bird is grey and black in color with a long rounded beak and black eye ring.",
+          "indo": "burung ini berwarna abu-abu hitam dengan paruh panjang membulat dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a large black bird with a white belly and breast, black crown and cheek patches, and a long black bill.",
+          "indo": "burung hitam besar dengan perut dan dada berwarna putih, mahkota dan pipi berwarna hitam, serta paruh hitam panjang."
+        },
+        {
+          "english": "bird with beak that is slightly curved at the tip, head is small when compared with its body size, and it has white belly",
+          "indo": "burung dengan paruh agak melengkung di bagian ujung, kepala berukuran kecil jika dibandingkan dengan ukuran tubuhnya, dan perut berwarna putih"
+        },
+        {
+          "english": "medium to large white grey and black bird with long black tarsus and medium beak",
+          "indo": "burung putih abu-abu dan hitam berukuran sedang hingga besar dengan tarsus hitam panjang dan paruh sedang"
+        },
+        {
+          "english": "this bird is black with a white belly and seems to blend into the background with his long beak, small head and dark eyes.",
+          "indo": "burung ini berwarna hitam dengan perut berwarna putih dan tampak menyatu dengan latar belakang dengan paruhnya yang panjang, kepala kecil, dan matanya yang gelap."
+        },
+        {
+          "english": "a large sea bird with black legs and feet, black face, bill and wings.",
+          "indo": "seekor burung laut besar dengan tungkai dan kaki hitam, muka, paruh dan sayap hitam."
+        },
+        {
+          "english": "this bird has a black back and a white breast with a white collar around the neck and a black beak with a hook at the tip.",
+          "indo": "burung ini memiliki punggung berwarna hitam dan dada berwarna putih dengan kerah putih di sekitar leher dan paruh berwarna hitam dengan pengait di ujungnya."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large black and gray bird with a long curved beak.",
+          "indo": "seekor burung besar berwarna hitam abu-abu dengan paruh panjang melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0071_795769.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large bird has large thighs and large wings that have white wingbars.",
+          "indo": "seekor burung besar memiliki paha besar dan sayap besar yang memiliki garis sayap berwarna putih."
+        },
+        {
+          "english": "the bird is speckled brown, white and gray with very long primaries.",
+          "indo": "burung ini berbintik-bintik coklat, putih dan abu-abu dengan warna bulu primer yang sangat panjang."
+        },
+        {
+          "english": "this bird has a black beak, greyish feet and tarsus, black eyes, speckled breast, speckled area under wings in black and white, black wings, and it has a large wingspan.",
+          "indo": "burung ini memiliki paruh berwarna hitam, kaki dan tarsus berwarna keabu-abuan, mata berwarna hitam, dada berbintik-bintik, area bawah sayap berbintik-bintik hitam putih, sayap berwarna hitam, dan lebar sayapnya besar."
+        },
+        {
+          "english": "this is a large aquatic bird with huge brown and white wings a large head and bill.",
+          "indo": "ini adalah burung akuatik besar dengan sayap besar berwarna coklat dan putih, kepala dan paruh besar."
+        },
+        {
+          "english": "this bird is black and white in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this seabird has a long bill, black and white spotted wings and rectrices, a spotted belly and breast, and gray tarsi.",
+          "indo": "burung laut ini mempunyai paruh yang panjang, sayap dan rectrices berbintik hitam putih, perut dan dada berbintik, serta tarsi berwarna abu-abu."
+        },
+        {
+          "english": "this bird has patterned black, brown, and white primaries and secondaries.",
+          "indo": "burung ini mempunyai corak bulu primer dan bulu sekunder berwarna hitam, coklat, dan putih."
+        },
+        {
+          "english": "this tan bird is covered with white and dark brown speckles until the tip of the wings which have dark brown stripes.",
+          "indo": "burung berwarna coklat ini ditutupi bintik-bintik berwarna putih dan coklat tua hingga ujung sayapnya memiliki garis-garis coklat tua."
+        },
+        {
+          "english": "this sea bird has black and white speckles all over, and large primaries compared to the rest of its body.",
+          "indo": "burung laut ini memiliki bintik-bintik hitam putih di sekujur tubuhnya, dan warna primernya besar dibandingkan bagian tubuhnya yang lain."
+        },
+        {
+          "english": "this bird has wings that are black and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0072_795743.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird has black wings with a white breast and throat with a long and pointed beak.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dengan dada berwarna putih dan tenggorokan dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a black bill that is curved and long.",
+          "indo": "burung ini memiliki paruh berwarna hitam yang melengkung dan panjang."
+        },
+        {
+          "english": "a medium bird with a white belly and neck and black wings and crown.",
+          "indo": "burung berukuran sedang dengan perut dan leher berwarna putih serta sayap dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a an all white belly and breast section.",
+          "indo": "burung ini mempunyai bagian perut dan dada yang serba putih."
+        },
+        {
+          "english": "bird has a white belly, it is a bigger bird, with black and grey feathers.",
+          "indo": "burung mempunyai perut berwarna putih, burung lebih besar, bulu hitam abu-abu."
+        },
+        {
+          "english": "this bird has a white belly while having black wings and tail and a small yet long bill.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap dan ekor berwarna hitam serta paruh yang kecil namun panjang."
+        },
+        {
+          "english": "a bird with a white body and mostly black wings, as well as black on the front of its head.",
+          "indo": "burung dengan badan berwarna putih dan sayap sebagian besar berwarna hitam, serta bagian depan kepalanya berwarna hitam."
+        },
+        {
+          "english": "this all white bird has a very wide wingspan of gray wings and a long gray bill.",
+          "indo": "burung serba putih ini mempunyai rentang sayap berwarna abu-abu yang sangat lebar dan paruh berwarna abu-abu yang panjang."
+        },
+        {
+          "english": "this bird has black secondary colors on the wings and has a white neck, breast, and belly area.",
+          "indo": "burung ini memiliki warna bulu sekunder hitam pada sayapnya dan memiliki area leher, dada, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0073_795800.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a small bird with a white and black head and nape, grey wings with white wing bars, and grey and black tarsus and feet.",
+          "indo": "burung kecil dengan kepala dan tengkuk berwarna putih dan hitam, sayap abu-abu dengan garis sayap putih, serta tarsus dan kaki berwarna abu-abu dan hitam."
+        },
+        {
+          "english": "a large greyish brown bird with a black crown, webbed feet and a swooped beak.",
+          "indo": "seekor burung besar berwarna coklat keabu-abuan dengan mahkota hitam, kaki berselaput dan paruh menukik."
+        },
+        {
+          "english": "a larger sized bird with that is mostly brown with darker brown head markings and a stout bill",
+          "indo": "burung berukuran lebih besar yang sebagian besar berwarna coklat dengan corak kepala berwarna coklat tua dan paruh yang kokoh"
+        },
+        {
+          "english": "this is a dark grey bird with a black crown, and white on the wingbars.",
+          "indo": "ini adalah burung abu-abu gelap dengan mahkota hitam, dan putih di garis sayap."
+        },
+        {
+          "english": "this large gray bird has a white ring around the nape and large black webbed feet.",
+          "indo": "burung besar berwarna abu-abu ini memiliki cincin putih di sekeliling tengkuknya dan kaki berselaput hitam besar."
+        },
+        {
+          "english": "this bird has wings that are gray and has a black bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan mempunyai paruh berwarna hitam"
+        },
+        {
+          "english": "the bird has a small black bill that is curved and two brown wingbars.",
+          "indo": "burung ini memiliki paruh kecil berwarna hitam yang melengkung dan dua garis sayap berwarna coklat."
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a mostly gray coloring, with white accents on primary feathers and rectrices, as well as a black head and tan throat.",
+          "indo": "burung ini sebagian besar berwarna abu-abu, dengan aksen putih pada bulu utama dan rectrices, serta kepala berwarna hitam dan tenggorokan berwarna cokelat."
+        },
+        {
+          "english": "the bird is large with a pointed bill, and the wings are grey.",
+          "indo": "burungnya besar dengan paruh runcing, dan sayapnya berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0075_61349.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "this bird full span has black wings, a black head, and inner rectrices  with a white belly and breast.",
+          "indo": "burung rentang penuh ini memiliki sayap hitam, kepala hitam, dan inner rectrices dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "a medium sized bird has a white belly and black wings",
+          "indo": "seekor burung berukuran sedang memiliki perut berwarna putih dan sayap hitam"
+        },
+        {
+          "english": "a black and white bird with a black beak and black breast.",
+          "indo": "burung hitam putih dengan paruh hitam dan dada hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long hooked bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh bengkok yang panjang."
+        },
+        {
+          "english": "a black bird with a white under belly flying through the sky",
+          "indo": "seekor burung hitam dengan perut bagian bawah berwarna putih terbang melintasi langit"
+        },
+        {
+          "english": "this bird has black wings with white with black stop belly.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dengan putih dengan perut berhenti berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a white belly and brown breasts with black secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna coklat dengan bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "the bird has two long black wingbars and a long white belly.",
+          "indo": "burung itu memiliki dua sayap hitam panjang dan perut putih panjang."
+        },
+        {
+          "english": "the bird has black primaries, gray secondaries and a white belly.",
+          "indo": "burung itu memiliki warna bulu primer hitam, warna bulu sekunder abu-abu, dan perut putih."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0077_795739.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "a large bird had a dark brown crown, dark bring wings, and a light brown belly.",
+          "indo": "seekor burung besar memiliki mahkota berwarna coklat tua, sayap berwarna gelap, dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird has long black wings, a white breast, and a short hooked beak.",
+          "indo": "burung ini mempunyai sayap hitam panjang, dada berwarna putih, dan paruh bengkok pendek."
+        },
+        {
+          "english": "this large bird has black wingbars with a white belly.",
+          "indo": "burung besar ini memiliki garis sayap berwarna hitam dengan perut berwarna putih."
+        },
+        {
+          "english": "this large bird has a white belly and breast with a large wingspan.",
+          "indo": "burung berukuran besar ini memiliki perut dan dada berwarna putih dengan rentang sayap yang besar."
+        },
+        {
+          "english": "this is a white bird with black wings, a black head and a white belly.",
+          "indo": "ini adalah burung putih dengan sayap hitam, kepala hitam dan perut putih."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird has a short bill and long black wingbars.",
+          "indo": "burung ini memiliki paruh pendek dan sayap hitam panjang."
+        },
+        {
+          "english": "this sea bird long black wing bar white tips white belly white neck",
+          "indo": "burung laut ini sayapnya hitam panjang, ujung putih, perut putih, leher putih"
+        },
+        {
+          "english": "this bird has black wings and a white neck and belly.",
+          "indo": "burung ini mempunyai sayap berwarna hitam serta leher dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a cream belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna krem."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0078_795758.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "while the thigh of this bird is very short, it's tarsus makes the bird appear as it is very tall.",
+          "indo": "Walaupun paha burung ini sangat pendek, tarsusnya membuat burung ini terlihat sangat tinggi."
+        },
+        {
+          "english": "this bird of black and white is very poised with his white breast and white nape.",
+          "indo": "Burung berwarna hitam putih ini sangat anggun dengan dada putih dan tengkuknya yang putih."
+        },
+        {
+          "english": "a large bird with a white belly, black wings and rectrices, a white neck and a black crown.",
+          "indo": "seekor burung besar dengan perut putih, sayap dan rectrices  hitam, leher putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird is black and white in color with a curved beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh melengkung, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a large tail of black feathers coming out of its back and white feathers on its chest and neck going up to its large, round head.",
+          "indo": "burung ini memiliki ekor besar dengan bulu berwarna hitam yang menjulur dari punggungnya dan bulu berwarna putih pada bagian dada dan lehernya hingga ke kepalanya yang besar dan bulat."
+        },
+        {
+          "english": "a black bird with a white breast and a black crown.",
+          "indo": "seekor burung hitam dengan dada putih dan mahkota hitam."
+        },
+        {
+          "english": "this bird has a white belly and a black crown and a white neck",
+          "indo": "burung ini memiliki perut berwarna putih, mahkota berwarna hitam, dan leher berwarna putih"
+        },
+        {
+          "english": "this bird is white and black in color, with a curved beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird has a black crown with a brown beak and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan paruh berwarna coklat dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white neck and underbelly, its tail, back, wings, and crown are all black.",
+          "indo": "burung ini memiliki leher dan perut berwarna putih, ekor, punggung, sayap, dan mahkotanya semuanya berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0079_61370.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "black and white feathered bird with large wing span and long beak that curves downward",
+          "indo": "burung berbulu hitam putih dengan rentang sayap besar dan paruh panjang melengkung ke bawah"
+        },
+        {
+          "english": "medium to large white and brown bird with a medium sized beak and medium eyes",
+          "indo": "burung berukuran sedang hingga besar berwarna putih dan coklat dengan paruh berukuran sedang dan mata sedang"
+        },
+        {
+          "english": "a bird with a white belly a yellow throat and long black wings.",
+          "indo": "seekor burung dengan perut putih, tenggorokan kuning dan sayap hitam panjang."
+        },
+        {
+          "english": "this bird has large black wings and small head compared to the body, the neck is a light tan.",
+          "indo": "burung ini mempunyai sayap hitam besar dan kepala kecil dibandingkan badannya, lehernya berwarna coklat muda."
+        },
+        {
+          "english": "this is a white bird with black wings and a black face.",
+          "indo": "ini adalah burung putih dengan sayap hitam dan wajah hitam."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a black crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna putih"
+        },
+        {
+          "english": "a black and white bird with a white belly and curved black beak",
+          "indo": "burung berwarna hitam putih dengan perut berwarna putih dan paruh hitam melengkung"
+        },
+        {
+          "english": "this bird has long black triangular wings, a white belly, and a black crown.",
+          "indo": "burung ini mempunyai sayap segitiga hitam panjang, perut berwarna putih, dan mahkota berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Pomarine_Jaeger_0080_795751.jpg",
+      "class_id": 71,
+      "captions": [
+        {
+          "english": "the bird has two tarsus that are black and skinny,",
+          "indo": "burung itu mempunyai dua tarsus yang berwarna hitam dan kurus,"
+        },
+        {
+          "english": "this bid has a white belly with grey and white on its sides, and a solid brown crown.",
+          "indo": "tawaran ini memiliki perut putih dengan sisi abu-abu dan putih, dan mahkota coklat solid."
+        },
+        {
+          "english": "this is a white and black bird with white tarsus and a black beak.",
+          "indo": "ini adalah burung berwarna putih dan hitam dengan tarsus putih dan paruh hitam."
+        },
+        {
+          "english": "this bird is mostly grey and black in color with a light colored white belly.",
+          "indo": "burung ini sebagian besar berwarna abu-abu dan hitam dengan perut berwarna putih terang."
+        },
+        {
+          "english": "the bird is gray and white in color and has a bill that is slightly hooked at the end.",
+          "indo": "burung ini berwarna abu-abu putih dan mempunyai paruh yang agak bengkok di bagian ujungnya."
+        },
+        {
+          "english": "this bird is dark gray with a white belly and long legs, its crown is also dark gray.",
+          "indo": "burung ini berwarna abu-abu tua dengan perut berwarna putih dan kaki panjang, mahkotanya juga berwarna abu-abu tua."
+        },
+        {
+          "english": "this is a larger bird with long longs and a grey and white body and tail.",
+          "indo": "ini adalah burung yang lebih besar dengan panjang panjang dan tubuh serta ekor berwarna abu-abu dan putih."
+        },
+        {
+          "english": "this bird has a slightly longer bill, a mainly white belly with some gray patterns, and a blakish grey set of primaries and secondaries.",
+          "indo": "burung ini memiliki paruh yang sedikit lebih panjang, perut sebagian besar berwarna putih dengan beberapa pola abu-abu, dan kumpulan bulu primer dan bulu sekunder berwarna abu-abu kehitaman."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        }
+      ]
+    }
+  ]
+}

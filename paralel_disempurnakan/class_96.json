@@ -1,0 +1,2718 @@
+{
+  "dataset": [
+    {
+      "filename": "Orchard_Oriole_0004_91275.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a black head and long flat beak.",
+          "indo": "burung ini memiliki kepala berwarna hitam dan paruh panjang yang rata."
+        },
+        {
+          "english": "this bird has a short curved bill, a black crown and throat, and gray tarsus and feet.",
+          "indo": "burung ini memiliki paruh pendek melengkung, mahkota dan tenggorokan berwarna hitam, serta tarsus dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "this is a brown bird with black wings and a black head.",
+          "indo": "ini adalah burung coklat dengan sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "a small black bird with brown covering it's body and a small black bill.",
+          "indo": "seekor burung kecil berwarna hitam dengan warna coklat menutupi badannya dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "small brown and black bird with a pointed beak and skinny legs",
+          "indo": "burung kecil berwarna coklat dan hitam dengan paruh runcing dan kaki kurus"
+        },
+        {
+          "english": "this bird has wings that are grey and has a orange belly",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai perut berwarna jingga"
+        },
+        {
+          "english": "a small bird with a big head and pointy beak, with an orange belly and a black head.",
+          "indo": "burung kecil berkepala besar dan paruh runcing, perut berwarna oranye dan kepala berwarna hitam."
+        },
+        {
+          "english": "a small bird with orange colored chest and black head and black and white feathers.",
+          "indo": "seekor burung kecil dengan dada berwarna oranye dan kepala hitam serta bulu hitam putih."
+        },
+        {
+          "english": "a smallish bird with a brown underbelly, black wings, with a small head and sharp beak.",
+          "indo": "burung bertubuh kecil dengan perut berwarna coklat, sayap hitam, kepala kecil dan paruh runcing."
+        },
+        {
+          "english": "a small bird with black back feathers, orange belly, and a small black beak.",
+          "indo": "burung kecil dengan bulu punggung hitam, perut oranye, dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0005_91682.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small bird has a black head, throat, back and undertail, a thin white eye ring, a long, thin curved silvery beak, a rust breast and belly, and black and white wings.",
+          "indo": "burung kecil ini memiliki kepala, tenggorokan, punggung dan ekor berwarna hitam, cincin mata tipis berwarna putih, paruh panjang melengkung tipis berwarna keperakan, dada dan perut berkarat, serta sayap berwarna hitam putih."
+        },
+        {
+          "english": "the bird has a black body with a brown belly and a sharp pointed beak.",
+          "indo": "burung ini berbadan hitam dengan perut berwarna coklat dan paruh runcing runcing."
+        },
+        {
+          "english": "this small bird is black with a brown belly, sides and abdomen.",
+          "indo": "burung kecil ini berwarna hitam dengan perut, samping dan perut berwarna coklat."
+        },
+        {
+          "english": "this small bird has a brown breast and black wings",
+          "indo": "burung kecil ini memiliki dada berwarna coklat dan sayap berwarna hitam"
+        },
+        {
+          "english": "this bird has a top half of black and a lower body half of dark orange, as well as a long, curved beak.",
+          "indo": "burung ini mempunyai separuh bagian atas berwarna hitam dan separuh bagian bawah berwarna oranye tua, serta paruh yang panjang dan melengkung."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a black crown and amber belly and torso.",
+          "indo": "burung itu memiliki mahkota hitam dan perut serta dada berwarna kuning."
+        },
+        {
+          "english": "a small bird with a dark orange breast, black head and back, white tipped black wings, and a pointed beak.",
+          "indo": "burung kecil dengan dada jingga tua, kepala dan punggung hitam, sayap hitam berujung putih, dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0006_91724.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the head of the bird is black and the body is brown.",
+          "indo": "kepala burung berwarna hitam dan badan berwarna coklat."
+        },
+        {
+          "english": "medium sized brown bird with black feathers,head, and tail.",
+          "indo": "burung coklat berukuran sedang dengan bulu, kepala, dan ekor berwarna hitam."
+        },
+        {
+          "english": "the bird has a brown body with black head and tail.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dengan kepala dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a black crown and pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan mahkota berwarna hitam dan paruh runcing."
+        },
+        {
+          "english": "a small dark headed bird, with a dark pointed bill, brownish belly and dark rectrices",
+          "indo": "seekor burung kecil berkepala gelap, dengan paruh runcing berwarna gelap, perut kecoklatan dan rectrices  berwarna gelap"
+        },
+        {
+          "english": "small bird with a pointed sharp beak, black wings and head and a light brown belly",
+          "indo": "burung kecil dengan paruh runcing dan runcing, sayap dan kepala berwarna hitam, serta perut berwarna coklat muda"
+        },
+        {
+          "english": "this bird has a copper toned body with a darker head wings and tail.",
+          "indo": "burung ini memiliki tubuh berwarna tembaga dengan sayap kepala dan ekor yang lebih gelap."
+        },
+        {
+          "english": "this bird has a reddish brown belly and breast, and a black head.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat kemerahan, serta kepala berwarna hitam."
+        },
+        {
+          "english": "this small bird has a brown breast and black wings with white wingbars.",
+          "indo": "burung kecil ini memiliki dada berwarna coklat dan sayap berwarna hitam dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird has a very pointed grey bill and dark solid head feathers, copper and dirty white belly feathers, and black wings with white stripes.",
+          "indo": "burung ini mempunyai paruh berwarna abu-abu sangat runcing dan bulu kepala padat berwarna gelap, bulu perut berwarna tembaga dan putih kotor, serta sayap berwarna hitam bergaris putih."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0009_91902.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a brown breast and belly with a black head.",
+          "indo": "burung ini memiliki dada dan perut berwarna coklat dengan kepala berwarna hitam."
+        },
+        {
+          "english": "the bird has a bright brown throat, breast and abdomen with a black covert and rectrices.",
+          "indo": "burung ini memiliki tenggorokan, dada dan perut berwarna coklat cerah dengan bulu hitam dan rectrices."
+        },
+        {
+          "english": "this beautiful bird has a brown breast, a shiny short bill, and a black eyering.",
+          "indo": "burung cantik ini memiliki dada berwarna coklat, paruh pendek mengkilat, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "red brown bellied and breasted bird with black wings and head and brown wingbar.",
+          "indo": "burung berperut dan dada berwarna merah coklat dengan sayap dan kepala berwarna hitam serta garis sayap berwarna coklat."
+        },
+        {
+          "english": "small brown and black bird with medium to short grey tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat dan hitam dengan tarsus abu-abu sedang hingga pendek dan paruh sedang"
+        },
+        {
+          "english": "this bird contains an amber colored chest, breast and vent, black and grey along its coverts, secondaries inner and outer rectrices, and a black head.",
+          "indo": "Burung ini memiliki dada dan kloaka berwarna kuning keemasan, hitam dan abu-abu di sepanjang bulu penutup, bulu sekunder, inner dan outer rectrices, serta kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head and crown with a pointed beak, deep brown plumage on breast and belly, with a long tail.",
+          "indo": "burung ini memiliki kepala dan mahkota berwarna hitam dengan paruh runcing, bulu berwarna coklat tua di bagian dada dan perut, serta ekor yang panjang."
+        },
+        {
+          "english": "a brown and black bird has a long tail and a pointed long beak.",
+          "indo": "seekor burung berwarna coklat dan hitam memiliki ekor yang panjang dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this black and brown bird has a black head and brown breast its beak is short and pointed.",
+          "indo": "burung berwarna hitam coklat ini memiliki kepala berwarna hitam dan dada berwarna coklat, paruhnya pendek dan runcing."
+        },
+        {
+          "english": "this is a small bird, with a brown belly, black head, and a long tail.",
+          "indo": "ini adalah burung kecil, dengan perut berwarna coklat, kepala hitam, dan ekor panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0011_91592.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a black head and beak and an orange belly.",
+          "indo": "burung ini memiliki kepala dan paruh berwarna hitam serta perut berwarna oranye."
+        },
+        {
+          "english": "the bird has a black eyering and a black bill.",
+          "indo": "burung itu mempunyai cincin mata hitam dan paruh hitam."
+        },
+        {
+          "english": "a small vividly colored black and orange colored bird with a solid black head.",
+          "indo": "seekor burung kecil berwarna hitam dan oranye cerah dengan kepala hitam pekat."
+        },
+        {
+          "english": "medium sizes rust colored bird with black head, long black beak, short wings, and black tail.",
+          "indo": "burung berukuran sedang berwarna karat dengan kepala hitam, paruh hitam panjang, sayap pendek, dan ekor hitam."
+        },
+        {
+          "english": "a bird with orange breast, medium pointed bill, and black head.",
+          "indo": "burung dengan dada jingga, paruh runcing sedang, dan kepala hitam."
+        },
+        {
+          "english": "an orange bird with a black crown and short pointed beak.",
+          "indo": "burung oranye dengan mahkota hitam dan paruh runcing pendek."
+        },
+        {
+          "english": "a bird with orange breast and belly and the black crown and the bill is short and pointed",
+          "indo": "seekor burung dengan dada dan perut berwarna oranye, mahkota berwarna hitam, dan paruhnya pendek dan runcing"
+        },
+        {
+          "english": "the bird has a black crown and an amber belly and breast.",
+          "indo": "burung itu memiliki mahkota hitam dan perut serta dada berwarna kuning."
+        },
+        {
+          "english": "this bird is black and orange in color, with a curved black beak.",
+          "indo": "burung ini berwarna hitam jingga, dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "this small orange bird has a black head and a thick, black, slightly downturned bill.",
+          "indo": "burung kecil berwarna oranye ini memiliki kepala berwarna hitam dan paruh yang tebal, berwarna hitam, dan agak mengarah ke bawah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0013_91945.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small bird has a sharp curved bill, a light brown belly and black rectrices.",
+          "indo": "burung kecil ini memiliki paruh melengkung tajam, perut berwarna coklat muda dan rectrices  berwarna hitam."
+        },
+        {
+          "english": "this bird has a curved black bill, a black throat, and a medium brown breast and belly.",
+          "indo": "burung ini memiliki paruh berwarna hitam melengkung, tenggorokan berwarna hitam, serta dada dan perut berwarna coklat sedang."
+        },
+        {
+          "english": "a small black and reddish brown bird with brown primaries and black and white wingbars.",
+          "indo": "burung kecil berwarna hitam dan coklat kemerahan dengan warna bulu primer coklat dan garis sayap hitam putih."
+        },
+        {
+          "english": "this bird has a brown orange breast complimented by a black head and back.",
+          "indo": "burung ini memiliki dada berwarna coklat jingga dilengkapi dengan kepala dan punggung berwarna hitam."
+        },
+        {
+          "english": "the bird has a black crown and a small black bill.",
+          "indo": "burung itu mempunyai mahkota berwarna hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "small black bird with a reddish brown underbelly and back, thin beak that slightly curves downward.",
+          "indo": "burung kecil berwarna hitam dengan perut dan punggung berwarna coklat kemerahan, paruh tipis agak melengkung ke bawah."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and yellow with black sides",
+          "indo": "burung ini memiliki perut berwarna oranye dan kuning dengan sisi berwarna hitam"
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "black head and eyes, long narrow greyish pointed bill, an orange belly and rump, long tail feathers and greyish feet.",
+          "indo": "kepala dan mata berwarna hitam, paruh panjang dan runcing keabu-abuan, perut dan pantat berwarna oranye, bulu ekor panjang dan kaki keabu-abuan."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a dark orange breast.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan dada berwarna jingga tua."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0015_91565.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "very colorful with greens, yellows and blues across the body, looks to be quite small",
+          "indo": "sangat berwarna dengan warna hijau, kuning dan biru di sekujur tubuhnya, terlihat cukup kecil"
+        },
+        {
+          "english": "this is a yellow bird with dark brown wings and white wingbars and a small brown beak.",
+          "indo": "ini adalah burung kuning dengan sayap coklat tua dan garis sayap putih serta paruh kecil berwarna coklat."
+        },
+        {
+          "english": "a small sized bird that has a yellow belly and dark brown wings",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna kuning dan sayap berwarna coklat tua"
+        },
+        {
+          "english": "a petite yellow bird with dark wings and a pointed black beak, as well as sharp black talons.",
+          "indo": "burung kuning mungil dengan sayap gelap dan paruh hitam runcing, serta cakar hitam tajam."
+        },
+        {
+          "english": "the bird is a colorful yellow belly and head, the feather are black and yellow with a small bill.",
+          "indo": "burung tersebut perut dan kepalanya berwarna kuning, bulunya berwarna hitam kuning dengan paruh kecil."
+        },
+        {
+          "english": "a small yellow bird with brown wings and white wingbars.",
+          "indo": "seekor burung kuning kecil dengan sayap coklat dan garis sayap putih."
+        },
+        {
+          "english": "this is a small yellow bird with brown wings that have white spots along the edges of their feathers.",
+          "indo": "Ini adalah burung kecil berwarna kuning dengan sayap coklat yang memiliki bintik-bintik putih di sepanjang tepi bulunya."
+        },
+        {
+          "english": "this bird is brown and yellow in color, with a sharp brown beak.",
+          "indo": "burung ini berwarna coklat kuning, dengan paruh berwarna coklat runcing."
+        },
+        {
+          "english": "this bird has a yellow belly and head with brown wings along with two yellow wing bars.",
+          "indo": "burung ini memiliki perut dan kepala berwarna kuning dengan sayap berwarna coklat serta dua garis sayap berwarna kuning."
+        },
+        {
+          "english": "this bird has a yellow crown with a yellow belly and brown secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna kuning dengan perut berwarna kuning dan bulu sekunder berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0017_91801.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and a small bill.",
+          "indo": "burung itu mempunyai cincin mata hitam dan paruh kecil."
+        },
+        {
+          "english": "a vibrant yellow bird with a sharp white beak and yellow breast.",
+          "indo": "burung kuning cerah dengan paruh putih tajam dan dada kuning."
+        },
+        {
+          "english": "the little yellow bird has a small grey beak and its' wings are brown and white .",
+          "indo": "burung kuning kecil memiliki paruh kecil berwarna abu-abu dan sayapnya berwarna coklat dan putih."
+        },
+        {
+          "english": "this small bird has a tapering bill, a yellow body, and black wings with white wingbars.",
+          "indo": "burung kecil ini memiliki paruh yang meruncing, badan berwarna kuning, dan sayap berwarna hitam dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "mostly yellow with a sharp white beak and brown wings.",
+          "indo": "sebagian besar berwarna kuning dengan paruh putih tajam dan sayap coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow belly as well as a white bill",
+          "indo": "burung ini memiliki perut berwarna kuning dan paruh berwarna putih"
+        },
+        {
+          "english": "the small bird is bright yellow in color and has a beak that is sharply pointed.",
+          "indo": "burung kecil ini berwarna kuning cerah dan mempunyai paruh yang runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow crown, yellow primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota kuning, bulu primer kuning, dan perut kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0018_91601.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small bird has a black head, wings and tail with a brown back and belly.",
+          "indo": "burung kecil ini memiliki kepala, sayap dan ekor berwarna hitam dengan punggung dan perut berwarna coklat."
+        },
+        {
+          "english": "a small bird with a black head and a silver bill.",
+          "indo": "seekor burung kecil dengan kepala hitam dan paruh perak."
+        },
+        {
+          "english": "the body of this bird is brown while its head, beck, that, wings, tail, eyes and beak are black.",
+          "indo": "badan burung ini berwarna coklat sedangkan kepala, paruh, sayap, ekor, mata dan paruhnya berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head with a short, pointy black beak, an orange breast and an orange back.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan paruh pendek berwarna hitam runcing, dada berwarna jingga, dan punggung berwarna jingga."
+        },
+        {
+          "english": "this colorful bird has brown wing bars, a black tail and a short beak",
+          "indo": "burung berwarna-warni ini memiliki garis sayap berwarna coklat, ekor hitam dan paruh pendek"
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this interesting bird's entire head (cheek, throat, and nape) are black, with a burnt orange belly and rump.",
+          "indo": "Seluruh kepala burung yang menarik ini (pipi, tenggorokan, dan tengkuk) berwarna hitam, dengan perut dan pantat berwarna jingga gosong."
+        },
+        {
+          "english": "this bird is black and brown in color, with a black beak.",
+          "indo": "burung ini berwarna hitam kecokelatan, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a black crown with a touch of brown its wings",
+          "indo": "Burung kecil ini memiliki mahkota berwarna hitam dengan sentuhan warna coklat pada sayapnya"
+        },
+        {
+          "english": "black crown and nape to mid-back; black throat; brown breast and abdomen; brown winglets; short bill, short tarsus",
+          "indo": "mahkota hitam dan tengkuk hingga punggung tengah; tenggorokan hitam; dada dan perut berwarna coklat; sayap kecil berwarna coklat; paruh pendek, tarsus pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0019_91338.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "light brown body with a black head, wings, and tails and white stripes on the wings.",
+          "indo": "tubuh berwarna coklat muda dengan kepala, sayap, dan ekor berwarna hitam serta garis-garis putih pada sayap."
+        },
+        {
+          "english": "the bird has a black crown, nape and throat, and brown body and side.",
+          "indo": "burung ini memiliki mahkota, tengkuk dan tenggorokan berwarna hitam, serta badan dan samping berwarna coklat."
+        },
+        {
+          "english": "this bird is red and black in color with a curve pointy beak and black eye rings.",
+          "indo": "burung ini berwarna merah hitam dengan paruh melengkung runcing dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the black and brown bird has a sleek, dark head and grey on it's beak.",
+          "indo": "burung berwarna hitam coklat ini memiliki kepala ramping berwarna gelap dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has an orange breast, black crown and head, with a curved down bill.",
+          "indo": "burung ini memiliki dada berwarna jingga, mahkota dan kepala berwarna hitam, dengan paruh melengkung ke bawah."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a black crown, striped black secondaries and a curved bill.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh bulu sekunder berwarna hitam bergaris, dan paruh melengkung."
+        },
+        {
+          "english": "small bird with short pointed beak with red tip, black crown, brown belly, black feathers with white primaries and secondaries, black tarsus and feet.",
+          "indo": "burung kecil paruh pendek runcing ujung merah, mahkota hitam, perut coklat, bulu hitam bulu primer dan bulu sekunder putih, tarsus dan kaki hitam."
+        },
+        {
+          "english": "the bird has a curved black bill, amber belly and striped wingbars.",
+          "indo": "burung ini memiliki paruh hitam melengkung, perut kuning, dan sayap bergaris."
+        },
+        {
+          "english": "this bird has small amount of red on beck, black head and eye with black, white and orange running thru body.",
+          "indo": "burung ini memiliki sedikit warna merah pada bagian belakang, kepala dan mata berwarna hitam dengan warna hitam, putih dan oranye di seluruh tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0021_91644.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small bird with a black breast and orange abdomen",
+          "indo": "seekor burung kecil dengan dada hitam dan perut oranye"
+        },
+        {
+          "english": "a small colorful bird with a black head, nape and throat, red covering its back breast and vent, and black and white rectrices",
+          "indo": "seekor burung kecil berwarna-warni dengan kepala, tengkuk, dan tenggorokan berwarna hitam, warna merah menutupi punggung dada dan lubang kloaka, serta rectrices  hitam putih"
+        },
+        {
+          "english": "a medium hooked beak with jet black head, and rust breast, tail feathers are nearly black with white fringes.",
+          "indo": "paruh bengkok sedang dengan kepala hitam legam, dan dada berkarat, bulu ekor hampir hitam dengan pinggiran putih."
+        },
+        {
+          "english": "a small round with a brown body, and a black head.",
+          "indo": "berbentuk bulat kecil dengan tubuh berwarna coklat, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a small, curved bill, and brilliant orange plumage on its belly and abdomen.",
+          "indo": "burung ini memiliki paruh kecil melengkung, serta bulu berwarna oranye cemerlang di bagian perut dan abdomen."
+        },
+        {
+          "english": "this bird has wings that are black and orange and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan oranye serta mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird is orange and black in color, with a light colored beak.",
+          "indo": "burung ini berwarna oranye dan hitam, dengan paruh berwarna terang."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with an orange breast and a black crown.",
+          "indo": "seekor burung dengan dada oranye dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0023_91705.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "black and burnt orange colored feathers, long tail feathers and short beak with slight curve downward.",
+          "indo": "bulu berwarna jingga hitam dan gosong, bulu ekor panjang dan paruh pendek agak melengkung ke bawah."
+        },
+        {
+          "english": "this bird has distinctive orange red coloration at the side while the rectrices feathers and wing coverts are the same shade of rich blue.",
+          "indo": "burung ini memiliki warna khas oranye-merah di bagian samping sedangkan bulu rectrices dan bulu penutup sayap memiliki warna biru tua yang sama."
+        },
+        {
+          "english": "this is a bird with a brown belly and a black back and head.",
+          "indo": "ini adalah burung dengan perut berwarna coklat dan punggung serta kepala berwarna hitam."
+        },
+        {
+          "english": "this small bird has a red belly and black wings with red wingbars.",
+          "indo": "burung kecil ini memiliki perut berwarna merah dan sayap berwarna hitam dengan garis sayap berwarna merah."
+        },
+        {
+          "english": "this little bird has a brown body, black head and wing, and a short little pointy bill.",
+          "indo": "Burung kecil ini berbadan coklat, kepala dan sayap berwarna hitam, serta paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a small but colorful bird with an orange breast and a black head wing and tail.",
+          "indo": "ini adalah burung kecil namun berwarna-warni dengan dada oranye dan sayap kepala serta ekor berwarna hitam."
+        },
+        {
+          "english": "this small bird has black and red covering its body with a short black bill and black feet.",
+          "indo": "burung kecil ini mempunyai warna hitam dan merah menutupi tubuhnya dengan paruh pendek berwarna hitam dan kaki berwarna hitam."
+        },
+        {
+          "english": "this small rust colored bird has black head, nape, wings and tail.",
+          "indo": "burung kecil berwarna karat ini memiliki kepala, tengkuk, sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a red belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0024_91755.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small sized bird with a brown belly and black head",
+          "indo": "seekor burung berukuran kecil dengan perut coklat dan kepala hitam"
+        },
+        {
+          "english": "the bird has a brown belly and abdomen, but with a black crown, nape and throat.",
+          "indo": "burung ini memiliki perut dan perut berwarna coklat, tetapi dengan mahkota, tengkuk dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this black headed bird has a pointed two color beak and a a rust colored body.",
+          "indo": "Burung berkepala hitam ini mempunyai paruh runcing dua warna dan badan berwarna karat."
+        },
+        {
+          "english": "this bird has a black head and eye, the chest, belly and abdomen are a warm chestnut color.",
+          "indo": "burung ini memiliki kepala dan mata berwarna hitam, dada, perut dan perut berwarna kastanye hangat."
+        },
+        {
+          "english": "a small bird with a black upper body and a brown lower body.",
+          "indo": "seekor burung kecil dengan tubuh bagian atas berwarna hitam dan tubuh bagian bawah berwarna coklat."
+        },
+        {
+          "english": "small bird with brown belly and abdomen, crown and throat is black with small beak and black legs.",
+          "indo": "burung kecil dengan perut dan perut berwarna coklat, mahkota dan tenggorokan berwarna hitam dengan paruh kecil dan kaki berwarna hitam."
+        },
+        {
+          "english": "this colorful bird has a black crown with a orange breast and black tail.",
+          "indo": "burung berwarna-warni ini memiliki mahkota berwarna hitam dengan dada berwarna oranye dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "this bird is bright orange almost everywhere, aside from his black head, bill, tail and feet.",
+          "indo": "Burung ini hampir seluruh bagiannya berwarna oranye terang, kecuali kepala, paruh, ekor, dan kakinya berwarna hitam."
+        },
+        {
+          "english": "this bird is small in size, has a red belly, black head, and a pointed bill.",
+          "indo": "burung ini berukuran kecil, perutnya berwarna merah, kepalanya berwarna hitam, dan paruhnya runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0026_91444.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a black body with brown feathers and a pointy black beak",
+          "indo": "burung ini memiliki tubuh berwarna hitam dengan bulu berwarna coklat dan paruh berwarna hitam runcing"
+        },
+        {
+          "english": "a medium sized bird with a orange belly, and a long bill, and a black crown",
+          "indo": "burung berukuran sedang dengan perut berwarna jingga, paruh panjang, dan mahkota berwarna hitam"
+        },
+        {
+          "english": "a colorful bird with a black head, throat, and nape, red coverts, breast and belly, and brown wings with white wingbars.",
+          "indo": "burung berwarna-warni dengan kepala, tenggorokan, dan tengkuk berwarna hitam, bulu merah, dada dan perut, serta sayap coklat dengan garis sayap putih."
+        },
+        {
+          "english": "this little bird has a black head and nape covering with some burnt orange covering over its entire body.",
+          "indo": "Burung kecil ini memiliki kepala dan tengkuk berwarna hitam dengan sedikit warna oranye gosong yang menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "the marvelous bird features a plumage of black and orange with a narrow, sharp beak.",
+          "indo": "burung yang luar biasa ini memiliki bulu berwarna hitam dan oranye dengan paruh yang sempit dan tajam."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and red",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan merah"
+        },
+        {
+          "english": "this particular bird has a belly that is red and brown and has brown wings",
+          "indo": "burung ini memiliki perut yang berwarna merah dan coklat serta memiliki sayap berwarna coklat"
+        },
+        {
+          "english": "this bird has a black crown as well as a pointy black bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam serta paruh berwarna hitam runcing"
+        },
+        {
+          "english": "this bird is brown, black and white with a long tail, a small black head, a short pointy beak, and a striped wing.",
+          "indo": "burung ini berwarna coklat, hitam dan putih dengan ekor panjang, kepala kecil berwarna hitam, paruh pendek runcing, dan sayap bergaris."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0027_91265.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a petite bird as small as a lemon and with brown and red feathers.",
+          "indo": "seekor burung mungil seukuran lemon dan dengan bulu berwarna coklat dan merah."
+        },
+        {
+          "english": "the tiny bird has a black crown, nape, throat and breast color, and brown for the rest of its body.",
+          "indo": "Burung mungil ini memiliki warna mahkota, tengkuk, tenggorokan dan dada berwarna hitam, serta seluruh tubuhnya berwarna coklat."
+        },
+        {
+          "english": "this bird has a black head, neck and back, with a rufous brown body, the wings are and tail are black with grey bars.",
+          "indo": "burung ini mempunyai kepala, leher dan punggung berwarna hitam, badan berwarna coklat kemerahan, sayap dan ekor berwarna hitam bergaris abu-abu."
+        },
+        {
+          "english": "the small black bird has a brown breast, belly, and thighs, along whit a sharp, short black bill.",
+          "indo": "burung hitam kecil ini memiliki dada, perut, dan paha berwarna coklat, serta paruh hitam pendek dan runcing."
+        },
+        {
+          "english": "this small, black bird features red under its belly, and it has a sharp black beak.",
+          "indo": "burung kecil berwarna hitam ini memiliki ciri-ciri merah di bawah perutnya, dan paruhnya berwarna hitam tajam."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is red and orange",
+          "indo": "burung ini memiliki perut yang berwarna merah dan oranye"
+        },
+        {
+          "english": "this bird has a dark grey bill with black nape and brown belly.",
+          "indo": "burung ini memiliki paruh berwarna abu-abu tua dengan tengkuk berwarna hitam dan perut berwarna coklat."
+        },
+        {
+          "english": "this small bird has a brown breast, grey wingbars and a pointed beak.",
+          "indo": "burung kecil ini memiliki dada berwarna coklat, garis sayap berwarna abu-abu dan paruh yang runcing."
+        },
+        {
+          "english": "a small bird with a black head, long gray feet, a long tail, and a short pointy beak.",
+          "indo": "burung kecil berkepala hitam, kaki panjang berwarna abu-abu, ekor panjang, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0030_91612.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has long, slightly curved bill, black breast, red belly and black coverts",
+          "indo": "Burung ini mempunyai paruh yang panjang dan agak melengkung, dada berwarna hitam, perut berwarna merah, dan bulu berwarna hitam"
+        },
+        {
+          "english": "this is a brown bird with a black throat and a blue bill",
+          "indo": "ini adalah burung berwarna coklat dengan tenggorokan hitam dan paruh biru"
+        },
+        {
+          "english": "this bird has a chestnut brown body with brown coverts and black wing bars.",
+          "indo": "burung ini memiliki tubuh berwarna coklat kastanye dengan bulu berwarna coklat dan garis sayap berwarna hitam."
+        },
+        {
+          "english": "small, short bird with a brown bottom half & a black head.",
+          "indo": "burung kecil pendek dengan bagian bawah berwarna coklat & kepala hitam."
+        },
+        {
+          "english": "this bird is brown with black on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan kepala berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a brown belly and black breast the bill is short and pointed",
+          "indo": "seekor burung kecil dengan perut coklat dan dada hitam, paruhnya pendek dan runcing"
+        },
+        {
+          "english": "a small bird with a black head throat and coverts, black and red-orange secondaries, and a reddish brown breast.",
+          "indo": "burung kecil dengan kepala, tenggorokan, dan bulu berwarna hitam, bulu sekunder berwarna hitam dan merah-oranye, serta dada berwarna coklat kemerahan."
+        },
+        {
+          "english": "a multicolored bird that has a brown breast area",
+          "indo": "burung beraneka warna yang memiliki area dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a black head, small wings, a short tail, a brown body, gray feet, and a long downward curved beak.",
+          "indo": "burung ini mempunyai kepala berwarna hitam, sayap kecil, ekor pendek, badan berwarna coklat, kaki berwarna abu-abu, dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0032_91201.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a brown belly and breast, and a black neck and crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat, serta leher dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this is a black bird with a orange chest and black rectrices.",
+          "indo": "ini adalah burung hitam dengan dada oranye dan rectrices hitam."
+        },
+        {
+          "english": "a small black and red bird with a round belly, small pointy bill, with a small head relative to its body size.",
+          "indo": "seekor burung kecil berwarna hitam dan merah dengan perut bulat, paruh kecil runcing, dengan kepala kecil dibandingkan dengan ukuran tubuhnya."
+        },
+        {
+          "english": "a small bird with a black head and breast, with a red-brown side and belly.",
+          "indo": "seekor burung kecil dengan kepala dan dada berwarna hitam, dengan sisi dan perut berwarna merah kecokelatan."
+        },
+        {
+          "english": "this bird is black with red on its stomach and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan warna merah pada perutnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the the bird has a black back, amber sides, and a small black bill.",
+          "indo": "Burung itu mempunyai punggung hitam, sisi kuning, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has a red belly with a primarily black back and head.",
+          "indo": "burung ini memiliki perut berwarna merah dengan punggung dan kepala sebagian besar berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0033_91532.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a yellow body with brown wings and a brown throat.",
+          "indo": "burung ini memiliki tubuh berwarna kuning dengan sayap berwarna coklat dan tenggorokan berwarna coklat."
+        },
+        {
+          "english": "bird has brown head brown throat and yellow belly and brown and white secondaries and brown rectrices.",
+          "indo": "Burung mempunyai kepala berwarna coklat, tenggorokan berwarna coklat dan perut berwarna kuning, serta bulu sekunder berwarna coklat dan putih serta rektum berwarna coklat."
+        },
+        {
+          "english": "this bird is yellow with a brown wing and a long, black beak.",
+          "indo": "burung ini berwarna kuning dengan sayap berwarna coklat dan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "a small yellow bird with black on its neck and highlights of brown on its wings.",
+          "indo": "seekor burung kecil berwarna kuning dengan warna hitam di lehernya dan sentuhan warna coklat di sayapnya."
+        },
+        {
+          "english": "this bird is yellow with brown wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dengan sayap berwarna coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a medium sized yellow bellied bird with brown wings and a black throat.",
+          "indo": "burung perut kuning berukuran sedang dengan sayap coklat dan tenggorokan hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        },
+        {
+          "english": "this bird has a gold crown with a black throat and gold belly.",
+          "indo": "burung ini mempunyai mahkota emas dengan tenggorokan hitam dan perut emas."
+        },
+        {
+          "english": "this bird has wings that are brown and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0034_91825.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a bird with bright yellow plumage, short black bill and white foot and tarsus.",
+          "indo": "burung dengan bulu kuning cerah, paruh hitam pendek, kaki serta tarsus berwarna putih."
+        },
+        {
+          "english": "a colorful bird with a yellow head and nape, and black wings with white wingbars.",
+          "indo": "burung berwarna-warni dengan kepala dan tengkuk berwarna kuning, serta sayap hitam dengan garis sayap putih."
+        },
+        {
+          "english": "this bird is yellow and has black on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning dan mempunyai sayap berwarna hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a yellow belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna kuning dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small yellow bird with white wingbar grey primaries and a black throat.",
+          "indo": "burung kuning kecil dengan sayap putih, warna bulu primer abu-abu dan tenggorokan hitam."
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has golden yellow on its breast, belly and head with a short, pointed bill and darker wings with light wingbars.",
+          "indo": "burung kecil ini memiliki warna kuning keemasan pada dada, perut dan kepalanya dengan paruh pendek runcing dan sayap lebih gelap dengan garis sayap terang."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "this bird has a yellow crown, grey primaries, and a yellow belly.",
+          "indo": "burung ini memiliki mahkota kuning, bulu primer abu-abu, dan perut kuning."
+        },
+        {
+          "english": "this bird has a yellow crown and breast with a black bill and throat.",
+          "indo": "burung ini memiliki mahkota dan dada berwarna kuning dengan paruh dan tenggorokan berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0035_92003.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small sized bird that has a rich brown belly and black tipped chest and head",
+          "indo": "seekor burung berukuran kecil yang memiliki perut berwarna coklat dan dada serta kepala berujung hitam"
+        },
+        {
+          "english": "this bird has a small head, a rounded breast, and a black wing",
+          "indo": "burung ini memiliki kepala kecil, dada membulat, dan sayap berwarna hitam"
+        },
+        {
+          "english": "the small bird has black primaries with white wing bars and brown belly and breast.",
+          "indo": "burung kecil memiliki warna bulu primer hitam dengan garis sayap putih serta perut dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird is red with a black back and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan punggung berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black and orange on its underbelly with a stout, short beak and black eyes.",
+          "indo": "burung ini berwarna hitam jingga pada bagian perutnya dengan paruh kekar, pendek, dan mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a orange body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna oranye"
+        },
+        {
+          "english": "a small bird with a black head and back, orange belly and wingbars, and hint of white in its wing.",
+          "indo": "seekor burung kecil dengan kepala dan punggung berwarna hitam, perut dan sayap berwarna oranye, dan sedikit warna putih pada sayapnya."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and red mixed together",
+          "indo": "burung ini memiliki perut berwarna oranye dan merah bercampur"
+        },
+        {
+          "english": "this bird has an orange belly and black throat, head and back with black and white wings.",
+          "indo": "burung ini memiliki perut berwarna oranye dan tenggorokan berwarna hitam, kepala dan punggung dengan sayap berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and an orange belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0036_91818.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a bird with a short, pointed bill, black crown and nape, and an all rred belly and breast",
+          "indo": "burung dengan paruh pendek runcing, mahkota dan tengkuk berwarna hitam, serta perut dan dada berwarna merah"
+        },
+        {
+          "english": "this small bird has orange flanks,a white bill and black secondaries.",
+          "indo": "burung kecil ini memiliki sayap berwarna oranye, paruh berwarna putih, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a brown belly and a black back and head.",
+          "indo": "ini adalah burung dengan perut berwarna coklat dan punggung serta kepala berwarna hitam."
+        },
+        {
+          "english": "this is a small bird with a brown breast and sides and black on the crown and nape.",
+          "indo": "ini adalah burung kecil dengan dada dan samping berwarna coklat serta hitam di bagian ubun-ubun dan tengkuk."
+        },
+        {
+          "english": "this bird has a black head, back, neck, and tail, a rust-colored breast, sides, and belly, and black wings with some white.",
+          "indo": "burung ini memiliki kepala, punggung, leher, dan ekor berwarna hitam, dada, samping, dan perut berwarna karat, serta sayap berwarna hitam dengan sedikit warna putih."
+        },
+        {
+          "english": "this small bird has a black head and a brown belly, black wings with white wingbars and gray tarsus and feet.",
+          "indo": "burung kecil ini mempunyai kepala berwarna hitam dan perut berwarna coklat, sayap berwarna hitam dengan garis sayap berwarna putih serta tarsus dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a small sharp bill, a black crown, an orange belly and breast, white white wingbars, black wings and rectrices, and blue feet and tarsi.",
+          "indo": "burung ini mempunyai paruh kecil yang runcing, mahkota berwarna hitam, perut dan dada berwarna jingga, garis sayap berwarna putih putih, sayap dan rectrices berwarna hitam, serta kaki dan tarsi berwarna biru."
+        },
+        {
+          "english": "this bird has black head and flanks and brown body, short pointed beak with black and white mixed color.",
+          "indo": "burung ini mempunyai kepala dan panggul berwarna hitam serta badan berwarna coklat, paruh pendek runcing dengan warna campuran hitam putih."
+        },
+        {
+          "english": "this is a beautiful bird with a dark brown underside, and shiny black head and back.",
+          "indo": "ini adalah burung cantik dengan bagian bawah berwarna coklat tua, serta kepala dan punggung berwarna hitam mengkilat."
+        },
+        {
+          "english": "a small bird, with a red chest, black back and wings, and a pointed bill.",
+          "indo": "seekor burung kecil, dengan dada merah, punggung dan sayap hitam, serta paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0039_91267.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a beautiful orange breast, black tail, black head, with brown and black wings.",
+          "indo": "burung ini memiliki dada berwarna jingga yang indah, ekor berwarna hitam, kepala berwarna hitam, dengan sayap berwarna coklat dan hitam."
+        },
+        {
+          "english": "a small bird that has a black crown, and is covered in red all over its breast, belly and back.",
+          "indo": "seekor burung kecil yang mempunyai mahkota berwarna hitam, dan seluruh dada, perut, dan punggungnya ditutupi warna merah."
+        },
+        {
+          "english": "bold colored bird with red and black feathers, red belly black head, red brown wings with white tips.",
+          "indo": "burung berwarna berani dengan bulu merah dan hitam, perut merah, kepala hitam, sayap merah coklat dengan ujung putih."
+        },
+        {
+          "english": "a shiny bronze colored ird with a black head and tail feathers.",
+          "indo": "ird berwarna perunggu mengkilat dengan kepala dan bulu ekor berwarna hitam."
+        },
+        {
+          "english": "a small orange breasted bird with black feathered tail and medium size black beak",
+          "indo": "burung kecil berdada jingga dengan ekor berbulu hitam dan paruh hitam ukuran sedang"
+        },
+        {
+          "english": "the color of the bird have red and black and the body is large when compared to the head, the wings is black in color.",
+          "indo": "Warna burungnya ada yang merah dan hitam serta badannya besar jika dibandingkan dengan kepalanya, sayapnya berwarna hitam."
+        },
+        {
+          "english": "a bird with a black bill, red breast and red belly.",
+          "indo": "seekor burung dengan paruh hitam, dada merah, dan perut merah."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "this bird is orange and black in color, with a stubby beak.",
+          "indo": "burung ini berwarna oranye dan hitam, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this bird has a black crown with red throat and brown coverts.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tenggorokan berwarna merah dan bulu berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0041_91258.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the large black bird has red back and small bill.",
+          "indo": "burung hitam besar memiliki punggung berwarna merah dan paruh kecil."
+        },
+        {
+          "english": "this small black bird has an unusual red patch down the center of its back.",
+          "indo": "burung hitam kecil ini mempunyai bercak merah yang tidak biasa di tengah punggungnya."
+        },
+        {
+          "english": "this bird has a curved shiny bill, a black crown, and a black eyering.",
+          "indo": "burung ini memiliki paruh melengkung mengkilat, mahkota berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is black with red on its wing and has a very short beak.",
+          "indo": "burung ini berwarna hitam dengan warna merah pada sayapnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "the back, wings, and head are black, the rump is read, and the beak is short compared to the body.",
+          "indo": "punggung, sayap, dan kepala berwarna hitam, pantatnya terbaca, dan paruhnya pendek dibandingkan badan."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this black bird has a brown rump and a point beak.",
+          "indo": "burung hitam ini memiliki pantat berwarna coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird has a black crown as well as a small black bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam serta paruh kecil berwarna hitam"
+        },
+        {
+          "english": "black bird with streaks of white on the feather, and a maroon back.",
+          "indo": "burung berwarna hitam dengan guratan putih pada bulunya, dan punggung berwarna merah marun."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0042_91678.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a reddish brown belly and abdomen, with black crest, wings, and tail.",
+          "indo": "burung ini memiliki perut dan perut berwarna coklat kemerahan, dengan jambul, sayap, dan ekor berwarna hitam."
+        },
+        {
+          "english": "this is a small orange bird with a black head.",
+          "indo": "ini adalah burung kecil berwarna oranye dengan kepala hitam."
+        },
+        {
+          "english": "the small bird has a brown overall body color except from its black head, nape and covert.",
+          "indo": "Burung kecil ini memiliki warna tubuh keseluruhan berwarna coklat kecuali kepala, tengkuk dan bulunya yang hitam."
+        },
+        {
+          "english": "a small, round-bodied bird with a black throat, head, and back, and with a brown body and sides.",
+          "indo": "burung kecil berbadan bulat dengan tenggorokan, kepala, dan punggung berwarna hitam, serta tubuh dan samping berwarna coklat."
+        },
+        {
+          "english": "this is a small bird with a black head, a small black pointed bill, black wings with white wingbars, and a maroon to brown belly.",
+          "indo": "ini adalah burung kecil dengan kepala hitam, paruh kecil runcing hitam, sayap hitam dengan garis sayap putih, dan perut merah marun sampai coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a brown belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna coklat"
+        },
+        {
+          "english": "the bird has a brown belly, black back and small black bill.",
+          "indo": "burung ini memiliki perut berwarna coklat, punggung berwarna hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has an orange belly and rump with a black head an upper back.",
+          "indo": "burung ini memiliki perut dan pantat berwarna oranye dengan kepala dan punggung atas berwarna hitam."
+        },
+        {
+          "english": "this small bird has a black bill, a black crown and wings, with a brown breast and belly.",
+          "indo": "burung kecil ini memiliki paruh berwarna hitam, mahkota dan sayap berwarna hitam, serta dada dan perut berwarna coklat."
+        },
+        {
+          "english": "this dark bird is brown on the belly and undertail with black throat, crown and back, the wingbars are mostly black with a bit of white.",
+          "indo": "burung berwarna gelap ini berwarna coklat pada bagian perut dan ekor dengan tenggorokan, ubun-ubun dan punggung berwarna hitam, garis sayap sebagian besar berwarna hitam dengan sedikit putih."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0044_91360.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a maroon breasted puffy bird with a maroon back, black and coverts with a white wingbar.",
+          "indo": "burung menggembung dada merah marun dengan punggung merah marun, hitam dan ditutupi dengan garis sayap putih."
+        },
+        {
+          "english": "the bird with brown crown and throat, the bill is short and pointed and head is small compare to its body",
+          "indo": "burung dengan mahkota dan tenggorokan berwarna coklat, paruhnya pendek dan runcing serta kepalanya kecil dibandingkan dengan tubuhnya"
+        },
+        {
+          "english": "this is a orange and black bird with a blue bill and small black feet",
+          "indo": "ini adalah burung berwarna oranye dan hitam dengan paruh biru dan kaki kecil berwarna hitam"
+        },
+        {
+          "english": "the mostly black bird has a rusty hued breast and the color goes to its back.",
+          "indo": "burung yang sebagian besar berwarna hitam memiliki warna dada yang berkarat dan warnanya berpindah ke punggungnya."
+        },
+        {
+          "english": "this bird is black and red in color with a blue curved beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam merah dengan paruh melengkung berwarna biru, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a black head and crown, a long curved bill, and red breast, belly, and back.",
+          "indo": "burung kecil ini memiliki kepala dan mahkota berwarna hitam, paruh panjang melengkung, serta dada, perut, dan punggung berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "this is a small black bird with a pointy black bill and an orange belly.",
+          "indo": "ini adalah burung hitam kecil dengan paruh hitam runcing dan perut oranye."
+        },
+        {
+          "english": "a brown bird with a small black head, a long tail, long narrow legs, a long pointy beak, and striped wings.",
+          "indo": "burung berwarna coklat dengan kepala kecil berwarna hitam, ekor panjang, kaki panjang sempit, paruh panjang runcing, dan sayap bergaris."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0045_91205.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has a small black bill and a yellow breast.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan dada berwarna kuning."
+        },
+        {
+          "english": "a small bird with yellow head, belly and breast and black wings",
+          "indo": "seekor burung kecil dengan kepala kuning, perut dan dada serta sayap hitam"
+        },
+        {
+          "english": "the bird has a yellow breast and belly and a small bill.",
+          "indo": "burung itu memiliki dada dan perut berwarna kuning serta paruh kecil."
+        },
+        {
+          "english": "a yellow bird with black coverts and white wingbars as well as a stocky bill.",
+          "indo": "seekor burung kuning dengan bulu hitam dan garis sayap putih serta paruh kekar."
+        },
+        {
+          "english": "this is a very small, yellow bird with dark wings, a white wingbar and long rectrices.",
+          "indo": "ini adalah burung kuning yang sangat kecil dengan sayap gelap, garis sayap putih dan rectrices ."
+        },
+        {
+          "english": "this bird is a vibrant yellow with with black and white wings.",
+          "indo": "burung ini berwarna kuning cerah dengan sayap hitam putih."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a light brown beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this bird is yellow and black in color, with a black beak.",
+          "indo": "burung ini berwarna kuning kehitaman, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is yellow in color, with a black beak.",
+          "indo": "burung ini berwarna kuning, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a grey bill and a bright yellow throat and breast.",
+          "indo": "burung kecil ini memiliki paruh berwarna abu-abu serta tenggorokan dan dada berwarna kuning cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0046_91646.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has black head, black eye, and a long flat beak",
+          "indo": "burung ini mempunyai kepala berwarna hitam, mata berwarna hitam, dan paruh yang panjang dan rata"
+        },
+        {
+          "english": "this tine bird has a black head, brown body and black, brown and yellow wings and tail.",
+          "indo": "burung tine ini memiliki kepala berwarna hitam, badan berwarna coklat serta sayap dan ekor berwarna hitam, coklat dan kuning."
+        },
+        {
+          "english": "this bird has a black head and an orange breast.",
+          "indo": "burung ini memiliki kepala berwarna hitam dan dada berwarna oranye."
+        },
+        {
+          "english": "this is a small slender black and brown bird with very shiny feathers and a black head and bill, a brown side with red undertones, and black wings.",
+          "indo": "ini adalah burung kecil berwarna hitam dan coklat ramping dengan bulu sangat berkilau dan kepala serta paruh hitam, sisi coklat dengan warna dasar merah, dan sayap hitam."
+        },
+        {
+          "english": "this small bird has a black head complete with an orange body and black wings.",
+          "indo": "Burung kecil ini mempunyai kepala berwarna hitam lengkap dengan badan berwarna jingga dan sayap berwarna hitam."
+        },
+        {
+          "english": "a sleek black and red bird with longer tail feathers and a pointed beak.",
+          "indo": "burung ramping berwarna hitam dan merah dengan bulu ekor lebih panjang dan paruh runcing."
+        },
+        {
+          "english": "this bird has a copper colored body with a black head and black and white wings.",
+          "indo": "burung ini memiliki tubuh berwarna tembaga dengan kepala berwarna hitam dan sayap berwarna hitam putih."
+        },
+        {
+          "english": "this is a thin bird with reddish brown and black colors",
+          "indo": "ini adalah burung kurus dengan warna coklat kemerahan dan hitam"
+        },
+        {
+          "english": "this bird has a silvery black crown and a red colored breast",
+          "indo": "burung ini mempunyai mahkota berwarna hitam keperakan dan dada berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0048_91393.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has a small bill that is black and tiny.",
+          "indo": "burung itu mempunyai paruh kecil yang berwarna hitam dan mungil."
+        },
+        {
+          "english": "rust colored boy, black head, black wings with tan feather tips, and sharp triangular beak.",
+          "indo": "anak laki-laki berwarna karat, kepala hitam, sayap hitam dengan ujung bulu berwarna coklat, dan paruh berbentuk segitiga runcing."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a black crown and short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan mahkota berwarna hitam dan paruh pendek dan runcing."
+        },
+        {
+          "english": "the small brown and orange bird features a decently-sized curving down black beak.",
+          "indo": "burung kecil berwarna coklat dan oranye ini memiliki paruh hitam melengkung ke bawah berukuran sedang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and lack and has a rotund body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan kurang serta mempunyai badan yang bulat"
+        },
+        {
+          "english": "this bird has wings that are glack and has a red belly",
+          "indo": "burung ini mempunyai sayap yang mengkilap dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "small bird with orange breast and small brown head.",
+          "indo": "burung kecil dengan dada oranye dan kepala kecil berwarna coklat."
+        },
+        {
+          "english": "this bird has a black crown as well as a black bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0051_91787.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has black crown, nape and throat with red breast and belly",
+          "indo": "burung ini memiliki mahkota, tengkuk dan tenggorokan berwarna hitam dengan dada dan perut berwarna merah"
+        },
+        {
+          "english": "this beautiful bird has a black body and head, with brightly colored dark orange wings, the inner and outer rectrices are also black.",
+          "indo": "burung cantik ini mempunyai badan dan kepala berwarna hitam, sayapnya berwarna oranye tua cerah,inner dan outer rectrices juga berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head and nape with the rest of it's body being a burnt orange.",
+          "indo": "Burung ini memiliki kepala dan tengkuk berwarna hitam dengan sisa tubuhnya berwarna jingga gosong."
+        },
+        {
+          "english": "a small bird with a brown body, and a black head.",
+          "indo": "seekor burung kecil dengan tubuh berwarna coklat, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown and a red belly.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan perut berwarna merah."
+        },
+        {
+          "english": "this colorful bird has a brown belly and breast and black color crown and back the the bill is too short",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna coklat serta mahkota dan punggung berwarna hitam, paruhnya terlalu pendek"
+        },
+        {
+          "english": "a small bird, with red wings, black covering the rest of his body.",
+          "indo": "seekor burung kecil, bersayap merah, hitam menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a black and orange breasted bird.",
+          "indo": "burung berdada hitam dan oranye."
+        },
+        {
+          "english": "the bird has a black crown, red breast and belly and black bill.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, dada dan perut berwarna merah, serta paruh berwarna hitam."
+        },
+        {
+          "english": "a bird with and orange breast and a black crown.",
+          "indo": "seekor burung dengan dada oranye dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0054_91414.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the small bird has a black head and a red body.",
+          "indo": "burung kecil itu berkepala hitam dan badannya merah."
+        },
+        {
+          "english": "this bird has a black head, throat and nape, a red and black breast, solid red vent, and black rectrices",
+          "indo": "burung ini memiliki kepala, tenggorokan dan tengkuk berwarna hitam, dada berwarna merah dan hitam, lubang kloaka berwarna merah pekat, dan rectrices  berwarna hitam"
+        },
+        {
+          "english": "a small bird with a black nape, black tail feathers, and dark red wing feathers,",
+          "indo": "burung kecil dengan tengkuk hitam, bulu ekor hitam, dan bulu sayap merah tua,"
+        },
+        {
+          "english": "this bird has a black crown, a pointed bill, and a light brown breast and belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam, paruh runcing, serta dada dan perut berwarna coklat muda"
+        },
+        {
+          "english": "this bird has a long, sturdy, pointy beak and an orange belly that contrasts with its stark black head and throat.",
+          "indo": "burung ini memiliki paruh yang panjang, kokoh, runcing, serta perut berwarna oranye yang kontras dengan kepala dan tenggorokannya yang berwarna hitam pekat."
+        },
+        {
+          "english": "it is a black bird, tiny with a brown belly.",
+          "indo": "itu adalah burung hitam, kecil dengan perut coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has a black head, bill, and tail and a reddish breast and belly.",
+          "indo": "burung ini memiliki kepala, paruh, dan ekor berwarna hitam serta dada dan perut berwarna kemerahan."
+        },
+        {
+          "english": "this bird is red and black in color, with a curved beak.",
+          "indo": "burung ini berwarna merah kehitaman, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird has a black crown, red primaries, and a red belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna merah, dan perut berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0055_91515.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a medium size bird with brown head and wingbar, and a white breast.",
+          "indo": "burung berukuran sedang dengan kepala dan garis sayap berwarna coklat, serta dada berwarna putih."
+        },
+        {
+          "english": "this large bird is brown with white underneath and a pointed beak.",
+          "indo": "burung besar ini berwarna coklat dengan bagian bawah berwarna putih dan paruhnya runcing."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feather, and thick beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh tebal"
+        },
+        {
+          "english": "a black winged bird with white belly and small head.",
+          "indo": "seekor burung bersayap hitam dengan perut putih dan kepala kecil."
+        },
+        {
+          "english": "sharp beak and claws are offset by lush, dark brown and cream feathers creating stripes, darker across its back and lighter on its belly and flanks.",
+          "indo": "paruh dan cakarnya yang tajam diimbangi dengan bulu yang subur, berwarna coklat tua dan krem ​​​​yang menciptakan garis-garis, lebih gelap di punggungnya dan lebih terang di perut dan panggulnya."
+        },
+        {
+          "english": "this is a brown bird with a sharp head and rounded beak.",
+          "indo": "ini adalah burung berwarna coklat dengan kepala runcing dan paruh membulat."
+        },
+        {
+          "english": "a large bird with a gray curved beak on face.",
+          "indo": "seekor burung besar dengan paruh melengkung berwarna abu-abu di wajahnya."
+        },
+        {
+          "english": "this large bird has brown and white coloring throughout its entire body.",
+          "indo": "burung berukuran besar ini memiliki warna coklat dan putih di sekujur tubuhnya."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is black with white and has a very short beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0058_91819.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small bird with a black bill and head, golden reddish brown body, wings are mainly black with spots of golden reddish brown on the wings, back and a black long tail feathers.",
+          "indo": "burung kecil dengan paruh dan kepala berwarna hitam, badan berwarna coklat kemerahan keemasan, sayap sebagian besar berwarna hitam dengan bintik-bintik coklat kemerahan keemasan pada sayap, punggung dan bulu ekor panjang berwarna hitam."
+        },
+        {
+          "english": "this little bird has a black head, and burnt oranges patches on it's breast, malar, and back.",
+          "indo": "burung kecil ini berkepala hitam, dan bercak jeruk gosong di dada, malar, dan punggungnya."
+        },
+        {
+          "english": "small orange and black bird with long brown tarsus and medium black beak",
+          "indo": "burung kecil berwarna oranye dan hitam dengan tarsus coklat panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "this black bird has brownish-red patches on it's wings and upper tail coverts.",
+          "indo": "burung berwarna hitam ini memiliki bercak merah kecoklatan pada sayap dan bulu ekor bagian atas."
+        },
+        {
+          "english": "this small bird has a black head and wings with red wingbars and a red belly.",
+          "indo": "burung kecil ini memiliki kepala dan sayap berwarna hitam dengan garis sayap berwarna merah dan perut berwarna merah."
+        },
+        {
+          "english": "this bird has feathers that are black and has a red belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "a black and red body bird with a regularly sized head in comparison to the body.",
+          "indo": "burung berbadan hitam dan merah dengan ukuran kepala yang teratur dibandingkan dengan badannya."
+        },
+        {
+          "english": "this bird is mostly small with patches of brown on the body.",
+          "indo": "burung ini sebagian besar berukuran kecil dengan bercak coklat pada tubuhnya."
+        },
+        {
+          "english": "this bird is primarily black with some brownish orange markings on its wings.",
+          "indo": "burung ini sebagian besar berwarna hitam dengan beberapa tanda oranye kecoklatan di sayapnya."
+        },
+        {
+          "english": "this bird has a black colored head with a mix of orange and black covering the rest of its body.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan perpaduan warna orange dan hitam menutupi seluruh tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0059_92046.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has black feet that are curved and a black bill.",
+          "indo": "burung tersebut memiliki kaki berwarna hitam yang melengkung dan paruh berwarna hitam."
+        },
+        {
+          "english": "the head of the bird is black and has a red belly with a black beak.",
+          "indo": "kepala burung berwarna hitam dan perut berwarna merah dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this is a blackbird with an orange underbelly and orange coverts with a long pointed bill.",
+          "indo": "ini adalah burung hitam dengan perut berwarna jingga dan bulu jingga dengan paruh runcing panjang."
+        },
+        {
+          "english": "this small bird is black and has an orange breast",
+          "indo": "burung kecil ini berwarna hitam dan memiliki dada berwarna oranye"
+        },
+        {
+          "english": "black small bird with a sharp beach and long tail feathers.",
+          "indo": "burung kecil berwarna hitam dengan pantai runcing dan bulu ekor panjang."
+        },
+        {
+          "english": "the is colorful bird has a medium flat beak with short legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh rata sedang dengan kaki pendek"
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black crown as well as a orange belly",
+          "indo": "burung ini memiliki mahkota berwarna hitam dan perut berwarna oranye"
+        },
+        {
+          "english": "this bird has a dark orange belly and wingbars, and the rest of its body is black. the beak is slightly curved downwards to a sharp point.",
+          "indo": "burung ini memiliki perut dan sayap berwarna oranye tua, dan seluruh tubuhnya berwarna hitam. paruhnya agak melengkung ke bawah hingga runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0060_91536.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the head of the bird is black and the belly of the bird is orange.",
+          "indo": "kepala burung berwarna hitam dan perut burung berwarna oranye."
+        },
+        {
+          "english": "this is a bird with a brown breast, black back and head.",
+          "indo": "ini adalah burung dengan dada berwarna coklat, punggung dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a short black bill, and an orange breast.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, paruh pendek berwarna hitam, dan dada berwarna jingga."
+        },
+        {
+          "english": "this bird is black and orange in color with a large black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam jingga dengan paruh besar berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a bird that has a large bill, a black head, back, and an orange belly.",
+          "indo": "burung yang mempunyai paruh besar, kepala berwarna hitam, punggung, dan perut berwarna jingga."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "a bird with black back and crown, red belly and breast and the bill is short and pointed",
+          "indo": "burung dengan punggung dan mahkota berwarna hitam, perut dan dada berwarna merah, serta paruh pendek dan runcing"
+        },
+        {
+          "english": "this bird is small and slender and has orange underside and a black head, back, and wings.",
+          "indo": "burung ini berukuran kecil dan ramping serta memiliki bagian bawah berwarna oranye dan kepala, punggung, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, black primaries, and a red belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna hitam, dan perut berwarna merah."
+        },
+        {
+          "english": "an orange chested bird with a black throat, head, wings, and beak which is pointed.",
+          "indo": "burung berdada jingga dengan tenggorokan, kepala, sayap, dan paruh runcing berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0061_91941.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "long, black inner and outer rectrices stand out, along with black secondaries, back and crown complimenting a bright orange belly.",
+          "indo": "rectrices inner dan outer rectrices yang panjang dan berwarna hitam menonjol, bersama dengan bagian bulu sekunder berwarna hitam, punggung dan mahkota melengkapi perut oranye terang."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a black crown and back.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan mahkota dan punggung berwarna hitam."
+        },
+        {
+          "english": "a bird that has a brown body and its head, wings and tail are black.",
+          "indo": "burung yang mempunyai badan berwarna coklat dan kepala, sayap dan ekornya berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a brown breast, and a sharp black bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam, dada berwarna coklat, dan paruh berwarna hitam runcing"
+        },
+        {
+          "english": "this bird has a brown body, a black head, black wings, and a long black tail.",
+          "indo": "burung ini memiliki tubuh berwarna coklat, kepala berwarna hitam, sayap berwarna hitam, dan ekor berwarna hitam panjang."
+        },
+        {
+          "english": "this bird has feathers that are black with a brown body",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dengan badan berwarna coklat"
+        },
+        {
+          "english": "the bird is mainly black with some red/brown on its chest and back part of its body, it has slender legs and a medium beak.",
+          "indo": "Burung ini sebagian besar berwarna hitam dengan sedikit warna merah/coklat di bagian dada dan punggung tubuhnya, memiliki kaki yang ramping dan paruh yang sedang."
+        },
+        {
+          "english": "this bird has black head, bill, and feet, but brown breast, side and rump feathers.",
+          "indo": "burung ini memiliki kepala, paruh, dan kaki berwarna hitam, tetapi bulu dada, samping, dan pantat berwarna coklat."
+        },
+        {
+          "english": "the bird has a black crown with an orange and black body pattern",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dengan corak badan berwarna jingga dan hitam"
+        },
+        {
+          "english": "this bird has a pointed black bill, with a black and brown breast.",
+          "indo": "burung ini mempunyai paruh yang runcing berwarna hitam, dengan dada berwarna hitam dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0065_91397.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird is large in size is black/brown and gold seems to have long wings and a medium size beak and little eyes",
+          "indo": "burung ini berukuran besar berwarna hitam/cokelat emas nampaknya mempunyai sayap yang panjang dan paruh berukuran sedang serta mata yang kecil"
+        },
+        {
+          "english": "this bird has a black throat, crown and secondaries and orange breast and primaries.",
+          "indo": "burung ini memiliki tenggorokan, mahkota dan bulu sekunder berwarna hitam, serta dada dan bulu primer berwarna oranye."
+        },
+        {
+          "english": "this is a bird with a brown belly and a black head and back.",
+          "indo": "ini adalah burung dengan perut berwarna coklat dan kepala serta punggung berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown, a brown belly, and a black wing",
+          "indo": "burung ini memiliki mahkota berwarna hitam, perut berwarna coklat, dan sayap berwarna hitam"
+        },
+        {
+          "english": "this is a brown bird with a black wing and a black head and beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap hitam dan kepala serta paruh hitam."
+        },
+        {
+          "english": "this brown bird has a black head, back, throat and breast and a black pointed beak.",
+          "indo": "burung berwarna coklat ini memiliki kepala, punggung, tenggorokan dan dada berwarna hitam serta paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "this bird is black with redand has a very short beak.",
+          "indo": "burung ini berwarna hitam kemerahan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna oranye"
+        },
+        {
+          "english": "this bird has a black head and throat, a rusty rose breast and belly, with a white wingbar on a black secondary.",
+          "indo": "burung ini memiliki kepala dan tenggorokan berwarna hitam, dada dan perut berwarna mawar berkarat, dengan garis sayap berwarna putih di bagian bulu sekunder berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0070_91383.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a black color outer rectrices, brown color belly and chest and black color bill",
+          "indo": "Burung ini mempunyai outer rectrices berwarna hitam, perut dan dada berwarna coklat, serta paruh berwarna hitam"
+        },
+        {
+          "english": "bird has dark orange breast feathers, black body feathers, and a shiny black beak",
+          "indo": "Burung ini memiliki bulu dada berwarna jingga tua, bulu badan berwarna hitam, dan paruh berwarna hitam mengkilat"
+        },
+        {
+          "english": "this is a brown bird with black wings and head and a pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap dan kepala hitam serta paruh runcing."
+        },
+        {
+          "english": "a small bird with a black head, a reddish-brown belly, and long, skinny legs.",
+          "indo": "seekor burung kecil dengan kepala hitam, perut coklat kemerahan, dan kaki panjang kurus."
+        },
+        {
+          "english": "this bird is brown and black in color with a black and white beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh berwarna hitam putih, serta cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and orange and has skinny bluelegs",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan oranye serta berkaki biru yang kurus"
+        },
+        {
+          "english": "this bird is black and orange in color, with a light colored beak.",
+          "indo": "burung ini berwarna hitam jingga, dengan paruh berwarna terang."
+        },
+        {
+          "english": "a bird with an orange breast and dark black crown.",
+          "indo": "seekor burung dengan dada oranye dan mahkota hitam gelap."
+        },
+        {
+          "english": "this bird has an orange breast and belly, with a pointed black bill.",
+          "indo": "burung ini memiliki dada dan perut berwarna oranye, dengan paruh runcing berwarna hitam."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0074_91979.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this rust-colored bird has a brown tail, dark brown primaries outlined with white and a short, pointy dark bill.",
+          "indo": "burung berwarna karat ini memiliki ekor berwarna coklat, bagian bulu primer berwarna coklat tua dengan garis putih dan paruh pendek berwarna gelap yang runcing."
+        },
+        {
+          "english": "a strikingly colored bird of brown, black and white with an orange head and a sharp beak.",
+          "indo": "burung berwarna mencolok berwarna coklat, hitam dan putih dengan kepala oranye dan paruh runcing."
+        },
+        {
+          "english": "this bird has a brown crown and nape, with white wingbars.",
+          "indo": "burung ini memiliki mahkota dan tengkuk berwarna coklat, dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this red and brown bird has a pointy beak with black secondaries and a black throat.",
+          "indo": "burung berwarna merah coklat ini mempunyai paruh yang runcing dengan paruh kedua berwarna hitam dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this striking russet-red bird has a thin, pointed black beak.",
+          "indo": "burung berwarna merah kemerahan yang mencolok ini memiliki paruh hitam yang tipis dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a orange crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna oranye"
+        },
+        {
+          "english": "a small red bird, with black primaries and throat, with a sharp bill.",
+          "indo": "burung kecil berwarna merah, dengan warna bulu primer dan tenggorokan berwarna hitam, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is orange and black in color, with a black beak.",
+          "indo": "burung ini berwarna oranye dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is orange with black and white wings it has black eyes and beak",
+          "indo": "burung ini berwarna oranye dengan sayap hitam putih, mata dan paruhnya berwarna hitam"
+        },
+        {
+          "english": "this bird is orange and black in color, and has a black beak.",
+          "indo": "burung ini berwarna oranye dan hitam, serta memiliki paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0075_91847.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small, black bird has red on its wings, and has a short, white beak that turns down.",
+          "indo": "burung kecil berwarna hitam ini memiliki sayap berwarna merah, dan paruh pendek berwarna putih yang mengarah ke bawah."
+        },
+        {
+          "english": "a small bird with a black head, nape and back, along with a reddish brown covert, breast, belly and vent.",
+          "indo": "seekor burung kecil dengan kepala, tengkuk dan punggung berwarna hitam, serta bulu, dada, perut, dan lubang kloaka berwarna coklat kemerahan."
+        },
+        {
+          "english": "this is a bird with a brown belly and a black head.",
+          "indo": "ini adalah burung dengan perut coklat dan kepala hitam."
+        },
+        {
+          "english": "this is a black bird with a orange belly and a white bill",
+          "indo": "ini adalah burung hitam dengan perut oranye dan paruh putih"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black with an orange stripe",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan garis oranye"
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "this medium-sized bird has a sharp bill, dark green crown, and brown belly.",
+          "indo": "Burung berukuran sedang ini memiliki paruh runcing, mahkota berwarna hijau tua, dan perut berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and black",
+          "indo": "burung ini memiliki perut berwarna oranye dan hitam"
+        },
+        {
+          "english": "a small bird with black wings, orange belly, and a small black beak.",
+          "indo": "seekor burung kecil bersayap hitam, perut oranye, dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0076_91527.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small billed bird has a rich brown belly and flank, with the rest of its body black and a white outline on its primary and secondary wing feathers, which are also black.",
+          "indo": "burung berparuh kecil ini memiliki perut dan panggul berwarna coklat, dengan sisa tubuhnya berwarna hitam dan garis putih pada bulu sayap bulu primer dan sekundernya, yang juga berwarna hitam."
+        },
+        {
+          "english": "this bird is blue and brown, and has a straight beak.",
+          "indo": "burung ini berwarna biru kecokelatan, serta mempunyai paruh yang lurus."
+        },
+        {
+          "english": "the birds neck and nape is black, and its belly and thigh is orange.",
+          "indo": "leher dan tengkuk burung berwarna hitam, dan perut serta pahanya berwarna oranye."
+        },
+        {
+          "english": "this bird has a short black bill, a black throat, and brown thighs.",
+          "indo": "burung ini memiliki paruh pendek berwarna hitam, tenggorokan berwarna hitam, dan paha berwarna coklat."
+        },
+        {
+          "english": "this is a small bird with an orange body, black head and breast, and black and white wings.",
+          "indo": "ini adalah burung kecil dengan tubuh oranye, kepala dan dada hitam, serta sayap hitam putih."
+        },
+        {
+          "english": "the bird has a orange belly with black striped wings, black tail and black head.",
+          "indo": "burung ini memiliki perut berwarna jingga dengan sayap bergaris hitam, ekor hitam, dan kepala hitam."
+        },
+        {
+          "english": "a small bird with a narrow beak, red belly and breast and black top feathers.",
+          "indo": "burung kecil dengan paruh sempit, perut dan dada berwarna merah, serta bulu bagian atas berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "a half-black and half-orange bird that is small and has a small head in comparison to the body.",
+          "indo": "burung setengah hitam dan setengah oranye yang berukuran kecil dan memiliki kepala kecil dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0077_91651.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a brown throat, breast, and belly, while the rest of the bird is black.",
+          "indo": "burung ini memiliki tenggorokan, dada, dan perut berwarna coklat, sedangkan bagian burung lainnya berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a black neck and crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan leher dan mahkota berwarna hitam."
+        },
+        {
+          "english": "the head and neck of the bird is black white the body of the bird is brown.",
+          "indo": "kepala dan leher burung berwarna hitam putih, badan burung berwarna coklat."
+        },
+        {
+          "english": "a small bird with long tail feathers, a reddish brown belly and breast, a black head, and a short, pointy, beak.",
+          "indo": "burung kecil dengan bulu ekor panjang, perut dan dada berwarna coklat kemerahan, kepala berwarna hitam, dan paruh pendek runcing."
+        },
+        {
+          "english": "this bird is brown and black in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this small bird has a sharp, short bill, and deep rust colored plumage from its throat to its abdomen.",
+          "indo": "burung kecil ini memiliki paruh yang tajam, pendek, dan bulu berwarna karat tua dari tenggorokan hingga perutnya."
+        },
+        {
+          "english": "a small bird with a black head, eyes, pointed beak, medium tail, and feet, and a reddish-brown chest and belly.",
+          "indo": "burung kecil dengan kepala, mata, paruh runcing berwarna hitam, ekor dan kaki sedang, serta dada dan perut berwarna coklat kemerahan."
+        },
+        {
+          "english": "this is a small bird with a black head, gray on its tail and a rust colored breast, with a small, sharp beak.",
+          "indo": "Ini adalah burung kecil dengan kepala hitam, ekor abu-abu dan dada berwarna karat, dengan paruh kecil dan tajam."
+        },
+        {
+          "english": "bird with a reddish-brown belly and breast, a black head, and small slightly curved beak.",
+          "indo": "burung dengan perut dan dada berwarna coklat kemerahan, kepala berwarna hitam, dan paruh kecil agak melengkung."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0080_91417.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has an orange breast and orange throat.",
+          "indo": "burung itu memiliki dada berwarna oranye dan tenggorokan berwarna oranye."
+        },
+        {
+          "english": "this bird is red and black and has a very short beak.",
+          "indo": "burung ini berwarna merah dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this brown bird has a black head, beak, neck, back, wings and tail.",
+          "indo": "burung berwarna coklat ini memiliki kepala, paruh, leher, punggung, sayap dan ekor berwarna hitam."
+        },
+        {
+          "english": "this bird has a brownish red belly and a darker head and back.",
+          "indo": "burung ini memiliki perut berwarna merah kecoklatan serta kepala dan punggung berwarna lebih gelap."
+        },
+        {
+          "english": "bird with black beak, eye, nape and throat, gray tarsus and feet, brown breast and thigh",
+          "indo": "burung dengan paruh, mata, tengkuk dan tenggorokan berwarna hitam, tarsus dan kaki berwarna abu-abu, dada dan paha berwarna coklat"
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is dark brown with gold wingbars and an orange belly.",
+          "indo": "burung ini berwarna coklat tua dengan garis sayap emas dan perut berwarna oranye."
+        },
+        {
+          "english": "a small colorful bird, with a red belly, black wings and head, with a pointed bill.",
+          "indo": "burung kecil berwarna-warni, dengan perut merah, sayap dan kepala hitam, dengan paruh runcing."
+        },
+        {
+          "english": "this bird has a pointed black bill, with a dark orange breast.",
+          "indo": "Burung ini mempunyai paruh yang runcing berwarna hitam, dengan dada berwarna jingga tua."
+        },
+        {
+          "english": "this little bird has a belly and breast of rust while its head and feathers are black with a small amount of tan.",
+          "indo": "Burung kecil ini memiliki perut dan dada yang berkarat sedangkan kepala dan bulunya berwarna hitam dengan sedikit warna kecoklatan."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0082_91654.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this orange and black, with orange breast and a small head compared to the rest of the body.",
+          "indo": "ini oranye dan hitam, dengan dada oranye dan kepala kecil dibandingkan bagian tubuh lainnya."
+        },
+        {
+          "english": "this is a brown bird with a black wing and a black head.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "this bird has a black head and throat, but its breast and wingbar are golden brown and its primaries are black and white.",
+          "indo": "Burung ini memiliki kepala dan tenggorokan berwarna hitam, namun bagian dada dan garis sayapnya berwarna coklat keemasan dan warna primernya berwarna hitam putih."
+        },
+        {
+          "english": "little brown bird has black head, throat, wings and rectrices and the wings have white wing bars.",
+          "indo": "burung kecil berwarna coklat memiliki kepala, tenggorokan, sayap dan rectrices berwarna hitam dan sayapnya memiliki garis sayap putih."
+        },
+        {
+          "english": "this bird has an orange belly and breast with a black tail, head, wings, and beak.",
+          "indo": "burung ini memiliki perut dan dada berwarna oranye dengan ekor, kepala, sayap, dan paruh berwarna hitam."
+        },
+        {
+          "english": "a small bird with a black head and tail but orange body, has a small head and hooked beak.",
+          "indo": "burung kecil dengan kepala dan ekor berwarna hitam tetapi berbadan jingga, memiliki kepala kecil dan paruh bengkok."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "a bird with a black eye, head, bill, and throat, a red-orange flank and belly and black wings with a white wingbar.",
+          "indo": "burung bermata, kepala, paruh, dan tenggorokan berwarna hitam, panggul dan perut berwarna merah jingga, serta sayap hitam dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0084_91658.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "the bird has yellow throat, breast, and belly, blackish yellow crown and nape, and has black feet and beak.",
+          "indo": "burung ini memiliki tenggorokan, dada, dan perut berwarna kuning, mahkota dan tengkuk berwarna kuning kehitaman, serta kaki dan paruh berwarna hitam."
+        },
+        {
+          "english": "this little bird is mostly yellow with white wingbars, and a short pointy bill.",
+          "indo": "Burung kecil ini sebagian besar berwarna kuning dengan garis sayap berwarna putih, dan paruh pendek dan runcing."
+        },
+        {
+          "english": "the bird has a very round yellow body with a short black bill and several brown and black streaks on it's coverts.",
+          "indo": "Burung ini memiliki tubuh kuning yang sangat bulat dengan paruh pendek berwarna hitam dan beberapa guratan coklat dan hitam pada bulunya."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a fat, yellow bird with black on the crown, nape, and wingbars.",
+          "indo": "ini adalah burung gemuk berwarna kuning dengan warna hitam di bagian ubun-ubun, tengkuk, dan sayap."
+        },
+        {
+          "english": "this bird has wings that are grey with yellow belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan perut berwarna kuning"
+        },
+        {
+          "english": "this round yellow bird has a black pointed beak and gray wings.",
+          "indo": "burung bulat berwarna kuning ini memiliki paruh runcing berwarna hitam dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "a small yet round bird that has a dark green for the feathers.",
+          "indo": "burung kecil namun bulat yang memiliki warna hijau tua pada bulunya."
+        },
+        {
+          "english": "this particular bird has a belly that is yellow and white",
+          "indo": "burung ini memiliki perut yang berwarna kuning dan putih"
+        },
+        {
+          "english": "vthis bird has wings that are grey and has a yellow body",
+          "indo": "vburung ini mempunyai sayap berwarna abu-abu dan badannya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0085_91411.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this little red-breasted beauty has a pit black head but her back and wings are had to see from this view.",
+          "indo": "kecantikan kecil berdada merah ini memiliki kepala hitam pekat tetapi punggung dan sayapnya harus terlihat dari pemandangan ini."
+        },
+        {
+          "english": "a small bird with a downward shaped grey beak and a reddish orange breast and belly.",
+          "indo": "burung kecil dengan paruh abu-abu berbentuk ke bawah serta dada dan perut berwarna jingga kemerahan."
+        },
+        {
+          "english": "this is a brown bird with black wings and a black head.",
+          "indo": "ini adalah burung coklat dengan sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "the bird has a black crown, covert and rectrices with the rest of its body covered in brown color.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu penutup dan rectrices dengan seluruh tubuhnya tertutup warna coklat."
+        },
+        {
+          "english": "this medium orange and black bird has a large body, small head, and short black beak.",
+          "indo": "Burung berukuran sedang berwarna oranye dan hitam ini memiliki tubuh besar, kepala kecil, dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a small beak and brown and black feathers.",
+          "indo": "burung ini memiliki paruh kecil dan bulu berwarna coklat dan hitam."
+        },
+        {
+          "english": "this small bird has an orange belly and a black throat.",
+          "indo": "burung kecil ini memiliki perut berwarna oranye dan tenggorokan berwarna hitam."
+        },
+        {
+          "english": "this bird has a red-orange breast and is black elsewhere, with a medium-length tail and pointed bill.",
+          "indo": "burung ini memiliki dada berwarna merah jingga dan di bagian lain berwarna hitam, dengan ekor berukuran sedang dan paruh runcing."
+        },
+        {
+          "english": "a medium sized bird with a orange belly, and a long bill",
+          "indo": "burung berukuran sedang dengan perut berwarna oranye, dan paruh panjang"
+        },
+        {
+          "english": "this bird has a black bill and a black crown with a rust-red colored breast and belly.",
+          "indo": "burung ini mempunyai paruh berwarna hitam dan mahkota berwarna hitam dengan dada dan perut berwarna merah karat."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0088_92086.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "orchard oriole - slim songbird, medium length tails, rounded heads and a straight sharp pointed bill. black head anf throat, reddish chestnut",
+          "indo": "orchard oriole - burung penyanyi ramping, ekor sedang, kepala bulat dan paruh lurus dan runcing. kepala hitam dan tenggorokan, kastanye kemerahan"
+        },
+        {
+          "english": "this bird is black and brown in color with a short curved beak and black eye ring.",
+          "indo": "burung ini berwarna hitam coklat dengan paruh pendek melengkung dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with a black head and throat, an orange breast, belly, vent, and back, and dark grey and beige coverts and secondaries with solid grey rectrices",
+          "indo": "seekor burung kecil dengan kepala dan tenggorokan berwarna hitam, dada, perut, lubang kloaka, dan punggung berwarna oranye, serta bulu dan bulu sekunder berwarna abu-abu tua dan krem ​​​​dengan rectrices  berwarna abu-abu solid"
+        },
+        {
+          "english": "this is a orange and black bird with a black crown, and a white eyering",
+          "indo": "ini adalah burung berwarna oranye dan hitam dengan mahkota hitam, dan cincin mata berwarna putih"
+        },
+        {
+          "english": "this bird has a brown belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a brown breast with a deep black head, with black rectrices.",
+          "indo": "burung ini memiliki dada berwarna coklat dengan kepala berwarna hitam pekat, dengan rectrices  berwarna hitam."
+        },
+        {
+          "english": "this bird is black and orange in color, with a black and blue beak.",
+          "indo": "burung ini berwarna hitam dan oranye, dengan paruh berwarna hitam dan biru."
+        },
+        {
+          "english": "this bird has a black head with a small black bill with an orange belly, black tail, predominantly black wings with an outline of yellow.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan paruh kecil berwarna hitam dengan perut berwarna jingga, ekor berwarna hitam, sayap dominan berwarna hitam dengan bulu tepi berwarna kuning."
+        },
+        {
+          "english": "this small brownish-red breasted bird has a dark head, wings, and tail.",
+          "indo": "burung kecil berdada merah kecoklatan ini memiliki kepala, sayap, dan ekor berwarna gelap."
+        },
+        {
+          "english": "a small bird with an orange breast and a black crown.",
+          "indo": "seekor burung kecil dengan dada oranye dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0091_91774.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small bird with an orange belly and abdomen, and black wings a black nape.",
+          "indo": "seekor burung kecil dengan perut dan perut berwarna oranye, dan bersayap hitam dengan tengkuk hitam."
+        },
+        {
+          "english": "small bird with brown belly and abdomen, the crown and tail is black color with small beak.",
+          "indo": "burung kecil dengan perut dan perut berwarna coklat, mahkota dan ekor berwarna hitam dengan paruh kecil."
+        },
+        {
+          "english": "this is a brown bird with a black wing and a black head.",
+          "indo": "ini adalah burung berwarna coklat dengan sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "a small bird with orange breast and black feathers and a small pointed beak.",
+          "indo": "seekor burung kecil dengan dada oranye dan bulu hitam serta paruh kecil runcing."
+        },
+        {
+          "english": "this bird has a brown belly and a black wing and head.",
+          "indo": "burung ini memiliki perut berwarna coklat serta sayap dan kepala berwarna hitam."
+        },
+        {
+          "english": "a small bird that has an amber colored belly and chest, a black head, nape and back, and white wing bars.",
+          "indo": "burung kecil yang memiliki perut dan dada berwarna kuning, kepala, tengkuk dan punggung berwarna hitam, serta garis sayap berwarna putih."
+        },
+        {
+          "english": "the bird belly is bronze with a short black bill",
+          "indo": "perut burung berwarna perunggu dengan paruh pendek berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "a small bird with an orange breast and a black crown.",
+          "indo": "seekor burung kecil dengan dada oranye dan mahkota hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0092_92128.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a red breast and black wings with a pointy beak.",
+          "indo": "burung ini mempunyai dada berwarna merah dan sayap berwarna hitam dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird is black all .over except for its chest which is carmel colored.",
+          "indo": "burung ini seluruhnya berwarna hitam kecuali dadanya yang berwarna merah tua."
+        },
+        {
+          "english": "this two-tone bird has a bright orange breast, while the rest of its body is dark black with a grey eyering.",
+          "indo": "Burung dua warna ini memiliki dada berwarna jingga cerah, sedangkan seluruh tubuhnya berwarna hitam pekat dengan mata berwarna abu-abu."
+        },
+        {
+          "english": "bird with black crown, nape and eye, pinkish brown tarsus and feet, and brown breast, belly and abdomen",
+          "indo": "burung dengan mahkota, tengkuk dan mata berwarna hitam, tarsus dan kaki berwarna coklat kemerahan, serta dada, perut dan perut berwarna coklat"
+        },
+        {
+          "english": "this bird has a brown belly and breast with a black crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan mahkota dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with red and black and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna merah dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and gray",
+          "indo": "burung ini memiliki perut berwarna oranye dan abu-abu"
+        },
+        {
+          "english": "this is a bird with a reddish brown belly and breast, and brown wings and head.",
+          "indo": "ini adalah burung dengan perut dan dada berwarna coklat kemerahan, serta sayap dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange belly",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki perut berwarna oranye"
+        },
+        {
+          "english": "orange breasted and black bodied bird with a short bill",
+          "indo": "burung berdada oranye dan bertubuh hitam dengan paruh pendek"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0093_92020.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small brown bellied bird with a grey head and grey wings with a white wingbar.",
+          "indo": "seekor burung kecil berperut coklat dengan kepala abu-abu dan sayap abu-abu dengan garis sayap putih."
+        },
+        {
+          "english": "a bird with black head and back and brown underneath, wings are black and white striped.",
+          "indo": "burung dengan kepala dan punggung berwarna hitam dan bagian bawahnya berwarna coklat, sayapnya bergaris hitam putih."
+        },
+        {
+          "english": "this bird has a long curved beak with long legs, the breast of the bird is a rusty brown color.",
+          "indo": "burung ini mempunyai paruh yang panjang melengkung dengan kaki yang panjang, bagian dada burung ini berwarna coklat karatan."
+        },
+        {
+          "english": "a small bird with a black crown, sharp small bill, black throat, and brown belly.",
+          "indo": "burung kecil dengan mahkota hitam, paruh kecil runcing, tenggorokan hitam, dan perut coklat."
+        },
+        {
+          "english": "a small brown bird with dark brown for its head.",
+          "indo": "seekor burung kecil berwarna coklat dengan kepala berwarna coklat tua."
+        },
+        {
+          "english": "a small bird with a small beak, brown with a black head, a very long tail that is black.",
+          "indo": "burung kecil dengan paruh kecil, berwarna coklat dengan kepala berwarna hitam, ekor sangat panjang berwarna hitam."
+        },
+        {
+          "english": "black head, throat and back, brown breast to undertail coverts with white wingbars and black and white primaries.",
+          "indo": "kepala, tenggorokan dan punggung berwarna hitam, dada berwarna coklat hingga bulu bagian bawah dengan garis sayap putih dan warna bulu primer hitam putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a red belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berwarna merah"
+        },
+        {
+          "english": "a small brown bird with black wings, head and eyes.",
+          "indo": "seekor burung kecil berwarna coklat dengan sayap, kepala dan mata hitam."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0095_91345.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this brown chested and bellied small bird has a shortly pointed white bill with a black head and neck.",
+          "indo": "Burung kecil berdada dan berperut coklat ini mempunyai paruh pendek runcing berwarna putih dengan kepala dan leher berwarna hitam."
+        },
+        {
+          "english": "this is a brown bird with a black head and a white pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan kepala hitam dan paruh runcing berwarna putih."
+        },
+        {
+          "english": "a small bird with a black head and a orange breast.",
+          "indo": "seekor burung kecil dengan kepala hitam dan dada oranye."
+        },
+        {
+          "english": "this is a deep red bird with a black crown, nape, and throat with white on the wingbars.",
+          "indo": "ini adalah burung berwarna merah tua dengan mahkota hitam, tengkuk, dan tenggorokan dengan warna putih di garis sayap."
+        },
+        {
+          "english": "this bird is orange with black and has a large bill",
+          "indo": "burung ini berwarna oranye dengan warna hitam dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black bill with black breast and dark orange belly",
+          "indo": "burung ini mempunyai paruh berwarna hitam dengan dada berwarna hitam dan perut berwarna jingga tua"
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a black crown with black throat and orange breast.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tenggorokan berwarna hitam dan dada berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0098_91401.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this small bird has a black head, brown body and long, black tail with short, black legs.",
+          "indo": "burung kecil ini memiliki kepala berwarna hitam, badan berwarna coklat dan ekor panjang berwarna hitam dengan kaki pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown abdomen, breast and side with a black crown, rectrices and covert.",
+          "indo": "burung ini mempunyai perut, dada dan samping berwarna coklat dengan mahkota berwarna hitam, rectrices dan bulu penutup."
+        },
+        {
+          "english": "the bird is black with an orange belly",
+          "indo": "burung itu berwarna hitam dengan perut oranye"
+        },
+        {
+          "english": "this bird is red with black on its head and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan kepala berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is brown and black in color with a white beak, and black eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh berwarna putih, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has a red chest, black head and wings, with a pointy bill.",
+          "indo": "burung ini mempunyai dada berwarna merah, kepala dan sayap berwarna hitam, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird has a black crown, brown primaries, and a red belly.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna coklat, dan perut berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0101_91233.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a white, pointed bill and a black face with it's crown and back being tan with some black specked in to it; it's wings are black with white outlines and it's body is an orange body and black tail.",
+          "indo": "burung ini mempunyai paruh runcing berwarna putih dan muka berwarna hitam dengan mahkota dan punggung berwarna kecokelatan dengan sedikit bintik hitam di dalamnya; sayapnya berwarna hitam dengan garis putih dan tubuhnya berwarna oranye dan ekornya berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a red breast, black wings and a long pointy beak.",
+          "indo": "ini adalah burung dengan dada merah, sayap hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird has a curved white bill, a black crown, and a red belly.",
+          "indo": "burung ini memiliki paruh melengkung berwarna putih, mahkota berwarna hitam, dan perut berwarna merah."
+        },
+        {
+          "english": "this bird is grey with black wings and has a very short beak.",
+          "indo": "burung ini berwarna abu-abu dengan sayap berwarna hitam dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "brown belly and breast with black wings and black wing bars with black crown with red brown speckles.",
+          "indo": "perut dan dada berwarna coklat dengan sayap hitam dan garis sayap hitam dengan mahkota hitam berbintik merah coklat."
+        },
+        {
+          "english": "this small bird has an orange-brown body with lack and white wings and a black and brown head.",
+          "indo": "Burung kecil ini memiliki tubuh berwarna oranye kecokelatan dengan kekurangan dan sayap berwarna putih serta kepala berwarna hitam coklat."
+        },
+        {
+          "english": "the bird is variegated in color with different shades of brown, black, and grey.",
+          "indo": "Warna burungnya beraneka ragam dengan corak coklat, hitam, dan abu-abu yang berbeda-beda."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this bird has wings that are black and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "a small black bird, with a long tail, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna hitam, dengan ekor panjang, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0105_91186.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a bright red breast stands out as this small bird sports a black head, beak and feet.",
+          "indo": "dada berwarna merah cerah menonjol karena burung kecil ini memiliki kepala, paruh, dan kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head and wings and a carmel colored rest of the body.",
+          "indo": "burung ini memiliki kepala dan sayap berwarna hitam serta bagian tubuh lainnya berwarna merah tua."
+        },
+        {
+          "english": "a black and reddish brown bird with reddish brown breast and belly.",
+          "indo": "burung berwarna hitam dan coklat kemerahan dengan dada dan perut berwarna coklat kemerahan."
+        },
+        {
+          "english": "this black bird has a pointed black beak and a russet brown breast and abdomen.",
+          "indo": "burung hitam ini memiliki paruh berwarna hitam runcing serta dada dan perut berwarna coklat kemerahan."
+        },
+        {
+          "english": "this bird is black and brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam kecokelatan dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a black head, face and throat, a red belly and vent, and black secondaries.",
+          "indo": "burung ini memiliki kepala, muka dan tenggorokan berwarna hitam, perut dan lubang kloaka berwarna merah, serta bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "the head is covered in black, the belly down to abdomen is brown.",
+          "indo": "kepala ditutupi warna hitam, perut hingga perut berwarna coklat."
+        },
+        {
+          "english": "a bird with and orange breast and black crown.",
+          "indo": "seekor burung dengan dada oranye dan mahkota hitam."
+        },
+        {
+          "english": "a tall bird with a black head and back but a right red orange chest.",
+          "indo": "burung tinggi dengan kepala dan punggung berwarna hitam tetapi dada kanannya berwarna oranye merah."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and red",
+          "indo": "burung ini memiliki perut yang berwarna oranye dan merah"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0106_91830.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a small sized bird that has a dark orange belly and black head",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna jingga tua dan kepala berwarna hitam"
+        },
+        {
+          "english": "a beautiful vibrantly orange colored small bird with black head, neck, back, tail and wings, and a gray beak and wingbars.",
+          "indo": "seekor burung kecil cantik berwarna oranye cerah dengan kepala, leher, punggung, ekor dan sayap hitam, serta paruh dan garis sayap berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with red on chest and white stripes on wings.",
+          "indo": "seekor burung kecil dengan warna merah di dada dan garis-garis putih di sayap."
+        },
+        {
+          "english": "this small black bird has a deep red breast with red accents on it's wings.",
+          "indo": "burung kecil berwarna hitam ini memiliki dada berwarna merah tua dengan aksen merah pada sayapnya."
+        },
+        {
+          "english": "red breasted, red belly bird with black on it's superciliary, eyebrow and nape and also black on its back and rectrices and coverts.",
+          "indo": "burung berdada merah, perut merah dengan warna hitam pada bagian superciliary, superciliary dan tengkuknya serta hitam pada bagian punggung dan rectrices serta bulu penutup."
+        },
+        {
+          "english": "this small bird has a dark orange body with black wings, head, tail and feet as well as a small black beak.",
+          "indo": "burung kecil ini memiliki tubuh berwarna oranye tua dengan sayap, kepala, ekor dan kaki berwarna hitam serta paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this is a small bird with a black head and red breast, belly and abdomen.",
+          "indo": "ini adalah burung kecil dengan kepala hitam dan dada, perut dan perut berwarna merah."
+        },
+        {
+          "english": "the bird has a red and orange breast/belly and black wings",
+          "indo": "burung itu memiliki dada/perut berwarna merah dan oranye serta sayap hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is red and has black patches",
+          "indo": "burung ini memiliki perut yang berwarna merah dan memiliki bercak hitam"
+        },
+        {
+          "english": "a bright bird with black wing, tail, and head feathers with a red belly and breast.",
+          "indo": "burung berwarna cerah dengan bulu sayap, ekor, dan kepala berwarna hitam dengan perut dan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0107_91472.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird has a red and black breast with a white pointy beak.",
+          "indo": "burung ini mempunyai dada berwarna merah kehitaman dengan paruh runcing berwarna putih."
+        },
+        {
+          "english": "large, long bird with a smaller head, has black & orange feathers.",
+          "indo": "burung berukuran besar, panjang, dengan kepala lebih kecil, memiliki bulu berwarna hitam & oranye."
+        },
+        {
+          "english": "has a medium sharp, triangular beak, black wings, tail, and neck, with red breast and body.",
+          "indo": "mempunyai paruh runcing sedang, berbentuk segitiga, sayap, ekor, dan leher berwarna hitam, serta dada dan badan berwarna merah."
+        },
+        {
+          "english": "this bird is black with red on its wings and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan warna merah pada sayapnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a black bird with white on the bill and red on the sides.",
+          "indo": "ini adalah burung berwarna hitam dengan paruh putih dan merah di sisinya."
+        },
+        {
+          "english": "this bird has feathers that are black all over it's body but also has red feather in the back and front it also has a long beak.",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam di sekujur badannya namun juga mempunyai bulu berwarna merah di bagian belakang dan depan serta mempunyai paruh yang panjang."
+        },
+        {
+          "english": "this bird is red and black in color, with a black beak.",
+          "indo": "burung ini berwarna merah dan hitam, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this colorful bird has red side red breast black back and head white and black beak black tail",
+          "indo": "Burung berwarna-warni ini memiliki sisi merah, dada merah, punggung hitam, kepala putih, dan paruh hitam, ekor hitam"
+        },
+        {
+          "english": "this bird has a black crown and nape with a red breast and belly.",
+          "indo": "burung ini memiliki mahkota dan tengkuk berwarna hitam dengan dada dan perut berwarna merah."
+        },
+        {
+          "english": "this small bird is mostly black with red wings and chest.",
+          "indo": "burung kecil ini sebagian besar berwarna hitam dengan sayap dan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0108_91530.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this colorful little bird has an orange belly and breast with black neck, crown, and nape.",
+          "indo": "Burung kecil berwarna-warni ini memiliki perut dan dada berwarna oranye dengan leher, mahkota, dan tengkuk berwarna hitam."
+        },
+        {
+          "english": "the bird is orange and black with black eyes and a small beak",
+          "indo": "burung itu berwarna oranye dan hitam dengan mata hitam dan paruh kecil"
+        },
+        {
+          "english": "a small orange bird with black head and nape, black wings with white wingbars, and black tail.",
+          "indo": "burung kecil berwarna jingga dengan kepala dan tengkuk hitam, sayap hitam dengan garis sayap putih, dan ekor hitam."
+        },
+        {
+          "english": "a bird with a black head to wings and tail with a red belly and black feet.",
+          "indo": "seekor burung dengan kepala hingga sayap hitam dan ekor dengan perut merah dan kaki hitam."
+        },
+        {
+          "english": "this bird has a brown belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna coklat dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are black and has a yellow belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna kuning"
+        },
+        {
+          "english": "the bird has a black head, wings, and tail, however the rest of it is brown.",
+          "indo": "burung tersebut memiliki kepala, sayap, dan ekor berwarna hitam, namun sisanya berwarna coklat."
+        },
+        {
+          "english": "this bird has a small orange belly, black wings, and small black crown",
+          "indo": "burung ini memiliki perut kecil berwarna oranye, sayap hitam, dan mahkota kecil berwarna hitam"
+        },
+        {
+          "english": "a small bird, with a red belly, black head and primaries.",
+          "indo": "seekor burung kecil, dengan perut merah, kepala hitam dan bulu primer."
+        },
+        {
+          "english": "this beautiful little bird has a black head, back and tail, a short sharp bill and a vivid orange-red breast and belly with just a small white wing bar.",
+          "indo": "burung kecil yang cantik ini memiliki kepala, punggung dan ekor berwarna hitam, paruh pendek yang tajam serta dada dan perut berwarna oranye-merah cerah dengan hanya garis sayap kecil berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0113_88407.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "a bird with black wings and head with an orange breast and tail.",
+          "indo": "seekor burung bersayap hitam dan kepala dengan dada dan ekor berwarna oranye."
+        },
+        {
+          "english": "a medium sized bird with a orange breast and black and white wings",
+          "indo": "burung berukuran sedang dengan dada oranye dan sayap hitam putih"
+        },
+        {
+          "english": "this is a bird with a yellow belly and black wings and head.",
+          "indo": "ini adalah burung dengan perut kuning dan sayap serta kepala hitam."
+        },
+        {
+          "english": "this bird has a striking orange belly and blackish wings and head and a white wing bar.",
+          "indo": "burung ini mempunyai perut berwarna jingga mencolok serta sayap dan kepala berwarna kehitaman serta garis sayap berwarna putih."
+        },
+        {
+          "english": "a bird with grey tarsus and feet, with a yellow belly and breast, with black wings and white wingbars.",
+          "indo": "seekor burung dengan tarsus dan kaki berwarna abu-abu, dengan perut dan dada berwarna kuning, dengan sayap hitam dan garis sayap putih."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna kuning"
+        },
+        {
+          "english": "this bird is yellow with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna kuning kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is orange and has black secondaries",
+          "indo": "burung ini memiliki perut berwarna oranye dan memiliki bulu sekunder berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has a yellow belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0114_91412.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "this bird appears to have a total yellow body with black or grey wings along with black eyes.",
+          "indo": "Burung ini tampak memiliki tubuh total berwarna kuning dengan sayap berwarna hitam atau abu-abu serta mata berwarna hitam."
+        },
+        {
+          "english": "this yellow bird with blue wing has recently flown away from a tree branch.",
+          "indo": "burung kuning bersayap biru ini baru saja terbang menjauh dari dahan pohon."
+        },
+        {
+          "english": "this large bird has bright yellow belly, breast and head with gray colored primaries.",
+          "indo": "Burung berukuran besar ini memiliki perut, dada, dan kepala berwarna kuning cerah dengan warna dasar abu-abu."
+        },
+        {
+          "english": "this medium sized yellow bird has black wings, bright yellow belly and head, and a black patch near the eyes.",
+          "indo": "burung kuning berukuran sedang ini memiliki sayap hitam, perut dan kepala berwarna kuning cerah, serta bercak hitam di dekat matanya."
+        },
+        {
+          "english": "this bird has a yellow belly, a yellow head, and a grey wing",
+          "indo": "burung ini memiliki perut berwarna kuning, kepala berwarna kuning, dan sayap berwarna abu-abu"
+        },
+        {
+          "english": "a mediums sized yellow bird, with grey secondaries, and a short bill.",
+          "indo": "burung kuning berukuran sedang, dengan bulu sekunder berwarna abu-abu, dan paruh pendek."
+        },
+        {
+          "english": "the crown of the bird is mostly yellow with speckles of blue throughout.",
+          "indo": "mahkota burung sebagian besar berwarna kuning dengan bintik-bintik biru di seluruh bagiannya."
+        },
+        {
+          "english": "bird had a bright yellow head and body with brown wings.",
+          "indo": "burung tersebut memiliki kepala dan badan berwarna kuning cerah dengan sayap berwarna coklat."
+        },
+        {
+          "english": "this is a not so small bird with body of bright yellow and grey feet.",
+          "indo": "ini adalah burung yang tidak terlalu kecil dengan tubuh berwarna kuning cerah dan kaki abu-abu."
+        },
+        {
+          "english": "this bird has a yellow body with gray feet and black and gray wings.",
+          "indo": "burung ini memiliki tubuh berwarna kuning dengan kaki berwarna abu-abu dan sayap berwarna hitam abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Orchard_Oriole_0116_91645.jpg",
+      "class_id": 96,
+      "captions": [
+        {
+          "english": "small bird with mostly yellow feathers and a narrow beak",
+          "indo": "burung kecil dengan sebagian besar bulu berwarna kuning dan paruh sempit"
+        },
+        {
+          "english": "the bird has a green crown and a small black bill that is curved.",
+          "indo": "burung ini memiliki mahkota berwarna hijau dan paruh kecil berwarna hitam yang melengkung."
+        },
+        {
+          "english": "this bird has a yellow belly, back and crow, black throat and brown and black primaries.",
+          "indo": "burung ini memiliki perut, punggung dan gagak berwarna kuning, tenggorokan berwarna hitam dan bulu primer berwarna coklat dan hitam."
+        },
+        {
+          "english": "this is a small grey and yellow bird with a black throat.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dan kuning dengan tenggorokan hitam."
+        },
+        {
+          "english": "this is a small bird with a green yellow head, neck, nape, and chest, the throat is jet black.",
+          "indo": "Ini adalah burung kecil dengan kepala, leher, tengkuk, dan dada berwarna kuning hijau, tenggorokannya berwarna hitam legam."
+        },
+        {
+          "english": "this little bird has a straight gray bill, green crown, black throat, green chest and sides, brownish primaries and secondaries, black foot.",
+          "indo": "Burung kecil ini memiliki paruh lurus berwarna abu-abu, mahkota berwarna hijau, tenggorokan berwarna hitam, dada dan samping berwarna hijau, bulu primer dan bulu sekunder kecoklatan, kaki berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are yekkiw abd gas a black throat",
+          "indo": "burung ini mempunyai sayap yang yekkiw dan gas, tenggorokannya berwarna hitam"
+        },
+        {
+          "english": "the bird is small with a pointed bill, has black on its neck, but yellow elsewhere.",
+          "indo": "burung itu kecil dengan paruh runcing, lehernya berwarna hitam, tetapi di bagian lain berwarna kuning."
+        },
+        {
+          "english": "this small bird has a black throat but a bright yellow crown and breast.",
+          "indo": "burung kecil ini memiliki tenggorokan berwarna hitam tetapi mahkota dan dada berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a yellowish green body with a black throat, black bill, and brown speckled wings.",
+          "indo": "burung ini memiliki tubuh berwarna hijau kekuningan dengan tenggorokan berwarna hitam, paruh berwarna hitam, dan sayap berbintik coklat."
+        }
+      ]
+    }
+  ]
+}

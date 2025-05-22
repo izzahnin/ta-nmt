@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Purple_Finch_0001_27571.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the small bird has a red head with feathers that fade from red to gray from head to tail.",
+          "indo": "Burung kecil ini memiliki kepala berwarna merah dengan bulu yang memudar dari warna merah menjadi abu-abu dari kepala hingga ekor."
+        },
+        {
+          "english": "a small bird with a red breast and brown wings and a small bill",
+          "indo": "seekor burung kecil dengan dada merah dan sayap coklat serta paruh kecil"
+        },
+        {
+          "english": "this is a bird with a white belly, brown wings and a red breast and head.",
+          "indo": "ini adalah burung dengan perut putih, sayap coklat dan dada serta kepala merah."
+        },
+        {
+          "english": "a bird with a short thick beak and a red head that blends into a grey and white body.",
+          "indo": "burung dengan paruh pendek tebal dan kepala berwarna merah menyatu dengan tubuh berwarna abu-abu dan putih."
+        },
+        {
+          "english": "this small bird has a white belly, red breast, back and head, a short brown beak, a small head and dark brown wings and tail.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, dada, punggung dan kepala berwarna merah, paruh pendek berwarna coklat, kepala kecil serta sayap dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "this bird has feathers that are black and has a red belly",
+          "indo": "burung ini mempunyai bulu yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this particular bird has a belly that is red and white",
+          "indo": "burung ini memiliki perut yang berwarna merah dan putih"
+        },
+        {
+          "english": "a small bird with a red head, breast, and belly and black wings.",
+          "indo": "seekor burung kecil dengan kepala, dada, dan perut berwarna merah serta sayap hitam."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this red and black bird has a red throat and a short pointed bill.",
+          "indo": "burung berwarna merah hitam ini memiliki tenggorokan berwarna merah dan paruh runcing pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0002_27266.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a red head, throat and breast, while it's wings and tail are a more muted mahogany.",
+          "indo": "burung ini memiliki kepala, tenggorokan, dan dada berwarna merah, sedangkan sayap dan ekornya berwarna mahoni yang lebih kalem."
+        },
+        {
+          "english": "a petite light red bird wi white and red striped wing feathers, a short white flat bill, and white claws.",
+          "indo": "burung mungil berwarna merah muda dengan bulu sayap bergaris putih dan merah, paruh pendek berwarna putih, dan cakar putih."
+        },
+        {
+          "english": "a small bird with deep red crown, brownish orange coverts and cream undertail coverts.",
+          "indo": "seekor burung kecil dengan mahkota berwarna merah tua, bulu berwarna jingga kecoklatan, dan bulu bagian bawah berwarna krem."
+        },
+        {
+          "english": "bird with yellow beak, tarsus and feet, pink crown, nape, throat, and black eye, and brown wings with white wing bars",
+          "indo": "burung dengan paruh kuning, tarsus dan kaki, mahkota merah muda, tengkuk, tenggorokan, dan mata hitam, dan sayap coklat dengan garis sayap putih"
+        },
+        {
+          "english": "a small bird with red around head and neck area.",
+          "indo": "seekor burung kecil dengan warna merah di sekitar kepala dan lehernya."
+        },
+        {
+          "english": "this small light brown bird has a red head and breast and a wide pointed beak.",
+          "indo": "burung kecil berwarna coklat muda ini memiliki kepala dan dada berwarna merah serta paruh runcing lebar."
+        },
+        {
+          "english": "this bird has wings that are white and red and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan merah serta mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this bird is brown and pink in color, with a light brown beak.",
+          "indo": "burung ini berwarna coklat dan merah jambu, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a short pointed bill, with a red head.",
+          "indo": "burung ini mempunyai paruh yang pendek dan runcing, dengan kepala berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0004_27565.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird is a mixture of red and white with short side wings.",
+          "indo": "burungnya campuran warna merah putih dengan sayap samping pendek."
+        },
+        {
+          "english": "this is a bird with a white belly, black wing, pink breast and head and a small white beak.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam, dada dan kepala berwarna merah muda, serta paruh kecil berwarna putih."
+        },
+        {
+          "english": "this smaller bird has a gray belly and breast with pink speckles, a pink crown, and a short pointy bill.",
+          "indo": "burung yang lebih kecil ini memiliki perut dan dada berwarna abu-abu dengan bintik merah muda, mahkota berwarna merah muda, dan paruh pendek yang runcing."
+        },
+        {
+          "english": "small white brown and red bird with long tarsus and medium brown beak",
+          "indo": "burung kecil berwarna putih coklat dan merah dengan tarsus panjang dan paruh coklat sedang"
+        },
+        {
+          "english": "bird with sharp and pointed beak that is gray, and brown tarsus and feet, and white belly and abdomen",
+          "indo": "burung dengan paruh runcing dan runcing berwarna abu-abu, tarsus dan kaki berwarna coklat, serta perut dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird comprising of a red an brown striped nape, face and neck, red and grey along its breast, neck and belly, and white vent.",
+          "indo": "burung kecil dengan tengkuk, muka dan leher bergaris merah dan coklat, dada, leher dan perut berwarna merah dan abu-abu, serta lubang kloaka berwarna putih."
+        },
+        {
+          "english": "this bird has a red crown as well as a red and white belly",
+          "indo": "burung ini mempunyai mahkota berwarna merah dan perut berwarna merah putih"
+        },
+        {
+          "english": "this bird is a wide and multi-colored with red, brown, black and white colors present as it rests on a feeder.",
+          "indo": "burung ini berbadan lebar dan beraneka warna dengan warna merah, coklat, hitam dan putih saat bertengger di atas pengumpan."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0005_27512.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the red head and breast area fades to a gray and black abdomen, atop black larsus and foot.",
+          "indo": "area kepala dan dada yang merah memudar menjadi perut abu-abu dan hitam, di atas larsus dan kaki hitam."
+        },
+        {
+          "english": "this bird has a red breast, a superciliary, and throat, and brown wings, abdomen, and crown.",
+          "indo": "burung ini memiliki dada berwarna merah, superciliary, dan tenggorokan, serta sayap, perut, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is red and black in color with a black beak and red eye rings.",
+          "indo": "burung ini berwarna merah kehitaman dengan paruh berwarna hitam dan cincin mata berwarna merah."
+        },
+        {
+          "english": "this smallish bird has a triangular beak with reddish crown, neck, and chest feathers and a black tail with whitish-brown mottled wings.",
+          "indo": "Burung bertubuh kecil ini memiliki paruh berbentuk segitiga dengan bulu mahkota, leher, dan dada berwarna kemerahan, serta ekor berwarna hitam dengan sayap berbintik-bintik coklat keputihan."
+        },
+        {
+          "english": "this bird is small and rust colored with a small grey bill.",
+          "indo": "burung ini berukuran kecil dan berwarna karat dengan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "small bird with a red head and breast, black tail and short beak.",
+          "indo": "burung kecil dengan kepala dan dada berwarna merah, ekor hitam dan paruh pendek."
+        },
+        {
+          "english": "this is a red bird with a gray cheek patch and gray wings and tail.",
+          "indo": "ini adalah burung berwarna merah dengan bercak pipi abu-abu serta sayap dan ekor abu-abu."
+        },
+        {
+          "english": "a red bellied bird with dark brown wings and a brown stripe along the eyes.",
+          "indo": "burung berperut merah dengan sayap coklat tua dan garis coklat di sepanjang matanya."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a red belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna merah."
+        },
+        {
+          "english": "this bird is red white and black in color, and has a stubby beak.",
+          "indo": "burung ini berwarna merah putih dan hitam, serta mempunyai paruh yang gemuk."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0006_27950.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a black belly, red breast and red head, with black eyebrows, and black and white wings and cheek patch.",
+          "indo": "burung ini mempunyai perut berwarna hitam, dada berwarna merah dan kepala berwarna merah, alis berwarna hitam, serta sayap dan penutup pipi berwarna hitam putih."
+        },
+        {
+          "english": "this small bird has a red head and breast, black eyebrows and a brown body, wings and tail.",
+          "indo": "burung kecil ini memiliki kepala dan dada berwarna merah, alis berwarna hitam, serta badan, sayap, dan ekor berwarna coklat."
+        },
+        {
+          "english": "a small bird with a red breast, eyebrow and crown, black and white wings with two white wing bars and black feet and tarsus.",
+          "indo": "burung kecil dengan dada merah, alis dan mahkota, sayap hitam putih dengan dua garis sayap putih serta kaki dan tarsus hitam."
+        },
+        {
+          "english": "a small bird with a red chest and brown and white feathers.",
+          "indo": "seekor burung kecil dengan dada berwarna merah dan bulu berwarna coklat dan putih."
+        },
+        {
+          "english": "bird with black eye, tarsus and feet, and brown and gray wings with two wingbars, and red throat, breast and belly",
+          "indo": "burung bermata hitam, tarsus dan kaki, serta sayap berwarna coklat dan abu-abu dengan dua garis sayap, serta tenggorokan, dada, dan perut berwarna merah"
+        },
+        {
+          "english": "this small brown bird has a red head, red breast and red nape.",
+          "indo": "burung kecil berwarna coklat ini memiliki kepala berwarna merah, dada berwarna merah dan tengkuk berwarna merah."
+        },
+        {
+          "english": "the bird has a red crown that is striped and a red breast.",
+          "indo": "burung ini memiliki mahkota berwarna merah yang bergaris dan dada berwarna merah."
+        },
+        {
+          "english": "the short bill on the bird with a red crown",
+          "indo": "paruh pendek pada burung bermahkota merah"
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a red head and throat with dark green wings.",
+          "indo": "burung ini memiliki kepala dan tenggorokan berwarna merah dengan sayap berwarna hijau tua."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0008_27455.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this is a mostly red bird with a cream-colored abdomen and a short, powerful beak.",
+          "indo": "ini adalah burung yang sebagian besar berwarna merah dengan perut berwarna krem ​​​​dan paruh pendek dan kuat."
+        },
+        {
+          "english": "this bird has a red head, brownish red wings, a short tail and a short thick bill.",
+          "indo": "burung ini mempunyai kepala berwarna merah, sayap berwarna merah kecoklatan, ekor pendek dan paruh tebal pendek."
+        },
+        {
+          "english": "a small red bird with a white belly and brown secondaries.",
+          "indo": "seekor burung kecil berwarna merah dengan perut putih dan bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "this is a red bird with a white belly and a brown wing.",
+          "indo": "ini adalah burung berwarna merah dengan perut putih dan sayap coklat."
+        },
+        {
+          "english": "a bird with a primarily white lower body with specs of orangish red, and a red chest, upper body, and head",
+          "indo": "burung dengan tubuh bagian bawah sebagian besar berwarna putih dengan ciri-ciri merah jingga, dan dada, tubuh bagian atas, dan kepala berwarna merah"
+        },
+        {
+          "english": "this brown bird has a red head and breast and a small pointy brown beak.",
+          "indo": "burung berwarna coklat ini memiliki kepala dan dada berwarna merah serta paruh kecil berwarna coklat yang runcing."
+        },
+        {
+          "english": "this small bird has a red head and body with brown wings and a cream colored abdomen.",
+          "indo": "burung kecil ini memiliki kepala dan badan berwarna merah dengan sayap berwarna coklat dan perut berwarna krem."
+        },
+        {
+          "english": "this bird has a broad tan beak, a bright red crown, and red and brown feathers on its wings.",
+          "indo": "burung ini memiliki paruh lebar berwarna coklat, mahkota berwarna merah cerah, serta bulu berwarna merah dan coklat pada sayapnya."
+        },
+        {
+          "english": "this bird is red with white and has a very short beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a small brown bird, with dark green primaries, and a small bill.",
+          "indo": "ini adalah burung kecil berwarna coklat, dengan warna bulu primer hijau tua, dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0011_27633.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a brown and grey body with a red head.",
+          "indo": "burung ini memiliki tubuh berwarna coklat keabu-abuan dengan kepala berwarna merah."
+        },
+        {
+          "english": "this bird has red crown, brown breast and brown and red coverts.",
+          "indo": "burung ini memiliki mahkota berwarna merah, dada berwarna coklat, dan bulu berwarna coklat dan merah."
+        },
+        {
+          "english": "this bird has fiery black and red wings, it's belly speckled with light red, brown and some yellow, it's crown is a blood red with a black superciliary around it's eyes.",
+          "indo": "burung ini mempunyai sayap berwarna hitam dan merah menyala, perutnya berbintik-bintik merah muda, coklat dan sedikit kuning, mahkotanya berwarna merah darah dengan superciliary hitam di sekitar matanya."
+        },
+        {
+          "english": "a small red and brown bird with a red crown and brown breast.",
+          "indo": "burung kecil berwarna merah dan coklat dengan mahkota merah dan dada coklat."
+        },
+        {
+          "english": "this is a small bird that has a brighter red crown and a brownish red body.",
+          "indo": "Ini adalah burung kecil yang memiliki mahkota berwarna merah cerah dan tubuh berwarna merah kecoklatan."
+        },
+        {
+          "english": "this brown has a bloody hue of a red crown and brown and red within the belly.",
+          "indo": "Coklat ini mempunyai rona darah seperti mahkota berwarna merah dan coklat serta merah pada bagian perutnya."
+        },
+        {
+          "english": "this is a small red bird with black stripes on its wings and some light brown in its sides.",
+          "indo": "ini adalah burung kecil berwarna merah dengan garis-garis hitam di sayapnya dan sedikit coklat muda di sisinya."
+        },
+        {
+          "english": "small colorful and fat bird with fin in the crown and fin is red color, throat, belly, breast and abdomen are brown. beak is small and black.",
+          "indo": "burung kecil berwarna-warni dan gemuk dengan sirip di bagian ubun-ubun dan sirip berwarna merah, tenggorokan, perut, dada dan perut berwarna coklat. paruhnya kecil dan berwarna hitam."
+        },
+        {
+          "english": "this bird has a red crown as well as a brown belly",
+          "indo": "burung ini memiliki mahkota berwarna merah dan perut berwarna coklat"
+        },
+        {
+          "english": "a little bird that has red on top of head, and a silver beak.",
+          "indo": "seekor burung kecil yang bagian atas kepalanya berwarna merah, dan paruhnya berwarna perak."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0013_27506.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird has skinny thighs and a black eyering.",
+          "indo": "burung itu memiliki paha kurus dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has a red crown, a short and sharp bill, and a spotted red belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh pendek dan runcing, serta perut berwarna merah berbintik."
+        },
+        {
+          "english": "the head of this bird is a brighter red, while the rest of its body is a lighter red.",
+          "indo": "kepala burung ini berwarna merah cerah, sedangkan bagian tubuhnya lainnya berwarna merah terang."
+        },
+        {
+          "english": "this bird is red and white in color with a stubby beak, and red eye rings.",
+          "indo": "burung ini berwarna merah putih dengan paruh pendek, dan mata cincin berwarna merah."
+        },
+        {
+          "english": "a small beautiful red bird with bright red head and throat, brown and red wings, black tail-tip, and white stomach.",
+          "indo": "burung kecil berwarna merah cantik dengan kepala dan tenggorokan berwarna merah cerah, sayap berwarna coklat dan merah, ujung ekor hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "this colorful bird has a broad but short bill, a bright red head with a lighter shade of red on its breast, a white belly and brown primaries.",
+          "indo": "Burung berwarna-warni ini memiliki paruh yang lebar namun pendek, kepala berwarna merah cerah dengan semburat merah terang di dadanya, perut berwarna putih, dan warna bulu primer berwarna coklat."
+        },
+        {
+          "english": "a large billed bird with a dark red head that gets lighter as the color goes down the belly till it turns white at the undertail coverts, with orange turning into brown wings.",
+          "indo": "burung berparuh besar dengan kepala berwarna merah tua yang semakin terang seiring dengan turunnya warna perut hingga berubah menjadi putih di bagian bawah bulu, dengan warna oranye berubah menjadi sayap coklat."
+        },
+        {
+          "english": "a small brown bird, with a white vent, and a short bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan lubang putih, dan paruh pendek."
+        },
+        {
+          "english": "the bird is small in size with a small round head and is red in color.",
+          "indo": "burung ini berukuran kecil dengan kepala bulat kecil dan berwarna merah."
+        },
+        {
+          "english": "this bird has a pointed yellow bill, with a red head and breast.",
+          "indo": "burung ini memiliki paruh runcing berwarna kuning, dengan kepala dan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0014_27322.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a bird with thick, short beak, red crown, red breast that fades into a pink and white belly, and red coverts.",
+          "indo": "burung dengan paruh tebal dan pendek, mahkota berwarna merah, dada berwarna merah yang memudar menjadi perut berwarna merah muda dan putih, serta bulu berwarna merah."
+        },
+        {
+          "english": "this bird has a light red head and even lighter red body, with some light brown on its wings.",
+          "indo": "burung ini mempunyai kepala berwarna merah muda bahkan badannya berwarna merah terang, dengan sedikit warna coklat muda pada sayapnya."
+        },
+        {
+          "english": "this bird has a coral pink crown and face and a white breast mottled with brown and peach.",
+          "indo": "burung ini memiliki mahkota dan wajah berwarna merah muda koral serta dada berwarna putih berbintik-bintik coklat dan persik."
+        },
+        {
+          "english": "this bird is white and red in color with a light beak, and black eye rings.",
+          "indo": "burung ini berwarna putih dan merah dengan paruh terang, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "small grey red and brown bird with medium pink tarsus and medium beak",
+          "indo": "burung kecil berwarna abu-abu merah dan coklat dengan tarsus merah muda sedang dan paruh sedang"
+        },
+        {
+          "english": "this bird is red with white and has a very short beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this vivid bird has a ruby breast and light orange side with a small head and multicolored wing.",
+          "indo": "burung berwarna cerah ini memiliki dada berwarna rubi dan sisi berwarna oranye muda dengan kepala kecil dan sayap beraneka warna."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has a red crown and throat with a yellow bill.",
+          "indo": "burung ini mempunyai mahkota dan tenggorokan berwarna merah dengan paruh berwarna kuning."
+        },
+        {
+          "english": "a red bird with a yellow bill and brown wings",
+          "indo": "seekor burung merah dengan paruh kuning dan sayap coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0020_27961.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird is plump with red coloring built into its entire body.",
+          "indo": "burung ini bertubuh gempal dengan warna merah di sekujur tubuhnya."
+        },
+        {
+          "english": "this bird is pink in color, and has a short beak with a red eye ring.",
+          "indo": "burung ini berwarna merah jambu, dan mempunyai paruh pendek dengan cincin mata berwarna merah."
+        },
+        {
+          "english": "the bird has a light pink almost purple breast, abdomen and throat, with grey feathers on its coverts.",
+          "indo": "burung ini memiliki dada, perut dan tenggorokan berwarna merah muda hampir ungu, dengan bulu abu-abu di bulu penutupnya."
+        },
+        {
+          "english": "this bird has a redish purple color all over with its wings showing streaks of black on them.",
+          "indo": "burung ini mempunyai warna ungu kemerahan di sekujur sayapnya yang memperlihatkan guratan-guratan hitam."
+        },
+        {
+          "english": "a dark red bird with black and red wings and a white abdomen.",
+          "indo": "burung berwarna merah tua dengan sayap hitam dan merah serta perut berwarna putih."
+        },
+        {
+          "english": "this particular bird has a red belly and breast and a brown beak",
+          "indo": "burung ini memiliki perut dan dada berwarna merah serta paruh berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "the bird has a pink crown and pink belly as well as a small bill.",
+          "indo": "burung ini memiliki mahkota berwarna merah muda dan perut berwarna merah muda serta paruh yang kecil."
+        },
+        {
+          "english": "this bird has a red and black wing with a short pointed bill and a red and white belly and breast.",
+          "indo": "burung ini mempunyai sayap berwarna merah hitam dengan paruh runcing pendek serta perut dan dada berwarna merah putih."
+        },
+        {
+          "english": "this bird has a pointed short bill, with a red breast.",
+          "indo": "burung ini memiliki paruh pendek yang runcing, dengan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0021_28235.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a red breast and a white belly and has a red head.",
+          "indo": "burung ini mempunyai dada berwarna merah dan perut berwarna putih serta memiliki kepala berwarna merah."
+        },
+        {
+          "english": "a small predominantly red colored bird with a small rounded beak, and a speckled white and red belly .",
+          "indo": "seekor burung kecil berwarna dominan merah dengan paruh kecil bulat, dan perut berbintik-bintik putih dan merah."
+        },
+        {
+          "english": "this bird's body is rose-red, with a black patch around its eyes and red-brown wings.",
+          "indo": "tubuh burung ini berwarna merah mawar, dengan bercak hitam di sekitar matanya dan sayapnya berwarna merah kecokelatan."
+        },
+        {
+          "english": "this brown and pink bird has a tan colored pointy beak",
+          "indo": "burung berwarna coklat dan merah muda ini memiliki paruh runcing berwarna coklat"
+        },
+        {
+          "english": "this little bird has a brown speckled appearance with a short pointy bill.",
+          "indo": "Burung kecil ini berpenampilan berbintik coklat dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "the bird has very light pink feathering on the breast section, as well as small feet and a yellow-ish bill color.",
+          "indo": "burung ini memiliki bulu berwarna merah muda sangat terang di bagian dada, serta kaki kecil dan warna paruh kuning."
+        },
+        {
+          "english": "this bird has a rust colored crown and white inner rectrices.",
+          "indo": "burung ini memiliki mahkota berwarna karat dan inner rectrices berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "a colorful bird with a short bill, red crown, black eyes and brown wingbars.",
+          "indo": "burung berwarna-warni dengan paruh pendek, mahkota merah, mata hitam dan sayap coklat."
+        },
+        {
+          "english": "a small red bird with light brown sides and a small brown beak.",
+          "indo": "burung kecil berwarna merah dengan sisi berwarna coklat muda dan paruh kecil berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0023_27986.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this beautiful bird is made up of random patches of red, white, black, orange and brown.",
+          "indo": "burung cantik ini terdiri dari bercak acak berwarna merah, putih, hitam, oranye, dan coklat."
+        },
+        {
+          "english": "a small bird with a red belly, and a small bill,and red wings",
+          "indo": "seekor burung kecil dengan perut merah, paruh kecil, dan sayap merah"
+        },
+        {
+          "english": "a little scarlet bird with brown secondaries and a small gray bill.",
+          "indo": "seekor burung kecil berwarna merah tua dengan paruh berwarna coklat dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this is a red bird with white on the breast and yellow on the wingbars.",
+          "indo": "ini adalah burung berwarna merah dengan warna putih di bagian dada dan kuning di bagian sayap."
+        },
+        {
+          "english": "this is a small red bird with a white belly and a large beak.",
+          "indo": "ini adalah burung kecil berwarna merah dengan perut putih dan paruh besar."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a red crown as well as a yellow bill",
+          "indo": "burung ini mempunyai mahkota berwarna merah dan paruh berwarna kuning"
+        },
+        {
+          "english": "vibrant bird with a red crown,nape and patches of red on its breast, throat and belly, wings are orange and black with white wingbar, bill is small and triangle shaped.",
+          "indo": "burung yang cerah dengan mahkota merah, tengkuk dan bercak merah di dada, tenggorokan dan perut, sayap berwarna oranye dan hitam dengan garis sayap putih, paruh kecil dan berbentuk segitiga."
+        },
+        {
+          "english": "a small red and white bird with a small curved beak.",
+          "indo": "burung kecil berwarna merah putih dengan paruh kecil melengkung."
+        },
+        {
+          "english": "a small red bird with short pointed beak.",
+          "indo": "seekor burung kecil berwarna merah dengan paruh runcing pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0025_28174.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "brown feathered bird on the top with a brown stripes, white feathers underneath, with a red head with brown beak.",
+          "indo": "Burung berbulu coklat di bagian atas dengan garis-garis coklat, bulu di bawah berwarna putih, dengan kepala berwarna merah dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird has a red head, throat and chest, with a white belly.",
+          "indo": "burung ini memiliki kepala, tenggorokan dan dada berwarna merah, dengan perut berwarna putih."
+        },
+        {
+          "english": "a medium bird with with a bright red crown and throat region having a reddish breast region and the bill is short and pointed",
+          "indo": "burung berukuran sedang dengan mahkota dan daerah tenggorokan berwarna merah cerah, daerah dada berwarna kemerahan serta paruh pendek dan runcing"
+        },
+        {
+          "english": "this medium sized perching bird has a grey body with barred, light grey chest and a bright red head and neck.",
+          "indo": "Burung bertengger berukuran sedang ini memiliki tubuh berwarna abu-abu dengan dada berjeruji berwarna abu-abu muda serta kepala dan leher berwarna merah cerah."
+        },
+        {
+          "english": "this bird has a bright red head and upper breast, a light brown back, and a large bill.",
+          "indo": "burung ini memiliki kepala dan dada bagian atas berwarna merah cerah, punggung berwarna coklat muda, dan paruh yang besar."
+        },
+        {
+          "english": "this bird has a bright red head, cheek and throat, grey wings with white wing bars, and a grey and white vent.",
+          "indo": "burung ini memiliki kepala, pipi dan tenggorokan berwarna merah cerah, sayap berwarna abu-abu dengan garis sayap berwarna putih, serta lubang kloaka berwarna abu-abu putih."
+        },
+        {
+          "english": "this bird has wings that are grey and has a red crown and throat",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu serta mempunyai mahkota dan tenggorokan berwarna merah"
+        },
+        {
+          "english": "this small bird has red feathers on its head and chest while gray feathers display a white feathers underneath its cover.",
+          "indo": "Burung kecil ini memiliki bulu berwarna merah di kepala dan dada, sedangkan bulu berwarna abu-abu memperlihatkan bulu berwarna putih di bawah penutupnya."
+        },
+        {
+          "english": "the bird is small with a short bill, and red neck and head with grey elsewhere.",
+          "indo": "burung itu kecil dengan paruh pendek, dan leher serta kepala berwarna merah dengan abu-abu di tempat lain."
+        },
+        {
+          "english": "a bird with a red breast, red eyebrow and a red crown.",
+          "indo": "seekor burung dengan dada merah, alis merah dan mahkota merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0030_27255.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bird with brown and white feathers, and a red head.",
+          "indo": "seekor burung kecil dengan bulu berwarna coklat dan putih, dan kepala berwarna merah."
+        },
+        {
+          "english": "this bird has a distinctive red head and throat and chest and the rest of the body is brown and white.",
+          "indo": "burung ini memiliki ciri khas kepala, tenggorokan, dan dada berwarna merah, serta bagian tubuh lainnya berwarna coklat dan putih."
+        },
+        {
+          "english": "this medium-size bird has a bright red head and breast, while the rest of its body is brown with thin white stripes.",
+          "indo": "Burung berukuran sedang ini memiliki kepala dan dada berwarna merah cerah, sedangkan seluruh tubuhnya berwarna coklat dengan garis-garis putih tipis."
+        },
+        {
+          "english": "a bird with a red head and breast, the bill is short and pointed, with red, brown and grey belly.",
+          "indo": "burung dengan kepala dan dada berwarna merah, paruhnya pendek dan runcing, dengan perut berwarna merah, coklat dan abu-abu."
+        },
+        {
+          "english": "a red headed small bird with a brown body standing on a pole",
+          "indo": "seekor burung kecil berkepala merah dengan tubuh berwarna coklat berdiri di atas tiang"
+        },
+        {
+          "english": "this bird is red with brown and has a very short beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "this interesting bird has a red breast and crest with a short bill.",
+          "indo": "burung menarik ini memiliki dada dan jambul berwarna merah dengan paruh yang pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red head",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai kepala yang berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0031_28175.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "small bird with a short body with red feathers across its face and white and brown feathers along the body",
+          "indo": "burung kecil berbadan pendek dengan bulu berwarna merah di seluruh mukanya dan bulu berwarna putih coklat di sepanjang badan"
+        },
+        {
+          "english": "a small bird with a red & brown head and nape, with red and brown covering the rest of its body, the bill is short and pointed, and the head is small compared to the body.",
+          "indo": "burung kecil dengan kepala dan tengkuk berwarna merah & coklat, seluruh tubuhnya berwarna merah dan coklat, paruhnya pendek dan runcing, dan kepalanya kecil dibandingkan dengan badannya."
+        },
+        {
+          "english": "this bird has a red crown, a brown cheek patch, and a short bill",
+          "indo": "burung ini memiliki mahkota berwarna merah, pipi berwarna coklat, dan paruh pendek"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a red crown and breast with a slight curve to the beak and light brown spots along the side and belly.",
+          "indo": "burung ini memiliki mahkota dan dada berwarna merah dengan paruh agak melengkung serta bintik-bintik coklat muda di sepanjang sisi dan perutnya."
+        },
+        {
+          "english": "this bird is white and brown at the bottom of the belly and slowly turns into red at the top and in the crown.",
+          "indo": "burung ini berwarna putih kecokelatan pada bagian bawah perut dan perlahan berubah menjadi merah pada bagian atas dan ubun-ubun."
+        },
+        {
+          "english": "the bird has a red crown, spotted belly and tan back,",
+          "indo": "burung itu mempunyai mahkota berwarna merah, perut berbintik dan punggung berwarna coklat,"
+        },
+        {
+          "english": "miniature bird posessing red crown and throat with a blended white and black dotted side plus wings.",
+          "indo": "burung mini dengan mahkota dan tenggorokan berwarna merah dengan sisi bertitik berpadu putih dan hitam plus sayap."
+        },
+        {
+          "english": "this bird has a bright red crown and part breast coloration",
+          "indo": "burung ini mempunyai mahkota berwarna merah cerah dan warna sebagian dada"
+        },
+        {
+          "english": "this bird has a red crown and neck and a light colored body.",
+          "indo": "burung ini memiliki mahkota dan leher berwarna merah serta tubuh berwarna terang."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0032_27305.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "plump bird with red head feathers and brown and white body feathers",
+          "indo": "burung gempal dengan bulu kepala berwarna merah dan bulu badan berwarna coklat putih"
+        },
+        {
+          "english": "this is a bird with red, white and black throughout.",
+          "indo": "ini adalah burung dengan warna merah, putih dan hitam di seluruh bagiannya."
+        },
+        {
+          "english": "this songbird has brown wings, and red feathers on the head with a white belly.",
+          "indo": "burung penyanyi ini memiliki sayap berwarna coklat, dan bulu berwarna merah di kepala dengan perut berwarna putih."
+        },
+        {
+          "english": "this colorful bird has some bright red on it's body along with white.",
+          "indo": "burung berwarna-warni ini memiliki warna merah cerah di tubuhnya dan putih."
+        },
+        {
+          "english": "the bird has a white belly with brown and red striped wings and red head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap bergaris coklat dan merah serta kepala berwarna merah."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a red crown",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has brown feathers with a rosy edge on it's wings, a rosy head and throat that becomes white with rosy spots towards the belly ending in a white abdomen.",
+          "indo": "burung ini mempunyai bulu berwarna coklat dengan tepian kemerahan pada sayapnya, kepala berwarna kemerahan dan tenggorokan menjadi putih dengan bintik kemerahan di bagian perut berakhir dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird is red with brown and has a very short beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+        },
+        {
+          "english": "the brown feathers on the bird look to have an orange and red hue for the small billed bird.",
+          "indo": "bulu coklat pada burung terlihat memiliki rona oranye dan merah pada burung berparuh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0033_27926.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bird with a red crown and straight bill sits perched atop a branch",
+          "indo": "seekor burung kecil dengan mahkota merah dan paruh lurus duduk bertengger di atas dahan"
+        },
+        {
+          "english": "the small red covered bird has black feet and a white rump.",
+          "indo": "burung kecil berselimut merah memiliki kaki hitam dan pantat putih."
+        },
+        {
+          "english": "a small colorful bird with a red head,and a variety of reds speckled over its breast, belly and tarsus.",
+          "indo": "seekor burung kecil berwarna-warni dengan kepala merah, dan berbagai macam warna merah berbintik-bintik di dada, perut, dan tarsusnya."
+        },
+        {
+          "english": "this bird is red with brown on its belly and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan bagian perutnya berwarna coklat dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a short but wide and pointed bill, a light red and grey belly, and a dark burgundy colored head and wings.",
+          "indo": "burung ini memiliki paruh yang pendek namun lebar dan runcing, perut berwarna merah muda dan abu-abu, serta kepala dan sayap berwarna merah anggur tua."
+        },
+        {
+          "english": "a medium sized bird with a red crown, and a small bill",
+          "indo": "seekor burung berukuran sedang dengan mahkota merah, dan paruh kecil"
+        },
+        {
+          "english": "the bird has two black feet, as well as a dark gray pointed bill.",
+          "indo": "burung itu memiliki dua kaki berwarna hitam, serta paruh runcing berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird has wings that are red and has a brown belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai perut yang berwarna coklat"
+        },
+        {
+          "english": "this bird is red with brown and has a very short beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a pointed yellow beak, with a red head and back.",
+          "indo": "burung ini mempunyai paruh runcing berwarna kuning, dengan kepala dan punggung berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0035_27972.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bright red bird with brown wings, faded white belly, and bright red crown.",
+          "indo": "burung kecil berwarna merah cerah dengan sayap coklat, perut putih pudar, dan mahkota merah cerah."
+        },
+        {
+          "english": "the bird has a small bull that is peach and a red crown.",
+          "indo": "burung itu mempunyai banteng kecil berwarna persik dan mahkota berwarna merah."
+        },
+        {
+          "english": "bird has red head and breads belly and throat also has flat small beak with brownish rectrices and secondaries.",
+          "indo": "burung memiliki kepala berwarna merah dan perut roti serta tenggorokan juga memiliki paruh kecil pipih dengan rectrices  dan bulu sekunder berwarna kecoklatan."
+        },
+        {
+          "english": "small brown and red bird with short tarsus and short beak",
+          "indo": "burung kecil berwarna coklat dan merah dengan tarsus pendek dan paruh pendek"
+        },
+        {
+          "english": "this bird is red and white in color with a stubby beak, and red eye rings.",
+          "indo": "burung ini berwarna merah putih dengan paruh pendek, dan mata cincin berwarna merah."
+        },
+        {
+          "english": "small bird with a bright red crown, light red breast, brown wings and a short pointed bill",
+          "indo": "burung kecil dengan mahkota merah cerah, dada merah muda, sayap coklat dan paruh runcing pendek"
+        },
+        {
+          "english": "this bird has wings that are brown and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna merah"
+        },
+        {
+          "english": "this small bird has a rose colored breast and light brown wings.",
+          "indo": "burung kecil ini memiliki dada berwarna mawar dan sayap berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a yellow body, red throat and crown, and a small head.",
+          "indo": "burung ini memiliki tubuh berwarna kuning, tenggorokan dan mahkota berwarna merah, serta kepala kecil."
+        },
+        {
+          "english": "this bird has a brown color and a pointed bill.",
+          "indo": "burung ini mempunyai warna coklat dan paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0036_27641.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small bird has a larger beak with a small narrow cardinal red head, with streaks of black, golden brown and red on the wings, body is full and round with a shading of cardinal red to white from the side to the back.",
+          "indo": "burung kecil ini memiliki paruh lebih besar dengan kepala kecil sempit berwarna merah kardinal, dengan guratan warna hitam, coklat keemasan dan merah pada sayapnya, badannya penuh dan bulat dengan corak warna merah kardinal hingga putih dari samping hingga ke belakang."
+        },
+        {
+          "english": "small brown grey and red bird with medium length tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat abu-abu dan merah dengan tarsus panjang sedang dan paruh sedang"
+        },
+        {
+          "english": "this bird is red, with most of it concentrated on its head and has some brownish gray on its wings and tail.",
+          "indo": "burung ini berwarna merah, sebagian besar terkonsentrasi pada kepalanya dan memiliki sebagian warna abu-abu kecoklatan pada sayap dan ekornya."
+        },
+        {
+          "english": "a heavy built bird with a thick short bill and has a pink crown",
+          "indo": "burung bertubuh kekar dengan paruh pendek tebal dan mahkota berwarna merah muda"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is a color that is exactly in between red and pink and has brown wings.",
+          "indo": "burung ini memiliki warna yang persis antara merah dan merah jambu serta memiliki sayap berwarna coklat."
+        },
+        {
+          "english": "this is a small bird with a red head and abdomen. its back and wings are mottled in shades of brown/black. its beak is short and pointed and it has a longish tail.",
+          "indo": "ini adalah burung kecil dengan kepala dan perut berwarna merah. punggung dan sayapnya berbintik-bintik coklat/hitam. paruhnya pendek dan runcing serta ekornya agak gondrong."
+        },
+        {
+          "english": "this is a bright pink bird with gray wings and tail and a thick pointed beak.",
+          "indo": "ini adalah burung berwarna merah muda cerah dengan sayap dan ekor abu-abu serta paruh runcing yang tebal."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "this bird is pink and gray in color, and has a light colored beak.",
+          "indo": "burung ini berwarna merah muda dan abu-abu, serta memiliki paruh berwarna terang."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0043_28117.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a dull red headed bird with a white and red breast, with dark brown wings.",
+          "indo": "burung berkepala merah kusam dengan dada berwarna putih dan merah, dengan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this small bird has a short pointed beak, dark wings and a red and white body and head.",
+          "indo": "burung kecil ini memiliki paruh pendek dan runcing, sayap berwarna gelap, serta badan dan kepala berwarna merah putih."
+        },
+        {
+          "english": "the small bird is red with a red and white belly and a grey bill.",
+          "indo": "burung kecil berwarna merah dengan perut merah putih dan paruh abu-abu."
+        },
+        {
+          "english": "a small bird with a short grey bill and a red crown and throat.",
+          "indo": "seekor burung kecil dengan paruh pendek berwarna abu-abu dan mahkota serta tenggorokan berwarna merah."
+        },
+        {
+          "english": "a pale red bird with brown wings and a white belly and short fat beak.",
+          "indo": "burung berwarna merah pucat dengan sayap coklat dan perut putih serta paruh pendek gemuk."
+        },
+        {
+          "english": "this bird is pink with white and brown and has a very short beak.",
+          "indo": "burung ini berwarna merah jambu dengan warna putih dan coklat serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is red with brown and has a very short beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small bird with a red breast and brown feathers.",
+          "indo": "seekor burung kecil dengan dada merah dan bulu coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "this bird has a pink crown, maroon primaries, and a pink belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah muda, warna bulu primer merah marun, dan perut berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0046_27295.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird has a small bill and small eyering that is brown.",
+          "indo": "burung itu memiliki paruh kecil dan cincin mata kecil berwarna coklat."
+        },
+        {
+          "english": "this bird is red in color with a short stubby brown beak and spotted eye ring.",
+          "indo": "burung ini berwarna merah dengan paruh pendek pendek berwarna coklat dan cincin mata berbintik."
+        },
+        {
+          "english": "this bird is red with brown on its wings and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan warna coklat pada sayapnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a small pointy billed bird with red throughout the coat. the cheekpatch is a darker brown. the wing primary and secondaries have red and brown alternating through them. the tarsus is very slender with small feed",
+          "indo": "burung berparuh kecil dan runcing dengan warna merah di seluruh bulunya. penutup pipinya berwarna coklat tua. sayap bulu primer dan bulu sekunder memiliki warna merah dan coklat bergantian. tarsusnya sangat ramping dengan pakan yang sedikit"
+        },
+        {
+          "english": "a bird with small triangular bill, red crown, and faded pink belly.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, mahkota berwarna merah, dan perut berwarna merah muda pudar."
+        },
+        {
+          "english": "this bird has wings that are brown and red and has a small bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan merah serta mempunyai paruh yang kecil"
+        },
+        {
+          "english": "this birds feathers are black, red and brown, and its beak is brown.",
+          "indo": "bulu burung ini berwarna hitam, merah dan coklat, serta paruhnya berwarna coklat."
+        },
+        {
+          "english": "this bird is red and brown in color, with a stubby brown beak.",
+          "indo": "burung ini berwarna merah kecokelatan, dengan paruh gemuk berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red head",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai kepala yang berwarna merah"
+        },
+        {
+          "english": "this bird has a thick pointed bill, with a red back.",
+          "indo": "burung ini mempunyai paruh yang tebal dan runcing, dengan punggung berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0048_27670.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bird with a purple body, and a gray bill.",
+          "indo": "seekor burung kecil dengan tubuh berwarna ungu, dan paruh berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a red head and lighter red body, as well as a thick short beak.",
+          "indo": "burung ini memiliki kepala berwarna merah dan badan berwarna merah terang, serta paruh pendek yang tebal."
+        },
+        {
+          "english": "this bird is red with small spots of brown and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan bintik-bintik kecil berwarna coklat dan memiliki paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is mostly red with a lighter, cream color on its lower breast and belly, and a short, slightly hooked beak.",
+          "indo": "burung ini sebagian besar berwarna merah dengan warna krem ​​​​yang lebih terang pada dada dan perut bagian bawah, serta paruh yang pendek dan agak bengkok."
+        },
+        {
+          "english": "this is a small bird with red feathers on the top of the body and a short, sharp gray beak.",
+          "indo": "ini adalah burung kecil dengan bulu merah di bagian atas tubuhnya dan paruh pendek berwarna abu-abu tajam."
+        },
+        {
+          "english": "this bird has wings that are red and has a short stubby bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh yang pendek dan gemuk"
+        },
+        {
+          "english": "this bird has a rosy body, paler on the belly and flecked by grey with a conical bill.",
+          "indo": "Burung ini berbadan kemerahan, bagian perut lebih pucat dan berbintik abu-abu dengan paruh berbentuk kerucut."
+        },
+        {
+          "english": "a colorful bird with a pink head and neck, with a fading to brownish white belly and brown wings.",
+          "indo": "burung berwarna-warni dengan kepala dan leher berwarna merah muda, dengan perut putih kecoklatan dan sayap coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is white and red",
+          "indo": "burung ini memiliki perut yang berwarna putih dan merah"
+        },
+        {
+          "english": "a small bird with a dark red coloring and pointed beak.",
+          "indo": "seekor burung kecil dengan warna merah tua dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0049_27507.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small bird has a speckled body with small stripes on the wings and a short, thick beak.",
+          "indo": "burung kecil ini memiliki tubuh berbintik-bintik dengan garis-garis kecil pada sayapnya dan paruh yang pendek dan tebal."
+        },
+        {
+          "english": "this little bird has a gray and white speckled appearance with a short blunt bill.",
+          "indo": "Burung kecil ini berpenampilan berbintik-bintik berwarna abu-abu putih dengan paruh pendek yang tumpul."
+        },
+        {
+          "english": "a small bird with brown wings, and a small bill that curves downwards",
+          "indo": "burung kecil bersayap coklat, dan paruh kecil melengkung ke bawah"
+        },
+        {
+          "english": "a small brown bird with black markings and a brown beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan tanda hitam dan paruh berwarna coklat."
+        },
+        {
+          "english": "a small sized bird that has tones of brown and a short bill",
+          "indo": "burung berukuran kecil berwarna coklat dan paruh pendek"
+        },
+        {
+          "english": "this bird has wings that are brown with a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan perut berwarna putih"
+        },
+        {
+          "english": "the small tan crown and small bill on the bird with tiny breast and furry belly",
+          "indo": "mahkota kecil berwarna coklat dan paruh kecil pada burung dengan dada kecil dan perut berbulu"
+        },
+        {
+          "english": "this particular bird has a belly that is tan with brown spots on it",
+          "indo": "burung ini memiliki perut berwarna kecokelatan dengan bintik-bintik coklat di atasnya"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has a brown crown with a light brown and brown spotted side and pink feet.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat dengan sisi samping berwarna coklat muda dan coklat serta kaki berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0050_27702.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird has red and brown feathers and flat beak",
+          "indo": "burung ini memiliki bulu berwarna merah dan coklat serta paruh yang rata"
+        },
+        {
+          "english": "the bird has a red crown and a black eyering.",
+          "indo": "burung itu memiliki mahkota merah dan cincin mata hitam."
+        },
+        {
+          "english": "a smaller multicolored bird with a red breast and head, brown and black striped wing feathers, and a short curved bill.",
+          "indo": "burung kecil beraneka warna dengan dada dan kepala berwarna merah, bulu sayap bergaris coklat dan hitam, serta paruh pendek melengkung."
+        },
+        {
+          "english": "the bird has a brown tail, a red belly, breast and head, and a small white beak.",
+          "indo": "burung ini memiliki ekor berwarna coklat, perut berwarna merah, dada dan kepala, serta paruh kecil berwarna putih."
+        },
+        {
+          "english": "this bird has a red crown, a short bill, and a red breast",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh pendek, dan dada berwarna merah"
+        },
+        {
+          "english": "this tiny bird has a sandy colored beak that is short and pointed with a mixture of browns and reds covering the rest of its body.",
+          "indo": "Burung mungil ini memiliki paruh berwarna pasir yang pendek dan runcing dengan campuran warna coklat dan merah menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a bird with a red crown, short grey bill, red throat and breast.",
+          "indo": "burung bermahkota merah, paruh pendek berwarna abu-abu, tenggorokan dan dada berwarna merah."
+        },
+        {
+          "english": "this bird has a red crown and breast with a short beak and brown wings.",
+          "indo": "burung ini memiliki mahkota dan dada berwarna merah dengan paruh pendek dan sayap berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is red and white",
+          "indo": "burung ini memiliki perut yang berwarna merah dan putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a red head",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki kepala berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0053_27543.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird has a red breast and belly as well as a small bill.",
+          "indo": "burung tersebut memiliki dada dan perut berwarna merah serta paruh yang kecil."
+        },
+        {
+          "english": "this bird is red with black on its tail and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan ekor berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this little bird is has a pink belly and breast with light wingbars and dark secondaries.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna merah muda dengan garis sayap terang dan sayap bulu sekunder berwarna gelap."
+        },
+        {
+          "english": "this bird is red and brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna merah coklat dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is small, it has a crimson red on it's head, breast and belly, the main feathers are a dark red and almost black color.",
+          "indo": "burung ini berukuran kecil, mempunyai warna merah tua pada bagian kepala, dada dan perutnya, bulu utamanya berwarna merah tua hampir hitam."
+        },
+        {
+          "english": "this particular bird has a red body with darker red secondaries",
+          "indo": "burung ini memiliki tubuh berwarna merah dengan warna bulu sekunder berwarna merah tua"
+        },
+        {
+          "english": "this small bird has red black and grey coverts, yellow black and brown secondaries and a red throat and belly.",
+          "indo": "burung kecil ini memiliki bulu berwarna merah hitam dan abu-abu, bulu sekunder berwarna kuning hitam dan coklat serta tenggorokan dan perut berwarna merah."
+        },
+        {
+          "english": "the bird is red with brown and black feathers",
+          "indo": "burung itu berwarna merah dengan bulu coklat dan hitam"
+        },
+        {
+          "english": "this bird has a large red body with brown and black wings and a beak which is gray on top and blue on the bottom.",
+          "indo": "burung ini memiliki tubuh besar berwarna merah dengan sayap berwarna coklat dan hitam serta paruh berwarna abu-abu di bagian atas dan biru di bagian bawah."
+        },
+        {
+          "english": "this bird has a red crown, red primaries, and a red belly.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, bulu primer berwarna merah, dan perut berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0059_27966.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bird with a brown spotted side and belly, with a red head and breast.",
+          "indo": "seekor burung kecil dengan sisi dan perut berbintik coklat, dengan kepala dan dada berwarna merah."
+        },
+        {
+          "english": "a medium sized bird with a orange crown and a small bill that curves downwards",
+          "indo": "burung berukuran sedang dengan mahkota oranye dan paruh kecil melengkung ke bawah"
+        },
+        {
+          "english": "a small bird with a small red feather covered head and long tail feathers.",
+          "indo": "seekor burung kecil dengan kepala tertutup bulu kecil berwarna merah dan bulu ekor panjang."
+        },
+        {
+          "english": "this is a brown bird with white spots on its belly and a red head and breast.",
+          "indo": "ini adalah burung berwarna coklat dengan bintik-bintik putih di perutnya dan kepala serta dada berwarna merah."
+        },
+        {
+          "english": "a medium sized bird with a bill that curves downwards, and black eyes",
+          "indo": "burung berukuran sedang dengan paruh melengkung ke bawah, dan bermata hitam"
+        },
+        {
+          "english": "the firery color of the crown and throat of the bird is bright",
+          "indo": "warna mahkota dan tenggorokan burung yang berapi-api cerah"
+        },
+        {
+          "english": "this bird has a red head with the color extending to the upper breast, dark wings with light bars, and a tan and light colored splotchy belly.",
+          "indo": "Burung ini memiliki kepala berwarna merah dengan warna memanjang hingga dada bagian atas, sayap berwarna gelap dengan garis-garis terang, serta perut berwarna kecoklatan dan bercak-bercak terang."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a red head",
+          "indo": "burung ini memiliki sayap yang berwarna hitam putih dan memiliki kepala berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a red head",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai kepala yang berwarna merah"
+        },
+        {
+          "english": "bird has a rose color crown and throat, with rose on the center of it's breast, and a brown and ivory striped pattern to the rest of the body.",
+          "indo": "Burung ini memiliki mahkota dan tenggorokan berwarna mawar, dengan bunga mawar di bagian tengah dadanya, dan pola garis-garis coklat dan gading di seluruh tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0065_27473.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a georgous little bird with a very bright red crown.",
+          "indo": "seekor burung kecil yang cantik dengan mahkota berwarna merah cerah."
+        },
+        {
+          "english": "this bird has a red crown, a spotted red belly, and large feet.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, perut berbintik merah, dan kaki yang besar."
+        },
+        {
+          "english": "this is a colorful bird with grey and red wings and a red head.",
+          "indo": "ini adalah burung berwarna-warni dengan sayap abu-abu dan merah serta kepala merah."
+        },
+        {
+          "english": "a small sized bird that has tones of brow and red with a medium sized bill",
+          "indo": "burung berukuran kecil yang memiliki corak superciliary dan merah dengan paruh berukuran sedang"
+        },
+        {
+          "english": "this colorful bird has a red head, the bill is short and curved, with a with grey, red and brown covering the rest of its body.",
+          "indo": "Burung berwarna-warni ini memiliki kepala berwarna merah, paruh pendek dan melengkung, dengan warna abu-abu, merah dan coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and red and has a red crown",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan merah serta mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are red and black and has a short bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan hitam serta mempunyai paruh yang pendek"
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is very bright with red, pink, and grey feathers.",
+          "indo": "burung ini sangat cerah dengan bulu berwarna merah, merah muda, dan abu-abu."
+        },
+        {
+          "english": "a brilliantly colored bird, this species features a red head, with gray and brown tail feathers and a triangular shaped bill.",
+          "indo": "burung berwarna cerah, spesies ini memiliki kepala berwarna merah, bulu ekor berwarna abu-abu dan coklat serta paruh berbentuk segitiga."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0067_27431.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a red head and breast with brown wings.",
+          "indo": "burung ini memiliki kepala dan dada berwarna merah dengan sayap berwarna coklat."
+        },
+        {
+          "english": "smallish bird with a red head, breast and belly and the rest of the body is brown.",
+          "indo": "burung bertubuh kecil dengan kepala, dada dan perut berwarna merah dan seluruh tubuh berwarna coklat."
+        },
+        {
+          "english": "this small bird is red with a long brown tail.",
+          "indo": "burung kecil ini berwarna merah dengan ekor panjang berwarna coklat."
+        },
+        {
+          "english": "a medium sized bird that has tones of red and brown and a medium sized bill",
+          "indo": "burung berukuran sedang yang memiliki corak warna merah dan coklat serta paruh berukuran sedang"
+        },
+        {
+          "english": "a small bird with a flat bill, red head, throat and breast, brownish back, white abdomen and a long tail",
+          "indo": "burung kecil dengan paruh pipih, kepala, tenggorokan dan dada berwarna merah, punggung berwarna kecoklatan, perut berwarna putih dan ekor panjang"
+        },
+        {
+          "english": "this bird has a shock of scarlet red on its breast and crown, which accents its small brown beak and wings.",
+          "indo": "burung ini memiliki guratan warna merah tua pada bagian dada dan mahkotanya, yang menonjolkan paruh dan sayap kecil berwarna coklat."
+        },
+        {
+          "english": "this small bird has a bright red head, throat and belly with brown wings and white underfeathers.",
+          "indo": "burung kecil ini memiliki kepala, tenggorokan dan perut berwarna merah cerah dengan sayap berwarna coklat dan bulu bawah berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a rd belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang ke dua"
+        },
+        {
+          "english": "this small bird has a tuft of feathers on top of its head, a vibrantly red head and belly, and a conventionally pale yellow and brown back, tail, and wings.",
+          "indo": "burung kecil ini memiliki seberkas bulu di atas kepalanya, kepala dan perut berwarna merah cerah, serta punggung, ekor, dan sayap berwarna kuning pucat dan coklat."
+        },
+        {
+          "english": "this bird has a short pointed bill, with a red breast.",
+          "indo": "burung ini mempunyai paruh yang pendek dan runcing, dengan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0071_27443.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a red bird with a white belly and orange and black secondaries.",
+          "indo": "seekor burung merah dengan perut putih dan bulu sekunder berwarna oranye dan hitam."
+        },
+        {
+          "english": "bird with red and white breast stands on a branch while sporting a red crown",
+          "indo": "burung berdada merah putih berdiri di dahan sambil memakai mahkota merah"
+        },
+        {
+          "english": "the bird has a black eyering an a small bill that is yellow.",
+          "indo": "burung itu bermata hitam dan paruhnya kecil berwarna kuning."
+        },
+        {
+          "english": "powerful short beak suited for seeds with deep scarlet crown faded in mottled pattern to orange/pink on light tan body.",
+          "indo": "paruh pendek yang kuat cocok untuk benih dengan mahkota berwarna merah tua memudar dalam pola belang-belang menjadi oranye/merah muda pada tubuh berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a white belly, pink breast and crown, with a brown wing and short pointy bill.",
+          "indo": "burung ini memiliki perut berwarna putih, dada dan mahkota berwarna merah muda, dengan sayap berwarna coklat dan paruh pendek yang runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red chest and body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat serta mempunyai dada dan badan yang berwarna merah"
+        },
+        {
+          "english": "this bird is white and pink in color, with a stubby beak.",
+          "indo": "burung ini berwarna putih dan merah jambu, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this bird has a beige belly, red throat, a very small bill, and a red crown.",
+          "indo": "burung ini memiliki perut berwarna krem, tenggorokan berwarna merah, paruh yang sangat kecil, dan mahkota berwarna merah."
+        },
+        {
+          "english": "this bird has a red breast, with a red and white belly.",
+          "indo": "burung ini memiliki dada berwarna merah, dengan perut berwarna merah dan putih."
+        },
+        {
+          "english": "red head and back, short bill, red breast, sides and flanks, long tarsus, white undertail coverts",
+          "indo": "kepala dan punggung merah, paruh pendek, dada merah, samping dan panggul, tarsus panjang, bulu penutup ekor bawah putih"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0074_28101.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "birds beek is short and it is tan head is orange,wings are tan an dwhite feet are short.",
+          "indo": "paruh burung pendek dan kepala berwarna coklat jingga, sayap berwarna coklat dan kaki putih pendek."
+        },
+        {
+          "english": "bird has red feathers on the chest and brown feathers on the wings",
+          "indo": "Burung ini memiliki bulu berwarna merah pada bagian dada dan bulu berwarna coklat pada sayapnya"
+        },
+        {
+          "english": "this gray and brown bird has a red breast and crown and a short but thick beak.",
+          "indo": "burung berwarna abu-abu coklat ini memiliki dada dan mahkota berwarna merah serta paruh yang pendek namun tebal."
+        },
+        {
+          "english": "this bird has a speckled belly, pink breast and crown with a brown wing and white wingbars.",
+          "indo": "burung ini memiliki perut berbintik, dada berwarna merah muda dan mahkota dengan sayap berwarna coklat dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this small bird is white and brown with a red breast",
+          "indo": "burung kecil ini berwarna putih coklat dengan dada berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are back and white and has a red chest",
+          "indo": "burung ini mempunyai sayap yang punggung berwarna putih dan mempunyai dada berwarna merah"
+        },
+        {
+          "english": "the spike red crown with red breast and white spects of brown on belly of bird",
+          "indo": "mahkota berduri merah dengan dada merah dan bintik putih coklat di perut burung"
+        },
+        {
+          "english": "this particular bird has a belly that is white with brown spots and red on the throat",
+          "indo": "Burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik coklat dan merah pada bagian tenggorokannya"
+        },
+        {
+          "english": "this particular bird has a belly that is white and red",
+          "indo": "burung ini memiliki perut yang berwarna putih dan merah"
+        },
+        {
+          "english": "this bird has a red crown, brown primaries, and a red breast.",
+          "indo": "burung ini memiliki mahkota berwarna merah, bulu primer berwarna coklat, dan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0076_27441.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "small bird with pale pink and white stripes on her underside, pink crown, with small white spots, black secondaries wings and tail feather, black eyes,gray bil.",
+          "indo": "burung kecil dengan garis-garis merah muda pucat dan putih di bagian bawah, mahkota merah muda, dengan bintik-bintik putih kecil, sayap bulu sekunder hitam dan bulu ekor, mata hitam, bil abu-abu."
+        },
+        {
+          "english": "a small \"v\" taled bird with red on head fading down back into brown.",
+          "indo": "seekor burung kecil berkisah \"v\" dengan warna merah di kepala memudar kembali menjadi coklat."
+        },
+        {
+          "english": "this bird has a wide black bill, a brown cheek patch, and a purple red crown.",
+          "indo": "burung ini memiliki paruh lebar berwarna hitam, bercak pipi berwarna coklat, dan mahkota berwarna merah ungu."
+        },
+        {
+          "english": "this is a dark brown bird with a red crown and light tan breast.",
+          "indo": "ini adalah burung berwarna coklat tua dengan mahkota merah dan dada berwarna coklat muda."
+        },
+        {
+          "english": "this patterned bird is red, black and white over most of its body, with a red and white breast and belly, and a short tapered beak.",
+          "indo": "Burung bercorak ini sebagian besar tubuhnya berwarna merah, hitam dan putih, dengan dada dan perut berwarna merah putih, serta paruh pendek yang meruncing."
+        },
+        {
+          "english": "this is a small brown and gray bird with some pinkish brown on its breast and abdomen.",
+          "indo": "ini adalah burung kecil berwarna coklat dan abu-abu dengan sedikit coklat merah muda di dada dan perutnya."
+        },
+        {
+          "english": "this bird has a red crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna merah dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a pinkish red head, with orange and white striped breast and belly.",
+          "indo": "burung ini memiliki kepala berwarna merah kemerahan, dengan dada dan perut bergaris oranye dan putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a brown and red colroing",
+          "indo": "seekor burung kecil dengan warna coklat dan merah"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0079_27258.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird is red with short tarsus and a small triangular bill.",
+          "indo": "burung itu berwarna merah dengan tarsus pendek dan paruh kecil berbentuk segitiga."
+        },
+        {
+          "english": "this is a small red bird with black wings and a large beak.",
+          "indo": "ini adalah burung kecil berwarna merah dengan sayap hitam dan paruh besar."
+        },
+        {
+          "english": "this bird consist of elongated feathers that overshadow half the birds length.",
+          "indo": "burung ini terdiri dari bulu memanjang yang menaungi separuh panjang burung."
+        },
+        {
+          "english": "small brown red and grey bird with medium black tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat merah dan abu-abu dengan tarsus hitam sedang dan paruh sedang"
+        },
+        {
+          "english": "a bird that has colors of red, black, and grey and is overall small in size.",
+          "indo": "burung yang memiliki warna merah, hitam, dan abu-abu dan secara keseluruhan berukuran kecil."
+        },
+        {
+          "english": "this bird has wings that are black with a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan badan berwarna merah"
+        },
+        {
+          "english": "this bird has a red tone a white breast and grey and red wings and tail.",
+          "indo": "burung ini memiliki warna merah, dada berwarna putih, serta sayap dan ekor berwarna abu-abu dan merah."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this particular bird has a belly that is red and white",
+          "indo": "burung ini memiliki perut yang berwarna merah dan putih"
+        },
+        {
+          "english": "the bird has a red crown and a striped wingbar.",
+          "indo": "burung itu mempunyai mahkota berwarna merah dan garis sayap yang bergaris."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0081_27913.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this smaller bird has a pink breast and neck, with white wing bars and gray secondaries.",
+          "indo": "burung yang lebih kecil ini memiliki dada dan leher berwarna merah muda, dengan garis sayap putih dan sayap bulu sekunder berwarna abu-abu."
+        },
+        {
+          "english": "this bird is noted by its rose crown, breast, and belly, and one white wingbar.",
+          "indo": "burung ini terkenal dengan mahkota mawar, dada, dan perutnya, serta satu garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is red with brown on its wings and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan warna coklat pada sayapnya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a reddish-gray belly and head with black and gray striped wings.",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu kemerahan dan kepala dengan sayap bergaris hitam abu-abu."
+        },
+        {
+          "english": "this bird is red with brown and has a very short beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a red head and breast sparrow sitting on wheel",
+          "indo": "seekor burung pipit kepala dan dada merah duduk di atas roda"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and red",
+          "indo": "burung ini memiliki perut berwarna coklat dan merah"
+        },
+        {
+          "english": "this bird has a red crown and breast and grey wings with white wingbars.",
+          "indo": "burung ini mempunyai mahkota dan dada berwarna merah serta sayap berwarna abu-abu dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "the bird has reddish on it's crown and belly but the wingbars are tones of brown, black and white.",
+          "indo": "burung ini memiliki warna kemerahan pada mahkota dan perutnya, tetapi garis sayapnya berwarna coklat, hitam dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0082_27639.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small bird has a purplish red belly and crown, with a spotted brown body, and brown eyebrows.",
+          "indo": "Burung kecil ini mempunyai perut dan mahkota berwarna merah keunguan, badan berbintik coklat, dan alis coklat."
+        },
+        {
+          "english": "small brown grey and red bird with long tarsus and medium black beak",
+          "indo": "burung kecil berwarna coklat abu-abu dan merah dengan tarsus panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "the bird has a maroon colored breast and cheek patch with a brown crown on its head.",
+          "indo": "burung ini memiliki dada dan pipi berwarna merah marun dengan mahkota coklat di kepalanya."
+        },
+        {
+          "english": "this red and brown bird has a soft exterior and a bland, brown beak.",
+          "indo": "burung berwarna merah dan coklat ini memiliki bagian luar yang lembut dan paruh berwarna coklat yang lembut."
+        },
+        {
+          "english": "this bird has an orange face brownish gray wings with a short gray bill",
+          "indo": "burung ini mempunyai muka berwarna jingga, sayap berwarna abu-abu kecoklatan dengan paruh pendek berwarna abu-abu"
+        },
+        {
+          "english": "this little bird has a brown bill, red crown, throat and chest, brown and black primaries and secondaries.",
+          "indo": "burung kecil ini memiliki paruh berwarna coklat, mahkota merah, tenggorokan dan dada, bulu primer dan bulu sekunder berwarna coklat dan hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is white and red",
+          "indo": "burung ini memiliki perut yang berwarna putih dan merah"
+        },
+        {
+          "english": "a bird with a red breast and brown feathers and a white wingbar.",
+          "indo": "seekor burung dengan dada merah dan bulu coklat serta garis sayap berwarna putih."
+        },
+        {
+          "english": "the small bird has a red eye brown, a round dark colored eye, and black thighs.",
+          "indo": "Burung kecil itu mempunyai mata berwarna merah coklat, mata bulat berwarna gelap, dan paha berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown crown and a white upper wing bar in addition to coral red cheek patches and breast.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan garis sayap bagian atas berwarna putih serta bercak pipi dan dada berwarna merah koral."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0086_27637.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small stout billed perching bird has a scarlet red head, chest, and belly that transitions to a streaked pinkish brown abdomen and wings.",
+          "indo": "burung bertengger kecil dan berparuh kokoh ini memiliki kepala, dada, dan perut berwarna merah tua yang bertransisi ke perut dan sayap berwarna coklat kemerahan."
+        },
+        {
+          "english": "this bird is red and grey in color with a grey beak and red eye ring.",
+          "indo": "burung ini berwarna merah abu-abu dengan paruh abu-abu dan cincin mata berwarna merah."
+        },
+        {
+          "english": "this small red bird has dark wings and a short bill and gradually becomes less red as it moves downward toward the rectrices.",
+          "indo": "burung kecil berwarna merah ini memiliki sayap gelap dan paruh pendek dan lambat laun warnanya menjadi kurang merah saat bergerak ke bawah menuju rectrices ."
+        },
+        {
+          "english": "this bird has a pink belly and breast with a little pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berwarna merah muda dengan paruh agak runcing."
+        },
+        {
+          "english": "bird with pink crown, throat, breast, and gray inner and outer rectrices, and black eye",
+          "indo": "burung dengan mahkota merah muda, tenggorokan, dada, dan inner dan outer rectrices berwarna abu-abu, dan mata hitam"
+        },
+        {
+          "english": "the red crown on the bird with a red breast above the belly",
+          "indo": "mahkota merah pada burung dengan dada merah di atas perut"
+        },
+        {
+          "english": "a colorful bird with red head, face and breast, and grey, black and tan secondaries.",
+          "indo": "seekor burung berwarna-warni dengan kepala, wajah dan dada merah, dan bulu sekunder berwarna abu-abu, hitam dan coklat."
+        },
+        {
+          "english": "this bird has wings that are white and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna putih dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "this small bird has a red head and a curved beak.",
+          "indo": "burung kecil ini memiliki kepala berwarna merah dan paruh melengkung."
+        },
+        {
+          "english": "a small bird with a red head and breast and pointed beak.",
+          "indo": "seekor burung kecil dengan kepala dan dada berwarna merah serta paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0088_28076.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small brightly colored red bird, with a white speckled belly.",
+          "indo": "seekor burung kecil berwarna merah cerah, dengan perut berbintik putih."
+        },
+        {
+          "english": "this small bird has a red head and its body is a light red with light gray.",
+          "indo": "burung kecil ini memiliki kepala berwarna merah dan tubuhnya berwarna merah muda dengan abu-abu muda."
+        },
+        {
+          "english": "a small bird with a red crown and throat and a short tan bill.",
+          "indo": "seekor burung kecil dengan mahkota dan tenggorokan merah serta paruh pendek berwarna coklat."
+        },
+        {
+          "english": "a red bird with white and red breast with brown wings.",
+          "indo": "burung merah dengan dada putih dan merah dengan sayap coklat."
+        },
+        {
+          "english": "a distinctive red crown, with a red speckled white breast and nape.",
+          "indo": "mahkota berwarna merah yang khas, dengan dada dan tengkuk berwarna putih berbintik merah."
+        },
+        {
+          "english": "this bird is red with brown and white and has a very short beak.",
+          "indo": "burung ini berwarna merah coklat dan putih serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this particular bird has a belly that is white and red",
+          "indo": "burung ini memiliki perut yang berwarna putih dan merah"
+        },
+        {
+          "english": "this bird is pink, white, and brown in color, with a light brown beak.",
+          "indo": "burung ini berwarna merah jambu, putih, dan coklat, dengan paruh berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are red and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya berwarna putih"
+        },
+        {
+          "english": "a small bird with a red head and white belly.",
+          "indo": "seekor burung kecil dengan kepala merah dan perut putih."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0091_27425.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small, brown winged bird with a white breast and dull red head.",
+          "indo": "burung kecil bersayap coklat dengan dada putih dan kepala merah kusam."
+        },
+        {
+          "english": "a small bird with a small bill, and a red crown, and brown wings",
+          "indo": "seekor burung kecil dengan paruh kecil, dan mahkota merah, dan sayap coklat"
+        },
+        {
+          "english": "this is a bird with a white belly, brown wings and a red breast and head.",
+          "indo": "ini adalah burung dengan perut putih, sayap coklat dan dada serta kepala merah."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a bird with brown wings and a white belly with an iridescent red head.",
+          "indo": "seekor burung dengan sayap coklat dan perut putih dengan kepala merah berwarna-warni."
+        },
+        {
+          "english": "this small bird has a red head and breast, with a short, wide and sharp beak.",
+          "indo": "burung kecil ini mempunyai kepala dan dada berwarna merah, dengan paruh yang pendek, lebar dan tajam."
+        },
+        {
+          "english": "beautifully colored bird with a small bill, large feet and brown wingbars.",
+          "indo": "burung berwarna indah dengan paruh kecil, kaki besar, dan garis sayap berwarna coklat."
+        },
+        {
+          "english": "this small bird has a bright red crown and a light brown belly with dark bright wings.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah cerah dan perut berwarna coklat muda dengan sayap berwarna gelap terang."
+        },
+        {
+          "english": "this brown winged small fluffy belly bird has highlights of reddish pinkish color on its head to its lower neck area and a small beak with brown tarsus and feet.",
+          "indo": "Burung perut berbulu kecil bersayap coklat ini memiliki sentuhan warna warna merah muda kemerahan di kepala hingga leher bagian bawah dan paruh kecil dengan tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "a small brown bird, with a lighter shaded belly, and a thick pointed bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan perut berwarna lebih terang, dan paruh runcing yang tebal."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0092_27264.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small reddish bird has light pink legs, a pink and white speckled breast and belly and a red crown.",
+          "indo": "burung kecil berwarna kemerahan ini memiliki kaki berwarna merah muda muda, dada dan perut berbintik merah muda dan putih, serta mahkota berwarna merah."
+        },
+        {
+          "english": "this is a red and white bird with a pointed beak.",
+          "indo": "ini adalah burung berwarna merah putih dengan paruh runcing."
+        },
+        {
+          "english": "a vibrant red bird with a dark red head, white and red speckled belly and short, conical beak.",
+          "indo": "burung berwarna merah cerah dengan kepala merah tua, perut berbintik putih dan merah, serta paruh pendek berbentuk kerucut."
+        },
+        {
+          "english": "this bird has a red crown, a short brown bill, and a spotted breast and belly",
+          "indo": "burung ini memiliki mahkota berwarna merah, paruh pendek berwarna coklat, serta dada dan perut berbintik"
+        },
+        {
+          "english": "this is a red bird with a white belly and a grey beak.",
+          "indo": "ini adalah burung berwarna merah dengan perut putih dan paruh abu-abu."
+        },
+        {
+          "english": "small bird with a red and white body and a red crown.",
+          "indo": "burung kecil dengan tubuh merah putih dan mahkota merah."
+        },
+        {
+          "english": "this bird is small with a red head, tiny greyish beak, white body with reddish spots on the front and dark brown steaks on the wings.",
+          "indo": "burung ini berukuran kecil dengan kepala berwarna merah, paruh kecil berwarna keabu-abuan, badan berwarna putih dengan bintik kemerahan di bagian depan dan stik coklat tua pada sayap."
+        },
+        {
+          "english": "this small bird has a distinctive red head, with a red and white dappled chest and belly, and brown wings.",
+          "indo": "Burung kecil ini memiliki ciri khas kepala berwarna merah, dada dan perut berbintik merah putih, serta sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "a small red and white bird with spots, a long tail, striped wings, long legs, and a short pointy beak.",
+          "indo": "burung kecil berwarna merah putih bintik-bintik, ekor panjang, sayap bergaris, kaki panjang, dan paruh pendek runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0094_27323.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a bird has a dark red crown, a spotted red back, and a spotted red belly.",
+          "indo": "seekor burung mempunyai mahkota berwarna merah tua, punggung berbintik merah, dan perut merah berbintik."
+        },
+        {
+          "english": "the red and white dotted pattern that cover this bird's body provide a contrast to the dark brown wing bars.",
+          "indo": "Pola titik-titik merah putih yang menutupi tubuh burung ini memberikan kontras dengan garis sayap berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a red crown, a small bill, and a red spotted breast",
+          "indo": "burung ini mempunyai mahkota berwarna merah, paruh kecil, dan dada berbintik merah"
+        },
+        {
+          "english": "all red bird with spots of dark and white patches on primaries and rectrices, white abdomen a short bill.",
+          "indo": "burung semuanya berwarna merah dengan bercak-bercak hitam dan putih pada bagian bulu primer dan rectrices, bagian perut berwarna putih, paruh pendek."
+        },
+        {
+          "english": "this bird is mainly red, with shades of pink and also has black secondaries.",
+          "indo": "burung ini sebagian besar berwarna merah, dengan corak merah jambu dan juga memiliki warna bulu sekunder hitam."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a long slender reddish colored bird with a browner colored wing.",
+          "indo": "ini adalah burung panjang, ramping, berwarna kemerahan dengan sayap berwarna lebih coklat."
+        },
+        {
+          "english": "this bird has a white and red almost pinky belly, a red crown, and dark brown wings.",
+          "indo": "burung ini memiliki perut berwarna putih dan merah hampir merah jambu, mahkota berwarna merah, dan sayap berwarna coklat tua."
+        },
+        {
+          "english": "a red bird speckled with white and brown wings.",
+          "indo": "seekor burung merah berbintik-bintik dengan sayap putih dan coklat."
+        },
+        {
+          "english": "this bird is red and gray in color, and has a stubby beak.",
+          "indo": "burung ini berwarna merah dan abu-abu, serta mempunyai paruh yang gemuk."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0096_27688.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a bright red bird with dark coloration on its secondaries and tail.",
+          "indo": "burung berwarna merah cerah dengan warna gelap pada bagian bulu sekunder dan ekornya."
+        },
+        {
+          "english": "a red and grey mottled bird with spiky red crest feathers.",
+          "indo": "burung berbintik merah dan abu-abu dengan bulu jambul merah runcing."
+        },
+        {
+          "english": "this bird is red with black on its tail and has a very short beak.",
+          "indo": "burung ini berwarna merah dengan ekor berwarna hitam dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this is a red bird and a white bill and a brown outer rectrices",
+          "indo": "ini adalah burung merah dan paruh putih serta outer rectrices berwarna coklat"
+        },
+        {
+          "english": "this is a pink bird with gray wings and a pointy gray beak.",
+          "indo": "ini adalah burung berwarna merah muda dengan sayap abu-abu dan paruh abu-abu runcing."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mahkota berwarna merah"
+        },
+        {
+          "english": "red bird with grey tail feathers.",
+          "indo": "burung merah dengan bulu ekor abu-abu."
+        },
+        {
+          "english": "this bird has a pink crown as well as a pink belly",
+          "indo": "burung ini memiliki mahkota berwarna merah muda dan perut berwarna merah muda"
+        },
+        {
+          "english": "a medium sized bird with a red body and a silver beak.",
+          "indo": "seekor burung berukuran sedang dengan tubuh merah dan paruh berwarna perak."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0097_27288.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has white undertail coverts, a red crown and breast.",
+          "indo": "burung ini memiliki bulu ekor berwarna putih, mahkota dan dada berwarna merah."
+        },
+        {
+          "english": "this is a colorful bird boasting a coral red color strongest at head and fading towards tail.",
+          "indo": "ini adalah burung berwarna-warni dengan warna merah koral paling kuat di kepala dan memudar di bagian ekor."
+        },
+        {
+          "english": "this bird looks pink with some white patches throughout on the belly, and the wings are a pink with some brown.",
+          "indo": "burung ini tampak berwarna merah muda dengan beberapa bercak putih di seluruh bagian perutnya, dan sayapnya berwarna merah muda dengan sedikit warna coklat."
+        },
+        {
+          "english": "this is a small red looking bird with a thick bill.",
+          "indo": "ini adalah burung kecil berwarna merah dengan paruh tebal."
+        },
+        {
+          "english": "this bird is white and red in color with a tan beak, and red eye rings.",
+          "indo": "burung ini berwarna putih dan merah dengan paruh berwarna coklat, dan cincin mata berwarna merah."
+        },
+        {
+          "english": "this bird is red with white and has a very short beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a bird with a thick tan bill and red crown with red throat.",
+          "indo": "seekor burung dengan paruh tebal berwarna coklat dan mahkota merah dengan tenggorokan merah."
+        },
+        {
+          "english": "the bird has a peach back and a peach breast and belly.",
+          "indo": "burung itu memiliki punggung buah persik, dada serta perut buah persik."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "this bird has a pink crown, pink primaries, and a pink belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah muda, bulu primer berwarna merah muda, dan perut berwarna merah muda."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0098_27280.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird has brown beak, tarsus and feet, red throat, pink breast, and red crown.",
+          "indo": "burung ini memiliki paruh, tarsus dan kaki berwarna coklat, tenggorokan berwarna merah, dada berwarna merah muda, dan mahkota berwarna merah."
+        },
+        {
+          "english": "this bird has a crimson colors head and upper body that slowly transitions into a messy mixture of dark red, brown and black.",
+          "indo": "burung ini memiliki warna kepala dan tubuh bagian atas berwarna merah tua yang perlahan bertransisi menjadi campuran berantakan antara merah tua, coklat dan hitam."
+        },
+        {
+          "english": "this is a bird with a white belly, brown wing and a pink breast and head.",
+          "indo": "ini adalah burung dengan perut putih, sayap coklat dan dada serta kepala berwarna merah muda."
+        },
+        {
+          "english": "this bird is white and red in color with a brown beak, and dark eye rings.",
+          "indo": "burung ini berwarna putih dan merah dengan paruh berwarna coklat, dan lingkaran mata berwarna gelap."
+        },
+        {
+          "english": "this bird has a red color all over its body and a brown rectrices and covert.",
+          "indo": "burung ini mempunyai warna merah di sekujur tubuhnya dan rectrices berwarna coklat serta bulu penutup."
+        },
+        {
+          "english": "this bird has wings that are red and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird is white, black, and brown in color, with a brown beak.",
+          "indo": "burung ini berwarna putih, hitam, dan coklat, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "a small and petite bird, mostly red through the body, with brown near the tips of the wings, black eyes, and a touch of white on the underside.",
+          "indo": "burung kecil dan mungil, sebagian besar tubuhnya berwarna merah, dengan warna coklat di dekat ujung sayap, mata hitam, dan sedikit warna putih di bagian bawah."
+        },
+        {
+          "english": "red head and chest, and top of wings, white on bottom and brown and white on wings.",
+          "indo": "kepala dan dada berwarna merah, dan sayap bagian atas, putih di bagian bawah, dan sayap berwarna coklat dan putih."
+        },
+        {
+          "english": "a small brown bird, with a pointy bill, and a white abdomen.",
+          "indo": "burung kecil berwarna coklat, paruh runcing, dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0102_27308.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a bird with a short, snubbed bill, red corwn and eyebrow, and red and white breast.",
+          "indo": "burung dengan paruh pendek dan pesek, mahkota dan alis berwarna merah, serta dada berwarna merah putih."
+        },
+        {
+          "english": "the bird's head is bright red with a stripe of brown from the eyes that leads to its small wings.",
+          "indo": "kepala burung berwarna merah cerah dengan garis coklat dari mata yang mengarah ke sayap kecilnya."
+        },
+        {
+          "english": "this is a red bird with a white belly and a large beak.",
+          "indo": "ini adalah burung berwarna merah dengan perut putih dan paruh besar."
+        },
+        {
+          "english": "the bird has white and red belly and neck with dark wings and tail and a red head.",
+          "indo": "burung ini memiliki perut dan leher berwarna putih dan merah dengan sayap dan ekor berwarna gelap serta kepala berwarna merah."
+        },
+        {
+          "english": "this small bird is dusky read, orange, and yellow, fading into black at its secondaries and rectrices.",
+          "indo": "burung kecil ini berwarna kehitaman, oranye, dan kuning, memudar menjadi hitam pada bagian bulu sekunder dan rectrices ."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly and head",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat serta mempunyai perut dan kepala yang berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "a small red and white bird with short legs, a small tail, and a very short beak.",
+          "indo": "burung kecil berwarna merah putih dengan kaki pendek, ekor kecil, dan paruh sangat pendek."
+        },
+        {
+          "english": "small bird with a brown beak, tarsus, and feet, with a red crown and throat with a golden tan brown cheek patch.",
+          "indo": "burung kecil dengan paruh, tarsus, dan kaki berwarna coklat, dengan mahkota dan tenggorokan berwarna merah dengan bercak pipi coklat keemasan."
+        },
+        {
+          "english": "this bird has wings that are black and has a red crown",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0103_27461.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the reddish bird has a short beak that curves downward and a head that is proportionate to its body.",
+          "indo": "burung berwarna kemerahan memiliki paruh pendek yang melengkung ke bawah dan kepala yang proporsional dengan badannya."
+        },
+        {
+          "english": "a magenta colored beautiful small bird with brown spotted wings.",
+          "indo": "seekor burung kecil cantik berwarna magenta dengan sayap berbintik coklat."
+        },
+        {
+          "english": "a small brown bird with a red breast and crown and short black bill.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada dan mahkota merah serta paruh hitam pendek."
+        },
+        {
+          "english": "this bird has a pink speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik merah muda dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "small brown red and grey bird with medium pink tarsus and medium beak",
+          "indo": "burung kecil berwarna coklat merah dan abu-abu dengan tarsus merah muda sedang dan paruh sedang"
+        },
+        {
+          "english": "this small bird has a purplish-pink crown and breast with brown and white tail and brown cheeks.",
+          "indo": "Burung kecil ini mempunyai mahkota dan dada berwarna merah jambu keunguan dengan ekor berwarna coklat dan putih serta pipi berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna merah"
+        },
+        {
+          "english": "small reddish-purple bird with brown speckles.",
+          "indo": "burung kecil berwarna ungu kemerahan dengan bintik coklat."
+        },
+        {
+          "english": "this bird has a short but pointed bill, and is very red.",
+          "indo": "burung ini mempunyai paruh yang pendek namun runcing, dan berwarna sangat merah."
+        },
+        {
+          "english": "a small bird with a red spotted body, short legs, a long tail, a small head, and a curved beak.",
+          "indo": "burung kecil dengan badan berbintik merah, kaki pendek, ekor panjang, kepala kecil, dan paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0104_28088.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a bird with a ruffled red crown, small triangular bill, and red and white throat and belly.",
+          "indo": "burung dengan mahkota merah acak-acakan, paruh segitiga kecil, serta tenggorokan dan perut berwarna merah putih."
+        },
+        {
+          "english": "this is a colorful bird with white, black and red spots and a red head.",
+          "indo": "ini adalah burung berwarna-warni dengan bintik-bintik putih, hitam dan merah serta kepala merah."
+        },
+        {
+          "english": "this bird has red feathers on its head and a mixture of black and red feathers down the rest of its back.",
+          "indo": "burung ini memiliki bulu berwarna merah di kepalanya dan campuran bulu hitam dan merah di sisa punggungnya."
+        },
+        {
+          "english": "this bird has a red color on it's head, crown, nape with patches of black and brown on its wings.",
+          "indo": "Burung ini mempunyai warna merah pada kepala, ubun-ubun, tengkuknya dengan bercak hitam dan coklat pada sayapnya."
+        },
+        {
+          "english": "this is a small, red bird with white on the breast and black on the wingbars.",
+          "indo": "ini adalah burung kecil berwarna merah dengan warna putih di dada dan hitam di sayap."
+        },
+        {
+          "english": "a small brown bird, with white on its belly and abdomen, black secondaries, and a short bill.",
+          "indo": "burung kecil berwarna coklat, dengan warna putih pada perut dan abdomen, bulu sekunder berwarna hitam, dan paruh pendek."
+        },
+        {
+          "english": "colorful bird with a red head, and brown and black tail feathers, it's chest is white.",
+          "indo": "burung berwarna-warni, kepala berwarna merah, bulu ekor berwarna coklat dan hitam, dada berwarna putih."
+        },
+        {
+          "english": "this bird is red, black, and white in color, with a stubby black beak.",
+          "indo": "burung ini berwarna merah, hitam, dan putih, dengan paruh gemuk berwarna hitam."
+        },
+        {
+          "english": "small bird with a red crown, superciliary and a burgundy cheek patch that has wings and tail feathers that are black and brown.",
+          "indo": "burung kecil dengan mahkota berwarna merah, superciliary dan pipi berwarna merah anggur yang memiliki sayap dan bulu ekor yang berwarna hitam dan coklat."
+        },
+        {
+          "english": "this bird has a short pointed beak, with a red colored head and black tipped wings.",
+          "indo": "burung ini mempunyai paruh yang pendek dan runcing, dengan kepala berwarna merah dan sayap berujung hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0106_27607.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has strong bill and a striking red crown, with red on its throat that fades out across its breast and side.",
+          "indo": "burung ini memiliki paruh yang kuat dan mahkota berwarna merah mencolok, dengan warna merah di tenggorokannya yang memudar di bagian dada dan sampingnya."
+        },
+        {
+          "english": "this is a small bird, with a small beak and multiple shades of pink with some dark colors on its wings.",
+          "indo": "ini adalah burung kecil, dengan paruh kecil dan berbagai warna merah jambu dengan beberapa warna gelap di sayapnya."
+        },
+        {
+          "english": "this is a bird with a white belly and a red breast and head.",
+          "indo": "ini adalah burung dengan perut putih dan dada serta kepala merah."
+        },
+        {
+          "english": "this small bird has red coloring from its head extending down onto the throat and chest.",
+          "indo": "burung kecil ini mempunyai warna merah mulai dari kepalanya hingga ke tenggorokan dan dada."
+        },
+        {
+          "english": "a bird with a red crown fading to a white belly and a brown back with black feet.",
+          "indo": "seekor burung dengan mahkota merah memudar menjadi perut putih dan punggung coklat dengan kaki hitam."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a red chest and head",
+          "indo": "burung ini memiliki bulu yang berwarna coklat serta memiliki dada dan kepala berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and brown and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam kecokelatan serta mempunyai dada yang berwarna merah"
+        },
+        {
+          "english": "this bird has red graduated into white and brown from its front to its back.",
+          "indo": "burung ini mempunyai corak warna merah menjadi putih dan coklat dari depan hingga belakangnya."
+        },
+        {
+          "english": "the bill of the bird is short, rounded and pointed at the tip, in addition the bill is a combination of black, brown, and white tones.",
+          "indo": "paruh burung ini pendek, membulat dan ujungnya runcing, selain itu paruhnya merupakan kombinasi warna hitam, coklat, dan putih."
+        },
+        {
+          "english": "this bird has a pointed bill, with a red breast.",
+          "indo": "burung ini mempunyai paruh yang runcing, dengan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0108_28143.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a wide, short, and pointed beak and it's head is a dark red and it's body and wings are brown with some maroon colors in it.",
+          "indo": "burung ini mempunyai paruh yang lebar, pendek, dan runcing, kepalanya berwarna merah tua, badan dan sayapnya berwarna coklat dengan beberapa warna merah marun."
+        },
+        {
+          "english": "this little bird has a pink crown and nape, with a short blunt bill.",
+          "indo": "burung kecil ini memiliki mahkota dan tengkuk berwarna merah muda, dengan paruh pendek yang tumpul."
+        },
+        {
+          "english": "there is a red bird with black beady eyes and dark edged feather sitting on a branch.",
+          "indo": "ada seekor burung merah dengan mata manik-manik hitam dan bulu bermata gelap duduk di dahan."
+        },
+        {
+          "english": "this small red bird has a medium sized pointy beak with brown and black secondaries.",
+          "indo": "Burung kecil berwarna merah ini memiliki paruh runcing berukuran sedang dengan paruh bulu sekunder berwarna coklat dan hitam."
+        },
+        {
+          "english": "a beautiful bird with a red nape, light brown beak and brown rectrices  feathers.",
+          "indo": "burung cantik dengan tengkuk berwarna merah, paruh berwarna coklat muda dan bulu rectrices  berwarna coklat."
+        },
+        {
+          "english": "a beautiful small red bird with bright red crown, brown/red wings and black eyes.",
+          "indo": "burung kecil berwarna merah cantik dengan mahkota merah cerah, sayap coklat/merah dan mata hitam."
+        },
+        {
+          "english": "this red-crowned bird with a shorter but pointy beak has gray primaries and rectrices with redder secondaries and a white abdomen.",
+          "indo": "burung bermahkota merah dengan paruh lebih pendek namun runcing ini memiliki bagian bulu primer dan rectrices berwarna abu-abu dengan bagian bulu sekunder yang lebih merah dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a red crown and black and orange wings",
+          "indo": "burung ini memiliki mahkota berwarna merah dan sayap berwarna hitam oranye"
+        },
+        {
+          "english": "this bird has wings that are black and has a rd head",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai kepala yang banyak"
+        },
+        {
+          "english": "a bird with a brown and black wings, red crown and throat and the bill is short and pointed",
+          "indo": "burung dengan sayap berwarna coklat kehitaman, mahkota dan tenggorokan berwarna merah, serta paruh pendek dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0110_27750.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this small bird has a pink breast and crown, and has black primaries and secondaries.",
+          "indo": "burung kecil ini memiliki dada dan mahkota berwarna merah muda, serta memiliki warna bulu primer dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this is a bird with a brown back, red head and red breast.",
+          "indo": "ini adalah burung dengan punggung berwarna coklat, kepala merah dan dada merah."
+        },
+        {
+          "english": "this bird has a pink crown, a short bill, and a pair of brown feet",
+          "indo": "burung ini memiliki mahkota berwarna merah muda, paruh pendek, dan sepasang kaki berwarna coklat"
+        },
+        {
+          "english": "this is a small bird with red on the crown and breast and brown on the wingbars.",
+          "indo": "ini adalah burung kecil dengan warna merah di bagian ubun-ubun dan dada serta berwarna coklat di bagian sayapnya."
+        },
+        {
+          "english": "this bird has a pink head and chest with a brown cheek patch and a broad beak that comes to a point.",
+          "indo": "burung ini memiliki kepala dan dada berwarna merah muda dengan bercak pipi berwarna coklat dan paruh lebar yang runcing."
+        },
+        {
+          "english": "this bird has a small and stubby brown bill. the crown is a light red with darker spots of red throughout. the top of the breast is a light red which fades to a light brown towards the bottom.",
+          "indo": "burung ini memiliki paruh kecil dan gemuk berwarna coklat. mahkotanya berwarna merah terang dengan bintik-bintik merah yang lebih gelap di seluruh bagiannya. bagian atas dada berwarna merah muda yang memudar menjadi coklat muda di bagian bawah."
+        },
+        {
+          "english": "this bird is brown and red in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat dan merah, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird is red and brown in color, with a stubby beak.",
+          "indo": "burung ini berwarna merah coklat, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this bird is brown with red and has a very short beak.",
+          "indo": "burung ini berwarna coklat kemerahan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a small head, a large belly, short legs, a long striped tail and wings, and a short pointy beak.",
+          "indo": "burung ini mempunyai kepala kecil, perut besar, kaki pendek, ekor dan sayap bergaris panjang, serta paruh pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0111_27293.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird is red with a white abdomen and rump and a small pointed bill.",
+          "indo": "burung itu berwarna merah dengan perut dan pantat berwarna putih serta paruh kecil yang runcing."
+        },
+        {
+          "english": "this bird is black with red and has a very short beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has a pink head with a mohawk at the crown, pink going down its breast and down to its tail, white belly and gray wings.",
+          "indo": "burung ini memiliki kepala berwarna merah muda dengan mohawk di bagian ubun-ubun, warna merah muda di bagian dada hingga ke ekor, perut berwarna putih, dan sayap berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a speckled pink belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik merah muda dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "bird with gray beak, black eye, tarsus, feet and wings, white belly and abdomen, and pink throat",
+          "indo": "burung dengan paruh berwarna abu-abu, mata hitam, tarsus, kaki dan sayap, perut dan perut berwarna putih, serta tenggorokan berwarna merah muda"
+        },
+        {
+          "english": "a light grey bird, with black wings and crown, with a short bill.",
+          "indo": "burung berwarna abu-abu muda, dengan sayap dan mahkota hitam, dengan paruh pendek."
+        },
+        {
+          "english": "this bird has a red and white patterned breast with a white belly, brown wings and back, along with a red spiculated crown, and a sharp, pointed, beak.",
+          "indo": "burung ini mempunyai dada bercorak merah putih dengan perut putih, sayap dan punggung berwarna coklat, mahkota berbintik merah, dan paruh runcing."
+        },
+        {
+          "english": "this small bird has a bunch of red specks on its chest with dark brown wings.",
+          "indo": "burung kecil ini memiliki sekumpulan bintik merah di dadanya dengan sayap berwarna coklat tua."
+        },
+        {
+          "english": "this bird has a red crest and a short beak.",
+          "indo": "burung ini mempunyai jambul berwarna merah dan paruh yang pendek."
+        },
+        {
+          "english": "this bird has a red crown that bleeds down to its breast with a white underbelly, its wings and tail are black.",
+          "indo": "burung ini mempunyai mahkota berwarna merah yang memanjang sampai ke dadanya dengan perut bagian bawah berwarna putih, sayap dan ekornya berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0113_27547.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this colorful bird has red wingbars which carry through to the belly and breast, red and black coverts and secondaries, and also has a variegated red crown with black eyerings.",
+          "indo": "burung berwarna-warni ini memiliki garis sayap berwarna merah yang memanjang hingga ke perut dan dada, bulu penutup dan bulu sekunder berwarna merah dan hitam, dan juga memiliki mahkota merah beraneka ragam dengan cincin mata hitam."
+        },
+        {
+          "english": "this colorful bird has a red crown, neck, and tail, with orange and brown wings, an orange bill and orange feet.",
+          "indo": "burung berwarna-warni ini memiliki mahkota, leher, dan ekor berwarna merah, dengan sayap berwarna oranye dan coklat, paruh berwarna oranye, dan kaki berwarna oranye."
+        },
+        {
+          "english": "this small, colorful bird has black and red wings, a white belly, a light red chest and a red crown and throat with black eyering.",
+          "indo": "burung kecil berwarna-warni ini memiliki sayap hitam dan merah, perut putih, dada merah muda, dan mahkota serta tenggorokan merah dengan cincin mata hitam."
+        },
+        {
+          "english": "this bird has a red crown, a spotted light red breast, and a short bill",
+          "indo": "burung ini mempunyai mahkota berwarna merah, dada berbintik merah muda, dan paruh pendek"
+        },
+        {
+          "english": "this bird has a speckled pink belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik merah muda dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small colorful bird with red feathers predominantly covering it, except for its white vent, and red and black secondaries.",
+          "indo": "burung kecil berwarna-warni dengan bulu sebagian besar menutupinya, kecuali lubang putihnya, dan bulu sekundernya berwarna merah dan hitam."
+        },
+        {
+          "english": "this bird has a light red crown and throat with black orange and red striped wings.",
+          "indo": "burung ini memiliki mahkota dan tenggorokan berwarna merah muda dengan sayap bergaris hitam oranye dan merah."
+        },
+        {
+          "english": "this is a bright pink bird with a white abdomen and a gray pointed beak.",
+          "indo": "ini adalah burung berwarna merah muda cerah dengan perut putih dan paruh runcing abu-abu."
+        },
+        {
+          "english": "this bird is pink, white, and black in color, with a small beak.",
+          "indo": "burung ini berwarna merah muda, putih, dan hitam, dengan paruh kecil."
+        },
+        {
+          "english": "this bird has a pointed thick bill, with a red breast.",
+          "indo": "burung ini mempunyai paruh yang runcing dan tebal, dengan dada berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0114_27837.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "plump bird with red feathers on their head and brown body feathers",
+          "indo": "burung gempal dengan bulu merah di kepala dan bulu badan berwarna coklat"
+        },
+        {
+          "english": "bird has a short stout bill with crown and throat covered in red",
+          "indo": "burung ini mempunyai paruh yang pendek dan gagah dengan mahkota dan tenggorokan yang ditutupi warna merah"
+        },
+        {
+          "english": "a brown and orange bird with small feet and a orange crown",
+          "indo": "burung berwarna coklat dan oranye dengan kaki kecil dan mahkota oranye"
+        },
+        {
+          "english": "this bird is brown and red in color with a black beak, and dark eye rings.",
+          "indo": "burung ini berwarna coklat dan merah dengan paruh berwarna hitam, dan lingkaran mata berwarna gelap."
+        },
+        {
+          "english": "a plump brown and red bird with a short bill",
+          "indo": "burung gempal berwarna coklat dan merah dengan paruh pendek"
+        },
+        {
+          "english": "this bird has wings that are red and brown and has a thick bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan coklat serta mempunyai paruh yang tebal"
+        },
+        {
+          "english": "this bird is red, white, and brown in color, with a stubby beak.",
+          "indo": "burung ini berwarna merah, putih, dan coklat, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this bird is brown with red and has a very short beak.",
+          "indo": "burung ini berwarna coklat kemerahan dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this thick billed bird has a red head, with a dusting of red in the gray wings and body.",
+          "indo": "burung berparuh tebal ini memiliki kepala berwarna merah, dengan taburan warna merah pada sayap dan badannya yang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a red head and a brown and red spotted body.",
+          "indo": "burung ini memiliki kepala berwarna merah dan tubuh berbintik coklat dan merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0115_28190.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the pink bird has a speckled pattern and a large pink beak",
+          "indo": "burung berwarna merah muda memiliki pola berbintik-bintik dan paruh besar berwarna merah muda"
+        },
+        {
+          "english": "this bird is pink in color and the pink gets darker near its thick beak.",
+          "indo": "burung ini berwarna merah jambu dan warna merah jambu semakin gelap di dekat paruhnya yang tebal."
+        },
+        {
+          "english": "this bird has a short pink bill, a red crown, and a pink throat.",
+          "indo": "burung ini memiliki paruh pendek berwarna merah muda, mahkota berwarna merah, dan tenggorokan berwarna merah muda."
+        },
+        {
+          "english": "this bird has a red crown, light red breast and the abdomen fades into a light pink and then vent goes white.",
+          "indo": "burung ini mempunyai mahkota berwarna merah, dada berwarna merah muda dan bagian perut memudar menjadi merah muda muda dan kemudian lubang kloaka menjadi putih."
+        },
+        {
+          "english": "red, pink bird that looks naked with a large beak.",
+          "indo": "burung berwarna merah jambu yang tampak telanjang dengan paruh besar."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are red and has a red body",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai badan yang berwarna merah"
+        },
+        {
+          "english": "a proportionately shaped smaller red bird with grey tail feathers and a very pointed beak.",
+          "indo": "burung merah kecil berbentuk proporsional dengan bulu ekor abu-abu dan paruh sangat runcing."
+        },
+        {
+          "english": "this bird has a bright pink crown with a tan bill and light pink belly.",
+          "indo": "burung ini memiliki mahkota berwarna merah muda cerah dengan paruh berwarna coklat dan perut berwarna merah muda terang."
+        },
+        {
+          "english": "a small bird with a red coloring.",
+          "indo": "seekor burung kecil dengan warna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0117_27427.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a beautiful bright red color on the upper part of the bird, fades into less intriguing colors towards the bottom half.",
+          "indo": "warna merah cerah yang indah di bagian atas burung, memudar menjadi warna yang kurang menarik di bagian bawah."
+        },
+        {
+          "english": "a half red, half brown bird that is small and round and has black appendages.",
+          "indo": "burung setengah merah, setengah coklat yang berukuran kecil dan bulat serta memiliki pelengkap berwarna hitam."
+        },
+        {
+          "english": "a small brightly colored bird with a red head, throat and red and grey speckled belly.",
+          "indo": "seekor burung kecil berwarna cerah dengan kepala merah, tenggorokan dan perut berbintik merah dan abu-abu."
+        },
+        {
+          "english": "bird with brown beak, tarsus and feet, and brown wings with two white wingbars, red throat, and red and brown crown",
+          "indo": "burung dengan paruh, tarsus dan kaki berwarna coklat, serta sayap berwarna coklat dengan dua garis sayap berwarna putih, tenggorokan berwarna merah, serta mahkota berwarna merah dan coklat"
+        },
+        {
+          "english": "a small bird with red and brown feathers and a dark beak.",
+          "indo": "seekor burung kecil dengan bulu berwarna merah dan coklat serta paruh berwarna gelap."
+        },
+        {
+          "english": "this bird is red and black and has a very short beak.",
+          "indo": "burung ini berwarna merah dan hitam serta mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a red chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada yang berwarna merah"
+        },
+        {
+          "english": "this bird has a grayish brown belly, a very red throat, and a red crown.",
+          "indo": "burung ini memiliki perut berwarna coklat keabu-abuan, tenggorokan sangat merah, dan mahkota berwarna merah."
+        },
+        {
+          "english": "a bird with a red head and breast and darker feathers on its wings.",
+          "indo": "seekor burung dengan kepala dan dada berwarna merah dan bulu-bulu yang lebih gelap di sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0118_27604.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this is a light red bird with a strong, broad, sharp brown bill.",
+          "indo": "ini adalah burung berwarna merah muda dengan paruh coklat yang kuat, lebar, dan tajam."
+        },
+        {
+          "english": "a muted red and burgundy bird, brightest at the head and descending in tint until the wing and tail ends are dark gray.",
+          "indo": "burung berwarna merah dan merah anggur kalem, paling terang di bagian kepala dan warnanya menurun hingga sayap dan ujung ekor berwarna abu-abu tua."
+        },
+        {
+          "english": "this bird is red with white on its side and a tan beak.",
+          "indo": "burung ini berwarna merah dengan sisi putih dan paruh berwarna coklat."
+        },
+        {
+          "english": "the small bird has a vibrant shiny red head and body.",
+          "indo": "burung kecil ini memiliki kepala dan tubuh berwarna merah mengkilat."
+        },
+        {
+          "english": "a bird with a red crown and a lighter red belly.",
+          "indo": "seekor burung dengan mahkota merah dan perut merah terang."
+        },
+        {
+          "english": "this bird has wings that are red and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this bird has wings that are red and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "a small red bird with a darker red head and a touch of brown on wings.",
+          "indo": "seekor burung kecil berwarna merah dengan kepala berwarna merah tua dan sedikit warna coklat pada sayapnya."
+        },
+        {
+          "english": "this bird has wings that are red and has a yellow bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh berwarna kuning"
+        },
+        {
+          "english": "this short-billed little bird has a rosy red crown and breast and belly that is white shaded with rosy red.",
+          "indo": "Burung kecil berparuh pendek ini memiliki mahkota berwarna merah kemerahan, serta dada dan perut berwarna putih dengan warna merah kemerahan."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0119_27260.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a red breast and head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada dan kepala berwarna merah."
+        },
+        {
+          "english": "this bird is small and has an ombre red tone throughout its feathers and striped wings",
+          "indo": "burung ini berukuran kecil dan memiliki warna merah ombre di seluruh bulu dan sayapnya yang bergaris"
+        },
+        {
+          "english": "this is a bird with a white belly, red breast and head and a white beak.",
+          "indo": "ini adalah burung dengan perut putih, dada dan kepala merah, serta paruh putih."
+        },
+        {
+          "english": "this bird has black eyes, a wide pointed orange beak, and red feathers on its head that taper down to white and brown breast and tail feathers.",
+          "indo": "Burung ini bermata hitam, paruh lebar berwarna jingga, dan bulu di kepala berwarna merah yang meruncing hingga bulu dada dan ekor berwarna putih kecoklatan."
+        },
+        {
+          "english": "a bird with a small triangular bill, red head and a spotted pink belly.",
+          "indo": "burung dengan paruh kecil berbentuk segitiga, kepala merah, dan perut berbintik merah muda."
+        },
+        {
+          "english": "this bird has wings that are brown with a red head",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan kepala berwarna merah"
+        },
+        {
+          "english": "this bird has a red head that blends down into a white abdomen, with grey and yellow primary wings, and grey and white rectrices.",
+          "indo": "Burung ini memiliki kepala berwarna merah yang menyatu dengan perut berwarna putih, dengan sayap utama berwarna abu-abu dan kuning, serta rectrices  berwarna abu-abu dan putih."
+        },
+        {
+          "english": "bird has a red head with a medium-thick straight short and pointy beak, and its red feathers gradient to white on its belly and brown over its back and tail.",
+          "indo": "Burung ini memiliki kepala berwarna merah dengan paruh lurus, pendek, dan runcing dengan ketebalan sedang, bulunya berwarna merah gradasi menjadi putih di perutnya dan berwarna coklat di punggung dan ekornya."
+        },
+        {
+          "english": "this bird has a red head, with a red and white breast and reddish orange wings.",
+          "indo": "Burung ini mempunyai kepala berwarna merah, dada berwarna merah putih, dan sayap berwarna jingga kemerahan."
+        },
+        {
+          "english": "this bird appears to start off white on the lower part of it's body and then gradually get more red the farther up it's body.",
+          "indo": "burung ini tampak awalnya berwarna putih di bagian bawah tubuhnya dan kemudian semakin merah semakin jauh ke atas tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0120_27597.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the small bird has a small head, thick short beak, and reddish gray feathers.",
+          "indo": "burung kecil ini memiliki kepala kecil, paruh pendek tebal, dan bulu berwarna abu-abu kemerahan."
+        },
+        {
+          "english": "a medium sized bird with brown wings and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap berwarna coklat dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird has a red face, throat and breast, and grey and brown stripes along the rest of its body, except for its wings which are solid brown in color.",
+          "indo": "burung ini mempunyai muka, tenggorokan dan dada berwarna merah, serta garis-garis abu-abu dan coklat di sekujur tubuhnya, kecuali sayapnya yang berwarna coklat pekat."
+        },
+        {
+          "english": "this bird has a short gray bill and a long white tail.",
+          "indo": "burung ini memiliki paruh pendek berwarna abu-abu dan ekor panjang berwarna putih."
+        },
+        {
+          "english": "this bird has an ombre of burnt orange to grey from breast to tail.",
+          "indo": "burung ini memiliki ombre warna jingga gosong hingga abu-abu dari dada hingga ekor."
+        },
+        {
+          "english": "this bird has wings that are grey and has a red belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perutnya berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are grey and has a red chest",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan dada berwarna merah"
+        },
+        {
+          "english": "this is a gray bird with pink head, throat and breast.",
+          "indo": "ini adalah burung abu-abu dengan kepala, tenggorokan, dan dada berwarna merah muda."
+        },
+        {
+          "english": "this is a small gray bird with a pink head, throat and breast and a thick, pointed beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan kepala, tenggorokan dan dada berwarna merah muda serta paruh yang tebal dan runcing."
+        },
+        {
+          "english": "a small mainly grey bird with some red on its breast and head, it has a small pointed grey bill.",
+          "indo": "seekor burung kecil yang sebagian besar berwarna abu-abu dengan sedikit warna merah di dada dan kepalanya, ia memiliki paruh kecil berwarna abu-abu yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0124_27567.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small red toned bird with a grey beak.",
+          "indo": "seekor burung kecil berwarna merah dengan paruh abu-abu."
+        },
+        {
+          "english": "this colorful bird has a red crown adn throat with a black eye ring, and a white and pink belly.",
+          "indo": "burung berwarna-warni ini memiliki mahkota berwarna merah dan tenggorokan dengan cincin mata hitam, serta perut berwarna putih dan merah muda."
+        },
+        {
+          "english": "a small brown and white bird with a short, thick bill and a red crown.",
+          "indo": "seekor burung kecil berwarna coklat dan putih dengan paruh pendek dan tebal serta mahkota berwarna merah."
+        },
+        {
+          "english": "this is a small pink bird with a white breast and a pointy beak.",
+          "indo": "ini adalah burung kecil berwarna merah muda dengan dada putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has a short beak and strawberry colored feathers.",
+          "indo": "burung kecil ini memiliki paruh pendek dan bulu berwarna strawberry."
+        },
+        {
+          "english": "this bird is red with white and has a very short beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a red crown, short beak, light breast and light brown wings.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah, paruh pendek, dada berwarna terang, dan sayap berwarna coklat muda."
+        },
+        {
+          "english": "this bird is pink and brown in color, with a stubbybeak.",
+          "indo": "burung ini berwarna merah jambu dan coklat, dengan paruh yang gemuk."
+        },
+        {
+          "english": "this is a brown and white bird with some reddish tinge.",
+          "indo": "ini adalah burung berwarna coklat dan putih dengan sedikit semburat kemerahan."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0130_27555.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a brightly colored, red breasted bird with a superciliary and grey bill.",
+          "indo": "burung berwarna cerah, berdada merah dengan paruh superciliary dan abu-abu."
+        },
+        {
+          "english": "this tiny bird has red breast and superciliaries and a short curved bill.",
+          "indo": "burung mungil ini memiliki dada dan superciliary berwarna merah serta paruh pendek yang melengkung."
+        },
+        {
+          "english": "this is a bird with a pink breast, brown wings and a pink face.",
+          "indo": "ini adalah burung dengan dada merah muda, sayap coklat dan wajah merah muda."
+        },
+        {
+          "english": "this colorful bird has a red breast,throat, & superciliary, and white undertail coverts.",
+          "indo": "burung berwarna-warni ini memiliki dada, tenggorokan, & superciliary berwarna merah, dan bulu ekor berwarna putih."
+        },
+        {
+          "english": "this chubby bird has a small fat bill and a red belly.",
+          "indo": "burung gemuk ini memiliki paruh kecil yang gemuk dan perut berwarna merah."
+        },
+        {
+          "english": "this tiny bird has a gray backand tail, gray feet, and a bright red chest and face.",
+          "indo": "burung mungil ini memiliki punggung dan ekor berwarna abu-abu, kaki berwarna abu-abu, serta dada dan wajah berwarna merah cerah."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        },
+        {
+          "english": "this very small red bird has a short, wide bill, a red superciliary, and white to black wings.",
+          "indo": "burung berwarna merah yang sangat kecil ini memiliki paruh yang pendek dan lebar, superciliary berwarna merah, dan sayap berwarna putih hingga hitam."
+        },
+        {
+          "english": "a small round bird with a red belly and a silver small beak.",
+          "indo": "seekor burung bulat kecil dengan perut merah dan paruh kecil berwarna perak."
+        },
+        {
+          "english": "this bird has wings that are black and has a red belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0133_27928.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "the bird is brown and white with a redish tint, the head is redish and the beak is very short.",
+          "indo": "burungnya berwarna coklat putih dengan semburat kemerahan, kepalanya kemerahan dan paruhnya sangat pendek."
+        },
+        {
+          "english": "this little bird has a pink neck and crown, with brown and black primaries.",
+          "indo": "burung kecil ini memiliki leher dan mahkota berwarna merah muda, dengan warna bulu primer coklat dan hitam."
+        },
+        {
+          "english": "a small bird with a pink crown and many shades of pink all around.",
+          "indo": "seekor burung kecil dengan mahkota berwarna merah muda dan banyak corak merah jambu di sekelilingnya."
+        },
+        {
+          "english": "the bird has a reddish purple color all over it's body with streaks of brown and black too.",
+          "indo": "Burung ini mempunyai warna ungu kemerahan di sekujur tubuhnya dengan guratan coklat dan juga hitam."
+        },
+        {
+          "english": "a colorful bird with brown secondaries, a white and red speckled breast and white undertail coverts.",
+          "indo": "burung berwarna-warni dengan bulu sekunder berwarna coklat, dada berbintik putih dan merah, serta bulu ekor bawah berwarna putih."
+        },
+        {
+          "english": "the pink crown on the bird with a round belly",
+          "indo": "mahkota merah muda pada burung dengan perut bulat"
+        },
+        {
+          "english": "a medium sized bird that is dull red in appearance.",
+          "indo": "seekor burung berukuran sedang yang penampilannya berwarna merah kusam."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird is red with black and has a very short beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and a mix of pink and brown all over.",
+          "indo": "burungnya kecil dengan paruh runcing, dan seluruh bagiannya berwarna campuran merah jambu dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Purple_Finch_0134_27526.jpg",
+      "class_id": 34,
+      "captions": [
+        {
+          "english": "a small bird with a brown body and red head and throat.",
+          "indo": "seekor burung kecil dengan tubuh berwarna coklat dan kepala serta tenggorokan berwarna merah."
+        },
+        {
+          "english": "a small orange and reddish bird with a small beak.",
+          "indo": "burung kecil berwarna oranye dan kemerahan dengan paruh kecil."
+        },
+        {
+          "english": "a small light brownish-red bird with a red face, black eyes, and gray beak.",
+          "indo": "seekor burung kecil berwarna merah kecoklatan dengan wajah merah, mata hitam, dan paruh abu-abu."
+        },
+        {
+          "english": "this bird is a small, round bird with a short, stubby beak and a large underbelly, speckled with red tints and small dark beady eyes.",
+          "indo": "Burung ini merupakan burung kecil berbentuk bulat dengan paruh pendek gemuk dan perut besar, berbintik-bintik merah dan mata kecil seperti manik-manik berwarna gelap."
+        },
+        {
+          "english": "a plump looking bird with long feet and a stout, short bill",
+          "indo": "seekor burung yang tampak gempal dengan kaki panjang dan paruh pendek dan kekar"
+        },
+        {
+          "english": "this bird is light brown with a red fluffy crown and small triangular beak.",
+          "indo": "burung ini berwarna coklat muda dengan mahkota berbulu merah dan paruh kecil berbentuk segitiga."
+        },
+        {
+          "english": "a small and round bird with a blood stained head.",
+          "indo": "seekor burung kecil dan bulat dengan kepala berlumuran darah."
+        },
+        {
+          "english": "this bird has a small downward-curved beak and a body that is mixed with reddish-gray colors all over.",
+          "indo": "burung ini memiliki paruh kecil melengkung ke bawah dan tubuh bercampur warna abu-abu kemerahan di sekujur tubuhnya."
+        },
+        {
+          "english": "this small bird has a red crown, and light brown feathers.",
+          "indo": "burung kecil ini memiliki mahkota berwarna merah, dan bulu berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a light red check and dark red crown and striped brown and red rectrices.",
+          "indo": "burung ini mempunyai tanda centang berwarna merah muda dan mahkota berwarna merah tua serta garis rectrices  berwarna coklat dan merah."
+        }
+      ]
+    }
+  ]
+}

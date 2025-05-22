@@ -1,0 +1,2718 @@
+{
+  "dataset": [
+    {
+      "filename": "Brown_Thrasher_0001_155380.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small bird with a long bill, and a brown and white colored feathers.",
+          "indo": "seekor burung kecil dengan paruh yang panjang, dan bulu berwarna coklat dan putih."
+        },
+        {
+          "english": "a small bird with light brown wings and rectrices, white wingbars, and a long black bill.",
+          "indo": "seekor burung kecil dengan sayap dan rectrices berwarna coklat muda, garis sayap putih, dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is brown, white with a long bill",
+          "indo": "burungnya berwarna coklat, putih dengan paruh yang panjang"
+        },
+        {
+          "english": "this bird is brown and white in color with a long skinny beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh panjang kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird is beige, with a very unique orange colored set of wings.",
+          "indo": "burung ini berwarna krem, dengan rangkaian sayap berwarna oranye yang sangat unik."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a long skinny bill and a spotted belly.",
+          "indo": "burung itu mempunyai paruh panjang, kurus, dan perut berbintik."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a dark brown wings and tail and pointed beak.",
+          "indo": "seekor burung kecil dengan sayap dan ekor berwarna coklat tua serta paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0005_155176.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird has a black eyering and a small black bill.",
+          "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "the bird has a white covered throat, breast, belly, abdomen with lots of patches of dark brown almost black color.",
+          "indo": "burung ini mempunyai tenggorokan, dada, perut, perut yang tertutup warna putih dengan banyak bercak berwarna coklat tua hampir hitam."
+        },
+        {
+          "english": "this small brown bird had a white spotted chest and a straight beak.",
+          "indo": "burung kecil berwarna coklat ini memiliki dada berbintik putih dan paruh lurus."
+        },
+        {
+          "english": "this small bird is grey with a brown wing and grey body.",
+          "indo": "burung kecil ini berwarna abu-abu dengan sayap berwarna coklat dan tubuh berwarna abu-abu."
+        },
+        {
+          "english": "bird has brown head tan throat and tand and brown belly and breast wings are a rust brown and tail is the same color.",
+          "indo": "burung mempunyai kepala berwarna coklat, tenggorokan dan tan, serta perut dan sayap dada berwarna coklat, coklat karat dan ekor berwarna sama."
+        },
+        {
+          "english": "this particular bird has a white belly and breast and brown secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "a small brown bird with a long, pointed beak, light colored breast and belly barred with brown, and a reddish-brown back and tail.",
+          "indo": "burung kecil berwarna coklat dengan paruh panjang runcing, dada dan perut berwarna terang bergaris coklat, serta punggung dan ekor berwarna coklat kemerahan."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white with black patches",
+          "indo": "burung ini memiliki perut berwarna abu-abu putih dengan bercak hitam"
+        },
+        {
+          "english": "this bird has a pointed brown bill, with a brown back.",
+          "indo": "burung ini mempunyai paruh yang runcing berwarna coklat, dengan punggung berwarna coklat."
+        },
+        {
+          "english": "a bird with a long beak, brown head and wings with a white neck and belly.",
+          "indo": "burung dengan paruh panjang, kepala dan sayap berwarna coklat dengan leher dan perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0006_155106.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "small bird with long legs and a brown rump and tail feathers.",
+          "indo": "burung kecil berkaki panjang dan pantat serta bulu ekor berwarna coklat."
+        },
+        {
+          "english": "a brown bird with white spots on it's belly and a long tail",
+          "indo": "burung berwarna coklat dengan bintik-bintik putih di perutnya dan ekor yang panjang"
+        },
+        {
+          "english": "this is a bird with a white breast brown back and a small beak.",
+          "indo": "ini adalah burung dengan dada putih, punggung coklat dan paruh kecil."
+        },
+        {
+          "english": "this bird has a white belly, brown back and head with black spots and a yellow tail feather.",
+          "indo": "burung ini memiliki perut berwarna putih, punggung dan kepala berwarna coklat dengan bintik hitam serta bulu ekor berwarna kuning."
+        },
+        {
+          "english": "this bird is white and brown in color with a small beak, and black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with brown tail feathers, white and brown head with a white with brown speckled neck and body.",
+          "indo": "burung kecil dengan bulu ekor berwarna coklat, kepala berwarna putih coklat, leher dan badan berwarna putih berbintik coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird is white and black in color, and has a black beak.",
+          "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna hitam."
+        },
+        {
+          "english": "this small bird has a black and white mottled breast and long brown tail feather.",
+          "indo": "burung kecil ini memiliki dada berbintik hitam putih dan bulu ekor panjang berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0009_155221.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small brown and tan bird, with a white speckled breast.",
+          "indo": "seekor burung kecil berwarna coklat kecokelatan, dengan dada berbintik-bintik putih."
+        },
+        {
+          "english": "the bird has a brown colored covert, rectrices and crown, with a light yellow or almost white colored breast, abdomen and throat but these has patches of brown too.",
+          "indo": "burung ini memiliki bulu, rectrices dan mahkota berwarna coklat, dengan dada, perut dan tenggorokan berwarna kuning muda atau hampir putih tetapi juga memiliki bercak coklat."
+        },
+        {
+          "english": "a small brown bird with long tail feathers and a pointed beak.",
+          "indo": "burung kecil berwarna coklat dengan bulu ekor panjang dan paruh runcing."
+        },
+        {
+          "english": "this bird has a brown crown, a brown wing, and a spotted belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat, sayap berwarna coklat, dan perut berbintik"
+        },
+        {
+          "english": "this small bird has a reddish brown back with a white and brown spotted belly.",
+          "indo": "Burung kecil ini memiliki punggung berwarna coklat kemerahan dengan perut berbintik putih coklat."
+        },
+        {
+          "english": "a medium-small bird which has a brown stripe on it's head, a long dark beak, red-orange coverts and secondaries with white wingbars, and a long red-orange tail.",
+          "indo": "burung berukuran sedang yang memiliki garis coklat di kepalanya, paruh panjang berwarna gelap, bulu berwarna merah jingga dan sayap bulu sekunder dengan garis sayap putih, serta ekor panjang berwarna merah jingga."
+        },
+        {
+          "english": "a large brown bird with a creamy speckled breast and white wing bars.",
+          "indo": "seekor burung besar berwarna coklat dengan dada berbintik krem ​​​​dan garis sayap putih."
+        },
+        {
+          "english": "a small bird with a white chest and an average size head compared to the body.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dan ukuran kepala rata-rata dibandingkan dengan badannya."
+        },
+        {
+          "english": "this bird is brown with black and has a very short beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has white wingbars and a long tail feather.",
+          "indo": "burung kecil ini memiliki garis sayap berwarna putih dan bulu ekor yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0010_155231.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small, round bird with a brown back and a white breast with brown speckles.",
+          "indo": "burung kecil bulat dengan punggung berwarna coklat dan dada berwarna putih dengan bintik coklat."
+        },
+        {
+          "english": "the bird is small with a brown tail and back, the belly and breast is white with black spots and a pointed beak",
+          "indo": "burungnya kecil dengan ekor dan punggung berwarna coklat, perut dan dada berwarna putih dengan bintik hitam dan paruh runcing"
+        },
+        {
+          "english": "this little bird has a white with black speckled breast and belly, with a brown crown and back.",
+          "indo": "Burung kecil ini memiliki dada dan perut berwarna putih berbintik hitam, dengan mahkota dan punggung berwarna coklat."
+        },
+        {
+          "english": "a stout, brown bird with a speckled chest, a moderately long, pointy beak and bright, beady eyes.",
+          "indo": "seekor burung kekar berwarna coklat dengan dada berbintik-bintik, paruh agak panjang, runcing, dan mata cerah seperti manik-manik."
+        },
+        {
+          "english": "the red tinged bird has yellow eyes and a white and brown speckled belly.",
+          "indo": "burung berwarna merah memiliki mata kuning dan perut berbintik putih coklat."
+        },
+        {
+          "english": "this small plump bird has a light brown color to its wings and back, with a white breast speckled with brown, yellow eyes with a black pupil, and a dark slightly curved beak.",
+          "indo": "burung kecil gempal ini mempunyai warna coklat muda pada sayap dan punggungnya, dada berwarna putih berbintik coklat, mata kuning dengan pupil hitam, dan paruh berwarna gelap agak melengkung."
+        },
+        {
+          "english": "this is a bright brown bird with a long tail and small head, the eye is yellow and the beak is gray and pointed.",
+          "indo": "Ini adalah burung berwarna coklat cerah dengan ekor panjang dan kepala kecil, mata berwarna kuning dan paruh berwarna abu-abu dan runcing."
+        },
+        {
+          "english": "this is small mostly brown bird with brown and tan speckled breast medium sized pointed beak.",
+          "indo": "Ini adalah burung kecil yang sebagian besar berwarna coklat dengan dada berbintik coklat dan coklat, paruh runcing berukuran sedang."
+        },
+        {
+          "english": "a small brown and white spotted bird with a long tail, short wing, a small head, short legs, and a pointy beak.",
+          "indo": "burung kecil berbintik coklat putih dengan ekor panjang, sayap pendek, kepala kecil, kaki pendek, dan paruh runcing."
+        },
+        {
+          "english": "small brown/orange bird, with a white large round underbelly with brown spots, and yellow eyes.",
+          "indo": "burung kecil berwarna coklat/oranye, dengan perut bulat besar berwarna putih dengan bintik-bintik coklat, dan mata kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0011_155370.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a redish brown bird with light brown and black speckled underbelly.",
+          "indo": "burung berwarna coklat kemerahan dengan perut berwarna coklat muda dan berbintik hitam."
+        },
+        {
+          "english": "the bird has a red crown, yellow eyering and curved black bill.",
+          "indo": "burung ini memiliki mahkota berwarna merah, cincin mata kuning, dan paruh hitam melengkung."
+        },
+        {
+          "english": "a smaller bird with a long black bill and red crown through rectrices with a white and black throat belly and abdomen.",
+          "indo": "burung yang lebih kecil dengan paruh hitam panjang dan mahkota merah melalui rectrices dengan perut dan perut tenggorokan berwarna putih dan hitam."
+        },
+        {
+          "english": "rust colored crown, back, wings, and tail. white breast and belly, with dark brown spots throughout the breast.",
+          "indo": "mahkota, punggung, sayap, dan ekor berwarna karat. dada dan perut berwarna putih, dengan bercak coklat tua di seluruh dada."
+        },
+        {
+          "english": "this bird has a rust brown colored back and wing with black and white wingbars, as well as a black and white spotted breast and golden colored eyes.",
+          "indo": "burung ini memiliki punggung dan sayap berwarna coklat karat dengan garis sayap hitam putih, serta dada berbintik hitam putih dan mata berwarna emas."
+        },
+        {
+          "english": "this bird has a rusty, redish tan crown, nape, back, and rump with a white and black speckled breast.",
+          "indo": "burung ini memiliki mahkota, tengkuk, punggung, dan pantat berwarna coklat kemerahan, dengan dada berbintik-bintik putih dan hitam."
+        },
+        {
+          "english": "this bird has a yellow eye ring, red coverts, and red and white secondaries.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning, bulu berwarna merah, dan bulu sekunder berwarna merah putih."
+        },
+        {
+          "english": "the bird has a long dark bill, and a brown speckled body and wings.",
+          "indo": "burung itu memiliki paruh panjang berwarna gelap, serta tubuh dan sayap berbintik coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0012_155121.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a white belly with black spots and red feathers.",
+          "indo": "burung ini mempunyai perut berwarna putih dengan bintik hitam dan bulu berwarna merah."
+        },
+        {
+          "english": "this bird is mostly orange, with a cream-colored belly and breast streaked with orange and brown and yellow-orange eyes.",
+          "indo": "burung ini sebagian besar berwarna oranye, dengan perut dan dada berwarna krem ​​​​bergaris mata oranye dan coklat serta kuning-oranye."
+        },
+        {
+          "english": "brown sleek bird with spotted breast pattern as well has a long beak with bright yellow eyes.",
+          "indo": "burung ramping berwarna coklat dengan pola dada berbintik serta memiliki paruh panjang dengan mata kuning cerah."
+        },
+        {
+          "english": "a medium sized bird that has tones of brown with a pointed bill",
+          "indo": "burung berukuran sedang berwarna coklat dengan paruh runcing"
+        },
+        {
+          "english": "a brownish orange bird, orange eye, with a flat pointed tail and narrow black beak.",
+          "indo": "burung berwarna jingga kecoklatan, bermata jingga, ekor pipih runcing, dan paruh sempit berwarna hitam."
+        },
+        {
+          "english": "this fawn colored bird with a lighter breast has a long pointed beak and bright yellow eye.",
+          "indo": "Burung berwarna coklat kekuningan dengan dada lebih terang ini memiliki paruh panjang runcing dan mata kuning cerah."
+        },
+        {
+          "english": "this bird has wings that are brown and has yellow eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata kuning"
+        },
+        {
+          "english": "this is a small orange bird, with some brown stripes on its breast and wings.",
+          "indo": "ini adalah burung kecil berwarna oranye, dengan beberapa garis coklat di dada dan sayapnya."
+        },
+        {
+          "english": "a small orange bird with long narrow legs, a long tail, a small head, and a long beak that curves downward.",
+          "indo": "burung kecil berwarna jingga dengan kaki panjang dan sempit, ekor panjang, kepala kecil, dan paruh panjang melengkung ke bawah."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0013_155329.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a medium bird with black, white, brown, and grey feathers.",
+          "indo": "burung berukuran sedang dengan bulu hitam, putih, coklat, dan abu-abu."
+        },
+        {
+          "english": "the bird has a brown covert, nape, and rectrices, with the rest of its body in flesh color with brown patches.",
+          "indo": "burung ini memiliki bulu berwarna coklat, tengkuk, dan rectrices, dengan seluruh tubuhnya berwarna daging dengan bercak coklat."
+        },
+        {
+          "english": "a tiny bird with mostly light red fevers on its upper body, a light yellow and black striped under belly, and a light grey nape.",
+          "indo": "seekor burung kecil dengan sebagian besar demam berwarna merah muda di tubuh bagian atas, garis-garis kuning muda dan hitam di bawah perut, dan tengkuk abu-abu muda."
+        },
+        {
+          "english": "a small bird with a spotted breast and small bill.",
+          "indo": "seekor burung kecil dengan dada berbintik dan paruh kecil."
+        },
+        {
+          "english": "spotted brown and tan belly small bird, with white and black wingbar on brown back.",
+          "indo": "Burung kecil berperut coklat dan coklat berbintik, dengan garis sayap putih dan hitam di punggung coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has dark brown wings with a spotted belly and breast.",
+          "indo": "burung kecil ini memiliki sayap berwarna coklat tua dengan perut dan dada berbintik."
+        },
+        {
+          "english": "a brown bird with a white and brown speckled chest standing on the ground.",
+          "indo": "seekor burung coklat dengan dada berbintik putih dan coklat berdiri di tanah."
+        },
+        {
+          "english": "this bird has brown wings and rectrices and a breast and belly which are white with dark brown spots.",
+          "indo": "burung ini mempunyai sayap dan rectrices berwarna coklat serta dada dan perut berwarna putih dengan bintik-bintik coklat tua."
+        },
+        {
+          "english": "this bird has a brown v look on top of head and brown and white with some black on body.",
+          "indo": "burung ini mempunyai corak v berwarna coklat pada bagian atas kepalanya dan berwarna coklat putih dengan sedikit warna hitam pada badannya."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0014_155421.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the head of the bird is brown and its beak is brown and curved.",
+          "indo": "kepala burung berwarna coklat dan paruhnya berwarna coklat dan melengkung."
+        },
+        {
+          "english": "a brown bird with a speckled chest and beady yellow eyes.",
+          "indo": "seekor burung coklat dengan dada berbintik-bintik dan mata kuning seperti manik-manik."
+        },
+        {
+          "english": "this is a white bird with black spots and a long and pointy beak.",
+          "indo": "ini adalah burung berwarna putih dengan bintik hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this bird has a cream throat, breast, and belly with a few scattered black speckles and dashes, a mostly light brown head and wings, and a long, slightly curved beak.",
+          "indo": "burung ini memiliki tenggorokan, dada, dan perut berwarna krem ​​​​dengan sedikit bintik dan garis hitam tersebar, kepala dan sayap sebagian besar berwarna coklat muda, dan paruh panjang agak melengkung."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird is primarily light brown and the breast of the bird is cream colored with dark brown spots on the top half of the breast towards the head.",
+          "indo": "burung ini sebagian besar berwarna coklat muda dan dada burung berwarna krem ​​​​dengan bintik-bintik coklat tua di bagian atas dada ke arah kepala."
+        },
+        {
+          "english": "this bird has an orange eye ring, tan breast with brown speckles on it, and brown and orange inner and outer rectrices.",
+          "indo": "burung ini memiliki cincin mata berwarna oranye, dada berwarna cokelat dengan bintik-bintik coklat di atasnya, serta rectrices inner dan outer rectrices berwarna coklat dan oranye."
+        },
+        {
+          "english": "this medium sized bird has a belly which is mostly light yellow or brown and has black spots and a medium sized bill.",
+          "indo": "Burung berukuran sedang ini memiliki perut yang sebagian besar berwarna kuning muda atau coklat serta memiliki bintik hitam dan paruh berukuran sedang."
+        },
+        {
+          "english": "this bird has a long pointed black bill, with a black and white breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam runcing, dengan dada berwarna hitam putih."
+        },
+        {
+          "english": "a small bird black spots on the breast.",
+          "indo": "seekor burung kecil bercak hitam di dada."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0015_155165.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "plump bird with black and white spotted body feathers and a long beak",
+          "indo": "burung gempal dengan bulu badan berbintik hitam putih dan paruh panjang"
+        },
+        {
+          "english": "bird has brown body feathers, spotted breast feather, and long beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berbintik, dan paruh panjang"
+        },
+        {
+          "english": "this bird has a medium straight bill, a brown crown, and a white throat.",
+          "indo": "burung ini memiliki paruh lurus sedang, mahkota berwarna coklat, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this is a brown bird that has a beige belly that has black stripes.",
+          "indo": "ini adalah burung berwarna coklat yang memiliki perut berwarna krem ​​​​yang memiliki garis-garis hitam."
+        },
+        {
+          "english": "a small bird with an orange nape and a stripped brown and white abdomen.",
+          "indo": "seekor burung kecil dengan tengkuk oranye dan perut bergaris coklat dan putih."
+        },
+        {
+          "english": "this bird has wings that are brown with black and white underbelly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dengan perut bagian bawah berwarna hitam dan putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is white, black, and brown in color, with a skinny beak.",
+          "indo": "burung ini berwarna putih, hitam, dan coklat, dengan paruh yang kurus."
+        },
+        {
+          "english": "the bird has spotted belly, amber back and long bill.",
+          "indo": "burung itu memiliki perut berbintik, punggung kuning, dan paruh panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0019_155216.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird is mostly brown with speckles on its belly and breast.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan bintik-bintik di perut dan dadanya."
+        },
+        {
+          "english": "a petite colorful bird with long red wing and tail feathers, a yellow and black spotted under belly and a short flat bill.",
+          "indo": "burung mungil berwarna-warni dengan sayap dan bulu ekor panjang berwarna merah, bintik kuning dan hitam di bawah perut, serta paruh pendek dan rata."
+        },
+        {
+          "english": "this is a bird with a white spotted belly and a brown back.",
+          "indo": "ini adalah burung dengan perut berbintik putih dan punggung berwarna coklat."
+        },
+        {
+          "english": "small white grey black and brown bird with long tarsus and medium black beak",
+          "indo": "burung kecil berwarna putih abu-abu hitam coklat dengan tarsus panjang dan paruh hitam sedang"
+        },
+        {
+          "english": "this bird has a white and black spotted belly and a red back and head.",
+          "indo": "burung ini memiliki perut berbintik putih hitam serta punggung dan kepala berwarna merah."
+        },
+        {
+          "english": "this is a small bird with red on the top and tail with grey and white speckles on the body.",
+          "indo": "Ini adalah burung kecil dengan warna merah di bagian atas dan ekor dengan bintik abu-abu dan putih di badan."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        },
+        {
+          "english": "this bird is white, black, and brown in color, with a black beak.",
+          "indo": "burung ini berwarna putih, hitam, dan coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0020_155223.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small brown bird with a white underbelly that has black spots.",
+          "indo": "burung kecil berwarna coklat dengan perut berwarna putih yang memiliki bintik-bintik hitam."
+        },
+        {
+          "english": "the bird with brown crown, tail and wings and brown, white and clack covering its rest of the body",
+          "indo": "burung dengan mahkota, ekor dan sayap berwarna coklat dan coklat, putih dan klak menutupi seluruh tubuhnya"
+        },
+        {
+          "english": "the small bird has long brown rectrices with a brown and white speckled belly and a brown crown.",
+          "indo": "burung kecil ini memiliki rectrices  yang panjang berwarna coklat dengan perut berbintik coklat dan putih serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this small bird has a slightly downward curved beak and a white and dark brown speckled breast.",
+          "indo": "burung kecil ini memiliki paruh agak melengkung ke bawah dan dada berbintik-bintik putih dan coklat tua."
+        },
+        {
+          "english": "this small round bird is brown with white wing bars, white belly with black spots and yellow eyes.",
+          "indo": "burung bulat kecil ini berwarna coklat dengan garis sayap putih, perut putih bintik hitam, dan mata kuning."
+        },
+        {
+          "english": "a small bird with a stubby head, a small and narrow black bill with a small downward curve on the top. the breast of the bird is white with brown spots. brown wings with white wingbars.",
+          "indo": "burung kecil dengan kepala pendek, paruh hitam kecil dan sempit dengan lengkungan kecil ke bawah di bagian atas. dada burung berwarna putih dengan bintik-bintik coklat. sayap coklat dengan garis sayap putih."
+        },
+        {
+          "english": "this bird is white and brown in color, with a black beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has brown wings and tail with white breast and belly spotted brown.",
+          "indo": "burung ini mempunyai sayap dan ekor berwarna coklat dengan dada berwarna putih dan perut berbintik coklat."
+        },
+        {
+          "english": "this bird is white and brown in color, and has a curved beak.",
+          "indo": "burung ini berwarna putih kecokelatan, serta mempunyai paruh yang melengkung."
+        },
+        {
+          "english": "a mostly brown bird with a white belly and chest that has dark brown spots across it.",
+          "indo": "burung yang sebagian besar berwarna coklat dengan perut dan dada berwarna putih dengan bintik-bintik coklat tua di atasnya."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0021_155160.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird is brown and white speckled with a short black beak and yellow eyering.",
+          "indo": "burung itu berwarna coklat dan putih berbintik-bintik dengan paruh pendek berwarna hitam dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "the bird has a yellow eyering and a long black bill.",
+          "indo": "burung itu mempunyai cincin mata kuning dan paruh hitam panjang."
+        },
+        {
+          "english": "the brown stripes down the breast of the bird seem to be spaced farther apart as it moves down the abdomen.",
+          "indo": "garis-garis coklat di bagian dada burung tampak semakin menjauh saat bergerak ke bawah perut."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a bird with a slightly round body, a yellow belly with some brown speckles; while the wings and head are brown, with two mildly noticeable white wing bars.",
+          "indo": "ini adalah burung dengan tubuh agak bulat, perut kuning dengan beberapa bintik coklat; sedangkan sayap dan kepalanya berwarna coklat, dengan dua garis sayap berwarna putih yang agak terlihat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berbintik"
+        },
+        {
+          "english": "a bird with a long, thin black bill, tan crown, brown and white back, and a green and brown side.",
+          "indo": "burung dengan paruh panjang dan tipis berwarna hitam, mahkota berwarna coklat, punggung berwarna coklat dan putih, serta bagian samping berwarna hijau dan coklat."
+        },
+        {
+          "english": "this bird is spotted brown in color, with a sharp black beak.",
+          "indo": "burung ini berbintik berwarna coklat, dengan paruh berwarna hitam runcing."
+        },
+        {
+          "english": "mostly grey, this bird has a long beak, yellow eyes, and yellow and black markings on it's sides.",
+          "indo": "sebagian besar berwarna abu-abu, burung ini memiliki paruh panjang, mata kuning, dan corak kuning dan hitam di sisinya."
+        },
+        {
+          "english": "this bird is yellow and brown spotted all over the belly, with white wingbars and a long black beak.",
+          "indo": "burung ini berwarna kuning kecokelatan dengan bintik-bintik di seluruh perutnya, dengan garis sayap berwarna putih dan paruh panjang berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0024_155363.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "brown matted feathers with a tan brown spotted belly and piercing yellow eyes, describe this petite, round bird.",
+          "indo": "bulu kusut berwarna coklat dengan perut berbintik coklat kecokelatan dan mata kuning tajam, menggambarkan burung bulat mungil ini."
+        },
+        {
+          "english": "this bird has a short, black, curved bill, a gray eyebrow, and black tarsus and feet.",
+          "indo": "burung ini mempunyai paruh pendek berwarna hitam melengkung, alis berwarna abu-abu, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "a small bird with brown and white feathers and a gray beak.",
+          "indo": "seekor burung kecil dengan bulu berwarna coklat dan putih serta paruh berwarna abu-abu."
+        },
+        {
+          "english": "a mostly brown bird with a lovely blue underbelly and beak.",
+          "indo": "burung yang sebagian besar berwarna coklat dengan perut dan paruh berwarna biru yang indah."
+        },
+        {
+          "english": "a small bird with brown wings and tail on top and a black and white spotted under belly",
+          "indo": "seekor burung kecil dengan sayap dan ekor berwarna coklat di bagian atas dan bintik hitam putih di bawah perut"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has rather large body with a brown back with a spotted breast and a flat black bill.",
+          "indo": "burung ini mempunyai tubuh agak besar dengan punggung berwarna coklat dengan dada berbintik dan paruh berwarna hitam rata."
+        },
+        {
+          "english": "this bird is brown and white in color, and has a black beak.",
+          "indo": "burung ini berwarna coklat putih, dan mempunyai paruh berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0026_155438.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird has head and beak proportional to its body, with brownish white throat, breast and belly, and rest of the body covered with brown.",
+          "indo": "Burung ini memiliki kepala dan paruh yang proporsional dengan tubuhnya, tenggorokan berwarna putih kecoklatan, dada dan perut, serta seluruh tubuh ditutupi warna coklat."
+        },
+        {
+          "english": "this bird has dark brown crown and throat along with light brown breast, dark greyish-brown beak and feet and tarsus and reddish-brown inner rectrices and dark brown outer rectrices.",
+          "indo": "Burung ini memiliki mahkota dan tenggorokan berwarna coklat tua, dada berwarna coklat muda, paruh dan kaki serta tarsus berwarna coklat keabu-abuan tua, serta inner rectrices berwarna coklat kemerahan dan outer rectrices berwarna coklat tua."
+        },
+        {
+          "english": "a medium sized bird with multiple tones of brown all over",
+          "indo": "seekor burung berukuran sedang dengan berbagai warna coklat di seluruh bagiannya"
+        },
+        {
+          "english": "the bird has a fluffy black and off-white belly with brown wings and tail.",
+          "indo": "burung ini memiliki perut berbulu halus berwarna hitam putih dengan sayap dan ekor berwarna coklat."
+        },
+        {
+          "english": "this bird is mostly brown with long rectrices and white and black speckled breast and belly.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan rectrices panjang serta dada dan perut berbintik putih dan hitam."
+        },
+        {
+          "english": "this bird has a brown back and rectrices, a long black bill and a speckled belly and breast.",
+          "indo": "burung ini mempunyai punggung dan rectrices berwarna coklat, paruh hitam panjang serta perut dan dada berbintik-bintik."
+        },
+        {
+          "english": "the crown,nape and back of the bird is bronze",
+          "indo": "mahkota, tengkuk dan punggung burung terbuat dari perunggu"
+        },
+        {
+          "english": "this is a smaller bird with rust brown running from crown to tail while it's belly is a fluffy gray and brown mix.",
+          "indo": "ini adalah burung yang lebih kecil dengan warna coklat karat mulai dari ubun-ubun hingga ekor, sedangkan perutnya berwarna campuran abu-abu dan coklat berbulu halus."
+        },
+        {
+          "english": "a small brown bird, with a lighter belly, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan perut lebih terang, dan paruh runcing."
+        },
+        {
+          "english": "reddish brown back of body, with tan on chest, pointed beak.",
+          "indo": "Badan bagian belakang berwarna coklat kemerahan, dada berwarna kecoklatan, paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0030_155152.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this orange bird has a brown flecked breast and a long tail.",
+          "indo": "burung berwarna jingga ini memiliki dada berbintik coklat dan ekor yang panjang."
+        },
+        {
+          "english": "this is a small bird with brown wings, tail, and crown, and a spotted belly with black and white patches.",
+          "indo": "ini adalah burung kecil dengan sayap, ekor, dan mahkota berwarna coklat, serta perut berbintik dengan bercak hitam putih."
+        },
+        {
+          "english": "this is a bird with a white breast and belly and a brown back.",
+          "indo": "ini adalah burung dengan dada dan perut berwarna putih serta punggung berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with a white and black spotted belly and a black beak which curves downward on top.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut berbintik putih dan hitam serta paruh hitam yang bagian atasnya melengkung ke bawah."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a very long tarsus, helping it stand high above its perch.",
+          "indo": "burung ini mempunyai tarsus yang sangat panjang, membantunya berdiri tinggi di atas tempat bertenggernya."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has amber wingbars, a curved grey bill and spotted tan belly.",
+          "indo": "burung ini memiliki garis sayap berwarna kuning, paruh berwarna abu-abu melengkung, dan perut berwarna cokelat berbintik."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown and white in color, with a black curved beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh melengkung berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0033_155156.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird is mostly brown with a sharp pointy bill.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan paruh runcing dan runcing."
+        },
+        {
+          "english": "this is a brown bird with a yellow eye and a pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan mata kuning dan paruh runcing."
+        },
+        {
+          "english": "this is a orange and brown bird with a purple bill and brown feet",
+          "indo": "ini adalah burung berwarna oranye dan coklat dengan paruh ungu dan kaki coklat"
+        },
+        {
+          "english": "this bird is light brown and has a black beak and yellow eyes",
+          "indo": "burung ini berwarna coklat muda dan memiliki paruh berwarna hitam dan mata berwarna kuning"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are red and has a purple bill",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai paruh berwarna ungu"
+        },
+        {
+          "english": "this bird is mostly rust colored overall with a black beak, yellow eyes and a tan breast.",
+          "indo": "burung ini sebagian besar berwarna karat secara keseluruhan dengan paruh hitam, mata kuning dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird is red with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a red crown as well as a purple bill",
+          "indo": "burung ini memiliki mahkota berwarna merah dan paruh berwarna ungu"
+        },
+        {
+          "english": "this medium sized brown bird has a long pointed beak and bright yellow eyes and features dark spots on the breast and belly and extra long tail feathers.",
+          "indo": "burung berwarna coklat berukuran sedang ini memiliki paruh panjang runcing dan mata berwarna kuning cerah serta memiliki ciri bintik hitam pada bagian dada dan perut serta bulu ekor ekstra panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0034_155139.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird's belly is white with black spots and its crown and wings are light brown with some white.",
+          "indo": "Perut burung ini berwarna putih dengan bintik-bintik hitam, dan mahkota serta sayapnya berwarna coklat muda dengan sedikit warna putih."
+        },
+        {
+          "english": "mostly rusty brown small bird with long pointy black beak, brown and white spotted breast and belly.",
+          "indo": "sebagian besar burung kecil berwarna coklat karat dengan paruh hitam panjang runcing, dada dan perut berbintik coklat dan putih."
+        },
+        {
+          "english": "this bird is brown with white and black on its belly and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a brown and white bird with brown wings, white wingbars, and white belly with brown spots.",
+          "indo": "burung berwarna coklat putih dengan sayap coklat, garis sayap putih, dan perut putih berbintik coklat."
+        },
+        {
+          "english": "this bird is white and brown in color with a black beak, and black eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh berwarna hitam, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this medium size bird has brown feathers from the tale to the head on top and on it's wings. underneath it's belly it is white with spots of brown on top.",
+          "indo": "Burung berukuran sedang ini mempunyai bulu berwarna coklat mulai dari dongeng hingga kepala di bagian atas dan pada sayapnya. di bawah perutnya berwarna putih dengan bintik-bintik coklat di atasnya."
+        },
+        {
+          "english": "this bird has brown wingbars with a grey bill and brown crown.",
+          "indo": "burung ini memiliki garis sayap berwarna coklat dengan paruh berwarna abu-abu dan mahkota berwarna coklat."
+        },
+        {
+          "english": "long black bill bird with medium brown coloring from crown to rectrices and white with black spotted throat to abdomen.",
+          "indo": "burung berparuh hitam panjang dengan warna coklat sedang dari ubun-ubun sampai rectrices dan putih dengan bintik hitam di tenggorokan hingga perut."
+        },
+        {
+          "english": "this bird is brown with a white belly and a black beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0038_155246.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird has a large beak with brown and white coloring.",
+          "indo": "burung ini mempunyai paruh yang besar dengan warna coklat dan putih."
+        },
+        {
+          "english": "a brown bird with a white and black checkered belly and a narrow black beak.",
+          "indo": "burung berwarna coklat dengan perut kotak-kotak berwarna putih dan hitam serta paruh hitam yang sempit."
+        },
+        {
+          "english": "a small bird with a brown and white belly, with brown and white feathers covering the rest of its body.",
+          "indo": "seekor burung kecil dengan perut berwarna coklat dan putih, dengan bulu berwarna coklat dan putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small plump bird with a black and white belly, and a long black bill.",
+          "indo": "seekor burung kecil gempal dengan perut hitam putih, dan paruh hitam panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a long pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this brown bird has long tarsus and a pointed black beak.",
+          "indo": "burung berwarna coklat ini memiliki tarsus yang panjang dan paruh berwarna hitam yang runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna hitam putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berbintik"
+        },
+        {
+          "english": "this small bird sports a long, white tarsus, a short black bill, and a mahogany back with white wingbars.",
+          "indo": "burung kecil ini memiliki tarsus putih panjang, paruh pendek berwarna hitam, dan punggung kayu mahoni dengan garis sayap putih."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0042_155213.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this small brown and white bird has yellow eyerings and a spotted belly.",
+          "indo": "burung kecil berwarna coklat dan putih ini memiliki cincin mata kuning dan perut berbintik."
+        },
+        {
+          "english": "a mostly brown bird with a white and brown spotted appearing breast and belly and long compared to the bird's size tail feathers.",
+          "indo": "burung yang sebagian besar berwarna coklat dengan dada dan perut berbintik-bintik putih dan coklat serta bulu ekor yang panjang dibandingkan ukuran burung."
+        },
+        {
+          "english": "a large bird with a brown tail, and a bill that curves downwards",
+          "indo": "burung besar dengan ekor berwarna coklat, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "a bird with brown crown, plumage and tail, with a white and brown spotted breast and underbelly.",
+          "indo": "seekor burung dengan mahkota, bulu dan ekor berwarna coklat, dengan dada dan perut berbintik putih dan coklat."
+        },
+        {
+          "english": "a brown bird with a mostly white belly and sides, brown back, slightly curved bill, and long rectrices.",
+          "indo": "burung berwarna coklat dengan perut dan samping sebagian besar berwarna putih, punggung berwarna coklat, paruh agak melengkung, dan rectrices ."
+        },
+        {
+          "english": "brown bird with a long brown tail, a light eye patch, yellow eyes and a speckled breast on white",
+          "indo": "burung coklat dengan ekor coklat panjang, penutup mata tipis, mata kuning dan dada berbintik putih"
+        },
+        {
+          "english": "this bird has yellow eye ring, red secondaries, and a white chest with brown speckles.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning, bulu sekunder berwarna merah, dan dada berwarna putih dengan bintik coklat."
+        },
+        {
+          "english": "a large brown bird with a very long tail, and a black polka dot belly.",
+          "indo": "seekor burung besar berwarna coklat dengan ekor yang sangat panjang, dan perut polkadot hitam."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white and black belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih dan hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0045_155182.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bill of the bird is a light green. the side and belly of the bird is filled with dark brown spots",
+          "indo": "paruh burung berwarna hijau muda. bagian samping dan perut burung dipenuhi bintik-bintik coklat tua"
+        },
+        {
+          "english": "a medium sized bird with orange eyes, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan mata oranye, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and brown beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna coklat"
+        },
+        {
+          "english": "this bird is white and brown in color with a curved black beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh hitam melengkung, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this gold feathered bird has black spots on his lower body and a greenish beak.",
+          "indo": "Burung berbulu emas ini memiliki bintik hitam di bagian bawah tubuhnya dan paruh berwarna kehijauan."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white and black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna putih dan hitam"
+        },
+        {
+          "english": "the small bird has has a sharp bill, light brown belly with dark brown spots.",
+          "indo": "burung kecil ini mempunyai paruh yang runcing, perut berwarna coklat muda dengan bintik-bintik coklat tua."
+        },
+        {
+          "english": "a grey bird with white spotted belly, green bil and red eyering.",
+          "indo": "burung abu-abu dengan perut berbintik putih, paruh hijau, dan mata merah."
+        },
+        {
+          "english": "this bird is spotted brown in color, and has a curved beak.",
+          "indo": "burung ini berwarna coklat totol, dan mempunyai paruh melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0046_155154.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a medium sized bird with multiple brown tones and a long pointed bill",
+          "indo": "burung berukuran sedang dengan banyak warna coklat dan paruh runcing panjang"
+        },
+        {
+          "english": "bird has orange body feathers, orange breast feather, and curved beak",
+          "indo": "burung mempunyai bulu badan berwarna jingga, bulu dada berwarna jingga, dan paruh melengkung"
+        },
+        {
+          "english": "this is a brown bird with a yellow eye and a pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan mata kuning dan paruh runcing."
+        },
+        {
+          "english": "this bird has a medium beak and mostly orange feathers",
+          "indo": "burung ini memiliki paruh sedang dan sebagian besar bulunya berwarna oranye"
+        },
+        {
+          "english": "this bird has a brown body color with some streaks of white and black feathers on its face.",
+          "indo": "burung ini memiliki warna tubuh coklat dengan beberapa guratan bulu berwarna putih dan hitam pada bagian wajahnya."
+        },
+        {
+          "english": "this orange bird has a medium sized curved beak.",
+          "indo": "burung berwarna oranye ini memiliki paruh melengkung berukuran sedang."
+        },
+        {
+          "english": "a light faded reddish bird with a long grey bill bright yellow eyes and black pupils with long yellow legs.",
+          "indo": "seekor burung kemerahan pudar dengan paruh panjang berwarna abu-abu, mata kuning cerah, dan pupil hitam dengan kaki kuning panjang."
+        },
+        {
+          "english": "this particular bird has a belly that is orange with white patches",
+          "indo": "burung ini memiliki perut berwarna oranye dengan bercak putih"
+        },
+        {
+          "english": "the bird has yellow eyering, has a bill that is long and the body is brown.",
+          "indo": "Burung ini memiliki cincin mata berwarna kuning, paruh yang panjang, dan badan berwarna coklat."
+        },
+        {
+          "english": "this bird has bright yellow eyes, and reddish brown plumage.",
+          "indo": "burung ini mempunyai mata berwarna kuning cerah, dan bulu berwarna coklat kemerahan."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0049_155110.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a bird with a midlength pointed bill, bright yellow eyes, and speckled white and brown breast.",
+          "indo": "seekor burung dengan paruh runcing berukuran sedang, mata kuning cerah, dan dada berbintik putih dan coklat."
+        },
+        {
+          "english": "this bird has a long curved bill, a brown crown, and a brown and white throat, breast, and belly.",
+          "indo": "burung ini memiliki paruh panjang melengkung, mahkota berwarna coklat, dan tenggorokan, dada, dan perut berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has yellow eyes, black eyering, brownish head, white throat, breast, and belly with brown markings.",
+          "indo": "Burung ini mempunyai mata kuning, cincin mata hitam, kepala kecoklatan, tenggorokan putih, dada, dan perut bertanda coklat."
+        },
+        {
+          "english": "this bird is brown and white in color with a brown beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh berwarna coklat, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "a small gray bird with gray and white speckling on it's breast and a short bill.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bintik abu-abu putih di dadanya dan paruh pendek."
+        },
+        {
+          "english": "this particular bird has a white belly and breast with brown spots",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bintik-bintik coklat"
+        },
+        {
+          "english": "this is a brown bird that has stripes on its gray breast and sides as well as a long tail",
+          "indo": "ini adalah burung berwarna coklat yang memiliki garis-garis di dada dan sisi abu-abu serta ekor yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna putih"
+        },
+        {
+          "english": "this bird has a brown and white breast and a long bill",
+          "indo": "burung ini memiliki dada berwarna coklat dan putih serta paruh yang panjang"
+        },
+        {
+          "english": "a small round bird with brown polka dots and a silver beak.",
+          "indo": "seekor burung bulat kecil dengan bintik-bintik coklat dan paruh berwarna perak."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0051_155344.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this is a brown bird with a white belly and breast.",
+          "indo": "ini adalah burung berwarna coklat dengan perut dan dada berwarna putih."
+        },
+        {
+          "english": "a medium bird with a brown back, speckled belly, yellow eye, and long brown rectrices.",
+          "indo": "burung berukuran sedang dengan punggung berwarna coklat, perut berbintik-bintik, mata kuning, dan rectrices  berwarna coklat."
+        },
+        {
+          "english": "this bird has a yellow eyering with tan wingbars with a faint color of white at the tip of the primaries.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning dengan garis sayap berwarna coklat dengan warna putih samar di ujung pendahulunya."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a brown bird with a spotted belly and a long rectrices .",
+          "indo": "seekor burung coklat dengan perut berbintik dan rectrices ."
+        },
+        {
+          "english": "this particular bird has a white belly and breast with brown patches",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bercak coklat"
+        },
+        {
+          "english": "the bird has gold eyering with a grey bill and long tail",
+          "indo": "burung itu bermata emas dengan paruh abu-abu dan ekor panjang"
+        },
+        {
+          "english": "this bird had a brown crown, a white and brown belly, and brown primaries.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, perut berwarna putih dan coklat, serta bulu primer berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown as well as a brown and white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat serta perut berwarna coklat dan putih"
+        },
+        {
+          "english": "a small brown bird, with a tail that is long for its body, and a sharp bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan ekor yang panjang untuk badannya, dan paruh yang runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0052_155254.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has small pointed beak; it's breast is white with black speckles, brown wings with black and white wing bars.",
+          "indo": "burung ini mempunyai paruh kecil yang runcing; dadanya berwarna putih dengan bintik hitam, sayapnya berwarna coklat dengan garis sayap hitam putih."
+        },
+        {
+          "english": "a small bird with brown on its crown, and white with dark brown speckles covering its breast and belly along with a reddish brown color on the rest of its body.",
+          "indo": "burung kecil dengan mahkota berwarna coklat, berwarna putih dengan bintik-bintik coklat tua menutupi dada dan perutnya serta warna coklat kemerahan pada seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a large, black, curved bill, a dark brown crown, and black tarsus and feet.",
+          "indo": "burung ini memiliki paruh besar berwarna hitam melengkung, mahkota berwarna coklat tua, serta tarsus dan kaki berwarna hitam."
+        },
+        {
+          "english": "this little bird has a speckled belly and breast with a brown crown and wing with white wingbars.",
+          "indo": "Burung kecil ini memiliki perut dan dada berbintik-bintik dengan mahkota berwarna coklat dan sayap dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this is a small bird with a long black skinny bill, the head and nape are a warm brown while the chest is tan with small black markings.",
+          "indo": "Ini adalah burung kecil dengan paruh panjang berwarna hitam kurus, kepala dan tengkuk berwarna coklat hangat sedangkan dada berwarna coklat dengan corak hitam kecil."
+        },
+        {
+          "english": "this small bird has a black and white belly while its back and tail are brown.",
+          "indo": "burung kecil ini memiliki perut berwarna hitam putih sedangkan punggung dan ekornya berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly and breast with black spots and a brown head and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bintik hitam serta kepala dan sayap berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with long, pointed, black beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh panjang, runcing, dan berwarna hitam."
+        },
+        {
+          "english": "this bird has a long pointed bill, brown with black spots head feathers and white with black spots belly feathers.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, bulu kepala berwarna coklat dengan bintik hitam dan bulu perut berwarna putih dengan bintik hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0054_155145.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small brown bird with a white and dark brown speckled breast.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada berbintik-bintik putih dan coklat tua."
+        },
+        {
+          "english": "this bird is brown and white in color, with a black beak and a white eye ring.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh berwarna hitam dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird has a long red tail, a sharp, backwards facing crown deather, and a black spotted white belly.",
+          "indo": "Burung ini mempunyai ekor panjang berwarna merah, mahkota maut yang runcing menghadap ke belakang, dan perut putih berbintik hitam."
+        },
+        {
+          "english": "this bird is white and brown in color with a skinny black beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh hitam kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a white spotted belly and a brown back and head.",
+          "indo": "ini adalah burung dengan perut berbintik putih dan punggung serta kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white and black spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik putih dan hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white with brown spots",
+          "indo": "Burung ini mempunyai perut yang berwarna putih dengan bintik-bintik coklat"
+        },
+        {
+          "english": "this little bird has brown back head long brown tail black eyes",
+          "indo": "Burung kecil ini mempunyai kepala belakang berwarna coklat, ekor coklat panjang, mata hitam"
+        },
+        {
+          "english": "this bird has brown wings and a brown crown and a white belly flecked in brown spots.",
+          "indo": "burung ini memiliki sayap berwarna coklat dan mahkota berwarna coklat serta perut berwarna putih dengan bintik-bintik coklat."
+        },
+        {
+          "english": "this is a small brown bird, with a tail that is long for its body.",
+          "indo": "ini adalah burung kecil berwarna coklat, dengan ekor yang panjang untuk tubuhnya."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0056_155048.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a long pointy black beak and brown feathers.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam runcing dan bulu berwarna coklat."
+        },
+        {
+          "english": "the bird has brown rectrices, white abdomen with specks of dark brown.",
+          "indo": "burung ini memiliki rectrices berwarna coklat, perut berwarna putih dengan bintik coklat tua."
+        },
+        {
+          "english": "this bright brown bird has a white belly with black spots.",
+          "indo": "burung berwarna coklat cerah ini memiliki perut berwarna putih dengan bintik-bintik hitam."
+        },
+        {
+          "english": "an orange bird with a black and white spotted belly, yellow eyes, and an orange bill.",
+          "indo": "burung berwarna jingga dengan perut berbintik hitam putih, mata kuning, dan paruh jingga."
+        },
+        {
+          "english": "this smaller bird has a white breast with black spots and light brown wings",
+          "indo": "burung yang lebih kecil ini memiliki dada berwarna putih dengan bintik hitam dan sayap berwarna coklat muda"
+        },
+        {
+          "english": "a medium sized bird, with black spots on its abdomen, red wings and tail, a medium sized pointed bill, and large feet.",
+          "indo": "burung berukuran sedang, dengan bintik hitam di perut, sayap dan ekor berwarna merah, paruh runcing berukuran sedang, dan kaki besar."
+        },
+        {
+          "english": "this bird has wings that are red and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya berwarna putih"
+        },
+        {
+          "english": "this is a brown bird with a gray head, brown crown and nape and a beige belly with black spots.",
+          "indo": "ini adalah burung berwarna coklat dengan kepala abu-abu, mahkota dan tengkuk berwarna coklat serta perut berwarna krem ​​​​dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        },
+        {
+          "english": "a small bird with reddish-brown wings and tail.",
+          "indo": "seekor burung kecil dengan sayap dan ekor berwarna coklat kemerahan."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0057_155164.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a white breast and belly with black markings, a golden eye, a curved beak, and brown wings, tail, and crown.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan corak hitam, mata emas, paruh melengkung, serta sayap, ekor, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and has white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dan mempunyai warna putih pada bagian dadanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a bird with a white belly, a brown back and a yellow eye.",
+          "indo": "ini adalah burung dengan perut putih, punggung coklat dan mata kuning."
+        },
+        {
+          "english": "this bird has a brown overall body color with other shades of brown streaks its under body.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan berwarna coklat dengan corak guratan coklat lainnya di bagian bawah tubuhnya."
+        },
+        {
+          "english": "this brown bird has a long beak and a black and white dotted chest.",
+          "indo": "burung berwarna coklat ini mempunyai paruh panjang dan dada bertitik hitam putih."
+        },
+        {
+          "english": "this bird is brown with black and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna hitam putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is white and brown in color, with a brown beak.",
+          "indo": "burung ini berwarna putih kecokelatan, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "the bird has a yellow eyering, spotted belly and brown back.",
+          "indo": "burung itu memiliki cincin mata kuning, perut berbintik, dan punggung berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots",
+          "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+        },
+        {
+          "english": "this bird has a white and black speckled breast and belly, brown crown, wings, and tail, and yellow eyes.",
+          "indo": "burung ini memiliki dada dan perut berbintik putih hitam, mahkota, sayap, dan ekor berwarna coklat, serta mata berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0061_155140.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this serious looking little bird has a brown upper body with a white belly covered in brown spots, and also sports a yellow eye ring.",
+          "indo": "Burung kecil berpenampilan serius ini memiliki tubuh bagian atas berwarna coklat dengan perut berwarna putih ditutupi bintik-bintik coklat, dan juga memiliki cincin mata berwarna kuning."
+        },
+        {
+          "english": "this is a white bird with brown wings and brown spots on its breast.",
+          "indo": "ini adalah burung berwarna putih dengan sayap coklat dan bintik coklat di dadanya."
+        },
+        {
+          "english": "a small bird with yellow eyering, a brown speckled breast, and short pointed bill.",
+          "indo": "seekor burung kecil dengan cincin mata kuning, dada berbintik coklat, dan paruh runcing pendek."
+        },
+        {
+          "english": "this brown bird has white patterned accents throughout it's throat, breast, and abdomen.",
+          "indo": "burung berwarna coklat ini memiliki aksen bercorak putih di seluruh tenggorokan, dada, dan perutnya."
+        },
+        {
+          "english": "this bird has a brown crown, a spotted breast, and a brown foot",
+          "indo": "burung ini memiliki mahkota berwarna coklat, dada berbintik, dan kaki berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has a white and brown speckled breast, brown rectrices, and yellow eyes",
+          "indo": "burung ini mempunyai dada berbintik putih coklat, rectrices  coklat, dan mata kuning"
+        },
+        {
+          "english": "this multi-colored bird has brown spots against a light beige breast with rust colored rectrices and a yellow eyering.",
+          "indo": "burung beraneka warna ini mempunyai bintik-bintik coklat pada dada berwarna krem ​​​​muda dengan garis-garis rectrices  berwarna karat dan cincin mata kuning."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0063_155127.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a white belly with brown spots and a black beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan bintik coklat dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a brownish crown, a dark brown beak, dark brown tarsus and feet, yellowish breast and belly with dark-brown markings, and light brown wings with brown and white secondaries.",
+          "indo": "Burung ini mempunyai mahkota berwarna kecoklatan, paruh berwarna coklat tua, tarsus dan kaki berwarna coklat tua, dada dan perut berwarna kekuningan dengan corak coklat tua, serta sayap berwarna coklat muda dengan sayap bulu sekunder berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has a large, sharp beak, large feet, and dappled brown and white coloration.",
+          "indo": "burung ini mempunyai paruh yang besar, runcing, kaki yang besar, serta warna belang-belang coklat putih."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a fat belly and a long reddish tail.",
+          "indo": "burung ini memiliki perut yang gemuk dan ekor yang panjang berwarna kemerahan."
+        },
+        {
+          "english": "this bird is drab brown in color with spotted white wing bars and dark brown spotting on its belly, and a long slender tail.",
+          "indo": "burung ini berwarna coklat kusam dengan garis sayap berbintik putih dan bercak coklat tua di perutnya, serta ekor yang panjang dan ramping."
+        },
+        {
+          "english": "this bird has white wing bars, and red coverts, secondaries and inner and outer rectrices.",
+          "indo": "burung ini mempunyai garis sayap berwarna putih, dan bulu berwarna merah, bulu sekunder serta rectrices dalam dan outer rectrices."
+        },
+        {
+          "english": "this bird is small and brown throughout with a white breast and side speckled with black.",
+          "indo": "burung ini berukuran kecil dan seluruhnya berwarna coklat dengan dada berwarna putih dan bagian samping berbintik hitam."
+        },
+        {
+          "english": "a bird holding a corn or seed kernal in its mouth looking at the camera.",
+          "indo": "seekor burung yang memegang biji jagung atau biji di mulutnya sambil melihat ke arah kamera."
+        },
+        {
+          "english": "a small bird iwth a brown coloring and dark brown speckles on the belly and breast.",
+          "indo": "burung kecil dengan warna coklat dan bintik coklat tua di perut dan dada."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0065_155229.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a medium sized brown bird with a white belly and white and brown speckled breast.",
+          "indo": "burung berwarna coklat berukuran sedang dengan perut berwarna putih dan dada berbintik putih coklat."
+        },
+        {
+          "english": "this is a bird with a white belly, brown spots and head and a long pointy black beak.",
+          "indo": "Ini adalah burung dengan perut putih, bintik-bintik coklat dan kepala serta paruh hitam panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown body, with yellow eyes and large beak",
+          "indo": "burung ini memiliki tubuh berwarna coklat, dengan mata kuning dan paruh besar"
+        },
+        {
+          "english": "a bird with a large pointed bill yellow eyes downy white breast and speckled arrowpoints on its throat",
+          "indo": "seekor burung dengan paruh besar, runcing, mata kuning, dada putih berbulu halus, dan bintik-bintik panah di tenggorokannya"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a bronze bird that has a white breast and belly, multicolored neck and small black beak.",
+          "indo": "burung perunggu yang memiliki dada dan perut berwarna putih, leher beraneka warna, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a black bill with brown crown and white and brown spotted breast.",
+          "indo": "burung ini mempunyai paruh berwarna hitam dengan mahkota berwarna coklat dan dada berbintik putih coklat."
+        },
+        {
+          "english": "a brown bird with a white belly, its throat is speckled with bits of brown.",
+          "indo": "burung berwarna coklat dengan perut berwarna putih, tenggorokannya berbintik-bintik coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0069_155151.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the menacing yellow eyes of this bird really compliment the extraordinary, speckled pattern on its brown body.",
+          "indo": "Mata kuning yang mengancam dari burung ini benar-benar melengkapi pola bintik-bintik yang luar biasa pada tubuhnya yang berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a brown head, a brown and white spotted breast and long thin hooked black bill.",
+          "indo": "Ini adalah burung dengan kepala berwarna coklat, dada berbintik coklat dan putih serta paruh hitam panjang dan bengkok."
+        },
+        {
+          "english": "the bird is brown with a brown and white speckled body and a yellow eyering with a curved black beak.",
+          "indo": "Burung ini berwarna coklat dengan badan berbintik coklat putih dan cincin mata berwarna kuning dengan paruh melengkung berwarna hitam."
+        },
+        {
+          "english": "a round bird with a brown and white body, and a silver curved bill.",
+          "indo": "burung berbentuk bulat dengan tubuh berwarna coklat putih, dan paruh melengkung berwarna perak."
+        },
+        {
+          "english": "this is a bird with a white spotted belly and a brown head with a yellow eye.",
+          "indo": "ini adalah burung dengan perut berbintik putih dan kepala berwarna coklat dengan mata kuning."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "the small bird has stripped light and dark brown feathers.",
+          "indo": "burung kecil itu telah menghilangkan bulunya yang berwarna coklat muda dan tua."
+        },
+        {
+          "english": "the bird is large with a pointed bill, has yellow eyering, and the belly is white.",
+          "indo": "Burungnya berukuran besar, paruhnya runcing, matanya berwarna kuning, dan perutnya berwarna putih."
+        },
+        {
+          "english": "this bird has brown wings and a brown head with a white belly that has brown spots on it and a medium sized beak.",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan kepala berwarna coklat dengan perut berwarna putih yang terdapat bintik-bintik coklat di atasnya dan paruh berukuran sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0070_155343.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a bird with a pointed beak, bright yellow eyes, white wingbars, and a mottled brown and white breast.",
+          "indo": "burung dengan paruh runcing, mata kuning cerah, sayap putih, dan dada berbintik-bintik coklat putih."
+        },
+        {
+          "english": "a medium sized bird with brown wings, and a bill that curves downwards",
+          "indo": "burung berukuran sedang dengan sayap berwarna coklat, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "a medium bird with with a brown crown and a white spotted side and belly and brown primaries and secondaries",
+          "indo": "burung berukuran sedang dengan mahkota berwarna coklat dan sisi serta perut berbintik putih serta burung bulu primer dan bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "a medium sized brown bird with bright yellow eyes and a light brown tarsus",
+          "indo": "burung coklat berukuran sedang dengan mata kuning cerah dan tarsus coklat muda"
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with brown wings and white wingbars. light brown head and long flat beak.",
+          "indo": "seekor burung dengan sayap coklat dan garis sayap putih. kepala berwarna coklat muda dan paruh panjang dan rata."
+        },
+        {
+          "english": "this bird has yellow eyes, a white speckled breast, and brown wings.",
+          "indo": "burung ini bermata kuning, dada berbintik putih, dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has yellow eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata kuning"
+        },
+        {
+          "english": "this bird is brown and white with a small head, a long tail, long legs, and a narrow downward curved beak.",
+          "indo": "burung ini berwarna coklat putih dengan kepala kecil, ekor panjang, kaki panjang, dan paruh sempit melengkung ke bawah."
+        },
+        {
+          "english": "a brown bird with a short pointed beak.",
+          "indo": "seekor burung coklat dengan paruh runcing pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0072_155406.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "bird with brown and black feathers, brown legs, and long tail feathers.",
+          "indo": "burung dengan bulu berwarna coklat dan hitam, kaki coklat, dan bulu ekor panjang."
+        },
+        {
+          "english": "a medium sized bird with a brown tail, and orange eyes",
+          "indo": "burung berukuran sedang dengan ekor coklat, dan mata oranye"
+        },
+        {
+          "english": "this is a bird with a white belly, gray back and yellow eyes.",
+          "indo": "ini adalah burung dengan perut putih, punggung abu-abu, dan mata kuning."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this beautiful colorful bird has a black and yellow underbelly, a brown nape, little feet, and a small black beak.",
+          "indo": "burung cantik berwarna-warni ini memiliki perut berwarna hitam dan kuning, tengkuk berwarna coklat, kaki kecil, dan paruh kecil berwarna hitam."
+        },
+        {
+          "english": "this bird has a very interesting pattern on its breast of a tan background with black stripes.",
+          "indo": "Burung ini memiliki corak yang sangat menarik pada bagian dadanya yang berlatar belakang coklat dengan garis-garis hitam."
+        },
+        {
+          "english": "this bird is brown and black in color, with a black beak.",
+          "indo": "burung ini berwarna coklat kehitaman, dengan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has a yellow and brown striped belly and breast.",
+          "indo": "burung ini memiliki perut dan dada bergaris kuning dan coklat."
+        },
+        {
+          "english": "this bird has orange eyes, brown back and black strips with tan running thru chest.",
+          "indo": "burung ini bermata jingga, punggung berwarna coklat, dan garis-garis hitam dengan bagian dada berwarna coklat."
+        },
+        {
+          "english": "a small brown bird, with a tail that is long for its body, and a short bill.",
+          "indo": "seekor burung kecil berwarna coklat, dengan ekor yang panjang untuk badannya, dan paruh yang pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0073_155376.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a dark brown and white speckled belly and throat, with a dark tan color on its crown, wings and tail and a wide bright yellow eyering.",
+          "indo": "burung ini mempunyai perut dan tenggorokan berwarna coklat tua dan putih berbintik-bintik, dengan warna coklat tua pada mahkota, sayap dan ekornya serta cincin mata lebar berwarna kuning cerah."
+        },
+        {
+          "english": "this is a black and white spotted bird, brown wing and a pointed beak.",
+          "indo": "ini adalah burung berbintik hitam putih, sayap coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird has a pointed bill, a brown crown, and a spotted abdomen.",
+          "indo": "burung ini memiliki paruh runcing, mahkota berwarna coklat, dan perut berbintik."
+        },
+        {
+          "english": "the bird has a brown body color with a slender and short bill.",
+          "indo": "burung ini memiliki warna tubuh coklat dengan paruh yang ramping dan pendek."
+        },
+        {
+          "english": "this bird has a long pointed bill.an orange rectrices and orange tarsus and feet",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, rectrices  berwarna jingga, serta tarsus dan kaki berwarna jingga"
+        },
+        {
+          "english": "this bird is red with white and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah dengan putih dan hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        },
+        {
+          "english": "a small bird with a white belly and breast with dark brown spots.",
+          "indo": "burung kecil dengan perut dan dada berwarna putih dengan bintik-bintik coklat tua."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a white belly and throat spotted black with reddish wings and rectrices and yellow eyes.",
+          "indo": "burung ini mempunyai perut dan tenggorokan berwarna putih berbintik hitam dengan sayap dan rectrices berwarna kemerahan serta mata berwarna kuning."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0074_155339.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "medium sized bird, white chest, with dark spots, brown top of body,wings,and tail.",
+          "indo": "burung berukuran sedang, dada berwarna putih, bintik hitam, badan bagian atas, sayap, dan ekor berwarna coklat."
+        },
+        {
+          "english": "this is a bird with a white belly, brown back and a yellow eye.",
+          "indo": "ini adalah burung dengan perut putih, punggung coklat dan mata kuning."
+        },
+        {
+          "english": "this bird is brown and white in color with a long black beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh panjang berwarna hitam dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small bird with a speckled brown and white belly and chest and all brown back.",
+          "indo": "seekor burung kecil dengan perut dan dada berbintik-bintik coklat dan putih serta punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the long bill is white, the crown down to wingbars are brown, the long rectrices are brown.",
+          "indo": "paruh panjang berwarna putih, mahkota hingga garis sayap berwarna coklat, rectrices  berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with straight, pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan paruh lurus dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0079_155394.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird has a brown crown and a yellow eyering as well as a spotted breast.",
+          "indo": "burung itu memiliki mahkota berwarna coklat dan cincin mata kuning serta dada berbintik."
+        },
+        {
+          "english": "the bird is brown with a yellow eyering and slim narrow brown bill.",
+          "indo": "burung itu berwarna coklat dengan cincin mata kuning dan paruh coklat sempit dan ramping."
+        },
+        {
+          "english": "this is a light brown bird with a white and dark brown spotted breast and white wingbars.",
+          "indo": "ini adalah burung berwarna coklat muda dengan dada berbintik putih dan coklat tua serta sayap putih."
+        },
+        {
+          "english": "this is a brown bird with: white detail; yellow eyes; a skinny and slightly curved beak.",
+          "indo": "ini burung berwarna coklat dengan: detail putih; mata kuning; paruhnya kurus dan agak melengkung."
+        },
+        {
+          "english": "the bird has a dusty orange back and nape, with a spotty brown and white belly, and yellow-ringed eyes.",
+          "indo": "burung ini memiliki punggung dan tengkuk berwarna oranye berdebu, dengan perut berbintik-bintik berwarna coklat dan putih, serta mata bercincin kuning."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this large bird has light bright eyes, a long bill, with a spotted belly.",
+          "indo": "burung besar ini mempunyai mata yang terang benderang, paruh yang panjang, dan perut yang berbintik."
+        },
+        {
+          "english": "a brown bird with a white and brown speckled belly.",
+          "indo": "seekor burung berwarna coklat dengan perut berbintik-bintik putih dan coklat."
+        },
+        {
+          "english": "this bird has a pointed brown bill, with a white and brown breast.",
+          "indo": "burung ini mempunyai paruh runcing berwarna coklat, dengan dada berwarna putih dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0080_155200.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the bird is black and brown speckled in color and has a long tail feather.",
+          "indo": "burung ini berwarna hitam coklat berbintik-bintik dan mempunyai bulu ekor yang panjang."
+        },
+        {
+          "english": "this bird has a speckled breast and belly with a brown crown and white wingbars.",
+          "indo": "burung ini memiliki dada dan perut berbintik-bintik dengan mahkota berwarna coklat dan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird features intense yellow eyes, a long, slightly curved beak, cream chest with dark brown spots in sharp contrast, a reddish-brown back and long pointed tail.",
+          "indo": "burung ini mempunyai ciri-ciri mata kuning pekat, paruh panjang agak melengkung, dada berwarna krem ​​​​dengan bintik-bintik coklat tua kontras tajam, punggung coklat kemerahan dan ekor panjang runcing."
+        },
+        {
+          "english": "a brown bird with a white abdomen and breast patterned with brown dots, a long black beak which curves slightly downwards and a yellow eyering.",
+          "indo": "burung berwarna coklat dengan perut dan dada berwarna putih bermotif titik-titik coklat, paruh hitam panjang yang sedikit melengkung ke bawah dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "a brown bird has black spots on its off-white breast and belly, orange eyes, black slender and long beak, brown wings and brown long tail.",
+          "indo": "burung berwarna coklat memiliki bintik-bintik hitam pada dada dan perutnya yang berwarna putih pucat, mata berwarna jingga, paruh hitam ramping dan panjang, sayap berwarna coklat dan ekor panjang berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a yellow eyed bird with dark brown feathers, a white belly and brown spots on the belly.",
+          "indo": "burung bermata kuning dengan bulu berwarna coklat tua, perut berwarna putih dan bintik coklat pada perut."
+        },
+        {
+          "english": "this bird has a white belly which is speckled with black, and it has yellow eyes and brown wings.",
+          "indo": "Burung ini mempunyai perut berwarna putih berbintik-bintik hitam, serta bermata kuning dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small brown perching bird with a white breast with brown speckles and medium, pointed bill.",
+          "indo": "burung bertengger kecil berwarna coklat dengan dada putih berbintik coklat dan paruh runcing sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0081_155256.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small bird, with a small rounded head, light brown crown and throat, white breast, side, and primaries with black spotting, and a white belly.",
+          "indo": "burung kecil, kepala bulat kecil, mahkota dan tenggorokan berwarna coklat muda, dada, samping, dan bulu primer berwarna putih dengan bercak hitam, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird is brown and white in color with a skinny brown beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh coklat kurus dan cincin mata coklat."
+        },
+        {
+          "english": "this is a bird with a white belly, brown back and a brown head.",
+          "indo": "ini adalah burung dengan perut putih, punggung coklat dan kepala coklat."
+        },
+        {
+          "english": "this birds body is white with dark brown speckles, with a brown head and undertail coverts.",
+          "indo": "Tubuh burung ini berwarna putih dengan bintik-bintik coklat tua, dengan kepala berwarna coklat dan bulu ekor bawah."
+        },
+        {
+          "english": "this bird has a white belly, a brown spotted breast, a brown head and a yellow eye.",
+          "indo": "burung ini mempunyai perut berwarna putih, dada berbintik coklat, kepala berwarna coklat dan mata berwarna kuning."
+        },
+        {
+          "english": "the bird has a light brown crown, yellow eyerings, mottled tan and brown breast and a long light brown tail.",
+          "indo": "burung ini memiliki mahkota berwarna coklat muda, cincin mata kuning, dada berbintik-bintik coklat dan coklat serta ekor panjang berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small brown bird, with yellow eyes, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna coklat, bermata kuning, dan paruh runcing."
+        },
+        {
+          "english": "this medium sized bird is brown with a white belly with brown patches and a short brown bill.",
+          "indo": "burung berukuran sedang ini berwarna coklat dengan perut berwarna putih dengan bercak coklat dan paruh pendek berwarna coklat."
+        },
+        {
+          "english": "muted orange eyes and light brown feathers on the head on the bird help it to blend in.",
+          "indo": "mata oranye kalem dan bulu coklat muda di kepala burung membantunya untuk berbaur."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0084_155189.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this colorful bird has a white and brown belly and breast, brown wings with two white wing bars, and pink tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih dan coklat, sayap berwarna coklat dengan dua garis sayap berwarna putih, serta tarsus dan kaki berwarna merah muda."
+        },
+        {
+          "english": "the white eye of this bird blends in with the white chest that is speckled with brown under brown wings and tail.",
+          "indo": "Mata putih burung ini menyatu dengan dada berwarna putih yang berbintik coklat di bawah sayap dan ekor berwarna coklat."
+        },
+        {
+          "english": "this little gird has a speckled belly and breast with a brown wing with white wingbars.",
+          "indo": "ikat pinggang kecil ini memiliki perut dan dada berbintik-bintik dengan sayap berwarna coklat dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "a bird with a white and brown speckled belly and brown back.",
+          "indo": "seekor burung dengan perut berbintik putih coklat dan punggung coklat."
+        },
+        {
+          "english": "beautiful bird with a creamy white chest and belly speckled with coffee brown flecks, a tan crown and brown wings with white wingbars, a brown outer rectrices  with a white inner rectrices .",
+          "indo": "Burung cantik dengan dada dan perut berwarna putih krem berbintik-bintik coklat kopi, mahkota berwarna coklat, dan sayap coklat dengan garis sayap putih, outer rectrices  berwarna coklat dan inner rectrices  berwarna putih."
+        },
+        {
+          "english": "this striking bird has a yellow eye, streaks on the breast, two white wing bars and a long tail.",
+          "indo": "Burung yang mencolok ini memiliki mata berwarna kuning, guratan di bagian dada, dua garis sayap berwarna putih, dan ekor yang panjang."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan perutnya yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "an bird with auburn wings and tail feathers with a white body.",
+          "indo": "seekor burung dengan sayap dan bulu ekor berwarna coklat kemerahan dengan tubuh berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0085_155445.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird is light brown with a black, narrow beak, small eyes, dark spots on a beige belly and light spots on its covert.",
+          "indo": "burung ini berwarna coklat muda dengan paruh hitam sempit, mata kecil, bintik hitam pada perut krem ​​​​dan bintik terang pada bulunya."
+        },
+        {
+          "english": "a slightly large bird with a long tail and bill.",
+          "indo": "seekor burung agak besar dengan ekor dan paruh yang panjang."
+        },
+        {
+          "english": "the bird has yellow colored abdomen and side but with brown patches along its body and a solid brown colored covert and rectrices.",
+          "indo": "Burung ini memiliki perut dan sisi berwarna kuning tetapi dengan bercak coklat di sepanjang tubuhnya dan bulu berwarna coklat solid dan rectrices."
+        },
+        {
+          "english": "this bird has feathers that are a few different shades of brown.",
+          "indo": "burung ini memiliki bulu dengan warna coklat yang berbeda-beda."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this pretty bird has a white belly speckled with brown and yellow eyes.",
+          "indo": "burung cantik ini memiliki perut berwarna putih berbintik-bintik dengan mata berwarna coklat dan kuning."
+        },
+        {
+          "english": "this bird has an orange eye ring, reddish brown coverts, and yellow breast with black stripes going along its length",
+          "indo": "burung ini memiliki cincin mata berwarna jingga, bulu berwarna coklat kemerahan, dan dada berwarna kuning dengan garis-garis hitam di sepanjang tubuhnya"
+        },
+        {
+          "english": "this bird has a yellow eye, a black elongated beak, and a speckled body.",
+          "indo": "burung ini mempunyai mata berwarna kuning, paruh hitam memanjang, dan badan berbintik."
+        },
+        {
+          "english": "this bird has wings that are brown and has a striped belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang belang"
+        },
+        {
+          "english": "a long sharp bill and bright eye highlight this smooth head while a rich rust color covering the head back and tail feathers along with a cream colored belly, wing bars and rusty brown strips and spots that highlight the breast and belly of the bird.",
+          "indo": "paruh panjang yang tajam dan mata yang cerah menonjolkan kepala yang halus ini sementara warna karat yang kaya menutupi bagian belakang kepala dan bulu ekor serta perut berwarna krem, garis sayap dan garis serta bintik coklat berkarat yang menonjolkan dada dan perut burung."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0092_155415.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a white and black speckled breast and belly with a rust colored crown, nape, and back.",
+          "indo": "burung ini memiliki dada dan perut berbintik putih hitam dengan mahkota, tengkuk, dan punggung berwarna karat."
+        },
+        {
+          "english": "the bird is brown with a black and grey speckled body and a skinny black beak.",
+          "indo": "burung ini berwarna coklat dengan tubuh berbintik hitam abu-abu dan paruh hitam kurus."
+        },
+        {
+          "english": "this bird has a brown back, a spotted belly, and a long brown outer rectrices",
+          "indo": "burung ini memiliki punggung berwarna coklat, perut berbintik, dan outer rectrices berwarna coklat"
+        },
+        {
+          "english": "this is a brown bird with a long pointy beak, yellow eyes, and a black and white speckled belly.",
+          "indo": "Ini adalah burung berwarna coklat dengan paruh panjang runcing, mata kuning, dan perut berbintik hitam putih."
+        },
+        {
+          "english": "this bird has a brown overall body color with a lighter shade of brown in its belly and abdomen.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan coklat dengan warna coklat muda pada bagian perut dan abdomen."
+        },
+        {
+          "english": "the is colorful bird has a long beak with long legs",
+          "indo": "Burung berwarna-warni ini memiliki paruh yang panjang dan kaki yang panjang"
+        },
+        {
+          "english": "this brown bird has a long tail and a long thin beak that slightly curves down at the tip",
+          "indo": "burung berwarna coklat ini memiliki ekor yang panjang dan paruh panjang tipis yang ujungnya agak melengkung ke bawah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has a very long pointed bill, with a brown back.",
+          "indo": "burung ini mempunyai paruh runcing yang sangat panjang, dengan punggung berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0093_155309.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small headed bird has brown specks down its belly and a yellow eye ring.",
+          "indo": "seekor burung berkepala kecil memiliki bintik-bintik coklat di perutnya dan cincin mata berwarna kuning."
+        },
+        {
+          "english": "this bird has a straight black bill, a white eyebrow, and brown tarsus and feet.",
+          "indo": "burung ini memiliki paruh lurus berwarna hitam, alis berwarna putih, serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird has a small head and beak with a large body with a dark and light brown belly and medium brown back and wings.",
+          "indo": "burung ini memiliki kepala dan paruh kecil dengan tubuh besar dengan perut berwarna coklat tua dan muda serta punggung dan sayap berwarna coklat sedang."
+        },
+        {
+          "english": "a bird with a small pointed bill, yellow eye, fat spotted black and white breast and small head.",
+          "indo": "burung dengan paruh kecil runcing, mata kuning, dada hitam putih berbintik gemuk, dan kepala kecil."
+        },
+        {
+          "english": "a speckled bird of different shades of brown with very long legs and sharp talons.",
+          "indo": "seekor burung berbintik-bintik dengan berbagai warna coklat dengan kaki yang sangat panjang dan cakar yang tajam."
+        },
+        {
+          "english": "this particular bird has a white belly and breast with brown spots on them",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan bintik-bintik coklat"
+        },
+        {
+          "english": "a bird with a short black bill that is primarily brown, its breast and belly being a lighter brown with black speckles.",
+          "indo": "burung dengan paruh pendek berwarna hitam yang sebagian besar berwarna coklat, dada dan perutnya berwarna coklat muda dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird has a small and short black beat with a bright yellow eyering.",
+          "indo": "burung ini memiliki kicauan kecil berwarna hitam pendek dengan cincin mata berwarna kuning cerah."
+        },
+        {
+          "english": "this bird has a short break with brown and orange tones covering the rest of it's body.",
+          "indo": "burung ini istirahat sejenak dengan warna coklat dan jingga menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small bird with a mixture of brown coloring with dark brown speckles along the breast and belly.",
+          "indo": "burung kecil dengan warna campuran coklat dengan bintik coklat tua di sepanjang dada dan perut."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0095_155082.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a medium bird with a white and brown spotted breast and belly with a brown head, back, wings, and tail.",
+          "indo": "burung berukuran sedang dengan dada dan perut berbintik putih coklat dengan kepala, punggung, sayap, dan ekor berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and black in color with a long black beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat kehitaman dengan paruh panjang berwarna hitam dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has a cream and brown speckled breast and belly, brown crown and back and a long, gray bill.",
+          "indo": "burung ini memiliki dada dan perut berbintik krem ​​​​dan coklat, mahkota dan punggung berwarna coklat, serta paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this is a bird with a white and black spotted belly, a brown head and back and a yellow eye.",
+          "indo": "ini adalah burung dengan perut berbintik putih dan hitam, kepala dan punggung berwarna coklat, serta mata kuning."
+        },
+        {
+          "english": "this brown and light tan bird has darker brown patches in the belly with brown wings and white wingbars.",
+          "indo": "burung berwarna coklat dan coklat muda ini memiliki bercak coklat tua di bagian perut dengan sayap coklat dan garis sayap putih."
+        },
+        {
+          "english": "this bird has wings that are grown and has a white belly",
+          "indo": "burung ini mempunyai sayap yang sudah besar dan mempunyai perut yang berwarna putih"
+        },
+        {
+          "english": "a small, darker brown bird, with a tail that is long for its body, and a pointed bill.",
+          "indo": "seekor burung kecil berwarna coklat tua, dengan ekor yang panjang untuk tubuhnya, dan paruh yang runcing."
+        },
+        {
+          "english": "a tall brown bird with a long tail and a big beak.",
+          "indo": "seekor burung tinggi berwarna coklat dengan ekor panjang dan paruh besar."
+        },
+        {
+          "english": "this brown bird has a long tail, long neck, and yellow and black eyes.",
+          "indo": "burung berwarna coklat ini memiliki ekor yang panjang, leher yang panjang, serta mata yang berwarna kuning dan hitam."
+        },
+        {
+          "english": "this particular bird has a belly that is tan with black spots",
+          "indo": "burung ini mempunyai perut berwarna kecokelatan dengan bintik-bintik hitam"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0096_155412.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "the body of the bird is round and speckled and it has a long brown tail feather.",
+          "indo": "badan burung berbentuk bulat berbintik-bintik serta memiliki bulu ekor panjang berwarna coklat."
+        },
+        {
+          "english": "a light brown bird with a black crown, white and black belly and long brown rectrices.",
+          "indo": "burung berwarna coklat muda dengan mahkota hitam, perut putih dan hitam, serta rectrices  berwarna coklat."
+        },
+        {
+          "english": "a medium sized bird with a brown crown and a long orange tail.",
+          "indo": "burung berukuran sedang dengan mahkota coklat dan ekor oranye panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small brown bird with black markings and a gray beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan tanda hitam dan paruh abu-abu."
+        },
+        {
+          "english": "a small, round brown bird with a tan belly with black stripes.",
+          "indo": "seekor burung kecil berwarna coklat bulat dengan perut berwarna coklat dengan garis-garis hitam."
+        },
+        {
+          "english": "the bill of the bird is very short and is a distinctive yellow color.",
+          "indo": "paruh burung ini sangat pendek dan memiliki warna kuning yang khas."
+        },
+        {
+          "english": "a small yet a very round body, and a black polka dotted on the belly.",
+          "indo": "tubuh kecil namun sangat bulat, dan bintik hitam di perut."
+        },
+        {
+          "english": "a yellow bird with brown wings, black head and small yellow bill.",
+          "indo": "burung kuning dengan sayap coklat, kepala hitam dan paruh kuning kecil."
+        },
+        {
+          "english": "this is a small brown bird, with a white abdomen, and a small bill.",
+          "indo": "ini adalah burung kecil berwarna coklat, dengan perut putih, dan paruh kecil."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0100_155129.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this is a small bird with a white belly and brown spots.",
+          "indo": "ini adalah burung kecil dengan perut putih dan bintik coklat."
+        },
+        {
+          "english": "a medium-sized bird with a mottled brown and white chest and breast and white patch at the throat, as well brown wings with white and black wingbars.",
+          "indo": "burung berukuran sedang dengan dada dan dada berbintik-bintik coklat dan putih serta bercak putih di tenggorokan, serta sayap coklat dengan garis sayap putih dan hitam."
+        },
+        {
+          "english": "a tiny bird with a beige and black striped under belly and brown wing feathers.",
+          "indo": "seekor burung kecil dengan garis-garis krem ​​​​dan hitam di bawah perut dan bulu sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, wings, and tail, while its belly and flank are white with black spots.",
+          "indo": "burung ini mempunyai mahkota, sayap, dan ekor berwarna coklat, sedangkan perut dan panggulnya berwarna putih dengan bintik-bintik hitam."
+        },
+        {
+          "english": "this bird has a brown body color, with light brown and some black patches covering its breast and belly.",
+          "indo": "Burung ini memiliki warna tubuh coklat, dengan warna coklat muda dan beberapa bercak hitam menutupi dada dan perutnya."
+        },
+        {
+          "english": "this small bird has brown and white spots on its belly, and long brown tailfeathers that stick straight out.",
+          "indo": "burung kecil ini memiliki bintik-bintik coklat dan putih di perutnya, serta bulu ekor panjang berwarna coklat yang mencuat lurus."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white and black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna putih dan hitam"
+        },
+        {
+          "english": "this particular bird has a belly that is white with black spots and brown on the sides",
+          "indo": "burung ini memiliki perut berwarna putih dengan bintik hitam dan coklat di bagian sisinya"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "smaller bird with tan, white and black in the colors of its body.",
+          "indo": "burung yang lebih kecil dengan warna tubuhnya cokelat, putih dan hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0105_155187.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "big bird perches on a chair as its brown back is arched and grey breast points to the ground.",
+          "indo": "burung besar bertengger di kursi dengan punggung coklatnya melengkung dan dada abu-abu mengarah ke tanah."
+        },
+        {
+          "english": "this large bird has a grey and brown throat and breast, and solid brown secondaries and rectrices",
+          "indo": "burung besar ini memiliki tenggorokan dan dada berwarna abu-abu dan coklat, serta bulu sekunder dan rectrices  berwarna coklat solid"
+        },
+        {
+          "english": "a medium sized bird with an all brown upper body, a grey under belly, and a longer grey sharp bill.",
+          "indo": "burung berukuran sedang dengan tubuh bagian atas berwarna coklat, perut bagian bawah berwarna abu-abu, dan paruh tajam berwarna abu-abu yang lebih panjang."
+        },
+        {
+          "english": "small to medium brown and grey bird with long tarsus and medium brown beak",
+          "indo": "burung kecil sampai sedang berwarna coklat dan abu-abu dengan tarsus panjang dan paruh coklat sedang"
+        },
+        {
+          "english": "a large long bird that has a lengthy tail, and a brown body.",
+          "indo": "burung besar panjang yang memiliki ekor panjang, dan tubuh berwarna coklat."
+        },
+        {
+          "english": "this bird is covered in brown feathers along its secondaries and rectrices, and has brown grey and white speckled feathers along its belly and throat.",
+          "indo": "burung ini ditutupi bulu berwarna coklat di sepanjang bulu sekunder dan rectrices, serta memiliki bulu berbintik coklat abu-abu dan putih di sepanjang perut dan tenggorokannya."
+        },
+        {
+          "english": "this bird has a long bill with brown and white crown, brown and white check patch, brown with black tip primaries and secondaries.",
+          "indo": "burung ini mempunyai paruh yang panjang dengan mahkota berwarna coklat dan putih, bercak coklat dan putih, coklat dengan ujung bulu primer dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this bird has a hunched over head and has an all brown wingbar with a long brown bill.",
+          "indo": "burung ini mempunyai kepala bungkuk dan mempunyai garis sayap yang seluruhnya berwarna coklat dengan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "a brown bird with mottled gray and brown breast feathers and a pointed black beak.",
+          "indo": "burung berwarna coklat dengan bulu dada berbintik-bintik abu-abu dan coklat serta paruh hitam runcing."
+        },
+        {
+          "english": "a brown bird with striped wings, a large head, a long pointy beak, a long tail, and narrow legs.",
+          "indo": "burung berwarna coklat dengan sayap bergaris, kepala besar, paruh panjang runcing, ekor panjang, dan kaki sempit."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0106_155083.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "birds belly is white with black streaks,wings are brown and head is light color beak is tand and long.",
+          "indo": "Perut burung berwarna putih dengan guratan-guratan hitam, sayap berwarna coklat, dan kepala berwarna terang, paruhnya tegak dan panjang."
+        },
+        {
+          "english": "the bird has a long brown tail with a yellow eyering and light brown speckled belly.",
+          "indo": "burung ini memiliki ekor panjang berwarna coklat dengan cincin mata kuning dan perut berbintik coklat muda."
+        },
+        {
+          "english": "a light brown bird with white and black wingbars, a gray bellow and a long gray beak.",
+          "indo": "burung berwarna coklat muda dengan garis sayap berwarna putih dan hitam, bagian bawah berwarna abu-abu, dan paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with brown feathers and a black and gray patterned underbelly.",
+          "indo": "burung kecil dengan bulu berwarna coklat dan perut bermotif hitam abu-abu."
+        },
+        {
+          "english": "this bird is white and brown in color with a long skinny beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih kecokelatan dengan paruh panjang kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "small bird with a brown body and and specked chest of brown and white. long tail.",
+          "indo": "burung kecil berbadan coklat dan dada berbintik coklat putih. ekor panjang."
+        },
+        {
+          "english": "the bill is narrow and long, rectrices are brown and long, coverts are brown with white wingbars.",
+          "indo": "paruhnya sempit dan panjang, rectrices berwarna coklat dan panjang, bulunya berwarna coklat dengan garis sayap putih."
+        },
+        {
+          "english": "this small brown and white bird has a long pointy bill.",
+          "indo": "burung kecil berwarna coklat dan putih ini memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with a brown wings, rectrices and the bill is long and pointed",
+          "indo": "seekor burung dengan sayap berwarna coklat, berbentuk rectrices  dan paruhnya panjang dan runcing"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0112_155183.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small bird with a brown nape and back, and a white belly and breast.",
+          "indo": "seekor burung kecil dengan tengkuk dan punggung berwarna coklat, serta perut dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a tan crown, a pointed bill, and a spotted belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh runcing, dan perut berbintik."
+        },
+        {
+          "english": "this is a bird with a white belly, brown back and a long beak.",
+          "indo": "ini adalah burung dengan perut putih, punggung coklat dan paruh panjang."
+        },
+        {
+          "english": "this bird has a yellow eyering with a tan crown.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown overall color with its breast, belly and abdomen in a lighter shade of brown.",
+          "indo": "burung ini memiliki warna keseluruhan coklat dengan bagian dada, perut dan abdomen berwarna coklat muda."
+        },
+        {
+          "english": "this bird has wings that are brown and has a black and white spotted belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berbintik hitam putih"
+        },
+        {
+          "english": "the bird has a yellow eyering, spotted belly and amber back.",
+          "indo": "burung itu memiliki cincin mata kuning, perut berbintik, dan punggung kuning."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "the bird has a yellow eyering and a small a tan bill.",
+          "indo": "burung itu mempunyai cincin mata kuning dan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "this small bird has black and white wingbars and a long pointed beak.",
+          "indo": "burung kecil ini memiliki garis sayap berwarna hitam putih dan paruh runcing panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0113_155111.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a bird with a striped white and brown breast and belly, a short, hooked bill, and a small head",
+          "indo": "burung dengan dada dan perut bergaris putih coklat, paruh pendek bengkok, dan kepala kecil"
+        },
+        {
+          "english": "the bird is brown with a long brown tail feather and a has a black and white speckled chest.",
+          "indo": "Burung ini berwarna coklat dengan bulu ekor panjang berwarna coklat dan dada berbintik hitam putih."
+        },
+        {
+          "english": "the bird is brown and kind of blends in with the ground.",
+          "indo": "burungnya berwarna coklat dan menyatu dengan tanah."
+        },
+        {
+          "english": "this skinny brown bird has long brown rectrices and primaries which compliment its white and brown speckled breast.",
+          "indo": "burung coklat kurus ini memiliki garis lurus dan bulu primer coklat panjang yang melengkapi dadanya yang berbintik putih dan coklat."
+        },
+        {
+          "english": "this bird has long legs a light grey abdomen with darker streaking and brown wing tips and a brown tail.",
+          "indo": "burung ini memiliki kaki yang panjang, perut berwarna abu-abu muda dengan guratan lebih gelap dan ujung sayap berwarna coklat serta ekor berwarna coklat."
+        },
+        {
+          "english": "small brown winged bird, tan chest with brown spots, small head with a small beak, long tail feathers",
+          "indo": "burung kecil bersayap coklat, dada coklat dengan bintik coklat, kepala kecil dengan paruh kecil, bulu ekor panjang"
+        },
+        {
+          "english": "this brown bird has a long brown tail and it has dark brown stripes on pale brown ventral side.",
+          "indo": "Burung berwarna coklat ini mempunyai ekor yang panjang berwarna coklat dan mempunyai garis-garis coklat tua pada sisi perut berwarna coklat pucat."
+        },
+        {
+          "english": "the bird has a spotted belly and a long outer rectrices.",
+          "indo": "burung itu memiliki perut berbintik dan outer rectrices yang panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long beck",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has a white and dark brown belly, and it has a short pointed bill.",
+          "indo": "burung ini mempunyai perut berwarna putih dan coklat tua, serta paruhnya yang pendek dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0119_155170.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a bird with a spotted underbelly and yellow eyes with a long tail",
+          "indo": "seekor burung dengan perut berbintik dan mata kuning dengan ekor panjang"
+        },
+        {
+          "english": "this colorful bird has a white & brown belly and breast, brown wings with white wing bar, and white tarsus and feet.",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih & coklat, sayap berwarna coklat dengan garis sayap berwarna putih, serta tarsus dan kaki berwarna putih."
+        },
+        {
+          "english": "this bird has brown coloring but its breast and belly are beige with brown spots.",
+          "indo": "burung ini mempunyai warna coklat namun dada dan perutnya berwarna krem ​​​​dengan bintik-bintik coklat."
+        },
+        {
+          "english": "the bird has a very large red tail, red wings, and brown spotted white breast and belly.",
+          "indo": "burung ini memiliki ekor merah yang sangat besar, sayap merah, dan dada serta perut berwarna putih berbintik coklat."
+        },
+        {
+          "english": "brown bird with white and brown speckled head and breast along with long rectrices.",
+          "indo": "burung berwarna coklat dengan kepala dan dada berbintik putih dan coklat serta rectrices yang panjang."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a black bill",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan mempunyai paruh yang berwarna hitam"
+        },
+        {
+          "english": "this bird has yellow eyering, a long brown undertail coverts, brown specks on its side, belly, breast and throat.",
+          "indo": "burung ini mempunyai superciliary berwarna kuning, bulu ekor panjang berwarna coklat, bintik coklat pada bagian samping, perut, dada dan tenggorokan."
+        },
+        {
+          "english": "a small bird with brown wings, and a golden eyes.",
+          "indo": "seekor burung kecil dengan sayap coklat, dan mata emas."
+        },
+        {
+          "english": "this bird has brown wings and a white belly which is flecked with brown spots.",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih dengan bintik-bintik coklat."
+        },
+        {
+          "english": "this bird has bright yellow eyes, and mottled brown and white feathers on its breast.",
+          "indo": "burung ini bermata kuning cerah, dan bulu berbintik-bintik coklat putih di dadanya."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0120_155133.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has brown wings with two white wing bars brown tail and head his breast belly and abdomen are white with brown feathers in lines",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan dua garis sayap berwarna putih, ekor berwarna coklat dan kepala, perut dada dan perutnya berwarna putih dengan bulu-bulu coklat berbaris"
+        },
+        {
+          "english": "this bird has a speckled breast and belly, with brown wings with white wingbars.",
+          "indo": "burung ini memiliki dada dan perut berbintik-bintik, sayap berwarna coklat dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "a small bird with a white and cream speckled throat, breast and belly, with tan colored secondaries and coverts.",
+          "indo": "seekor burung kecil dengan tenggorokan, dada dan perut berbintik-bintik putih dan krem, dengan bulu dan bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "this bird has a white and brown spotted belly and breast, its wings and are an orange-brown shade that continues down its very long rectrices.",
+          "indo": "burung ini memiliki perut dan dada berbintik putih dan coklat, sayapnya berwarna oranye kecokelatan yang berlanjut ke rectrices yang sangat panjang."
+        },
+        {
+          "english": "medium grey and brown bird with long brown tarsus and long brown beak",
+          "indo": "burung berwarna abu-abu dan coklat sedang dengan tarsus coklat panjang dan paruh coklat panjang"
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a brown bird with a white spotted belly and a yellow eye.",
+          "indo": "ini adalah burung berwarna coklat dengan perut berbintik putih dan mata kuning."
+        },
+        {
+          "english": "this bird has brown and white plumage, with a long beak and long legs.",
+          "indo": "burung ini mempunyai bulu berwarna coklat dan putih, dengan paruh yang panjang dan kaki yang panjang."
+        },
+        {
+          "english": "brown bird with spotted belly with a medium size bill.",
+          "indo": "burung berwarna coklat dengan perut berbintik dengan paruh berukuran sedang."
+        },
+        {
+          "english": "a small brown bird with white underbelly and a long brown tail.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut berwarna putih dan ekor panjang berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0121_155320.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a brown backed bird with a speckled brown and white breast and belly, with a medium sized black bill.",
+          "indo": "burung berpunggung coklat dengan dada dan perut berbintik coklat dan putih, dengan paruh hitam berukuran sedang."
+        },
+        {
+          "english": "a medium sized bird that has tones of brown and dark brown spots on its belly",
+          "indo": "burung berukuran sedang yang memiliki corak coklat dan bintik coklat tua di perutnya"
+        },
+        {
+          "english": "bird has brown body feathers, spotted breast feather, and black beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berbintik, dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has a brown crown and nape, and a white and black spotted breast.",
+          "indo": "burung ini memiliki mahkota dan tengkuk berwarna coklat, serta dada berbintik putih dan hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is red with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are red and has a spotted tail",
+          "indo": "burung ini mempunyai sayap yang berwarna merah dan mempunyai ekor yang berbintik"
+        },
+        {
+          "english": "this bird has a brown body and wings, with speckled chest.",
+          "indo": "burung ini memiliki tubuh dan sayap berwarna coklat, dengan dada berbintik-bintik."
+        },
+        {
+          "english": "this bird has a brown head and wings and a white belly mottled with black.",
+          "indo": "burung ini memiliki kepala dan sayap berwarna coklat serta perut berwarna putih berbintik hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0124_155052.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this small, brown and white bird and a long, thin bill and a tail that points upwards.",
+          "indo": "burung kecil berwarna coklat dan putih ini serta paruh yang panjang dan tipis serta ekor yang mengarah ke atas."
+        },
+        {
+          "english": "lanky bird with a long beak and brown and white feathers.",
+          "indo": "burung kurus dengan paruh panjang dan bulu berwarna coklat putih."
+        },
+        {
+          "english": "this is a small bird, with orange, yellow top feathers, an underbelly of yellow and black, a long black beak and head small to his body.",
+          "indo": "Ini adalah burung kecil, dengan bulu bagian atas berwarna oranye, kuning, perut bagian bawah berwarna kuning dan hitam, paruh hitam panjang dan kepala kecil di badannya."
+        },
+        {
+          "english": "the brown and white bird features vibrant yellow eyes and a long, curved beak.",
+          "indo": "burung berwarna coklat dan putih memiliki mata kuning cerah dan paruh panjang melengkung."
+        },
+        {
+          "english": "russet tan back with two bars of black and white feather tips on wing, long down-curved beak and yellow eyes.",
+          "indo": "punggung berwarna cokelat kemerahan dengan dua batang ujung bulu hitam putih di sayap, paruh panjang melengkung ke bawah, dan mata kuning."
+        },
+        {
+          "english": "this brown and white bird has an elongated head and long curved beak and appears to have a tail protruding from the side of its body.",
+          "indo": "Burung berwarna coklat putih ini memiliki kepala yang memanjang dan paruh yang panjang melengkung serta tampak memiliki ekor yang menonjol dari samping tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has yellow eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata kuning"
+        },
+        {
+          "english": "a small brown bird, with green primaries, 2 wingbars, and a sharp bill.",
+          "indo": "burung kecil berwarna coklat, dengan warna bulu primer hijau, 2 garis sayap, dan paruh runcing."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0126_155199.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "bird with all over brown feathers, black claws, and long thin beak.",
+          "indo": "burung dengan seluruh bulu berwarna coklat, cakar hitam, dan paruh panjang dan tipis."
+        },
+        {
+          "english": "has a bill and rectrices that are proportionately longer than the head and body",
+          "indo": "memiliki paruh dan rectrices  yang secara proporsional lebih panjang dari kepala dan badan"
+        },
+        {
+          "english": "a small bird with a brown head and brown nape, with brown covering the rest of its body, and brown tarsus and feet.",
+          "indo": "burung kecil dengan kepala berwarna coklat dan tengkuk berwarna coklat, seluruh tubuhnya berwarna coklat, serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird is brown in color with a curved black beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat dengan paruh hitam melengkung, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a brown bird with a grey head and a white beak.",
+          "indo": "ini adalah burung berwarna coklat dengan kepala abu-abu dan paruh putih."
+        },
+        {
+          "english": "this yellow eyed small sized bird has a long pointed beak and features a mixture of brown and gray feathers that gives the bird a mottled look that would be good for camouflage.",
+          "indo": "Burung berukuran kecil bermata kuning ini memiliki paruh yang panjang dan runcing serta memiliki ciri campuran bulu berwarna coklat dan abu-abu yang memberikan tampilan belang-belang pada burung yang cocok untuk kamuflase."
+        },
+        {
+          "english": "this particular bird has a white belly and brown breasts and white bill",
+          "indo": "burung ini memiliki perut berwarna putih, dada berwarna coklat, dan paruh berwarna putih"
+        },
+        {
+          "english": "a brown bird with a long bill and tail.",
+          "indo": "seekor burung berwarna coklat dengan paruh dan ekor yang panjang."
+        },
+        {
+          "english": "this bird is brown in color, with a curved beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh melengkung."
+        },
+        {
+          "english": "this bird is brown in color, and has a curved beak.",
+          "indo": "burung ini berwarna coklat, dan mempunyai paruh yang melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0127_155193.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a brown bird with yellow beady eyes and a lighter striped stomach.",
+          "indo": "seekor burung coklat dengan mata manik-manik kuning dan perut bergaris terang."
+        },
+        {
+          "english": "a large bird with a brown crown and a blue eye with a brown back and white and brown spots in the belly",
+          "indo": "burung besar dengan mahkota coklat dan mata biru dengan punggung coklat dan bintik-bintik putih dan coklat di perut"
+        },
+        {
+          "english": "deep russet color adorns the wings and long tail of this medium sized bird, with its strong grey beak and its speckled white and brown belly perched on strong grey legs.",
+          "indo": "Warna coklat kemerahan tua menghiasi sayap dan ekor panjang burung berukuran sedang ini, dengan paruh abu-abu yang kuat dan perutnya yang berbintik-bintik putih dan coklat bertengger di atas kaki abu-abu yang kuat."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has a long black bill, and its back and wings are mostly reddish-brown.",
+          "indo": "burung ini memiliki paruh panjang berwarna hitam, punggung serta sayapnya sebagian besar berwarna coklat kemerahan."
+        },
+        {
+          "english": "this bird has wings that are brown and has a thin bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang tipis"
+        },
+        {
+          "english": "a large brown bird with a pale face and yellow eyes, and a speckled breast.",
+          "indo": "seekor burung besar berwarna coklat dengan wajah pucat dan mata kuning, serta dada berbintik."
+        },
+        {
+          "english": "this bird has a tan body and a long sharp beak.",
+          "indo": "burung ini memiliki tubuh berwarna coklat dan paruh yang panjang dan tajam."
+        },
+        {
+          "english": "this particular bird has a belly that is brown and white",
+          "indo": "burung ini memiliki perut yang berwarna coklat dan putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has yellow eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0130_155350.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this bird has a speckled belly and breast with brown wings and black and white wingbars.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan sayap berwarna coklat dan garis sayap berwarna hitam putih."
+        },
+        {
+          "english": "this little bird has a long, dark-grey bill, light brown down its crown, back and tail, and cream coloring, with brown flecks, on its throat, breast, belly and flank.",
+          "indo": "Burung kecil ini memiliki paruh panjang berwarna abu-abu tua, berwarna coklat muda di bagian ubun-ubun, punggung dan ekor, serta berwarna krem, dengan bintik-bintik coklat, pada tenggorokan, dada, perut dan panggul."
+        },
+        {
+          "english": "bird has black flat beak brown head,brown and black secondaries and tan and black belly.",
+          "indo": "Burung ini memiliki paruh datar berwarna hitam, kepala berwarna coklat, paruh kedua berwarna coklat dan hitam, serta perut berwarna coklat dan hitam."
+        },
+        {
+          "english": "the bird has a spotted white and brown belly with a long rectrices almost of its own body size",
+          "indo": "Burung ini memiliki perut berbintik-bintik berwarna putih kecokelatan dengan rectrices yang panjang hampir sebesar ukuran tubuhnya sendiri"
+        },
+        {
+          "english": "this is a small, brown bird with white on the breast and sides.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan warna putih di dada dan samping."
+        },
+        {
+          "english": "lon bill, brown crown and the wingbars are brown with black and white markings.",
+          "indo": "paruh panjang, mahkota berwarna coklat dan garis sayap berwarna coklat dengan corak hitam putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a spotted belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berbintik"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna coklat."
+        },
+        {
+          "english": "this bird is brown, black and white with spots on its belly, stripes on its wings, a long black tail, a small head, and black pointy beak.",
+          "indo": "burung ini berwarna coklat, hitam dan putih dengan bintik-bintik di perutnya, garis-garis di sayapnya, ekor hitam panjang, kepala kecil, dan paruh runcing hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0132_155337.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "this medium sized bird has mesmerizing speckles on its chest, with a light brown head and piercing yellow eyes.",
+          "indo": "Burung berukuran sedang ini memiliki bintik-bintik yang menawan di dadanya, dengan kepala berwarna coklat muda dan mata kuning yang tajam."
+        },
+        {
+          "english": "a medium sized bird with yellow eyes and a long bill that curves downwards",
+          "indo": "burung berukuran sedang dengan mata kuning dan paruh panjang melengkung ke bawah"
+        },
+        {
+          "english": "this bird is white and brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecokelatan serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown speckled chest, yellow eyes, and a long beak that tilts slightly downward.",
+          "indo": "burung ini memiliki dada berbintik coklat, mata kuning, dan paruh panjang agak miring ke bawah."
+        },
+        {
+          "english": "a yellow and brown bird: yellow in the eye ring, body, and tail, and brown in the head, bill, and spots along the breast.",
+          "indo": "burung berwarna kuning dan coklat: kuning pada lingkar mata, badan, dan ekor, serta coklat pada kepala, paruh, dan bintik-bintik di sepanjang dada."
+        },
+        {
+          "english": "a small bird of dark brown color on the back and light brown on the chest with black spots.",
+          "indo": "burung kecil berwarna coklat tua pada bagian punggung dan coklat muda pada bagian dada dengan bintik hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long grey bill, small head with brown crown and tan and brown spotted breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna abu-abu, kepala kecil dengan mahkota berwarna coklat dan dada berbintik coklat."
+        },
+        {
+          "english": "this bird has a small, skinny head with a long bill and brown and white markings.",
+          "indo": "burung ini memiliki kepala kecil kurus dengan paruh panjang dan corak coklat putih."
+        }
+      ]
+    },
+    {
+      "filename": "Brown_Thrasher_0135_155366.jpg",
+      "class_id": 148,
+      "captions": [
+        {
+          "english": "a small bird with a white breast and belly spotted with brown, and a brown back and wings.",
+          "indo": "seekor burung kecil dengan dada dan perut berwarna putih berbintik-bintik coklat, serta punggung dan sayap berwarna coklat."
+        },
+        {
+          "english": "an almost medium sized bird with bright yellow eyes, a coffee colored back and a spotted white belly.",
+          "indo": "burung berukuran hampir sedang dengan mata kuning cerah, punggung berwarna kopi, dan perut berbintik putih."
+        },
+        {
+          "english": "this medium sized bird is brown with a cream colored breast and belly with brown patches, the beak is long and thin and the eye is yellow and black/",
+          "indo": "burung berukuran sedang ini berwarna coklat dengan dada dan perut berwarna krem ​​​​dengan bercak coklat, paruhnya panjang dan tipis serta matanya berwarna kuning dan hitam/"
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a yellow eyering and a long brown bill that is skinny.",
+          "indo": "burung ini memiliki cincin mata berwarna kuning dan paruh panjang berwarna coklat yang kurus."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown and white in color, with a brown beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh berwarna coklat."
+        },
+        {
+          "english": "this bird is brown and white in color, with a large brown beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh besar berwarna coklat."
+        },
+        {
+          "english": "this bird is spotted brown in color, with a long brown beak.",
+          "indo": "burung ini berwarna coklat totol, dengan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "this bird is spotted white and brown in color, and has a dark colored beak.",
+          "indo": "burung ini berbintik putih kecokelatan, serta mempunyai paruh berwarna gelap."
+        }
+      ]
+    }
+  ]
+}

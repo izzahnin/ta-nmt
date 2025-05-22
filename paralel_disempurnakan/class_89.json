@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Red_Breasted_Merganser_0001_79199.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the breast is golden-brown, the throat is white and the head is black with red eyes.",
+          "indo": "dada berwarna coklat keemasan, tenggorokan berwarna putih dan kepala berwarna hitam dengan mata merah."
+        },
+        {
+          "english": "a duck with red eyerings, black crown and throat, brown and black breast, a long brown bill and black and white wingbars, coverts, and secondaries.",
+          "indo": "bebek dengan cincin mata merah, mahkota dan tenggorokan hitam, dada coklat dan hitam, paruh coklat panjang dan garis sayap hitam putih, bulu, dan bulu sekunder."
+        },
+        {
+          "english": "this is a bird with black wings, brown breast and a red beak.",
+          "indo": "ini adalah burung dengan sayap hitam, dada coklat dan paruh merah."
+        },
+        {
+          "english": "bird with red eye, brown beak that is slightly curved at the tip, black crown, nape and throat",
+          "indo": "burung bermata merah, paruh berwarna coklat yang ujungnya agak melengkung, mahkota, tengkuk dan tenggorokan berwarna hitam"
+        },
+        {
+          "english": "this large bird has a speckled breast, white ring around it's neck, and bright orange eyes.",
+          "indo": "burung besar ini memiliki dada berbintik-bintik, cincin putih di sekitar lehernya, dan mata berwarna oranye cerah."
+        },
+        {
+          "english": "this bird has wings that are black and white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are black and has a brown chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai dada berwarna coklat"
+        },
+        {
+          "english": "this is a duck with a black head a stray feathers, with a brown chest, black and white back and sides",
+          "indo": "ini adalah bebek dengan kepala berwarna hitam, bulu tersesat, dada berwarna coklat, punggung dan samping berwarna hitam putih"
+        },
+        {
+          "english": "a large bird with long beak, black head and crown, white throat, brown chest with black spots, white primaries and black secondaries.",
+          "indo": "burung besar dengan paruh panjang, kepala dan mahkota berwarna hitam, tenggorokan putih, dada coklat berbintik hitam, bulu primer putih dan bulu sekunder hitam."
+        },
+        {
+          "english": "a large bird with red bill and eye, brown with black speckled chest, mostly black head, black back, and white with black speckled primaries.",
+          "indo": "burung besar dengan paruh dan mata merah, coklat dengan dada berbintik hitam, kepala sebagian besar berwarna hitam, punggung hitam, dan bulu primer putih berbintik hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0002_79447.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a black water fowl has a white neck, black head, and brown beak.",
+          "indo": "unggas air berwarna hitam memiliki leher berwarna putih, kepala berwarna hitam, dan paruh berwarna coklat."
+        },
+        {
+          "english": "this is a bird with black wings a white throat and a black head.",
+          "indo": "ini adalah burung bersayap hitam, tenggorokan putih, dan kepala hitam."
+        },
+        {
+          "english": "the bird has a red eyering and a crown that is black.",
+          "indo": "burung itu memiliki cincin mata merah dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this water bird has a long, straight beak with a brown breast and gray, black and white wings.",
+          "indo": "burung air ini memiliki paruh panjang lurus dengan dada berwarna coklat dan sayap berwarna abu-abu hitam putih."
+        },
+        {
+          "english": "this is a multicolored aquatic bird with a black head and back, grey and white wings, a grey tail, and an area of brown and black spots on its breast.",
+          "indo": "Ini adalah burung akuatik beraneka warna dengan kepala dan punggung hitam, sayap abu-abu dan putih, ekor abu-abu, dan area bercak coklat dan hitam di dadanya."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a brown chest",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai dada berwarna coklat"
+        },
+        {
+          "english": "this bird has a red eye ring, black crown and coverts and grey flank.",
+          "indo": "burung ini memiliki cincin mata berwarna merah, mahkota dan bulu berwarna hitam, serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "red eyes with a long dark orange bill, a black head leading to a white neck, and white, black and grey wings.",
+          "indo": "mata merah dengan paruh panjang berwarna oranye tua, kepala hitam mengarah ke leher putih, dan sayap putih, hitam dan abu-abu."
+        },
+        {
+          "english": "this bird has a black crown, white and grey primaries, and a white throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna putih dan abu-abu, serta tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a long and point rust-red bill, a snow white throat, brown breast and black feathered crown.",
+          "indo": "burung ini memiliki paruh yang panjang dan runcing berwarna merah karat, tenggorokan seputih salju, dada berwarna coklat, dan mahkota berbulu hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0003_79303.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a brown breast and black head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna coklat dan kepala berwarna hitam."
+        },
+        {
+          "english": "big bird with big brown and white wings black head orange long flat beak with orange larsus.",
+          "indo": "burung besar dengan sayap besar berwarna coklat dan putih kepala hitam paruh datar panjang oranye dengan larsus oranye."
+        },
+        {
+          "english": "a waterbound bird with a blue head, white belly, and gray wings.",
+          "indo": "burung yang hidup di air dengan kepala biru, perut putih, dan sayap abu-abu."
+        },
+        {
+          "english": "this bird is black and white in color with a long beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh panjang, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "bird with sharp pointed beak, black crown and throat, with white belly and abdomen",
+          "indo": "burung dengan paruh runcing runcing, mahkota dan tenggorokan berwarna hitam, dengan perut dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and brown and has a green head",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam kecokelatan dan mempunyai kepala yang berwarna hijau"
+        },
+        {
+          "english": "this bird has wings that are brown and has a green head",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai kepala yang berwarna hijau"
+        },
+        {
+          "english": "this bird is white, black, and brown in color, with a large flat beak.",
+          "indo": "burung ini berwarna putih, hitam, dan coklat, dengan paruh besar yang rata."
+        },
+        {
+          "english": "a large bird with a white throat, large wings, a white throat, rust chest, black head, and red bill.",
+          "indo": "burung besar dengan tenggorokan putih, sayap besar, tenggorokan putih, dada karat, kepala hitam, dan paruh merah."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0004_79232.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this water bird has a tan to brown plumage with white underfeathers and a flat, duck-like bill.",
+          "indo": "burung air ini memiliki bulu berwarna coklat kecokelatan dengan bulu bagian bawah berwarna putih dan paruh rata seperti bebek."
+        },
+        {
+          "english": "a bird with a brown back and tail, a long orange bill and orange tarsus.",
+          "indo": "burung dengan punggung dan ekor berwarna coklat, paruh panjang berwarna jingga, dan tarsus jingga."
+        },
+        {
+          "english": "this bird has a long, orange, curved bill, a light brown cheek patch, and brown tarsus.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye, melengkung, bercak pipi berwarna coklat muda, dan tarsus berwarna coklat."
+        },
+        {
+          "english": "it is a duck that has an orange neck and a long beak.",
+          "indo": "itu adalah bebek yang memiliki leher oranye dan paruh panjang."
+        },
+        {
+          "english": "a medium sized bird that has tones of dark brown with a large sized bill",
+          "indo": "burung berukuran sedang yang memiliki corak coklat tua dengan paruh berukuran besar"
+        },
+        {
+          "english": "the bird has a long, wide bill and a light brown body.",
+          "indo": "burung ini memiliki paruh yang panjang dan lebar serta tubuh berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a long orange bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat serta paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "a brown bird with a long, flat, orange bill and black feather on its wings.",
+          "indo": "burung berwarna coklat dengan paruh panjang, pipih, berwarna oranye dan bulu hitam di sayapnya."
+        },
+        {
+          "english": "a medium sized bird with a flat orange bill, large wings that repel water, s shaped neck with grey and light brown all over the body.",
+          "indo": "burung berukuran sedang dengan paruh pipih berwarna jingga, sayap besar yang menolak air, leher berbentuk S dengan warna abu-abu dan coklat muda di sekujur badan."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0006_79216.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this is a black bird with a white band on its throat and speckled black and white wings.",
+          "indo": "ini adalah burung berwarna hitam dengan pita putih di tenggorokannya dan sayap berbintik hitam putih."
+        },
+        {
+          "english": "this bird is white and grey with a black back and head and an orange beak.",
+          "indo": "burung ini berwarna putih abu-abu dengan punggung dan kepala berwarna hitam serta paruh berwarna jingga."
+        },
+        {
+          "english": "the crown of this bird has a very distinctive spike, with deep red eyes that project forward while in the water.",
+          "indo": "Mahkota burung ini memiliki duri yang sangat khas, dengan mata berwarna merah tua yang menonjol ke depan saat berada di dalam air."
+        },
+        {
+          "english": "it looks like a duck with very dark color, a black head, and a long beak.",
+          "indo": "bentuknya seperti bebek dengan warna sangat gelap, kepala hitam, dan paruh panjang."
+        },
+        {
+          "english": "a long and orange bill, stringy feathers atop a crown, a white stripe on its throat - this is one odd-looking duck.",
+          "indo": "paruh panjang dan oranye, bulu berserabut di atas mahkota, garis putih di tenggorokannya - ini adalah salah satu bebek yang tampak aneh."
+        },
+        {
+          "english": "this bird has a red eye ring, black face and crown, white throat and neck, and black and white secondaries.",
+          "indo": "burung ini memiliki cincin mata berwarna merah, muka dan mahkota berwarna hitam, tenggorokan dan leher berwarna putih, serta bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "this black and white bird has a light brown breast, red eye and red beak.",
+          "indo": "burung berwarna hitam putih ini memiliki dada berwarna coklat muda, mata merah dan paruh berwarna merah."
+        },
+        {
+          "english": "this bird is black with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0008_79458.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a brown head, brown body, an orange bill, and a light tan cheek patch.",
+          "indo": "burung ini memiliki kepala berwarna coklat, badan berwarna coklat, paruh berwarna jingga, dan bercak pipi berwarna coklat muda."
+        },
+        {
+          "english": "this bird is mostly brown with a long narrow bill.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan paruh yang panjang dan sempit."
+        },
+        {
+          "english": "this aquatic bird's body is rusty-brown, with a reddish-orange bill and orange eyes.",
+          "indo": "Tubuh burung akuatik ini berwarna coklat karat, paruh berwarna jingga kemerahan, dan mata berwarna jingga."
+        },
+        {
+          "english": "this ugly bird has a mostly brown body, large pointy bill, and bright orange eyes.",
+          "indo": "burung jelek ini memiliki tubuh sebagian besar berwarna coklat, paruh besar runcing, dan mata berwarna oranye cerah."
+        },
+        {
+          "english": "this brown bird has an orange bill and a lighter neck.",
+          "indo": "burung berwarna coklat ini memiliki paruh berwarna oranye dan leher yang lebih terang."
+        },
+        {
+          "english": "this bird is black with red and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam merah dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a red bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan mempunyai paruh berwarna merah"
+        },
+        {
+          "english": "a large bird with a brown overall body, and an orange beak.",
+          "indo": "seekor burung besar dengan tubuh keseluruhan berwarna coklat, dan paruh berwarna oranye."
+        },
+        {
+          "english": "this bird has a crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a brown crown with a brown bill and brown back.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan paruh berwarna coklat dan punggung berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0009_79576.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a large sized aquatic bird with a white stripe on the neck, and long curved bill",
+          "indo": "burung akuatik berukuran besar dengan garis putih di leher, dan paruh panjang melengkung"
+        },
+        {
+          "english": "this black-headed bird has a large flat bill, orange eyerings, and a white ring around its nape.",
+          "indo": "burung berkepala hitam ini memiliki paruh besar yang rata, cincin mata berwarna oranye, dan cincin putih di sekitar tengkuknya."
+        },
+        {
+          "english": "a large bird with with a black crown and throat region with a white band around the neck and red eye",
+          "indo": "seekor burung besar dengan mahkota dan daerah tenggorokan berwarna hitam dengan pita putih di sekitar leher dan mata merah"
+        },
+        {
+          "english": "this bird is black, white, and brown in color with a red beak, and red eye rings.",
+          "indo": "burung ini berwarna hitam, putih, dan coklat dengan paruh berwarna merah, dan cincin mata berwarna merah."
+        },
+        {
+          "english": "this bird has a grey wing, a brown neck, a white throat and a green head.",
+          "indo": "burung ini memiliki sayap berwarna abu-abu, leher berwarna coklat, tenggorokan berwarna putih dan kepala berwarna hijau."
+        },
+        {
+          "english": "a medium sized bird, with a black back and crown, with grey secondaries, and a flat bill.",
+          "indo": "burung berukuran sedang, dengan punggung dan mahkota berwarna hitam, bulu sekunder berwarna abu-abu, dan paruh rata."
+        },
+        {
+          "english": "a bird that has a long orange flat bill, white neck, bright orange eyering and dark green crown.",
+          "indo": "burung yang mempunyai paruh pipih berwarna jingga panjang, leher berwarna putih, cincin mata berwarna jingga cerah, dan mahkota berwarna hijau tua."
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah"
+        },
+        {
+          "english": "this bird has wings that are brown and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata merah"
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0010_79567.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a black head, white nape, tan breast, red bill, black back and white covers and secondaries.",
+          "indo": "Burung ini mempunyai kepala berwarna hitam, tengkuk berwarna putih, dada berwarna coklat, paruh berwarna merah, punggung berwarna hitam, dan penutup berwarna putih serta bulu sekunder."
+        },
+        {
+          "english": "this bird has a black head and crown with orange bill as well as black and white side and covert.",
+          "indo": "Burung ini mempunyai kepala dan mahkota berwarna hitam dengan paruh berwarna jingga serta bagian samping berwarna hitam putih dan bulu penutup."
+        },
+        {
+          "english": "beak is red head is black throat is white wings are black and grey.",
+          "indo": "paruh berwarna merah, kepala berwarna hitam, tenggorokan berwarna putih, sayap berwarna hitam dan abu-abu."
+        },
+        {
+          "english": "bird with orange beak that long and slightly curved at the tip, and orange eye, and black crown, throat,",
+          "indo": "burung dengan paruh berwarna jingga yang panjang dan ujungnya agak melengkung, serta mata berwarna jingga, dan mahkota, tenggorokan berwarna hitam,"
+        },
+        {
+          "english": "this is a black and white bird with a orange bill with a white throat",
+          "indo": "ini adalah burung hitam putih dengan paruh oranye dan tenggorokan putih"
+        },
+        {
+          "english": "this bird has wings that are black and white and has a orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a bright red eye ring, a green crown, and black covering the rest of its head along with a grey and white flank .",
+          "indo": "burung ini memiliki cincin mata berwarna merah cerah, mahkota berwarna hijau, dan warna hitam menutupi seluruh kepalanya serta sisi berwarna abu-abu dan putih."
+        },
+        {
+          "english": "the bird has a long red bill that is curved and a curved throat.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah yang melengkung dan tenggorokan yang melengkung."
+        },
+        {
+          "english": "the bird is in several colors with a big brown bill",
+          "indo": "burung itu memiliki beberapa warna dengan paruh besar berwarna coklat"
+        },
+        {
+          "english": "a large bird with a white, black, and gray body with a long beak.",
+          "indo": "seekor burung besar dengan tubuh berwarna putih, hitam, dan abu-abu dengan paruh yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0012_79425.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird is mostly speckled with a large flat orange bill.",
+          "indo": "burung ini sebagian besar berbintik-bintik dengan paruh besar berwarna oranye pipih."
+        },
+        {
+          "english": "this large aquatic bird has a speckled appearance with large orange bill and eyes.",
+          "indo": "burung akuatik berukuran besar ini berpenampilan berbintik-bintik dengan paruh dan mata besar berwarna jingga."
+        },
+        {
+          "english": "this medium sized brown and grey bird has a long orange bill.",
+          "indo": "burung berukuran sedang berwarna coklat dan abu-abu ini memiliki paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this is a bird with a grey back, brown head and a red eye.",
+          "indo": "ini adalah burung dengan punggung abu-abu, kepala coklat dan mata merah."
+        },
+        {
+          "english": "this waterfowl has a orange bill with red eyes and a brownish grey covering.",
+          "indo": "Unggas air ini memiliki paruh berwarna jingga, bermata merah, dan ditutupi bulu berwarna abu-abu kecoklatan."
+        },
+        {
+          "english": "this is a medium sized bird, with grey wings and back, light brown cheek patches, and a black crown.",
+          "indo": "ini adalah burung berukuran sedang, dengan sayap dan punggung berwarna abu-abu, bercak pipi berwarna coklat muda, dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has red eyes, a red bill and feet and brown and white secondaries.",
+          "indo": "burung ini bermata merah, paruh dan kaki berwarna merah, serta paruh berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has a brown crown as well as a long orange bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat serta paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0013_79301.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has sharp pointed beak, with black throat and crown and black wings with two wingbars.",
+          "indo": "burung ini mempunyai paruh yang runcing, tenggorokan dan mahkota berwarna hitam, serta sayap berwarna hitam dengan dua garis sayap."
+        },
+        {
+          "english": "this bird has black head including crown and eyepatch as well as a long orange bill with black coverts too.",
+          "indo": "burung ini memiliki kepala berwarna hitam termasuk mahkota dan bulu penutup mata serta paruh panjang berwarna oranye dengan bulu penutup hitam juga."
+        },
+        {
+          "english": "a large bird with a black head and long orange beak",
+          "indo": "seekor burung besar dengan kepala hitam dan paruh oranye panjang"
+        },
+        {
+          "english": "a large bird with black crown, white throat, red eye and black back.",
+          "indo": "seekor burung besar dengan mahkota hitam, tenggorokan putih, mata merah dan punggung hitam."
+        },
+        {
+          "english": "this bird has a long slender orange bill with a bright white neck and a black crown.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye dengan leher berwarna putih cerah dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a belly that is gray with gray secondaries",
+          "indo": "burung ini mempunyai perut yang berwarna abu-abu dengan warna abu-abu bulu sekunder"
+        },
+        {
+          "english": "the bird is large with a pointed bill, has red eyes and the head is black.",
+          "indo": "burungnya berukuran besar dengan paruh runcing, bermata merah, dan kepalanya berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown with long narrow orange bill and white throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan paruh panjang berwarna oranye dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown and bright red eyering color",
+          "indo": "burung ini mempunyai mahkota berwarna coklat dan warna cincin mata merah cerah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0014_79205.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a bird swimming that has a brown head and long narrow beak with greyish-brown colored body.",
+          "indo": "burung berenang yang mempunyai kepala berwarna coklat dan paruh panjang dan sempit dengan badan berwarna coklat keabu-abuan."
+        },
+        {
+          "english": "this waterfowl has a stone-like color to most of its feathers, but it has an offwhite breast, a brown head, and a rather long brown bill.",
+          "indo": "Unggas air ini memiliki warna seperti batu pada sebagian besar bulunya, namun memiliki dada berwarna putih pucat, kepala berwarna coklat, dan paruh berwarna coklat agak panjang."
+        },
+        {
+          "english": "this is a grey bird with a white breast and brown head.",
+          "indo": "ini adalah burung abu-abu dengan dada putih dan kepala coklat."
+        },
+        {
+          "english": "this bird has a tapered orange beak with greyish wingbars and a dirty white breast.",
+          "indo": "burung ini mempunyai paruh berwarna jingga meruncing dengan garis sayap berwarna keabu-abuan dan dada berwarna putih kotor."
+        },
+        {
+          "english": "medium sized gray bird with a brown feathered head and a long narrow beak.",
+          "indo": "burung abu-abu berukuran sedang dengan kepala berbulu coklat dan paruh panjang dan sempit."
+        },
+        {
+          "english": "this particular bird has gray sides and a brown neck with a long bill",
+          "indo": "burung ini memiliki sisi berwarna abu-abu dan leher berwarna coklat dengan paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are white and has a brown head",
+          "indo": "burung ini memiliki sayap yang berwarna putih dan memiliki kepala berwarna coklat"
+        },
+        {
+          "english": "this bird is spotted brown in color, with a long brown beak.",
+          "indo": "burung ini berwarna coklat totol, dengan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0016_79476.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a grey and white body with a black head and a long pointy beak.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu putih dengan kepala berwarna hitam dan paruh panjang dan runcing."
+        },
+        {
+          "english": "this water bird has a large dark hairlike crown and a long orange bill.",
+          "indo": "burung air ini memiliki mahkota besar seperti rambut berwarna gelap dan paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "this water duck has an irredentist head of green, long bill and a mostly white body with black and brown highlights",
+          "indo": "bebek air ini memiliki kepala berwarna hijau yang tidak teratur, paruh yang panjang dan tubuh yang sebagian besar berwarna putih dengan sentuhan warna hitam dan coklat"
+        },
+        {
+          "english": "a large bird with a grayish white body, and a green head with an orange bill",
+          "indo": "seekor burung besar dengan tubuh putih keabu-abuan, dan kepala berwarna hijau dengan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird is grey with green on its head and has a long, pointy beak.",
+          "indo": "Burung ini berwarna abu-abu dengan warna hijau pada bagian kepalanya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a dark green head with a long feathered crown and long, flat orange bill.",
+          "indo": "burung ini memiliki kepala berwarna hijau tua dengan mahkota berbulu panjang dan paruh panjang berwarna oranye pipih."
+        },
+        {
+          "english": "a bird with an orange bill, brown breast and grey secondaries.",
+          "indo": "seekor burung dengan paruh oranye, dada coklat, dan bulu sekunder berwarna abu-abu."
+        },
+        {
+          "english": "the bird has a green head with a long bill.",
+          "indo": "burung itu memiliki kepala berwarna hijau dengan paruh yang panjang."
+        },
+        {
+          "english": "this multicolored bird has a dark green head with thin long feathers on it's crown and the back of it's head.",
+          "indo": "Burung beraneka warna ini memiliki kepala berwarna hijau tua dengan bulu tipis panjang di bagian ubun-ubun dan bagian belakang kepalanya."
+        },
+        {
+          "english": "a medium sized bird, with a spiky black crown, and a pointed bill.",
+          "indo": "seekor burung berukuran sedang, dengan mahkota hitam runcing, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0017_79224.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a bright red long beak that is not very pointy at the end and a matching bright red eye, while its black feathers on the head and nape are standing up.",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah cerah yang ujungnya tidak terlalu runcing dan mata berwarna merah cerah serasi, sedangkan bulu hitam di kepala dan tengkuknya berdiri."
+        },
+        {
+          "english": "the waterbird has a long orange bill and black and white body.",
+          "indo": "burung air memiliki paruh panjang berwarna jingga dan badan berwarna hitam putih."
+        },
+        {
+          "english": "bird has gray and black feathers and a long flat beak",
+          "indo": "burung memiliki bulu berwarna abu-abu dan hitam serta paruh yang panjang dan rata"
+        },
+        {
+          "english": "this bird has a black head with fringed feathers on top, a red beak, and a white neck.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan bulu berpohon di atasnya, paruh berwarna merah, dan leher berwarna putih."
+        },
+        {
+          "english": "a bird with a flat rounded orange bill orange eye white throat and green head",
+          "indo": "burung dengan paruh bulat pipih berwarna jingga, mata jingga, tenggorokan putih, dan kepala berwarna hijau"
+        },
+        {
+          "english": "this medium sized bird has a long flat beak and is green, brown, white and black color.",
+          "indo": "burung berukuran sedang ini mempunyai paruh yang panjang dan pipih serta berwarna hijau, coklat, putih dan hitam."
+        },
+        {
+          "english": "orange beak, red eyes, black tufted crown, white ring around the neck, brown breast, and grey, white and black wings.",
+          "indo": "paruh oranye, mata merah, mahkota berumbai hitam, cincin putih di sekitar leher, dada coklat, dan sayap abu-abu, putih dan hitam."
+        },
+        {
+          "english": "this bird is black, white, and brown in color, with a flat orange beak.",
+          "indo": "burung ini berwarna hitam, putih, dan coklat, dengan paruh pipih berwarna jingga."
+        },
+        {
+          "english": "a bird with black crown, the white and black wings, the bill is orange, long and curved, and black color crown",
+          "indo": "burung bermahkota hitam, bersayap putih hitam, paruh jingga, panjang melengkung, dan mahkota berwarna hitam"
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0021_79168.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a long orange billed bird with a long neck and gray primaries.",
+          "indo": "burung berparuh oranye panjang dengan leher panjang dan warna bulu primer abu-abu."
+        },
+        {
+          "english": "this water bird has a long, bright orange bill, a bright red tarsus, and a black and white breast.",
+          "indo": "burung air ini memiliki paruh yang panjang berwarna oranye terang, tarsus berwarna merah cerah, dan dada berwarna hitam putih."
+        },
+        {
+          "english": "this strange bird has bright orange feet, orange long beat, and brown and white body.",
+          "indo": "burung aneh ini memiliki kaki berwarna jingga cerah, paruh panjang berwarna jingga, dan badan berwarna coklat putih."
+        },
+        {
+          "english": "this is a large, swimming bird with a dark grey body and a bright orange bill.",
+          "indo": "ini adalah burung berenang besar dengan tubuh abu-abu gelap dan paruh oranye terang."
+        },
+        {
+          "english": "a medium sized bird with a brownish-grey and white body, bright orange-red feet, and a long, bright orange-red bill.",
+          "indo": "burung berukuran sedang dengan tubuh abu-abu kecoklatan dan putih, kaki berwarna oranye-merah cerah, dan paruh panjang berwarna oranye-merah cerah."
+        },
+        {
+          "english": "this bird has a long bill compared to its body with white and grey feathers on its wings.",
+          "indo": "burung ini memiliki paruh yang panjang dibandingkan tubuhnya dengan bulu berwarna putih dan abu-abu pada sayapnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are brown and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0022_79274.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has a black head and a white neck with a long red bill.",
+          "indo": "burung ini memiliki kepala berwarna hitam dan leher berwarna putih dengan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird is black with white on its side and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam dengan bagian sisinya berwarna putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "medium sized bird with long flat orange beak, black head and feathered crown, white neck, white sides, and predominantly black feathers.",
+          "indo": "burung berukuran sedang dengan paruh panjang berwarna jingga, kepala dan mahkota berbulu berwarna hitam, leher berwarna putih, sisi samping berwarna putih, dan bulu dominan berwarna hitam."
+        },
+        {
+          "english": "the bird has a black head, white throat and black coverts.",
+          "indo": "burung itu memiliki kepala berwarna hitam, tenggorokan berwarna putih, dan bulu berwarna hitam."
+        },
+        {
+          "english": "a bird with a large rounded orange bill, orange eye, swept back crown and white throat.",
+          "indo": "burung dengan paruh besar berwarna jingga, bulat, bermata jingga, mahkota menyapu ke belakang, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has red eyes, a black crown and coverts, and grey and white along its flank.",
+          "indo": "burung ini bermata merah, mahkota dan bulu berwarna hitam, serta sisi tubuhnya berwarna abu-abu putih."
+        },
+        {
+          "english": "this bird is black, white, and brown in color, with a large flat orange beak.",
+          "indo": "burung ini berwarna hitam, putih, dan coklat, dengan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird is mostly black and white and has a large orange bill.",
+          "indo": "burung ini sebagian besar berwarna hitam putih dan memiliki paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0023_79477.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a bird with a long, flat, red bill, swept back crown, brown throat, and white breast.",
+          "indo": "burung dengan paruh panjang, pipih, berwarna merah, ubun-ubun ke belakang, tenggorokan berwarna coklat, dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, a flat bill, and a long neck.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh rata, dan leher panjang."
+        },
+        {
+          "english": "this is a large black and brown bird with a long orange beak.",
+          "indo": "ini adalah burung besar berwarna hitam dan coklat dengan paruh oranye panjang."
+        },
+        {
+          "english": "this is a bird with a black back, brown throat and head and a long orange bill.",
+          "indo": "ini adalah burung dengan punggung berwarna hitam, tenggorokan dan kepala berwarna coklat serta paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "a large bird with a blackish brown upper body, a brown neck, and an orangish beak",
+          "indo": "burung besar dengan tubuh bagian atas berwarna coklat kehitaman, leher berwarna coklat, dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are brown with a long orange beak",
+          "indo": "burung ini mempunyai sayap berwarna coklat dengan paruh panjang berwarna oranye"
+        },
+        {
+          "english": "this brown aquatic bird has a white chest and flat, orange beak.",
+          "indo": "burung akuatik berwarna coklat ini memiliki dada berwarna putih dan paruh rata berwarna oranye."
+        },
+        {
+          "english": "this bird is brown and white in color, with a large flat beak.",
+          "indo": "burung ini berwarna coklat dan putih, dengan paruh besar yang rata."
+        },
+        {
+          "english": "this brown water bird has a long red beak, a tufted black crown, and spots of white along its side.",
+          "indo": "Burung air berwarna coklat ini memiliki paruh panjang berwarna merah, mahkota berumbai berwarna hitam, dan bintik-bintik putih di sepanjang sisinya."
+        },
+        {
+          "english": "this bird has a long red bill and a black crown and grey throat.",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah dan mahkota berwarna hitam serta tenggorokan berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0024_79483.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a long, flat beak and dark red eyes accentuating its black-colored head in contrast to its silver flank.",
+          "indo": "burung ini memiliki paruh yang panjang dan rata serta mata berwarna merah tua yang menonjolkan kepalanya yang berwarna hitam kontras dengan sisi tubuhnya yang berwarna perak."
+        },
+        {
+          "english": "this is a grey bird with a black back and head and a pointy orange beak.",
+          "indo": "ini adalah burung abu-abu dengan punggung dan kepala hitam serta paruh oranye runcing."
+        },
+        {
+          "english": "this bird has a long orange bill, a black crown, and a red tarsus and foot.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga, mahkota berwarna hitam, serta tarsus dan kaki berwarna merah."
+        },
+        {
+          "english": "this bird has an orange bill, a black head, back and covert and a white throat.",
+          "indo": "burung ini mempunyai paruh berwarna jingga, kepala berwarna hitam, punggung dan bulu penutup serta tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has a black head and back and a long red beak.",
+          "indo": "burung ini memiliki kepala dan punggung berwarna hitam serta paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird has a black, white and gray body, a long, dull red beak and a black head.",
+          "indo": "burung ini memiliki tubuh berwarna hitam, putih dan abu-abu, paruh panjang berwarna merah kusam, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has gray wings, and black back and rump, brown and white throat, and a dark black crown with orange bill and tarsus.",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu, punggung dan pantat berwarna hitam, tenggorokan berwarna coklat dan putih, serta mahkota berwarna hitam tua dengan paruh dan tarsus berwarna jingga."
+        },
+        {
+          "english": "this bird is gray, brown, white, and green in color, with a flat red beak.",
+          "indo": "burung ini berwarna abu-abu, coklat, putih, dan hijau, dengan paruh pipih berwarna merah."
+        },
+        {
+          "english": "this bird has a black crown, grey primaries, and a brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, bulu primer berwarna abu-abu, dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0027_79284.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a medium head compared to the rest of the body and, a long flat bill",
+          "indo": "burung ini memiliki kepala yang sedang dibandingkan dengan bagian tubuh lainnya dan paruh yang panjang dan rata"
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and brownish orange beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna jingga kecoklatan"
+        },
+        {
+          "english": "this bird has a black head, orange bill and eyes, and a white ring around it's neck.",
+          "indo": "burung ini memiliki kepala berwarna hitam, paruh dan mata berwarna oranye, serta cincin putih di sekeliling lehernya."
+        },
+        {
+          "english": "a bird with a flat orange bill, red eye, black head, long neck, and white throat.",
+          "indo": "burung dengan paruh pipih berwarna oranye, mata merah, kepala hitam, leher panjang, dan tenggorokan putih."
+        },
+        {
+          "english": "this is a strange, swimming bird with a black head and long, orange bill.",
+          "indo": "ini adalah burung perenang yang aneh dengan kepala hitam dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a black crown, and vibrant red eyes, has a long rounded bill.",
+          "indo": "seekor burung besar dengan mahkota hitam, dan mata merah cerah, memiliki paruh yang panjang dan membulat."
+        },
+        {
+          "english": "a medium size bird with a green head, orange eye, and long, orange beak.",
+          "indo": "burung berukuran sedang dengan kepala berwarna hijau, mata oranye, dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is black, white and grey with red eyes and a long orange bill.",
+          "indo": "burung ini berwarna hitam, putih dan abu-abu dengan mata merah dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "a large sized bird with a brown head and elongated orange beak, its neck has a white ring that fades to brown as it reaches it's breast and gray secondaries.",
+          "indo": "burung berukuran besar dengan kepala berwarna coklat dan paruh jingga memanjang, di lehernya terdapat cincin berwarna putih yang memudar menjadi coklat saat mencapai dada dan bulu sekunder berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0030_79411.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "duck with long brown hair on the head with a dark orange beak.",
+          "indo": "bebek dengan rambut coklat panjang di kepala dengan paruh berwarna oranye tua."
+        },
+        {
+          "english": "a small bird with a long brown bill and a long brown crown and nape.",
+          "indo": "seekor burung kecil dengan paruh panjang berwarna coklat dan mahkota serta tengkuk panjang berwarna coklat."
+        },
+        {
+          "english": "the bird has a long bill that is orange and a black eyering.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a brown and grey bird with a sharp long bill and deep brown to ashy brown crown.",
+          "indo": "burung berwarna coklat dan abu-abu dengan paruh panjang yang tajam dan mahkota berwarna coklat tua sampai coklat pucat."
+        },
+        {
+          "english": "a medium sized bird that has tones of grey and dark brown with a very long bill",
+          "indo": "burung berukuran sedang berwarna abu-abu dan coklat tua dengan paruh yang sangat panjang"
+        },
+        {
+          "english": "this bird contains a brown and black crown, nape and neck, and brown white and grey feathers along the rest of its body.",
+          "indo": "burung ini memiliki mahkota, tengkuk dan leher berwarna coklat dan hitam, serta bulu berwarna coklat putih dan abu-abu di seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a orange head",
+          "indo": "burung ini memiliki sayap yang berwarna coklat dan memiliki kepala berwarna oranye"
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white and black",
+          "indo": "burung ini memiliki perut berwarna abu-abu, putih, dan hitam"
+        },
+        {
+          "english": "this aquatic bird has a fuzzy-appearing black crest, brown neck, and grey-and-white body feathers.",
+          "indo": "burung akuatik ini memiliki jambul hitam yang tampak kabur, leher berwarna coklat, dan bulu tubuh berwarna abu-abu putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0031_79372.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird is medium in size with long thing feather atop its head, a gray feathered body, a golden head and a long, orange beak.",
+          "indo": "burung ini berukuran sedang dengan bulu panjang di atas kepalanya, badan berbulu abu-abu, kepala emas dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "a brown water-bird that has orange eyes, orange long neck and orange long beak.",
+          "indo": "burung air berwarna coklat bermata jingga, leher panjang jingga, dan paruh panjang jingga."
+        },
+        {
+          "english": "this bird has a long, orange, curved bill, a white throat and breast, and gray wings.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga melengkung, tenggorokan dan dada berwarna putih, serta sayap berwarna abu-abu."
+        },
+        {
+          "english": "this brown seismic bird has a long bent beck and a long, large orange bill.",
+          "indo": "burung seismik berwarna coklat ini memiliki paruh yang panjang dan bengkok serta paruh berwarna oranye yang panjang dan besar."
+        },
+        {
+          "english": "this bird has a long orange bill, a long neck, and a back that is grey",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga, leher panjang, dan punggung berwarna abu-abu"
+        },
+        {
+          "english": "this bird has feathers that are brown with a long orange bill",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dengan paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this water-bird has black tuft on its crown, has brownish orange neck and head and brightly orange colored eyes and beak.",
+          "indo": "burung air ini mempunyai jambul hitam pada mahkotanya, leher dan kepala berwarna jingga kecoklatan, serta mata dan paruh berwarna jingga cerah."
+        },
+        {
+          "english": "this bird has wings that are brown and has orange eys",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai mata yang berwarna orange"
+        },
+        {
+          "english": "this is a gray bird with a light brown long neck, pink eye and pink bill.",
+          "indo": "ini adalah burung abu-abu dengan leher panjang berwarna coklat muda, mata merah muda dan paruh merah muda."
+        },
+        {
+          "english": "this bird has a long flat orange bill, with a long neck.",
+          "indo": "burung ini mempunyai paruh panjang berwarna oranye pipih, dengan leher yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0032_79280.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a black plumed crown with white ring around its neck.",
+          "indo": "burung ini mempunyai mahkota berbulu hitam dengan cincin putih di lehernya."
+        },
+        {
+          "english": "the bird has a brown breast, white throat, black crown, long brown beak, black wingbars and secondaries.",
+          "indo": "burung ini memiliki dada berwarna coklat, tenggorokan berwarna putih, mahkota berwarna hitam, paruh panjang berwarna coklat, garis sayap berwarna hitam dan paruh bulu sekunder."
+        },
+        {
+          "english": "this is a black and white bird with a black head and a long beak.",
+          "indo": "ini adalah burung hitam putih dengan kepala hitam dan paruh panjang."
+        },
+        {
+          "english": "this bird has a black crown, head, face and nape, with a white area on its throat and coverts.",
+          "indo": "burung ini memiliki mahkota, kepala, muka dan tengkuk berwarna hitam, dengan area putih pada tenggorokan dan bulunya."
+        },
+        {
+          "english": "this bird is black and white in color with a long flat beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh panjang rata, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a big water bird with a black head and red eyes, a brown long beak and white striped neck and a long width of black, white and grey feathers,",
+          "indo": "burung air besar berkepala hitam dan bermata merah, paruh panjang berwarna coklat dan leher bergaris putih serta bulu lebar panjang berwarna hitam putih abu-abu,"
+        },
+        {
+          "english": "this bird has a red eye ring, black crown, and black and white coverts and secondaries.",
+          "indo": "burung ini mempunyai cincin mata berwarna merah, mahkota berwarna hitam, serta bulu dan bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with a long beak, white neck, brown belly with black and white wings.",
+          "indo": "burung dengan paruh panjang, leher putih, perut coklat dengan sayap hitam putih."
+        },
+        {
+          "english": "this bird has a black crested head, red eyes, and a gray and black body.",
+          "indo": "burung ini mempunyai kepala jambul hitam, mata merah, dan badan berwarna abu-abu hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0033_79353.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "medium size bird with a very long orange beak small spiky feathers on its head very small eyes is brown/gray/white and black in color",
+          "indo": "burung berukuran sedang dengan paruh oranye yang sangat panjang, bulu runcing kecil di kepala, mata sangat kecil, berwarna coklat/abu-abu/putih dan hitam"
+        },
+        {
+          "english": "a large multicolored duck with charcoal grey feathers, an burn red nape and a red flat beak.",
+          "indo": "bebek besar beraneka warna dengan bulu abu-abu arang, tengkuk merah menyala, dan paruh pipih berwarna merah."
+        },
+        {
+          "english": "medium black and white bird with long neck, brown and red head a long red bill and small eyes",
+          "indo": "burung berukuran sedang berwarna hitam putih dengan leher panjang, kepala berwarna coklat dan merah, paruh merah panjang dan mata kecil"
+        },
+        {
+          "english": "this larger bird is mostly grey and has a red beak",
+          "indo": "burung yang lebih besar ini sebagian besar berwarna abu-abu dan memiliki paruh berwarna merah"
+        },
+        {
+          "english": "this aquatic bird has a long flat red bill and a white eye.",
+          "indo": "burung akuatik ini memiliki paruh panjang berwarna merah pipih dan mata berwarna putih."
+        },
+        {
+          "english": "this gray bird has a reddish-grey head and a long red beak.",
+          "indo": "burung berwarna abu-abu ini memiliki kepala berwarna abu-abu kemerahan dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird has wings that are black and has a red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna merah"
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        },
+        {
+          "english": "a medium sized brown bird, with a long flat bill.",
+          "indo": "burung berwarna coklat berukuran sedang, dengan paruh pipih yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0034_79292.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a white belly and breast with a black crown and secondaries.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan mahkota dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "this is a black and white bird with orange feet and a orange bill",
+          "indo": "ini adalah burung hitam putih dengan kaki oranye dan paruh oranye"
+        },
+        {
+          "english": "this is a grey bird with a black back and head.",
+          "indo": "ini adalah burung abu-abu dengan punggung dan kepala hitam."
+        },
+        {
+          "english": "this bird has a black head with long feathers, a black neck, and a black back with white covering the rest of its body.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan bulu yang panjang, leher berwarna hitam, dan punggung berwarna hitam dengan warna putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a white belly and breast with a long neck and bright orange feet.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan leher panjang dan kaki berwarna oranye cerah."
+        },
+        {
+          "english": "this colorful bird has red feet, an orange beak, and gray, black and white wings.",
+          "indo": "burung berwarna-warni ini memiliki kaki merah, paruh oranye, dan sayap abu-abu, hitam dan putih."
+        },
+        {
+          "english": "this bird is medium sized, and has a white belly, black back, head, and secondaries.",
+          "indo": "burung ini berukuran sedang, memiliki perut berwarna putih, punggung, kepala, dan paruh berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "a bird with an orange bill and feet, black head, a white striped ring followed by a dark color stripe around its neck, dark colored wings, and a white belly.",
+          "indo": "burung dengan paruh dan kaki berwarna jingga, kepala berwarna hitam, cincin bergaris putih diikuti garis warna gelap di sekeliling lehernya, sayap berwarna gelap, dan perut berwarna putih."
+        },
+        {
+          "english": "black head, white chest black backside, bright orange feet and beak.",
+          "indo": "kepala berwarna hitam, dada putih, punggung hitam, kaki dan paruh berwarna jingga cerah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0035_79200.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a gray and white mottled bird in water with an orange bill and long brown crown.",
+          "indo": "seekor burung berbintik abu-abu dan putih di air dengan paruh oranye dan mahkota panjang berwarna coklat."
+        },
+        {
+          "english": "the bird has thick brown feathers with a curved neck and a orange eye.",
+          "indo": "burung ini memiliki bulu tebal berwarna coklat dengan leher melengkung dan mata berwarna oranye."
+        },
+        {
+          "english": "this bird is black and brown in color and has a black and red bill along with a red eye ring.",
+          "indo": "burung ini berwarna hitam kecokelatan dan mempunyai paruh berwarna hitam merah serta cincin mata berwarna merah."
+        },
+        {
+          "english": "this bird has brown feathers, an orange beak, and a small tail.",
+          "indo": "burung ini memiliki bulu berwarna coklat, paruh berwarna oranye, dan ekor yang kecil."
+        },
+        {
+          "english": "this is a bird with a brown back, grey breast and a brown head.",
+          "indo": "ini adalah burung dengan punggung berwarna coklat, dada abu-abu dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a large bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang besar"
+        },
+        {
+          "english": "this bird has brown and grey secondaries, and brown coverts along with red eye ring.",
+          "indo": "burung ini memiliki bulu sekunder berwarna coklat dan abu-abu, serta bulu berwarna coklat dengan cincin mata berwarna merah."
+        },
+        {
+          "english": "the bird has a spiked brown crown and a long brown bill.",
+          "indo": "burung itu memiliki mahkota berduri berwarna coklat dan paruh panjang berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown with brown coverts and brown throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan bulu berwarna coklat dan tenggorokan berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0040_79207.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a medium-sized water bird with grey wings, red eyes, and tufted grey feathers on the top of his head.",
+          "indo": "burung air berukuran sedang dengan sayap abu-abu, mata merah, dan bulu abu-abu berumbai di atas kepalanya."
+        },
+        {
+          "english": "this bird is grey with pointed feathers from the crown to the nape, and a small round red eye and long pointed orange bill.",
+          "indo": "burung ini berwarna abu-abu dengan bulu runcing dari ubun-ubun hingga tengkuk, serta mata bulat kecil berwarna merah dan paruh panjang berwarna oranye runcing."
+        },
+        {
+          "english": "medium size brown and grey duck with long orange bill and bushy nape.",
+          "indo": "bebek coklat dan abu-abu ukuran sedang dengan paruh oranye panjang dan tengkuk lebat."
+        },
+        {
+          "english": "this bird has a gray mottled body, brown crown, and long flat bill.",
+          "indo": "burung ini mempunyai badan berbintik abu-abu, mahkota berwarna coklat, dan paruh pipih panjang."
+        },
+        {
+          "english": "this medium size bird has a long orange beak, orange eye, grey wings, light brown cheek patch and erect feathers on its crown.",
+          "indo": "Burung berukuran sedang ini memiliki paruh panjang berwarna jingga, mata jingga, sayap berwarna abu-abu, pipi berwarna coklat muda, dan bulu tegak pada ubun-ubunnya."
+        },
+        {
+          "english": "this bird has wings that are grey and has a long orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna abu-abu dan mempunyai paruh yang panjang berwarna oranye"
+        },
+        {
+          "english": "this is a duck with a grey and white body and a large orange beak.",
+          "indo": "ini adalah bebek dengan tubuh abu-abu putih dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "this bird has red eyes with a white eye ring, a red and orange long bill, grey and white secondaries, and grey coverts.",
+          "indo": "burung ini bermata merah dengan cincin mata berwarna putih, paruh panjang berwarna merah dan jingga, paruh bulu sekunder berwarna abu-abu putih, dan bulu berwarna abu-abu."
+        },
+        {
+          "english": "this is a mostly brown and white bird with a large orange bill and a grey tuft on the top of his head.",
+          "indo": "ini adalah burung yang sebagian besar berwarna coklat dan putih dengan paruh oranye besar dan jambul abu-abu di atas kepalanya."
+        },
+        {
+          "english": "a brown bird with long head feathers and an orange bill.",
+          "indo": "burung berwarna coklat dengan bulu kepala panjang dan paruh berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0041_79574.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a medium sized bird with a long, white neck, a black back and head, and a grey belly, with a red eyering and a long orange bill.",
+          "indo": "burung berukuran sedang dengan leher panjang berwarna putih, punggung dan kepala berwarna hitam, serta perut berwarna abu-abu, dengan cincin mata merah dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this is a large bird, with a very big bird and a very long neck.",
+          "indo": "ini adalah burung yang besar, dengan burung yang sangat besar dan leher yang sangat panjang."
+        },
+        {
+          "english": "an ugly bird with a large green head, red eyes and large flat orange beak.",
+          "indo": "seekor burung jelek dengan kepala besar berwarna hijau, mata merah dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "a bird with a large rounded orange bill, red eye, white throat, and green head.",
+          "indo": "burung dengan paruh besar berwarna jingga, bulat, bermata merah, tenggorokan putih, dan kepala berwarna hijau."
+        },
+        {
+          "english": "this bird has a long orange beak, a green crown, and gray tail.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye, mahkota berwarna hijau, dan ekor berwarna abu-abu."
+        },
+        {
+          "english": "the long haired green crown on the bird with a red bill",
+          "indo": "mahkota hijau berambut panjang pada burung dengan paruh merah"
+        },
+        {
+          "english": "this medium-sized bird is grey-bodied with black and white wings, a white throat and a black head with red eyes.",
+          "indo": "burung berukuran sedang ini berbadan abu-abu dengan sayap hitam putih, tenggorokan berwarna putih, dan kepala berwarna hitam dengan mata merah."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is green, white, gray, and black in color, with a flat orange beak.",
+          "indo": "burung ini berwarna hijau, putih, abu-abu, dan hitam, dengan paruh berwarna oranye pipih."
+        },
+        {
+          "english": "this bird has a grey body with black & white wings, an iridescent green head topped with a crest and a long flat orange bill with a hook in the end.",
+          "indo": "burung ini berbadan abu-abu dengan sayap hitam putih, kepala berwarna hijau dengan jambul di atasnya, dan paruh panjang berwarna oranye pipih dengan kait di ujungnya."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0042_79202.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this water fowl has a pattern of brown and whites, with red eyes, and a prominent beak.",
+          "indo": "unggas air ini mempunyai corak berwarna coklat dan putih, bermata merah, dan paruh menonjol."
+        },
+        {
+          "english": "this bird is brown with a white neck and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan leher berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a larger bird that is black, white and brown with a fuzzy appearing head and an orange bill.",
+          "indo": "burung yang lebih besar berwarna hitam, putih dan coklat dengan kepala tampak kabur dan paruh oranye."
+        },
+        {
+          "english": "this is a large black bird with a white throat and a black head.",
+          "indo": "ini adalah burung hitam besar dengan tenggorokan putih dan kepala hitam."
+        },
+        {
+          "english": "this bird has a speckled appearance with a long neck and long flat bill.",
+          "indo": "burung ini berpenampilan berbintik-bintik dengan leher yang panjang dan paruh yang panjang dan pipih."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a long-necked bird with a dark color on most of its body, save for a few white spots.",
+          "indo": "burung berleher panjang dengan warna gelap pada sebagian besar tubuhnya, kecuali beberapa bintik putih."
+        },
+        {
+          "english": "this bird has a long neck with a flat bill and a red eye.",
+          "indo": "burung ini mempunyai leher yang panjang dengan paruh yang rata dan mata yang berwarna merah."
+        },
+        {
+          "english": "a multicolored bird with a brown and white neck, and black and grey feathers everywhere else.",
+          "indo": "burung beraneka warna dengan leher coklat dan putih, dan bulu hitam dan abu-abu di tempat lain."
+        },
+        {
+          "english": "the bird is large with a pointed bill, and the wings are brown.",
+          "indo": "burungnya besar dengan paruh runcing, dan sayapnya berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0043_79295.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has white belly, breast, brown crown, eyebrow with black wings and red feet and bill",
+          "indo": "burung ini memiliki perut berwarna putih, dada, mahkota berwarna coklat, alis dengan sayap hitam, serta kaki dan paruh berwarna merah"
+        },
+        {
+          "english": "this medium-sized bird had a white chest, light brown head, and an orange bill and orange feet; the tarsus of each foot is small in size.",
+          "indo": "burung berukuran sedang ini memiliki dada berwarna putih, kepala berwarna coklat muda, paruh berwarna jingga, dan kaki berwarna jingga; tarsus setiap kaki berukuran kecil."
+        },
+        {
+          "english": "a large brown and white bird with an orange beak, tarsus and feet.",
+          "indo": "seekor burung besar berwarna coklat dan putih dengan paruh, tarsus, dan kaki berwarna oranye."
+        },
+        {
+          "english": "a large white and brown bird with a long orange beak and orange feet.",
+          "indo": "seekor burung besar berwarna putih dan coklat dengan paruh panjang berwarna oranye dan kaki berwarna oranye."
+        },
+        {
+          "english": "this large bird has a long orange bill and a white belly.",
+          "indo": "burung besar ini memiliki paruh panjang berwarna oranye dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a flat red head, and long orange beak, webbed feet and a body that is light brown, cream and dark brown.",
+          "indo": "burung ini mempunyai kepala pipih berwarna merah, dan paruh panjang berwarna jingga, kaki berselaput dan badan berwarna coklat muda, krem, dan coklat tua."
+        },
+        {
+          "english": "this bird is white with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a small head, long nape, long orange straight beak, and white and black body.",
+          "indo": "burung ini memiliki kepala kecil, tengkuk panjang, paruh lurus panjang berwarna jingga, dan badan berwarna putih hitam."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "small medium sized bird, with an orange flat bill, brown head with a very short tail and webbed feet.",
+          "indo": "burung kecil berukuran sedang, dengan paruh pipih berwarna oranye, kepala berwarna coklat dengan ekor sangat pendek dan kaki berselaput."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0044_79321.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this colorful bird has a white belly and breast, brown wings, and brown head and nape",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, sayap berwarna coklat, serta kepala dan tengkuk berwarna coklat"
+        },
+        {
+          "english": "this bird has a long orange bill, a dark brown crown, and a dark brown back.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga, mahkota berwarna coklat tua, dan punggung berwarna coklat tua."
+        },
+        {
+          "english": "this is a bird with a white breast, a dark back and a long orange beak.",
+          "indo": "ini adalah burung dengan dada putih, punggung gelap dan paruh oranye panjang."
+        },
+        {
+          "english": "a big bird with grey on top, white belly, a curved nape and a long orange beak.",
+          "indo": "burung besar dengan bagian atas berwarna abu-abu, perut berwarna putih, tengkuk melengkung, dan paruh panjang berwarna jingga."
+        },
+        {
+          "english": "this red eyed bird has a white breast, gray and brown wingbar, and a very long and flat beak.",
+          "indo": "Burung bermata merah ini memiliki dada berwarna putih, garis sayap berwarna abu-abu dan coklat, serta paruh yang sangat panjang dan rata."
+        },
+        {
+          "english": "this bird has a whitish gray belly with a very more distinct gray in the wings.",
+          "indo": "burung ini memiliki perut berwarna abu-abu keputihan dengan warna abu-abu yang sangat jelas pada sayapnya."
+        },
+        {
+          "english": "this bird has wings that are brown and has a brown bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan paruhnya berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a long orange beak on a long necked medium sized grey bird.",
+          "indo": "paruh oranye panjang pada burung abu-abu berukuran sedang berleher panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has anorange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh berwarna jingga"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0045_79358.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this colorful bird has a black head, red beak, white neck and a brown and white belly.",
+          "indo": "burung berwarna-warni ini memiliki kepala berwarna hitam, paruh berwarna merah, leher berwarna putih, dan perut berwarna coklat putih."
+        },
+        {
+          "english": "a beautiful bird with a brown and gray body, black head and crest and a long, thin bill.",
+          "indo": "seekor burung cantik dengan tubuh berwarna coklat dan abu-abu, kepala dan jambul berwarna hitam, serta paruh yang panjang dan tipis."
+        },
+        {
+          "english": "this wild looking water-bird has a long, sticklike orange bill, mohawk-like feathers on its crown, white secondaries, grey primaries, and a white collar about its throat.",
+          "indo": "Burung air yang tampak liar ini memiliki paruh oranye yang panjang seperti tongkat, bulu seperti mohawk di mahkotanya, bulu sekunder berwarna putih, bulu primer abu-abu, dan kerah putih di sekitar tenggorokannya."
+        },
+        {
+          "english": "this funny-looking bird sports a long, orange bill and sparse, black head plumage.",
+          "indo": "burung yang tampak lucu ini memiliki paruh panjang berwarna oranye dan bulu kepala berwarna hitam yang jarang."
+        },
+        {
+          "english": "this large bird has a brown breast, white ring around it's long neck, and long orange bill.",
+          "indo": "Burung besar ini memiliki dada berwarna coklat, cincin putih di sekeliling leher panjang, dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "larger sized water bird, with a curved red orange bill, black head and back, white neck stripe, brown chest, with white and gray wings.",
+          "indo": "burung air berukuran lebih besar, dengan paruh melengkung berwarna merah jingga, kepala dan punggung berwarna hitam, garis leher berwarna putih, dada berwarna coklat, dengan sayap berwarna putih dan abu-abu."
+        },
+        {
+          "english": "this bird has wings that are black and grey and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna hitam abu-abu serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a long flat bill, and a huge black crest on its crown.",
+          "indo": "burung ini memiliki paruh yang panjang dan pipih, serta jambul hitam besar di mahkotanya."
+        },
+        {
+          "english": "this water bird has a black head with spiky feathers on the top and back of its head, a long orange bill and red eyes and a white neck ring.",
+          "indo": "burung air ini mempunyai kepala berwarna hitam dengan bulu runcing di bagian atas dan belakang kepala, paruh panjang berwarna jingga dan mata berwarna merah serta cincin leher berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0046_79330.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this duck appears to have wild feathers on the crown of its black head, an orange shovel-shaped bill, white ring around its neck, and orange eyes.",
+          "indo": "bebek ini tampak memiliki bulu liar di ubun-ubun kepalanya yang berwarna hitam, paruh berbentuk sekop berwarna oranye, cincin putih di lehernya, dan mata berwarna oranye."
+        },
+        {
+          "english": "this water bird has a white stripe around its throat, long orange bill and red eyering along with a dark green crown.",
+          "indo": "Burung air ini memiliki garis putih di sekitar tenggorokannya, paruh panjang berwarna oranye dan cincin mata berwarna merah serta mahkota berwarna hijau tua."
+        },
+        {
+          "english": "the head of the bird is green and the collar is white while the bill is flat and orange.",
+          "indo": "kepala burung berwarna hijau dan kerahnya berwarna putih, sedangkan paruhnya rata dan berwarna oranye."
+        },
+        {
+          "english": "this bird has a red eyering, a long orange colored bill, white breast and a black and white wingbars.",
+          "indo": "burung ini memiliki cincin mata berwarna merah, paruh panjang berwarna oranye, dada berwarna putih, dan garis sayap berwarna hitam putih."
+        },
+        {
+          "english": "medium grey black white and green bird with long neck and long flat orange beak",
+          "indo": "Burung berwarna abu-abu sedang, hitam putih dan hijau dengan leher panjang dan paruh panjang berwarna oranye"
+        },
+        {
+          "english": "black with large white ring around it's neck and a long and flat orange bill.",
+          "indo": "hitam dengan cincin putih besar di lehernya dan paruh oranye yang panjang dan rata."
+        },
+        {
+          "english": "this colorful bird has a green head with bright red eyes, a collar of white around the neck, and black wings with a silver body",
+          "indo": "burung berwarna-warni ini memiliki kepala berwarna hijau dengan mata merah cerah, kerah putih di sekitar leher, dan sayap hitam dengan badan berwarna perak"
+        },
+        {
+          "english": "a medium sized black bird, with a white neck, and a small flat bill.",
+          "indo": "seekor burung hitam berukuran sedang, dengan leher berwarna putih, dan paruh kecil yang rata."
+        },
+        {
+          "english": "a large bird with a wide neck, a large head, a red eye, and a long beak that is wide and orange.",
+          "indo": "burung besar dengan leher lebar, kepala besar, mata merah, dan paruh panjang lebar berwarna jingga."
+        },
+        {
+          "english": "a large bird with a green head, white throat, and orange beak.",
+          "indo": "seekor burung besar dengan kepala hijau, tenggorokan putih, dan paruh oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0047_79486.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "white bird with orange feet, large black feathers on its wing, a white nape, and a black head with red circle.",
+          "indo": "burung berwarna putih berkaki jingga, bulu besar berwarna hitam pada sayapnya, tengkuk berwarna putih, dan kepala berwarna hitam dengan lingkaran merah."
+        },
+        {
+          "english": "a large bird with a white belly and throat, a brown chest, black head, and orange bill.",
+          "indo": "burung besar dengan perut dan tenggorokan berwarna putih, dada berwarna coklat, kepala hitam, dan paruh berwarna jingga."
+        },
+        {
+          "english": "this bird is white with brown and black on its back",
+          "indo": "burung ini berwarna putih dengan punggung berwarna coklat dan hitam"
+        },
+        {
+          "english": "a large bird with a bright red-orange beak, red eyes, and orange legs.",
+          "indo": "burung besar dengan paruh berwarna merah jingga cerah, mata merah, dan kaki jingga."
+        },
+        {
+          "english": "a large bird that is mostly white, and has a long bill.",
+          "indo": "burung berukuran besar yang sebagian besar berwarna putih, dan memiliki paruh yang panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat kehitaman serta mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this unique looking bird has a black crown, red eyering and feet and a flat long bill with a red looking stripe on the side of it.",
+          "indo": "Burung berpenampilan unik ini memiliki mahkota berwarna hitam, cincin mata dan kaki berwarna merah, serta paruh panjang yang rata dengan garis tampak merah di sisinya."
+        },
+        {
+          "english": "a big white bird with a brown colored breast and black head, with orange legs and bill.",
+          "indo": "seekor burung besar berwarna putih dengan dada berwarna coklat dan kepala berwarna hitam, dengan kaki dan paruh berwarna jingga."
+        },
+        {
+          "english": "this bird has a red foot and tarsus with a white flank and white neck.",
+          "indo": "burung ini memiliki kaki dan tarsus berwarna merah dengan sayap berwarna putih dan leher berwarna putih."
+        },
+        {
+          "english": "this large bird has orange tarsus and feet, and has a long pointed orange bill.",
+          "indo": "burung besar ini memiliki tarsus dan kaki berwarna oranye, serta memiliki paruh berwarna oranye yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0048_79323.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "with an orange bill and black head, this bird also has a long feathered crown.",
+          "indo": "Dengan paruh berwarna jingga dan kepala berwarna hitam, burung ini juga memiliki mahkota berbulu panjang."
+        },
+        {
+          "english": "the bird has a long orange beak with a red eyering and a curved neck.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye dengan cincin mata merah dan leher melengkung."
+        },
+        {
+          "english": "this is a black and white bird that has a red long, dull beak and a matching red eye.",
+          "indo": "ini adalah burung berwarna hitam putih yang memiliki paruh merah panjang kusam dan mata merah serasi."
+        },
+        {
+          "english": "this bird has a long orange beak and orange eyes.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dan bermata jingga."
+        },
+        {
+          "english": "this bird has a long beak and black and white feathers",
+          "indo": "burung ini mempunyai paruh panjang dan bulu berwarna hitam putih"
+        },
+        {
+          "english": "a medium sized bird, with a black crown and back, white sides and belly, with a medium sized bill.",
+          "indo": "burung berukuran sedang, dengan mahkota dan punggung berwarna hitam, bagian samping dan perut berwarna putih, dengan paruh berukuran sedang."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        },
+        {
+          "english": "this bird has a medium sized orange bill and a white belly with a black back.",
+          "indo": "burung ini memiliki paruh berwarna oranye berukuran sedang dan perut berwarna putih dengan punggung berwarna hitam."
+        },
+        {
+          "english": "this bird has a long flat bill, with a black head.",
+          "indo": "burung ini mempunyai paruh yang panjang dan pipih, dengan kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a ruby red bill and eye, a white throat, and a pure black crown and back.",
+          "indo": "burung ini memiliki paruh dan mata berwarna merah delima, tenggorokan berwarna putih, serta mahkota dan punggung berwarna hitam pekat."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0049_79432.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a water bird with mottled black, grey, and white feathers on its wings and tufted feathers around its head.",
+          "indo": "burung air dengan bulu berbintik-bintik hitam, abu-abu, dan putih di sayapnya dan bulu berumbai di sekitar kepalanya."
+        },
+        {
+          "english": "this bird is brown with black on its back and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan punggung berwarna hitam dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "an aquatic bird with a red bill, a brown crown with tufts of feathers, and a mottled white-grey body and back.",
+          "indo": "burung akuatik dengan paruh merah, mahkota coklat dengan jambul bulu, dan badan serta punggung berbintik-bintik putih keabu-abuan."
+        },
+        {
+          "english": "this bird is grey and white with a long pointed orange beak and spiked hair on its head.",
+          "indo": "burung ini berwarna abu-abu putih dengan paruh panjang berwarna oranye dan bulu berduri di kepalanya."
+        },
+        {
+          "english": "this bird has a long narrow bill and a puffy crown.",
+          "indo": "burung ini mempunyai paruh yang panjang dan sempit serta mahkota yang menggembung."
+        },
+        {
+          "english": "the bird has a brown messy crown, long red bill that is straight, and grey inner rectrices.",
+          "indo": "burung ini memiliki mahkota berwarna coklat berantakan, paruh merah panjang yang lurus, dan bagian dalam berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a belly that is gray and black and a long brown bill",
+          "indo": "burung ini memiliki perut berwarna abu-abu hitam dan paruh panjang berwarna coklat"
+        },
+        {
+          "english": "a large bird with a gray and white body, and a slight mohawk.",
+          "indo": "seekor burung besar dengan tubuh abu-abu putih, dan sedikit mohawk."
+        },
+        {
+          "english": "this bird has a brown crown, brown and grey primaries, and a brown and white throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat dan abu-abu, serta tenggorokan berwarna coklat dan putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a red bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0051_79474.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this is a gray bird with a brown head and a large orange bill.",
+          "indo": "ini adalah burung abu-abu dengan kepala coklat dan paruh oranye besar."
+        },
+        {
+          "english": "this brown-headed water bird has grey and black wings and a long beak.",
+          "indo": "burung air berkepala coklat ini memiliki sayap berwarna abu-abu dan hitam serta paruh yang panjang."
+        },
+        {
+          "english": "this is a grey bird with a brown head and a large beak.",
+          "indo": "ini adalah burung abu-abu dengan kepala coklat dan paruh besar."
+        },
+        {
+          "english": "this bird is brown, black, and grey in color with a large brown flat beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat, hitam, dan abu-abu dengan paruh besar berwarna coklat rata dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this is a grey bird with red on the crown and nape.",
+          "indo": "ini adalah burung berwarna abu-abu dengan warna merah di bagian ubun-ubun dan tengkuknya."
+        },
+        {
+          "english": "this waterfowl has a brown head and gray back highlighted with white wingbars.",
+          "indo": "unggas air ini memiliki kepala berwarna coklat dan punggung berwarna abu-abu dengan garis sayap berwarna putih."
+        },
+        {
+          "english": "this bird is red with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna merah kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a water bird with a dark black/grey body, it's head is rust brown color and it has light pink beak.",
+          "indo": "Ini adalah burung air dengan tubuh hitam/abu tua, kepala berwarna coklat karat dan paruh berwarna merah muda terang."
+        },
+        {
+          "english": "this colorful, swimming bird is covered in gray feather with a brown and yellow head. it has a long, narrow, orange-colored bill.",
+          "indo": "burung perenang berwarna-warni ini ditutupi bulu abu-abu dengan kepala berwarna coklat dan kuning. paruhnya panjang, sempit, dan berwarna oranye."
+        },
+        {
+          "english": "this bird has wings that are black and has a brown body",
+          "indo": "burung ini memiliki sayap yang berwarna hitam dan memiliki tubuh berwarna coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0052_79178.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bill is very long, orange and flat, the eye is orange, the foot is orange, and the body is tan and brown.",
+          "indo": "paruhnya sangat panjang, berwarna oranye dan pipih, matanya berwarna oranye, kakinya berwarna oranye, dan badannya berwarna cokelat kecokelatan."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and orange beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh berwarna jingga"
+        },
+        {
+          "english": "this is a bird with a black back, brown head and a large orange beak.",
+          "indo": "ini adalah burung dengan punggung hitam, kepala coklat dan paruh besar berwarna oranye."
+        },
+        {
+          "english": "the bird has an orange eyering and a long orange bill that is straight.",
+          "indo": "burung ini memiliki cincin mata berwarna jingga dan paruh berwarna jingga panjang yang lurus."
+        },
+        {
+          "english": "a grey bird who likes to swim with black on the tips or wings and a long orange back and sloped neck.",
+          "indo": "burung berwarna abu-abu yang suka berenang, ujung atau sayapnya berwarna hitam, dan punggung panjang berwarna oranye serta leher miring."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a gray bird with a light brownish-gray head and a pink peak and pink webbed feet.",
+          "indo": "ini adalah burung abu-abu dengan kepala abu-abu kecoklatan muda dan puncak berwarna merah muda serta kaki berselaput merah muda."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang berwarna jingga"
+        },
+        {
+          "english": "this brown headed swimming bird has a long brown neck and mottled colored wings.",
+          "indo": "burung perenang berkepala coklat ini memiliki leher panjang berwarna coklat dan sayap berwarna belang-belang."
+        },
+        {
+          "english": "this bird has wings that are brown and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna oranye"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0054_79542.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has a brown head with a red eye and long red bill.",
+          "indo": "burung ini memiliki kepala berwarna coklat dengan mata merah dan paruh merah panjang."
+        },
+        {
+          "english": "this water bird has a grey body and a very long orange beak; the eyes are read and it has a large crest on the head.",
+          "indo": "burung air ini memiliki tubuh berwarna abu-abu dan paruh berwarna oranye yang sangat panjang; matanya terbaca dan memiliki jambul besar di kepalanya."
+        },
+        {
+          "english": "this bird has a long, curved, orange bill, a black eyering, and a dark brown crown.",
+          "indo": "burung ini memiliki paruh yang panjang, melengkung, berwarna oranye, cincin mata berwarna hitam, dan mahkota berwarna coklat tua."
+        },
+        {
+          "english": "this is a brown bird with and orange bill and red eyes.",
+          "indo": "ini adalah burung coklat dengan paruh oranye dan mata merah."
+        },
+        {
+          "english": "the birds has a brown crown, grey coverts and light brown side and throat.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu berwarna abu-abu, serta bagian samping dan tenggorokan berwarna coklat muda."
+        },
+        {
+          "english": "this brown bird has a pink long dull beak and a red eye.",
+          "indo": "burung berwarna coklat ini memiliki paruh panjang kusam berwarna merah muda dan mata berwarna merah."
+        },
+        {
+          "english": "this bird has a red eye, black eye ring, black and white secondaries and brown and grey coverts.",
+          "indo": "burung ini mempunyai mata merah, cincin mata hitam, bulu sekunder berwarna hitam putih, serta bulu berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a brown bird with a mohawk and red eyes.",
+          "indo": "seekor burung coklat dengan mohawk dan mata merah."
+        },
+        {
+          "english": "this bird has a brown crest, a long orange beak, and red eyes.",
+          "indo": "burung ini mempunyai jambul berwarna coklat, paruh panjang berwarna jingga, dan mata berwarna merah."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0055_79397.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has a black head an a white neck with a long slender bill.",
+          "indo": "Burung ini memiliki kepala berwarna hitam dan leher berwarna putih dengan paruh yang panjang dan ramping."
+        },
+        {
+          "english": "this is a bird with a long white neck and a black head.",
+          "indo": "ini adalah burung dengan leher putih panjang dan kepala hitam."
+        },
+        {
+          "english": "this is a large bird with a spiked crown and a long beak.",
+          "indo": "ini adalah burung besar dengan mahkota berduri dan paruh panjang."
+        },
+        {
+          "english": "this bird has a really long orange bill and a black crown.",
+          "indo": "burung ini memiliki paruh berwarna oranye yang sangat panjang dan mahkota berwarna hitam."
+        },
+        {
+          "english": "this bird has a long thin bill, a black head & crown, a white throat, and a brown & black mottled belly.",
+          "indo": "burung ini mempunyai paruh yang panjang dan tipis, kepala dan mahkota berwarna hitam, tenggorokan berwarna putih, dan perut berbintik-bintik coklat & hitam."
+        },
+        {
+          "english": "this bird is brown with black and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna hitam putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a black belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang berwarna hitam"
+        },
+        {
+          "english": "bird with long neck, with pointed hairs and black crown, throat is black and neck is white, breast is brown and belly and abdomen is black.",
+          "indo": "burung berleher panjang, berbulu runcing dan mahkota berwarna hitam, tenggorokan berwarna hitam dan leher berwarna putih, dada berwarna coklat, perut dan perut berwarna hitam."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0056_79348.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has a black head and white neck with a long orange beak.",
+          "indo": "burung ini memiliki kepala berwarna hitam dan leher berwarna putih dengan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "long black feathered crown and head with an orange and black flat bill, white neck and coverts, bluish grey secondaries.",
+          "indo": "mahkota dan kepala berbulu hitam panjang dengan paruh datar berwarna oranye dan hitam, leher dan bulu berwarna putih, bulu sekunder berwarna abu-abu kebiruan."
+        },
+        {
+          "english": "bird has dark feathers, dark face, and orange thick beak.",
+          "indo": "burung mempunyai bulu berwarna gelap, muka berwarna gelap, dan paruh tebal berwarna jingga."
+        },
+        {
+          "english": "this medium-sized water bird has a black head and spiky crown with a red, flat bill and a white stripe on the nape.",
+          "indo": "Burung air berukuran sedang ini memiliki kepala berwarna hitam dan mahkota runcing dengan paruh rata berwarna merah dan garis putih di tengkuknya."
+        },
+        {
+          "english": "this bird has dark gray primaries, black secondaries trimmed with white, a black back, a white neck with a black stripe down the nape, a black head with red eyes, and a long, red, rounded beak.",
+          "indo": "burung ini mempunyai ciri bulu primer berwarna abu-abu tua, ciri bulu sekunder berwarna hitam dengan garis putih, punggung berwarna hitam, leher berwarna putih dengan garis hitam di tengkuk, kepala berwarna hitam dengan mata merah, dan paruh panjang berwarna merah membulat."
+        },
+        {
+          "english": "this bird has wings that are black with a red beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dengan paruh berwarna merah"
+        },
+        {
+          "english": "this bird is white and black in color, with a large curved beak.",
+          "indo": "burung ini berwarna putih dan hitam, dengan paruh besar yang melengkung."
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "a bird with a long red-orange bill and eye, a black head, a white stripe on the back of its neck, black wings, white flank, and grey sides.",
+          "indo": "burung dengan paruh dan mata panjang berwarna merah jingga, kepala berwarna hitam, garis putih di belakang leher, sayap hitam, panggul putih, dan sisi abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0061_79453.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a grey, white, and black striped body with a tan white and white neck, and a black head with orange eyes and a beak.",
+          "indo": "tubuh bergaris abu-abu, putih, dan hitam dengan leher putih kecoklatan, dan kepala hitam dengan mata dan paruh oranye."
+        },
+        {
+          "english": "this is a bird with dramatic features, including the mohawk crest, bright red eyes, long beak and sharp coloring.",
+          "indo": "ini adalah burung dengan ciri-ciri dramatis, termasuk jambul mohawk, mata merah cerah, paruh panjang dan warna tajam."
+        },
+        {
+          "english": "this bird has a red eye ring and beak, along with a feathered out black head and nape, and brown and black speckled throat.",
+          "indo": "burung ini memiliki cincin mata dan paruh berwarna merah, kepala dan tengkuk berbulu berwarna hitam, serta tenggorokan berbintik coklat dan hitam."
+        },
+        {
+          "english": "a bird with a red eyes, black crown, with a long throat and brown breast.",
+          "indo": "burung bermata merah, mahkota hitam, tenggorokan panjang, dan dada berwarna coklat."
+        },
+        {
+          "english": "this bird has a black head with long, wispy feathers on the crown and red eyes and bill.",
+          "indo": "burung ini memiliki kepala berwarna hitam dengan bulu panjang tipis di bagian ubun-ubun serta mata dan paruh berwarna merah."
+        },
+        {
+          "english": "this bird is black with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this waterfowl has a long orange beak and a black ruffled head and features a mottled neck of brown and white, black and white wings, and a gray body.",
+          "indo": "Unggas air ini memiliki paruh panjang berwarna oranye dan kepala acak-acakan berwarna hitam serta ciri-ciri leher berbintik-bintik berwarna coklat dan putih, sayap hitam putih, dan tubuh berwarna abu-abu."
+        },
+        {
+          "english": "a medium size bird with a long, white neck, black head, and orange eye",
+          "indo": "burung berukuran sedang dengan leher panjang berwarna putih, kepala hitam, dan mata jingga"
+        },
+        {
+          "english": "this bird has a spiky black crown with red eyes and a red beak.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam runcing dengan mata berwarna merah dan paruh berwarna merah."
+        },
+        {
+          "english": "this bird has a black crown with a long and narrow red bill and black back.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dengan paruh panjang dan sempit berwarna merah serta punggung berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0062_79548.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a white breast with black wings and red eyes.",
+          "indo": "burung ini memiliki dada berwarna putih dengan sayap hitam dan mata berwarna merah."
+        },
+        {
+          "english": "this is a bird with a white belly, black wings and a black head.",
+          "indo": "ini adalah burung dengan perut putih, sayap hitam dan kepala hitam."
+        },
+        {
+          "english": "this bird has a brown breast, black crown, and red eyes.",
+          "indo": "burung ini memiliki dada berwarna coklat, mahkota hitam, dan mata merah."
+        },
+        {
+          "english": "a medium sized black and yellow bird with a long orange beak.",
+          "indo": "burung berukuran sedang berwarna hitam kuning dengan paruh panjang berwarna jingga."
+        },
+        {
+          "english": "the pretty bird has a brown belly with black and white wings, and red eyes.",
+          "indo": "burung cantik itu memiliki perut berwarna coklat dengan sayap hitam putih, dan mata merah."
+        },
+        {
+          "english": "this bird has orange eyes, bill and feet among it's yellow breast.",
+          "indo": "Burung ini memiliki mata berwarna jingga, paruh dan kaki di antara dadanya yang berwarna kuning."
+        },
+        {
+          "english": "this swimming bird has bright red eyes, a light brown belly and breast and short spiking feathers on the crown.",
+          "indo": "burung perenang ini memiliki mata berwarna merah cerah, perut dan dada berwarna coklat muda, serta bulu pendek berduri di bagian ubun-ubunnya."
+        },
+        {
+          "english": "this bird has a black head and body, and a white belly and wings, along with a orange bill.",
+          "indo": "burung ini memiliki kepala dan badan berwarna hitam, perut dan sayap berwarna putih, serta paruh berwarna jingga."
+        },
+        {
+          "english": "this bird has a black crest and orange eyes and feet.",
+          "indo": "burung ini memiliki jambul berwarna hitam serta mata dan kaki berwarna jingga."
+        },
+        {
+          "english": "a bird that might be a duck and because of its appearance and the way it looks in the water with its medium beak and head.",
+          "indo": "seekor burung yang mungkin seekor bebek dan karena penampilan serta penampilannya di dalam air dengan paruh dan kepalanya yang sedang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0063_79238.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this water bird has multicolored primaries and a speckled breast, and its beak is thin and orange, which is the same color as its eyes.",
+          "indo": "burung air ini memiliki warna dasar yang beraneka warna dan dada yang berbintik-bintik, serta paruhnya yang tipis dan berwarna jingga, yang warnanya sama dengan matanya."
+        },
+        {
+          "english": "this is a white and black bird with a brown breast and a red eye.",
+          "indo": "ini adalah burung berwarna putih dan hitam dengan dada coklat dan mata merah."
+        },
+        {
+          "english": "this bird is white and black in color with a large flat red beak and black eye rings.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh besar berwarna merah dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "the birds has a black head, orange long bill, and black, brown and white on the rest of its body.",
+          "indo": "burung ini memiliki kepala berwarna hitam, paruh panjang berwarna oranye, dan seluruh tubuhnya berwarna hitam, coklat dan putih."
+        },
+        {
+          "english": "grey and white bird with black head and red eyes with long orange bill.",
+          "indo": "burung abu-abu putih dengan kepala hitam dan mata merah dengan paruh oranye panjang."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna oranye"
+        },
+        {
+          "english": "the bird has a long red bill that is curved and a red eyering.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah yang melengkung dan cincin mata berwarna merah."
+        },
+        {
+          "english": "the bird has a long orange bill with a dark black head with orange eyes, along with black and white wings.",
+          "indo": "burung ini memiliki paruh panjang berwarna jingga dengan kepala berwarna hitam tua, mata jingga, serta sayap berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a black crown, black and white primaries, and a white throat.",
+          "indo": "burung ini mempunyai mahkota berwarna hitam, bulu primer berwarna hitam putih, dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0064_79563.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this water fowl has a black head, orange eyes and a white band aroung it's neck..",
+          "indo": "unggas air ini memiliki kepala berwarna hitam, mata berwarna jingga dan pita putih di sekeliling lehernya.."
+        },
+        {
+          "english": "a large swimming bird with an orange neck, a black face, a long orange flat bill, and black and white wing feathers.",
+          "indo": "burung perenang besar dengan leher jingga, muka hitam, paruh pipih jingga panjang, dan bulu sayap hitam putih."
+        },
+        {
+          "english": "a bird with a very long beak and a black head",
+          "indo": "seekor burung dengan paruh yang sangat panjang dan kepala berwarna hitam"
+        },
+        {
+          "english": "the bird has a black back and crown, with a white nape and wings, and grey secondaries, with a long, red beak.",
+          "indo": "burung ini memiliki punggung dan mahkota berwarna hitam, dengan tengkuk dan sayap berwarna putih, dan bulu sekunder berwarna abu-abu, dengan paruh panjang berwarna merah."
+        },
+        {
+          "english": "an aquatic bird with a long orange beak, spiked feathers on its crown, and orange eyes.",
+          "indo": "burung akuatik dengan paruh oranye panjang, bulu berduri di mahkotanya, dan mata oranye."
+        },
+        {
+          "english": "this particular bird has an orange beak with red eyes",
+          "indo": "burung ini memiliki paruh berwarna oranye dengan mata merah"
+        },
+        {
+          "english": "this bird has a long orange bill with black crown and orange eye, a black white and brown neck.",
+          "indo": "burung ini mempunyai paruh panjang berwarna jingga dengan mahkota berwarna hitam dan mata jingga, leher berwarna hitam putih dan coklat."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a large bird with a red bill and eyes.",
+          "indo": "seekor burung besar dengan paruh dan mata merah."
+        },
+        {
+          "english": "this is a water bird with an orange beck, red eye, black head and a white ring around its neck with other colors as tan, black and white.",
+          "indo": "Ini adalah burung air dengan warna oranye, mata merah, kepala hitam dan cincin putih di lehernya dengan warna lain seperti coklat, hitam dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0066_79275.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a white breast and neck with a rust colored crown and nape.",
+          "indo": "burung ini memiliki dada dan leher berwarna putih dengan mahkota dan tengkuk berwarna karat."
+        },
+        {
+          "english": "this bird has fuzzy crown, a flat orange bill, and a white breast.",
+          "indo": "burung ini memiliki mahkota berbulu halus, paruh berwarna oranye pipih, dan dada berwarna putih."
+        },
+        {
+          "english": "the bird has a grey body with a brown head and long orange bill.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan kepala berwarna coklat dan paruh berwarna oranye yang panjang."
+        },
+        {
+          "english": "a big bird with a brown head and gray body with an orange beak.",
+          "indo": "burung besar berkepala coklat dan badan abu-abu dengan paruh jingga."
+        },
+        {
+          "english": "a brown and grey bird with a long orange bill and greyish brown crown.",
+          "indo": "burung berwarna coklat keabu-abuan dengan paruh panjang berwarna jingga dan mahkota berwarna coklat keabu-abuan."
+        },
+        {
+          "english": "this bird has wings that are grey with a long orange bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "a large bird with a large orange bill and a light brown crown.",
+          "indo": "seekor burung besar dengan paruh besar berwarna oranye dan mahkota berwarna coklat muda."
+        },
+        {
+          "english": "brown headed bird with long flat bill, white breast and gray body.",
+          "indo": "burung berkepala coklat dengan paruh panjang rata, dada putih dan badan abu-abu."
+        },
+        {
+          "english": "this bird has an orange beak, a grey back, a white breast, and a bit of orange on its cheek",
+          "indo": "burung ini mempunyai paruh berwarna jingga, punggung berwarna abu-abu, dada berwarna putih, dan pipinya sedikit berwarna jingga"
+        },
+        {
+          "english": "this bird has a long flat bill, with a grey breast.",
+          "indo": "burung ini memiliki paruh yang panjang dan pipih, dengan dada berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0067_79167.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a white belly with a black head and a red beak.",
+          "indo": "burung ini memiliki perut berwarna putih dengan kepala berwarna hitam dan paruh berwarna merah."
+        },
+        {
+          "english": "this bird has a black head with long feathers on its crown, white around the neck, with brown coloration on the back and wings, and a long flat bill.",
+          "indo": "burung ini mempunyai kepala berwarna hitam dengan bulu panjang pada ubun-ubunnya, putih pada bagian leher, warna coklat pada punggung dan sayap, serta paruh panjang dan pipih."
+        },
+        {
+          "english": "this bird has webbed feet, a black head, red wide beak, and its body is brown, gray and white.",
+          "indo": "burung ini mempunyai kaki berselaput, kepala berwarna hitam, paruh lebar berwarna merah, dan badannya berwarna coklat, abu-abu dan putih."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a white ring bordering its black crown.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan cincin putih di sekeliling mahkotanya yang berwarna hitam."
+        },
+        {
+          "english": "the white and black bird features spares head feathers and a long, narrow beak.",
+          "indo": "burung putih dan hitam mempunyai ciri-ciri bulu kepala yang tidak ada dan paruh yang panjang dan sempit."
+        },
+        {
+          "english": "this particular bird has a white belly and brown breasts and a red bill",
+          "indo": "burung ini memiliki perut berwarna putih dan dada berwarna coklat serta paruh berwarna merah"
+        },
+        {
+          "english": "this bird has a black crown as well as a long orange bill",
+          "indo": "burung ini memiliki mahkota berwarna hitam serta paruh berwarna oranye yang panjang"
+        },
+        {
+          "english": "this bird has wings that are black and white and has an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this is a large bird with a black head a white throat a brown speckled body and wings and a white breast.",
+          "indo": "ini adalah burung besar dengan kepala hitam, tenggorokan putih, tubuh dan sayap berbintik coklat, serta dada putih."
+        },
+        {
+          "english": "this bird has a white breast with a long orange bill.",
+          "indo": "burung ini memiliki dada berwarna putih dengan paruh berwarna oranye yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0068_79203.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a swimming bird with a green head and feathery crown, the neck is white and the chest is spotted brown",
+          "indo": "burung perenang dengan kepala berwarna hijau dan mahkota berbulu, leher berwarna putih dan dada berbintik coklat"
+        },
+        {
+          "english": "this large bird has a brown breast, white neck, green crown, and black back.",
+          "indo": "burung berukuran besar ini memiliki dada berwarna coklat, leher berwarna putih, mahkota berwarna hijau, dan punggung berwarna hitam."
+        },
+        {
+          "english": "the head is black with a long red bill, the throat is white,the breast is brown and the back is black and white.",
+          "indo": "Kepala berwarna hitam dengan paruh panjang berwarna merah, tenggorokan berwarna putih, dada berwarna coklat, dan punggung berwarna hitam putih."
+        },
+        {
+          "english": "this is a bird with a grey belly, a black and white wing, a brown and white throat and a green head.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap hitam putih, tenggorokan coklat putih, dan kepala hijau."
+        },
+        {
+          "english": "this bird is green, white, and black in color with a flat beak, and black eye rings.",
+          "indo": "burung ini berwarna hijau, putih, dan hitam dengan paruh rata, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and white and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai leher yang panjang"
+        },
+        {
+          "english": "this bird is white, black, brown, and green in color, with a flat orange beak.",
+          "indo": "burung ini berwarna putih, hitam, coklat, dan hijau, dengan paruh pipih berwarna jingga."
+        },
+        {
+          "english": "this bird has a long, flat orange bill, a dark green head feathers and a long white with dark spots neck.",
+          "indo": "burung ini memiliki paruh panjang berwarna oranye pipih, bulu kepala berwarna hijau tua, dan leher panjang berwarna putih berbintik hitam."
+        },
+        {
+          "english": "this bird has a long thin beak, green head, brown speckled check and black, white and grey body.",
+          "indo": "burung ini mempunyai paruh panjang tipis, kepala berwarna hijau, kotak berbintik coklat dan badan berwarna hitam putih abu-abu."
+        },
+        {
+          "english": "this bird has a borwn and white spotted throat, a green crown, and a long orange beak.",
+          "indo": "burung ini memiliki tenggorokan berbintik-bintik putih, mahkota berwarna hijau, dan paruh panjang berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0069_79204.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this brown duck has black head and nape, bright orange eye and orange flat long beak, and spotted brown and black wings.",
+          "indo": "bebek coklat ini memiliki kepala dan tengkuk berwarna hitam, mata berwarna jingga cerah dan paruh panjang pipih berwarna jingga, serta sayap berbintik berwarna coklat dan hitam."
+        },
+        {
+          "english": "this water bird has a black head, a white ring around it's neck, an orange beak, and red eyes.",
+          "indo": "Burung air ini memiliki kepala berwarna hitam, cincin putih di sekeliling lehernya, paruh berwarna jingga, dan mata berwarna merah."
+        },
+        {
+          "english": "this bird has a long dull red bill bill along with red eyes.",
+          "indo": "burung ini mempunyai paruh panjang berwarna merah kusam dan bermata merah."
+        },
+        {
+          "english": "this black and white aquatic bird has red eyes and a long orange beak.",
+          "indo": "burung akuatik berwarna hitam putih ini memiliki mata merah dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this is a black bird with a white throat and a red eye.",
+          "indo": "ini burung hitam dengan tenggorokan putih dan mata merah."
+        },
+        {
+          "english": "this black and white bird has a lightly long neck, a black head, red eye and a pink beak.",
+          "indo": "burung berwarna hitam putih ini memiliki leher agak panjang, kepala berwarna hitam, mata merah, dan paruh berwarna merah muda."
+        },
+        {
+          "english": "this bird has wings that are brown and black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat kehitaman dan bermata merah"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a long straight orange bill, black crown and white neck",
+          "indo": "Burung ini mempunyai paruh panjang berwarna jingga, mahkota berwarna hitam, dan leher berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan bermata merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0070_79570.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this water fowl has dark colored feathers, a long neck, and a long flat bill.",
+          "indo": "unggas air ini memiliki bulu berwarna gelap, leher panjang, dan paruh rata panjang."
+        },
+        {
+          "english": "steely gray mottled bird with a white throat, long wispy crown feathers and a long stubby black bill.",
+          "indo": "burung berbintik abu-abu baja dengan tenggorokan putih, bulu mahkota tipis panjang, dan paruh hitam panjang dan gemuk."
+        },
+        {
+          "english": "a large bird with a black crown, grey covering the rst of its body except for the black speckles on its wing tips and back, this bird also has some white on its sides.",
+          "indo": "burung besar dengan mahkota berwarna hitam, warna abu-abu menutupi seluruh tubuhnya kecuali bintik hitam di ujung sayap dan punggungnya, burung ini juga memiliki sedikit warna putih di sisinya."
+        },
+        {
+          "english": "this waterbird has spares, spiked head feathers and is grayish brown in appearance.",
+          "indo": "Burung air ini memiliki bulu kepala yang runcing dan runcing serta berpenampilan coklat keabu-abuan."
+        },
+        {
+          "english": "this bird has a black back, a white throat and a large black beak.",
+          "indo": "burung ini mempunyai punggung berwarna hitam, tenggorokan berwarna putih dan paruh besar berwarna hitam."
+        },
+        {
+          "english": "a large black and white bird with a long, black beak.",
+          "indo": "seekor burung besar berwarna hitam putih dengan paruh panjang berwarna hitam."
+        },
+        {
+          "english": "this particular bird has a black bill and a white throat",
+          "indo": "burung ini memiliki paruh berwarna hitam dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "a large bird, grey in color, with a long flat bill.",
+          "indo": "burung besar, berwarna abu-abu, dengan paruh panjang dan pipih."
+        },
+        {
+          "english": "this bird is grey to white with some long feathers on the crown and a long flat bill.",
+          "indo": "burung ini berwarna abu-abu hingga putih dengan beberapa bulu panjang di bagian ubun-ubunnya dan paruh pipih yang panjang."
+        },
+        {
+          "english": "this bird is medium in size, grey in color, with a long bill.",
+          "indo": "burung ini berukuran sedang, berwarna abu-abu, dengan paruh yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0071_79379.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird has a black crown, white neck, and black and white secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, leher berwarna putih, dan bulu sekunder berwarna hitam putih."
+        },
+        {
+          "english": "a bird with a swept back, black crown, white throat, and long, flat orange bill.",
+          "indo": "burung dengan punggung menyapu, mahkota hitam, tenggorokan putih, dan paruh panjang berwarna oranye pipih."
+        },
+        {
+          "english": "this medium sized bird has a large black head and a long narrow bill.",
+          "indo": "burung berukuran sedang ini memiliki kepala besar berwarna hitam dan paruh panjang dan sempit."
+        },
+        {
+          "english": "this small bird has a black head with a long red beak and a white throat",
+          "indo": "burung kecil ini memiliki kepala berwarna hitam dengan paruh panjang berwarna merah dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "this bird is large with a grey body and an orange beak",
+          "indo": "burung ini berukuran besar dengan tubuh berwarna abu-abu dan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird is black with grey and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam abu-abu putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a red eye ring, black crown, and grey and white along its flank",
+          "indo": "burung ini memiliki cincin mata berwarna merah, mahkota berwarna hitam, dan sisi tubuhnya berwarna abu-abu putih"
+        },
+        {
+          "english": "this bird has wings that are black and white and had an orange bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a black crown with white nape and grey back.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan tengkuk berwarna putih dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "this tiny little guy has an orange beak and a black head with a white neck.",
+          "indo": "makhluk kecil mungil ini memiliki paruh berwarna oranye dan kepala berwarna hitam dengan leher berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0074_79497.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has sharp and pointed beak, with black crown and throat, and beak is brown in color.",
+          "indo": "Burung ini memiliki paruh yang runcing dan runcing, mahkota dan tenggorokan berwarna hitam, serta paruh berwarna coklat."
+        },
+        {
+          "english": "water bird with elongated white neck, black head and crown, gray, black and white wings with long, almost upward turning, flat orange beak.",
+          "indo": "burung air dengan leher putih memanjang, kepala dan mahkota hitam, sayap abu-abu, hitam dan putih dengan paruh panjang, hampir mengarah ke atas, berwarna oranye datar."
+        },
+        {
+          "english": "it has a long, orange beak which is pointy, it has a black head with some feathers sticking out in the back, it has a white neck, brown chest, black wings and back, and a grey underside.",
+          "indo": "paruhnya panjang berwarna jingga yang runcing, kepalanya berwarna hitam dengan beberapa bulu mencuat di punggung, lehernya berwarna putih, dada berwarna coklat, sayap dan punggung berwarna hitam, serta bagian bawah berwarna abu-abu."
+        },
+        {
+          "english": "a large bird with a long neck and black head with a long brown bil.",
+          "indo": "seekor burung besar dengan leher panjang dan kepala berwarna hitam dengan paruh coklat panjang."
+        },
+        {
+          "english": "a medium size waterfowl, with a black head, long beak, white neck, tan breast, gray body with black and white wings.",
+          "indo": "unggas air ukuran sedang, kepala hitam, paruh panjang, leher putih, dada kecoklatan, badan abu-abu dengan sayap hitam putih."
+        },
+        {
+          "english": "this bird is brown with white and black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan hitam serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck and long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai leher yang panjang dan paruh yang panjang"
+        },
+        {
+          "english": "this bird has a long brown and narrow bill with black back and brown breast.",
+          "indo": "burung ini memiliki paruh panjang berwarna coklat dan sempit dengan punggung berwarna hitam dan dada berwarna coklat."
+        },
+        {
+          "english": "a bird with a long neck, the bill is long and curved, and black and white wings",
+          "indo": "burung berleher panjang, paruh panjang dan melengkung, serta sayap berwarna hitam putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai leher yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0075_79169.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird is brown and white with a long, flat bill and webbed feet.",
+          "indo": "burung ini berwarna coklat dan putih dengan paruh yang panjang dan rata serta kaki berselaput."
+        },
+        {
+          "english": "bird has brownbody feathers, white breast feather, and large beak",
+          "indo": "Burung ini mempunyai bulu badan berwarna coklat, bulu dada berwarna putih, dan paruh yang besar"
+        },
+        {
+          "english": "a medium sized bird that has multiple tones of brown and a medium sized bill",
+          "indo": "burung berukuran sedang yang memiliki banyak warna coklat dan paruh berukuran sedang"
+        },
+        {
+          "english": "this is a large grey bird with a white breast and a brown head.",
+          "indo": "ini adalah burung abu-abu besar dengan dada putih dan kepala coklat."
+        },
+        {
+          "english": "the bird has webbed feet, a white belly, long wings, and a long beak.",
+          "indo": "burung itu memiliki kaki berselaput, perut berwarna putih, sayap panjang, dan paruh panjang."
+        },
+        {
+          "english": "a bird with webbed feet, a flat bill, white coverts and brown secondaries.",
+          "indo": "seekor burung dengan kaki berselaput, paruh rata, bulu putih dan bulu sekunder berwarna coklat."
+        },
+        {
+          "english": "this is a large grey bird with long wings, orange feet and a long beak.",
+          "indo": "ini adalah burung abu-abu besar dengan sayap panjang, kaki oranye dan paruh panjang."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white and gray in color, and has a flat beak.",
+          "indo": "burung ini berwarna putih abu-abu, dan mempunyai paruh yang rata."
+        },
+        {
+          "english": "a large brid with a long neck and orange feet.",
+          "indo": "pengantin besar dengan leher panjang dan kaki oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0076_79312.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "a mid-size bird that has an orange bill and feet, and has a white belly and a brown head.",
+          "indo": "burung berukuran sedang yang memiliki paruh dan kaki berwarna oranye, serta memiliki perut berwarna putih dan kepala berwarna coklat."
+        },
+        {
+          "english": "a large bird with a gray and white body, brown head and orange bill, tarsus and feet.",
+          "indo": "burung besar dengan tubuh abu-abu putih, kepala coklat dan paruh oranye, tarsus dan kaki."
+        },
+        {
+          "english": "this is a bird with a white belly, brown head and orange feet.",
+          "indo": "ini adalah burung dengan perut putih, kepala coklat dan kaki oranye."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a long neck and long wide bill.",
+          "indo": "burung ini mempunyai perut dan dada berwarna putih, dengan leher yang panjang dan paruh yang panjang dan lebar."
+        },
+        {
+          "english": "this bird is white, grey, and brown in color with a red beak, and black eye rings.",
+          "indo": "burung ini berwarna putih, abu-abu, dan coklat dengan paruh berwarna merah, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this bird is white with grey and red and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih dengan warna abu-abu dan merah serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a very large bird with webbed feet and a long body and head and large wings and beak.",
+          "indo": "ini adalah burung yang sangat besar dengan kaki berselaput dan tubuh serta kepala yang panjang serta sayap dan paruh yang besar."
+        },
+        {
+          "english": "a waterbird with a white breast, grey back and neck, brown head, red legs and long, flat, red bill.",
+          "indo": "burung air dengan dada berwarna putih, punggung dan leher berwarna abu-abu, kepala berwarna coklat, kaki berwarna merah, dan paruh panjang, pipih, berwarna merah."
+        },
+        {
+          "english": "this bird is white and brown in color, with a flat orange beak.",
+          "indo": "burung ini berwarna putih coklat, dengan paruh pipih berwarna jingga."
+        },
+        {
+          "english": "a bird with a flat bill, a white abdomen and wings, and orange legs.",
+          "indo": "burung dengan paruh rata, perut dan sayap berwarna putih, serta kaki berwarna oranye."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0077_79180.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this bird sitting in water has a long orange bill, red eyes and black spiky feathers on its crown.",
+          "indo": "burung yang duduk di air ini memiliki paruh panjang berwarna oranye, mata merah, dan bulu runcing hitam di mahkotanya."
+        },
+        {
+          "english": "the bird has black crown, nape and back area, with a bright red eyes and pointy orange bill.",
+          "indo": "burung ini memiliki mahkota, tengkuk dan punggung berwarna hitam, dengan mata merah cerah dan paruh oranye runcing."
+        },
+        {
+          "english": "the bird has a red eyering and a long red bill.",
+          "indo": "burung itu mempunyai cincin mata merah dan paruh merah panjang."
+        },
+        {
+          "english": "this is a bird with a brown breast, white side, black back and head and a red eye.",
+          "indo": "ini adalah burung dengan dada berwarna coklat, sisi putih, punggung dan kepala hitam dan mata merah."
+        },
+        {
+          "english": "this is a black bird with white on the sides and brown on the breast.",
+          "indo": "ini adalah burung berwarna hitam dengan warna putih di bagian samping dan coklat di bagian dada."
+        },
+        {
+          "english": "this bird has wings that are grey with a black head",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dengan kepala berwarna hitam"
+        },
+        {
+          "english": "this bird has a black crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has a red eye and bill, and a black head.",
+          "indo": "burung ini memiliki mata dan paruh berwarna merah, serta kepala berwarna hitam."
+        },
+        {
+          "english": "this bird has a black crown as well as a orange bill",
+          "indo": "burung ini mempunyai mahkota berwarna hitam dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0078_79393.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has a yellow eyering as well as a long black bill.",
+          "indo": "burung itu mempunyai cincin mata kuning dan paruh hitam panjang."
+        },
+        {
+          "english": "the bird has a white eyering and a curved brown throat.",
+          "indo": "burung itu memiliki cincin mata berwarna putih dan tenggorokan berwarna coklat yang melengkung."
+        },
+        {
+          "english": "this bird is white and black in color with along skinny black beak and black eye rings.",
+          "indo": "burung ini berwarna putih dan hitam dengan paruh panjang berwarna hitam dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "bird with gray beak, throat, white belly and abdomen, and brown tarsus, and the size of the head is proportional with its body",
+          "indo": "burung dengan paruh berwarna abu-abu, tenggorokan, perut dan perut berwarna putih, serta tarsus berwarna coklat, dan ukuran kepala proporsional dengan tubuhnya"
+        },
+        {
+          "english": "medium to large white grey black and brown bird with long brown beak",
+          "indo": "burung berwarna putih abu-abu hitam dan coklat sedang hingga besar dengan paruh coklat panjang"
+        },
+        {
+          "english": "a medium sized bird, and a brown crown, and a bill that curves downwards",
+          "indo": "seekor burung berukuran sedang, dan mahkota berwarna coklat, dan paruh yang melengkung ke bawah"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is grey with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is white with gray breasts",
+          "indo": "burung ini memiliki perut berwarna putih dengan dada berwarna abu-abu"
+        },
+        {
+          "english": "a bird with green eyes, brown head and wings, and a white belly.",
+          "indo": "burung bermata hijau, kepala dan sayap berwarna coklat, serta perut berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0079_79519.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this crazy looking bird has red wide eyes, a long orange beak and a feathered black crown.",
+          "indo": "burung yang tampak gila ini memiliki mata merah lebar, paruh panjang berwarna oranye, dan mahkota berbulu hitam."
+        },
+        {
+          "english": "this bird has a brown breast, white ring around its neck, and a long flat bill.",
+          "indo": "burung ini memiliki dada berwarna coklat, cincin putih di sekeliling lehernya, dan paruh yang panjang dan rata."
+        },
+        {
+          "english": "this water bird has a black head, long orange pointed bill, red eyering and a white stripe on its throat.",
+          "indo": "Burung air ini memiliki kepala berwarna hitam, paruh panjang berwarna oranye, cincin mata merah, dan garis putih di tenggorokannya."
+        },
+        {
+          "english": "the bird has a black back, head, and nape, with a white collar around its neck and a long, red bill.",
+          "indo": "burung ini memiliki punggung, kepala, dan tengkuk berwarna hitam, dengan kerah putih di lehernya dan paruh panjang berwarna merah."
+        },
+        {
+          "english": "this bird is grey, black, and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu, hitam, dan putih serta memiliki paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the red eyes and beak make this black, white, and grey bird very unique.",
+          "indo": "Mata dan paruhnya yang berwarna merah membuat burung berwarna hitam, putih, dan abu-abu ini sangat unik."
+        },
+        {
+          "english": "this bird has a black crown, red eye ring, and a grey flank.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, cincin mata merah, dan panggul berwarna abu-abu."
+        },
+        {
+          "english": "the bird is large with a pointed bill, the head is small compared to the body, and the head is black.",
+          "indo": "burungnya besar dengan paruh runcing, kepalanya kecil dibandingkan badannya, dan kepalanya berwarna hitam."
+        },
+        {
+          "english": "this bird has a red bill with black crown and white throat",
+          "indo": "burung ini mempunyai paruh berwarna merah dengan mahkota berwarna hitam dan tenggorokan berwarna putih"
+        },
+        {
+          "english": "an orange bill and 'spiked' black hair coming off of its crown",
+          "indo": "paruh berwarna oranye dan rambut hitam 'berduri' yang terlepas dari mahkotanya"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0080_79488.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this duck has an orange bill, a light nape, brown hair on its crown, and black and white wingbars.",
+          "indo": "bebek ini memiliki paruh berwarna jingga, tengkuk berwarna terang, bulu bagian ubun-ubun berwarna coklat, dan garis sayap berwarna hitam putih."
+        },
+        {
+          "english": "this is a medium sized brown bird with an orange or red long bill with some brown long feathers atop the crown.",
+          "indo": "ini adalah burung coklat berukuran sedang dengan paruh panjang berwarna oranye atau merah dengan beberapa bulu panjang berwarna coklat di atas mahkotanya."
+        },
+        {
+          "english": "this bird has a long, orange beak and a long neck with gray and black feathers and a brown head and the feathers on the top of it's head are long.",
+          "indo": "burung ini mempunyai paruh yang panjang berwarna jingga dan leher yang panjang dengan bulu berwarna abu-abu dan hitam serta kepala berwarna coklat dan bulu di bagian atas kepalanya panjang."
+        },
+        {
+          "english": "a bird with a brown crown anda long neck, the is long and flat, with a white throat.",
+          "indo": "burung dengan mahkota berwarna coklat dan leher panjang, panjang dan pipih, dengan tenggorokan berwarna putih."
+        },
+        {
+          "english": "medium to large grey white black and brown bird with long orange beak",
+          "indo": "burung berwarna abu-abu putih hitam dan coklat sedang hingga besar dengan paruh oranye panjang"
+        },
+        {
+          "english": "the bird has a long sharp red beak with a fluffy black crown.",
+          "indo": "burung ini memiliki paruh panjang berwarna merah tajam dengan mahkota berbulu halus berwarna hitam."
+        },
+        {
+          "english": "medium to large grey white and brown bird with a long neck and a long slender orange beak.",
+          "indo": "burung berwarna putih dan coklat abu-abu sedang hingga besar dengan leher panjang dan paruh oranye panjang dan ramping."
+        },
+        {
+          "english": "the bird has an orange bill that is long and a long throat.",
+          "indo": "burung ini mempunyai paruh berwarna jingga yang panjang dan tenggorokan yang panjang."
+        },
+        {
+          "english": "this bird has a grey back and sides with a white bar on the wing, a brown crest and a long flat orange bill.",
+          "indo": "burung ini memiliki punggung dan samping berwarna abu-abu dengan garis putih di sayap, jambul berwarna coklat, dan paruh panjang berwarna oranye."
+        },
+        {
+          "english": "this large bird has a long, orange bill, gray and white splotched neck and belly, and black and white primaries.",
+          "indo": "burung besar ini memiliki paruh panjang berwarna oranye, leher dan perut bercak abu-abu dan putih, serta warna bulu primer hitam putih."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0081_79396.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "this odd looking bird has bright orange eyes and beak with a black plumed crown.",
+          "indo": "burung yang tampak aneh ini memiliki mata dan paruh berwarna jingga cerah dengan mahkota berbulu hitam."
+        },
+        {
+          "english": "the bird has a red eyering and long red bill that is curved.",
+          "indo": "burung ini mempunyai cincin mata merah dan paruh merah panjang yang melengkung."
+        },
+        {
+          "english": "large bird, long flat beak, red eye, black head with hair looking feathers, white around neck, brown starting on breast, black, grey, and white body",
+          "indo": "burung besar, paruh panjang rata, mata merah, kepala berwarna hitam dengan bulu tampak berbulu, sekitar leher berwarna putih, coklat mulai dari dada, badan hitam, abu-abu, dan putih"
+        },
+        {
+          "english": "a medium sized bird that has dark orange eyes and a large bill",
+          "indo": "burung berukuran sedang yang memiliki mata oranye gelap dan paruh besar"
+        },
+        {
+          "english": "bird with brown beak, black crown and throat, brown breast, and the size of head is proportional to the body size",
+          "indo": "burung dengan paruh berwarna coklat, mahkota dan tenggorokan berwarna hitam, dada berwarna coklat, dan ukuran kepala sebanding dengan ukuran badan"
+        },
+        {
+          "english": "this bird is black with brown and white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam coklat dan putih serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a gray, white, and black body with with long feathers sticking out the back of the black neck.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu, putih, dan hitam dengan bulu panjang mencuat di bagian belakang leher berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has orange eyes and bill",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam serta mempunyai mata dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes and a long neck",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah serta berleher panjang"
+        },
+        {
+          "english": "this bird has a black crown with narrow pink bill and black back.",
+          "indo": "burung ini memiliki mahkota berwarna hitam dengan paruh sempit berwarna merah muda dan punggung berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0082_79214.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bird has red beak, tarsus and feet, and black throat, crown and nape, white breast and belly.",
+          "indo": "burung ini memiliki paruh, tarsus dan kaki berwarna merah, tenggorokan, mahkota dan tengkuk berwarna hitam, dada dan perut berwarna putih."
+        },
+        {
+          "english": "a large bird with grey wings and a long orange bill",
+          "indo": "seekor burung besar dengan sayap abu-abu dan paruh oranye panjang"
+        },
+        {
+          "english": "a large flying bird with a white under belly, black and white long wing feathers, and a long orange flat bill.",
+          "indo": "burung terbang besar dengan perut bagian bawah berwarna putih, bulu sayap panjang berwarna hitam putih, dan paruh pipih berwarna oranye panjang."
+        },
+        {
+          "english": "this relatively large bird has a yellow-brown head, straight orange break, with a white underbelly and graywings.",
+          "indo": "burung yang relatif besar ini memiliki kepala berwarna kuning kecokelatan, patah lurus berwarna oranye, dengan perut berwarna putih dan sayap abu-abu."
+        },
+        {
+          "english": "this is a bird with a white belly, a black back, a brown head and a pointy beak.",
+          "indo": "ini adalah burung dengan perut putih, punggung hitam, kepala coklat dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are grey and has an orange bill",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan paruh berwarna jingga"
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is white black and brown in color, with a flat beak.",
+          "indo": "burung ini berwarna putih hitam coklat, dengan paruh rata."
+        },
+        {
+          "english": "this is a long tall bird which has a large red bill, orange feet, and a brown head with grey to white belly and wings.",
+          "indo": "ini adalah burung tinggi panjang yang memiliki paruh besar berwarna merah, kaki oranye, dan kepala berwarna coklat dengan perut dan sayap berwarna abu-abu hingga putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and gray",
+          "indo": "burung ini memiliki perut yang berwarna putih dan abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0083_79562.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the head of the bird is black and the nape of the bird is white while the belly is tan and the body is a mixture of green, white, and grey.",
+          "indo": "kepala burung berwarna hitam dan tengkuk burung berwarna putih, sedangkan perut berwarna kecokelatan dan badan campuran warna hijau, putih, dan abu-abu."
+        },
+        {
+          "english": "a medium bird with a black face and crown, long orange bill, speckled chest, and black and white back.",
+          "indo": "burung berukuran sedang dengan muka dan mahkota berwarna hitam, paruh panjang berwarna jingga, dada berbintik, dan punggung berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a black crown, white ring around it's neck, and bright red eyes.",
+          "indo": "burung ini memiliki mahkota berwarna hitam, cincin putih di sekeliling lehernya, dan mata berwarna merah cerah."
+        },
+        {
+          "english": "this large bird has a speckled breast, black crown, bright orange eye and bill, with black and white wings.",
+          "indo": "Burung berukuran besar ini memiliki dada berbintik-bintik, mahkota berwarna hitam, mata dan paruh berwarna jingga cerah, serta sayap berwarna hitam putih."
+        },
+        {
+          "english": "this bird has a fuzzy crown, a flat bill, and a long neck",
+          "indo": "burung ini memiliki mahkota berbulu halus, paruh rata, dan leher panjang"
+        },
+        {
+          "english": "this bird has wings that are black and white with an orange beak",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam putih dengan paruh berwarna oranye"
+        },
+        {
+          "english": "this bird has a black body, white wings, brown patterned breast, a white ring around its neck and a black head.",
+          "indo": "burung ini mempunyai badan berwarna hitam, sayap berwarna putih, dada bercorak coklat, cincin putih di sekeliling leher, dan kepala berwarna hitam."
+        },
+        {
+          "english": "this aquatic bird has a black head, red eyes, a feathery crown, a long red bill, a brown mottled chest, a black body with white on the wings, and black/white flanks.",
+          "indo": "burung akuatik ini mempunyai kepala berwarna hitam, mata merah, mahkota berbulu, paruh panjang berwarna merah, dada berbintik coklat, badan hitam dengan sayap putih, dan panggul hitam/putih."
+        },
+        {
+          "english": "this bird has wings that are black and has red eyes",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan bermata merah"
+        },
+        {
+          "english": "a medium sized black bird, with white secondaries, and a flat bill.",
+          "indo": "seekor burung hitam berukuran sedang, dengan bulu sekunder berwarna putih, dan paruh rata."
+        }
+      ]
+    },
+    {
+      "filename": "Red_Breasted_Merganser_0085_79285.jpg",
+      "class_id": 89,
+      "captions": [
+        {
+          "english": "the bill of the bird is orange and the eyering of the bird is orange while the head of the bird is partly green.",
+          "indo": "paruh burung berwarna jingga dan cincin mata burung berwarna jingga, sedangkan kepala burung sebagian berwarna hijau."
+        },
+        {
+          "english": "this spikey-crowned, red-eyed water bird has a black and green head, white nape, and grey and white coloring on the wings and back.",
+          "indo": "Burung air bermahkota runcing dan bermata merah ini memiliki kepala berwarna hitam hijau, tengkuk berwarna putih, serta warna abu-abu putih pada sayap dan punggungnya."
+        },
+        {
+          "english": "bird has a green head, long orange beak, and gray feathers",
+          "indo": "burung memiliki kepala berwarna hijau, paruh oranye panjang, dan bulu berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a bright orange bill with a black crown and nape are and white covering it's neck and throat.",
+          "indo": "Burung ini mempunyai paruh berwarna jingga cerah dengan mahkota dan tengkuk berwarna hitam serta putih menutupi leher dan tenggorokannya."
+        },
+        {
+          "english": "this bird is black and white in color with a flat red beak, and black eye rings.",
+          "indo": "burung ini berwarna hitam putih dengan paruh pipih berwarna merah, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this particular bird has an orange beak and red eyes",
+          "indo": "burung ini memiliki paruh oranye dan mata merah"
+        },
+        {
+          "english": "a bird with a long flat orange bill, bright orange eyering, dark green crown and back.",
+          "indo": "burung dengan paruh panjang berwarna oranye pipih, cincin mata berwarna oranye terang, mahkota dan punggung berwarna hijau tua."
+        },
+        {
+          "english": "this bird is black with green on its head and has a long, pointy beak.",
+          "indo": "Burung ini berwarna hitam dengan warna hijau pada bagian kepalanya serta mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a very large bird with a large orange beak and a black and white body and wings.",
+          "indo": "ini adalah burung yang sangat besar dengan paruh oranye besar dan tubuh serta sayap hitam putih."
+        },
+        {
+          "english": "the bird has a green spiked crown and a red eyering.",
+          "indo": "burung itu memiliki mahkota berduri hijau dan cincin mata merah."
+        }
+      ]
+    }
+  ]
+}

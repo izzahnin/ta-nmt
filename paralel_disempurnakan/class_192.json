@@ -1,0 +1,2764 @@
+{
+  "dataset": [
+    {
+      "filename": "Bewick_Wren_0003_185072.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has a small, thin, pointed bill, a brown crown and nape, all black wing feathers, and a white breast",
+          "indo": "burung ini memiliki paruh kecil, tipis, runcing, mahkota dan tengkuk berwarna coklat, bulu sayap semuanya berwarna hitam, dan dada berwarna putih"
+        },
+        {
+          "english": "this small bird has a narrow, pointed bill and black plumage with a gray breast and brown crown.",
+          "indo": "burung kecil ini memiliki paruh yang sempit dan runcing serta bulu berwarna hitam dengan dada berwarna abu-abu dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a gray body with a brown crown and thin sharp bill.",
+          "indo": "burung ini memiliki tubuh berwarna abu-abu dengan mahkota berwarna coklat dan paruh tipis yang runcing."
+        },
+        {
+          "english": "a tiny bird with a black back and wings, a white chest, and brown crown.",
+          "indo": "seekor burung kecil dengan punggung dan sayap hitam, dada putih, dan mahkota coklat."
+        },
+        {
+          "english": "the bird has a light brown crown, white breast, and black wings.",
+          "indo": "burung ini memiliki mahkota berwarna coklat muda, dada berwarna putih, dan sayap berwarna hitam."
+        },
+        {
+          "english": "this bird has a brown crown, white eye brow, and black coverts and secondaries.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, superciliary mata berwarna putih, serta bulu dan bulu sekunder berwarna hitam."
+        },
+        {
+          "english": "the small bird has a breast of white and black, and a small black pointed beak.",
+          "indo": "burung kecil memiliki dada berwarna putih dan hitam, serta paruh kecil runcing berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird is brown and gray in color, and has a skinny curved beak.",
+          "indo": "burung ini berwarna coklat keabu-abuan, serta mempunyai paruh yang kurus dan melengkung."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0004_185202.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this is a bird with a white belly and brown wings.",
+          "indo": "ini adalah burung dengan perut putih dan sayap coklat."
+        },
+        {
+          "english": "a small bird with brown wings, black eyes and the bill is short and pointed",
+          "indo": "burung kecil bersayap coklat, bermata hitam dan paruhnya pendek dan runcing"
+        },
+        {
+          "english": "the bird has black streaks on its white breast and belly, and dark gray wings and crown, as well as a small sharp beak.",
+          "indo": "burung ini memiliki guratan-guratan hitam pada dada dan perutnya yang berwarna putih, sayap dan mahkota berwarna abu-abu tua, serta paruh kecil yang tajam."
+        },
+        {
+          "english": "this small bird has a light brown breast and wings",
+          "indo": "burung kecil ini memiliki dada dan sayap berwarna coklat muda"
+        },
+        {
+          "english": "this small bird has brown wings and crown with white superciliaries and a white throat.",
+          "indo": "burung kecil ini memiliki sayap dan mahkota berwarna coklat dengan superciliary berwarna putih dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long pointed tail, a small brown body, and a slightly curved pointy black beak.",
+          "indo": "burung ini memiliki ekor yang panjang dan runcing, badan kecil berwarna coklat, dan paruh runcing berwarna hitam agak melengkung."
+        },
+        {
+          "english": "this bird has a brown crown as well as a brown belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna coklat"
+        },
+        {
+          "english": "the small bird has a white eyebrow, a dark round eye, and a pointy black and tan bill.",
+          "indo": "burung kecil itu memiliki alis berwarna putih, mata bulat gelap, dan paruh runcing berwarna hitam kecoklatan."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0005_184699.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "small bird, with a pale gray downy underside, brown topside with black secondaries, white superciliary, black eyes, brown slim pointy bil.",
+          "indo": "burung kecil, dengan bagian bawah berbulu halus berwarna abu-abu pucat, bagian atas berwarna coklat dengan bulu sekunder berwarna hitam, superciliary berwarna putih, mata hitam, bil runcing ramping berwarna coklat."
+        },
+        {
+          "english": "this bird has an long brown bill, a white belly and breast with brown feathers on its head",
+          "indo": "burung ini memiliki paruh panjang berwarna coklat, perut dan dada berwarna putih dengan bulu berwarna coklat di kepalanya"
+        },
+        {
+          "english": "this bird has a long pointed bill, a rounded belly, and small feet.",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing, perut yang membulat, dan kaki yang kecil."
+        },
+        {
+          "english": "this bird is white and brown in color with a small skinny beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this round bird has a gray breast, belly and throat, a brown crown, nape, back and tail, and a white eyebrow.",
+          "indo": "burung berbentuk bulat ini memiliki dada, perut dan tenggorokan berwarna abu-abu, mahkota, tengkuk, punggung dan ekor berwarna coklat, serta alis berwarna putih."
+        },
+        {
+          "english": "a small bird with a grey breast and a long bill",
+          "indo": "seekor burung kecil dengan dada berwarna abu-abu dan paruh panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird a a short pointed bill, brown crown with white superciliary. white throat and belly feathers.",
+          "indo": "burung kecil ini paruhnya pendek dan runcing, mahkotanya berwarna coklat dengan superciliary berwarna putih. bulu tenggorokan dan perut berwarna putih."
+        },
+        {
+          "english": "brown on top of body, white on chest, brown and white stripe through face.",
+          "indo": "coklat di badan bagian atas, putih di dada, garis coklat dan putih di wajah."
+        },
+        {
+          "english": "this small bird has a light tan body with brown eye patches, brown crown, and brown wings with black wingspans.",
+          "indo": "burung kecil ini memiliki tubuh berwarna coklat muda dengan penutup mata berwarna coklat, mahkota berwarna coklat, dan sayap berwarna coklat dengan rentang sayap berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0010_185142.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this brown and grey bird has a white streak above its eye",
+          "indo": "burung berwarna coklat dan abu-abu ini memiliki guratan putih di atas matanya"
+        },
+        {
+          "english": "a small brown bird with white eyebrows and pale breast.",
+          "indo": "seekor burung kecil berwarna coklat dengan alis putih dan dada pucat."
+        },
+        {
+          "english": "this little bird has a gray belly and breast, brown crown, and a sharp pointy bill.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu, mahkota berwarna coklat, dan paruh runcing."
+        },
+        {
+          "english": "this small bird is colored in varying shades of brown with a white stripe accenting the side of its head.",
+          "indo": "Burung kecil ini memiliki warna coklat yang bervariasi dengan aksen garis putih di bagian samping kepalanya."
+        },
+        {
+          "english": "this is a small, brown bird with a light brown breast.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada berwarna coklat muda."
+        },
+        {
+          "english": "smal brown bird with a white line above its eyes.",
+          "indo": "burung kecil berwarna coklat dengan garis putih di atas matanya."
+        },
+        {
+          "english": "this bird is brown with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird is brown with its chest being a lighter brown and it has a white brow.",
+          "indo": "burung kecil ini berwarna coklat dengan dada berwarna coklat muda dan superciliary berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0014_184810.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a black and brown winged bird with a white belly and an average sized head.",
+          "indo": "burung bersayap hitam coklat dengan perut putih dan kepala berukuran sedang."
+        },
+        {
+          "english": "this bird is white, brown, and black in color with a long skinny beak and black eye rings.",
+          "indo": "burung ini berwarna putih, coklat, dan hitam dengan paruh panjang kurus dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "this is a small bird with a black head, a white breast and long thin bill.",
+          "indo": "ini adalah burung kecil dengan kepala hitam, dada putih dan paruh tipis panjang."
+        },
+        {
+          "english": "small bird with white eyebrow, brown back and white breast and belly",
+          "indo": "burung kecil dengan alis putih, punggung coklat, dada dan perut putih"
+        },
+        {
+          "english": "this bird has a white throat, belly, abdomen, and breast with a brown crown and coverts.",
+          "indo": "burung ini memiliki tenggorokan, perut, perut, dan dada berwarna putih dengan mahkota dan bulu berwarna coklat."
+        },
+        {
+          "english": "the bird has grey sides and inner rectrices and is brown on its secondaries and nape.",
+          "indo": "burung itu memiliki sisi abu-abu dan inner rectrices serta berwarna coklat pada bagian bulu sekunder dan tengkuknya."
+        },
+        {
+          "english": "white-bellied, this bird has a black stripe from the nape of its neck that extends just below the brown wings.",
+          "indo": "berperut putih, burung ini memiliki garis hitam dari tengkuknya yang memanjang tepat di bawah sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a white chest and brown crest with a slender, long bill.",
+          "indo": "burung ini memiliki dada berwarna putih dan jambul berwarna coklat dengan paruh yang ramping dan panjang."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small brown bird with a white belly and a skinny beak is being shadowed upon by the branch of a tree.",
+          "indo": "seekor burung kecil berwarna coklat dengan perut putih dan paruh kurus sedang dibayangi oleh dahan pohon."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0015_184981.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird is small but has a long rectrices and rather short wings.",
+          "indo": "Burung ini berukuran kecil namun mempunyai rectrices  yang panjang dan sayap agak pendek."
+        },
+        {
+          "english": "this bird has a white belly and breast, brown crown, and white eyebrows.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, mahkota berwarna coklat, dan alis berwarna putih."
+        },
+        {
+          "english": "a small round bird that has brown and gray and yellow plumage with long tail feathers.",
+          "indo": "burung berbentuk bulat kecil yang memiliki bulu berwarna coklat abu-abu kuning dengan bulu ekor yang panjang."
+        },
+        {
+          "english": "brown bird with gray breast, belly, cheek patch and eyebrow with brown rectrices with black wing bars.",
+          "indo": "burung coklat dengan dada abu-abu, perut, penutup pipi dan alis dengan rectrices coklat dengan garis sayap hitam."
+        },
+        {
+          "english": "this is a tiny bird with a brown crown and grey breast and sides.",
+          "indo": "ini adalah burung kecil dengan mahkota berwarna coklat dan dada serta sisi berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a brown back and head. it has a brown cheek patch and a grey belly.",
+          "indo": "burung ini memiliki punggung dan kepala berwarna coklat. ia memiliki bercak pipi coklat dan perut abu-abu."
+        },
+        {
+          "english": "this bird is brown and white in color, with a skinny beak.",
+          "indo": "burung ini berwarna coklat dan putih, dengan paruh yang kurus."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a greyish blue breast and a white nape",
+          "indo": "burung ini memiliki dada berwarna biru keabu-abuan dan tengkuk berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0016_184999.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a bird with white eyebrow, black superciliary, yellow belly and brown back.",
+          "indo": "burung beralis putih, superciliary hitam, perut kuning, dan punggung coklat."
+        },
+        {
+          "english": "this is a bird with a grey belly, brown wings and a brown head.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap coklat dan kepala coklat."
+        },
+        {
+          "english": "the bird has brown wings and a tan belly with a stripped tan face.",
+          "indo": "burung itu memiliki sayap berwarna coklat dan perut berwarna coklat dengan wajah berwarna coklat yang dilucuti."
+        },
+        {
+          "english": "the little brown bird standing on the ground with a tan breast holding a little grub in it's beak.",
+          "indo": "burung kecil berwarna coklat berdiri di tanah dengan dada berwarna coklat memegang sedikit belatung di paruhnya."
+        },
+        {
+          "english": "this bird has a brown overall body color with a white streak on it's head.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan coklat dengan guratan putih di kepalanya."
+        },
+        {
+          "english": "a small bird that is mostly brown in color, that has alight red breast, throat, belly and vent.",
+          "indo": "burung kecil yang sebagian besar berwarna coklat, memiliki dada, tenggorokan, perut dan lubang kloaka berwarna merah terang."
+        },
+        {
+          "english": "this bird has a long pointed beak with a slight downward curve, and a long brown and black striped tail",
+          "indo": "burung ini mempunyai paruh yang panjang dan runcing dengan sedikit melengkung ke bawah, serta ekor yang panjang dan bergaris-garis berwarna coklat dan hitam"
+        },
+        {
+          "english": "this is a coffee colored bird with a long, thin bill.",
+          "indo": "ini adalah burung berwarna kopi dengan paruh yang panjang dan tipis."
+        },
+        {
+          "english": "this is a gray bird with a long tail, light gray breast and belly, black eyestripe and a light gray eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan ekor panjang, dada dan perut abu-abu muda, garis mata hitam dan alis abu-abu muda."
+        },
+        {
+          "english": "this small bird has dark brown, coffee colored belly.",
+          "indo": "burung kecil ini memiliki perut berwarna coklat tua dan berwarna kopi."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0017_185127.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "plump bird with white body feathers and black tail feathers",
+          "indo": "burung gempal dengan bulu badan putih dan bulu ekor hitam"
+        },
+        {
+          "english": "a mainly grey bird with brown crown, brown striated wings and tail.",
+          "indo": "burung yang sebagian besar berwarna abu-abu dengan mahkota berwarna coklat, sayap dan ekor lurik berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a dark grey breast that appears white in the sun and white eyebrows.",
+          "indo": "burung kecil ini memiliki dada berwarna abu-abu tua yang tampak putih di bawah sinar matahari dan alisnya berwarna putih."
+        },
+        {
+          "english": "the bird has a brown eyering and a grey throat and belly.",
+          "indo": "burung itu memiliki cincin mata berwarna coklat dan tenggorokan serta perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this bird has wings that are black and has a white rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perut bulat berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are black and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this is a plump bird featuring white eyebrows, mostly brown feathers, white feathers on the breast, and black stripes on the tail feathers.",
+          "indo": "burung ini merupakan burung gempal dengan alis berwarna putih, bulu sebagian besar berwarna coklat, bulu putih pada dada, dan garis hitam pada bulu ekor."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0023_185400.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small bird with a grey underbelly and brown tones elsewhere",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu dan warna coklat di tempat lain"
+        },
+        {
+          "english": "this is a grey bird with a brown wing and a brown crown",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan mahkota coklat"
+        },
+        {
+          "english": "this bird has a short curved bill, a white eyebrow, and a gray breast and belly.",
+          "indo": "burung ini memiliki paruh pendek melengkung, alis berwarna putih, serta dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with a gray underbelly and brown feathers.",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu dan bulu berwarna coklat."
+        },
+        {
+          "english": "this tiny bird has a really narrow grey bill and white breast.",
+          "indo": "burung mungil ini memiliki paruh abu-abu yang sangat sempit dan dada berwarna putih."
+        },
+        {
+          "english": "this small, delicate featured bird is in earthy gray and brown tone colors, with a bit of dark striping on the tail.",
+          "indo": "burung berfitur kecil dan halus ini memiliki warna abu-abu dan coklat tanah, dengan sedikit garis gelap di ekornya."
+        },
+        {
+          "english": "this bird has a brown crown and a white and gray belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih abu-abu."
+        },
+        {
+          "english": "this bird is green in color, with a white belly and eyebrows, and has a sharp bill.",
+          "indo": "burung ini berwarna hijau, perut dan alis berwarna putih, serta paruh runcing."
+        },
+        {
+          "english": "this brown bird has a white eyebrow and gray belly",
+          "indo": "burung berwarna coklat ini memiliki alis berwarna putih dan perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a brown crown, white nape and gray belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat, tengkuk berwarna putih, dan perut berwarna abu-abu"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0025_184932.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this round bird is a brown color with a white, pronounced eyebrow and it's beak is thin and slightly curved.",
+          "indo": "Burung berbentuk bulat ini berwarna coklat dengan alis berwarna putih menonjol serta paruhnya tipis dan agak melengkung."
+        },
+        {
+          "english": "this is a grey bird with a brown wing and head and a pointy black beak.",
+          "indo": "ini adalah burung abu-abu dengan sayap dan kepala berwarna coklat serta paruh hitam runcing."
+        },
+        {
+          "english": "this bird has a slim curved bill, a bright white eyebrow, and a brown head and wings.",
+          "indo": "burung ini memiliki paruh ramping melengkung, alis berwarna putih cerah, serta kepala dan sayap berwarna coklat."
+        },
+        {
+          "english": "this small, plump bird has a thin black beak and plumage in varying shades of brown.",
+          "indo": "burung kecil dan gempal ini memiliki paruh hitam tipis dan bulu dalam berbagai warna coklat."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang bulat"
+        },
+        {
+          "english": "this very chunky little bird has a white and gray belly, very tiny brown wings, and a pointy little bill.",
+          "indo": "burung kecil yang sangat gemuk ini memiliki perut berwarna putih dan abu-abu, sayap coklat yang sangat kecil, dan paruh yang kecil dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is gray and brown",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan coklat"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0027_185212.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird us light brown color with long beak.",
+          "indo": "burungnya berwarna coklat muda dengan paruh yang panjang."
+        },
+        {
+          "english": "bird has brown body feathers, brown breast feathers, and thin beak",
+          "indo": "burung mempunyai bulu badan berwarna coklat, bulu dada berwarna coklat, dan paruh tipis"
+        },
+        {
+          "english": "this is a grey bird with a large pointed black beak.",
+          "indo": "ini adalah burung abu-abu dengan paruh hitam runcing besar."
+        },
+        {
+          "english": "a small light brown bird with a white superciliary and a long downward-curved beak",
+          "indo": "seekor burung kecil berwarna coklat muda dengan superciliary berwarna putih dan paruh panjang melengkung ke bawah"
+        },
+        {
+          "english": "this brown and white bird has a slightly hooked beak.",
+          "indo": "burung berwarna coklat putih ini memiliki paruh yang agak bengkok."
+        },
+        {
+          "english": "a long billed and snow white belly and brown wingbars.",
+          "indo": "perut yang panjang dan berwarna putih salju serta garis sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white bill",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan paruh berwarna putih"
+        },
+        {
+          "english": "this small bird is mostly tan colored with a long bill, long rectrices and wings, and long legs",
+          "indo": "Burung kecil ini sebagian besar berwarna coklat dengan paruh yang panjang, sayap dan rectrices yang panjang, serta kaki yang panjang"
+        },
+        {
+          "english": "this bird is brown and white and it has a very long beak and very long legs it has a spotted tail feather",
+          "indo": "burung ini berwarna coklat putih, paruhnya sangat panjang dan kakinya sangat panjang, bulu ekornya berbintik-bintik"
+        },
+        {
+          "english": "the bird has brown wings, a brown crown, and a long brown bill.",
+          "indo": "burung itu memiliki sayap berwarna coklat, mahkota berwarna coklat, dan paruh panjang berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0032_184870.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this petite little bird has an auburn brown back and a tanned chest with little black stripes caking his tail feather.",
+          "indo": "Burung kecil mungil ini memiliki punggung berwarna coklat kemerahan dan dada berwarna kecokelatan dengan garis-garis hitam kecil yang menutupi bulu ekornya."
+        },
+        {
+          "english": "the bird has brown wings with a white belly and brown striped tail.",
+          "indo": "burung ini memiliki sayap berwarna coklat dengan perut berwarna putih dan ekor bergaris coklat."
+        },
+        {
+          "english": "a small bird with a bill that curves downwards and a brown tail",
+          "indo": "seekor burung kecil dengan paruh melengkung ke bawah dan ekor berwarna coklat"
+        },
+        {
+          "english": "the bird has a long brown bill that is curved and the bird has a white breast.",
+          "indo": "burung tersebut memiliki paruh panjang berwarna coklat yang melengkung dan burung tersebut memiliki dada berwarna putih."
+        },
+        {
+          "english": "this is a small, brown bird with a white breast.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada putih."
+        },
+        {
+          "english": "a small brown bird with a white breast sits on a tree branch.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada putih duduk di dahan pohon."
+        },
+        {
+          "english": "a small bird with brown feathers, white belly, white eyebrow, and a short beak.",
+          "indo": "burung kecil berbulu coklat, perut putih, alis putih, dan paruh pendek."
+        },
+        {
+          "english": "a small bird with white belly and brown wingbands and long tail.",
+          "indo": "seekor burung kecil dengan perut berwarna putih dan pita sayap berwarna coklat serta ekor yang panjang."
+        },
+        {
+          "english": "a brown crown with a white eyebrow and a slightly curved beak with a grey and black striped tail and brown wings with a white breast.",
+          "indo": "mahkota berwarna coklat dengan alis berwarna putih dan paruh agak melengkung dengan ekor bergaris abu-abu hitam serta sayap berwarna coklat dengan dada berwarna putih."
+        },
+        {
+          "english": "a small brown bird with a long tail feather",
+          "indo": "seekor burung kecil berwarna coklat dengan bulu ekor yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0034_185130.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a bird with a small pointed bill, white eye brow and white eye ring and pale brown breast.",
+          "indo": "burung dengan paruh kecil runcing, superciliary mata putih, cincin mata putih, dan dada coklat pucat."
+        },
+        {
+          "english": "a small sparrow that is light brown on its ventral side, brown on its dorsal side and has spotted brown tail.",
+          "indo": "burung pipit kecil yang bagian perutnya berwarna coklat muda, bagian punggungnya berwarna coklat, dan ekornya berwarna coklat berbintik."
+        },
+        {
+          "english": "the bird has a small bill that is black and somewhat curved.",
+          "indo": "burung tersebut memiliki paruh kecil berwarna hitam dan agak melengkung."
+        },
+        {
+          "english": "the bird has a black eyering and bill and a brown back.",
+          "indo": "burung itu memiliki cincin mata dan paruh berwarna hitam serta punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown overall body color with its underbelly area having the lighter shade.",
+          "indo": "Burung ini memiliki warna tubuh keseluruhan berwarna coklat dengan bagian perutnya berwarna lebih terang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is small and brown, with white eyebrows, and large feet.",
+          "indo": "burung ini berukuran kecil berwarna coklat, alis berwarna putih, dan kaki besar."
+        },
+        {
+          "english": "this bird has a brown crown with a light brown belly and a a brown cheek patch.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan perut berwarna coklat muda dan bercak pipi berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown with light brown sides and small black beak.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dengan sisi berwarna coklat muda dan paruh kecil berwarna hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0037_185332.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this little bird has a white breast and belly with a brown head, back and tail.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna putih dengan kepala, punggung dan ekor berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown and wing.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota dan sayap berwarna coklat."
+        },
+        {
+          "english": "a small bird with a grey belly and a small bill. and brown wings",
+          "indo": "seekor burung kecil dengan perut abu-abu dan paruh kecil. dan sayap coklat"
+        },
+        {
+          "english": "this little bird has a white belly and breast with a brown crown and short pointy bill.",
+          "indo": "Burung kecil ini mempunyai perut dan dada berwarna putih dengan mahkota berwarna coklat dan paruh pendek yang runcing."
+        },
+        {
+          "english": "white breast and belly and eyebrow on brown bird with gray rectrices.",
+          "indo": "dada dan perut putih serta alis pada burung coklat dengan rectrices abu-abu."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "this small bird has a white and grey breast, belly and vent, and tan and cream colored secondaries.",
+          "indo": "Burung kecil ini memiliki dada, perut dan lubang kloaka berwarna putih dan abu-abu, serta bulu sekunder berwarna cokelat dan krem."
+        },
+        {
+          "english": "a light brown bird with a white belly, throat and a white streak above the eye.",
+          "indo": "burung berwarna coklat muda dengan perut putih, tenggorokan dan garis putih di atas mata."
+        },
+        {
+          "english": "this is a brown and white bird with some white on the head brown wings and some black and white striping on its tail.",
+          "indo": "Ini adalah burung berwarna coklat dan putih dengan sebagian sayap berwarna putih di kepala berwarna coklat dan beberapa garis hitam putih di ekornya."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0039_184989.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small grey bird with white belly and eyebrow, darker wings, and a striped rump.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan perut dan alis berwarna putih, sayap lebih gelap, dan pantat bergaris."
+        },
+        {
+          "english": "this bird has a brown crown, a white superciliary, and a short and sharp bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, superciliary berwarna putih, dan paruh yang pendek dan tajam"
+        },
+        {
+          "english": "this is a bird with a white belly, gray wing and a small pointed beak.",
+          "indo": "ini adalah burung dengan perut putih, sayap abu-abu dan paruh kecil runcing."
+        },
+        {
+          "english": "this bird is white and brown in color with a curved skinny beak, and loght eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kurus melengkung, dan mata berbentuk cincin."
+        },
+        {
+          "english": "this bird has a white belly, brown wing and head with a white eyebrow.",
+          "indo": "burung ini memiliki perut berwarna putih, sayap berwarna coklat dan kepala dengan alis berwarna putih."
+        },
+        {
+          "english": "a small bird with white breast and belly, brown crown and the head is small compared to its body",
+          "indo": "burung kecil dengan dada dan perut berwarna putih, mahkota berwarna coklat, dan kepala kecil dibandingkan badannya"
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has brown wings and tip of head, with a white belly.",
+          "indo": "Burung kecil ini mempunyai sayap dan ujung kepala berwarna coklat, dengan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a white breast and a shiny silvery bill",
+          "indo": "burung ini memiliki dada berwarna putih dan paruh berwarna keperakan mengkilat"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0042_184878.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "small neutral colored bird with elongated beak, white eyebrow and speckled tail.",
+          "indo": "burung kecil berwarna netral dengan paruh memanjang, alis putih, dan ekor berbintik."
+        },
+        {
+          "english": "a very small brown and gray bird with a white eyebrow and a long thin beak.",
+          "indo": "burung yang sangat kecil berwarna coklat dan abu-abu dengan alis putih dan paruh panjang dan tipis."
+        },
+        {
+          "english": "the small bird is grey with a speckled tail and has a white eyebrows with thin black beak.",
+          "indo": "burung kecil berwarna abu-abu dengan ekor berbintik-bintik dan memiliki alis berwarna putih dengan paruh tipis berwarna hitam."
+        },
+        {
+          "english": "a small bird with a pointed beak and a head that blends into the body.",
+          "indo": "seekor burung kecil dengan paruh runcing dan kepala menyatu dengan badan."
+        },
+        {
+          "english": "this is a grey bird with a brown wing and a white eyebrow.",
+          "indo": "ini adalah burung abu-abu dengan sayap coklat dan alis putih."
+        },
+        {
+          "english": "a small gray bird with long tail feathers and a pointed beak.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan bulu ekor panjang dan paruh runcing."
+        },
+        {
+          "english": "this bird has a white eye brow, brown crown and secondaries, and grey and white on its chest.",
+          "indo": "burung ini memiliki superciliary mata berwarna putih, mahkota dan bulu sekunder berwarna coklat, serta warna abu-abu dan putih pada bagian dada."
+        },
+        {
+          "english": "this bird is grey with black and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long thin black bill, with a grey breast.",
+          "indo": "burung ini mempunyai paruh panjang berwarna hitam tipis, dengan dada berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0047_184707.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small bird with brown tones all over and a barrow pointed beak",
+          "indo": "seekor burung kecil dengan seluruh warna coklat dan paruh runcing"
+        },
+        {
+          "english": "this is a brown bird with a white eyebrow and brown feet",
+          "indo": "ini adalah burung berwarna coklat dengan alis putih dan kaki coklat"
+        },
+        {
+          "english": "the superciliary is white and the crown is brown. the belly and breast are light brown. the pattern on the rectrices is speckled grey.",
+          "indo": "superciliary berwarna putih dan mahkota berwarna coklat. perut dan dada berwarna coklat muda. pola pada rectrices  berwarna abu-abu berbintik."
+        },
+        {
+          "english": "this small, tan bird has a gray, downwards curved beak, with black stripes on its tail and a prominent white eyebrow.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh berwarna abu-abu melengkung ke bawah, dengan garis-garis hitam di ekornya dan alis putih yang menonjol."
+        },
+        {
+          "english": "this is a bird with a grey breast, a brown back and a white eyebrow.",
+          "indo": "ini adalah burung dengan dada abu-abu, punggung coklat dan alis putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and has brown spots",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan memiliki bintik-bintik coklat"
+        },
+        {
+          "english": "this brown and grey bird has a striped tail and subtly striped primary wing feathers, with a white eyebrow and short curved bill.",
+          "indo": "burung berwarna coklat dan abu-abu ini memiliki ekor bergaris dan bulu sayap utama bergaris halus, dengan alis berwarna putih dan paruh melengkung pendek."
+        },
+        {
+          "english": "this short bird has black eyes, brown wings and back, and a white throat.",
+          "indo": "burung pendek ini bermata hitam, sayap dan punggung berwarna coklat, serta tenggorokan berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0049_185339.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a bird with grey on its breast, throat and belly, the coverts are brown and has a small head and a pointed bill.",
+          "indo": "burung yang dada, tenggorokan, dan perutnya berwarna abu-abu, bulunya berwarna coklat, kepala kecil, dan paruh runcing."
+        },
+        {
+          "english": "a fat bird with white and brown feathers has a sharp beak and a white streak on top of it's head.",
+          "indo": "burung gemuk dengan bulu berwarna putih dan coklat memiliki paruh yang tajam dan guratan putih di atas kepalanya."
+        },
+        {
+          "english": "a small bird with a white eyebrow, brown wings and head and a grey breast and belly.",
+          "indo": "seekor burung kecil dengan alis putih, sayap dan kepala berwarna coklat serta dada dan perut berwarna abu-abu."
+        },
+        {
+          "english": "gray bird with brown crown and wings and a white eyebrow.",
+          "indo": "burung abu-abu dengan mahkota dan sayap coklat serta alis putih."
+        },
+        {
+          "english": "a bird with a flat crown and a pointed cylindrical bill",
+          "indo": "seekor burung dengan mahkota datar dan paruh silindris runcing"
+        },
+        {
+          "english": "a small bird with brown wings, white belly, black eyes, and short gray beak.",
+          "indo": "burung kecil bersayap coklat, perut putih, mata hitam, dan paruh pendek berwarna abu-abu."
+        },
+        {
+          "english": "this fat bird has a long tail that sticks straight up.",
+          "indo": "burung gemuk ini mempunyai ekor panjang yang menjulur lurus ke atas."
+        },
+        {
+          "english": "a small bird with a white breast and brown wings.",
+          "indo": "seekor burung kecil dengan dada putih dan sayap coklat."
+        },
+        {
+          "english": "this small bird has a white breast and belly with brown wings.",
+          "indo": "burung kecil ini memiliki dada dan perut berwarna putih dengan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has a white superciliary stripe, tan wings and a tan and white striped under tail coverts.",
+          "indo": "burung ini memiliki garis superciliary putih, sayap berwarna coklat dan bulu di bawah ekornya bergaris coklat dan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0050_184919.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "grey belly and brown wings and head with a pointy grey and brown beak.",
+          "indo": "perut berwarna abu-abu dan sayap berwarna coklat serta kepala dengan paruh runcing berwarna abu-abu dan coklat."
+        },
+        {
+          "english": "this small bird has a light gray throat, breast, belly, abdomen and eyebrows and a light brown crown, wings, back and tail.",
+          "indo": "burung kecil ini memiliki tenggorokan, dada, perut, perut dan alis berwarna abu-abu muda serta mahkota, sayap, punggung dan ekor berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small sized bird that has a grey belly and a brown body with a pointed bill",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna abu-abu dan tubuh berwarna coklat dengan paruh runcing"
+        },
+        {
+          "english": "this bird is white and brown in color with a sharp skinny beak, and white eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kurus runcing, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this bird is white with grey and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih abu-abu dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a brown crown, grey bill that is slim and white belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, paruh berwarna abu-abu yang langsing dan perut berwarna putih."
+        },
+        {
+          "english": "the bird has a curved black bill and a white belly and breast.",
+          "indo": "burung ini memiliki paruh berwarna hitam melengkung serta perut dan dada berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0051_185425.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this small bird has brown feathers and a curved beak.",
+          "indo": "burung kecil ini memiliki bulu berwarna coklat dan paruh melengkung."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown and superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "this bird's body is brown, with a white belly, breast, and throat, a brown-orange crown, and a thin, curved bill.",
+          "indo": "Tubuh burung ini berwarna coklat, dengan perut, dada, dan tenggorokan berwarna putih, mahkota berwarna coklat jingga, serta paruh tipis melengkung."
+        },
+        {
+          "english": "the bird has a black beak the wings are brown and a white neck",
+          "indo": "burung tersebut memiliki paruh berwarna hitam, sayap berwarna coklat dan leher berwarna putih"
+        },
+        {
+          "english": "this small bird has a white belly, gray back and pointed beak.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, punggung berwarna abu-abu, dan paruh runcing."
+        },
+        {
+          "english": "this small bird has a white underside and brown top half with a small head but long and slender beak.",
+          "indo": "burung kecil ini memiliki bagian bawah berwarna putih dan bagian atas berwarna coklat dengan kepala kecil namun paruh panjang dan ramping."
+        },
+        {
+          "english": "this is a grey and white bird with grey-brown crown and a needle shaped bill.",
+          "indo": "ini adalah burung berwarna abu-abu dan putih dengan mahkota abu-abu kecokelatan dan paruh berbentuk jarum."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this little brown and white bird had a long beak and a puffy round breast.",
+          "indo": "burung kecil berwarna coklat dan putih ini memiliki paruh yang panjang dan dada yang bulat dan menggembung."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0052_184760.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has a long bill and a black eyering.",
+          "indo": "burung itu mempunyai paruh yang panjang dan cincin mata yang hitam."
+        },
+        {
+          "english": "this bird has a long curved bill, a white eyebrow, and a brown crown.",
+          "indo": "burung ini memiliki paruh panjang melengkung, alis berwarna putih, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this is a brown bird with a white throat and a pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan tenggorokan putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has a rounded belly, a long bill, and a white superciliary",
+          "indo": "burung ini memiliki perut yang membulat, paruh yang panjang, dan superciliary berwarna putih"
+        },
+        {
+          "english": "this small bird has a brown body and a grey eyebrow.",
+          "indo": "burung kecil ini memiliki tubuh berwarna coklat dan alis berwarna abu-abu."
+        },
+        {
+          "english": "a small brown bird with a white neck and a pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan leher putih dan paruh runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a rotund belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang bulat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird small and brown with a white neck and a long piercing beak.",
+          "indo": "burung itu kecil berwarna coklat dengan leher putih dan paruh panjang menusuk."
+        },
+        {
+          "english": "this bird has wings that are brown and has a fat white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang gemuk berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0054_184902.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has a small bill and black eyering that is round.",
+          "indo": "burung ini memiliki paruh kecil dan cincin mata berwarna hitam yang berbentuk bulat."
+        },
+        {
+          "english": "a small bird with a green back, green crown, green and black bill, light green and white belly, and blackened rectrices.",
+          "indo": "burung kecil dengan punggung hijau, mahkota hijau, paruh hijau dan hitam, perut hijau muda dan putih, dan rectrices  menghitam."
+        },
+        {
+          "english": "this is a grey bird with brown feathers and a brown head.",
+          "indo": "ini adalah burung abu-abu dengan bulu coklat dan kepala coklat."
+        },
+        {
+          "english": "this bird is brown with grey on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna abu-abu pada perutnya dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with light brown feathers and a white strip above its eye.",
+          "indo": "seekor burung kecil dengan bulu berwarna coklat muda dan garis putih di atas matanya."
+        },
+        {
+          "english": "this bird is brown with wite and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat keputihan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a white breast with tan wings.",
+          "indo": "burung kecil ini memiliki dada berwarna putih dengan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird is gray and brown in color, with a skinny beak.",
+          "indo": "burung ini berwarna abu-abu coklat, dengan paruh yang kurus."
+        },
+        {
+          "english": "this bird is mostly brown with a slender beak it also has long tail feathers",
+          "indo": "burung ini sebagian besar berwarna coklat dengan paruh ramping juga memiliki bulu ekor yang panjang"
+        },
+        {
+          "english": "a small brown and white bird with long black legs, a black pointy beak, a long wide tail, small wings, a small head and black eye.",
+          "indo": "burung kecil berwarna coklat putih dengan kaki panjang berwarna hitam, paruh runcing hitam, ekor panjang lebar, sayap kecil, kepala kecil dan mata hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0055_185230.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird is mostly brown with a long tan bill and wnite under belly along with yellow feet.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan paruh panjang berwarna coklat dan bagian bawah perutnya berwarna kuning serta kaki berwarna kuning."
+        },
+        {
+          "english": "this bird has a brown crown and primaries, and a gray belly and breast.",
+          "indo": "burung ini memiliki mahkota dan bulu primer berwarna coklat, serta perut dan dada berwarna abu-abu."
+        },
+        {
+          "english": "a small bird with brown wings and a grey breast, and a flat bill",
+          "indo": "seekor burung kecil dengan sayap coklat dan dada abu-abu, dan paruh rata"
+        },
+        {
+          "english": "a bird with a downward curved triangular bill, white eyebrow and gray breast.",
+          "indo": "burung dengan paruh berbentuk segitiga melengkung ke bawah, alis berwarna putih, dan dada berwarna abu-abu."
+        },
+        {
+          "english": "this bird has fluffy white plumage on its belly and throat, brown primaries and a brown crown.",
+          "indo": "burung ini memiliki bulu halus berwarna putih di perut dan tenggorokannya, bulu primer berwarna coklat, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "a bird grey tarsus and feet, the bill is long with a white breast and belly.",
+          "indo": "tarsus dan kaki burung berwarna abu-abu, paruhnya panjang dengan dada dan perut berwarna putih."
+        },
+        {
+          "english": "this bird has a light beige belly and light brown wings and head with fluffy crown feathers and a long pointy beak.",
+          "indo": "burung ini memiliki perut berwarna krem ​​​​muda dan sayap berwarna coklat muda serta kepala dengan bulu mahkota yang halus dan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a grey brown crown with white superciliary and cheek patch.",
+          "indo": "burung ini memiliki mahkota berwarna abu-abu coklat dengan superciliary dan bercak pipi berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has light and dark grey colored feathers.",
+          "indo": "burung kecil ini memiliki bulu berwarna abu-abu terang dan gelap."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0056_184834.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the small brown bird has white eyebrows and long bill.",
+          "indo": "burung kecil berwarna coklat memiliki alis putih dan paruh panjang."
+        },
+        {
+          "english": "short, stout looking brown bird with a long stripped tail and a curved beak.",
+          "indo": "burung pendek berwarna coklat kekar dengan ekor panjang bergaris dan paruh melengkung."
+        },
+        {
+          "english": "this small bird contains a long beak and small head compared to its body size, and brown and white covering the rest of its body.",
+          "indo": "Burung kecil ini memiliki paruh yang panjang dan kepala yang kecil dibandingkan dengan ukuran tubuhnya, serta berwarna coklat dan putih menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "this bird has a brown crown, a white superciliary, and a long black bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat, superciliary berwarna putih, dan paruh panjang berwarna hitam"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small brown bird has a somewhat long pointed beak and a light gray eyebrow.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh agak panjang dan runcing serta alis berwarna abu-abu muda."
+        },
+        {
+          "english": "a bird with a crown bill, white breast and brown crown.",
+          "indo": "burung dengan paruh mahkota, dada putih, dan mahkota coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a head that is small when compared to it's body with a slim pointed black bill.",
+          "indo": "burung ini memiliki kepala yang kecil jika dibandingkan dengan tubuhnya dengan paruh ramping berwarna hitam runcing."
+        },
+        {
+          "english": "a small bird with a brown coloring and white throat.",
+          "indo": "seekor burung kecil dengan warna coklat dan tenggorokan putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0060_185366.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small sized bird that has a dark grey belly and dark brown wings",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna abu-abu tua dan sayap berwarna coklat tua"
+        },
+        {
+          "english": "this is a small brown bird with a white belly and a large head in relation to its body.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan perut putih dan kepala besar dibandingkan dengan tubuhnya."
+        },
+        {
+          "english": "this is a bird with a grey belly, white breast and a brown back and head.",
+          "indo": "ini adalah burung dengan perut berwarna abu-abu, dada berwarna putih, serta punggung dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small bird has a white belly, brown head, brown feathers and brown tarsus and feet.",
+          "indo": "burung kecil ini memiliki perut berwarna putih, kepala berwarna coklat, bulu berwarna coklat serta tarsus dan kaki berwarna coklat."
+        },
+        {
+          "english": "this bird has a white stripe above its eye, brown wings and face, and its tail feathers point nearly straight up.",
+          "indo": "burung ini memiliki garis putih di atas matanya, sayap dan muka berwarna coklat, serta bulu ekornya mengarah hampir lurus ke atas."
+        },
+        {
+          "english": "this bird is characterized by a white breast and under belly as well as large outer and inner rectrices",
+          "indo": "burung ini bercirikan dada dan perut bagian bawah berwarna putih serta rectrices outer dan inner rectrices yang besar"
+        },
+        {
+          "english": "this small bird has a white breast and brown back, with white eyebrows and long curved beak.",
+          "indo": "burung kecil ini memiliki dada berwarna putih dan punggung berwarna coklat, alis berwarna putih dan paruh panjang melengkung."
+        },
+        {
+          "english": "a bird that is small and has a white belly.",
+          "indo": "seekor burung yang berukuran kecil dan perutnya berwarna putih."
+        },
+        {
+          "english": "a small bird with a grey belly and breast and pointed beak.",
+          "indo": "seekor burung kecil dengan perut dan dada berwarna abu-abu serta paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0061_184898.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small bird with a gray bill, and white belly.",
+          "indo": "seekor burung kecil dengan paruh berwarna abu-abu, dan perut berwarna putih."
+        },
+        {
+          "english": "this is a bird with a white breast and a brown back.",
+          "indo": "ini adalah burung dengan dada putih dan punggung coklat."
+        },
+        {
+          "english": "this small brown bird has a long pointed bill and white eyebrow.",
+          "indo": "burung kecil berwarna coklat ini memiliki paruh panjang runcing dan alis berwarna putih."
+        },
+        {
+          "english": "this small brownish bird has a light tan eyebrow and a long curved beak.",
+          "indo": "burung kecil berwarna kecoklatan ini memiliki alis berwarna coklat muda dan paruh panjang melengkung."
+        },
+        {
+          "english": "this bird has a brown crown, nape, back and rectrices area as well as a brown set of wings.",
+          "indo": "burung ini mempunyai mahkota, tengkuk, punggung dan daerah rectrices berwarna coklat serta sepasang sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this small bird has brown and spotted wings and tail, has pale white colored throat, breast, and belly, and has white eyebrows.",
+          "indo": "Burung kecil ini memiliki sayap dan ekor berwarna coklat dan berbintik, tenggorokan, dada, dan perut berwarna putih pucat, serta alis berwarna putih."
+        },
+        {
+          "english": "the bird is small with a pointed bill, has black eyes, and the breast is white.",
+          "indo": "Burungnya berukuran kecil dengan paruh runcing, bermata hitam, dan dada berwarna putih."
+        },
+        {
+          "english": "a small bird with a downward curving thin beak, a white belly, and pointed looking wings.",
+          "indo": "seekor burung kecil dengan paruh tipis melengkung ke bawah, perut berwarna putih, dan sayap tampak runcing."
+        },
+        {
+          "english": "small brown bird with white belly very long beak.",
+          "indo": "burung kecil berwarna coklat dengan perut putih, paruh sangat panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0062_185063.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has a brown crown and a small black bill that is thin.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh kecil berwarna hitam yang tipis."
+        },
+        {
+          "english": "a small gray bird with a blue breast, black bill and white eyebrows.",
+          "indo": "seekor burung kecil berwarna abu-abu dengan dada biru, paruh hitam, dan alis putih."
+        },
+        {
+          "english": "the bird has a brown covert, rectrices and crown, with some feathers in grey, and black color.",
+          "indo": "burung ini memiliki bulu berwarna coklat, rectrices dan mahkota, dengan beberapa bulu berwarna abu-abu dan hitam."
+        },
+        {
+          "english": "blue bellied bird with tan back and secondaries with brown and white crown.",
+          "indo": "burung perut biru dengan punggung coklat dan bulu sekunder dengan mahkota coklat dan putih."
+        },
+        {
+          "english": "this large brown bird with light blue side, large feet, large wingspan and large beak.",
+          "indo": "burung besar berwarna coklat dengan sisi biru muda, kaki besar, rentang sayap besar dan paruh besar."
+        },
+        {
+          "english": "this bird is blue with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna biru kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small colorful bird wit ha blue white and grey throat, white eye brow, and brown and grey secondaries.",
+          "indo": "seekor burung kecil berwarna-warni dengan tenggorokan biru putih dan abu-abu, superciliary mata putih, dan bulu sekunder berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this is a small bird with a long pointy thin bill and a blue distinctive neck and side, the rest of the bird is tan.",
+          "indo": "ini adalah burung kecil dengan paruh panjang, runcing, tipis, serta leher dan samping berwarna biru, selebihnya berwarna cokelat."
+        },
+        {
+          "english": "this bird is mostly brown with some blue feathers on its nape and a white stripe above its eyes.",
+          "indo": "burung ini sebagian besar berwarna coklat dengan beberapa bulu berwarna biru di tengkuknya dan garis putih di atas matanya."
+        },
+        {
+          "english": "this brown bird has a blue belly and some white markings on its head.",
+          "indo": "burung berwarna coklat ini memiliki perut berwarna biru dan beberapa tanda putih di kepalanya."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0065_185247.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small bird has a brown crown, a long pointy bill, and outer rectrices that are spotted.",
+          "indo": "seekor burung kecil mempunyai mahkota berwarna coklat, paruh panjang runcing, dan outer rectrices yang berbintik-bintik."
+        },
+        {
+          "english": "this bird is brown with whtie on its chest and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih pada dadanya dan mempunyai paruh yang sangat pendek."
+        },
+        {
+          "english": "a brown bird with a big round body and a small head, with a small beak.",
+          "indo": "burung berwarna coklat dengan tubuh bulat besar dan kepala kecil, dengan paruh kecil."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this is a brown bird with a white throat and a gray head and small pointy beak.",
+          "indo": "ini adalah burung berwarna coklat dengan tenggorokan putih dan kepala abu-abu serta paruh kecil yang runcing."
+        },
+        {
+          "english": "the bird is tan with a very short and small beak.",
+          "indo": "burung itu berwarna coklat dengan paruh yang sangat pendek dan kecil."
+        },
+        {
+          "english": "the bird has a short bill, puffy belly and grey back.",
+          "indo": "burung itu memiliki paruh pendek, perut buncit, dan punggung berwarna abu-abu."
+        },
+        {
+          "english": "the tan wings and back on the bird with a grey crown",
+          "indo": "sayap berwarna coklat dan punggung burung dengan mahkota abu-abu"
+        },
+        {
+          "english": "this is a small grey bird with a long tail, white throat and pointed beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu dengan ekor panjang, tenggorokan putih dan paruh runcing."
+        },
+        {
+          "english": "this bird is brown with white and has a very short beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang sangat pendek."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0066_184928.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a brown bird with a grey underbelly and a white stripe above it's eyes.",
+          "indo": "burung berwarna coklat dengan perut berwarna abu-abu dan garis putih di atas matanya."
+        },
+        {
+          "english": "a small bird with a grey throat, belly and tarsus, with black and white tips on its tail and wings, and white and brown speckles on the rest of its body except for the white striping of feathers going from its eye down the side of its nape.",
+          "indo": "seekor burung kecil dengan tenggorokan, perut, dan tarsus berwarna abu-abu, dengan ujung hitam putih pada ekor dan sayapnya, serta bintik-bintik putih dan coklat di seluruh tubuhnya kecuali garis-garis putih pada bulu mulai dari mata hingga ke samping. tengkuk."
+        },
+        {
+          "english": "the bird is brown with a white belly and long skinny tarsus with a skinny beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan tarsus panjang kurus dengan paruh kurus."
+        },
+        {
+          "english": "a small bird with long legs, and a long bill.",
+          "indo": "seekor burung kecil berkaki panjang, dan paruh panjang."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are brown and has a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "the bird has a grey belly, brown back and black eyering.",
+          "indo": "burung itu memiliki perut berwarna abu-abu, punggung berwarna coklat, dan cincin mata berwarna hitam."
+        },
+        {
+          "english": "a small bird with a white breast and brown wings.",
+          "indo": "seekor burung kecil dengan dada putih dan sayap coklat."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0067_184816.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this chubby brown bird has a black tail and a short black beak.",
+          "indo": "burung berwarna coklat gemuk ini memiliki ekor berwarna hitam dan paruh pendek berwarna hitam."
+        },
+        {
+          "english": "this bird has a short curved bill, a white eyebrow, and a medium brown crown.",
+          "indo": "burung ini memiliki paruh pendek melengkung, alis berwarna putih, dan mahkota berwarna coklat sedang."
+        },
+        {
+          "english": "the bird's crown and wingbars is a light brown, slightly circular and sunken into a elongated and pointy bill, the side is grey in color.",
+          "indo": "ubun-ubun dan garis sayap burung berwarna coklat muda, agak melingkar dan cekung menjadi paruh memanjang dan runcing, bagian samping berwarna abu-abu."
+        },
+        {
+          "english": "this chubby tan bird has a white breast and a long grey beak.",
+          "indo": "burung berkulit coklat gemuk ini memiliki dada berwarna putih dan paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this bird is brown and grey in color with a skinny black beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat keabu-abuan dengan paruh hitam kurus, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a rotund white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai tubuh bulat berwarna putih"
+        },
+        {
+          "english": "this is a very fuzzy looking bird with a grey breast and brown-ish wings.",
+          "indo": "ini adalah burung yang tampak sangat berbulu halus dengan dada abu-abu dan sayap kecoklatan."
+        },
+        {
+          "english": "this bird has a large body, a very small head, a long and narrow tail, and a short beak that curves downward.",
+          "indo": "burung ini mempunyai badan yang besar, kepala yang sangat kecil, ekor yang panjang dan sempit, serta paruh yang pendek melengkung ke bawah."
+        },
+        {
+          "english": "this is a small bird with a gray breast, brown wings, and a beak that slightly curves downwards.",
+          "indo": "ini adalah burung kecil dengan dada abu-abu, sayap coklat, dan paruh agak melengkung ke bawah."
+        },
+        {
+          "english": "a small bird with a white breast and a brown crown and long tail feathers.",
+          "indo": "seekor burung kecil dengan dada berwarna putih dan mahkota berwarna coklat serta bulu ekor yang panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0068_184895.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small sized bird that has a grey belly and brown tipped head and body",
+          "indo": "burung berukuran kecil yang memiliki perut berwarna abu-abu dan kepala serta badan berujung coklat"
+        },
+        {
+          "english": "this bird has a white belly and breast, with a black superciliary and white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan superciliary berwarna hitam dan superciliary berwarna putih."
+        },
+        {
+          "english": "the bird has a white colored breast, abdomen and throat, and with a colored brown crown and coverts.",
+          "indo": "burung ini memiliki dada, perut dan tenggorokan berwarna putih, serta mahkota dan bulu berwarna coklat."
+        },
+        {
+          "english": "a thin beak, attached to a neutral-toned body, has spotted secondaries and outer rectrices.",
+          "indo": "paruh tipis, melekat pada tubuh berwarna netral, telah melihat rectrices bulu sekunder dan luar."
+        },
+        {
+          "english": "small bird with a brown back and crown, grey and black wings and tail, and a white breast and belly.",
+          "indo": "burung kecil dengan punggung dan mahkota berwarna coklat, sayap dan ekor berwarna abu-abu dan hitam, serta dada dan perut berwarna putih."
+        },
+        {
+          "english": "a small bird with a grey and white throat, breast and belly, black and brown covering its secondaries and inner and outer rectrices, and a brown nape, neck and back.",
+          "indo": "seekor burung kecil dengan tenggorokan, dada dan perut berwarna abu-abu dan putih, hitam dan coklat menutupi rectrices bulu sekunder dan inner dan outer rectrices, serta tengkuk, leher dan punggung berwarna coklat."
+        },
+        {
+          "english": "this bird has a white belly and breast with a brown wing and head.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih dengan sayap dan kepala berwarna coklat."
+        },
+        {
+          "english": "a small bird with a gray belly and a long silver beak.",
+          "indo": "seekor burung kecil dengan perut abu-abu dan paruh panjang berwarna perak."
+        },
+        {
+          "english": "this little round bird has a thin beak with a coloring of brown, gray with some striping on its primary wings.",
+          "indo": "Burung bulat kecil ini memiliki paruh tipis dengan warna coklat abu-abu dengan beberapa garis pada sayap utamanya."
+        },
+        {
+          "english": "this petite bird has a needle-like bill, a grey blue belly, patterned black and brown coloring on his wings and tail that looks like zigzags.",
+          "indo": "Burung mungil ini mempunyai paruh seperti jarum, perut berwarna abu-abu biru, bercorak warna hitam coklat pada sayapnya dan ekornya berbentuk zigzag."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0070_184892.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a brown bird with a narrow pointed bill and erect tail feathers.",
+          "indo": "burung berwarna coklat dengan paruh runcing sempit dan bulu ekor tegak."
+        },
+        {
+          "english": "a small sized bird that has multiple brown tones and a long pointed bill",
+          "indo": "seekor burung berukuran kecil yang memiliki banyak warna coklat dan paruh runcing panjang"
+        },
+        {
+          "english": "this bird has a dark brown beak, brown eyes, a greyish-brown breast, brown primaries with white secondaries, and dark brown outer rectrices with inner white rectrices.",
+          "indo": "burung ini mempunyai paruh berwarna coklat tua, mata coklat, dada coklat keabu-abuan, paruh bulu primer berwarna coklat dengan paruh bulu sekunder berwarna putih, dan outer rectrices berwarna coklat tua dengan inner rectrices berwarna putih."
+        },
+        {
+          "english": "the bird has a black eyering and a long curved black bill.",
+          "indo": "burung itu mempunyai cincin mata hitam dan paruh hitam panjang melengkung."
+        },
+        {
+          "english": "this bird has brown and white feathers with a curved long beak.",
+          "indo": "burung ini mempunyai bulu berwarna coklat putih dengan paruh panjang melengkung."
+        },
+        {
+          "english": "this light brown bird has a long tail that is sticking upwards and a thin beak that curved downwards very slightly.",
+          "indo": "burung berwarna coklat muda ini memiliki ekor panjang yang mencuat ke atas dan paruh tipis yang sedikit melengkung ke bawah."
+        },
+        {
+          "english": "the bird in the picture has a long tail and is primarily brown, with a long, pointed beak.",
+          "indo": "burung dalam gambar memiliki ekor yang panjang dan sebagian besar berwarna coklat, dengan paruh yang panjang dan runcing."
+        },
+        {
+          "english": "the bird has a long spotted outer rectrices  and a spotted back.",
+          "indo": "burung itu memilik outer rectrices yang berbintik panjang dan punggung yang berbintik."
+        },
+        {
+          "english": "this bird has a long and sharp beak with a light brown body.",
+          "indo": "burung ini memiliki paruh yang panjang dan tajam dengan tubuh berwarna coklat muda."
+        },
+        {
+          "english": "this bird has a white and brown breast with a sharp pointed bill",
+          "indo": "burung ini mempunyai dada berwarna putih kecokelatan dengan paruh yang runcing dan runcing"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0073_185049.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this tiny brown bird has a white eyebrow, curved slim beak, and a dark brown tail.",
+          "indo": "burung mungil berwarna coklat ini memiliki alis berwarna putih, paruh ramping melengkung, dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "this is a brown bird with a white eyebrow and breast.",
+          "indo": "ini adalah burung berwarna coklat dengan alis dan dada berwarna putih."
+        },
+        {
+          "english": "a brown bird with an orange throat and white eyebrows.",
+          "indo": "seekor burung coklat dengan tenggorokan oranye dan alis putih."
+        },
+        {
+          "english": "this bird has a brown crown with a white stripe, brown wings, and a tail with black stripes, and its breast is white.",
+          "indo": "burung ini mempunyai mahkota berwarna coklat bergaris putih, sayap berwarna coklat, dan ekor bergaris hitam, serta dadanya berwarna putih."
+        },
+        {
+          "english": "this bird has a brown crown, a whiter superciliary, and a rounded belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat, superciliary lebih putih, dan perut membulat"
+        },
+        {
+          "english": "this small brown bird has a very long pointed beak. it has little wings and it's tail is black and brown.",
+          "indo": "burung kecil berwarna coklat ini mempunyai paruh runcing yang sangat panjang. sayapnya kecil dan ekornya berwarna hitam dan coklat."
+        },
+        {
+          "english": "a small brown bird with a long gray beak, white breast area and long legs.",
+          "indo": "burung kecil berwarna coklat dengan paruh panjang berwarna abu-abu, area dada berwarna putih, dan kaki panjang."
+        },
+        {
+          "english": "this bird is extremely small, with brown wings, an almost otter-like tail, and point little gray beak.",
+          "indo": "burung ini sangat kecil, dengan sayap berwarna coklat, ekor hampir seperti berang-berang, dan paruh kecil berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a long pointed bill, and small but long black legs.",
+          "indo": "burung ini memiliki paruh yang panjang dan runcing, serta kaki yang kecil namun panjang berwarna hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0075_185046.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this little bird has a light belly and throat fading into a brown torso. white striped crown, and speckled secondaries and tail feathers.",
+          "indo": "burung kecil ini memiliki perut dan tenggorokan ringan yang memudar menjadi batang tubuh berwarna coklat. mahkota bergaris putih, dan bulu sekunder serta bulu ekor berbintik."
+        },
+        {
+          "english": "the bird has a thin bill and a white and grey belly.",
+          "indo": "burung itu memiliki paruh tipis dan perut berwarna putih abu-abu."
+        },
+        {
+          "english": "bird has flat thin beak with brown head white throat and tan belly with brown secondaries and rectrices.",
+          "indo": "burung mempunyai paruh tipis rata dengan kepala berwarna coklat, tenggorokan putih dan perut berwarna coklat dengan gigi bulu sekunder dan rectrices  berwarna coklat."
+        },
+        {
+          "english": "this bird has a brown crown, nape, and wings, while its breast and abdomen are whiteish-grey, and there are black stripes on the flank.",
+          "indo": "burung ini mempunyai mahkota, tengkuk, dan sayap berwarna coklat, sedangkan dada dan perutnya berwarna abu-abu keputihan, serta terdapat garis-garis hitam di bagian panggul."
+        },
+        {
+          "english": "a small dull colored bird with a grayish white underbelly, and a brown upper body",
+          "indo": "burung kecil berwarna kusam dengan perut bagian bawah berwarna putih keabu-abuan, dan tubuh bagian atas berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a very small light brown and dark brown bird with a long thin beak.",
+          "indo": "burung yang sangat kecil berwarna coklat muda dan coklat tua dengan paruh panjang dan tipis."
+        },
+        {
+          "english": "a small bird with a white eyebrow and long beak.",
+          "indo": "seekor burung kecil dengan alis putih dan paruh panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0081_185080.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the small bird has a wide mouth with a pointed bill and a light grey belly.",
+          "indo": "burung kecil memiliki mulut lebar dengan paruh runcing dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "brown winged bird with grey abdomen and tarsus and a long pointed beak.",
+          "indo": "burung bersayap coklat dengan perut dan tarsus abu-abu serta paruh runcing panjang."
+        },
+        {
+          "english": "a medium sized bird with a long bill, and brown wings",
+          "indo": "burung berukuran sedang dengan paruh panjang, dan sayap berwarna coklat"
+        },
+        {
+          "english": "this small songbird in shades of gray and taupe has a thin black beak and a puffed breast.",
+          "indo": "Burung penyanyi kecil bernuansa abu-abu dan kelabu tua ini memiliki paruh hitam tipis dan dada menggembung."
+        },
+        {
+          "english": "this is a tiny bird with a long bill, grey breast, and brown crown and wings.",
+          "indo": "ini adalah burung kecil dengan paruh panjang, dada abu-abu, serta mahkota dan sayap berwarna coklat."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this is a small bird with a gray breast and brown wings and tail and a long beak.",
+          "indo": "ini adalah burung kecil dengan dada abu-abu dan sayap serta ekor berwarna coklat dan paruh panjang."
+        },
+        {
+          "english": "this bird is grey with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna abu-abu coklat dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this particular bird has a belly that is gray with brown secondaries",
+          "indo": "burung ini memiliki perut berwarna abu-abu dengan tanda bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this brown, narrow beaked bird has a white underside and a white eyebrow.",
+          "indo": "burung berparuh sempit berwarna coklat ini memiliki bagian bawah berwarna putih dan alis berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0082_185021.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has a black bill and a white belly and breast.",
+          "indo": "burung itu mempunyai paruh berwarna hitam dan perut serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has a small head, a rounded belly, and a long and pointed bill.",
+          "indo": "burung ini mempunyai kepala yang kecil, perut yang membulat, serta paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this is a bird with a grey belly, brown wings and a pointed black beak.",
+          "indo": "ini adalah burung dengan perut abu-abu, sayap coklat dan paruh hitam runcing."
+        },
+        {
+          "english": "this is a bird with a grey belly and breast and a brown wing and head with a white eyebrow.",
+          "indo": "ini adalah burung dengan perut dan dada berwarna abu-abu serta sayap dan kepala berwarna coklat dengan alis berwarna putih."
+        },
+        {
+          "english": "small bird with a pointy small bill, its brown and grey colored all over.",
+          "indo": "burung kecil dengan paruh kecil runcing, seluruh tubuhnya berwarna coklat dan abu-abu."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small, brown bird with a rounded body and brown on its wings, white around its head and undersides, black tail feathers, a small head compared to its body, and a very small, long black bill.",
+          "indo": "burung kecil berwarna coklat dengan badan membulat dan sayap berwarna coklat, sekeliling kepala dan bagian bawah berwarna putih, bulu ekor berwarna hitam, kepala kecil dibandingkan badannya, dan paruh sangat kecil berwarna hitam panjang."
+        },
+        {
+          "english": "this bird looks as if it does not have a neck, the colors are mostly brown on the back.",
+          "indo": "burung ini terlihat seperti tidak memiliki leher, warna punggungnya sebagian besar berwarna coklat."
+        },
+        {
+          "english": "a small bird with a dark brown wings and white eyebrows.",
+          "indo": "seekor burung kecil dengan sayap coklat tua dan alis putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0083_185190.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird has a light colored breast with brown and black speckles on its crown and back.",
+          "indo": "burung ini mempunyai dada berwarna terang dengan bintik coklat dan hitam pada ubun-ubun dan punggungnya."
+        },
+        {
+          "english": "the bird has a white breast and abdomen with brown and black colored covert and rectrices.",
+          "indo": "burung ini memiliki dada dan perut berwarna putih dengan bulu penutup dan rectrices berwarna coklat dan hitam."
+        },
+        {
+          "english": "the bird's tail and wings are large as compared to the small body and head and the feet are also large.",
+          "indo": "ekor dan sayap burungnya besar dibandingkan dengan badannya yang kecil dan kepalanya serta kakinya juga besar."
+        },
+        {
+          "english": "the small bird has a small beak, and the wings and tail feathers are brown and white checkered.",
+          "indo": "burung kecil mempunyai paruh yang kecil, sayap dan bulu ekornya berwarna coklat kotak-kotak putih."
+        },
+        {
+          "english": "this bird has spotted primaries and rectrices and a white breast.",
+          "indo": "burung ini telah melihat warna bulu primer dan rectrices  serta dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this is a small brown bird, with a light brown belly, darker brown back, wings and head, with a pointy bill.",
+          "indo": "Ini adalah burung kecil berwarna coklat, dengan perut berwarna coklat muda, punggung berwarna coklat tua, sayap dan kepala, dengan paruh yang runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "brown crown, nape and back; brown winglets; white throat, breast and abdomen; short bill, long tarsus",
+          "indo": "mahkota coklat, tengkuk dan punggung; sayap kecil berwarna coklat; tenggorokan putih, dada dan perut; paruh pendek, tarsus panjang"
+        },
+        {
+          "english": "this small bird has surprisingly long tarsus and large feet for its size.",
+          "indo": "burung kecil ini ternyata memiliki tarsus yang panjang dan kaki yang besar untuk ukurannya."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0084_184715.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird is brown with a long beak and white markings on the face.",
+          "indo": "burung itu berwarna coklat dengan paruh panjang dan corak putih di wajahnya."
+        },
+        {
+          "english": "this small grayish-brown bird has a long, narrow poited beak and a long tail.",
+          "indo": "burung kecil berwarna coklat keabu-abuan ini memiliki paruh yang panjang dan sempit serta ekor yang panjang."
+        },
+        {
+          "english": "a small song bird with a curved beak and a white stripe over the eye which ends at the neck.",
+          "indo": "burung penyanyi kecil dengan paruh melengkung dan garis putih di atas matanya yang berakhir di leher."
+        },
+        {
+          "english": "this bird has a gray belly and breast with a brown crown and white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu dengan mahkota berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "the light brown bird features some white plumage covering its belly and a longish, curved beak.",
+          "indo": "burung berwarna coklat muda ini memiliki bulu putih yang menutupi perutnya dan paruhnya yang panjang dan melengkung."
+        },
+        {
+          "english": "this brown bird has a long thin bill and very long rectrices compared to its small body.",
+          "indo": "burung berwarna coklat ini mempunyai paruh yang panjang dan tipis serta rectrices  yang sangat panjang dibandingkan dengan tubuhnya yang kecil."
+        },
+        {
+          "english": "this small bird is mostly brown with a grey-white belly and white eye bar, a long pointy bill, and a long brown tail with black bars.",
+          "indo": "Burung kecil ini sebagian besar berwarna coklat dengan perut berwarna abu-abu putih dan garis mata berwarna putih, paruh panjang runcing, dan ekor panjang berwarna coklat dengan garis hitam."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this particular bird has a belly that is tan and has gray secondaries",
+          "indo": "burung ini memiliki perut berwarna coklat dan memiliki bulu sekunder berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a white eyebrow and brown plumage.",
+          "indo": "burung ini memiliki alis berwarna putih dan bulu berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0085_185474.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this is a very non-descriptive small bird with predominantly brown plumage, light brown eyebrow, and some lighter brown spots on the tail.",
+          "indo": "ini adalah burung kecil yang sangat non-deskriptif dengan bulu yang didominasi warna coklat, alis berwarna coklat muda, dan beberapa bintik coklat muda di bagian ekor."
+        },
+        {
+          "english": "this bird is brown with a long, thin beak and thin claws.",
+          "indo": "burung ini berwarna coklat dengan paruh yang panjang dan tipis serta cakar yang tipis."
+        },
+        {
+          "english": "a small bird with a green belly, green open bill with blackened tips, and green secondaries.",
+          "indo": "burung kecil dengan perut berwarna hijau, paruh terbuka berwarna hijau dengan ujung menghitam, dan bulu sekunder berwarna hijau."
+        },
+        {
+          "english": "small grey brown and black bird with long brown tarsus and medium slender brown beak",
+          "indo": "burung kecil berwarna abu-abu coklat dan hitam dengan tarsus coklat panjang dan paruh coklat ramping sedang"
+        },
+        {
+          "english": "a small plump bird with a long bird and tail.",
+          "indo": "seekor burung kecil gempal dengan burung dan ekor yang panjang."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this tan and brown bird has patterned rectrices and a very sharply pointed bill.",
+          "indo": "burung berwarna coklat kecokelatan ini memiliki pola rectrices  dan paruh yang runcing sangat tajam."
+        },
+        {
+          "english": "a small brown bird with a light brown breast and a pointed beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada berwarna coklat muda dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0087_184918.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has brown crown, nape, wings, tarsus and feet, it has gray throat, breast and belly, it has sharp and pointed beak.",
+          "indo": "burung mempunyai mahkota, tengkuk, sayap, tarsus dan kaki berwarna coklat, tenggorokan, dada dan perut berwarna abu-abu, paruhnya runcing dan runcing."
+        },
+        {
+          "english": "a brown small sparrow-like bird with white eyebrow and throat, and dark brown wings, crown and tail.",
+          "indo": "burung kecil mirip burung pipit berwarna coklat dengan alis dan tenggorokan berwarna putih, serta sayap, mahkota dan ekor berwarna coklat tua."
+        },
+        {
+          "english": "a bird with a gray body and gray belly, it's crown and wings are a darker gray.",
+          "indo": "burung dengan tubuh abu-abu dan perut abu-abu, mahkota dan sayapnya berwarna abu-abu gelap."
+        },
+        {
+          "english": "this is a small, brown bird with a light grey breast and sides.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada dan sisi abu-abu muda."
+        },
+        {
+          "english": "this dark-hued bird has a gray body with hints of brown in its feathers and a thin black beak.",
+          "indo": "burung berwarna gelap ini memiliki tubuh abu-abu dengan sedikit warna coklat pada bulunya dan paruh tipis berwarna hitam."
+        },
+        {
+          "english": "this little bird has a long, straight, gray bill, gray crown, light gray throat, belly and sides, dark gray primaries, gray tarsus and foot.",
+          "indo": "Burung kecil ini memiliki paruh panjang, lurus, berwarna abu-abu, mahkota berwarna abu-abu, tenggorokan, perut dan samping berwarna abu-abu muda, bulu primer berwarna abu-abu tua, tarsus dan kaki berwarna abu-abu."
+        },
+        {
+          "english": "this brown bird has a lighter colored throat, a white eyebrow stripe, and a narrow, medium length black bill.",
+          "indo": "burung berwarna coklat ini memiliki tenggorokan berwarna lebih terang, garis alis berwarna putih, dan paruh hitam yang sempit dan panjang sedang."
+        },
+        {
+          "english": "this bird has wings that are black and has a white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this particular bird has a belly that is gray and white",
+          "indo": "burung ini memiliki perut berwarna abu-abu dan putih"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0088_184733.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the bird has brown beak and wings, gray throat, superciliary, breast and belly, and black rectrices.",
+          "indo": "burung ini memiliki paruh dan sayap berwarna coklat, tenggorokan berwarna abu-abu, superciliary, dada dan perut, serta rectrices  berwarna hitam."
+        },
+        {
+          "english": "the bird has a white breast and a brown abdomen and pair of wings.",
+          "indo": "burung itu memiliki dada berwarna putih dan perut berwarna coklat serta sepasang sayap."
+        },
+        {
+          "english": "a bird with a long pointed bill, grey breast, brown back, and distinctive rectrices.",
+          "indo": "burung dengan paruh panjang dan runcing, dada berwarna abu-abu, punggung berwarna coklat, dan rectrices  yang khas."
+        },
+        {
+          "english": "a small bird with a grey belly, and a bill that curves downwards",
+          "indo": "seekor burung kecil dengan perut berwarna abu-abu, dan paruh melengkung ke bawah"
+        },
+        {
+          "english": "this bird is white and brown in color with a skinny curved beak, and brown eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kurus melengkung, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "this particular bird has a white belly and breasts and brown secondaries",
+          "indo": "burung ini memiliki perut dan dada berwarna putih serta bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a whit breast and long tail feathers, with a long pointed beak.",
+          "indo": "Burung ini mempunyai dada berwarna putih dan bulu ekor yang panjang, serta paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this is a small brown bird, with a light colored breast, and a pointed bill.",
+          "indo": "ini adalah burung kecil berwarna coklat, dengan dada berwarna terang, dan paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0092_184901.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small bird with a light brown underbelly and darker brown wings.",
+          "indo": "seekor burung kecil dengan perut berwarna coklat muda dan sayap coklat tua."
+        },
+        {
+          "english": "this is a small bird mostly white on chest and brown on back.",
+          "indo": "ini adalah burung kecil yang sebagian besar berwarna putih di dada dan coklat di punggung."
+        },
+        {
+          "english": "this bird has a white belly and breast, with a brown crown and white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "small brown bird with a little lighter color brown breast with black eyes and small, long pointy beak",
+          "indo": "burung kecil berwarna coklat dengan warna dada coklat sedikit lebih terang dengan mata hitam dan paruh kecil panjang dan runcing"
+        },
+        {
+          "english": "this adorable bird has brown wings, a white belly, and a long grey beak.",
+          "indo": "burung menggemaskan ini memiliki sayap berwarna coklat, perut berwarna putih, dan paruh panjang berwarna abu-abu."
+        },
+        {
+          "english": "this is a small white bird with a brown head and wings and a pointy, curved beak.",
+          "indo": "ini adalah burung putih kecil dengan kepala dan sayap berwarna coklat serta paruh runcing dan melengkung."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white breast",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan dada berwarna putih"
+        },
+        {
+          "english": "this bird is brown and white in color, with a curved and skinny beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh melengkung dan kurus."
+        },
+        {
+          "english": "this bird has wings that are brown and has a fat belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang gemuk"
+        },
+        {
+          "english": "this bird has a slim pointed bill with a white eyering and a grey breast.",
+          "indo": "burung ini memiliki paruh ramping dan runcing dengan cincin mata berwarna putih dan dada berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0096_185139.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird is small, has a white breast and belly, brown wings, and a sharp bill.",
+          "indo": "burung ini berukuran kecil, memiliki dada dan perut berwarna putih, sayap berwarna coklat, dan paruh yang runcing."
+        },
+        {
+          "english": "a small bird with a flat bill and a brown body, and a grey breast",
+          "indo": "seekor burung kecil dengan paruh rata dan tubuh berwarna coklat, serta dada berwarna abu-abu"
+        },
+        {
+          "english": "small bird with a long curved pointy beak and a short brown tail.",
+          "indo": "burung kecil dengan paruh panjang melengkung, runcing, dan ekor pendek berwarna coklat."
+        },
+        {
+          "english": "a small bird with a white belly, and a small head.",
+          "indo": "seekor burung kecil dengan perut putih, dan kepala kecil."
+        },
+        {
+          "english": "this bird is brown with white on its head and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan kepala berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a bird with brown wingbars and a white eyebrow.",
+          "indo": "seekor burung dengan garis sayap berwarna coklat dan alis berwarna putih."
+        },
+        {
+          "english": "this small brown bird has a gray breast and belly and a pointed beak that slightly curves down.",
+          "indo": "burung kecil berwarna coklat ini memiliki dada dan perut berwarna abu-abu serta paruh runcing yang agak melengkung ke bawah."
+        },
+        {
+          "english": "this bird has wings that are brown and has a long bill",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai paruh yang panjang"
+        },
+        {
+          "english": "the bird has a small black bill and spotted brown back.",
+          "indo": "burung itu memiliki paruh kecil berwarna hitam dan punggung berbintik coklat."
+        },
+        {
+          "english": "a small bird with a gray-white throat and belly, brown back, and black and brown primaries.",
+          "indo": "seekor burung kecil dengan tenggorokan dan perut berwarna abu-abu putih, punggung berwarna coklat, dan bulu primer berwarna hitam dan coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0097_185358.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small brown bird with very long rectrices, brown tarsus, a white throat and superciliary, and a black bill.",
+          "indo": "seekor burung kecil berwarna coklat dengan rectrices  yang sangat panjang, tarsus coklat, tenggorokan putih dan superciliary, dan paruh hitam."
+        },
+        {
+          "english": "this is a little brown bird with a white breast and throat.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "a small, white-breasted bird with the majority of its body being brown.",
+          "indo": "burung kecil berdada putih yang sebagian besar tubuhnya berwarna coklat."
+        },
+        {
+          "english": "a small brown bird,with a small frame,a long pointed beak and a long tail.",
+          "indo": "burung kecil berwarna coklat, bertubuh kecil, paruh runcing panjang, dan ekor panjang."
+        },
+        {
+          "english": "the body of this bird is brown with black stripes on the tail, while its breast, belly and eyebrow are white.",
+          "indo": "badan burung ini berwarna coklat dengan garis-garis hitam pada bagian ekornya, sedangkan dada, perut dan alisnya berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white chest",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai dada yang berwarna putih"
+        },
+        {
+          "english": "small brown bird with a long brown and black tail, pointy bear and white breast.",
+          "indo": "burung kecil berwarna coklat dengan ekor panjang berwarna coklat dan hitam, beruang runcing dan dada berwarna putih."
+        },
+        {
+          "english": "this particular bird has a belly that is white and brown patches",
+          "indo": "Burung ini mempunyai perut yang bercak putih dan coklat"
+        },
+        {
+          "english": "this small brown bird has rectrices that point upwards, a white throat and superciliary.",
+          "indo": "burung kecil berwarna coklat ini memiliki rectrices  yang mengarah ke atas, tenggorokan berwarna putih dan superciliary."
+        },
+        {
+          "english": "a small bird with a long tail and a black beak.",
+          "indo": "seekor burung kecil dengan ekor panjang dan paruh hitam."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0099_185288.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a bird with a very small head and bill with black eyes, a white breast, and brown rectrices",
+          "indo": "seekor burung dengan kepala dan paruh yang sangat kecil, mata hitam, dada putih, dan rectrices  berwarna coklat"
+        },
+        {
+          "english": "this stout bird has a white breast and light brown back with speckled rectrices.",
+          "indo": "burung gagah ini memiliki dada berwarna putih dan punggung berwarna coklat muda dengan rectrices  berbintik."
+        },
+        {
+          "english": "the bird has light grey colored breast and throat with a brown covert and crown.",
+          "indo": "burung ini memiliki dada dan tenggorokan berwarna abu-abu muda dengan bulu dan mahkota berwarna coklat."
+        },
+        {
+          "english": "this brown bird has a white breast, long pointy beak and long rectrices.",
+          "indo": "burung berwarna coklat ini memiliki dada berwarna putih, paruh runcing panjang dan rectrices ."
+        },
+        {
+          "english": "bird with small pointed bill, white eyebrow, red crown, and gray breast.",
+          "indo": "burung dengan paruh kecil runcing, alis putih, mahkota merah, dan dada abu-abu."
+        },
+        {
+          "english": "this brown bird has a tail that's sticking upwards and a light gray throat, breast and belly.",
+          "indo": "burung berwarna coklat ini memiliki ekor yang mencuat ke atas dan tenggorokan, dada, dan perut berwarna abu-abu muda."
+        },
+        {
+          "english": "the small bird is brown in color with a white chest.",
+          "indo": "burung kecil berwarna coklat dengan dada berwarna putih."
+        },
+        {
+          "english": "small brown bird with white stomach.",
+          "indo": "burung kecil berwarna coklat dengan perut putih."
+        },
+        {
+          "english": "this bird has a brown crown, brown primaries, and a grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat, bulu primer berwarna coklat, dan perut berwarna abu-abu."
+        },
+        {
+          "english": "this bird has a white eyebrow beneath a head topped with brown.",
+          "indo": "burung ini memiliki alis berwarna putih di bawah kepala dengan warna coklat di atasnya."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0104_185256.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a brown bird with a small flat head and a long skinny beak",
+          "indo": "seekor burung berwarna coklat dengan kepala kecil rata dan paruh panjang dan kurus"
+        },
+        {
+          "english": "small light brown bird with small flat beak white belly and throat and brown rectrices with small grey larsus.",
+          "indo": "burung kecil berwarna coklat muda dengan paruh kecil rata, perut dan tenggorokan berwarna putih, dan rectrices coklat dengan larsus kecil berwarna abu-abu."
+        },
+        {
+          "english": "this small bird has a long curved beak, white breast and soft brown back and wings.",
+          "indo": "Burung kecil ini memiliki paruh panjang melengkung, dada berwarna putih, serta punggung dan sayap berwarna coklat lembut."
+        },
+        {
+          "english": "this very small bird has a unique bill and a plaid tail.",
+          "indo": "burung yang sangat kecil ini memiliki paruh yang unik dan ekor yang berbentuk kotak-kotak."
+        },
+        {
+          "english": "this is a small brown bird with a long striped tail feather, and a small pointed bill.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan bulu ekor bergaris panjang, dan paruh kecil runcing."
+        },
+        {
+          "english": "this medium sized brown bird has a long slender brown beak and features a off white breast and mottled brown and white feathers below the eyes and on the long extended tail feathers.",
+          "indo": "Burung berwarna coklat berukuran sedang ini memiliki paruh panjang berwarna coklat ramping dan ciri-ciri dada berwarna putih pucat serta bulu berbintik-bintik coklat putih di bawah mata dan pada bulu ekor yang panjang memanjang."
+        },
+        {
+          "english": "this small bird has brown wings, a white belly, and a long bill.",
+          "indo": "burung kecil ini memiliki sayap berwarna coklat, perut berwarna putih, dan paruh yang panjang."
+        },
+        {
+          "english": "this bird is brown and white in color, with a curved and skinny beak.",
+          "indo": "burung ini berwarna coklat putih, dengan paruh melengkung dan kurus."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long pointed brown bill, with a brown back.",
+          "indo": "burung ini mempunyai paruh panjang berwarna coklat, runcing, dengan punggung berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0106_185013.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird has a very long beak and very long tail feathers.",
+          "indo": "burung ini mempunyai paruh yang sangat panjang dan bulu ekor yang sangat panjang."
+        },
+        {
+          "english": "bird has brown body feathers, white breast feather, and long beak",
+          "indo": "Burung ini memiliki bulu badan berwarna coklat, bulu dada berwarna putih, dan paruh panjang"
+        },
+        {
+          "english": "this is a round brown bird with a thin, long beak and an upwards-pointing tail.",
+          "indo": "ini adalah burung bulat berwarna coklat dengan paruh tipis dan panjang serta ekor mengarah ke atas."
+        },
+        {
+          "english": "small bird wit grey belly and brown wings, thin long tail and pointy beak",
+          "indo": "burung kecil dengan perut abu-abu dan sayap coklat, ekor panjang tipis dan paruh runcing"
+        },
+        {
+          "english": "the bird has a puffy grey belly and a brown back.",
+          "indo": "burung itu memiliki perut abu-abu menggembung dan punggung berwarna coklat."
+        },
+        {
+          "english": "this is a small brown speckled bird with a large beak and a white breast.",
+          "indo": "ini adalah burung kecil berbintik coklat dengan paruh besar dan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey rotund belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut bulat berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a gray belly and breast, a thin bill, light brown feet and tarsi, brown wings and rectrices with white spots, and a white eyebrow.",
+          "indo": "burung ini memiliki perut dan dada berwarna abu-abu, paruh tipis, kaki dan tarsi berwarna coklat muda, sayap dan rectrices berwarna coklat dengan bintik-bintik putih, dan alis berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a brown wing and tail and pointed beak.",
+          "indo": "seekor burung kecil dengan sayap dan ekor berwarna coklat serta paruh runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0107_184908.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small brown bird with black markings.",
+          "indo": "seekor burung kecil berwarna coklat dengan tanda hitam."
+        },
+        {
+          "english": "this is a very small bird with thin long legs and long tail.",
+          "indo": "ini adalah burung yang sangat kecil dengan kaki tipis panjang dan ekor panjang."
+        },
+        {
+          "english": "this bird has a dark brown crown, black eyes, a dark yellow beak, as well as deep orange-black feet and tarsus and cream undertail coverts.",
+          "indo": "burung ini memiliki mahkota berwarna coklat tua, mata hitam, paruh kuning tua, serta kaki dan tarsus hitam pekat serta bulu ekor berwarna krem."
+        },
+        {
+          "english": "this is a small, brown bird that has some dark brown spots on the wings, a dark brown crown, long thin tarsus, a white breast and belly, and a thin, medium-length beak that points slightly downward.",
+          "indo": "ini adalah burung kecil berwarna coklat yang memiliki beberapa bintik coklat tua di sayapnya, mahkota coklat tua, tarsus panjang dan tipis, dada dan perut berwarna putih, dan paruh tipis berukuran sedang yang mengarah sedikit ke bawah."
+        },
+        {
+          "english": "this small bird has light brown body, white belly and orange and black bill",
+          "indo": "burung kecil ini memiliki tubuh berwarna coklat muda, perut berwarna putih dan paruh berwarna oranye dan hitam"
+        },
+        {
+          "english": "this particular bird has a brown corwn and a black bill",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan paruh berwarna hitam"
+        },
+        {
+          "english": "this bird has a white eye brow, white and brown speckled throat, and brown and black secondaries.",
+          "indo": "burung ini mempunyai superciliary mata berwarna putih, tenggorokan berbintik putih coklat, dan bulu sekunder berwarna coklat hitam."
+        },
+        {
+          "english": "this is a small brown bird with a pointed beak, white bars in fur and white line going past eye on head.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan paruh runcing, garis-garis putih di bulu dan garis putih melewati mata di kepala."
+        },
+        {
+          "english": "this small brown and white spotted bird has a long bill and round body.",
+          "indo": "Burung kecil berbintik coklat putih ini mempunyai paruh yang panjang dan badan yang bulat."
+        },
+        {
+          "english": "this is a small brown bird with a dark brown crown, yellow beak, grey belly and a mix of lighter and darker brown feathers on it's back and wings.",
+          "indo": "Ini adalah burung kecil berwarna coklat dengan mahkota coklat tua, paruh kuning, perut abu-abu dan campuran bulu coklat terang dan gelap di punggung dan sayapnya."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0109_185170.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a very small bird with brown and a white belly and small feet",
+          "indo": "seekor burung yang sangat kecil dengan perut berwarna coklat dan putih serta kaki yang kecil"
+        },
+        {
+          "english": "the bird has a light brown color on its breast, belly and abdomen, with its crown and covert in brown color.",
+          "indo": "Burung ini mempunyai warna coklat muda pada bagian dada, perut dan abdomen, dengan mahkota dan bulunya berwarna coklat."
+        },
+        {
+          "english": "this little green bird had a white belly with a green tinge, aforest green wings and rectrices, forest green crown, white eyebrow, and a forest green cheek patch.",
+          "indo": "Burung kecil berwarna hijau ini memiliki perut berwarna putih dengan semburat hijau, sayap dan rectrices  berwarna hijau hutan, mahkota berwarna hijau hutan, alis berwarna putih, dan pipi berwarna hijau hutan."
+        },
+        {
+          "english": "this is a small, brown bird with a white breast, and small bill.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan dada putih, dan paruh kecil."
+        },
+        {
+          "english": "bird with long and curved beak, with gray throat, white breast, belly and superciliary and brown wings",
+          "indo": "burung dengan paruh panjang dan melengkung, tenggorokan berwarna abu-abu, dada berwarna putih, perut dan sayap superciliary serta berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a small bird with a cream colored breast belly and vent, grey face, and a reddish brown head.",
+          "indo": "seekor burung kecil dengan perut dan lubang dada berwarna krem, muka abu-abu, dan kepala coklat kemerahan."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "brown body, with white chest, pointed beak tiny bird.",
+          "indo": "badan coklat, dada putih, paruh runcing burung kecil."
+        },
+        {
+          "english": "this is a smaller bird with a gray beck and brown on top of head with brown on back and a tan chest.",
+          "indo": "ini adalah burung yang lebih kecil dengan paruh abu-abu dan coklat di atas kepala dengan coklat di punggung dan dada berwarna coklat."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0110_185216.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small round bird with a grayish belly, brown feathers and a long straight beak",
+          "indo": "burung bulat kecil dengan perut keabu-abuan, bulu coklat dan paruh lurus panjang"
+        },
+        {
+          "english": "this bird is brown and white in color with a skinny curved beak and white eye ring.",
+          "indo": "burung ini berwarna coklat putih dengan paruh kurus melengkung dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this is a small bird with a thin, short bill. the superciliaries are white and the crown and nape are brown. the coverts are light brown.",
+          "indo": "ini adalah burung kecil dengan paruh tipis dan pendek. superciliary berwarna putih dan mahkota serta tengkuk berwarna coklat. bulunya berwarna coklat muda."
+        },
+        {
+          "english": "this small fat bird has a brown body with dark bands on the underside of its tail, lighter grey feathers on its chest, a band of white above its eyes, and a small curved black beak.",
+          "indo": "Burung kecil gemuk ini memiliki tubuh berwarna coklat dengan garis-garis gelap di bagian bawah ekornya, bulu berwarna abu-abu terang di dada, garis putih di atas matanya, dan paruh kecil berwarna hitam melengkung."
+        },
+        {
+          "english": "its a small bird with gray on the belly and brown on the wingbars",
+          "indo": "itu burung kecil dengan warna abu-abu di perut dan coklat di sayap"
+        },
+        {
+          "english": "this particular bird has a white belly and brown secondaries",
+          "indo": "burung ini memiliki perut berwarna putih dan bulu sekunder berwarna coklat"
+        },
+        {
+          "english": "the bird has a puffy grey belly and a thin black bill.",
+          "indo": "burung itu memiliki perut abu-abu menggembung dan paruh hitam tipis."
+        },
+        {
+          "english": "a small bird with a white breast, brown wings, and a round, plump belly.",
+          "indo": "seekor burung kecil dengan dada putih, sayap coklat, dan perut bulat dan gempal."
+        },
+        {
+          "english": "this bird has a small heal compared to the rest of it's body and is covered in grey and brown feathers.",
+          "indo": "burung ini memiliki penyembuhan yang kecil dibandingkan dengan bagian tubuhnya yang lain dan ditutupi bulu berwarna abu-abu dan coklat."
+        },
+        {
+          "english": "this bird has a narrow black beak with a brown back and grey sides.",
+          "indo": "burung ini memiliki paruh sempit berwarna hitam dengan punggung berwarna coklat dan sisi berwarna abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0112_184956.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this small bird with a pointed beak has small white spots on its wings and black stripes across its tail feather.",
+          "indo": "burung kecil dengan paruh runcing ini memiliki bintik-bintik putih kecil di sayapnya dan garis-garis hitam di bulu ekornya."
+        },
+        {
+          "english": "small bird, predominantly light brown, white speckled secondaries and rectrices, brownish white malar stripe, breast, and belly.",
+          "indo": "burung kecil, dominan berwarna coklat muda, bulu sekunder dan rectrices  berbintik putih, garis malar putih kecoklatan, dada, dan perut."
+        },
+        {
+          "english": "this bird has a long, curved, black bill, a white eyebrow, and a brown crown.",
+          "indo": "burung ini memiliki paruh panjang melengkung berwarna hitam, alis berwarna putih, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "a small brown bird with speckles on its wings and lines on its tail.",
+          "indo": "seekor burung kecil berwarna coklat dengan bintik-bintik di sayapnya dan garis-garis di ekornya."
+        },
+        {
+          "english": "the perched brown bird has a relatively large beak for its size that is slightly curved down.",
+          "indo": "Burung bertengger berwarna coklat ini mempunyai paruh yang relatif besar karena ukurannya yang agak melengkung ke bawah."
+        },
+        {
+          "english": "this little bird has a lightly curved black bill, brownish eye brow, rust colored crown, brownish throat, chest and belly and rust colored secondaries and primaries with black and white stripes on the inner rectrices.",
+          "indo": "Burung kecil ini memiliki paruh berwarna hitam agak melengkung, superciliary mata berwarna kecoklatan, mahkota berwarna karat, tenggorokan berwarna kecoklatan, dada dan perut serta bulu sekunder dan bulu primer berwarna karat dengan garis-garis hitam putih pada inner rectrices ."
+        },
+        {
+          "english": "this particular bird has a belly that is tan and brown",
+          "indo": "burung ini memiliki perut yang berwarna coklat kecokelatan"
+        },
+        {
+          "english": "this bird has a white belly, a very long abstract tail, and an orange crown with orange wings.",
+          "indo": "burung ini mempunyai perut berwarna putih, ekor abstrak yang sangat panjang, dan mahkota berwarna jingga dengan sayap berwarna jingga."
+        },
+        {
+          "english": "this bird has a pointed black bill, and a brown back.",
+          "indo": "burung ini memiliki paruh runcing berwarna hitam, dan punggung berwarna coklat."
+        },
+        {
+          "english": "brown with white stripes on head white chest, brown on back with black with white spotted wings.",
+          "indo": "coklat dengan garis-garis putih di kepala, dada putih, coklat di punggung dengan hitam dengan sayap berbintik putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0113_185113.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this is a brown bird with a white breast, short beak and long striped tail.",
+          "indo": "ini adalah burung berwarna coklat dengan dada berwarna putih, paruh pendek dan ekor bergaris panjang."
+        },
+        {
+          "english": "the small brown bird has a hooked yellow beak and a white eye brow.",
+          "indo": "burung kecil berwarna coklat memiliki paruh kuning bengkok dan superciliary mata berwarna putih."
+        },
+        {
+          "english": "this is a brown bird with a white breast and a small brown beak.",
+          "indo": "ini adalah burung berwarna coklat dengan dada putih dan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "a bird with a brown crown and a light brown belly.",
+          "indo": "seekor burung dengan mahkota berwarna coklat dan perut berwarna coklat muda."
+        },
+        {
+          "english": "this bird is brown with white on its chest and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan bagian dada berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has feathers that are brown with a white belly",
+          "indo": "burung ini mempunyai bulu yang berwarna coklat dengan bagian perut berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird is brown in color, with a small brown beak.",
+          "indo": "burung ini berwarna coklat, dengan paruh kecil berwarna coklat."
+        },
+        {
+          "english": "a small bird with a brown wing and head and pointed beak.",
+          "indo": "seekor burung kecil dengan sayap dan kepala berwarna coklat serta paruh runcing."
+        },
+        {
+          "english": "this brown bird has relatively long rectrices that have black spots lining them and a white eyebrow.",
+          "indo": "burung berwarna coklat ini memiliki rectrices yang relatif panjang dengan lapisan bintik hitam dan alis berwarna putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0118_185169.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this small bird has a brown back and wings with a white nape.",
+          "indo": "burung kecil ini memiliki punggung dan sayap berwarna coklat dengan tengkuk berwarna putih."
+        },
+        {
+          "english": "this bird is brown and light brown in color, with a black beak and a light brown eye ring.",
+          "indo": "burung ini berwarna coklat dan coklat muda, dengan paruh berwarna hitam dan cincin mata berwarna coklat muda."
+        },
+        {
+          "english": "this beige-colored bird has a lighter brow stripe and a thin, pointed beak and dark taupe rectrices.",
+          "indo": "burung berwarna krem ​​​​ini memiliki garis superciliary yang lebih terang dan paruh yang tipis dan runcing serta rectrices  berwarna kelabu tua."
+        },
+        {
+          "english": "bird with brown beak, tarsus, feet, crown, inner and outer reectrices, and gray breast, belly and abdomen, and white superciliary",
+          "indo": "burung dengan paruh berwarna coklat, tarsus, kaki, mahkota, reektriks dalam dan luar, dada, perut dan perut berwarna abu-abu, serta superciliary berwarna putih"
+        },
+        {
+          "english": "this bird has a speckled back and wing with a short pointy bill.",
+          "indo": "burung ini mempunyai punggung dan sayap berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this bird is white with brown and has a long, pointy beak.",
+          "indo": "burung ini berwarna putih kecoklatan dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a white belly and brown wings and tail as well as a narrow beak.",
+          "indo": "burung ini memiliki perut berwarna putih dan sayap serta ekor berwarna coklat serta paruh yang sempit."
+        },
+        {
+          "english": "this bird has a brown crown as well as a white belly",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small grey bird, with white eyebrows, and a long tail.",
+          "indo": "seekor burung kecil berwarna abu-abu, dengan alis putih, dan ekor panjang."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0121_184765.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "tiny pale brown bird with long rectrices and a white breast area.",
+          "indo": "burung kecil berwarna coklat pucat dengan rectrices panjang dan area dada berwarna putih."
+        },
+        {
+          "english": "this is a tiny soft gray bird with long tail feathers and a thin long beak.",
+          "indo": "ini adalah burung kecil berwarna abu-abu lembut dengan bulu ekor panjang dan paruh panjang tipis."
+        },
+        {
+          "english": "a small bird with a white eyebrow, grey belly, and black primaries.",
+          "indo": "seekor burung kecil dengan alis putih, perut abu-abu, dan bulu primer hitam."
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "a small round bird with a white belly and brown wings and back.",
+          "indo": "seekor burung bulat kecil dengan perut putih dan sayap serta punggung berwarna coklat."
+        },
+        {
+          "english": "this little bird has wings, tail, nape and hood that are brown with white ticking, a white eyebrow and a medium long slightly curved beak.",
+          "indo": "Burung kecil ini mempunyai sayap, ekor, tengkuk dan tudung berwarna coklat dengan tanda centang putih, alis berwarna putih dan paruh sedang panjang agak melengkung."
+        },
+        {
+          "english": "this bird has a long tail with a long sharp beak and a grey body.",
+          "indo": "burung ini memiliki ekor yang panjang dengan paruh yang panjang dan tajam serta badan yang berwarna abu-abu."
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "this bird has a long thin slightly curved bill, white eyebrows and a brown body",
+          "indo": "burung ini mempunyai paruh panjang tipis agak melengkung, alis berwarna putih dan badan berwarna coklat"
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0123_185069.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this bird mostly black and brown speckled in appearance, with orance tarsus and feet.",
+          "indo": "burung ini sebagian besar berpenampilan berbintik-bintik hitam dan coklat, dengan tarsus dan kaki berwarna oranye."
+        },
+        {
+          "english": "a black, brown and gray speckled bird that has bright orange tarsus and feet.",
+          "indo": "burung berbintik hitam, coklat dan abu-abu yang memiliki tarsus dan kaki berwarna oranye terang."
+        },
+        {
+          "english": "small grey black and brown bird with long orange tarsus and a short beak",
+          "indo": "burung kecil berwarna abu-abu hitam dan coklat dengan tarsus oranye panjang dan paruh pendek"
+        },
+        {
+          "english": "this bird has a speckled belly and breast with a short pointy bill.",
+          "indo": "burung ini memiliki perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+        },
+        {
+          "english": "this small bird has vertical black stripes on its whitish breast, long rusty-orange outer rectrices, and a short, pointed bill.",
+          "indo": "burung kecil ini memiliki garis-garis hitam vertikal di dadanya yang berwarna keputihan, bagian luarnya yang panjang berwarna oranye berkarat, dan paruh yang pendek dan runcing."
+        },
+        {
+          "english": "this bird has wings that are brown and has a striped black and white belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut yang bergaris hitam putih"
+        },
+        {
+          "english": "the bronze tarsus and big feet on the bird with a round belly",
+          "indo": "tarsus perunggu dan kaki besar pada burung dengan perut bulat"
+        },
+        {
+          "english": "this bird has orange tarsus and feet, and a brown crown.",
+          "indo": "burung ini memiliki tarsus dan kaki berwarna oranye, serta mahkota berwarna coklat."
+        },
+        {
+          "english": "this bird has a black and white irregular stripe pattern covering most of its body, with its wings and tail tipped in brown.",
+          "indo": "burung ini memiliki pola garis tidak beraturan berwarna hitam putih yang menutupi sebagian besar tubuhnya, dengan sayap dan ekor berujung coklat."
+        },
+        {
+          "english": "this bird has a brown and black crown, brown and black primaries, and a black and grey belly.",
+          "indo": "burung ini memiliki mahkota berwarna coklat dan hitam, bulu primer berwarna coklat dan hitam, serta perut berwarna hitam dan abu-abu."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0124_184771.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "the small bird is brown with a light grey body and a longer tail.",
+          "indo": "burung kecil berwarna coklat dengan tubuh abu-abu muda dan ekor lebih panjang."
+        },
+        {
+          "english": "this bird is brown with white on its stomach and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan perut berwarna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this bird is brown in color with a curved skinny beak and brown eye rings.",
+          "indo": "burung ini berwarna coklat dengan paruh kurus melengkung dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "the birds has a brown overall body color with a lighter shade on it's throat.",
+          "indo": "burung ini memiliki warna tubuh keseluruhan coklat dengan warna lebih terang di tenggorokannya."
+        },
+        {
+          "english": "this bird is brown and white in color with a curved beak, and brown eye rings.",
+          "indo": "burung ini berwarna coklat putih dengan paruh melengkung, dan cincin mata berwarna coklat."
+        },
+        {
+          "english": "a small bird with a light tan throat, breast and belly, a cream colored eye brow and brown feathers covering the rest of its body.",
+          "indo": "seekor burung kecil dengan tenggorokan, dada dan perut berwarna coklat muda, superciliary mata berwarna krem ​​​​dan bulu coklat menutupi seluruh tubuhnya."
+        },
+        {
+          "english": "a small brown bird with a long upturned tail, pale throat and belly, white eyebrow and small down curved beak",
+          "indo": "burung kecil berwarna coklat dengan ekor panjang terbalik, tenggorokan dan perut pucat, alis putih dan paruh kecil melengkung ke bawah"
+        },
+        {
+          "english": "this small bird has a light brown body and wings, with a long tail and a pointy bill.",
+          "indo": "burung kecil ini memiliki tubuh dan sayap berwarna coklat muda, dengan ekor yang panjang dan paruh yang runcing."
+        },
+        {
+          "english": "this bird has a sloping sharp bill and a brown breast",
+          "indo": "burung ini memiliki paruh miring yang tajam dan dada berwarna coklat"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white eblly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan memiliki eblly berwarna putih"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0127_184756.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "this colorful bird has a white belly and breast, brown and white head and nape, and grey tarsus and feet",
+          "indo": "burung berwarna-warni ini memiliki perut dan dada berwarna putih, kepala dan tengkuk berwarna coklat dan putih, serta tarsus dan kaki berwarna abu-abu"
+        },
+        {
+          "english": "this bird has a white belly and breast, with brown crown and superciliary.",
+          "indo": "burung ini memiliki perut dan dada berwarna putih, dengan mahkota dan superciliary berwarna coklat."
+        },
+        {
+          "english": "a small smoky grey bird with a white top torso, a small long pointy beck with white pin strips running back from its eyes.",
+          "indo": "seekor burung kecil berwarna abu-abu berasap dengan tubuh bagian atas berwarna putih, seekor burung kecil panjang runcing dengan garis-garis peniti putih di bagian belakang matanya."
+        },
+        {
+          "english": "the white and black bird has white stripes above its beady, black eyes.",
+          "indo": "burung putih dan hitam memiliki garis-garis putih di atas matanya yang hitam dan bulat."
+        },
+        {
+          "english": "this bird is white and brown in color with a small sharp beak, and white eye rings.",
+          "indo": "burung ini berwarna putih coklat dengan paruh kecil yang runcing, dan cincin mata berwarna putih."
+        },
+        {
+          "english": "this particular bird has a gray belly and white breast and white eyebrow",
+          "indo": "burung ini memiliki perut berwarna abu-abu, dada berwarna putih, dan alis berwarna putih"
+        },
+        {
+          "english": "this bird has wings that are grey and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+        },
+        {
+          "english": "a bird that has a dull and bland appearance, with white markings right above the eyes.",
+          "indo": "burung yang berpenampilan kusam dan hambar, dengan corak putih tepat di atas matanya."
+        },
+        {
+          "english": "this small bird has a white breast, with a brown crown.",
+          "indo": "burung kecil ini memiliki dada berwarna putih, dengan mahkota berwarna coklat."
+        },
+        {
+          "english": "this colorful bird has a white belly and breast brown crown head",
+          "indo": "Burung berwarna-warni ini memiliki perut berwarna putih dan kepala mahkota berwarna coklat di dada"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0132_184906.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "small roundish bird, with an off white underside, brown topside with black secondaries, long gray bil, and feet, black eyes.",
+          "indo": "burung kecil bulat, bagian bawah berwarna putih pucat, bagian atas berwarna coklat dengan bagian bulu sekunder berwarna hitam, paruh dan kaki abu-abu panjang, mata berwarna hitam."
+        },
+        {
+          "english": "this rotund bird has a long, pointed bill, gray crown and back and striped rectrices.",
+          "indo": "Burung yang gemuk ini mempunyai paruh yang panjang dan runcing, mahkota dan punggung berwarna abu-abu, serta rectrices  yang bergaris."
+        },
+        {
+          "english": "this is a bird with a grey breast and belly and a grey back and head.",
+          "indo": "ini adalah burung dengan dada dan perut berwarna abu-abu serta punggung dan kepala berwarna abu-abu."
+        },
+        {
+          "english": "this little bird is sitting on a branch and has a long beak.",
+          "indo": "burung kecil ini duduk di dahan dan mempunyai paruh yang panjang."
+        },
+        {
+          "english": "the bird has a white belly with brown wings, tail and head.",
+          "indo": "burung ini memiliki perut berwarna putih dengan sayap, ekor dan kepala berwarna coklat."
+        },
+        {
+          "english": "this bird is brown with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "a squat bird with a thin but long beak that is brown with a white breast.",
+          "indo": "burung jongkok dengan paruh tipis namun panjang berwarna coklat dengan dada berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a white body",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai badan yang berwarna putih"
+        },
+        {
+          "english": "the bird has a curved black bill and a grey belly.",
+          "indo": "burung itu memiliki paruh hitam melengkung dan perut berwarna abu-abu."
+        },
+        {
+          "english": "is small brown bird with a white belly black feet and yellow tarsus",
+          "indo": "adalah burung kecil berwarna coklat dengan perut putih, kaki hitam dan tarsus kuning"
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0135_185251.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a small brown bird with a white breast and long, narrow beak.",
+          "indo": "seekor burung kecil berwarna coklat dengan dada putih dan paruh panjang dan sempit."
+        },
+        {
+          "english": "this small bird has a white eyebrow and a narrow bill.",
+          "indo": "burung kecil ini memiliki alis berwarna putih dan paruh sempit."
+        },
+        {
+          "english": "small grey bird with small flat beak with light grey throat and belly with grey secondaries and grey rectrices.",
+          "indo": "burung abu-abu kecil dengan paruh datar kecil dengan tenggorokan dan perut abu-abu muda dengan bulu sekunder abu-abu dan rectrices abu-abu."
+        },
+        {
+          "english": "small grey and white bird with long black beak and medium black eyes",
+          "indo": "burung kecil berwarna abu-abu putih dengan paruh hitam panjang dan mata hitam sedang"
+        },
+        {
+          "english": "this is a gray and brown bird with a white eyebrow and a long brown bill",
+          "indo": "ini adalah burung berwarna abu-abu dan coklat dengan alis putih dan paruh coklat panjang"
+        },
+        {
+          "english": "this bird is black with white and has a long, pointy beak.",
+          "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+        },
+        {
+          "english": "this small grey brown bird has a white superciliary, needle shaped beak and a white throat.",
+          "indo": "burung kecil berwarna abu-abu coklat ini memiliki superciliary berwarna putih, paruh berbentuk jarum dan tenggorokan berwarna putih."
+        },
+        {
+          "english": "this bird has wings that are brown and has a grey belly",
+          "indo": "burung ini mempunyai sayap yang berwarna coklat dan mempunyai perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "a small bird with a grey coloring and white eyebrow.",
+          "indo": "seekor burung kecil dengan warna abu-abu dan alis putih."
+        }
+      ]
+    },
+    {
+      "filename": "Bewick_Wren_0139_184839.jpg",
+      "class_id": 192,
+      "captions": [
+        {
+          "english": "a brown bird with a grey belly, striped rectrices, a white eyeline and a long thin beak.",
+          "indo": "seekor burung berwarna coklat dengan perut abu-abu, garis-garis rectrices, garis mata putih dan paruh panjang dan tipis."
+        },
+        {
+          "english": "this small bird has a gray belly and breast with greenish-gray crown and back.",
+          "indo": "burung kecil ini memiliki perut dan dada berwarna abu-abu dengan mahkota dan punggung berwarna abu-abu kehijauan."
+        },
+        {
+          "english": "this bird has a brownish-gold body with white on its belly and a white eyebrow, along with a multi-striped tail.",
+          "indo": "burung ini memiliki tubuh berwarna emas kecoklatan dengan perut berwarna putih dan alis berwarna putih, serta ekor yang bergaris banyak."
+        },
+        {
+          "english": "a small bird with a gray belly, olive colored wings and a white horizontal stripe going from it's eye to the side of it's neck.",
+          "indo": "seekor burung kecil dengan perut abu-abu, sayap berwarna zaitun dan garis horizontal putih mulai dari mata hingga ke samping lehernya."
+        },
+        {
+          "english": "this bird has aa brown crown, a long pointed bill, and a grey belly",
+          "indo": "burung ini mempunyai mahkota berwarna coklat, paruh panjang runcing, dan perut berwarna abu-abu"
+        },
+        {
+          "english": "this bird has wings that are brown and has a white belly",
+          "indo": "burung ini mempunyai sayap berwarna coklat dan perut berwarna putih"
+        },
+        {
+          "english": "this is a small, brown bird with a long, pointed, and slightly curved bill and long tarsus and toes.",
+          "indo": "ini adalah burung kecil berwarna coklat dengan paruh yang panjang, runcing, dan sedikit melengkung serta tarsus dan jari kaki yang panjang."
+        },
+        {
+          "english": "this bird has a gray belly, a brown back, a small bill, and a brown crown.",
+          "indo": "burung ini memiliki perut berwarna abu-abu, punggung berwarna coklat, paruh kecil, dan mahkota berwarna coklat."
+        },
+        {
+          "english": "the bird has a round light colored eye, a pointy bill, and greenish brown secondaries.",
+          "indo": "Burung ini mempunyai mata bulat berwarna terang, paruh runcing, dan paruh kedua berwarna coklat kehijauan."
+        },
+        {
+          "english": "the bird is small with a pointed bill, and the wings are brown.",
+          "indo": "burungnya kecil dengan paruh runcing, dan sayapnya berwarna coklat."
+        }
+      ]
+    }
+  ]
+}

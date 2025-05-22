@@ -1,0 +1,2764 @@
+{
+    "dataset": [
+        {
+            "filename": "Black_And_White_Warbler_0001_160352.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a black and white bird with a sharp pointed beak and a small head compared to the body.",
+                    "indo": "burung berwarna hitam putih dengan paruh runcing runcing dan kepala kecil dibandingkan badan."
+                },
+                {
+                    "english": "this is a small black and white bird with a white eyebrow.",
+                    "indo": "ini adalah burung kecil berwarna hitam putih dengan alis putih."
+                },
+                {
+                    "english": "a small bird with with a black nape and a white superciliary and off white side and belly",
+                    "indo": "seekor burung kecil dengan tengkuk hitam dan superciliary putih serta bagian samping dan perut berwarna putih"
+                },
+                {
+                    "english": "a tiny bird with a black and white speckled body and a striped crown.",
+                    "indo": "seekor burung kecil dengan tubuh berbintik hitam putih dan mahkota bergaris."
+                },
+                {
+                    "english": "a small grey bird with a large beak compared to its body and large black eyes with white eyebrows.",
+                    "indo": "burung kecil berwarna abu-abu dengan paruh besar dibandingkan tubuhnya dan mata hitam besar dengan alis putih."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird has a black and white striped crown, black and white and grey secondaries and a grey and white speckled chest.",
+                    "indo": "Burung ini mempunyai mahkota bergaris hitam putih, bulu sekunder berwarna hitam putih abu-abu, dan dada berbintik abu-abu putih."
+                },
+                {
+                    "english": "this bird has alternating black and white feathers, with a black stripe running from the nape of the neck to the eyebrow.",
+                    "indo": "Burung ini mempunyai bulu berwarna hitam dan putih berselang-seling, dengan garis hitam memanjang dari tengkuk hingga alis."
+                },
+                {
+                    "english": "this tiny bird is covered in black and white, with a short but slender bill.",
+                    "indo": "burung mungil ini berbalut warna hitam putih, dengan paruh pendek namun ramping."
+                },
+                {
+                    "english": "a small bird with a black and white mixture.",
+                    "indo": "seekor burung kecil dengan campuran hitam dan putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0002_160376.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this small bird has black, white and gray feathers and a short, pointed beak.",
+                    "indo": "burung kecil ini memiliki bulu berwarna hitam, putih dan abu-abu serta paruh yang pendek dan runcing."
+                },
+                {
+                    "english": "this is a white bird with black streaks and a white beak.",
+                    "indo": "ini adalah burung berwarna putih dengan guratan hitam dan paruh berwarna putih."
+                },
+                {
+                    "english": "the bird has a white overall body color, with it's coverts and rectrices covered in streaks of white, black, grey and brown.",
+                    "indo": "burung ini memiliki warna tubuh keseluruhan putih, dengan bulu dan rectrices ditutupi garis-garis putih, hitam, abu-abu dan coklat."
+                },
+                {
+                    "english": "a small streamlined bird with a multicolored black and white body and a brownish beak",
+                    "indo": "seekor burung kecil ramping dengan tubuh beraneka warna hitam putih dan paruh kecoklatan"
+                },
+                {
+                    "english": "this bird has a white breast, belly, abdomen and throat, with its wings and rectrices in black, grey and white.",
+                    "indo": "burung ini memiliki dada, perut, perut dan tenggorokan berwarna putih, dengan sayap dan rectrices berwarna hitam, abu-abu dan putih."
+                },
+                {
+                    "english": "this particular bird has a silver belly and gray black and white patches on its secondaries",
+                    "indo": "burung ini memiliki perut berwarna perak dan bercak abu-abu hitam putih di bagian sekundernya"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                },
+                {
+                    "english": "this bird has wings that are grey and has a white belly",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu dan perut berwarna putih"
+                },
+                {
+                    "english": "this small plump bird is white and black with mottled gray accents.",
+                    "indo": "burung kecil gempal ini berwarna putih dan hitam dengan aksen belang-belang abu-abu."
+                },
+                {
+                    "english": "a bird with a short pointed beak and an assortment of colors all over its body, most of which are black and white in nature.",
+                    "indo": "burung dengan paruh pendek runcing dan warna-warni di sekujur tubuhnya bermacam-macam, sebagian besar bersifat hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0003_160228.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has black and white stripes on its wings and belly, black crown, white eyebrow and black cheek patch.",
+                    "indo": "burung ini memiliki garis-garis hitam putih pada sayap dan perutnya, mahkota berwarna hitam, alis berwarna putih, dan penutup pipi berwarna hitam."
+                },
+                {
+                    "english": "this bird is barred in black and white feathers along its body, and has black eyes, and a slightly down curving beak.",
+                    "indo": "burung ini bergaris bulu hitam putih di sepanjang tubuhnya, bermata hitam, dan paruh agak melengkung ke bawah."
+                },
+                {
+                    "english": "this is a white and black bird with a pointy beak.",
+                    "indo": "ini adalah burung berwarna putih dan hitam dengan paruh runcing."
+                },
+                {
+                    "english": "a small sized bird that has black and white patterns and a pointed bill",
+                    "indo": "burung berukuran kecil yang memiliki pola hitam putih dan paruh runcing"
+                },
+                {
+                    "english": "bird has a black crest with some white and a curved long bill",
+                    "indo": "Burung ini memiliki jambul berwarna hitam dengan sebagian berwarna putih dan paruh panjang melengkung"
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a big bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang besar"
+                },
+                {
+                    "english": "this bird has black and white stripes on its body and wings, and it has a black crown and white eyebrow.",
+                    "indo": "burung ini memiliki garis-garis hitam putih pada badan dan sayapnya, serta memiliki mahkota berwarna hitam dan alis berwarna putih."
+                },
+                {
+                    "english": "a bird with a black crown with white patches and striped black and white body",
+                    "indo": "burung bermahkota hitam dengan bercak putih dan badan belang hitam putih"
+                },
+                {
+                    "english": "a bird with black and white bars in full of its body and the tarsus and feet are black",
+                    "indo": "burung yang seluruh tubuhnya bergaris hitam putih dan tarsus serta kakinya berwarna hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has a bigbill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang besar"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0007_160758.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird that is back and white stripes all over its body.",
+                    "indo": "seekor burung kecil yang punggungnya dan garis-garis putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "this bird has a long black bill, a black superciliary, and a rounded belly.",
+                    "indo": "burung ini mempunyai paruh panjang berwarna hitam, superciliary berwarna hitam, dan perut membulat."
+                },
+                {
+                    "english": "a black and white bird with a black beak and a spotted breast.",
+                    "indo": "burung hitam putih dengan paruh hitam dan dada berbintik."
+                },
+                {
+                    "english": "this small bird has black cheek patches, white eyebrows and white wingbars",
+                    "indo": "burung kecil ini memiliki bercak pipi berwarna hitam, alis berwarna putih, dan garis sayap berwarna putih"
+                },
+                {
+                    "english": "white body with brown stripes all over its head and wings.",
+                    "indo": "Tubuhnya berwarna putih dengan garis-garis coklat di seluruh kepala dan sayapnya."
+                },
+                {
+                    "english": "this bird is black and white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this small bird has black and white stripes all over its body and a thin, pointed beak.",
+                    "indo": "burung kecil ini memiliki garis-garis hitam putih di sekujur tubuhnya dan paruh yang tipis dan runcing."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this little bird has a sharp pointed black bill with white crown and black bands running through the eye with black and white stripe wings.",
+                    "indo": "burung kecil ini memiliki paruh hitam runcing tajam dengan mahkota putih dan pita hitam di matanya dengan sayap bergaris hitam putih."
+                },
+                {
+                    "english": "a small bird, colored black and white, with a very pointy bill.",
+                    "indo": "seekor burung kecil, berwarna hitam putih, dengan paruh yang sangat runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0010_160200.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small black and white bird with a thin pointed beak.",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan paruh runcing tipis."
+                },
+                {
+                    "english": "a small bird with a black bill and black stripe down it's head and a white belly.",
+                    "indo": "seekor burung kecil dengan paruh hitam dan garis hitam di kepala dan perut putih."
+                },
+                {
+                    "english": "this is a bird with a white belly and black spots.",
+                    "indo": "ini adalah burung dengan perut putih dan bintik hitam."
+                },
+                {
+                    "english": "this little bird has a white belly, speckled breast, white wingbars, and little pointy bill.",
+                    "indo": "Burung kecil ini mempunyai perut berwarna putih, dada berbintik-bintik, tulang sayap berwarna putih, dan paruh kecil yang runcing."
+                },
+                {
+                    "english": "a small sized bird that has tones of black and white with a narrow bill",
+                    "indo": "burung berukuran kecil bernuansa hitam putih dengan paruh sempit"
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has a short pointed bill with black stripe crown and white superciliary, white belly and black and white striped wings.",
+                    "indo": "Burung ini mempunyai paruh pendek dan runcing dengan mahkota bergaris hitam dan superciliary putih, perut berwarna putih, dan sayap bergaris hitam putih."
+                },
+                {
+                    "english": "this bird has a black and white striped head, white wing bars, black and white spots on its flank and a white vent.",
+                    "indo": "burung ini mempunyai kepala bergaris hitam putih, garis sayap putih, bintik hitam putih di sisi tubuhnya, dan lubang kloaka berwarna putih."
+                },
+                {
+                    "english": "this bird has a white belly with a black crown and a white cheek patch.",
+                    "indo": "burung ini memiliki perut berwarna putih dengan mahkota berwarna hitam dan bercak pipi berwarna putih."
+                },
+                {
+                    "english": "this bird is black and white it has black stripes on it and it has small legs",
+                    "indo": "burung ini berwarna hitam putih, mempunyai garis-garis hitam dan mempunyai kaki yang kecil"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0018_160438.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a bird with a white belly with black feathers and eyes.",
+                    "indo": "ini adalah burung dengan perut putih dengan bulu dan mata hitam."
+                },
+                {
+                    "english": "this is a white and black bird with a small white beak.",
+                    "indo": "ini adalah burung berwarna putih dan hitam dengan paruh kecil berwarna putih."
+                },
+                {
+                    "english": "this is a black and white marbled bird with black tarsus and feet.",
+                    "indo": "ini adalah burung marmer hitam putih dengan tarsus dan kaki hitam."
+                },
+                {
+                    "english": "this bird is white and black in color with a small beak, and white eye rings.",
+                    "indo": "burung ini berwarna putih hitam dengan paruh kecil, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has a gray breast, black and white striped back, crown and primaries and black feet.",
+                    "indo": "burung ini memiliki dada berwarna abu-abu, punggung bergaris hitam putih, mahkota dan bulu primer serta kaki berwarna hitam."
+                },
+                {
+                    "english": "this particular bird has a gray throat and gray secondaries",
+                    "indo": "burung ini memiliki tenggorokan berwarna abu-abu dan bulu sekunder berwarna abu-abu"
+                },
+                {
+                    "english": "the bird has a short outer rectrices, small brown bill and striped back.",
+                    "indo": "burung ini memilik outer rectrices yang pendek, paruh kecil berwarna coklat dan punggung bergaris."
+                },
+                {
+                    "english": "this is a black and white bird who's patterned is striped with a short beak.",
+                    "indo": "Ini adalah burung berwarna hitam putih yang bercorak belang dengan paruh pendek."
+                },
+                {
+                    "english": "a small bird with a white throat, and black and white wingbars and black and grey rectrices",
+                    "indo": "seekor burung kecil dengan tenggorokan putih, dan garis sayap hitam putih serta rectrices  hitam abu-abu"
+                },
+                {
+                    "english": "this bird has a white and grey crown, grey primaries, and a white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna putih dan abu-abu, bulu primer berwarna abu-abu, dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0021_160686.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this black and white flecked chested bird has a small beak and large body.",
+                    "indo": "Burung berdada bintik hitam putih ini mempunyai paruh yang kecil dan badan yang besar."
+                },
+                {
+                    "english": "a small bird with a white belly and black spots all over its body, black and white wingbars and black eyebrows.",
+                    "indo": "burung kecil dengan perut berwarna putih dan bintik hitam di sekujur tubuhnya, sayap hitam putih, dan alis hitam."
+                },
+                {
+                    "english": "a black and white bird with white belly, black primary and secondary wing feathers, white wingbar, and a white eye ring.",
+                    "indo": "burung berwarna hitam putih dengan perut berwarna putih, bulu sayap bulu primer dan bulu sekunder berwarna hitam, garis sayap berwarna putih, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird is white and black in color with a black beak, and white eye rings.",
+                    "indo": "burung ini berwarna putih hitam dengan paruh berwarna hitam, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "the tiny bird has a small head and a round body that is white and black.",
+                    "indo": "burung mungil ini memiliki kepala kecil dan tubuh bulat berwarna putih dan hitam."
+                },
+                {
+                    "english": "a small bird has a white belly and breast and black and white wingbars and the bill is short and pointed",
+                    "indo": "seekor burung kecil memiliki perut dan dada berwarna putih serta garis sayap berwarna hitam putih, serta paruhnya pendek dan runcing"
+                },
+                {
+                    "english": "a small black and white bird with a small black beak and talons.",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan paruh dan cakar kecil berwarna hitam."
+                },
+                {
+                    "english": "this is a white and black small bird with very pointy feet and skinny tarsus.",
+                    "indo": "ini adalah burung kecil berwarna putih dan hitam dengan kaki sangat runcing dan tarsus kurus."
+                },
+                {
+                    "english": "this bird has a black and white crown as well as a white belly",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam putih dan perut berwarna putih"
+                },
+                {
+                    "english": "a bird with white superciliary, white wingbars and belly and black spots on the breast.",
+                    "indo": "burung dengan superciliary berwarna putih, sayap dan perut berwarna putih, serta bintik hitam pada bagian dada."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0022_160512.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a striped bird that is black and yellow with a small beak.",
+                    "indo": "burung belang berwarna hitam kuning dengan paruh kecil."
+                },
+                {
+                    "english": "this small bird has a blackish beak, blackish feet and tarsus, a yellow abdomen and mostly yellow breast, white secondaries and brown primaries, as well as a white eyebrow.",
+                    "indo": "Burung kecil ini memiliki paruh berwarna kehitaman, kaki dan tarsus berwarna kehitaman, perut berwarna kuning dan dada sebagian besar berwarna kuning, bulu sekunder berwarna putih dan bulu primer berwarna coklat, serta alis berwarna putih."
+                },
+                {
+                    "english": "this tiny bird has black and white stripes all over its body",
+                    "indo": "burung mungil ini memiliki garis-garis hitam putih di sekujur tubuhnya"
+                },
+                {
+                    "english": "this bird is black with white on its stomach and has a very short beak.",
+                    "indo": "burung ini berwarna hitam dengan perut berwarna putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has a black and white striped breast and primaries and a white eyebrow.",
+                    "indo": "burung ini memiliki dada dan bulu primer bergaris hitam putih serta alis berwarna putih."
+                },
+                {
+                    "english": "this small bird has a small curved beak and black and white feathers.",
+                    "indo": "burung kecil ini memiliki paruh kecil melengkung dan bulu berwarna hitam putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a yellow belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna kuning"
+                },
+                {
+                    "english": "this multi-colored bird has black stripes running vertically down its body.",
+                    "indo": "burung beraneka warna ini memiliki garis-garis hitam yang melintang secara vertikal di tubuhnya."
+                },
+                {
+                    "english": "this bird is black and white striped, with a white belly and black beak.",
+                    "indo": "burung ini bergaris hitam putih, dengan perut berwarna putih dan paruh berwarna hitam."
+                },
+                {
+                    "english": "a tiny bird with black stripes running down its feathers, and a small black beak.",
+                    "indo": "seekor burung kecil dengan garis-garis hitam di bulunya, dan paruh kecil berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0024_160057.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird with white and brown wingbars, with a white breast and belly.",
+                    "indo": "seekor burung kecil dengan garis sayap berwarna putih dan coklat, dengan dada dan perut berwarna putih."
+                },
+                {
+                    "english": "a small bird with a bill that curves downwards and a grey breast",
+                    "indo": "seekor burung kecil dengan paruh melengkung ke bawah dan dada berwarna abu-abu"
+                },
+                {
+                    "english": "this is a small bird with a white spotted belly and a black wing.",
+                    "indo": "ini adalah burung kecil dengan perut berbintik putih dan sayap hitam."
+                },
+                {
+                    "english": "the small bird has a black straight beak and white and black feathers.",
+                    "indo": "burung kecil memiliki paruh lurus berwarna hitam dan bulu berwarna putih dan hitam."
+                },
+                {
+                    "english": "small white grey and brown bird with medium tarsus and medium brown beak",
+                    "indo": "burung kecil berwarna putih abu-abu coklat dengan tarsus sedang dan paruh coklat sedang"
+                },
+                {
+                    "english": "this little bird has a straight brownish bill, black eyes with brownish eye patch, brownish speckled with black throat, chest and sides, black primaries and secondaries with white wingbars.",
+                    "indo": "Burung kecil ini memiliki paruh lurus berwarna kecoklatan, mata berwarna hitam dengan penutup mata kecoklatan, berbintik kecoklatan dengan tenggorokan, dada dan samping berwarna hitam, bulu primer dan bulu sekunder berwarna hitam dengan garis sayap berwarna putih."
+                },
+                {
+                    "english": "this very small bird is shades of grey with pale mottling on the belly and throat and more defined dark and light on the wings.",
+                    "indo": "burung yang sangat kecil ini berwarna abu-abu dengan bintik pucat di perut dan tenggorokan serta lebih jelas gelap dan terang di sayap."
+                },
+                {
+                    "english": "this is a small black and white bird with streaks, black wings with white wingbars and a pointed beak.",
+                    "indo": "ini adalah burung kecil berwarna hitam putih dengan guratan, sayap hitam dengan garis sayap putih dan paruh runcing."
+                },
+                {
+                    "english": "a tiny bird with a gray and white body and white stripes on the superciliary and wing bars.",
+                    "indo": "seekor burung kecil dengan tubuh berwarna abu-abu putih dan garis-garis putih pada bagian superciliary dan sayap."
+                },
+                {
+                    "english": "a black and white little bird with a pointed bill and very black eyes",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan paruh runcing dan mata sangat hitam"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0025_160584.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has a small bill that is thin and black.",
+                    "indo": "burung tersebut memiliki paruh kecil yang tipis dan berwarna hitam."
+                },
+                {
+                    "english": "the small bird has a pointed beak and is black and white all over.",
+                    "indo": "burung kecil itu memiliki paruh yang runcing dan seluruh tubuhnya berwarna hitam putih."
+                },
+                {
+                    "english": "this bird is black and grey with a long, thin beak.",
+                    "indo": "burung ini berwarna hitam abu-abu dengan paruh yang panjang dan tipis."
+                },
+                {
+                    "english": "bird with brown beak, tarsus and feet, whit eye ring, black eye and white belly and abdomen",
+                    "indo": "burung dengan paruh coklat, tarsus dan kaki, cincin mata putih, mata hitam, perut dan perut putih"
+                },
+                {
+                    "english": "the small bird is covered with black and white feathers which appear to form lines down it.",
+                    "indo": "Burung kecil ini ditutupi bulu berwarna hitam putih yang tampak membentuk garis-garis di bawahnya."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a long bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang panjang"
+                },
+                {
+                    "english": "this bird is black and white in color, with a black beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "this small bird has is stripped with black and white feathers.",
+                    "indo": "burung kecil ini memiliki bulu yang dilucuti berwarna hitam dan putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has a long pointed bill, with a black and white back.",
+                    "indo": "burung ini mempunyai paruh yang panjang dan runcing, dengan punggung berwarna hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0028_160371.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has a black eyering, tiny bill and black and white breast.",
+                    "indo": "burung ini memiliki cincin mata hitam, paruh kecil, dan dada berwarna hitam putih."
+                },
+                {
+                    "english": "this bird is black and white in color with a skinny black beak and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh hitam kurus dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this is a grey bird with black streaks and a white eyebrow.",
+                    "indo": "ini adalah burung abu-abu dengan guratan hitam dan alis putih."
+                },
+                {
+                    "english": "this small bird is patterned with white and black, with gray accents.",
+                    "indo": "burung kecil ini bercorak putih dan hitam, dengan aksen abu-abu."
+                },
+                {
+                    "english": "this bird is black and white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "a black and white, zebra striped bird, with a short bill and black crown.",
+                    "indo": "burung hitam putih bergaris zebra, paruh pendek dan mahkota hitam."
+                },
+                {
+                    "english": "this bird has wings that are gray and black and striped",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu, hitam, dan belang"
+                },
+                {
+                    "english": "a beautiful white and black striped bird with a narrow, sharp bill.",
+                    "indo": "burung cantik bergaris putih hitam dengan paruh sempit dan tajam."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black strips",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan garis-garis hitam"
+                },
+                {
+                    "english": "a uniquely patterned black and white colored bird, with white superciliary and white and black wingbars.",
+                    "indo": "burung berwarna hitam putih bermotif unik, dengan superciliary putih dan sayap putih dan hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0030_160592.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "small black and white striped bird from the head to the tail.",
+                    "indo": "burung kecil bergaris hitam putih dari kepala hingga ekor."
+                },
+                {
+                    "english": "this bird is black and white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has a black and white striped back, head, sides, and coverts, black wings, and a black tail.",
+                    "indo": "burung ini memiliki punggung, kepala, samping, dan bulu bergaris hitam putih, sayap hitam, dan ekor hitam."
+                },
+                {
+                    "english": "this black, white and grey bird has stripes of color on its head and wings.",
+                    "indo": "burung berwarna hitam, putih dan abu-abu ini memiliki garis-garis warna di kepala dan sayapnya."
+                },
+                {
+                    "english": "short beak with wings tucked in and black and white stripes.",
+                    "indo": "paruh pendek dengan sayap terselip dan garis-garis hitam putih."
+                },
+                {
+                    "english": "this bird has wings that are black and white with a grey belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dengan perut berwarna abu-abu"
+                },
+                {
+                    "english": "the bird has a white superciliary and a black eyebrow with white and black on the crown.",
+                    "indo": "burung ini memiliki superciliary berwarna putih dan superciliary berwarna hitam dengan mahkota berwarna putih dan hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a striped crown",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota yang bergaris"
+                },
+                {
+                    "english": "this bird has white crown and brown nape",
+                    "indo": "burung ini mempunyai mahkota berwarna putih dan tengkuk berwarna coklat"
+                },
+                {
+                    "english": "this bird has a black and white crown, black and white primaries, and a black and white belly.",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam putih, primata hitam putih, dan perut berwarna hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0031_160773.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "very small bird with blue and white feathers along the crown as well as a skinny beak",
+                    "indo": "burung yang sangat kecil dengan bulu berwarna biru dan putih di sepanjang mahkota serta paruh yang kurus"
+                },
+                {
+                    "english": "this little bird has a gray and white striped appearance with a little sharp bill.",
+                    "indo": "Burung kecil ini mempunyai penampakan belang berwarna abu-abu putih dengan paruh agak runcing."
+                },
+                {
+                    "english": "this is a black and grey bird with a small grey beak.",
+                    "indo": "ini adalah burung berwarna hitam dan abu-abu dengan paruh kecil berwarna abu-abu."
+                },
+                {
+                    "english": "a small bird with interesting markings of white, black and gray stripes and patterns.",
+                    "indo": "seekor burung kecil dengan tanda-tanda menarik berupa garis-garis dan pola putih, hitam dan abu-abu."
+                },
+                {
+                    "english": "this is a tiny bird with black and white stripes all over and longer feathers on the crown.",
+                    "indo": "ini adalah burung kecil dengan garis-garis hitam dan putih di sekujur tubuhnya dan bulu yang lebih panjang di bagian ubun-ubunnya."
+                },
+                {
+                    "english": "this small bird has a long skinny beak for it's head and black wings with a white spot.",
+                    "indo": "Burung kecil ini mempunyai paruh yang panjang dan kurus di bagian kepalanya dan sayap berwarna hitam dengan bercak putih."
+                },
+                {
+                    "english": "the bird has a small black bill, striped back and crown.",
+                    "indo": "burung itu memiliki paruh kecil berwarna hitam, punggung dan mahkota bergaris."
+                },
+                {
+                    "english": "this bird is brown with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has a black crown and white nape",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam dan tengkuk berwarna putih"
+                },
+                {
+                    "english": "this small bird has black and white stripped feathers and a long bill.",
+                    "indo": "burung kecil ini memiliki bulu bergaris hitam putih dan paruh panjang."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0032_160569.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this small bird has a white belly, two white wingbars and a black head with a white superciliary.",
+                    "indo": "burung kecil ini memiliki perut berwarna putih, dua garis sayap berwarna putih, dan kepala berwarna hitam dengan superciliary berwarna putih."
+                },
+                {
+                    "english": "the bird has black and white spots covering its body and a small black bill.",
+                    "indo": "burung ini memiliki bintik-bintik hitam putih menutupi tubuhnya dan paruh kecil berwarna hitam."
+                },
+                {
+                    "english": "a small bird with with black nape and the bird has mixed color primaries and secondaries having brown foot and tarsus",
+                    "indo": "burung kecil dengan tengkuk berwarna hitam dan burung tersebut memiliki warna campuran bulu primer dan bulu sekunder yang memiliki kaki dan tarsus berwarna coklat"
+                },
+                {
+                    "english": "bird with sharp pointed beak that is black, with gray superciliary, white belly and abdomen",
+                    "indo": "burung dengan paruh runcing runcing berwarna hitam, dengan superciliary berwarna abu-abu, perut dan perut berwarna putih"
+                },
+                {
+                    "english": "small white and black bird with long orange tarsus and medium beak",
+                    "indo": "burung kecil berwarna putih dan hitam dengan tarsus oranye panjang dan paruh sedang"
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a small bird with black and white stripes all over it with a pointy beak",
+                    "indo": "seekor burung kecil dengan garis-garis hitam putih di sekujur tubuhnya dengan paruh yang runcing"
+                },
+                {
+                    "english": "this bird has white and black stripes all over it.",
+                    "indo": "burung ini memiliki garis-garis putih dan hitam di sekujur tubuhnya."
+                },
+                {
+                    "english": "this small bird is a mottled brown and white, with a white eyebrow, white malar stripe, and white wingbars.",
+                    "indo": "Burung kecil ini berbintik-bintik coklat putih, alis putih, garis malar putih, dan garis sayap putih."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has stripes",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai belang"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0034_160695.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the small black and white bird, with a sharp beak and black eyes, is perched on a limb facing downward.",
+                    "indo": "burung kecil berwarna hitam putih, dengan paruh runcing dan mata hitam, bertengger dengan dahan menghadap ke bawah."
+                },
+                {
+                    "english": "this is a bird with a white belly, black back and a small pointy beak.",
+                    "indo": "ini adalah burung dengan perut putih, punggung hitam dan paruh kecil runcing."
+                },
+                {
+                    "english": "this bird is hanging out upside down because he's silly",
+                    "indo": "burung ini nongkrong terbalik karena dia konyol"
+                },
+                {
+                    "english": "this bird has a short beak and black and white feathers",
+                    "indo": "burung ini memiliki paruh pendek dan bulu berwarna hitam putih"
+                },
+                {
+                    "english": "this bird has bright white stripes on its black head, with two white wing bars on its black coverts and secondaries.",
+                    "indo": "burung ini memiliki garis-garis putih cerah di kepala hitamnya, dengan dua garis sayap putih di bulu hitam dan sayap sekundernya."
+                },
+                {
+                    "english": "this small bird has a white belly, black and white feathers and black and white stripes on its head.",
+                    "indo": "burung kecil ini memiliki perut berwarna putih, bulu hitam putih, dan belang hitam putih di kepalanya."
+                },
+                {
+                    "english": "a small bird with white belly, a black and white wingbars, and a black and white stripes crown.",
+                    "indo": "burung kecil dengan perut berwarna putih, sayap hitam putih, dan mahkota bergaris hitam putih."
+                },
+                {
+                    "english": "this bird has black eyebrows and a thin beak, with black and white covering the rest of its body.",
+                    "indo": "burung ini memiliki alis berwarna hitam dan paruh tipis, dengan warna hitam putih menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "this bird has a white belly and dark brown stripes and splotches.",
+                    "indo": "burung ini memiliki perut berwarna putih dan belang serta bercak coklat tua."
+                },
+                {
+                    "english": "this bird is small and black throughout it's entire body.",
+                    "indo": "burung ini berukuran kecil dan berwarna hitam di seluruh tubuhnya."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0035_160102.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has a long black beak, and has a black and white striped body that is reminiscent of a zebra.",
+                    "indo": "burung ini mempunyai paruh panjang berwarna hitam, dan mempunyai tubuh bergaris hitam putih yang mengingatkan kita pada zebra."
+                },
+                {
+                    "english": "this bird has a combination of black and white coloring with black uppertail coverts and white undertail coverts along with a black beak and light-grey tarsus and feet and black eyes.",
+                    "indo": "burung ini mempunyai kombinasi warna hitam putih dengan bulu penutup ekor atas berwarna hitam dan bulu ekor bawah berwarna putih serta paruh berwarna hitam dan tarsus serta kaki berwarna abu-abu muda serta mata berwarna hitam."
+                },
+                {
+                    "english": "a small black and white bird with long tail feathers and legs.",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan bulu ekor dan kaki yang panjang."
+                },
+                {
+                    "english": "small black and white bird with long black bill.",
+                    "indo": "burung kecil berwarna hitam putih dengan paruh hitam panjang."
+                },
+                {
+                    "english": "this black and white striped bird has a small slightly curved black bill.",
+                    "indo": "burung belang hitam putih ini mempunyai paruh kecil berwarna hitam agak melengkung."
+                },
+                {
+                    "english": "this gorgeous bird is a stunning combination of black and white stripes.",
+                    "indo": "burung cantik ini merupakan kombinasi garis-garis hitam dan putih yang menakjubkan."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this small bird has black and white feathers with a hint of brown aligning its outer wings.",
+                    "indo": "Burung kecil ini memiliki bulu berwarna hitam putih dengan sedikit warna coklat yang menyelaraskan sayap luarnya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a black bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang berwarna hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has stripes on them",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai garis-garis"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0041_160639.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird with black stripes all over with a white undertone",
+                    "indo": "seekor burung kecil dengan garis-garis hitam di sekujur tubuhnya dengan warna dasar putih"
+                },
+                {
+                    "english": "tiny bird with white eyebrow, black stripes, and black and white tail feathers.",
+                    "indo": "burung kecil dengan alis putih, garis-garis hitam, dan bulu ekor hitam putih."
+                },
+                {
+                    "english": "a small black and white bird with no neck, long tail feathers and a small beak.",
+                    "indo": "burung kecil berwarna hitam putih tanpa leher, bulu ekor panjang dan paruh kecil."
+                },
+                {
+                    "english": "this is a small black and white bird, with light colored feet and a small pointed bill.",
+                    "indo": "ini adalah burung kecil berwarna hitam putih, dengan kaki berwarna terang dan paruh kecil yang runcing."
+                },
+                {
+                    "english": "this bill has a black and white crown and a black and white belly.",
+                    "indo": "paruh ini mempunyai mahkota berwarna hitam putih dan perut berwarna hitam putih."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a rotund body",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai tubuh yang bulat"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                },
+                {
+                    "english": "this bird has a striped side and flank which transfers upward to an intermixed breast, and finally yielding to a white throat beneath a pronounced beak.",
+                    "indo": "burung ini mempunyai sisi dan sayap bergaris yang bergerak ke atas hingga ke dada yang bercampur, dan akhirnya menghasilkan tenggorokan putih di bawah paruh yang menonjol."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has a pointed bill, with a black and white breast.",
+                    "indo": "burung ini mempunyai paruh yang runcing, dengan dada berwarna hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0046_160202.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the small bird has a straight short beak, white and black colored patterns, and a short tail.",
+                    "indo": "Burung kecil ini memiliki paruh lurus pendek, corak berwarna putih hitam, dan ekor pendek."
+                },
+                {
+                    "english": "black, white, and gray small bird with black eyes and black beak",
+                    "indo": "burung kecil berwarna hitam, putih, dan abu-abu dengan mata hitam dan paruh hitam"
+                },
+                {
+                    "english": "a very small grey bird with a light grey neck, and black and grey wing and tail feathers.",
+                    "indo": "seekor burung abu-abu yang sangat kecil dengan leher abu-abu muda, serta bulu sayap dan ekor berwarna hitam dan abu-abu."
+                },
+                {
+                    "english": "this zebra colored bird has a tiny bill and short tarsus",
+                    "indo": "Burung berwarna zebra ini mempunyai paruh yang kecil dan tarsus yang pendek"
+                },
+                {
+                    "english": "small grey white and black bird with medium black tarsus and short black beak",
+                    "indo": "burung kecil berwarna abu-abu putih dan hitam dengan tarsus hitam sedang dan paruh hitam pendek"
+                },
+                {
+                    "english": "this bird has feathers that are black and white with a small bill",
+                    "indo": "burung ini mempunyai bulu yang berwarna hitam putih dengan paruh yang kecil"
+                },
+                {
+                    "english": "a small bird with white wing bars that has black and white secondaries and a grey throat.",
+                    "indo": "seekor burung kecil dengan garis sayap berwarna putih yang memiliki sayap bulu sekunder berwarna hitam putih dan tenggorokan berwarna abu-abu."
+                },
+                {
+                    "english": "this bird has wings that are black and has a gray throat",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan tenggorokan berwarna abu-abu"
+                },
+                {
+                    "english": "this bird has large claw feet and a light brown throat.",
+                    "indo": "burung ini memiliki kaki cakar yang besar dan tenggorokan berwarna coklat muda."
+                },
+                {
+                    "english": "the bird has a small black eyering and a spotted black and white back.",
+                    "indo": "burung itu memiliki cincin mata hitam kecil dan punggung berbintik hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0047_160547.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a small black and white striped bird sitting on a tree branch.",
+                    "indo": "ini adalah burung kecil bergaris hitam putih yang sedang duduk di dahan pohon."
+                },
+                {
+                    "english": "this bird has a short bill, a striped breast, and a white belly",
+                    "indo": "burung ini mempunyai paruh pendek, dada bergaris, dan perut berwarna putih"
+                },
+                {
+                    "english": "the bird is black and white striped and has a slender black beak and black eyes.",
+                    "indo": "burung ini bergaris hitam putih dan mempunyai paruh hitam ramping serta mata hitam."
+                },
+                {
+                    "english": "a bird with a long pointed bill white eyebrow and black and whtie stripes down its breast.",
+                    "indo": "seekor burung dengan paruh panjang, runcing, alis putih, dan garis-garis hitam putih di dadanya."
+                },
+                {
+                    "english": "this bird is black and white in color with a black beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh berwarna hitam, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "a small bird, with a white belly and superciliary, and black striped body.",
+                    "indo": "seekor burung kecil, dengan perut putih dan superciliary, dan tubuh bergaris hitam."
+                },
+                {
+                    "english": "the bird has a black and white striped belly, striped back and small bill.",
+                    "indo": "Burung ini memiliki perut bergaris hitam putih, punggung bergaris, dan paruh kecil."
+                },
+                {
+                    "english": "a small white and black stripped bird with a short pointed beak.",
+                    "indo": "seekor burung kecil bergaris putih dan hitam dengan paruh runcing pendek."
+                },
+                {
+                    "english": "a white bird with dark black stripes running all over its body.",
+                    "indo": "seekor burung berwarna putih dengan garis-garis hitam pekat di sekujur tubuhnya."
+                },
+                {
+                    "english": "a small black and white bird with a short black pointed beak.",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan paruh pendek runcing berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0048_160287.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "bird is grey and black nape is white belly white also beek is black and long.",
+                    "indo": "burung berwarna abu-abu dan hitam, tengkuknya putih, perutnya putih, juga paruhnya hitam dan panjang."
+                },
+                {
+                    "english": "the color around this small bird's eyeings are yellow and it's belly is white with black stripes.",
+                    "indo": "Warna disekitar mata burung kecil ini adalah kuning dan perutnya berwarna putih dengan garis-garis hitam."
+                },
+                {
+                    "english": "this small bird has orange feet and a white eye ring and a multicolored body",
+                    "indo": "burung kecil ini memiliki kaki berwarna oranye dan cincin mata berwarna putih serta tubuh beraneka warna"
+                },
+                {
+                    "english": "a small black and white bird that has black wings with white wingbars, black eyes, and its body has black and white streaks all over.",
+                    "indo": "burung kecil berwarna hitam putih yang mempunyai sayap berwarna hitam dengan garis sayap berwarna putih, mata berwarna hitam, dan seluruh badannya terdapat guratan hitam putih."
+                },
+                {
+                    "english": "a small black and white stripped bird with a narrow head.",
+                    "indo": "seekor burung kecil bergaris hitam putih dengan kepala sempit."
+                },
+                {
+                    "english": "a black and white bird with a unique pattern, long black legs, and a long narrow bill.",
+                    "indo": "burung berwarna hitam putih dengan corak unik, kaki hitam panjang, dan paruh panjang sempit."
+                },
+                {
+                    "english": "this bird has wings that are black with white stripes",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dengan garis-garis putih"
+                },
+                {
+                    "english": "a very small bird with a white and black striped bird.",
+                    "indo": "burung yang sangat kecil dengan burung bergaris putih dan hitam."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black patches",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bercak hitam"
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black strips",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan garis-garis hitam"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0049_160749.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a white and black bird with a small pointy beak.",
+                    "indo": "ini adalah burung berwarna putih dan hitam dengan paruh kecil yang runcing."
+                },
+                {
+                    "english": "this tiny bird has a black and white speckled body and a small flat beak.",
+                    "indo": "burung mungil ini memiliki tubuh berbintik hitam putih dan paruh kecil pipih."
+                },
+                {
+                    "english": "this bird is black and white in color with a skinny black beak and black eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh hitam kurus dan cincin mata hitam."
+                },
+                {
+                    "english": "this bird has a spotted crown, a sharp bill, and a white belly",
+                    "indo": "burung ini memiliki mahkota berbintik, paruh runcing, dan perut berwarna putih"
+                },
+                {
+                    "english": "this is a white and black striped bird with a white eyebrow.",
+                    "indo": "ini adalah burung bergaris putih hitam dengan alis putih."
+                },
+                {
+                    "english": "this particular bird has a black and white and gray colored body",
+                    "indo": "burung ini memiliki tubuh berwarna hitam putih dan abu-abu"
+                },
+                {
+                    "english": "this bird has wings that are black and has a small bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang kecil"
+                },
+                {
+                    "english": "this small bird is speckled with white and black throughout its entire body.",
+                    "indo": "burung kecil ini berbintik-bintik putih dan hitam di sekujur tubuhnya."
+                },
+                {
+                    "english": "this small bird has black and white striped feathers.",
+                    "indo": "burung kecil ini mempunyai bulu bergaris hitam putih."
+                },
+                {
+                    "english": "this bird is blue with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna biru kehitaman dan mempunyai paruh yang panjang dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0051_160603.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this small, predominantly white bird has thick black streaks on its side, wings and back, with a white eye ring and black cheek.",
+                    "indo": "burung kecil yang didominasi warna putih ini memiliki guratan hitam tebal di bagian samping, sayap dan punggungnya, dengan cincin mata berwarna putih dan pipi berwarna hitam."
+                },
+                {
+                    "english": "this bird has a spotted breast, a black crown, and a short bill",
+                    "indo": "burung ini memiliki dada berbintik, mahkota berwarna hitam, dan paruh pendek"
+                },
+                {
+                    "english": "the bird is black and white with a white chest and a black and white striped head.",
+                    "indo": "burung tersebut berwarna hitam putih dengan dada berwarna putih dan kepala bergaris hitam putih."
+                },
+                {
+                    "english": "this short necked bird has striped wings, back, and head. the belly is white.",
+                    "indo": "burung berleher pendek ini mempunyai sayap, punggung, dan kepala yang belang. perutnya berwarna putih."
+                },
+                {
+                    "english": "this bird is white and black in color with a sharp black beak, and white eye rings.",
+                    "indo": "burung ini berwarna putih kehitaman dengan paruh berwarna hitam runcing, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has a black and white striped body and tail with a white breast and straight pointed beack",
+                    "indo": "burung ini mempunyai badan dan ekor bergaris hitam putih dengan dada berwarna putih dan paruh runcing lurus"
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a small bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang kecil"
+                },
+                {
+                    "english": "a small white bird with black eye rings, and black markings on its crest, breast, and on its wings.",
+                    "indo": "seekor burung putih kecil dengan cincin mata hitam, dan tanda hitam di jambul, dada, dan sayapnya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird is black with hwite and has a very short beak.",
+                    "indo": "burung ini berwarna hitam hwite dan mempunyai paruh yang sangat pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0053_160010.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a black and white striped small bird with yellow legs and black eyebrow and eye.",
+                    "indo": "seekor burung kecil bergaris hitam putih dengan kaki kuning dan alis serta mata hitam."
+                },
+                {
+                    "english": "this small bird is white with black stripes; his beak is brown and thin.",
+                    "indo": "burung kecil ini berwarna putih dengan garis-garis hitam; paruhnya berwarna coklat dan tipis."
+                },
+                {
+                    "english": "this small bird has black and white striped coloring with black eyes.",
+                    "indo": "burung kecil ini memiliki warna belang hitam putih dengan mata hitam."
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "this is a black and white striped bird with a white eyebrow and orange feet.",
+                    "indo": "ini adalah burung bergaris hitam putih dengan alis putih dan kaki oranye."
+                },
+                {
+                    "english": "the is colorful bird has a black beak with black and white feathers",
+                    "indo": "Burung berwarna-warni ini memiliki paruh berwarna hitam dengan bulu berwarna hitam putih"
+                },
+                {
+                    "english": "a small white bird with black stripes throughout and yellow feet.",
+                    "indo": "seekor burung putih kecil dengan garis-garis hitam seluruhnya dan kaki kuning."
+                },
+                {
+                    "english": "a small bird with a white crown and black superciliaries.",
+                    "indo": "seekor burung kecil dengan mahkota putih dan superciliary hitam."
+                },
+                {
+                    "english": "this bird has a black crown with a white nape",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam dengan tengkuk berwarna putih"
+                },
+                {
+                    "english": "this bird has a black crown with white eyebrows and white throat.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dengan alis berwarna putih dan tenggorokan berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0057_160037.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this little bird is almost all black and white striped with black feet and tarsus.",
+                    "indo": "burung kecil ini hampir seluruhnya bergaris hitam putih dengan kaki dan tarsus berwarna hitam."
+                },
+                {
+                    "english": "a small bird with white and black stripes through its wing and belly feathers, as well as black cheek patches and eyebrows.",
+                    "indo": "seekor burung kecil dengan garis-garis putih dan hitam pada bulu sayap dan perutnya, serta bercak hitam di pipi dan alis."
+                },
+                {
+                    "english": "a black and white bird whose color looks dalmatian like; with intricate stripes on its wings and a small beak.",
+                    "indo": "burung hitam putih yang warnanya mirip dalmatian; dengan garis-garis rumit di sayapnya dan paruh kecil."
+                },
+                {
+                    "english": "this short-beaked bird has black and white stripes all over its body.",
+                    "indo": "burung berparuh pendek ini memiliki garis-garis hitam putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "this small bird has black and white stripes all over its body with a short black beak.",
+                    "indo": "burung kecil ini memiliki garis-garis hitam putih di sekujur tubuhnya dengan paruh pendek berwarna hitam."
+                },
+                {
+                    "english": "this particular bird has a black and white striped body",
+                    "indo": "burung ini memiliki tubuh bergaris hitam putih"
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a small bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang kecil"
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird is alternating stripes of white and black, with a short bill.",
+                    "indo": "burung ini bergaris-garis putih dan hitam berselang-seling, dengan paruh pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0060_160764.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a bird with an almost solid black and white striped body from it's crown to its rectrices.",
+                    "indo": "seekor burung dengan tubuh bergaris hitam putih hampir solid mulai dari ubun-ubun hingga rectrices ."
+                },
+                {
+                    "english": "this is a white bird with black stripes with a sharp black beak.",
+                    "indo": "ini adalah burung berwarna putih bergaris hitam dengan paruh hitam runcing."
+                },
+                {
+                    "english": "the bird is black and white with a sharp black beak and round black eyes.",
+                    "indo": "burung itu berwarna hitam putih dengan paruh hitam runcing dan mata hitam bulat."
+                },
+                {
+                    "english": "this bird is black and white in color with a skinny beak, and black eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh kurus, dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "this white and black striped bird has a long, curving beak.",
+                    "indo": "Burung bergaris putih dan hitam ini mempunyai paruh yang panjang dan melengkung."
+                },
+                {
+                    "english": "this bird is small, striped black and white over its entire body, and the bill is pointed.",
+                    "indo": "burung ini berukuran kecil, bergaris hitam putih di sekujur tubuhnya, dan paruhnya runcing."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this small gray and white bird has long black tarsus and feet and a sharp pointy beak.",
+                    "indo": "burung kecil berwarna abu-abu putih ini memiliki tarsus dan kaki hitam panjang serta paruh runcing dan tajam."
+                },
+                {
+                    "english": "this bird is black and white with a black crown and a brown beak.",
+                    "indo": "burung ini berwarna hitam putih dengan mahkota berwarna hitam dan paruh berwarna coklat."
+                },
+                {
+                    "english": "this pointy beaked bird has a small head and white wing bars on a black body with white patterned stripes.",
+                    "indo": "burung berparuh runcing ini mempunyai kepala kecil dan garis sayap berwarna putih pada badan berwarna hitam bermotif garis putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0061_160404.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small round bird with a black and white body.",
+                    "indo": "burung bulat kecil dengan tubuh hitam putih."
+                },
+                {
+                    "english": "this bird has black and white striped coloring on its breast and crown and black eyerings.",
+                    "indo": "burung ini memiliki warna garis-garis hitam putih pada bagian dada dan ubun-ubunnya serta kelopak cincin mata berwarna hitam."
+                },
+                {
+                    "english": "the bird has a black eyering and a long black bill.",
+                    "indo": "burung itu mempunyai cincin mata hitam dan paruh hitam panjang."
+                },
+                {
+                    "english": "this is a very small black and white bird with a very skinny bill.",
+                    "indo": "ini adalah burung hitam putih yang sangat kecil dengan paruh yang sangat tipis."
+                },
+                {
+                    "english": "this small and flat billed bird has a black and white striped body and head.",
+                    "indo": "burung berparuh kecil dan pipih ini memiliki tubuh dan kepala bergaris hitam putih."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this is a tiny bird with white and black feathers with a small beak and small black eyes.",
+                    "indo": "ini adalah burung kecil dengan bulu putih dan hitam dengan paruh kecil dan mata hitam kecil."
+                },
+                {
+                    "english": "this bird is black and white in color, with a curved black beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh melengkung berwarna hitam."
+                },
+                {
+                    "english": "a grey and white medium sized bird with a grey beak and yellowish feet.",
+                    "indo": "burung berukuran sedang berwarna abu-abu putih dengan paruh abu-abu dan kaki kekuningan."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a striped crown",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai mahkota yang bergaris"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0065_160111.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has a small bill that is white as well as a white breast.",
+                    "indo": "burung tersebut memiliki paruh kecil berwarna putih dan dada berwarna putih."
+                },
+                {
+                    "english": "a small bird with black and white striped primary and secondary wings also has a small head.",
+                    "indo": "burung kecil dengan sayap bulu primer dan bulu sekunder bergaris hitam putih juga memiliki kepala kecil."
+                },
+                {
+                    "english": "this bird has black and white striped primaries, crown and breast, small gray bill and white eyering.",
+                    "indo": "burung ini memiliki ciri utama bergaris hitam putih, mahkota dan dada, paruh kecil berwarna abu-abu, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "this small white bird has a black eye and black stripes on its wings",
+                    "indo": "burung kecil berwarna putih ini memiliki mata berwarna hitam dan garis-garis hitam pada sayapnya"
+                },
+                {
+                    "english": "smaller bird with a zebra type black and white pattern along most of it's petite body.",
+                    "indo": "burung yang lebih kecil dengan pola hitam putih tipe zebra di sebagian besar tubuhnya yang mungil."
+                },
+                {
+                    "english": "this bird is white and black in color, with a sharp small beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh kecil yang runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a short bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang pendek"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and has black strips",
+                    "indo": "burung yang satu ini mempunyai perut yang berwarna putih dan mempunyai garis-garis hitam"
+                },
+                {
+                    "english": "this bird has a white breast with a short pointed bill and a black wing with a white wingbar.",
+                    "indo": "burung ini mempunyai dada berwarna putih dengan paruh runcing pendek dan sayap berwarna hitam dengan garis sayap berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0070_160354.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small, brown, gray, and black-colored bird with a long, curved beak and a black and white-striped head and feathers.",
+                    "indo": "burung kecil berwarna coklat, abu-abu, dan hitam dengan paruh panjang melengkung serta kepala dan bulu bergaris hitam putih."
+                },
+                {
+                    "english": "a small bird with a small head and beak, black and white crown and white wingbars.",
+                    "indo": "burung kecil dengan kepala dan paruh kecil, mahkota hitam putih, dan sayap putih."
+                },
+                {
+                    "english": "a small bird that is a mixed pattern of black and white with a small shading of brown on its side.",
+                    "indo": "burung kecil bercorak campuran hitam putih dengan sedikit corak coklat di sisinya."
+                },
+                {
+                    "english": "this small black, white, and brown bird has a long, thin bill that curves downward slightly and has a sharp tip.",
+                    "indo": "burung kecil berwarna hitam, putih, dan coklat ini memiliki paruh yang panjang dan tipis, agak melengkung ke bawah dan ujungnya runcing."
+                },
+                {
+                    "english": "the bird has a black eyering and a striped crown.",
+                    "indo": "burung itu mempunyai cincin mata hitam dan mahkota bergaris."
+                },
+                {
+                    "english": "the bird has a black and white crown and white wing bars on a black wing.",
+                    "indo": "burung tersebut memiliki mahkota berwarna hitam putih dan garis sayap berwarna putih pada sayap berwarna hitam."
+                },
+                {
+                    "english": "this bird has a long bill with white and black stripe crown, black and white primaries and secondaries with white wing bars.",
+                    "indo": "burung ini mempunyai paruh yang panjang dengan mahkota bergaris putih dan hitam, paruh bulu primer hitam putih dan paruh bulu sekunder dengan garis sayap putih."
+                },
+                {
+                    "english": "this bird has wings that are black and whitye and has a yellow belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam keputihan serta mempunyai perut yang berwarna kuning"
+                },
+                {
+                    "english": "this bird is black and white with white wing guards and a black crown.",
+                    "indo": "burung ini berwarna hitam putih dengan pelindung sayap berwarna putih dan mahkota berwarna hitam."
+                },
+                {
+                    "english": "this bird is brown with black and has a very short beak.",
+                    "indo": "burung ini berwarna coklat kehitaman dan mempunyai paruh yang sangat pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0071_160308.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird with a white stomach, while the rest of the bird is striped black and white.",
+                    "indo": "burung berukuran kecil dengan perut berwarna putih, sedangkan bagian burung lainnya bergaris hitam putih."
+                },
+                {
+                    "english": "this bird has a small gray bill, a white and black striped crown, and a white breast and belly.",
+                    "indo": "burung ini memiliki paruh kecil berwarna abu-abu, mahkota bergaris putih hitam, serta dada dan perut berwarna putih."
+                },
+                {
+                    "english": "this bird is white and black in color with a black curved beak and white eye rings.",
+                    "indo": "burung ini berwarna putih hitam dengan paruh melengkung hitam dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "a small bird with a striking appearance appears to have a black and white body and a small skinny bill.",
+                    "indo": "seekor burung kecil dengan penampilan mencolok tampak memiliki tubuh berwarna hitam putih dan paruh kecil yang kurus."
+                },
+                {
+                    "english": "this bird has a striped color pattern of white and black colors.",
+                    "indo": "burung ini mempunyai pola warna belang warna putih dan hitam."
+                },
+                {
+                    "english": "the small bird has black and white stripes a lot like a zebra.",
+                    "indo": "burung kecil itu memiliki garis-garis hitam putih yang mirip sekali dengan zebra."
+                },
+                {
+                    "english": "this small bird has black and white stripes throughout and only its belly and abdomen are just white.",
+                    "indo": "burung kecil ini mempunyai garis-garis hitam putih di seluruh bagiannya dan hanya bagian perut dan abdomen saja yang berwarna putih."
+                },
+                {
+                    "english": "this tiny little chunky bird has a white belly, black details around its head and crown.",
+                    "indo": "burung kecil mungil ini memiliki perut berwarna putih, detail hitam di sekitar kepala dan mahkotanya."
+                },
+                {
+                    "english": "this small bird has stripes of black and dark yellow on its head.",
+                    "indo": "burung kecil ini memiliki garis-garis berwarna hitam dan kuning tua di kepalanya."
+                },
+                {
+                    "english": "the bird is small and black and white with striping on crown.",
+                    "indo": "burungnya kecil berwarna hitam putih dengan garis-garis di mahkotanya."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0072_160353.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has a small black eyering and a small bill.",
+                    "indo": "burung itu memiliki cincin mata hitam kecil dan paruh kecil."
+                },
+                {
+                    "english": "the bird has a black head and black and white striped body.",
+                    "indo": "burung tersebut mempunyai kepala berwarna hitam dan badan bergaris hitam putih."
+                },
+                {
+                    "english": "this is a small black and white bird that has stripes going down its belly, head and wings.",
+                    "indo": "ini adalah burung kecil berwarna hitam putih yang memiliki garis-garis di perut, kepala, dan sayapnya."
+                },
+                {
+                    "english": "this bird is black and white, and features big black eyes",
+                    "indo": "burung ini berwarna hitam putih, dan memiliki mata hitam besar"
+                },
+                {
+                    "english": "the small bird has a black and white striped body with a small tail and long beak.",
+                    "indo": "burung kecil ini memiliki tubuh bergaris hitam putih dengan ekor kecil dan paruh panjang."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "the small bird is black and white striped and has black feet.",
+                    "indo": "burung kecil bergaris hitam putih dan berkaki hitam."
+                },
+                {
+                    "english": "this bird has white wing bars, black and white secondaries, and a white eye ring.",
+                    "indo": "burung ini memiliki garis sayap berwarna putih, sayap bulu sekunder berwarna hitam putih, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this small bird has a white breast and belly with grey streaks and a grey bill and crown.",
+                    "indo": "Burung kecil ini memiliki dada dan perut berwarna putih dengan guratan abu-abu serta paruh dan mahkota berwarna abu-abu."
+                },
+                {
+                    "english": "this bird is white and black in color, and has a skinny beak.",
+                    "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh yang kurus."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0073_160539.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has black and white feather and a long flat beak.",
+                    "indo": "burung ini mempunyai bulu berwarna hitam putih dan paruh yang panjang dan rata."
+                },
+                {
+                    "english": "this relatively small bird has a pronounced belly, a thin bill, and is black and grey all over.",
+                    "indo": "burung yang relatif kecil ini memiliki perut yang menonjol, paruh yang tipis, dan seluruh tubuhnya berwarna hitam dan abu-abu."
+                },
+                {
+                    "english": "this small bird has black wings with white wing bars and a grey and black breast an belly.",
+                    "indo": "Burung kecil ini mempunyai sayap berwarna hitam dengan garis sayap berwarna putih dan dada serta perut berwarna abu-abu dan hitam."
+                },
+                {
+                    "english": "this bird has a spotted back, a spotted breast, and a sharp pointy bill",
+                    "indo": "burung ini memiliki punggung berbintik, dada berbintik, dan paruh runcing"
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "a small bird speckled with grey and white, a straight gray bill and brown wings and tail.",
+                    "indo": "burung kecil berbintik abu-abu putih, paruh lurus abu-abu, serta sayap dan ekor berwarna coklat."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a black bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang berwarna hitam"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and brown and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih, coklat, dan hitam"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0074_160361.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this black and white feathered bird has a short flat beak.",
+                    "indo": "burung berbulu hitam putih ini memiliki paruh pendek yang rata."
+                },
+                {
+                    "english": "this bird is black and white in color and has a black bill along with awhite eye ring.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh berwarna hitam serta cincin mata berwarna putih."
+                },
+                {
+                    "english": "this is a white bird with black stripes on its belly and a pointy beak.",
+                    "indo": "ini adalah burung berwarna putih dengan garis-garis hitam di perutnya dan paruh runcing."
+                },
+                {
+                    "english": "this bird is black and white in color with a sharp black beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh hitam runcing, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this is a black and white bird with a white stripe on the crown.",
+                    "indo": "ini adalah burung hitam putih dengan garis putih di mahkotanya."
+                },
+                {
+                    "english": "a small black and white bird, with a short sharp beak, heard is proportionate to it's body",
+                    "indo": "burung kecil berwarna hitam putih, dengan paruh pendek dan runcing, pendengarannya proporsional dengan tubuhnya"
+                },
+                {
+                    "english": "this bird is white and black in color, with a black beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird is black and white in color, with a black beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "the bird's beak is black and it looks like a mostly white bird that has streaks of black throughout its body",
+                    "indo": "paruh burung ini berwarna hitam dan tampak seperti burung yang sebagian besar berwarna putih dengan guratan-guratan hitam di sekujur tubuhnya"
+                },
+                {
+                    "english": "a small black and white bird, with big feet, and a sharp bill.",
+                    "indo": "seekor burung kecil berwarna hitam putih, berkaki besar, dan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0076_160173.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has small beak when compared to its body, it has black beak, and white belly and abdomen.",
+                    "indo": "Burung ini memiliki paruh yang kecil jika dibandingkan dengan tubuhnya, paruhnya berwarna hitam, serta perut dan abdomen berwarna putih."
+                },
+                {
+                    "english": "the bird has a yellow belly and abdomen, with lots of black streaks all over it's body.",
+                    "indo": "burung ini memiliki perut dan perut berwarna kuning, dengan banyak guratan hitam di sekujur tubuhnya."
+                },
+                {
+                    "english": "this is a fat speckles bird with a short pointy beak and little tiny legs.",
+                    "indo": "ini adalah burung berbintik gemuk dengan paruh pendek dan runcing serta kaki kecil mungil."
+                },
+                {
+                    "english": "a pudgy bird that has a yellow belly and black and white stripes everywhere else.",
+                    "indo": "burung gemuk yang memiliki perut kuning dan garis-garis hitam putih di bagian lainnya."
+                },
+                {
+                    "english": "this bird has a white belly and a black spotted back and head.",
+                    "indo": "burung ini mempunyai perut berwarna putih dan punggung serta kepala berbintik hitam."
+                },
+                {
+                    "english": "this small bird has a light yellow breast belly and vent, with black and yellow feathers along the rest of its body.",
+                    "indo": "Burung kecil ini mempunyai perut dan lubang dada berwarna kuning muda, dengan bulu berwarna hitam dan kuning di sepanjang tubuhnya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this is a black and white bird with stripes throughout its body and a white abdomen.",
+                    "indo": "ini adalah burung berwarna hitam putih dengan garis-garis di sekujur tubuhnya dan perut berwarna putih."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with brown spots",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bintik-bintik coklat"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0077_160440.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "small vibrant black and white colored bird, black beak, tarsus and feet with white eyebrow and black crown.",
+                    "indo": "burung kecil berwarna hitam putih cerah, paruh hitam, tarsus dan kaki dengan alis putih dan mahkota hitam."
+                },
+                {
+                    "english": "bird has spotted body feathers, spotted breast feather, and long beak",
+                    "indo": "burung mempunyai bulu badan berbintik, bulu dada berbintik, dan paruh panjang"
+                },
+                {
+                    "english": "this bird has a thin curved bill, a white eyebrow, and a white eyering.",
+                    "indo": "burung ini memiliki paruh tipis melengkung, alis berwarna putih, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this round bird has black and white coloration all over, with a straight, pointy beak.",
+                    "indo": "Burung berbentuk bulat ini mempunyai warna seluruh bagian hitam putih, dengan paruh lurus dan runcing."
+                },
+                {
+                    "english": "the bird is tiny and round with black and white stripped lines.",
+                    "indo": "burung itu kecil dan bulat dengan garis-garis bergaris hitam putih."
+                },
+                {
+                    "english": "this particular bird has black white and brown feathers",
+                    "indo": "burung ini memiliki bulu berwarna hitam putih dan coklat"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "a very small bird with brown black and white colors mingled.",
+                    "indo": "seekor burung yang sangat kecil dengan warna coklat hitam dan putih bercampur."
+                },
+                {
+                    "english": "this is a small lbird that is striped with the colors white black and brown.",
+                    "indo": "Ini adalah burung kecil yang bergaris dengan warna putih hitam dan coklat."
+                },
+                {
+                    "english": "a small black and white bird with a pointed beak.",
+                    "indo": "seekor burung kecil berwarna hitam putih dengan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0078_160365.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this little fellow has a white belly and breast with stripes of black on its crown and superciliary.",
+                    "indo": "anak kecil ini memiliki perut dan dada berwarna putih dengan garis-garis hitam di bagian ubun-ubun dan superciliary."
+                },
+                {
+                    "english": "this is a small bird with a white breast and long thin black bill.",
+                    "indo": "ini adalah burung kecil dengan dada berwarna putih dan paruh hitam tipis panjang."
+                },
+                {
+                    "english": "smallish bird, white and grey-black colored, thin black cheek patch and white and black striped crown.",
+                    "indo": "burung bertubuh kecil, berwarna putih abu-abu kehitaman, bercak pipi tipis berwarna hitam, dan mahkota bergaris putih hitam."
+                },
+                {
+                    "english": "this bird has a white belly, black wings and a white eyebrow.",
+                    "indo": "burung ini memiliki perut berwarna putih, sayap hitam dan alis berwarna putih."
+                },
+                {
+                    "english": "this bird is black and white in color with a skinny black beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh hitam kurus, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "small bird that has a white belly with flecks of gray and wings and tail feathers that are white and black.",
+                    "indo": "burung kecil yang mempunyai perut berwarna putih dengan bintik abu-abu serta sayap dan bulu ekor yang berwarna putih dan hitam."
+                },
+                {
+                    "english": "the small bird has a white belly with gray and ora nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½e feet and a dark bill.",
+                    "indo": "burung kecil itu mempunyai perut berwarna putih dengan kaki berwarna abu-abu dan coklat serta paruh berwarna gelap."
+                },
+                {
+                    "english": "the superciliary is white and the wings are white and black peppered and the bill is long and thin.",
+                    "indo": "superciliary berwarna putih dan sayap berwarna putih dan hitam, serta paruhnya panjang dan tipis."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black spots",
+                    "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+                },
+                {
+                    "english": "this small bird has a white belly, white breast, and a long pointed black bill.",
+                    "indo": "burung kecil ini memiliki perut berwarna putih, dada berwarna putih, dan paruh panjang berwarna hitam dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0080_160375.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a black and white bird with gray stripes and a small bill",
+                    "indo": "burung hitam putih dengan garis abu-abu dan paruh kecil"
+                },
+                {
+                    "english": "the bird has a small yellow bill and a black eyering.",
+                    "indo": "burung itu mempunyai paruh kecil berwarna kuning dan cincin mata berwarna hitam."
+                },
+                {
+                    "english": "a small bird with black and white feathers covering its entire body in a unique pattern.",
+                    "indo": "seekor burung kecil dengan bulu hitam putih menutupi seluruh tubuhnya dengan pola yang unik."
+                },
+                {
+                    "english": "this bird has a black and white overall body color.",
+                    "indo": "burung ini mempunyai warna tubuh keseluruhan hitam putih."
+                },
+                {
+                    "english": "this bird has a white belly with a black striped back, throat and head.",
+                    "indo": "burung ini mempunyai perut berwarna putih dengan punggung, tenggorokan dan kepala bergaris hitam."
+                },
+                {
+                    "english": "this bird as black and white all over, with a white eye ring.",
+                    "indo": "burung ini berwarna hitam putih seluruhnya, dengan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird is small, mostly black, with white stripes covering its body, and a thin pointed bill.",
+                    "indo": "Burung ini berukuran kecil, sebagian besar berwarna hitam, dengan garis-garis putih menutupi tubuhnya, dan paruhnya tipis dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a small bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang kecil"
+                },
+                {
+                    "english": "a tiny bird with black and white pattern throughout the body",
+                    "indo": "seekor burung mungil dengan corak hitam putih di sekujur tubuhnya"
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0081_110906.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has a white belly and a black crown on its head.",
+                    "indo": "burung ini memiliki perut berwarna putih dan mahkota berwarna hitam di kepalanya."
+                },
+                {
+                    "english": "the black wings have several white wingbars, the bill is long and pointed, a head that is large for the size of its body, and long, thin legs and feet.",
+                    "indo": "Sayap berwarna hitam mempunyai beberapa garis sayap berwarna putih, paruh panjang dan runcing, kepala yang besar untuk ukuran tubuhnya, serta tungkai dan kaki yang panjang dan tipis."
+                },
+                {
+                    "english": "this bird has white eyering as well as eyebrow, with black pointy bill.",
+                    "indo": "Burung ini mempunyai cincin mata dan alis berwarna putih, dengan paruh runcing berwarna hitam."
+                },
+                {
+                    "english": "the bird is striped black and white and has black eyes and a slightly curved beak.",
+                    "indo": "burung ini bergaris hitam putih, bermata hitam, dan paruh agak melengkung."
+                },
+                {
+                    "english": "this bird has a medium sized black beek, as well as black feathers, and white wing bars.",
+                    "indo": "burung ini mempunyai paruh berwarna hitam berukuran sedang, serta bulu berwarna hitam, dan garis sayap berwarna putih."
+                },
+                {
+                    "english": "a black and white bird with a thin, black beak.",
+                    "indo": "seekor burung hitam putih dengan paruh tipis berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird is white and black in color, with a sharp black beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam runcing."
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                },
+                {
+                    "english": "this bird has a brown and white crown, brown and white primaries, and a white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna coklat dan putih, bulu primer berwarna coklat dan putih, dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0083_160237.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a black and white striped bird with a pointy beak.",
+                    "indo": "ini adalah burung bergaris hitam putih dengan paruh runcing."
+                },
+                {
+                    "english": "this bird black wings with a white wingbar and black and white stripes on the belly, head, and back.",
+                    "indo": "burung ini bersayap hitam dengan garis sayap berwarna putih dan garis-garis hitam putih pada bagian perut, kepala, dan punggung."
+                },
+                {
+                    "english": "this bird is black and white in color with a sharp black beak and white eye ring.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh hitam runcing dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this is a black and white marbled bird with a tiny beak.",
+                    "indo": "ini adalah burung marmer hitam putih dengan paruh kecil."
+                },
+                {
+                    "english": "a small bird that is striped black and white all over the entire body.",
+                    "indo": "seekor burung kecil yang bergaris hitam putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "small bird that is covered in black and white stripes from head to toe. chest is white.",
+                    "indo": "burung kecil yang ditutupi garis-garis hitam putih dari ujung kepala sampai ujung kaki. dada berwarna putih."
+                },
+                {
+                    "english": "this small bird has black and white stripes throughout its body.",
+                    "indo": "burung kecil ini memiliki garis-garis hitam putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "a small bird with white wing bars, black and white secondaries, and a black and white striped head.",
+                    "indo": "burung kecil dengan garis sayap berwarna putih, bulu sekunder berwarna hitam putih, dan kepala bergaris hitam putih."
+                },
+                {
+                    "english": "this bird is white and black in color, and has a black beak.",
+                    "indo": "burung ini berwarna putih dan hitam, serta mempunyai paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a thin bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai paruh yang tipis"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0085_160110.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the color of this birds wings blend in with the color of the beak",
+                    "indo": "warna sayap burung ini menyatu dengan warna paruhnya"
+                },
+                {
+                    "english": "this small black and white bird has black tarsus and yellow feet, a small pointed black and white beak and black stripes on its head and belly.",
+                    "indo": "burung kecil berwarna hitam putih ini memiliki tarsus hitam dan kaki kuning, paruh kecil runcing berwarna hitam putih serta garis-garis hitam di kepala dan perutnya."
+                },
+                {
+                    "english": "this bird has black and white speckles and stripes all over its body, it has very long toenails.",
+                    "indo": "burung ini mempunyai bintik-bintik dan garis-garis hitam putih di sekujur tubuhnya, kuku kakinya sangat panjang."
+                },
+                {
+                    "english": "this black and white bird has a long black and white bill.",
+                    "indo": "burung berwarna hitam putih ini mempunyai paruh panjang berwarna hitam putih."
+                },
+                {
+                    "english": "this is a black and white striped bird has a short tail.",
+                    "indo": "Ini adalah burung bergaris hitam putih yang memiliki ekor pendek."
+                },
+                {
+                    "english": "the is colorful bird has a medium beak with medium legs",
+                    "indo": "Burung berwarna-warni ini memiliki paruh berukuran sedang dengan kaki berukuran sedang"
+                },
+                {
+                    "english": "this bird is white and black in color, with a light colored beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna terang."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a striped belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai perut yang belang"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan hitam"
+                },
+                {
+                    "english": "this bird is white with black and has a very short beak.",
+                    "indo": "burung ini berwarna putih kehitaman dan mempunyai paruh yang sangat pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0086_160836.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has wide eyes, long legs, and black and white feathers.",
+                    "indo": "burung ini memiliki mata yang lebar, kaki yang panjang, dan bulu berwarna hitam putih."
+                },
+                {
+                    "english": "this bird has ivory breast with hinds and streaks of black along its body and side.",
+                    "indo": "burung ini memiliki dada berwarna gading dengan bagian belakang dan guratan hitam di sepanjang badan dan sampingnya."
+                },
+                {
+                    "english": "this small black and yellow bird also has black legs.",
+                    "indo": "burung kecil berwarna hitam kuning ini juga memiliki kaki berwarna hitam."
+                },
+                {
+                    "english": "this bird is black and white in color with a small beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh kecil, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this is a black and white spotted bird with white brows and a small pointed bill.",
+                    "indo": "ini adalah burung berbintik hitam putih dengan superciliary putih dan paruh kecil runcing."
+                },
+                {
+                    "english": "this particular bird has a black and white belly and black bill",
+                    "indo": "burung ini memiliki perut berwarna hitam putih dan paruh berwarna hitam"
+                },
+                {
+                    "english": "this small bird has a white belly with black spots, a black crown with white eyebrows and a very short bill.",
+                    "indo": "burung kecil ini mempunyai perut berwarna putih dengan bintik hitam, mahkota berwarna hitam dengan alis berwarna putih dan paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has wings that are vback and has a striped crown",
+                    "indo": "burung ini mempunyai sayap yang vback dan mempunyai mahkota yang bergaris"
+                },
+                {
+                    "english": "this bird has a short head as compared to its body, with a black and white crown, belly, and abdomen.",
+                    "indo": "burung ini memiliki kepala yang pendek dibandingkan dengan tubuhnya, dengan mahkota, perut, dan perut berwarna hitam putih."
+                },
+                {
+                    "english": "this bird has a black and white crown, black and white primaries, and a black and white belly.",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam putih, primata hitam putih, dan perut berwarna hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0088_160668.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this small bird has distinctive black and white stripes covering the entire body, with a thin black beak.",
+                    "indo": "burung kecil ini memiliki ciri khas belang hitam putih menutupi seluruh tubuhnya, dengan paruh tipis berwarna hitam."
+                },
+                {
+                    "english": "this is a small bird that has black and white stripes on its head and body.",
+                    "indo": "Ini adalah burung kecil yang memiliki garis-garis hitam putih di kepala dan badannya."
+                },
+                {
+                    "english": "a small bird has a black and white striped pattern on it's whole body.",
+                    "indo": "seekor burung kecil mempunyai pola garis-garis hitam putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "this is a black and white striped bird with a white eyebrow.",
+                    "indo": "ini adalah burung bergaris hitam putih dengan alis putih."
+                },
+                {
+                    "english": "this small bird is black and white with a pointed black beak and black feet.",
+                    "indo": "burung kecil ini berwarna hitam putih dengan paruh hitam runcing dan kaki hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a rotund body",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai tubuh yang bulat"
+                },
+                {
+                    "english": "a black and white stripe bird with a short tail and short skinny legs.",
+                    "indo": "burung belang hitam putih dengan ekor pendek dan kaki kurus pendek."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has a black and white crown as well as a white belly",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam putih dan perut berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has stripes on them",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai garis-garis"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0089_160370.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has a white breast, brown and white coloring on its head and wings, and a thin pointy beak.",
+                    "indo": "burung ini memiliki dada berwarna putih, warna coklat putih pada kepala dan sayapnya, serta paruh tipis dan runcing."
+                },
+                {
+                    "english": "this is a white bird with black streaks and a pointy beak.",
+                    "indo": "ini adalah burung berwarna putih dengan guratan hitam dan paruh runcing."
+                },
+                {
+                    "english": "this bird has a long brown bill, a white eyebrow, and a black crown.",
+                    "indo": "burung ini mempunyai paruh panjang berwarna coklat, alis berwarna putih, dan mahkota berwarna hitam."
+                },
+                {
+                    "english": "a bird with a small, slender bill, white eyebrow, and white breast.",
+                    "indo": "burung dengan paruh kecil ramping, alis putih, dan dada putih."
+                },
+                {
+                    "english": "this bird has a mix of stripes/blotted black feathers on its back and wings, with a belly consisting of white, with a slight hint of grey.",
+                    "indo": "Burung ini memiliki perpaduan bulu belang/bercak hitam pada punggung dan sayapnya, dengan perut berwarna putih dengan sedikit warna abu-abu."
+                },
+                {
+                    "english": "a white chested bird with a long pointy beak and black on its head and wing feathers.",
+                    "indo": "burung berdada putih dengan paruh panjang runcing serta bulu kepala dan sayap berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "the bird is small with a pointed bill, the head is large compared to the body, and the breast is white.",
+                    "indo": "burungnya kecil dengan paruh runcing, kepalanya besar dibandingkan badannya, dan dadanya berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this is a small white bird, with splashed of black on its sides and wings, with a pointed bill.",
+                    "indo": "Ini adalah burung kecil berwarna putih, dengan cipratan warna hitam di sisi dan sayapnya, dengan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0090_160247.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird with a mix of black and white covering its entire body.",
+                    "indo": "seekor burung kecil dengan perpaduan warna hitam dan putih menutupi seluruh tubuhnya."
+                },
+                {
+                    "english": "the small bird has a black and white striped appearance and a skinny short beak.",
+                    "indo": "Burung kecil ini berpenampilan bergaris hitam putih dan paruh pendek kurus."
+                },
+                {
+                    "english": "a small bird with black eyes and cheek patch, white breast and belly has white and black stripes all over.",
+                    "indo": "seekor burung kecil dengan mata dan penutup pipi berwarna hitam, dada dan perut berwarna putih, memiliki garis-garis putih dan hitam di sekujur tubuhnya."
+                },
+                {
+                    "english": "this bird has a white abdomen, black stripes throughout the rest of its body, and a black bill.",
+                    "indo": "burung ini memiliki perut berwarna putih, garis-garis hitam di seluruh tubuhnya, dan paruh berwarna hitam."
+                },
+                {
+                    "english": "a medium sized black and white striped feathered bird, with a white eye patch, white belly, short tail, and two black wing bars.",
+                    "indo": "burung berbulu loreng hitam putih berukuran sedang, dengan penutup mata berwarna putih, perut berwarna putih, ekor pendek, dan dua garis sayap berwarna hitam."
+                },
+                {
+                    "english": "this small bodied bird has a short very pointed black beak and features a black and white striped body with white highlights around the eyes and a mostly white breast area.",
+                    "indo": "Burung bertubuh kecil ini memiliki paruh pendek berwarna hitam yang sangat runcing dan memiliki ciri tubuh bergaris hitam putih dengan sentuhan warna putih di sekitar mata dan sebagian besar area dada berwarna putih."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this is a black and white striped bird with a narrow, pointed beak.",
+                    "indo": "ini adalah burung bergaris hitam putih dengan paruh sempit dan runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0091_160896.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has a white breast and belly with a black crown.",
+                    "indo": "burung ini memiliki dada dan perut berwarna putih dengan mahkota berwarna hitam."
+                },
+                {
+                    "english": "the bird has a black eyering and a clear bill.",
+                    "indo": "burung itu mempunyai cincin mata hitam dan paruh bening."
+                },
+                {
+                    "english": "this is a bird with a white belly and black streaks on its back.",
+                    "indo": "ini adalah burung dengan perut berwarna putih dan guratan hitam di punggungnya."
+                },
+                {
+                    "english": "this bird has grey wings, a white belly and chest, and one thin white wing bar.",
+                    "indo": "burung ini mempunyai sayap berwarna abu-abu, perut dan dada berwarna putih, serta satu garis sayap tipis berwarna putih."
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "this monochromatic bird has a white belly, a grey bill, and black-and-white-striped back, wings, and crown.",
+                    "indo": "burung monokromatik ini memiliki perut berwarna putih, paruh berwarna abu-abu, serta punggung, sayap, dan mahkota bergaris hitam-putih."
+                },
+                {
+                    "english": "this bird has white and black striped secondaries, a grey vent and belly and a white eye ring.",
+                    "indo": "burung ini mempunyai bulu sekunder bergaris putih dan hitam, lubang dan perut berwarna abu-abu, serta cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this small bird has white and black feathers.",
+                    "indo": "burung kecil ini memiliki bulu berwarna putih dan hitam."
+                },
+                {
+                    "english": "the bird has a small bill and a striped black and white back.",
+                    "indo": "burung itu mempunyai paruh kecil dan punggung bergaris hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0095_160406.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a little bird covered in white and black stripes over the whole body with a long black bill.",
+                    "indo": "seekor burung kecil bergaris-garis putih dan hitam di sekujur tubuhnya dengan paruh hitam panjang."
+                },
+                {
+                    "english": "the colorful bird has a white belly with the rest of its body being striped white and black, with a long thin beak and tail.",
+                    "indo": "burung berwarna-warni ini memiliki perut berwarna putih dengan sisa tubuh bergaris putih hitam, dengan paruh dan ekor yang panjang dan tipis."
+                },
+                {
+                    "english": "this bird has white abdomen with a black colored covert with streaks of white along its whole wings and rectrices.",
+                    "indo": "Burung ini memiliki perut berwarna putih dengan bulu berwarna hitam dengan guratan putih di sepanjang sayapnya dan rectrices."
+                },
+                {
+                    "english": "small bird with a white belly and striped black and white back and crown.",
+                    "indo": "burung kecil dengan perut putih dan punggung serta mahkota bergaris hitam putih."
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "this small bird has a short black bill and a black and white belly.",
+                    "indo": "burung kecil ini memiliki paruh pendek berwarna hitam dan perut berwarna hitam putih."
+                },
+                {
+                    "english": "a small bird with distinctive black and white stripes on head, wings and belly.",
+                    "indo": "seekor burung kecil dengan garis-garis khas hitam putih di kepala, sayap dan perut."
+                },
+                {
+                    "english": "this bird has black and white stripes all throughout its body and head and its beak is thin and pointed.",
+                    "indo": "burung ini memiliki garis-garis hitam putih di sekujur tubuh dan kepalanya serta paruhnya tipis dan runcing."
+                },
+                {
+                    "english": "this bird is black and white in color with a large belly",
+                    "indo": "burung ini berwarna hitam putih dengan perut yang besar"
+                },
+                {
+                    "english": "this bird has a black crown with white eyebrows and white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dengan alis berwarna putih dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0098_160808.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small bird with black and white feathers, a pointed beak, and tiny black eyes.",
+                    "indo": "seekor burung kecil dengan bulu hitam putih, paruh runcing, dan mata hitam kecil."
+                },
+                {
+                    "english": "this little bird has a white belly and breast, with black strips on its crown and superciliary areas.",
+                    "indo": "Burung kecil ini memiliki perut dan dada berwarna putih, dengan garis-garis hitam di bagian ubun-ubun dan daerah superciliary."
+                },
+                {
+                    "english": "the bird has a black eyering and a small black bill.",
+                    "indo": "burung itu memiliki cincin mata hitam dan paruh kecil berwarna hitam."
+                },
+                {
+                    "english": "this is a medium to smaller bird with a grey body and some defined black striping in the wings and head.",
+                    "indo": "ini adalah burung berukuran sedang hingga lebih kecil dengan tubuh abu-abu dan beberapa garis hitam di sayap dan kepala."
+                },
+                {
+                    "english": "this small bird has streaks of grey, black, and white.",
+                    "indo": "burung kecil ini memiliki corak warna abu-abu, hitam, dan putih."
+                },
+                {
+                    "english": "this bird's wingbars are white and his secondaries are gray.",
+                    "indo": "garis sayap burung ini berwarna putih dan sayap sekundernya berwarna abu-abu."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "small black and white bird, black and white stripes on head.",
+                    "indo": "burung kecil berwarna hitam putih, garis-garis hitam putih di kepala."
+                },
+                {
+                    "english": "the bird is small with a pointed bill, has striping on its head and black and white all over.",
+                    "indo": "Burung ini berukuran kecil dengan paruh runcing, memiliki garis-garis di kepala dan seluruh tubuhnya berwarna hitam putih."
+                },
+                {
+                    "english": "a small bird, black and white colored, with a pointed bill.",
+                    "indo": "seekor burung kecil, berwarna hitam putih, dengan paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0102_160073.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a bird with a small pointed bill, white eyebrow and eyering, and striped brown, black and white belly.",
+                    "indo": "burung dengan paruh kecil runcing, alis dan cincin mata berwarna putih, serta perut bergaris coklat, hitam dan putih."
+                },
+                {
+                    "english": "the bird has black and white variegated feathers with a black crown and slender beak.",
+                    "indo": "burung ini memiliki bulu beraneka warna hitam putih dengan mahkota hitam dan paruh ramping."
+                },
+                {
+                    "english": "a bird with black tail, the bill is long and pointed, white and black covering its rest of the body",
+                    "indo": "burung berekor hitam, paruhnya panjang dan runcing, berwarna putih dan hitam menutupi seluruh tubuhnya"
+                },
+                {
+                    "english": "this bird has a light grey color on it's body with some streaks of brown and black all over.",
+                    "indo": "burung ini mempunyai warna abu-abu muda pada tubuhnya dengan beberapa guratan coklat dan hitam di sekujur tubuhnya."
+                },
+                {
+                    "english": "a medium sized bird with a bill that curves downwards, and a grey belly",
+                    "indo": "burung berukuran sedang dengan paruh melengkung ke bawah, dan perut berwarna abu-abu"
+                },
+                {
+                    "english": "this bird is brown with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna coklat dengan warna putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this bird has multiple colored feathers of black, white, and grey, it's a smaller bird with a pointy beak.",
+                    "indo": "burung ini memiliki bulu beraneka warna yaitu hitam, putih, dan abu-abu, burung ini berukuran lebih kecil dengan paruh yang runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a striped belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai perut yang belang"
+                },
+                {
+                    "english": "this particular bird has a belly that is white and has patches of black",
+                    "indo": "burung ini memiliki perut yang berwarna putih dan memiliki bercak hitam"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white crown",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan mempunyai mahkota berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0106_160014.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has a small bill that is black as well as a white breast.",
+                    "indo": "burung tersebut memiliki paruh kecil berwarna hitam dan dada berwarna putih."
+                },
+                {
+                    "english": "this is a white bird with black streaks on it.",
+                    "indo": "ini adalah burung berwarna putih dengan guratan hitam di atasnya."
+                },
+                {
+                    "english": "the bird has a white belly and chest with a white and black striped body.",
+                    "indo": "burung ini memiliki perut dan dada berwarna putih dengan tubuh bergaris putih dan hitam."
+                },
+                {
+                    "english": "white bird with black feathers and white wing bars and a black crown.",
+                    "indo": "burung putih dengan bulu hitam dan garis sayap putih serta mahkota hitam."
+                },
+                {
+                    "english": "the bird has a black and white crown and a black eyering.",
+                    "indo": "burung itu memiliki mahkota hitam putih dan cincin mata hitam."
+                },
+                {
+                    "english": "the bird is mainly white with black streaks across is wings and back.",
+                    "indo": "burung ini sebagian besar berwarna putih dengan garis-garis hitam di sayap dan punggungnya."
+                },
+                {
+                    "english": "this is an all white bird with black spots and black, beady eyes. it has a worm inside of it's short, pointed bill.",
+                    "indo": "ini adalah burung yang serba putih dengan bintik hitam dan mata hitam seperti manik-manik. ada cacing di dalam paruhnya yang pendek dan runcing."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has a white belly with black eyes and a black crown.",
+                    "indo": "burung ini memiliki perut berwarna putih dengan mata hitam dan mahkota berwarna hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0109_160245.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "grey bird with black feathers with black stripes on the top and black dots on the bottom and a black beak.",
+                    "indo": "burung berwarna abu-abu dengan bulu berwarna hitam dengan garis-garis hitam di bagian atas dan titik-titik hitam di bagian bawah serta paruh berwarna hitam."
+                },
+                {
+                    "english": "this is a bird with black spots on it and a long pointy beak.",
+                    "indo": "ini adalah burung dengan bintik hitam di atasnya dan paruh runcing panjang."
+                },
+                {
+                    "english": "this little bird is smaller than most and has a unique, spotted coat that resembles a dalmatian dog, black and white.",
+                    "indo": "burung kecil ini lebih kecil dari kebanyakan burung dan memiliki bulu bintik-bintik unik yang menyerupai anjing dalmatian, berwarna hitam dan putih."
+                },
+                {
+                    "english": "this little bird has a speckled gray appearance with a black wing and white wingbar.",
+                    "indo": "Burung kecil ini berpenampilan abu-abu berbintik dengan sayap berwarna hitam dan garis sayap berwarna putih."
+                },
+                {
+                    "english": "this small bird has very distinctive undertail coverts, they are light grey colored with black oval shapes throughout.",
+                    "indo": "Burung kecil ini memiliki bulu bagian bawah yang sangat khas, berwarna abu-abu muda dengan bentuk lonjong hitam di seluruh bagiannya."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "a bird with a black bill, white breast and black and white secondaries.",
+                    "indo": "burung dengan paruh hitam, dada putih, dan bulu sekunder hitam putih."
+                },
+                {
+                    "english": "this colorful bird gray all over black spot black legs and black eyes",
+                    "indo": "burung berwarna abu-abu ini seluruhnya bercak hitam, kaki hitam, dan matanya hitam"
+                },
+                {
+                    "english": "the bird has a spotted belly that is grey and a small bill.",
+                    "indo": "burung ini memiliki perut berbintik berwarna abu-abu dan paruh kecil."
+                },
+                {
+                    "english": "a small bird with a light grey belly and breast and pointed beak.",
+                    "indo": "seekor burung kecil dengan perut dan dada berwarna abu-abu muda serta paruh runcing."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0111_160342.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a white bird with black stripes and a black pointy beak.",
+                    "indo": "ini adalah burung berwarna putih dengan garis-garis hitam dan paruh runcing hitam."
+                },
+                {
+                    "english": "black and white feathers across entire bird with long pointed beak that is black",
+                    "indo": "bulu hitam putih di seluruh burung dengan paruh runcing panjang berwarna hitam"
+                },
+                {
+                    "english": "this small bird contains a very small head, but fairly large beak compared to the size of its body, and black and white feathers in a striped and speckled pattern throughout its body.",
+                    "indo": "Burung berukuran kecil ini memiliki kepala yang sangat kecil, namun paruh yang cukup besar dibandingkan dengan ukuran tubuhnya, serta bulu berwarna hitam putih dengan pola garis-garis dan berbintik-bintik di seluruh tubuhnya."
+                },
+                {
+                    "english": "this black and white striped bird has a long thin black beak.",
+                    "indo": "burung belang hitam putih ini mempunyai paruh panjang berwarna hitam tipis."
+                },
+                {
+                    "english": "this bird has a black crown with majority of its body covered in white.",
+                    "indo": "burung ini memiliki mahkota berwarna hitam dengan sebagian besar tubuhnya ditutupi warna putih."
+                },
+                {
+                    "english": "this bird is black with white and has a long, pointy beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this particular bird has a white belly and black and white sides",
+                    "indo": "burung ini memiliki perut berwarna putih dan sisi berwarna hitam putih"
+                },
+                {
+                    "english": "the bird has striped wingbars and a large black bill",
+                    "indo": "burung itu memiliki garis sayap bergaris dan paruh besar berwarna hitam"
+                },
+                {
+                    "english": "this is a black and white bird with stripes throughout its body, and it has a pointed black beak",
+                    "indo": "Ini adalah burung berwarna hitam putih dengan garis-garis di sekujur tubuhnya, dan paruhnya berwarna hitam runcing"
+                },
+                {
+                    "english": "this bird has a black crown, black and white primaries, and a white belly.",
+                    "indo": "burung ini mempunyai mahkota berwarna hitam, bulu primer berwarna hitam putih, dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0114_160537.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a black and white bird with a black bill.",
+                    "indo": "seekor burung hitam putih dengan paruh hitam."
+                },
+                {
+                    "english": "the bird has a black bill that is small and thin.",
+                    "indo": "burung ini memiliki paruh berwarna hitam yang kecil dan tipis."
+                },
+                {
+                    "english": "this small bird is black and white with a small black bill.",
+                    "indo": "burung kecil ini berwarna hitam putih dengan paruh kecil berwarna hitam."
+                },
+                {
+                    "english": "the small bird has a mix of black and white feathers, a large tail, and a sharp small beak.",
+                    "indo": "burung kecil ini memiliki bulu campuran hitam putih, ekor besar, dan paruh kecil runcing."
+                },
+                {
+                    "english": "this bird has black and white stripes all over it",
+                    "indo": "burung ini memiliki garis-garis hitam putih di sekujur tubuhnya"
+                },
+                {
+                    "english": "a small white and black bird with striped alternating striped coloring and black bill.",
+                    "indo": "seekor burung kecil berwarna putih dan hitam dengan warna belang bergantian dan paruh hitam."
+                },
+                {
+                    "english": "this bird has black and white secondaries, white wing bars, and speckled black and white feathers on its chest.",
+                    "indo": "burung ini memiliki sayap bulu sekunder berwarna hitam putih, garis sayap berwarna putih, dan bulu berbintik hitam putih di dadanya."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "the small bird has a black and white striped back and belly.",
+                    "indo": "burung kecil ini memiliki punggung dan perut bergaris hitam putih."
+                },
+                {
+                    "english": "this small bird is white and black with its feet, crown and pointed beak being black.",
+                    "indo": "burung kecil ini berwarna putih dan hitam dengan kaki, mahkota dan paruh runcing berwarna hitam."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0115_160654.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has complex patches of black and white through its body and a tiny sharp beak.",
+                    "indo": "burung ini memiliki bercak hitam putih yang rumit di seluruh tubuhnya dan paruh kecil yang tajam."
+                },
+                {
+                    "english": "gray and white speckled bird, black tuft on head, black cheek patch.",
+                    "indo": "burung berbintik abu-abu putih, jambul hitam di kepala, bercak hitam di pipi."
+                },
+                {
+                    "english": "small bird with small flat brown beak black and white belly and wings.",
+                    "indo": "burung kecil dengan paruh kecil berwarna coklat, perut dan sayap berwarna hitam putih."
+                },
+                {
+                    "english": "this is a black and white bird with a white eyering and a black and white belly",
+                    "indo": "ini adalah burung hitam putih dengan cincin mata putih dan perut hitam putih"
+                },
+                {
+                    "english": "a small bird with multicolored black and white feathers and a black beak.",
+                    "indo": "seekor burung kecil dengan bulu hitam putih beraneka warna dan paruh hitam."
+                },
+                {
+                    "english": "this is a small bird with black and white coloring, a small head, and a very straight beak.",
+                    "indo": "Ini adalah burung kecil dengan warna hitam putih, kepala kecil, dan paruh sangat lurus."
+                },
+                {
+                    "english": "black and white, this bird has striped wings and a speckled belly.",
+                    "indo": "berwarna hitam putih, burung ini mempunyai sayap bergaris dan perut berbintik."
+                },
+                {
+                    "english": "black and white spotted bird with a small brown beak",
+                    "indo": "burung berbintik hitam putih dengan paruh kecil berwarna coklat"
+                },
+                {
+                    "english": "this small bird has a sharp bill and black and white stripes",
+                    "indo": "burung kecil ini memiliki paruh yang runcing dan belang hitam putih"
+                },
+                {
+                    "english": "a black and white striped and speckled belly, with two white wingbars.",
+                    "indo": "perut bergaris hitam putih dan berbintik-bintik, dengan dua garis sayap berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0117_160369.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "white bird with black stripes across the top of the head and the tail.",
+                    "indo": "burung berwarna putih dengan garis-garis hitam di bagian atas kepala dan ekor."
+                },
+                {
+                    "english": "a black and white striped bird with white eyebrows, a black crown and short black bill.",
+                    "indo": "burung bergaris hitam putih dengan alis putih, mahkota hitam, dan paruh hitam pendek."
+                },
+                {
+                    "english": "a small bird that has a solid white throat and belly, with black stripes along its white wings and back.",
+                    "indo": "burung kecil yang tenggorokan dan perutnya berwarna putih solid, dengan garis-garis hitam di sepanjang sayap dan punggungnya yang putih."
+                },
+                {
+                    "english": "bird with brown and white beak, black eye, white breast, belly and abdomen, gray tarsus and feet",
+                    "indo": "burung dengan paruh coklat putih, mata hitam, dada putih, perut dan perut, tarsus dan kaki abu-abu"
+                },
+                {
+                    "english": "this bird has a black crown, a white throat, and a short bill",
+                    "indo": "burung ini memiliki mahkota berwarna hitam, tenggorokan berwarna putih, dan paruh pendek"
+                },
+                {
+                    "english": "this bird has white and black stripes, a white and black crown, and a very small bill.",
+                    "indo": "burung ini memiliki garis-garis putih dan hitam, mahkota putih dan hitam, dan paruh yang sangat kecil."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a short bill",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan mempunyai paruh yang pendek"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird is black and white in color, with a black beak.",
+                    "indo": "burung ini berwarna hitam putih, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird has a white eyering with a white and black back and a white belly.",
+                    "indo": "Burung ini mempunyai cincin mata berwarna putih dengan punggung berwarna putih kehitaman serta perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0118_160363.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "the bird has small beak when compared to its body, it has black throat, and white breast and belly.",
+                    "indo": "burung ini memiliki paruh yang kecil jika dibandingkan dengan tubuhnya, tenggorokannya berwarna hitam, serta dada dan perutnya berwarna putih."
+                },
+                {
+                    "english": "this is a white bird with black spots and a small black beak.",
+                    "indo": "ini adalah burung berwarna putih dengan bintik hitam dan paruh kecil berwarna hitam."
+                },
+                {
+                    "english": "a small bird with white base and black stripes throughout its belly, head, and feathers.",
+                    "indo": "burung kecil dengan pangkal berwarna putih dan garis-garis hitam di seluruh perut, kepala, dan bulunya."
+                },
+                {
+                    "english": "a small, white bird with a black-striped pattern on its feathers--excluding its belly and part of its chest.",
+                    "indo": "burung kecil berwarna putih dengan pola garis-garis hitam pada bulunya--tidak termasuk perut dan sebagian dadanya."
+                },
+                {
+                    "english": "the bird has a white breast and belly with a zebra striped back and head.",
+                    "indo": "burung ini memiliki dada dan perut berwarna putih dengan punggung dan kepala bergaris zebra."
+                },
+                {
+                    "english": "this bird has a white breast with black and white stripes over its body and face, a pointed beak, and dark black eyes.",
+                    "indo": "burung ini memiliki dada berwarna putih dengan garis-garis hitam putih di badan dan wajahnya, paruh runcing, dan mata berwarna hitam pekat."
+                },
+                {
+                    "english": "the bird has a striped wing bar that is black and white and a black bill.",
+                    "indo": "Burung ini mempunyai garis sayap bergaris yang berwarna hitam putih dan paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird has black and white striped wings, a white belly and rump, and a black cheek patch.",
+                    "indo": "burung ini mempunyai sayap bergaris hitam putih, perut dan pantat berwarna putih, serta bercak pipi berwarna hitam."
+                },
+                {
+                    "english": "a small round bird with a short beak and black stripes across the predominately white body",
+                    "indo": "burung bulat kecil dengan paruh pendek dan garis-garis hitam di seluruh tubuhnya yang didominasi warna putih"
+                },
+                {
+                    "english": "the bird has a straight dark toned beak with a white belly, the backside or wingbars are mixed black and white sloppy stripes.",
+                    "indo": "Burung ini memiliki paruh lurus berwarna gelap dengan perut berwarna putih, bagian belakang atau garis sayap terdapat garis-garis acak-acakan hitam putih bercampur."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0119_160898.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "bird with large mouth, black and beige feathers on the body, and long beak.",
+                    "indo": "burung bermulut besar, bulu di badan berwarna hitam krem, dan paruh panjang."
+                },
+                {
+                    "english": "a small bird with a white belly, and a small bill",
+                    "indo": "seekor burung kecil dengan perut putih, dan paruh kecil"
+                },
+                {
+                    "english": "bird has striped body feathers, white breast feather, and long beak",
+                    "indo": "Burung ini mempunyai bulu badan yang belang, bulu dada berwarna putih, dan paruh yang panjang"
+                },
+                {
+                    "english": "this is a bird with a white breast, black striped head and side and long pointy white beak.",
+                    "indo": "ini adalah burung dengan dada berwarna putih, kepala dan samping bergaris hitam, serta paruh panjang dan runcing berwarna putih."
+                },
+                {
+                    "english": "this is a small, white bird with black stripes on the sides, crown, and wingbars.",
+                    "indo": "ini adalah burung kecil berwarna putih dengan garis-garis hitam di bagian samping, mahkota, dan garis sayap."
+                },
+                {
+                    "english": "this bird has wings that are black and white with a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dengan perut berwarna putih"
+                },
+                {
+                    "english": "the small bird has a large black eye, with a black and gray striped back and nape.",
+                    "indo": "burung kecil mempunyai mata hitam besar, dengan punggung dan tengkuk bergaris hitam abu-abu."
+                },
+                {
+                    "english": "this bird is grey with black and has a long, pointy beak.",
+                    "indo": "burung ini berwarna abu-abu kehitaman dan mempunyai paruh yang panjang dan runcing."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black spots",
+                    "indo": "burung yang satu ini mempunyai perut yang berwarna putih dengan bintik-bintik hitam"
+                },
+                {
+                    "english": "this bird has a grey and white crown, grey and white primaries, and a white belly.",
+                    "indo": "burung ini memiliki mahkota berwarna abu-abu putih, primal abu-abu putih, dan perut berwarna putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0122_160106.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird has black and white stripes through out it's entire body.",
+                    "indo": "burung ini memiliki garis-garis hitam putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "a fat bird has black and white streaks all over it.",
+                    "indo": "seekor burung gemuk memiliki garis-garis hitam dan putih di sekujur tubuhnya."
+                },
+                {
+                    "english": "this bird has a short gray bill, black feet, and a black and white crown.",
+                    "indo": "burung ini memiliki paruh pendek berwarna abu-abu, kaki berwarna hitam, dan mahkota berwarna hitam putih."
+                },
+                {
+                    "english": "a medium sized bird with a multicored body, and a bill that curves downwards",
+                    "indo": "burung berukuran sedang dengan tubuh berinti banyak, dan paruh melengkung ke bawah"
+                },
+                {
+                    "english": "this bird is black and white in color with a small beak, and white eye rings.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh kecil, dan cincin mata berwarna putih."
+                },
+                {
+                    "english": "this bird contains black and white feathers covering its entire body in a striped pattern.",
+                    "indo": "burung ini memiliki bulu berwarna hitam putih yang menutupi seluruh tubuhnya dengan pola belang."
+                },
+                {
+                    "english": "this particular bird has a belly that is black and white",
+                    "indo": "burung ini memiliki perut yang berwarna hitam dan putih"
+                },
+                {
+                    "english": "a fat yet small bird with zebra stripes on body.",
+                    "indo": "seekor burung gemuk namun kecil dengan garis-garis zebra di tubuhnya."
+                },
+                {
+                    "english": "this particular bird has a belly that is black and white",
+                    "indo": "burung ini memiliki perut yang berwarna hitam dan putih"
+                },
+                {
+                    "english": "a bird with black and white striped breast and side with black primaries and a white striped crown.",
+                    "indo": "burung dengan dada dan samping bergaris hitam putih dengan warna bulu primer hitam dan mahkota bergaris putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0125_160482.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this bird is small and black and white striped with jet black eyes.",
+                    "indo": "burung ini berukuran kecil bergaris hitam putih dengan mata berwarna hitam legam."
+                },
+                {
+                    "english": "a small bird that is black and white striped all over.",
+                    "indo": "seekor burung kecil yang seluruh tubuhnya bergaris hitam putih."
+                },
+                {
+                    "english": "a small bird with a white belly, and a bill that curves downwards",
+                    "indo": "seekor burung kecil dengan perut berwarna putih, dan paruh melengkung ke bawah"
+                },
+                {
+                    "english": "this bird has a speckled belly and breast with a short pointy bill.",
+                    "indo": "burung ini mempunyai perut dan dada berbintik-bintik dengan paruh pendek dan runcing."
+                },
+                {
+                    "english": "bird with black eye, and brown tarsus and feet, and white belly and abdomen, and brown and black beak",
+                    "indo": "burung bermata hitam, tarsus dan kaki berwarna coklat, perut dan perut berwarna putih, serta paruh berwarna coklat dan hitam"
+                },
+                {
+                    "english": "small bird that is covered in black and white stripes from head to toe. chest is white.",
+                    "indo": "burung kecil yang ditutupi garis-garis hitam putih dari ujung kepala sampai ujung kaki. dada berwarna putih."
+                },
+                {
+                    "english": "this small bird has a bright white belly going into the abdominal area, the breast area is black and white throughout, with short tarsus and brown feet.",
+                    "indo": "Burung kecil ini memiliki perut berwarna putih cerah hingga ke area perut, seluruh area dada berwarna hitam putih, dengan tarsus pendek dan kaki berwarna coklat."
+                },
+                {
+                    "english": "this particular bird has a belly that is white with brown patches on the sides",
+                    "indo": "burung ini memiliki perut berwarna putih dengan bercak coklat di sisinya"
+                },
+                {
+                    "english": "this small bird has zebra stripes all over it.",
+                    "indo": "burung kecil ini memiliki garis-garis zebra di sekujur tubuhnya."
+                },
+                {
+                    "english": "this bird has a pointed black bill, with a black and white breast.",
+                    "indo": "burung ini mempunyai paruh yang runcing berwarna hitam, dengan dada berwarna hitam putih."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0127_160031.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "a small, bright white breasted bird with black and white striped wings.",
+                    "indo": "seekor burung kecil berdada putih cerah dengan sayap bergaris hitam putih."
+                },
+                {
+                    "english": "beautiful black and white bird with a sharp point bill with long longs and scales on its feet.",
+                    "indo": "burung cantik berwarna hitam putih dengan paruh runcing dan panjang serta sisik di kakinya."
+                },
+                {
+                    "english": "this is a white bird with black streaks and a pointy black beak.",
+                    "indo": "ini adalah burung berwarna putih dengan guratan hitam dan paruh hitam runcing."
+                },
+                {
+                    "english": "a bird with a small pointed bill white eyebrow black crown and white breast.",
+                    "indo": "burung dengan paruh kecil runcing, alis putih, mahkota hitam, dan dada putih."
+                },
+                {
+                    "english": "the bird has a white belly, while the black and head are of alternating black and white blended feathers.",
+                    "indo": "burung ini memiliki perut berwarna putih, sedangkan bagian hitam dan kepalanya memiliki bulu campuran hitam dan putih yang berselang-seling."
+                },
+                {
+                    "english": "this bird has wings that are black and white and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam putih dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                },
+                {
+                    "english": "this particular bird has a belly that is white with black patches",
+                    "indo": "Burung ini mempunyai perut yang berwarna putih dengan bercak hitam"
+                },
+                {
+                    "english": "this bird is white and black with a white belly and a black crown.",
+                    "indo": "burung ini berwarna putih hitam dengan perut putih dan mahkota hitam."
+                },
+                {
+                    "english": "this bird has wings that are black and has a white belly",
+                    "indo": "burung ini mempunyai sayap yang berwarna hitam dan perutnya berwarna putih"
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0128_160803.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "black and white feathered bird with small round black eyes, short pointed beak and yellow thin claws",
+                    "indo": "burung berbulu hitam putih dengan mata hitam bulat kecil, paruh pendek runcing dan cakar tipis berwarna kuning"
+                },
+                {
+                    "english": "a small bird containing black and white patterns over the top of its belly and wings, except for its belly, which is white.",
+                    "indo": "burung kecil dengan corak hitam putih di bagian atas perut dan sayapnya, kecuali perutnya yang berwarna putih."
+                },
+                {
+                    "english": "this is small bird with black and white striples all over its body, and a very small beak.",
+                    "indo": "ini adalah burung kecil dengan garis-garis hitam putih di sekujur tubuhnya, dan paruh yang sangat kecil."
+                },
+                {
+                    "english": "this small bird has a black and white head, a while breast, and wings that are black, white, and brown.",
+                    "indo": "Burung kecil ini memiliki kepala berwarna hitam putih, dada agak besar, dan sayap berwarna hitam, putih, dan coklat."
+                },
+                {
+                    "english": "this is a bird with a white bird with black stripes and a white eyebrow.",
+                    "indo": "ini adalah burung dengan burung berwarna putih bergaris hitam dan alis berwarna putih."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this small bird has a white eyebrow and black crown, white belly and black wings with white spots.",
+                    "indo": "burung kecil ini mempunyai alis berwarna putih dan mahkota berwarna hitam, perut berwarna putih dan sayap berwarna hitam dengan bintik-bintik putih."
+                },
+                {
+                    "english": "this black and white bird has a very tiny gray bill.",
+                    "indo": "burung berwarna hitam putih ini memiliki paruh berwarna abu-abu yang sangat kecil."
+                },
+                {
+                    "english": "bird with black and white stripes, short pointed beak, white superciliary and white belly.",
+                    "indo": "burung bergaris hitam putih, paruh pendek runcing, superciliary putih, dan perut putih."
+                },
+                {
+                    "english": "a black and white spotted bird with a short beak.",
+                    "indo": "burung berbintik hitam putih dengan paruh pendek."
+                }
+            ]
+        },
+        {
+            "filename": "Black_And_White_Warbler_0135_160334.jpg",
+            "class_id": 158,
+            "captions": [
+                {
+                    "english": "this is a black and white bird with a long black beak.",
+                    "indo": "ini adalah burung berwarna hitam putih dengan paruh hitam panjang."
+                },
+                {
+                    "english": "this bird has a pointed bill, a spotted breast, and a rounded belly",
+                    "indo": "burung ini mempunyai paruh yang runcing, dada yang berbintik, dan perut yang membulat"
+                },
+                {
+                    "english": "this is a small bird that is white with black stripes throughout its body and head.",
+                    "indo": "Ini adalah burung kecil berwarna putih dengan garis-garis hitam di seluruh tubuh dan kepalanya."
+                },
+                {
+                    "english": "a small bird that has a large bill, and white and black stripes.",
+                    "indo": "burung kecil yang mempunyai paruh besar, dan belang putih hitam."
+                },
+                {
+                    "english": "this bird has a white eye ring and striped black and white body.",
+                    "indo": "burung ini mempunyai cincin mata berwarna putih dan badan bergaris hitam putih."
+                },
+                {
+                    "english": "the thin tarsus on the white and black bird with a short bill",
+                    "indo": "tarsus tipis pada burung berwarna putih dan hitam dengan paruh pendek"
+                },
+                {
+                    "english": "this bird is white and black in color, with a black beak.",
+                    "indo": "burung ini berwarna putih dan hitam, dengan paruh berwarna hitam."
+                },
+                {
+                    "english": "this bird is black with white and has a very short beak.",
+                    "indo": "burung ini berwarna hitam putih dan mempunyai paruh yang sangat pendek."
+                },
+                {
+                    "english": "this bird is black and white with a black beak and white wing guards.",
+                    "indo": "burung ini berwarna hitam putih dengan paruh berwarna hitam dan pelindung sayap berwarna putih."
+                },
+                {
+                    "english": "this small bird has black and white striped wings, and a mostly white belly with black stripes leading up to its head.",
+                    "indo": "burung kecil ini memiliki sayap bergaris hitam putih, dan perut sebagian besar berwarna putih dengan garis hitam mengarah ke kepalanya."
+                }
+            ]
+        }
+    ]
+}
