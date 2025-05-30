@@ -363,8 +363,8 @@
           "indo": "burung hitam gelap dengan paruh runcing tajam tarsus jelas dan kaki tajam"
         },
         {
-          "english": "black crown, nape and back; black winglets; black throat, breast and absomen; short bill, long tarsus",
-          "indo": "mahkota hitam, tengkuk dan punggung; sayap hitam; tenggorokan hitam, dada dan perut; paruh pendek, tarsus panjang"
+          "english": "black crown, nape and back; black winglets; black throat, breast and ; short bill, long tarsus",
+          "indo": "mahkota hitam, tengkuk dan punggung; sayap hitam; tenggorokan hitam, dada dan abdomen; paruh pendek, tarsus panjang"
         }
       ]
     },
@@ -841,7 +841,7 @@
           "indo": "burung berwarna-warni dengan bulu berwarna biru tua dan cerah kecuali sayapnya yang berwarna coklat."
         },
         {
-          "english": "a black and blue bird wita blue belly, dark blue crown and throat, and a blue bill.",
+          "english": "a black and blue bird with a blue belly, dark blue crown and throat, and a blue bill.",
           "indo": "burung berwarna hitam biru dengan perut biru, mahkota dan tenggorokan biru tua, serta paruh biru."
         },
         {
@@ -887,7 +887,7 @@
           "indo": "burung berukuran sedang dengan paruh kecil dan ekor panjang"
         },
         {
-          "english": "a dark bird with a body, coverts, crown, and beak that is dark blue adn primary and secondary wing feathers with black rectrices.",
+          "english": "a dark bird with a body, coverts, crown, and beak that is dark blue and primary and secondary wing feathers with black rectrices.",
           "indo": "burung berwarna gelap dengan badan, bulu, mahkota, dan paruh berwarna biru tua serta bulu sayap bulu primer dan bulu sekunder dengan rectrices  berwarna hitam."
         },
         {
@@ -1221,7 +1221,7 @@
           "indo": "burung ini hampir seluruhnya berwarna hitam dengan paruh yang panjang dan tajam."
         },
         {
-          "english": "this particular bird has a black body witha turquoise/dark blue tint and a long black bill",
+          "english": "this particular bird has a black body with a turquoise/dark blue tint and a long black bill",
           "indo": "burung ini memiliki tubuh berwarna hitam dengan warna pirus/biru tua dan paruh panjang berwarna hitam"
         },
         {
@@ -1995,7 +1995,7 @@
           "indo": "burung itu berwarna biru tua dengan kaki yang panjang dan paruh yang panjang dan tajam"
         },
         {
-          "english": "this bird is mostly iridescent blue wuth a sharp pointy bill.",
+          "english": "this bird is mostly iridescent blue with a sharp pointy bill.",
           "indo": "burung ini sebagian besar berwarna biru dengan paruh yang runcing dan tajam."
         },
         {
@@ -2581,8 +2581,8 @@
       "class_id": 48,
       "captions": [
         {
-          "english": "a shiny black bird with blue coverts and long barsus.",
-          "indo": "burung hitam mengkilat dengan bulu biru dan barsus panjang."
+          "english": "a shiny black bird with blue coverts and long tarsus.",
+          "indo": "burung hitam mengkilat dengan bulu biru dan tarsus panjang."
         },
         {
           "english": "the bird has a black crown and a small bill that is grey.",
