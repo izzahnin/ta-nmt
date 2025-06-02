@@ -50,6 +50,24 @@ tersisa 6.374 kata
 > - Lakukan commit per rentang kata untuk memudahkan pelacakan
 > - Gunakan fitur undo/redo atau version control seperti Git untuk menghindari kehilangan revisi
 
+
+## ⚙️ Catatan Otomatisasi (Untuk Skrip)
+
+Jika kamu menemukan pola kesalahan yang berulang dan bisa diselesaikan dengan skrip, berikut catatan yang telah dibuat di:
+
+📓 `notebooks/replacement.ipynb`
+
+ikuti saja pola yang sudah saya buat
+
+### Contoh Aturan:
+- Jika `eng` adalah **"bid"** dan `indo` adalah **"tawaran"**, maka ubah menjadi `eng = bird`, `indo = burung`
+- Jika `eng = bil` dan `indo = bil` → ganti menjadi `eng = bill`, `indo = paruh`
+- Jika `eng` = **"birs", "bir"** dan `indo` = **"bir"** → ganti `eng = bird`, `indo = burung`
+- Jika `eng = birth` dan `indo = kelahiran / lahir` → ubah ke `eng = bird`, `indo = burung`
+- Cari kata **"black"** pada teks bahasa Indonesia untuk validasi warna
+- Ganti kata: `brow`, `brows`, `eyebrow`, `eyebrows` → **superciliary**
+
+> 💬 *Skrip atau pencocokan otomatis sangat membantu untuk mempercepat validasi dan normalisasi istilah.*
 ---
 
 ## 📘 Daftar Istilah Ornitologi & Padanan Bahasa Indonesia
