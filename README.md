@@ -6,7 +6,7 @@ Dalam proyek ini, terdapat file `kata_diduga_typo.json` yang menyimpan daftar ka
 data/kata_diduga_typo.json
 
 
-File ini digunakan untuk mencari kata-kata bermasalah di korpus hasil penyempurnaan yang berada dalam folder:
+File ini digunakan untuk mencari kata-kata bermasalah baik inggris dan indonesia di korpus hasil penyempurnaan yang berada dalam folder:
 ./parallel_disempurnakan
 
 ---
@@ -28,6 +28,27 @@ Gunakan fitur **Search** di Visual Studio Code dengan langkah berikut:
 ...
 
 Kata tersebut tampak seperti kesalahan ketik (typo) dan perlu divalidasi atau diperbaiki secara manual.
+
+---
+
+## 📊 Progress Pengecekan
+
+Berikut adalah daftar progres pengecekan kata dalam file `kata_diduga_typo.json`:
+
+| Rentang Kata | Status     |
+|--------------|------------|
+| 0 – 1067     | ✅ Selesai |
+| 7442 – 7780  | ✅ Selesai |
+
+tersisa 6.374 kata
+
+> 💡 **Pro Tip!**  
+> Jika kamu ingin memperbaiki kata yang ditemukan, pastikan kamu benar-benar yakin dengan perubahan tersebut.  
+> File yang sedang kamu buka di Visual Studio Code bisa **tertutup otomatis** jika kata yang dicari sudah tergantikan seluruhnya.  
+> Beberapa saran:
+> - Catat atau ingat nama file yang sedang kamu buka
+> - Lakukan commit per rentang kata untuk memudahkan pelacakan
+> - Gunakan fitur undo/redo atau version control seperti Git untuk menghindari kehilangan revisi
 
 ---
 
