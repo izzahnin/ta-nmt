@@ -37,7 +37,7 @@ Berikut adalah daftar progres pengecekan kata dalam file `kata_diduga_typo.json`
 
 | Rentang Kata | Status     |
 |--------------|------------|
-| 0 – 1067     | ✅ Selesai |
+| 0 – 1266     | ✅ Selesai |
 | 7442 – 7780  | ✅ Selesai |
 
 tersisa 6.374 kata
